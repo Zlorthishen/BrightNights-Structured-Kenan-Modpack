@@ -54,8 +54,8 @@ Example commit of mod erasure: [603464b7d4ee27430b84f3625cc4644f4510fb53](https:
 Legendary **UndeadPeople** tileset by SomeDeadGuy, while Theawesomeboophis is it's current maintainer: https://github.com/Theawesomeboophis/UndeadPeopleTileset
 
 # Links to other cool stuff
-1. My HUGE and AWESOME **BL9** mod: https://github.com/Kenan2000/BL9 (included in this modpack for Bright Nights version)
-2. Updated and even more awesome my personal version of Otopack soundpack: https://github.com/Kenan2000/Otopack-Mods-Updates
+1. Kenan's HUGE and AWESOME **BL9** mod: https://github.com/Kenan2000/BL9 (included in this modpack for Bright Nights version)
+2. Kenan's Updated and even more awesome version of Otopack soundpack: https://github.com/Kenan2000/Otopack-Mods-Updates
 3. CO.AG MusicPack Redux: https://discourse.cataclysmdda.org/t/musicpack-co-ag-musicpack-redux-11-dec-2019/18992
 
 ## Link to my CDDA/Bright Nights modding server 
