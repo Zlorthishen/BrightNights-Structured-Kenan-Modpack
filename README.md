@@ -1,7 +1,11 @@
 # BrightNights-Structured-Kenan-Modpack
-Not updated anymore. If you want to play with it, you have to fix it yourself, preferably, via making a fork of it if you don't mind. Kenan's **personal** structured modpack (**IMPORTANT TO SET 'Monster evolution scaling factor' DURING IN-GAME WORLD GENERATION AROUND 5.00 for PROPER GAMEPLAY EXPERIENCE, READ Modpack INSTALLATION Guide, try to NOT enable ALL mods at the same time unless you really want to play with all of mods**) for **LATEST** Cataclysm - Bright Nights versions by Coolthulhu: https://github.com/cataclysmbnteam/Cataclysm-BN/ 
+The *Bright Nights* Kenan modpack (**IMPORTANT TO SET 'Monster evolution scaling factor' DURING IN-GAME WORLD GENERATION AROUND 5.00 for PROPER GAMEPLAY EXPERIENCE, READ Modpack INSTALLATION Guide, try to NOT enable ALL mods at the same time unless you really want to play with all of mods**) for **LATEST** Cataclysm - Bright Nights versions by Coolthulhu: https://github.com/cataclysmbnteam/Cataclysm-BN/ 
 
-**original modpack creator is Chromosome Kun! - thanks to his help, all of this work exists** 
+**current modpack maintainer is Zlorthishen**
+
+**original modpack maintainer was Kenan (Mrsecretguy1)! - thanks to his help, all of this work would have been lost**
+
+**original modpack creator was Chromosome Kun! - thanks to his help, all of this work exists** 
 
 **IF YOU ARE EXPERIENCING ANY BUGS OR ERRORS - EITHER THE FIXES WILL BE RELEASED SOON-ISH OR THE MOD IS WIP**
 
