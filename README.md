@@ -17,7 +17,7 @@
 
 **1. Download and install latest release of Cataclysm fork by **Coolthulhu/BroadFlatNails** - [*Bright Nights*](https://github.com/cataclysmbnteam/Cataclysm-BN/releases)**
 
-**2. Download current modpack by clicking Code - Download ZIP, or simply clicking [**here**](https://github.com/Kenan2000/BrightNights-Structured-Kenan-Modpack/archive/master.zip)**
+**2. Download current modpack by clicking Code - Download ZIP, or simply clicking [**here**](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/master.zip)**
 
 **3. Unpack contents of the downloaded .zip archive into new folder; results should be looking** [**like this**](https://i.imgur.com/UfvpOyV.png)
 
