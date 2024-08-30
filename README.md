@@ -56,7 +56,9 @@ Legendary **UndeadPeople** tileset by SomeDeadGuy, while Theawesomeboophis is it
 # Links to other cool stuff
 1. Kenan's HUGE and AWESOME **BL9** mod: https://github.com/Kenan2000/BL9 (included in this modpack for Bright Nights version)
 2. Kenan's Updated and even more awesome version of Otopack soundpack: https://github.com/Kenan2000/Otopack-Mods-Updates
-3. CO.AG MusicPack Redux: https://discourse.cataclysmdda.org/t/musicpack-co-ag-musicpack-redux-11-dec-2019/18992
+3. Zlorthishen's Really Dark Skies https://github.com/Zlorthishen/Really_Dark_Skies and Arcology Mod https://github.com/Zlorthishen/The_Arcology_Mod
+4. Chaosvolt's Arcana https://github.com/chaosvolt/cdda-arcana-mod
+5. CO.AG MusicPack Redux: https://discourse.cataclysmdda.org/t/musicpack-co-ag-musicpack-redux-11-dec-2019/18992
 
 ## Link to my CDDA/Bright Nights modding server 
 
