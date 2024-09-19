@@ -6,7 +6,8 @@
     "authors": [ "Shard" ],
     "description": "Resets healing speed back to pre-nerf levels, adjusted for turn length change.",
     "category": "rebalance",
-    "dependencies": [ "bn" ]
+    "dependencies": [ "bn" ],
+    "obsolete": true
   },
   {
     "type": "EXTERNAL_OPTION",
