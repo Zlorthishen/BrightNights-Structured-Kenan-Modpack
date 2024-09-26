@@ -1,7 +1,7 @@
 [
   {
     "type": "COMESTIBLE",
-	"comestible_type": "MED",
+    "comestible_type": "MED",
     "id": "meat_shoggoth",
     "name": { "str": "shoggoth heart", "str_pl": "shoggoth meats" },
     "description": "The heart of a shoggoth. You could eat it to master the beast's morphogenic prowess, or you could use it to 'master' the beast in another way.",
@@ -12,9 +12,7 @@
     "material": [ "maid" ],
     "volume": "250 ml",
     "category": "tools",
-	"use_action": {
-		"type": "mutagen_iv", "mutation_category": "SHOGGOTH"
-	}
+    "use_action": { "type": "mutagen_iv", "mutation_category": "SHOGGOTH" }
   },
   {
     "type": "GENERIC",
@@ -50,9 +48,9 @@
     "weight": "1200 g",
     "volume": "250 ml",
     "use_action": {
-      "type": "place_npc",
-      "npc_class_id": "shoggoth_maid",
-      "summon_msg": "The odd meat is released from its glass flask prison and begins to rapidly and violently expand, extending numerous disjointed tentacles in every direction. The tentacles intertwine with each other and transform into an organism, resembling a beautiful woman, not quite like the horrible nightmare creature it used to be. She suddenly speaks up: 'Finally, I am able to meet you like this! Thank you for helping me, master!'",
+      "type": "place_monster",
+      "monster_id": "mon_shoggoth_maid",
+      "friendly_msg": "The odd meat is released from its glass flask prison and begins to rapidly and violently expand, extending numerous disjointed tentacles in every direction. The tentacles intertwine with each other and transform into an organism, resembling a beautiful woman, not quite like the horrible nightmare creature it used to be. She suddenly speaks up: 'Finally, I am able to meet you like this! Thank you for helping me, master!'",
       "place_randomly": false
     }
   },
@@ -90,9 +88,9 @@
     "weight": "1200 g",
     "volume": "250 ml",
     "use_action": {
-      "type": "place_npc",
-      "npc_class_id": "shoggoth_maid",
-      "summon_msg": "'Sorry I kept you waiting, master! I will do my best to serve you and support you to the best of my abilities!'",
+      "type": "place_monster",
+      "monster_id": "mon_shoggoth_maid",
+      "friendly_msg": "'Sorry I kept you waiting, master! I will do my best to serve you and support you to the best of my abilities!'",
       "place_randomly": false
     }
   },
@@ -426,11 +424,3 @@
     }
   }
 ]
-
-
-
-
-
-
-
-
