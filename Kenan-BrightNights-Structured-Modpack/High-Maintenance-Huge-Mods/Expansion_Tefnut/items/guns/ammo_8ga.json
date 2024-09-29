@@ -25,7 +25,7 @@
     "volume": "250 ml",
     "price": "5 USD",
     "price_postapoc": "8 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "material": [ "plastic", "powder" ],
     "symbol": "=",
     "color": "red",
@@ -49,7 +49,7 @@
     "description": "A shotgun shell filled with magnesium pellets or shards, used mostly as a distress flare or pyrotechnics tool.  When the round is fired, high temperature sparks and flames shoot out of the barrel, igniting everything in their path.",
     "price": "10 USD",
     "price_postapoc": "16 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "proportional": { "damage": { "damage_type": "bullet", "amount": 0.2 }, "recoil": 0.6, "loudness": 0.8, "dispersion": 1.2, "range": 0.5 },
     "extend": { "effects": [ "INCENDIARY", "STREAM", "NOGIB" ] }
   },
@@ -61,7 +61,7 @@
     "description": "A shotgun shell filled with tiny steel darts.  Extremely damaging, plus the spread makes it very accurate at short range.  Slices through most forms of armor with ease.",
     "price": "20 USD",
     "price_postapoc": "8 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 10,
     "relative": { "damage": { "damage_type": "bullet", "amount": -6, "armor_penetration": 12 } }
   },
@@ -74,7 +74,7 @@
     "description": "A shotgun shell shooting a small explosive.  Damaging, but rather inaccurate and short ranged.  Banned in several states.",
     "price": "30 USD",
     "price_postapoc": "16 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 5,
     "damage": { "damage_type": "bullet", "amount": 70, "armor_penetration": 0 },
     "extend": { "effects": [ "EXPLOSIVE" ] }
@@ -87,7 +87,7 @@
     "description": "A shotgun shell filled with whatever was lying around.  They are more damaging than birdshot, but fairly inaccurate.",
     "proportional": { "price": 0.4, "damage": { "damage_type": "bullet", "amount": 0.6 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED" ] },
-    "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
+    "delete": { "effects": [ "NEVER_MISFIRES" ] }
   },
   
     {
@@ -98,7 +98,7 @@
     "description": "A heavy metal slug used with shotguns to give them the range capabilities of a rifle.  Extremely damaging but rather inaccurate.",
     "price": "4 USD",
     "price_postapoc": "4 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "dispersion": 100,
     "relative": { "range": 12, "damage": { "damage_type": "bullet", "armor_penetration": 6 } },
     "proportional": { "recoil": 1.4 },

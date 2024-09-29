@@ -12,7 +12,7 @@
     "stack_size": 1,
     "symbol": "!",
     "color": "yellow",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "heal",
       "limb_power": 35,
@@ -78,7 +78,7 @@
     "color": "red",
     "addiction_potential": 99,
     "addiction_type": "amphetamine",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You activate the jet applicator and feel a rush of energy!",
@@ -124,7 +124,7 @@
     "color": "red",
     "addiction_potential": 99,
     "addiction_type": "amphetamine",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You activate the jet applicator and feel a rush of energy!",
@@ -182,7 +182,7 @@
     "color": "red",
     "addiction_potential": 99,
     "addiction_type": "amphetamine",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You inject yourself with psycho and quickly feel a surge of aggression with endurance of a trained soldier!",
@@ -230,7 +230,7 @@
     "stack_size": 2,
     "symbol": "M",
     "color": "pink",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You consume a mentat and feel your synapses start to flood your mind with new information!",
@@ -264,7 +264,7 @@
     "stack_size": 2,
     "symbol": "M",
     "color": "pink",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You take a buffout pill and instantly feel your strength, reflexes with endurance greatly increased!",
@@ -285,7 +285,7 @@
     "symbol": "R",
     "color": "yellow",
     "tool": "syringe",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "use_action": {
       "type": "consume_drug",
       "activation_message": "You activate the radaway.",

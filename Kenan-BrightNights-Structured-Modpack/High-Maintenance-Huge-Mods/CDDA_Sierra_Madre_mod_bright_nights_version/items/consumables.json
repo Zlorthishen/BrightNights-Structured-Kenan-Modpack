@@ -223,7 +223,7 @@
     "healthy": 10,
     "stim": 10,
     "fun": 20,
-    "flags": [ "NO_INGEST", "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NO_INGEST", "NPC_SAFE" ]
   },
   {
     "id": "mentats",
@@ -250,7 +250,7 @@
     "stim": 20,
     "addiction_potential": 10,
     "addiction_type": "opiates",
-    "flags": [ "NO_INGEST", "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NO_INGEST", "NPC_SAFE" ]
   },
   {
     "id": "medx",
@@ -276,7 +276,7 @@
     "stim": 10,
     "addiction_potential": 15,
     "addiction_type": "opiates",
-    "flags": [ "NO_INGEST", "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NO_INGEST", "NPC_SAFE" ]
   },
   {
     "id": "stealth_boy",

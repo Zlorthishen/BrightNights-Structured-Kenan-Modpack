@@ -62,7 +62,7 @@
     "material": [ "steel", "powder" ],
     "volume": "1750 ml",
     "price_postapoc": "20 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "weight": "2600 g",
     "ammo_type": "galance",
     "damage": { "damage_type": "bullet", "amount": 30, "armor_multiplier": 0.1 },
@@ -83,7 +83,7 @@
     "material": [ "steel", "powder" ],
     "volume": "2250 ml",
     "price_postapoc": "40 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "weight": "3500 g",
     "ammo_type": "galance",
     "damage": { "damage_type": "bullet", "amount": 10, "armor_penetration": 10 },
@@ -137,7 +137,7 @@
     "material": [ "steel", "powder" ],
     "volume": "1750 ml",
     "price_postapoc": "20 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "weight": "2700 g",
     "ammo_type": "implance",
     "damage": { "damage_type": "bullet", "amount": 34, "armor_multiplier": 0.2 },
@@ -158,7 +158,7 @@
     "material": [ "steel", "powder" ],
     "volume": "2450 ml",
     "price_postapoc": "40 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "weight": "3800 g",
     "ammo_type": "implance",
     "damage": { "damage_type": "bullet", "amount": 15, "armor_penetration": 10 },
@@ -201,7 +201,7 @@
     "name": { "str": "SH-B Type Mortar Shell" },
     "price": "100 USD",
     "price_postapoc": "60 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "material": [ "steel", "powder" ],
     "symbol": "=",
     "color": "yellow",

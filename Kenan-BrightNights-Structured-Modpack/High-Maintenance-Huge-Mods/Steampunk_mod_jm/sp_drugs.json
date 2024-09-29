@@ -78,7 +78,7 @@
         { "id": "sp_physprow_ef", "duration": 1200 }
       ]
     },
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NPC_SAFE" ]
   },
   {
     "id": "sp_awareton",
@@ -101,7 +101,7 @@
         { "id": "sp_awareton_ef", "duration": 2200 }
       ]
     },
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NPC_SAFE" ]
   },
   {
     "id": "sp_dexton",
@@ -124,7 +124,7 @@
         { "id": "sp_dexton_ef", "duration": 2200 }
       ]
     },
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NPC_SAFE" ]
   },
   {
     "id": "sp_minton",
@@ -147,7 +147,7 @@
         { "id": "sp_minton_ef", "duration": 2200 }
       ]
     },
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NPC_SAFE" ]
   },
   {
     "id": "sp_qpowder",
@@ -170,6 +170,6 @@
         { "id": "sp_qpowder_ef", "duration": 1500 }
       ]
     },
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
+    "flags": [ "NPC_SAFE" ]
   }
 ]

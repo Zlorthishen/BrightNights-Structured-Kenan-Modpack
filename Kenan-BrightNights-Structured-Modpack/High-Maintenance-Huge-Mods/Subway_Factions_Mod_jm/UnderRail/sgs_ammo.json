@@ -26,7 +26,7 @@
     "volume": "320 ml",
     "price": "1 USD",
     "price_postapoc": "10 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "material": [ "water", "glass" ],
     "symbol": "=",
     "color": "yellow",
@@ -49,7 +49,7 @@
     "volume": "220 ml",
     "price": "1 USD",
     "price_postapoc": "10 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "material": [ "brass", "powder" ],
     "symbol": "=",
     "color": "yellow",
@@ -70,7 +70,7 @@
     "name": { "str": "5mm Standard Round, reloaded" },
     "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
-    "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
+    "delete": { "effects": [ "NEVER_MISFIRES" ] }
   },
   {
     "id": "sgs5_bp",
@@ -84,7 +84,7 @@
       "dispersion": 1.2
     },
     "extend": { "effects": [ "RECYCLED", "BLACKPOWDER", "MUZZLE_SMOKE" ] },
-    "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
+    "delete": { "effects": [ "NEVER_MISFIRES" ] }
   },
   {
     "id": "sgs5_jhp",
@@ -94,7 +94,7 @@
     "description": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
     "price": "3 USD",
     "price_postapoc": "8 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 25,
     "relative": { "damage": { "damage_type": "bullet", "armor_penetration": 4 }, "dispersion": -10 },
     "proportional": { "recoil": 1.2 }
@@ -107,7 +107,7 @@
     "description": "A 5mm cartridge commonly seen in usage with low-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
     "price": "3 USD",
     "price_postapoc": "4 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 10,
     "relative": { "damage": { "damage_type": "bullet", "amount": 15, "armor_penetration": 15 }, "dispersion": -20 },
     "proportional": { "recoil": 1.5 }
@@ -131,7 +131,7 @@
     "volume": "260 ml",
     "price": "4 USD",
     "price_postapoc": "10 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "material": [ "brass", "powder" ],
     "symbol": "=",
     "color": "yellow",
@@ -152,7 +152,7 @@
     "name": { "str": "8.6mm Standard Round, reloaded" },
     "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
-    "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
+    "delete": { "effects": [ "NEVER_MISFIRES" ] }
   },
   {
     "id": "sgs86_bp",
@@ -166,7 +166,7 @@
       "dispersion": 1.2
     },
     "extend": { "effects": [ "RECYCLED", "BLACKPOWDER", "MUZZLE_SMOKE" ] },
-    "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
+    "delete": { "effects": [ "NEVER_MISFIRES" ] }
   },
   {
     "id": "sgs86_jhp",
@@ -176,7 +176,7 @@
     "description": "A 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features jacketed hollow point bullet in-lieu of a conventional bullet, increasing stopping power.",
     "price": "3 USD",
     "price_postapoc": "8 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 25,
     "relative": { "damage": { "damage_type": "bullet", "armor_penetration": 4 }, "dispersion": -10 },
     "proportional": { "recoil": 1.2 }
@@ -189,7 +189,7 @@
     "description": "An 8.6mm cartridge commonly seen in usage with high-power firearms common in the underrail. This variant features tungsten carbide bullet in-lieu of a conventional bullet, increasing stopping power.",
     "price": "3 USD",
     "price_postapoc": "4 USD",
-    "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
+    
     "count": 10,
     "relative": { "damage": { "damage_type": "bullet", "amount": 15, "armor_penetration": 15 }, "dispersion": -20 },
     "proportional": { "recoil": 1.5 }
