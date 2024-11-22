@@ -21,7 +21,7 @@
     "warmth": 20,
     "material_thickness": 3,
     "environmental_protection": 2,
-    "flags": [ "VARSIZE", "WATERPROOF", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "WATERPROOF" ]
   },
   {
     "id": "boots_gecko_gold",
@@ -45,7 +45,7 @@
     "warmth": 20,
     "material_thickness": 3,
     "environmental_protection": 3,
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
   },
   {
     "id": "gloves_leather_gecko",
@@ -67,7 +67,7 @@
     "warmth": 25,
     "material_thickness": 1,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "WATERPROOF" ]
   },
   {
     "id": "gloves_leather_gecko_gold",
@@ -90,7 +90,7 @@
     "material_thickness": 1,
     "environmental_protection": 1,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "WATERPROOF", "FANCY", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "WATERPROOF", "FANCY" ]
   },
   {
     "id": "backpack_leather_gecko",
@@ -114,7 +114,7 @@
     "storage": "25 L",
     "warmth": 9,
     "material_thickness": 3,
-    "flags": [ "BELTED", "WATER_FRIENDLY", "ACIDPROOF" ]
+    "flags": [ "BELTED", "WATER_FRIENDLY" ]
   },
   {
     "id": "backpack_leather_gecko_gold",
@@ -139,7 +139,7 @@
     "warmth": 9,
     "material_thickness": 3,
     "environmental_protection": 1,
-    "flags": [ "BELTED", "WATER_FRIENDLY", "FANCY", "ACIDPROOF" ]
+    "flags": [ "BELTED", "WATER_FRIENDLY", "FANCY" ]
   },
   {
     "id": "armguard_leather_gecko",
@@ -161,7 +161,7 @@
     "warmth": 25,
     "material_thickness": 4,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "STURDY", "BELTED", "BLOCK_WHILE_WORN", "WATER_FRIENDLY", "ACIDPROOF" ]
+    "flags": [ "STURDY", "BELTED", "BLOCK_WHILE_WORN", "WATER_FRIENDLY" ]
   },
   {
     "id": "armguard_leather_gecko_gold",
@@ -184,7 +184,7 @@
     "material_thickness": 4,
     "environmental_protection": 1,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "STURDY", "BELTED", "BLOCK_WHILE_WORN", "WATER_FRIENDLY", "FANCY", "ACIDPROOF" ]
+    "flags": [ "STURDY", "BELTED", "BLOCK_WHILE_WORN", "WATER_FRIENDLY", "FANCY" ]
   },
   {
     "id": "armor_leather_gecko",
@@ -208,7 +208,7 @@
     "warmth": 20,
     "material_thickness": 5,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "POCKETS", "STURDY" ]
   },
   {
     "id": "armor_leather_gecko_gold",
@@ -233,8 +233,8 @@
     "material_thickness": 5,
     "environmental_protection": 3,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "STURDY", "FANCY", "ACIDPROOF" ]
-  },
+    "flags": [ "VARSIZE", "POCKETS", "STURDY", "FANCY" ]
+  },	
   {
     "id": "mask_gecko",
     "repairs_like": "mask_gas",
@@ -261,7 +261,7 @@
     "ammo": "gasfilter_m",
     "use_action": "GASMASK",
     "qualities": [ [ "GLARE", 2 ] ],
-    "flags": [ "SUN_GLASSES", "STURDY", "ACIDPROOF"]
+    "flags": [ "SUN_GLASSES", "STURDY" ]
   },
   {
     "id": "mask_gecko_gold",
@@ -289,7 +289,7 @@
     "ammo": "gasfilter_m",
     "use_action": "GASMASK",
     "qualities": [ [ "GLARE", 2 ] ],
-    "flags": [ "SUN_GLASSES", "STURDY", "FANCY", "ACIDPROOF" ]
+    "flags": [ "SUN_GLASSES", "STURDY", "FANCY" ]
   },
   {
     "id": "duster_leather_gecko",
@@ -313,7 +313,7 @@
     "material_thickness": 3,
     "environmental_protection": 1,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER", "WATERPROOF", "RAINPROOF", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER", "WATERPROOF", "RAINPROOF" ]
   },
   {
     "id": "duster_leather_gecko_gold",
@@ -337,6 +337,6 @@
     "material_thickness": 3,
     "environmental_protection": 1,
     "valid_mods": [ "steel_padded" ],
-    "flags": [ "VARSIZE", "POCKETS", "OUTER", "WATERPROOF", "RAINPROOF", "FANCY", "ACIDPROOF" ]
+    "flags": [ "VARSIZE", "POCKETS", "OUTER", "WATERPROOF", "RAINPROOF", "FANCY" ]
   }
 ]
