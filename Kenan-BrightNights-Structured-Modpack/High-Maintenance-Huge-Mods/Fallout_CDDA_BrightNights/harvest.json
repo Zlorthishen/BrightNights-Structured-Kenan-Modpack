@@ -4,6 +4,7 @@
     "type": "harvest",
     "message": "You tear into the mirelurk, dismantling the shell in as neat of chunks as possible.",
     "entries": [
+	  { "drop": "animal_blood", "type": "blood", "mass_ratio": 0.1 },
       { "drop": "meat_mirelurk", "type": "flesh", "mass_ratio": 0.38 },
       { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.02 },
       { "drop": "chitin_piece", "type": "skin", "mass_ratio": 0.1 },
@@ -14,7 +15,8 @@
     "id": "gecko",
     "type": "harvest",
     "entries": [
-      { "drop": "meat_gecko", "type": "flesh", "mass_ratio": 0.3 },
+	  { "drop": "animal_blood", "type": "blood", "mass_ratio": 0.1 },
+      { "drop": "meat", "type": "flesh", "mass_ratio": 0.3 },
       { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.03 },
       { "drop": "lung", "type": "flesh", "mass_ratio": 0.0035 },
       { "drop": "liver", "type": "offal", "mass_ratio": 0.01 },
@@ -24,7 +26,7 @@
       { "drop": "stomach", "scale_num": [ 1, 1 ], "max": 1, "type": "offal" },
       { "drop": "bone", "type": "bone", "mass_ratio": 0.15 },
       { "drop": "sinew", "type": "bone", "mass_ratio": 0.00035 },
-      { "drop": "raw_skin_gecko", "type": "skin", "mass_ratio": 0.02 },
+      { "drop": "raw_skin_gecko", "type": "skin", "mass_ratio": 0.08 },
       { "drop": "fat", "type": "flesh", "mass_ratio": 0.07 },
       { "drop": "eye_gecko", "base_num": [ 0, 2 ], "scale_num": [ 0.6, 0.9 ], "max": 2, "type": "offal" }
     ]
@@ -33,7 +35,8 @@
     "id": "gecko_gold",
     "type": "harvest",
     "entries": [
-      { "drop": "meat_gecko", "type": "flesh", "mass_ratio": 0.3 },
+	  { "drop": "animal_blood", "type": "blood", "mass_ratio": 0.1 },
+      { "drop": "meat", "type": "flesh", "mass_ratio": 0.3 },
       { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.03 },
       { "drop": "lung", "type": "flesh", "mass_ratio": 0.0035 },
       { "drop": "liver", "type": "offal", "mass_ratio": 0.01 },
