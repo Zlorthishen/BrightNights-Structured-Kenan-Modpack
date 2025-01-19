@@ -46,8 +46,7 @@
     "min_damage": 10,
     "max_damage": 40,
     "max_range": 10,
-    "flags": [ "RANDOM_DAMAGE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE" ]
   },
   {
     "id": "mon_ether_shadow_spell_beam",
@@ -64,8 +63,7 @@
     "max_range": 10,
     "min_aoe": 2,
     "max_aoe": 2,
-    "flags": [ "RANDOM_DAMAGE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE" ]
   },
   {
     "id": "mon_ether_shadow_spell_blast",
@@ -82,8 +80,7 @@
     "max_range": 10,
     "min_aoe": 4,
     "max_aoe": 4,
-    "flags": [ "RANDOM_DAMAGE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE" ]
   },
   {
     "type": "SPELL",
@@ -139,8 +136,7 @@
     "max_damage": 10,
     "min_range": 13,
     "max_range": 13,
-    "flags": [ "RANDOM_DAMAGE", "WONDER" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "WONDER" ]
   },
   {
     "id": "mon_idol_vex_calamity_exp",
@@ -155,8 +151,7 @@
     "max_range": 13,
     "min_aoe": 2,
     "max_aoe": 4,
-    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ]
   },
   {
     "id": "mon_idol_vex_impendingdoom_combo",
@@ -204,8 +199,7 @@
     "max_damage": 4,
     "min_range": 13,
     "max_range": 13,
-    "flags": [ "RANDOM_DAMAGE", "WONDER" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "WONDER" ]
   },
   {
     "id": "mon_idol_vex_etherealshockwave_wave",
@@ -220,8 +214,7 @@
     "max_range": 13,
     "min_aoe": 15,
     "max_aoe": 60,
-    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ]
   },
   {
     "id": "mon_idol_vex_etherealharbringer_combo",
@@ -327,8 +320,7 @@
     "max_range": 6,
     "min_aoe": 1,
     "max_aoe": 3,
-    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "RANDOM_TARGET", "RANDOM_AOE" ]
   },
   {
     "id": "mon_idol_vex_etherhar_implosion_combo",
@@ -359,8 +351,7 @@
     "max_damage": 30,
     "min_aoe": 3,
     "max_aoe": 6,
-    "flags": [ "RANDOM_DAMAGE", "RANDOM_AOE" ],
-    "damage_type": "none"
+    "flags": [ "RANDOM_DAMAGE", "RANDOM_AOE" ]
   },
   {
     "id": "mon_idol_vex_etherhar_implosion_pull",

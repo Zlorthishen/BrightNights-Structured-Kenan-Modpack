@@ -22,8 +22,7 @@
     "valid_targets": [ "self" ],
     "effect": "target_attack",
     "min_damage": -1,
-    "max_damage": -1,
-    "damage_type": "none"
+    "max_damage": -1
   },
   {
     "id": "t1_blood_transfusion_spell_dmg",
@@ -36,8 +35,7 @@
     "min_damage": 2,
     "max_damage": 2,
     "min_range": 10,
-    "max_range": 10,
-    "damage_type": "none"
+    "max_range": 10
   },
   {
     "id": "t3_blood_crimsonhaze_blind",
@@ -127,8 +125,7 @@
     "valid_targets": [ "self" ],
     "effect": "target_attack",
     "min_damage": -5,
-    "max_damage": -5,
-    "damage_type": "none"
+    "max_damage": -5
   },
   {
     "id": "t5_blood_outrage_drain_dmg",
@@ -141,8 +138,7 @@
     "min_damage": 10,
     "max_damage": 10,
     "min_range": 12,
-    "max_range": 12,
-    "damage_type": "none"
+    "max_range": 12
   },
   {
     "id": "t4_mana_darkburst_push",

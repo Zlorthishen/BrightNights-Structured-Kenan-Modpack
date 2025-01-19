@@ -104,8 +104,7 @@
     "max_damage": 2,
     "min_range": 1,
     "max_range": 1,
-    "flags": [ "SILENT" ],
-    "damage_type": "none"
+    "flags": [ "SILENT" ]
   },
   {
     "id": "v_hemo_whip_spell_d_heal",
@@ -116,8 +115,7 @@
     "effect": "target_attack",
     "min_damage": -1,
     "flags": [ "SILENT" ],
-    "max_damage": -1,
-    "damage_type": "none"
+    "max_damage": -1
   },
   {
     "id": "v_hemo_crimsoncoat_coat_pr_maybe",
