@@ -12,14 +12,9 @@
     "entries": [
       { "item": "545", "prob": 50 },
       { "item": "545_ap", "prob": 50 },
-      { "item": "reloaded_545", "prob": 20 },
-      { "item": "reloaded_545_ap", "prob": 20 },
       { "item": "762_m43", "prob": 50 },
       { "item": "762_m87", "prob": 50 },
-      { "item": "reloaded_762_m43", "prob": 20 },
-      { "item": "reloaded_762_m87", "prob": 20 },
-      { "item": "762_54R", "prob": 45 },
-      { "item": "reloaded_762_54R", "prob": 15 }
+      { "item": "762_54R", "prob": 45 }
     ]
   },
   {
@@ -45,14 +40,9 @@
     "entries": [
       { "item": "545", "prob": 50, "charges": [ 3, 9 ] },
       { "item": "545_ap", "prob": 50, "charges": [ 3, 9 ] },
-      { "item": "reloaded_545", "prob": 50, "charges": [ 3, 9 ] },
-      { "item": "reloaded_545_ap", "prob": 50, "charges": [ 3, 9 ] },
       { "item": "762_m43", "prob": 50, "charges": [ 3, 9 ] },
       { "item": "762_m87", "prob": 50, "charges": [ 3, 9 ] },
-      { "item": "reloaded_762_m43", "prob": 45, "charges": [ 3, 9 ] },
-      { "item": "reloaded_762_m87", "prob": 45, "charges": [ 3, 9 ] },
-      { "item": "762_54R", "prob": 45, "charges": [ 3, 9 ] },
-      { "item": "reloaded_762_54R", "prob": 45, "charges": [ 3, 9 ] }
+      { "item": "762_54R", "prob": 45, "charges": [ 3, 9 ] }
     ]
   },
   {
@@ -106,15 +96,9 @@
       { "item": "223", "prob": 25 },
       { "item": "556", "prob": 50 },
       { "item": "556_incendiary", "prob": 10 },
-      { "item": "reloaded_223", "prob": 20 },
-      { "item": "reloaded_556", "prob": 20 },
-      { "item": "reloaded_556_incendiary", "prob": 50 },
       { "item": "308", "prob": 25 },
       { "item": "762_51", "prob": 20 },
       { "item": "762_51_incendiary", "prob": 20 },
-      { "item": "reloaded_308", "prob": 20 },
-      { "item": "reloaded_762_51", "prob": 15 },
-      { "item": "reloaded_762_51_incendiary", "prob": 5 },
       { "item": "300blk", "prob": 10 },
       { "item": "300blk_ss", "prob": 10 }
     ]
@@ -156,15 +140,9 @@
       { "item": "223", "prob": 25, "charges": [ 3, 9 ] },
       { "item": "556", "prob": 50, "charges": [ 3, 9 ] },
       { "item": "556_incendiary", "prob": 10, "charges": [ 3, 9 ] },
-      { "item": "reloaded_223", "prob": 20, "charges": [ 3, 9 ] },
-      { "item": "reloaded_556", "prob": 20, "charges": [ 3, 9 ] },
-      { "item": "reloaded_556_incendiary", "prob": 50, "charges": [ 3, 9 ] },
       { "item": "308", "prob": 25, "charges": [ 3, 9 ] },
       { "item": "762_51", "prob": 20, "charges": [ 3, 9 ] },
       { "item": "762_51_incendiary", "prob": 20, "charges": [ 3, 9 ] },
-      { "item": "reloaded_308", "prob": 20, "charges": [ 3, 9 ] },
-      { "item": "reloaded_762_51", "prob": 15, "charges": [ 3, 9 ] },
-      { "item": "reloaded_762_51_incendiary", "prob": 5, "charges": [ 3, 9 ] },
       { "item": "300blk", "prob": 10, "charges": [ 3, 9 ] },
       { "item": "300blk_ss", "prob": 10, "charges": [ 3, 9 ] }
     ]

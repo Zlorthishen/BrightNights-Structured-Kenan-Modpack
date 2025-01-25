@@ -76,13 +76,13 @@
     "death_drops": { "subtype": "collection", "groups": [ [ "mon_zombie_labsecurity_death_drops", 100 ] ] },
     "hp": 100,
     "death_function": [ "NORMAL" ],
-    "starting_ammo": { "reloaded_9mm": 24 },
+    "starting_ammo": { "9mm": 24 },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 6,
         "gun_type": "glock_19",
-        "ammo_type": "reloaded_9mm",
+        "ammo_type": "9mm",
         "max_ammo": 100,
         "fake_str": 10,
         "fake_dex": 6,

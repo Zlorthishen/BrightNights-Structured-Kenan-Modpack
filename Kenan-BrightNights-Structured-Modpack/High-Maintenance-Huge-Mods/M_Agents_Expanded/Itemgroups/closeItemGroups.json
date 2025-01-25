@@ -117,7 +117,6 @@
       { "group": "default_zombie_death_drops", "damage": [ 0, 4 ] },
       { "group": "bags", "damage": [ 0, 3 ], "prob": 30 },
       { "group": "bandit_shot_gun", "damage": [ 0, 3 ], "prob": 1, "dirt": [ 0, 4000 ] },
-      { "group": "ammo_shotgun_reloaded", "prob": 78 },
       { "group": "ammo_shotgun_common", "prob": 51 },
       { "group": "ammo_shotgun_rare", "prob": 15 }
     ]
@@ -130,7 +129,6 @@
       { "group": "mon_zombie_cop_death_drops", "damage": [ 0, 3 ] },
       { "group": "bags", "damage": [ 0, 3 ], "prob": 30 },
       { "group": "bandit_raider_gun", "damage": [ 0, 3 ], "prob": 1, "dirt": [ 0, 4000 ] },
-      { "group": "ammo_shotgun_reloaded", "prob": 78 },
       { "group": "ammo_shotgun_common", "prob": 63 },
       { "group": "ammo_shotgun_rare", "prob": 25 }
     ]

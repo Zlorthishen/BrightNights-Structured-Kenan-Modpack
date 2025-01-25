@@ -32,13 +32,13 @@
     "upgrades": { "into": "mon_bandit_m1911", "half_life": 21 },
     "hp": 100,
     "death_function": [ "NORMAL" ],
-    "starting_ammo": { "reloaded_9mm": 32 },
+    "starting_ammo": { "9mm": 32 },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 6,
         "gun_type": "glock_19",
-        "ammo_type": "reloaded_9mm",
+        "ammo_type": "9mm",
         "max_ammo": 100,
         "fake_str": 10,
         "fake_dex": 6,
@@ -260,13 +260,13 @@
     "death_drops": { "subtype": "collection", "groups": [ [ "bandit_mounted", 100 ] ] },
     "hp": 175,
     "death_function": [ "NORMAL" ],
-    "starting_ammo": { "reloaded_38_special": 24 },
+    "starting_ammo": { "38_special": 24 },
     "special_attacks": [
       {
         "type": "gun",
         "cooldown": 5,
         "gun_type": "model_10_revolver",
-        "ammo_type": "reloaded_38_special",
+        "ammo_type": "38_special",
         "max_ammo": 100,
         "fake_str": 10,
         "fake_dex": 6,

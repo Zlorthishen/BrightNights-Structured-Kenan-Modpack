@@ -650,7 +650,7 @@
         "type": "gun",
         "cooldown": 7,
         "gun_type": "savage_111f",
-        "ammo_type": "reloaded_308",
+        "ammo_type": "308",
         "max_ammo": 100,
         "fake_str": 4,
         "fake_dex": 3,
@@ -669,7 +669,7 @@
         "no_ammo_sound": "chk!"
       }
     ],
-    "starting_ammo": { "reloaded_308": 14 },
+    "starting_ammo": { "308": 14 },
     "description": "Equipped with a rifle, this bandit can shoot people from a much longer range than most!.",
     "flags": [
       "ATTACKMON",
@@ -727,7 +727,7 @@
         "type": "gun",
         "cooldown": 4,
         "gun_type": "henry_big_boy",
-        "ammo_type": "reloaded_44fmj",
+        "ammo_type": "44fmj",
         "max_ammo": 100,
         "fake_str": 4,
         "fake_dex": 3,
@@ -745,7 +745,7 @@
         "no_ammo_sound": "chk!"
       }
     ],
-    "starting_ammo": { "reloaded_44fmj": 30 },
+    "starting_ammo": { "44fmj": 30 },
     "description": "Equipped with a lever-action gun of the old west, this bandit thinks this town isn't big enough for the both of you.",
     "flags": [
       "ATTACKMON",
