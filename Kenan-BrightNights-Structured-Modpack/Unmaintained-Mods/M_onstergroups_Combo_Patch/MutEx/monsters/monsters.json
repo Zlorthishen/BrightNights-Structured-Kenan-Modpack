@@ -37,8 +37,7 @@
       "POISON",
       "NO_BREATHE",
       "BONES",
-      "PUSH_MON",
-      "FILTHY"
+      "PUSH_MON"
     ]
   },
   {
@@ -79,8 +78,7 @@
       "POISON",
       "NO_BREATHE",
       "BONES",
-      "PUSH_MON",
-      "FILTHY"
+      "PUSH_MON"
     ]
   },
   {
@@ -120,7 +118,7 @@
 	[ "twisted_hollow_slash_leg_r", 4 ],
 	[ "twisted_hollow_slash_head", 4 ] 
 	],
-    "flags": [ "SEES", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "NO_BREATHE", "FILTHY", "HARDTOSHOOT" ]
+    "flags": [ "SEES", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "NO_BREATHE" , "HARDTOSHOOT" ]
   },
   {
     "id": "mon_MutEx_zombie_beserker",
@@ -202,8 +200,7 @@
       "POISON",
       "NO_BREATHE",
       "BONES",
-      "PUSH_MON",
-      "FILTHY"
+      "PUSH_MON"
     ]
   },
   {

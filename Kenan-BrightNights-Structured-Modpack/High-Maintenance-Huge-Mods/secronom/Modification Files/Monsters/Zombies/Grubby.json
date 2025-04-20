@@ -51,7 +51,6 @@
       "WARM",
       "BASHES",
       "GROUP_BASH",
-      "FILTHY",
       "POISON",
       "NO_BREATHE",
       "REVIVES",
@@ -102,7 +101,7 @@
     ],
     "upgrades": { "half_life": 12, "into_group": "GROUP_GRUBBY_UPGRADEX" },
     "death_function": [ "SPLATTER" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "POISON", "NO_BREATHE" ]
   },
   {
     "//": "Like a bloated zombie, but with its speed and a unique ability, it may explode before it even gets close.",

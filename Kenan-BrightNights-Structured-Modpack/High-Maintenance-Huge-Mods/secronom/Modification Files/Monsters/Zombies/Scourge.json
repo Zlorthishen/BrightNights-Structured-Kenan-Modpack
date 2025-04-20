@@ -30,7 +30,7 @@
     "special_attacks": [ [ "GRAB", 10 ], { "type": "bite", "no_infection_chance": 20, "cooldown": 18 } ],
     "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 12, "into": "mon_zombie_defile" },
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zombie_defile",
@@ -62,7 +62,7 @@
     "special_attacks": [ [ "GRAB", 10 ], { "type": "bite", "no_infection_chance": 5, "cooldown": 15 } ],
     "death_function": [ "NORMAL" ],
     "upgrades": { "half_life": 16, "into_group": "GROUP_SCOURGE_UPGRADEX" },
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zombie_leptiosa",
@@ -103,6 +103,6 @@
       }
     ],
     "death_function": [ "GAS" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "POISON", "NO_BREATHE", "REVIVES" ]
   }
 ]

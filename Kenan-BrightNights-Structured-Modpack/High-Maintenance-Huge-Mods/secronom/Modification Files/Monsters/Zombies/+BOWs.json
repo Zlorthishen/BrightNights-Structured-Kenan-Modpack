@@ -43,7 +43,7 @@
     "death_drops": "SSmutant_drop",
     "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_KAXIX" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "HEARS", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedbow_kaxix_armed",
@@ -98,7 +98,7 @@
     "death_drops": "SSmutant_drop",
     "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_AXXUROS" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedbow_axxuros_armed",
@@ -154,7 +154,7 @@
     "death_drops": "SSmutant_drop",
     "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_EXIOS" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedbow_exios_armed",
@@ -194,7 +194,7 @@
     "death_drops": "SSmutant_drop",
     "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_DREXX" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedbow_drexx_armed",
@@ -252,7 +252,7 @@
     "death_drops": "SSmutant_drop",
     "upgrades": { "half_life": 10, "into_group": "GROUP_BOW_EPIXO" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedbow_epixo_armed",

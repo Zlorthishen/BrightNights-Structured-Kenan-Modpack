@@ -42,8 +42,7 @@
       "NO_BREATHE",
       "REVIVES",
       "PATH_AVOID_DANGER_2",
-      "PRIORITIZE_TARGETS",
-      "FILTHY"
+      "PRIORITIZE_TARGETS"
     ]
   },
   {
@@ -86,8 +85,7 @@
       "POISON",
       "NO_BREATHE",
       "REVIVES",
-      "PRIORITIZE_TARGETS",
-      "FILTHY"
+      "PRIORITIZE_TARGETS"
     ]
   },
   {
@@ -114,7 +112,7 @@
     "death_drops": { "groups": [ [ "default_zombie_clothes", 100 ], [ "child_items", 65 ] ] },
     "death_function": [ "NORMAL" ],
     "burn_into": "mon_zombie_scorched",
-    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "GUILT", "NO_BREATHE", "REVIVES", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "GUILT", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_nec_nemesis",
@@ -157,8 +155,7 @@
       "NO_BREATHE",
       "REVIVES",
       "PUSH_MON",
-      "PATH_AVOID_DANGER_1",
-      "FILTHY"
+      "PATH_AVOID_DANGER_1"
     ]
   },
   {
@@ -190,7 +187,7 @@
     "death_drops": { "groups": [ [ "robots", 100 ], [ "default_zombie_death_drops", 100 ] ] },
     "death_function": [ "NORMAL" ],
     "burn_into": "mon_zombie_fiend",
-    "flags": [ "SEES", "HEARS", "SMELLS", "BASHES", "FLIES", "POISON", "NO_BREATHE", "PUSH_MON", "ELECTRONIC", "FILTHY" ]
+    "flags": [ "SEES", "HEARS", "SMELLS", "BASHES", "FLIES", "POISON", "NO_BREATHE", "PUSH_MON", "ELECTRONIC" ]
   },
   {
     "id": "mon_nec_hiruko",
@@ -219,6 +216,6 @@
     "death_function": [ "NORMAL" ],
 	"regenerates": 1,
     "burn_into": "mon_zombie_fiend",
-    "flags": [ "HEARS", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "NO_BREATHE", "REVIVES", "FILTHY"]
+    "flags": [ "HEARS", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   }
 ]

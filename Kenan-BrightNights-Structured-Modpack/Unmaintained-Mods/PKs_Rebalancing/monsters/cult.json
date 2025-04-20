@@ -83,7 +83,7 @@
     "vision_night": 20,
     "death_drops": "default_zombie_clothes",
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "HARDTOSHOOT", "ATTACKMON", "HUMAN", "POISON", "REVIVES", "FILTHY" ],
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "HARDTOSHOOT", "ATTACKMON", "HUMAN", "POISON", "REVIVES" ],
     "special_attacks": [
       [ "FEAR_PARALYZE", 5 ],
       [ "FLESH_GOLEM", 20 ],
@@ -125,7 +125,7 @@
     "death_function": [ "NORMAL" ],
     "vision_day": 15,
     "vision_night": 15,
-    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "HUMAN", "REVIVES", "CLIMBS", "FILTHY" ],
+    "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BASHES", "GROUP_BASH", "HUMAN", "REVIVES", "CLIMBS" ],
     "special_attacks": [
       [ "hammer", 15 ],
       {

@@ -52,7 +52,7 @@
     ],
     "death_drops": "SSmutant_drop",
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM", "FILTHY", "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM" , "BASHES", "POISON", "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedfail_floral",
@@ -95,7 +95,7 @@
     ],
     "death_drops": "SSmutant_drop",
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "FILTHY", "NO_BREATHE", "REVIVES" ]
+    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON" , "NO_BREATHE", "REVIVES" ]
   },
   {
     "id": "mon_zedfail_twistcrawl",
@@ -138,7 +138,7 @@
     ],
     "death_drops": "SSmutant_drop",
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "SMELLS", "HEARS", "STUMBLES", "WARM", "BASHES", "POISON", "FILTHY", "NO_BREATHE", "REVIVES", "HARDTOSHOOT" ]
+    "flags": [ "SEES", "SMELLS", "HEARS", "STUMBLES", "WARM", "BASHES", "POISON" , "NO_BREATHE", "REVIVES", "HARDTOSHOOT" ]
   },
   {
     "id": "mon_zedfail_chomp",
@@ -178,7 +178,7 @@
     ],
     "death_drops": "SSmutant_drop",
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "NO_BREATHE", "FILTHY", "REVIVES", "NOHEAD" ]
+    "flags": [ "SEES", "SMELLS", "STUMBLES", "WARM", "BASHES", "POISON", "NO_BREATHE" , "REVIVES", "NOHEAD" ]
   },
   {
     "id": "mon_zedfail_squirtler",
@@ -218,6 +218,6 @@
     ],
     "//": "The acid is very strong (cuz of headshot).",
     "death_function": [ "ACID", "NORMAL" ],
-    "flags": [ "SEES", "IMMOBILE", "WARM", "POISON", "NO_BREATHE", "FILTHY", "REVIVES", "NOHEAD", "ACIDPROOF", "ACID_BLOOD" ]
+    "flags": [ "SEES", "IMMOBILE", "WARM", "POISON", "NO_BREATHE" , "REVIVES", "NOHEAD", "ACIDPROOF", "ACID_BLOOD" ]
   }
 ]

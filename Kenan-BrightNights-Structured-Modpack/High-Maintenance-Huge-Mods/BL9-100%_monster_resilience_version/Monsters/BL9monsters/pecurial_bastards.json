@@ -32,7 +32,7 @@
     "luminance": 0,
     "hp": 205,
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "GRABS", "SMELLS", "HEARS", "BASHES", "GOODHEARING", "STUMBLES", "WARM", "FILTHY", "NO_BREATHE", "REVIVES" ],
+    "flags": [ "SEES", "GRABS", "SMELLS", "HEARS", "BASHES", "GOODHEARING", "STUMBLES", "WARM" , "NO_BREATHE", "REVIVES" ],
     "anger_triggers": [ "PLAYER_CLOSE", "HURT" ],
     "harvest": "zombie",
     "special_attacks": [ [ "PARROT", 5 ], { "id": "gonzalez_chainsaw_swing" }, { "id": "gonzalez_chainsaw_thrust" } ]
@@ -94,8 +94,7 @@
       "REVIVES",
       "PATH_AVOID_DANGER_1",
       "PUSH_MON",
-      "PUSH_VEH",
-      "FILTHY"
+      "PUSH_VEH"
     ]
   },
   {
@@ -153,8 +152,7 @@
       "NO_BREATHE",
       "REVIVES",
       "PATH_AVOID_DANGER_1",
-      "PUSH_MON",
-      "FILTHY"
+      "PUSH_MON"
     ]
   },
   {

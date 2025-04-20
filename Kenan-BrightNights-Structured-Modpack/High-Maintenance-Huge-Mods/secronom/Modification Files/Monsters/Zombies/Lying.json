@@ -30,7 +30,7 @@
     "harvest": "zombie",
     "upgrades": { "half_life": 12, "into_group": "GROUP_LYING_UPGRADE" },
     "death_function": [ "NORMAL" ],
-    "flags": [ "STUMBLES", "WARM", "POISON", "NO_BREATHE", "FILTHY", "REVIVES" ]
+    "flags": [ "STUMBLES", "WARM", "POISON", "NO_BREATHE" , "REVIVES" ]
   },
   {
     "//": "Flying zombies.",
@@ -73,7 +73,6 @@
       "POISON",
       "NO_BREATHE",
       "REVIVES",
-      "FILTHY",
       "FLIES",
       "GRABS"
     ]
@@ -120,7 +119,6 @@
       "POISON",
       "NO_BREATHE",
       "REVIVES",
-      "FILTHY",
       "FLIES",
       "GRABS"
     ]
