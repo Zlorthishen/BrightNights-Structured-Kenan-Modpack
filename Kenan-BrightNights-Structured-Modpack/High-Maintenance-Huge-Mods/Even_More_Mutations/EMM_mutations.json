@@ -463,7 +463,7 @@
     "description": "Your legs are badly deformed. Permanent leg encumbrance.",
     "category": [ "SNAKE" ],
     "changes_to": [ "TAIL_SNAKE" ],
-    "encumbrance_always": [ [ "leg_l", 40 ], [ "leg_r", 40 ] ]
+    "encumbrance_always": [ [ "leg_l", 20 ], [ "leg_r", 20 ] ]
   },
   {
     "type": "mutation",
@@ -481,8 +481,8 @@
     "threshreq": [ "THRESH_SNAKE" ],
     "category": [ "SNAKE" ],
     "restricts_gear": [ "leg_l", "leg_r", "foot_l", "foot_r" ],
-    "allow_soft_gear": false,
-    "encumbrance_always": [ [ "leg_l", 50 ], [ "leg_r", 50 ], [ "foot_l", 30 ], [ "foot_r", 30 ] ],
+    "allow_soft_gear": true,
+    "encumbrance_always": [ [ "leg_l", 20 ], [ "leg_r", 20 ], [ "foot_l", 30 ], [ "foot_r", 30 ] ],
     "attacks": {
       "attack_text_u": "You crush %s with your coils",
       "attack_text_npc": "%1$s crushes %2$s with their coils",
@@ -492,15 +492,15 @@
   },
   {
     "type": "mutation",
-    "id": "DEBUG_SILENT",
-    "copy-from": "DEBUG_SILENT",
+    "id": "SILENT_MOVEMENT",
     "name": { "str": "Silent Movement" },
     "points": 6,
     "valid": false,
     "description": "You know how to move completely silently.",
     "threshreq": [ "THRESH_SNAKE" ],
     "prereqs": [ "TAIL_SNAKE" ],
-    "category": [ "SNAKE" ]
+    "category": [ "SNAKE" ],
+    "noise_modifier": 0
   },
   {
     "type": "mutation",
