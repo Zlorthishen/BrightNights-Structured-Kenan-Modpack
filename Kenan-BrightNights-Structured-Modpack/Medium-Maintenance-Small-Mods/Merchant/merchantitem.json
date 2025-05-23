@@ -19,5 +19,18 @@
     "storage": "75 L",
     "material_thickness": 1,
     "flags": [ "VARSIZE" ]
+  },
+  {
+    "id": "lightstrip_dead",
+    "type": "GENERIC",
+    "name": { "str": "dead lightstrip" },
+    "description": "A broken, non-functional lightstrip. Cannot be used for anything.",
+    "weight": "250 g",
+    "volume": "250 ml",
+    "symbol": ";",
+    "color": "dark_gray",
+    "material": [ "plastic" ],
+    "flags": [ "NO_SALVAGE", "NO_REPAIR" ]
   }
 ]
+
