@@ -1,23 +1,58 @@
 [
   {
-    "id": "rivtech_beam_sword",
+    "id": "rivtech_beam_sword_on",
     "type": "TOOL",
     "weapon_category": [ "1H_SWORDS" ],
     "category": "weapons",
     "name": { "str": "rivtech beam sword" },
-    "description": "Totally not a lightsaber.",
+    "description": "Totally not a lightsaber. It is currently extended, and a very very dangerous weapon.",
     "weight": "1500 g",
     "volume": "1250 ml",
-    "price": "350 USD",
+    "price": "20000 USD",
     "to_hit": 2,
     "bashing": 9,
     "cutting": 80,
     "material": [ "superalloy" ],
     "symbol": "/",
-    "color": "green",
-    "techniques": [ "WIDE", "BRUTAL", "WBLOCK_1" ],
+    "color": "light_green",
+    "techniques": [ "WIDE", "BRUTAL", "WBLOCK_1", "IMPALE" ],
     "qualities": [ [ "CUT", 10 ], [ "BUTCHER", -1 ] ],
-    "flags": [ "UNBREAKABLE_MELEE", "TRADER_AVOID", "NO_SALVAGE" ]
+	"use_action": [
+      {
+        "type": "transform",
+        "msg": "You flick the rivtech beam sword off.  Fwoosh...",
+		"menu_text": "Turn off",
+        "target": "rivtech_beam_sword",
+        "active": false
+      }
+    ],
+    "flags": [ "UNBREAKABLE_MELEE", "TRADER_AVOID", "NO_SALVAGE", "NO_SALVAGE", "FIRE", "LIGHT_8", "FLAMING" ]
+  },
+  {
+    "id": "rivtech_beam_sword",
+    "type": "TOOL",
+    "weapon_category": [ "BATONS" ],
+    "category": "weapons",
+    "name": { "str": "rivtech beam sword" },
+    "description": "Totally not a lightsaber. It is currently off, and nothing more than a paperweight.",
+    "weight": "1500 g",
+    "volume": "250 ml",
+    "price": "20000 USD",
+    "to_hit": 2,
+    "bashing": 9,
+    "material": [ "superalloy" ],
+    "symbol": "/",
+    "flags": ["UNBREAKABLE_MELEE", "TRADER_AVOID", "NO_SALVAGE", "FIRE" ],
+    "color": "green",
+	"use_action": [
+      {
+        "type": "transform",
+        "msg": "You flick the rivtech beam sword on.  Fwoosh...",
+		"menu_text": "Turn on",
+        "target": "rivtech_beam_sword_on",
+        "active": true
+      }
+    ]
   }
 ]
 
