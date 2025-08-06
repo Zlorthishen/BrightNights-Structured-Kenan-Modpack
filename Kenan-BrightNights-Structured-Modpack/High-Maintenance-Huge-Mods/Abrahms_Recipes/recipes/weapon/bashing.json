@@ -166,7 +166,7 @@
     "autolearn": true,
     "using": [ [ "blacksmithing_standard", 4 ] ],
     "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "golf_club", 1 ] ], [ [ "lead", 25 ], [ "gold", 25 ] ], [ [ "scrap", 5 ] ] ]
+    "components": [ [ [ "golf_club", 1 ] ],[ [ "weights", 25, "LIST" ] ], [ [ "scrap", 5 ] ] ]
   },
   {
     "type": "recipe",
