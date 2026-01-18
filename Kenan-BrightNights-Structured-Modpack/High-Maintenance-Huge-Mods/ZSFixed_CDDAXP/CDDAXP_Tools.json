@@ -184,7 +184,8 @@
       "transform_charges": 4,
       "need_charges_msg": "The %s's batteries are dead.",
       "type": "transform"
-    }
+    },
+	"flags": [ "WATCH", "RECHARGE", "NO_UNLOAD", "NO_RELOAD" ]
   },
   {
     "id": "cddaxp_patablet_on",
