@@ -1,0 +1,67 @@
+[
+  {
+    "type": "item_group",
+    "id": "beam_sword_material",
+    "//": "ingredients for the rivtech beam sword.",
+    "items": [
+      [ "rt_beam_controls", 1 ],
+      [ "rt_power_cell", 1 ],
+      [ "rt_field_conductor", 1 ],
+      [ "rt_vortex_ring", 1 ],
+      [ "rt_power_insulator", 1 ],
+      [ "rt_energy_gate", 1 ],
+      [ "rt_recharge_socket", 1 ],
+      [ "rt_focusing_chamber", 1 ],
+      [ "rt_blade_channel", 1 ],
+      [ "rt_cycling_field", 1 ],
+      [ "rt_modulation_circuit", 1 ],
+      [ "rt_focusing_lens", 1 ],
+      [ "rt_emitter_matrix", 1 ],
+      [ "rt_flux_aperture", 1 ]
+    ]
+  },
+  {
+		"type": "item_group",
+		"id": "vault",
+		"items": [
+			[ "textbook_beamsword", 5 ],
+      { "group": "beam_sword_material", "prob": 1 }
+		]
+	},
+	{
+		"type": "item_group",
+		"id": "rare",
+		"items": [
+			[ "textbook_beamsword", 5 ],
+      { "group": "beam_sword_material", "prob": 1 }
+		]
+	},
+	{
+		"type": "item_group",
+		"id": "military",
+		"items": [
+			[ "textbook_beamsword", 5 ],
+      { "group": "beam_sword_material", "prob": 1 }
+		]
+	},
+  {
+    "id": "science",
+    "//": "extension of vanilla itemgroup",
+    "type": "item_group",
+    "items": [
+			[ "textbook_beamsword", 5 ],
+      { "group": "beam_sword_material", "prob": 1 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "nanofab_recipes",
+    "//": "Very rare high level loot. This list doesn't spawn anywhere directly, it is used to create the recipes inside nanofabricator templates. ",
+    "magazine": 100,
+    "subtype": "distribution",
+    "entries": [
+      { "item": "rivtech_beam_sword", "prob": 2 }
+    ]
+  }
+]
+
