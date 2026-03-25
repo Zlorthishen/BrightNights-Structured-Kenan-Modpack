@@ -1,0 +1,4226 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wandering_masters\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\effects.json
+msgid "Wasted"
+msgstr ""
+
+#. ~ Description of effect 'Wasted'.
+#: .\effects.json
+msgid ""
+"You tried 'Uncle Ben's Mustang' moonshine. You feel like you died, "
+"resurrected and then died again."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Wasted'.
+#: .\effects.json
+msgid "You feel AWFUL."
+msgstr ""
+
+#: .\effects.json
+msgid "Teach"
+msgstr ""
+
+#. ~ Description of effect 'Teach'.
+#: .\effects.json
+msgid "You are being taught!"
+msgstr ""
+
+#: .\effects.json
+msgid "Brew of Might"
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Brew of Might'.
+#: .\effects.json
+msgid "You feel POWERFUL."
+msgstr ""
+
+#: .\effects.json
+msgid "Waiting"
+msgstr ""
+
+#. ~ Description of effect 'Waiting'.
+#: .\effects.json
+msgid "This NPC is waiting for something."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Wandering Masters"
+msgstr ""
+
+#. ~ Description for Wandering Masters
+#: .\modinfo.json
+msgid ""
+"Mod adds 'Wandering Masters', NPCs that can 'teach' player martial arts after completing their quest line.\n"
+"Check mod folder for more information."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "uncle Ben's mustang"
+msgid_plural "uncle Ben's mustang"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': "uncle Ben's mustang"}.
+#: .\items\items_quest.json
+msgid "You take a little sip. Tastes like gasoline"
+msgstr ""
+
+#. ~ Description for {'str_sp': "uncle Ben's mustang"}
+#: .\items\items_quest.json
+msgid ""
+"Large plastic jug with sticker, there's a picture of mustang horse on it. "
+"Text on the top of the sticker: 'Best before…', further text unreadable."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "severed head"
+msgid_plural "severed head"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Head of a fallen enemy."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Flame Knuckle's leader's severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Iron Palm's master's severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid " Prisoner Bill's severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Severed head of the 'real' Prisoner Bill"
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Boxer Johnny's severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Moneylender severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Police teacher severed head."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Old Assassin severed head."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "flame knuckle's leaflet"
+msgid_plural "flame knuckle's leaflet"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': "flame knuckle's leaflet"}
+#: .\items\items_quest.json
+msgid ""
+"A piece of paper with an advertisement of'Flame Knuckle' fighting school."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "police records"
+msgid_plural "police records"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'police records'}
+#: .\items\items_quest.json
+msgid "Large folder full of police records."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "classified records"
+msgid_plural "classified records"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'classified records'}
+#: .\items\items_quest.json
+msgid "Large folder full of classified military papers."
+msgstr ""
+
+#: .\items\items_quest.json
+msgid "strange note"
+msgid_plural "strange notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'strange note'}
+#: .\items\items_quest.json
+msgid ""
+"A scrap of paper.  Something written on it, scrawled in terrible "
+"handwriting."
+msgstr ""
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin_test"
+msgstr ""
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin roof test"
+msgstr ""
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin_basement_test"
+msgstr ""
+
+#: .\mapgen\overmap_terrain.json
+msgid "flame knuckle base"
+msgstr ""
+
+#: .\mapgen\overmap_terrain.json
+msgid "hub"
+msgstr ""
+
+#. ~ Sign
+#: .\mapgen\spawn_points.json
+msgid "NO lifeguard on duty, swim at own risk!"
+msgstr ""
+
+#. ~ Computer name
+#: .\mapgen\spawn_points.json
+msgid "PolCom OS v1.47 - Supply Room Access"
+msgstr ""
+
+#. ~ Computer option
+#: .\mapgen\spawn_points.json
+msgid "Unlock Supply Room"
+msgstr ""
+
+#. ~ Computer name
+#: .\mapgen\spawn_points.json
+msgid "PolCom OS v1.47 - Evidence Locker Access"
+msgstr ""
+
+#. ~ Computer option
+#: .\mapgen\spawn_points.json
+msgid "Unlock Evidence Locker"
+msgstr ""
+
+#. ~ Sign
+#: .\mapgen\spawn_points.json
+msgid "Danger!  Do not smoke!  Risk of explosion!"
+msgstr ""
+
+#: .\mapgen\traps.json
+msgid "interesting spot"
+msgstr ""
+
+#: .\monsters\quest_monsters.json
+msgid ""
+"Apparently this zombie was doing time when the Cataclysm struck.  It wears "
+"black and white striped prisoner clothes, and tattoos can be seen on his "
+"decaying skin. One of the tatoos on his face looks like a dragon."
+msgstr ""
+
+#: .\monsters\quest_monsters.json
+msgid ""
+"A human body covered by a weather-beaten and badly damaged set of riot gear."
+" This one has a wooden hand."
+msgstr ""
+
+#: .\monsters\turret.json
+msgid "M240 autonomous CROWS II ml"
+msgid_plural "M240 autonomous CROWS II mls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'M240 autonomous CROWS II ml'}
+#: .\monsters\turret.json
+msgid ""
+"A remote weapon system derived from the M153 CROWS II and enhanced with "
+"autonomous operation software.  Thousands of these were deployed by the US "
+"military before the Cataclysm and they were valued for their use in engaging"
+" infantry without exposing the operator.  This one is fitted with a M240."
+msgstr ""
+
+#: .\npc\TALK_ALLY.json
+msgid "Do you have any brew on you?"
+msgstr ""
+
+#: .\npc\TALK_ALLY.json
+msgid "Sure, I have some leftovers.  Wanna drink it now?"
+msgstr ""
+
+#: .\npc\TALK_ALLY.json
+msgid "Yeah, give it to me."
+msgstr ""
+
+#: .\npc\TALK_ALLY.json .\npc\student_transfer.json .\npc\Flame
+#: Knuckle\Flame_Knuckle_Leader.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\captain_cost.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+#: .\npc\bg\bg_drunken_master.json
+msgid "<done_conversation_section>"
+msgstr ""
+
+#: .\npc\TALK_ALLY.json
+msgid "Nothing right now, <name_g>, but I'm making a new one.  Ask me later."
+msgstr ""
+
+#: .\npc\factions.json
+msgid "The Flame Knuckle"
+msgstr ""
+
+#. ~ Description for The Flame Knuckle
+#: .\npc\factions.json
+msgid "The Flaming Knuckles!"
+msgstr ""
+
+#: .\npc\factions.json
+msgid "The Iron Palm"
+msgstr ""
+
+#. ~ Description for The Iron Palm
+#: .\npc\factions.json
+msgid "The Iron Palm!"
+msgstr ""
+
+#: .\npc\factions.json
+msgid "The Boxer Johnny's gym"
+msgstr ""
+
+#. ~ Description for The Boxer Johnny's gym
+#: .\npc\factions.json
+msgid "The Boxer Johnny's gym!"
+msgstr ""
+
+#: .\npc\factions.json
+msgid "The Moneylender Gang"
+msgstr ""
+
+#. ~ Description for The Moneylender Gang
+#: .\npc\factions.json
+msgid "The Moneylender Gang!"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "What do you think about transferring to another faction?"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "So, I can transfer to:"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "  Boxer Johnny."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "  Flame Knuckle."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "  Iron Palm."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "  Where do you want me to go?"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Iron Palm?"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Flame Knuckle?"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Boxer Johnny?"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid ""
+"Iron Palm sounds cool! If you are sure about it, lead me to their leader, so"
+" he can accept me."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Yes, Iron Palm needs you. Now go."
+msgstr ""
+
+#: .\npc\student_transfer.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Maybe later."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid ""
+"Flame Knuckle sounds cool! If you are sure about it, lead me to their "
+"leader, so he can accept me."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Yes, Flame Knuckle need you. Now go."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid ""
+"Boxer Johnny sounds cool! If you are sure about it, lead me to their leader,"
+" so he can accept me."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Yes, Boxer Johnny needs you. Now go."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Iron Palm <swear> RULE!"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Glad for you."
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Flame Knuckle <swear> RULE!"
+msgstr ""
+
+#: .\npc\student_transfer.json
+msgid "Boxer Johnny <swear> RULE!"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "test_232"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "test_232."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid ""
+"*nods and say:  \"<greet>\", checks his watch, scratch his head.  \"What do "
+"you need?\""
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test cost trap. <kill_npc_h>"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test teach."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test follow."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test follow only."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "I'm outside."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "I'm inside."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Where I am?"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test leave."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test assign_guard."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test Johnny's bandits."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "About that jobs!"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "About that one job!"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test missions"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test npc_buy"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test Johnny's debt."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test 232 test."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test student transfer."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test 22ch."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission rlated stuff"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test trade."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test train"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "No test for you!"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Under roof.  Why do you ask?"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Not under roof.  Why do you ask?"
+msgstr ""
+
+#: .\npc\test_npc_232.json .\npc\Teachers\rasta_bob.json
+msgid "???"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission cycle."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission cycle with success."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test WORKING mission cycle."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission assign."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission success."
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission failure"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test mission clear"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission1 "
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission2 "
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission 3"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission 7 "
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "Back"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "END"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "You met test person0"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'You met test person0'}'
+#. ~ Description for mission '{'str': 'You met test person1'}'
+#. ~ Description for mission '{'str': 'You met test person2'}'
+#. ~ Description for mission '{'str': 'You met test person3'}'
+#. ~ Description for mission '{'str': 'You met test person7'}'
+#: .\npc\test_npc_232.json
+msgid "He looks like a nice bh. Maybe you should not let him die?"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "0"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "You met test person1"
+msgstr ""
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "1"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "You met test person2"
+msgstr ""
+
+#: .\npc\test_npc_232.json .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: Knuckle\Flame_Knuckle_talk.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Berry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\captain_cost.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "-"
+msgstr ""
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "2"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "You met test person3"
+msgstr ""
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "3"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "You met test person7"
+msgstr ""
+
+#: .\npc\test_npc_232.json
+msgid "7"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "the Flame Knuckle"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle Leader"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "The leader of Flame Knuckle school."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "What brings you here, <name_g>?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm here for business."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Other\Bill_The_Assassin.json
+msgid "I'm here to kick your ass!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"So, you are that new student I was told about? Unfortunately for you, I know"
+" everything about you. I think you understand that you are not the first "
+"person this old fool sends to us. But you're in luck, today I'm in a good "
+"mood, and I'm ready to give you a chance to redeem yourself. Bring that old "
+"man's head and I'll think about giving you a chance to join my school."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Teachers\police_teacher.json
+msgid "I'll think about that."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I think we should fight."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm still waiting."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm already on it!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Here it is."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Actually, let's fight!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Very well. Consider that you have received my trust. If you still want to "
+"become a student of my school, come to me when you have free time."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Thank you for your trust."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "We do this easy way or a hard way?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Easy way, please."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Hard way, please."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Bend over."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Oh noes!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "So be it!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Let's rock!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I hope you bring me something worth my attention."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\bartender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "About that job…"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\hobo.json .\npc\Moneylender_hub\moneylender.json
+#: .\npc\Refugee center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\captain_cost.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+#: .\npc\bg\backgrounds_table_of_contents.json
+msgid "<BGSS_intro_question>"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Do you need any help?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Can you teach me something?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+msgid "Goodbye."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Bah, what's the point of it? It's all story now. Let's focus on todays "
+"problems."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm not in the mood right now. Go away."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Maybe you want to teach me something cool, master?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"So, you want to learn the secrets of my school? Here, take it, it's all "
+"yours, my student. But you know, I'm not feeling that generous to just give "
+"you my secrets that easily. Let's dance for a bit, and if you could stand "
+"still after that, consider yourself worthy to know the ways of my school."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: Knuckle\Flame_Knuckle_talk.json Knuckle\fk_informer.json
+#: .\npc\Moneylender_hub\bartender.json .\npc\Moneylender_hub\hobo.json
+#: .\npc\Moneylender_hub\moneylender.json
+#: .\npc\Moneylender_hub\staff_talk.json .\npc\Other\Bill_The_Assassin.json
+#: .\npc\Other\CEO.json .\npc\Refugee center\NPC_Barry_Button.json
+#: center\NPC_Berry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\captain_cost.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "…"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Find new students"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find new students'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle's Leader asked you to find new students for his school."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle's Leader"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Bring me more students, so I can have more force to deal with "
+"<the_cataclysm>."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm waiting."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Bah, another coward. Go away, <name_b>!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Go search for lone survivors hiding in their basement or something."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Good, <very> good. Nice catch out there, they can be good asset for me. I'll"
+" treat them with care, he-he. Now go play outside, <name_g>."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "You know what we do to liars?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "So, you chose to lose your head."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Train with Flame Knuckle leader"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Train with Flame Knuckle leader'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Flame Knuckle leader suddenly attacked you. Maybe this is part of the "
+"training?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Can't you see I'm training? Get out of my way, <name_b>!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Another new face…"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "One wrong move and you're dead!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Oh, another survivor! <greet> Do you want to learn the way of Flame Knuckle "
+"school?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Sorry, I'm here to kill you!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Sure, where to sign?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Halt! Who goes there?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Friendly."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Enemy."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Permition granted! Go forward, and don't touch anything, or you'll regret "
+"it, <name_g>!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Get lost, <name_b>!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Funny guy, are you? Boys, let's teach this <name_b> some manners!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Flame Knuckle school"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Flame Knuckle school'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Talk to Flame Knuckle's leader."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"If you want to join us, go talk to my boss.  He needs more people for our "
+"cause.  We will give you food, shelter, protection and teach you how to "
+"protect yourself."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Good.  Here's our base.  Go talk to him about your joining.  Oh, almost "
+"forgot, take this.  Show this to the guy at the entrance, or he'll not let "
+"you in."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Hmm, maybe you want to change your mind?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Be careful."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Did you speak with him?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\rasta_bob.json
+msgid "Good."
+msgstr ""
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Huh."
+msgstr ""
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle apprentice"
+msgstr ""
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "I'm a wandering master of martial arts."
+msgstr ""
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle elite"
+msgstr ""
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle master"
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json Knuckle\npc.json
+msgid "Apprentice"
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "<speech_warning>  Show yourself!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Relax, I'm not going to hurt you.  I'm from Iron Palm master."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid ""
+"Hey who are you?  Where did you come from?  I don't know you!  What do you "
+"want from me?"
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Flowers."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Fruits."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Vegetables."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Berries."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Bees."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "I don't know what that means, but I don't like you.  I'm leaving."
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Wait, don't go!"
+msgstr ""
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid ""
+"Okay, I'll pretend to believe you.  Listen carefully, I don't have much "
+"time.  Tell the master to check drop point 5.  I left all the necessary "
+"information there.  And one more thing, tell him that… "
+"<combat_noise_warning>  <swear!> I was tracked!  Ru…"
+msgstr ""
+
+#: .\npc\Flame Knuckle\npc.json
+msgid "Elite"
+msgstr ""
+
+#: .\npc\Flame Knuckle\npc.json
+msgid "Master"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "bartender"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "<greet> Want a drink?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What is this place anyway?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "So, what about those 'extra' staff?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Let me see what you keep behind the counter."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "I'll be going…"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"It's a place for lost souls, who are still struggle to survive in this hard "
+"times."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What is your job here?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Do you running this place all by yourself?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "A lot of new people came here recently?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "How did you managed to survive?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"You know, regular bartenders stuff: selling alcohol, serving snacks, "
+"watching for new faces, keeping eye on my girls.  To be honest, nothing "
+"really changed for me after <the_cataclysm>.  Except those nasty <zombies>, "
+"I <swear> hate them.  Always walking in large groups, trying to barge here "
+"and do havoc.  Last time they broke in here, all the tables were flipped and"
+" all curtains were striped!  Can you believe that, <name_g>?  <swear> "
+"madness, I tell you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Gladly I’m not alone in this shithole.  There are enough of <name_g>s "
+"around: part my staff, part random survivors looking for food, booze, "
+"shelter or work for paying for all that."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What staff exactly?  I see only one girl over there."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Well, there are also goons of that mone...  Ahem, I probably said too much "
+"already.  Let’s change the subject, please."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Usually there are not much new people here.  As you may notice, "
+"<the_cataclysm> kicked us hard.  Not many survived that.  It’s a sad topic, "
+"really.  Let’s talk about something else."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Well, I don’t have much to say, really.  It was pure luck, I guess."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "It depends on who's asking."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[COP] I'm a cop, so please, let me in peacefully."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[SPEECH] What would you lose if you let me in?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[FEMALE] Maybe if I do something for you, you would let me in…"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Maybe if I help you with something you'll tell me more?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "I'll be free in a few hours.  Until then, you can talk to my boss."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Not my type, sorry."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"So, you're a cop? Good. This good <name_g>s will lead you where you should "
+"be."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "It's a matter of principle.  You got something for me?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[35MERCH] Maybe this will help."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Nope."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Good. I'll slip a word about you to my boss. You can meet him downstairs."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Get rid of nasty hobo"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Get rid of nasty hobo'}'
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Bartender asked you to get rid of nasty hobo."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"There's a nasty hobo that came here sometimes, and using my lobby as a place"
+" to crash.  He doesn't pay for it, and for some reason, no one wants to shoo"
+" him out for me.  If you do it, I’ll see what I can do for you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Good. Wait for him there.  I'm sure he'll come for another sleepover."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Hmm."
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "You need advice on how to get rid of nasty hobo?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Are you done?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\classes.json
+msgid "Hooker"
+msgstr ""
+
+#: .\npc\Moneylender_hub\classes.json
+msgid "Hooker."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Hello. Do you want to give me something to drink?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Sure?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Thank you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "So?."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Actually can I ask you something else?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json .\npc\Teachers\captain_cost.json
+msgid "Bye."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Thank you!."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "What are you up to?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "No problem."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Yes."
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Maybe you should leave?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "NEVER!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "moneylender"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "moneylender."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Who are you and what do you want?!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm here to talk about Johnny's debt."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm here to trade."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, you want to trade, huh?  Prove me that you are nice fella by helping me "
+"with stuff and I'll think about it.  I'm a collector of sort.  If you find "
+"rare books in your traveling, bring them to me, maybe then I'll think about "
+"trusting you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Other\Bill_The_Assassin.json
+msgid "I'll think about it."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, Johnny sent you?  OK, here's the deal.  Johnny owed me a lot of money "
+"before <the_cataclysm>, and I want it back.  You have two options: pay for "
+"your <name_g>, 1200 FMCNotes will be enough, or you can help me with "
+"satisfying my passion and I'll forget about that fool's debt.  I'm a "
+"collector of sort.  If you find rare books in your traveling, bring them to "
+"me, maybe then I'll think about trusting you. Choice is yours.  But don't "
+"take too long, or your <name_g> will lose his head, he-he.  Also, you have a"
+" choice to help him lose it… I'll pay you for it, and maybe even let you buy"
+" my premium goods."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Maybe I just kick your ass?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Funny guy, are you?  Guards, kick his ass!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Damn, not that crazy bastard again.  What do you want?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Damn, not that crazy bitch again.  What do you want?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Ah, my favorite customer.  What brings you here?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Make it quick.  I don't have time for chit-chat!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got your money. [1200 FMCNotes]"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I want to sell something."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I want to buy something."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "So, we done here?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's his head."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got a book for you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got a turret for you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "What about that premium goods?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Can you tell me again what do you need?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Damn, you helped your <name_g> and then decapitated him?  You absolutely "
+"madman!  Here, take this, and please, get the hell out!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "*give him your scariest smile*"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Nice.  Consider yourself freed from your friends debt, he-he.  If you want "
+"to earn more money, or spend it, talk to me."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Nice.  Consider yourself freed from your friends debt, he-he.  If you want "
+"to trade, talk to me."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I'm a collector, I collect books.  Also, I need to protect my property.  For"
+" that, I need automated turrets.  Bring me enough books and I'll open my "
+"store to you.  Bring me enough books and turrets, and I'll open my premium "
+"store for you."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Well, what to say, I was always good with numbers, especially while counting"
+" money, he-he.  When the <zombies> started to rise, I was here, with my "
+"trusted men, in my lovely shelter, protected from outside world.  Somehow, "
+"this plague didn't got me, so now I'm just continue to do what I know, and "
+"what I'm good at."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I said I don't have time for chit-chat!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Nice, nice.  Take this, you earned it."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Alright, accepted."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "6 and so on"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "5"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "4"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Sorry, <name_g>, I don't have anything for you at the moment."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool martial book right here.  Price is 1200 merch.  Are you "
+"interested?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool shotgun CBM right here.  Price is 400 merch.  Are you "
+"interested?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool cop bot right here.  Price is 200 merch.  Are you "
+"interested?"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for bot."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for that shotgun."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for book."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm empty right now.  Come back in a few days."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, I've got:\n"
+" Army supplies for 225\n"
+" Canned food for 20\n"
+" Medieval stuff from museum for 280\n"
+" Pharmacy for 300\n"
+" Rare weapons for 600\n"
+" Melee weapons for 140\n"
+" Weapons for 350\n"
+"Don't forget that I work only with hard cash!"
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Army supplies."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Canned food."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Medieval stuff."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Pharmacy."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Rare weapons."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Melee weapons."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Weapons."
+msgstr ""
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "You met Moneylender"
+msgstr ""
+
+#: .\npc\Moneylender_hub\npc.json
+msgid "goon"
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "Don't make any trouble and you'll be fine."
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*dances"
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "[*give her 5 merch*]"
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "[*winks*] Thanks, sugar."
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*looks stoned"
+msgstr ""
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*cooks"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Assassin"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Bill"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "The Assassin"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "The Assassin."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Wrong answer."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"So, you stumbled upon me.  I suggest that you leave this place and run away "
+"as fast as you can, unless you want to get a new hole in your head."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "I'm here to talk, Bill."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"So, you know my name AND how to find me.  Interesting.  I'm listening, but "
+"if you say something that I wouldn't like, you will be dead in a second.  "
+"Speak."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Actually, I'll kick your ass!"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"I'm here because of some officer that wants you dead.  He looks kind of "
+"suspicious, so I want to learn the whole story."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"And why should I tell you, instead of just kill you and return to my "
+"business?"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "How rude, I'll kick your ass!"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Because, umm, please?"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"Hmm, if you put it that way, I'll tell you something interesting.  I think "
+"your <name_g> asked you to bring back my head.  How do I know?  That cop "
+"<name_b> just wants to screw you and loot my basement!  I have a secret "
+"storage room in there that opens only with retinal scan, and he will do "
+"anything to get to that room.  Tell you what, if you kill that <name_b>, "
+"I'll open it for you.  Anything that I'll leve behind me, will be yours.  "
+"What do you say, <name_g>?"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Nope, I’ll kick your ass!"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Don't waste my time."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "I still want to kick your ass!"
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Officer is dead."
+msgstr ""
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"That's nice.  Actually, I lied about secret room, I just don't want to be "
+"followed by anyone, especially by some obsessed special agents.  But you "
+"held up your end of the agreement, and I respect agreements.  Take this "
+"book.  You may find it useful."
+msgstr ""
+
+#: .\npc\Other\CEO.json
+msgid "I don't have time for this. Name your price."
+msgstr ""
+
+#: .\npc\Other\CEO.json
+msgid "10.000 dorarus."
+msgstr ""
+
+#: .\npc\Other\CEO.json
+msgid "You will end here."
+msgstr ""
+
+#: .\npc\Other\CEO.json
+msgid "Take it and go away."
+msgstr ""
+
+#: .\npc\Other\CEO.json
+msgid "Actually, you will end here."
+msgstr ""
+
+#: .\npc\Other\targets.json
+msgid "Oh, are you here t-to k-kill me?! Please don't, please don't!"
+msgstr ""
+
+#: .\npc\Other\targets.json
+msgid "Nothing personal, kid."
+msgstr ""
+
+#: .\npc\Other\targets.json
+msgid "Beep-Boop!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+msgid "refugee"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Barry Button"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Are we there yet?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"Thank god you're here! I thougt I'm a dead man! These <name_b> put me in "
+"this dark shed with living <zombie>! Help me get out of here, <name_g>, "
+"please!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Your brother sent me. Let's get out of here, and fast."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json .\npc\Teachers\captain_cost.json
+msgid "We're here."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Almost."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Let's go!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"Phew, that was a close one! I owe you one there, <name_g>. Let me just catch"
+" my breath. Talk to me later."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm glad it's all over."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\retired_assassin.json
+msgid "<greet>"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, what about that job?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, i need help with something. Lead me to nearest bank!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm resting. Return later."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Sure thing, <name_g>."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I was a teacher, always wanted to be rich! Now I can fulfill my dream!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"So, you want to learn something new? I can teach you how to read faster, or,"
+" if you don't know, how to read."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I have a unfinished task. Let's talk about this later."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Yes, let's do this."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Sorry I don't want to."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you can't read? No problem, I can teach you!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you are slow reader? No problem, I can teach you!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm afraid that I can't teach you anything."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you want to learn how to read fast? No problem, I can teach you!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Good luck, student!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Thanks, Barry!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\wanderer_knight.json
+msgid "I already taught you all I knew."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Thanks again, Barry."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Heist"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Heist'}'
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Protect me!!!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP!!!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Good, let's go back to RC."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry Button"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hello there, pal."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Can I help you with something?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "You do realize that you paid me with worthless green paper, right?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Well, bye."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "You know, I tried that moonshine. It tastes like HELL!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "I'm just a guy.  Nothing more, nothing else."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Huh?  What are you talking about?  You do not recognize american dollars?  "
+"For that money you can buy a lot more booze than you brought me!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"If you didn't notice, old world is dead, and old currencies have little to "
+"none value now.  Heck, I doubt I can found someone who will want to trade "
+"something for this green paper."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh, that's why that merchant guy gave me a weird look when I offered him… "
+"Sorry, pal, I didn’t think about that until now, he-he.  *he smiled*  Next "
+"time, I'll give you something of worth.  You have my word!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "I hope so!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, 'pal', maybe you want to compensate my time with something of worth "
+"NOW?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Yeah, sure, pal.  Sorry.  You can have my old ring, if it helps."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "That's more like it."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, I said I'm sorry!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh, pal, so how was it?  Is it good?  I know it's good, that's my favorite "
+"drink of all time!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry, I swear to god, if you don't stop with your jokes…"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Umm, why do you have so angry face?  You didn't like it?  Maybe you drank "
+"too much?  Here, take this, it can help!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Unbelievable…"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "So, what about my brother?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He's here, alive and well."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He was alive, but I couldn't get him here in one peace.  I'm sorry."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He was dead, I couldn't do anything.  I'm sorry."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Nothing, really."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Sorry, pal, I'm not in the mood right now."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Bring vodka to Berry"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Bring vodka to Berry'}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry want some vodka for his sore throat. Bring him a bottle."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Look, pal, I need to steep my throat, so bring me a bottle of vodka, please."
+"  I'll pay you."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Thank you, pal.  I'll wait for you right here!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Well, that’s bad.  Return if you change your mind."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Try to look at the bar or in some lonely guy's house."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found any vodka?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"He-he.  I believed in you, pal.  *Berry took a large sip*  Here's the cash I"
+" promised.  Spend it well, he-he."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, you call this a vodka?!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Pal…"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Bring nice moonshine"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Bring nice moonshine'}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Berry asked you to bring him a bottle of nice moonshine called 'Uncle Ben's "
+"Mustang'."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, pal, glad you still alive.  Listen, I have another task for you.  Have "
+"you heard about 'Uncle Ben's Mustang'?  It's the best moonshine in the "
+"entire state!  Sadly, there is a high chance that Ol' Benny is dead by now… "
+"BUT!  I got this nice map with all 'shady' places in the woods with "
+"different spots for moonshiners to meet.  So, I want YOU to visit one of the"
+" places, and maybe grab me a few bottles if you find any… Hey, hey, don't "
+"go!  I'll share!  Fine, I'll even give you some nice looking trader "
+"banknotes.  So, what do you say?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"I knew you wouldn't refuse such a deal, pal.  I'll wait for you right here!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Don't smoke in the woods!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found it?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"He-he.  I believed in you, pal.  *Berry took a large sip*  Here's the cash I"
+" promised you.  Spend it well, he-he."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, don't try to fool me!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Find Berry's brother"
+msgstr ""
+
+#. ~ Description for mission '{'str': "Find Berry's brother"}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Berry asked you to find his brother.  According to him, his brother got "
+"caught by some bandits."
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, pal, I've got an emergency here.  You helped me before, so I put my "
+"trust in you on this!  A few days ago, my brother went to forest to meet "
+"with some guys that are agreed to help with… let’s say, with some 'work'.  "
+"Problem is, something strange happened at the meeting.  We spoke by the "
+"radio with my brother, and the last thing I heard was loud rumbling and "
+"sounds of fight.  I think they killed him, pal… Please, check the meeting "
+"spot, and if he's still alive, bring him back to me!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Thank you, pal.  I owe you a big one.  Please hurry!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Please, pal, help me!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"This guys may be dangerous.  I don't know why my brother wanted to mess with"
+" them…"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found him?"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh god, thank you, pal!  I'm so happy to see my brother again!  I would not "
+"forget your help for, like, forever!"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, please…"
+msgstr ""
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Pal… I'll miss my brother…"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Boxer Johnny"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Boxer Johnny."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Well well, isn't it my savior? Welcome!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Hey, I'm not in the mood right now! Go away!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Well I’m just a regular boxer, really.  I worked here before "
+"<the_cataclysm>, but now I live here, I suppose."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"I'll teach you, for sure, but only after I'll deal with all my problems."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "So, problems solved?"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Yeah, I guess they are.  Here, you can take it."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Thanks, Johnny."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Thanks again, Johnny."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "*looks busy."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Ahem!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Ahem.  Your debt is repaid.  You can relax."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Defend Johnny's gym"
+msgstr ""
+
+#. ~ Description for mission '{'str': "Defend Johnny's gym"}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Help Johnny to defend his gym."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Well, you know, I don't know if I should tell you, but… Ah, what the hell, "
+"I'm a dead man anyway!  Before <the_cataclysm>, I took a lot of money from "
+"moneylender to make some improvements for my gym.  At first, things went "
+"smoothly, but after that day, as you can guess, my cash flow goes straight "
+"to zero.  Somehow, that bastard managed to survive and, can you believe it, "
+"asked me to repay my debt!  What for? He would buy himself a nice car or "
+"something?!  And there's more!  When I refused to pay, he said that he would"
+" sell me as slave to a local bandit band or something.  Hell, I wouldn't "
+"turn myself to slave easily, I'll fight for my freedom!  Would you help me?"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Hell, we will teach those bastards some proper manners… <speech_warning>  I "
+"think they're here!  Let's go kick their asses!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "C'mon, man!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Move like a butterfly, sting like a bee!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json
+msgid "So?"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"HOOVA!  That's what I'm talking about.  We showed them who's the bosses "
+"around here!  Thanks, I owe you one.  I think it will cool his head for a "
+"while."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Bruh."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Johnny's debt"
+msgstr ""
+
+#. ~ Description for mission '{'str': "Johnny's debt"}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Help Johnny with his debt"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Good to see you again. Unfortunately for me, that moneylender guy don't let "
+"me go so easily.  He sent me his goon with a message recently.  He said that"
+" if I want to keep my gym and my head, I need to repay him, and that guy "
+"convinced me, that his boss is serious about it.  Now I'm a little scared.  "
+"If only I could somehow deal with this problem…"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"You want to help me?  Thank you, I owe you a big one!  But if you serious "
+"about it, you don't have much time.  He gave no more than a month, so if you"
+" or me didn't make it in time…"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "He's <very> dangerous man, I assure you, so take care!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"I don't know what to say.  You saved my ass, and know I'm in eternal debt to"
+" you!  Thank you."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Find Johnny new students"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find Johnny new students'}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Find new students for Johnny's boxing school."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"So, now I have my head back, and my gym as well!  It's time to give this "
+"world a chance by reopening my boxing school!  Find me 2 new students, so "
+"that I can make them new pair of steel fists!  With them, we could even "
+"clean this town from <zombies>!"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "I know you wouldn't refuse, <name_g>.  I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"You can bring me anyone.  Children, elder, anyone that need protection!  We "
+"would remake this gym as base for needed."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"<very> good, <name_g>.  If you want, I could make another pair of steel "
+"fists for you too!  Talk to me if you're interested."
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json
+msgid "Why?"
+msgstr ""
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "You met Boxer Johnny"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Captain"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Jason Cost"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Hello there, <name_g>.  I'm Captain Cost, CIA.  Do you want to help your "
+"government?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Yeah, I'm interested. Tell me more."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "<no>, my government is dead."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  I need to find a crashed heli, and you are going to help me find it."
+"  No objections.  It crashed in nearby field.  I need an information that "
+"was on that heli.  That information is <very> valuable for my mission.  "
+"Let's search for it. Time is working against us, s we want to make this as "
+"fast as possible, do we, <name_g>?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Umm, OK?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "It sounds dangerous.  I'll pass."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Are you sure about that?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "No, I'm a cop, and I must help my government."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Maybe I should reconsider..."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Yes?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "We don't have much time, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Here's your info, captain."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "I don't want to help you anymore."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "I am a captain of military force of the US and A!"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  Next task.  We need to get a highly classified information from "
+"military bunker nearby.  Lead me to that bunker.  We will work together on "
+"cracking it, but don't forget about time!"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Umm, ok?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "It sounds dangerous. I'll pass."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  Last task.  We need to contact a special agent that is working in "
+"this area to finish my mission.  For that we need to get a special code to "
+"contact him with radio.  Lead me to the meeting point, where we can find "
+"more info."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  See that building?  That's our meeting point.  Search for the note or"
+" something inside.  It got to be written somewhere."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Clock is ticking, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"So, I got that note for you!  Care to explain why there were a lot of "
+"aggressive drones?"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Well, I didn't think that someone would ever lived after that, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "You will die, right here, right now!"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "You will tell me the truth, right NOW, or <ill_kill_you>, <name_b>!"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"OK, OK, I'll tell you the truth.  I'm working for China's intelligence.  "
+"They dropped me here before releasing this <swear> plague, so that I can "
+"send them reports on how deadly it is.  I didn’t know that it will be this "
+"bad, <name_g>, it’s <very> terrifying.  My last mission was to just GTFO of "
+"here, meet other agent that can organize my extraction to somewhere else.  "
+"Please spare me, <name_g>!  I'll give you something <very> valuable if you "
+"do, please..."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Die, <name_b>."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Live and newer come back.  If I see your face one more time, <ill_kill_you>."
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"<no>, <name_b>. <ill_kill_you>, <name_b>. You've helped me enough, so I can "
+"finish my mission without you, <name_b>!"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Find crashed heli"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find crashed heli'}'
+#: .\npc\Teachers\captain_cost.json
+msgid "Cost asked you to find crashed heli"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Lead me to bunker"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Lead me to bunker'}'
+#: .\npc\Teachers\captain_cost.json
+msgid "Cost asked you to lead him to military bunker"
+msgstr ""
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Contact special agent"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Contact special agent'}'
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Cost asked you to help him get in contact with a special agent that is "
+"working in this area to finish his mission"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "the Iron Palm"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Black Belt Coach"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Black Belt Coach."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "It's good to see my best student again."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Hello there, student! Ready to learn the way of Iron Palm?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "How can I become your student?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "What about that help?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well, if you would like to know, we would have to start before "
+"<the_cataclysm>.  There were two schools, The Iron Palm and The Flame "
+"Knuckle.  Our Dojo fell apart quickly, my students and even some of my "
+"fellow masters left to join the riots.  Almost as if they had forgotten "
+"their teachings.  The ones that stayed behind turned into the <zombies> that"
+" roam the streets.  The Flame Knuckle somehow didn’t feel the same "
+"destruction as we did, they quickly adapted to the new world and expanded "
+"their population, offering protection and training to the outside world.  "
+"But they kept their grievances and decided to end our dojo, I must prevent "
+"this from happening."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I think you're lying."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I teach only those who helped my school.  Did you helped my school?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+msgid "Yes, master."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Maybe later…"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"You helped me resurrect my school, so here, take it.  It's one of the relics"
+" of our school, 'The Manual’.  You can take it now.  Good luck, student.  "
+"Don't get yourself killed!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Thank you, master!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Thanks again, master."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"What?!  Masters don't lie!  You want to feel my iron fury?  You want to feel"
+" REAL PAIN?!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master!  Please don't kill me!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm only talking to my students about my problems!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"First, you need to find proper uniform.  You should wear Karate Gi and Geta "
+"to start your training.  By the way, this is strictly not allowed, but in "
+"this dire circumstances, you can 'borrow' uniform from any not-any-more "
+"student."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I understand.  I'll return when I get the uniform!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Take this.  This is one of the school flyers my informer has gave me.  He "
+"said that they use it now as invitation tickets.  I hope you can find use "
+"for it.  Good luck, student."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+msgid "Thank you, master."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\police_teacher.json
+msgid "I'm back."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master, but you must die."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find informer"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find informer'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Find the informer, who was infiltrated to 'Flame Knuckle' school, and talk "
+"to him."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well well, you decided to help me?  Okay, listen here, student.  I managed "
+"to recruit one of the survivors and persuaded him to join Flame Knuckle and "
+"leak all information he could get to me.  The time has come for the next "
+"collection of information.  Meet him in the nearby forest, get everything he"
+" knows from him and come back here.  Oh yes, our password is 'Berries'.  "
+"Don't forget the password!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I didn’t doubt in you.  Hold this belt as a symbol of your entry into Iron "
+"Palm School!  Go, and don't come to me until you complete your task!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Are you scared?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Be careful.  The guy could be found out, so try not to bring tail here."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well done, student.  I knew you would succeed!  Well, tell me all you got… "
+"Hmm, that's how it is.  Well, it complicates my job a little.  I need a "
+"little time to think about it.  Here, hold this belt, you deserve it."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "You are a disgrace to your family!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Kill one of the trainers"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Kill one of the trainers'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"The Master has asked you to kill one of the Flame Fist School trainers "
+"before he can train a new group of students."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Thanks to the information you gave me, I learned that Flame Knuckle is send "
+"one of their elites to train a new group of fresh apprentices, and I want "
+"you to prevent this.  Find this <name_b>, use your iron palm and make him "
+"choke on blood!  What?  What about the students?  I don't give a <swear> "
+"damn, do what you want.  Oh yeah, their training will take about 2-4 weeks, "
+"so hurry up!  They won't sit there forever!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I like your attitude.  Show them the true path of the Iron Palm!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\hobo_victoria.json
+msgid "Afraid?!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Apprentices are just random crooks, but that trainer guy is one of the "
+"finest in his school.  Be careful with your approach."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Nice one, student!  That will teach them not to mess with me, with my school"
+" and my students!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "End the Flame Knuckle"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'End the Flame Knuckle'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "It's time to end the Flame Knuckle once and for all."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"So, my student, it's time for real punch!  I managed to locate their base, "
+"and even learned that their leader will be there.  I want you to go there, "
+"show them the power of the Iron Palm and bring me the head of their leader "
+"as proof.  You are my best student, so it wouldn't be difficult for you."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Good.  He will be there for a week at least.  If you want to get to him "
+"before dealing with his other crooks, ask me how, I've got an idea…"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I know little about their base, but they have a bunch of crooks that joined "
+"them for protection, a few trainers for training new students, maybe "
+"something more.  Oh, if you see the guys with masks.  They are his tops, so "
+"be <very> careful while dealing with them."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Good, <very> good, my student.  Now my school have a chance to rise again!  "
+"Take this belt, you deserve it. "
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find me new students"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find me new students'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find new students."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"So, my student, it's time to resurrect my school.  Bring me 2 new students "
+"so I can train them to be the best fighters in the world!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Good, I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Afraid?"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"To be honest, I think you know the world outside far better then me, so I "
+"don't have advice for you, except good luck!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I don't know what to say, my student.  Just take this belt.  You earned it "
+"with your blood and tears.  If you want to get extra training, talk to me.  "
+"I'll teach you all our school secrets as best as I can!"
+msgstr ""
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "You met Iron Palm Leader"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "drunken master"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken master"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken master."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Is your potion ready?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "If you want to travel with me, let's go."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json .\npc\bg\bg_drunken_master.json
+msgid ""
+"Before <the_cataclysm>, I traveled around the country.  During the day I "
+"made money by performing various shows on the streets, and at night I went "
+"to bars in search of rare liquor.  Often my campaigns ended in fights, and "
+"since I really like to drink, I had to fight a little drunk.  Thus, I "
+"improved my skills and soon it turned into a full-fledged fighting style."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Can you teach me your fighting style?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Well, I'm not a good teacher, but since I like you, I can try.  But keep in "
+"mind that I will charge a small fee for my work.  I did not leave my way in "
+"search of the rarest liquor.  I found a bunch of recipes books of potions, "
+"and I need the ingredients to make them.  If you can help me find the "
+"ingredients, I will help you learn my fighting style."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Be patient, nothing is ready yet.  In this case, the main thing is patience."
+" Otherwise nothing sensible will come of it."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I need rest, <name_g>.  Let's do it sometime later."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Everything is ready, <name_g>.\" He winked conspiratorially.  \"Well, shall "
+"we try our 'potion'?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let's do it!"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"*staggered a little, exhaled poisonous vapor from his mouth, due to which "
+"the flies flying nearby fell dead, and said: \"UHH, IT'S GOOD!  I FEEL SUCH "
+"A Rush of STRENGTH AND ENERGY, THAT I AM READY TO RIP EVERYONE AND "
+"EVERYTHING!  Let's bet I can kill more <zombies> than you can until we sober"
+" up?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"I want more!  Let's go find the toughest <zombies>, the most powerful!  35 "
+"strong ones will be enough."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "It was easy last time.  This time, let's go 200!"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "For our first bet, let's say 100 <zombies>."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Okay, let's try!"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "<no>, I don't want to."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Afraid of losing?  I'll go look for a worthy opponent somewhere else."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let me think again."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Get lost, you drunkard."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I'm still ahead!"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Okay, I admit your victory.  Now let's take a break."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let's count the points."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Did you help me, student?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I learned all from this book. You can take it."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Thank you again, master"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Ingredients for liquor"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather:\n"
+" <color_light_blue>12 pinecones</color>\n"
+" <color_light_blue>8 birchbarks</color>\n"
+" <color_light_blue>4 cattail stalks</color>\n"
+" <color_light_blue>2 lotus flowers</color>"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So, for the next drink I need: pinecone, 12 pieces; birchbark, 8 pieces; "
+"cattail stalk, 4 pieces; lotus flower, 2 pieces.  Bring me these ingredients"
+" and I'll try to brew something out of it."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\samurai_akira.json
+msgid "Good.  I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Bah."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "<yawn>"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "You got the stuff?"
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Okay, now I need some time for all this stuff to brew in my secret bottle… "
+"according to my estimates, it will take all day. Come back later."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken competition"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 100 zombies before you get sober."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"It's good to see another true warrior.  I'm pleased to see that you succeed "
+"in this task.  Now I need some rest.  Let's talk later."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Looser."
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather:\n"
+" <color_light_blue>20 tobacco leaves</color>,\n"
+" <color_light_blue>40 coffee beans</color>,\n"
+" <color_light_blue>0.75L of whiskey</color>,\n"
+" <color_light_blue>12 chunks of mutant meat</color>."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So, for the next drink, I need something new: 20 tobacco leaves, 40 coffee "
+"beans, 0.75L of whiskey, 12 chunks of mutant meat.  Bring me and I'll try to"
+" brew something from this."
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 200 zombies before you get sober."
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather <color_light_blue>20 ammonium nitrate</color>, <color_light_blue>0.3L"
+" gasoline</color>, <color_light_blue>15 hops</color>, <color_light_blue>5 "
+"<zombie> pheromone</color>."
+msgstr ""
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So the next swill is going to be a little exotic.  I'm not sure about my "
+"guesses, but I think the effect can be enhanced by adding a little <zombie> "
+"pheromone… why are you looking at me like that?  I'm not kidding!  This time"
+" I need: ammonium nitrate, 20 pieces; gasoline, 0.3L; hops, 15 pieces; "
+"<zombie> pheromone, 5 pieces.  Bring me and I'll try to brew something from "
+"this."
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 35 zombie brutes before you get sober."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "hobo"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Victoria"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "I'm just a regular hobo. That's all."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Do I look like a person who can teach you something?  Leave me alone."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Yes, you look exactly like a person who can teach me something!"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Leave me alone, you creep.  Damn kids, always making fun of old and weak "
+"ladies..."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Look, first time I saw you, I noticed you stance, how you react on danger..."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "..."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Always picking weakest victim to mock.  Go ahead, mock old weak lady.  Kids "
+"these days, no respect for elders..."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"FINE, fine... You got me.  Do this for me and you'll get your training."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "SWEET!"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\retired_assassin.json
+msgid "Thanks again, teacher."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Find 2x4 30'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find 2x4 30"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "I need to warm myself somehow. Find 2x4 30"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Good"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "~"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Nice! "
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Find large barrel'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find large barrel"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find large barrel so i can have a place to burn my wood."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Find cheese 20'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find cheese 20"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find cheese 20 for my pet rat."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Find my pet rat'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find my pet rat"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "True student!!!"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find my pet rat, please. I don't think it got far away."
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Huh, thats not my rat! My rat returned to me a few minutes ago!"
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Kill rat king'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Kill rat king"
+msgstr ""
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Kill rat king and his pack, so I can have a normal sleep in this place."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Police Teacher"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Police Teacher."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Marshal…"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer…"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Detective…"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Citizen…"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Well, I was in this cell, minding my own business, but when the lights went "
+"out, the emergency system locked the entire PD and I kind of got stuck here."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\wanderer_knight.json
+msgid "Are you sure you telling me the truth?"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Look, right now I can only think about one thing, and that's definitely not "
+"about teaching, OK?"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "So, what about now?"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I learned all from this book. You can take it. Good luck."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thank you, officer."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thanks again, officer."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, OK, I'll tell you.  The truth is, I was afraid when first <zombies> "
+"tried to enter our department, and didn't even notice how I got myself "
+"locked up here, in this cell.  Maybe I panicked, and instead of running "
+"away, or helping my fellow co-workers, I thought, maybe, this metal bars "
+"would protect me.  I'm so ashamed of myself, really.  Officers should be "
+"calm in emergencies like this, to help civilians with anything they need, to"
+" protect them, but… What done is done."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Oh, uh, well, OK then?"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'm done."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'm still working on it, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "OK, <name_g>, take your time."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Good for you, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "No, ha-ha, it's an accident, really."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "So, looking for a secret room, aren't you?"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "What? What secret room?  I don't know what you're talking about!"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Bill told me everything.  You want to screw me over and got all neat stuff "
+"from Billy's secret stash all by yourself? Not this time.  Ha-Ha on You!"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"<name_g> did you actually believed that <name_b>?  I don't hide anything "
+"from you!  Kill him please and please don't kill me!"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Nah."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Find police report"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find police report'}'
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Officer asked you to find him a folder with police reports in PD, located in"
+" town nearby."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Before <the_cataclysm>,  I was in a secret police search party that was "
+"formed to track an assassin, who worked for a famous kingpin.  They called "
+"him 'Bill The Assassin'.  Somehow, we managed to track him, and even put him"
+" behind bars for a <very> long time.  But you see, the situation changed "
+"drastically outside, and I know the guy like him wouldn't hesitate to use it"
+" as a chance to break free.  And, um, I think the guy like him would "
+"definitely try to take his revenge, so… I just want to know for sure if the "
+"guy is alive or turned into <zombie>.  Find police records, so I can learn "
+"where did they locked him, and maybe learn what happened to him there."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Whew, thank you.  I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Well, I'm not sure where it may be, to be honest.  Try to search all the "
+"building."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good, thank you.  I just need some time to… Oh, it's right on the top, ha-"
+"ha.  Let's see… So, now I know where to find him."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Kill Bill"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Kill Bill'}'
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Officer asked you to kill prisoner Bill, and bring back his head as proof."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"So, now I know where he's been serving sentence, and I want to just check "
+"what happened to him… What?  Why don't I just go there and look for myself?"
+"  Well, ha-ha, I'm kind of busy with… Defending my PD, ha!  So, if you want "
+"to help me, please find Bill.  If he's there, kill him and bring his head as"
+" poof.  He have a tattoo on his face that looks like a dragon, so you can’t "
+"mistake him for anyone."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thank you.  I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Be <very> careful with your approach.  Prisons are guarder by police bots "
+"and turrets, and they are a <very> dangerous."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good.  Show it to me.  So, here you are, you dirty bastard.  Who's laughing "
+"now, huh?  Ha-ha! Hah… Wait a minute.  Green eyes, potato nose, scar under "
+"left eye, dental print looks like his, but… It's a wyrm, not a dragon!  "
+"ARGH, what a trickster!  So, now we know that we put behind bars someone "
+"else, and there's the chance he's still alive.  That's bad news, indeed.  I "
+"need to think about it."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\wanderer_knight.json
+msgid "What a shame."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Bill's house"
+msgstr ""
+
+#. ~ Description for mission '{'str': "Bill's house"}'
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer asked you to lead him to Bill's house."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, I have some ideas how to deal with this situation.  We need to track "
+"down that bastard and deal with him before he deal with us!  Lead me to his "
+"house.  I'm 100% sure he would visit it.  We can get more information there "
+"about his location."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Let's go. Lead the way."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"You'll cover my back, I'll cover yours.  That way, we have more chances to "
+"survive."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good.  Wait for a while, I need some time to look around and find something "
+"that may lead us to him…"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Kill the real Bill"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Kill the real Bill'}'
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer asked you to kill the real Bill."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, I might know where to find him.  I'll give you approximate location of "
+"the real Bill.  Find that bastard and kill him."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'll wait.  Be careful."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"He's <very> dangerous, so you might want not to approach him directly.  The "
+"more distance you have between you and him, the better."
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Whew, what a relief!  Now I can sleep at night calmly.  Thank you!"
+msgstr ""
+
+#: .\npc\Teachers\police_teacher.json
+msgid "You met Police teacher"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Rasta Bob"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Rasta Bob."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo! <greet>"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "So, what do you need, my brother?"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo my brudda whazzup."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"I'll be honest with you. [*he shows you his arm with large bite mark*] I "
+"think you understand what that means. I tried to heal it, but for some "
+"reason, the mark wont go, and the pain wont stop, no matter how i tried. I "
+"think I'll become one of them. I DONT what to become one of that thing…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Oh, I didn't know…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"It's been a fun ride. We had so much fun together. I just wanted to have fun"
+" for the last time, and you were there to help me with it. But now, I'm "
+"asking you to help me for the last time…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Sure thing. I'll do anything for you."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"You have to kill me. That's the only way I can be freed from this curse, and"
+" not become one of that things after death. I know that I ask you too much, "
+"but…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "I… understand… I'll help you… for the last time…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Thank you, you are truly my <name_g>. Just do it quick, please. And if it's "
+"not hard for you, could you please bury me on this cemetery? I want to rest "
+"in this grounds, with my parents…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Sure thing, my <name_g>.  Goodbye… It was a fun ride…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"[*He dies peacefully with a smile on his face. Something falls down from his"
+" pocket*]"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "[*ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ*]"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "AY YO!!!"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Are we there, <name_g>?"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeah, <name_g>. We're here."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo, <name_g>. Go talk to him. I'm a little tired, so…[*ZZZZZ*]"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "AY YO!"
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Find weed'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Find weed"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo <name_g>. Let's smoke some weed. Find me some, 30 leaves would be enough."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Nooo!"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeah, we all need some advice, <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "<name_g>?"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <name_g>, let's smoke weed!"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Find my car dude"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find my car dude'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "FInd my car"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, it's you, <name_g>! <name_g>, where's my car? I can't find it. Maybe you"
+" can help me find my car?"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo man, thanks. I'll be chilling here, so ride near me, honk and speak to me"
+" while driving, or I'll ignore you!"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, man, that's really my car? Or is it not? I'm so stoned right now I "
+"couldn't really tell. Oh well, thank you anyway."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to Drug Dealer'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Go to Drug Dealer"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, <name_g>. Let's get some more weed! Let's go check my drug dealer. He's "
+"at the motel, over there…"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yeee, thatswatimtokingbout, <name_g>. You drive! Talk to me when we get "
+"there."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <very> nice, <name_g>. Too bad he became a <zombie>, though."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "WIP-TEXT"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "WIP-TEXT."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Get me to my family grave'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Get me to my family grave"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Help me bro"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Help me to get to cemetery, where my family buried"
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Nice. Talk to me, please. I have something to tell you."
+msgstr ""
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Looser"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "assassin"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Well I'm just a regular assassin, really."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I teach only those who helped me. Did you helped me?"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Yeah."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Sorry."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I learned all from it. You can take it now. Good luck!"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Thanks."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "What a shame…"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I'm back!"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill hacker"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Kill hacker'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill that nerd"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"As you can see, there's <the_cataclysm> outside, and <zombies> roaming the "
+"streets. Still, I stick with code of assassins, and I need to finish my "
+"contracts. You want to help me with easy ones? I'll teach you something cool"
+" if you help me."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Good. First one is easy. Kill hacker in his basement."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "It's an easy job, really. Just don't forget to move at night."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Neat."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Kill sewers dweller'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill sewers dweller"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "That was an easy task. This might be harder. Are you still interested?"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. I got a contract on some <name_b> who lives in sewers. Don't know who "
+"or for what someone wants him dead. Sounds easy enough for me."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"I hope you now how to deal with alligators. There are a lot of them in city "
+"sewers. [*chuckles*]"
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Kill cop'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill cop"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Are you still interested? This one may be harder."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. I got a contract on some corrupted cop. Find him. He has a wooden "
+"hand. According to my sources, he got trapped in one of the FEMA camps."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"FEMA camps was full of people when shit hit the fan, and I guarantee that "
+"it's full of <zombies> now."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Nice."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Kill CEO'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill CEO"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"The last one. It will be hard. I hope you're sure that you can handle it."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. The last mission will be some top manager or CEO or <swear> knows who "
+"of <swear> knows what."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"He will be guarded, and probably would try to buy his life if you talk to "
+"him. Remember, no talking to your victims!"
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Nice. I can teach you now if you want."
+msgstr ""
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "You met Assassin"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Akira"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai Akira"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai Akira."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+msgid "Hmm…"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"I came from Japan to retrieve ancient relics from the past: parts of armor "
+"of Kentaro the Great."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "So, you want to learn the way of the sword?  Good.  I can teach you."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Hmm… I'm not ready.  My mission is not finished.  Yet."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Yes, teach me."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Understandable, have a nice day."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Are you ready, my student?"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good, good.  I was looking for someone like you.  Last part of my missions "
+"was to find someone worthy, so I can teach him Kentaro's ancient fighting "
+"style.  But be warned, training will be hard.  So, if you think you're "
+"ready, we can start."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "I'm ready."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Umm, one moment, please."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good, good.  This is the armor that you found for me.  Put it on, and then "
+"speak to me."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "I'm ready, master.  What's next?"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, good, good.  You look like a fine warrior in his armor and with his "
+"weapon.  Prepare my student.  Training will be hard, but I hope you succeed "
+"in it.  And now, the training: fight to the death!  BANZAI!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Wait, whaa…"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"You are not ready yet.  Come back later.  [REQUIRES: MELEE 4, CUTTING 4]"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Tabi"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find Tabi'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Tabi of the great hero Kentaro."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"So, you want to lend a hand in my sacred quest?  So be it!  First, Tabi of "
+"Kentaro the Great.  Some collector bought it not so long ago, but couldn't "
+"make it to his home, and died at the hotel he stayed after returning to this"
+" country.  Don’t ask me where I get this information.  Go find it, it's "
+"somewhere in that hotel."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good.  I don't know where exactly, though.  Maybe, search at the top floors?"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Coward!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"If you want to become a great warrior, that will be sung about in the "
+"legends, you need to learn how to deal with problems by yourself!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his Tabi.  It even smells like him.  Good, good.  One step "
+"closer to the end of my quest."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Helmet"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find Helmet'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find helmet of the great hero Kentaro."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Second item: Kentaro's helmet.  Some fool thought that it's just a regular "
+"helmet and sold it at his local pawn shop.  FOOL!  It cost way more than he "
+"could ever get from there!  So, go there, youngling, find his helmet and "
+"bring it to me!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Good, good.  I'll wait here for your return."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"If you want to become a great warrior, that will be song about in the "
+"legends, you need to learn how to deal with problems by yourself!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his helmet.  It even smells like… dirty nerd?!  Ugh, kuso "
+"weeab…  AHEM!  Good, good.  Two steps closer to the end of my quest."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Armour"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find Armour'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find armor of the great hero Kentaro."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Third item: Kentaro's armor.  A 35 years ago, his armor was donated to the "
+"museum located in this state, so that kids could look at it and… damn those "
+"kids.  I hate kids!  Quick, find his armor and bring it back to me!"
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his armor.  It even smells like… I need to stop smelling "
+"things, do I?  AHEM!  Good, good.  Three steps closer to the end of my "
+"quest."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Samurai Sword"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find Samurai Sword'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find sword of the great hero Kentaro."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"And now, the last one: Kentaro's sword!  I thought that it was well hidden "
+"in some temple, far away in the mountains, but recently I learned that it "
+"was stolen!  Some lousy politician funded a famous band of tomb raiders that"
+" agreed to break in that temple and steal Kentaro's precious sword.  FOOLS, "
+"IT COULD BE CURSED!  THEY COULD DOOM THE WHOLE WORLD BY STEALING IT!  ARGH… "
+"AHEM!  Find his sword for me, please."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good.  There's only one catch: I don't know exactly where it is.  I only "
+"know that that politician lived in this state.  Maybe he hid it in his "
+"mansion?  Check all mansions nearby.  After that, we can talk about your "
+"reward, youngling."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his sword!  At last, my quest almost ended!  Good, youngling,"
+" good.  And now, the last step: training of someone worthy.  I choose you "
+"worthy of training ancient fighting style, that Kentaro the Great and "
+"generations of his students kept secret from outside world for centuries!  "
+"Talk to me when you're ready, youngling."
+msgstr ""
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Train with Akira"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Train with Akira'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Akira suddenly attacked you.  Maybe this is part of the training?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "the Holy"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Knight"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Wandering knight."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, The Chosen One!  What brings you to this sacred place?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, glad to see another living soul in this cursed world.  What brings you "
+"to this sacred place?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Are you a believer?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Muslim."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Christian."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Buddhist"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Jewish"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm atheist."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm agnostic."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "*slowly shake his head"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, it's good to see another follower of our lord Jesus Christ. Welcome, my "
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "brother."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "sister."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"I'm the True Warrior of God!  I fight evil whenever I see one!  I was called"
+" to this land to clean it from it's filth!  Humanity has covered itself with"
+" sin and now they pay the price!  But I lived all my life as pure and "
+"sinless as I could, and the God saved me from this curse of walking dead!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"I teach only those who help holy warriors in need.  Do you help holy "
+"warriors in need?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Yes, my brother."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I learned all from this book. You can take it.  God bless you, my "
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "brother!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "sister!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Thank you, holy warrior."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Thanks again, holy warrior."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Well, to be honest, I'm just a guy in cool suit…  I took it from museum when"
+" <the_cataclysm> started to protect myself, and to somehow remain stable, I "
+"started to think of myself as holy warrior, which was sent here to purge the"
+" world of <zombies>…  Don't judge me, please…"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ok, ok, I'll play along.  But only if you start calling me 'The Chosen One'!"
+" [*chuckles*]"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "HOW DARE YOU SAY SOMETHING LIKE THAT!!!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Where is your cross, my brother?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Where is your cross, my sister?"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Prove to be a true warrior of the light"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Prove to be a true warrior of the
+#. light'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Knight asked you to prove that you are true warrior of the light by killing "
+"100 zombies."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Look outside and tell me what you see there.  I see plague, plague upon "
+"another plague that was sent to our world to purge it from its sins.  If you"
+" want to help me fight this plague, and to clean this world from it, I want "
+"you to prove me that you are true warrior of the light.  Kill 100 <zombies> "
+"and return to me."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'll wait."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "What are you, infidel?!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "God bless you!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"It's good to see another warrior of the light.  I'm pleased to see that you "
+"succeed in this task."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Um…"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Help Father Randalf"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Help Father Randalf'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Knight asked you to help Father Randolph to lift his curse."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, my fellow warrior of the light, it's good that you're alive.  I have "
+"another task for you.  You need to help my dear brother, Brother Randolph, "
+"to lift his curse, so that his soul could reach the heaven and rest "
+"peacefully for eternity."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I know you can do it! God bless you!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, what a relief!  You did good, my <name_g>."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Find relic"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Find relic'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Knight asked you to find special relic, the remains of some priest that "
+"lived in this land a few centuries ago."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, it's you again.  I have another task for you.  Did you know that this "
+"church was built 287 years ago, and stood still to this day?  More "
+"interesting, that this church was built by one man!  By one priest this "
+"church was built, and he was called saint because of his will, pureness and "
+"love for God.  Even more interesting, I learn from notes of current "
+"(deceased, sadly) priest that his remains were kept in the basement, until "
+"it was taken away by some research group to learn about its healing powers."
+"  I want you to get back his remains."
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I don't know what you will face there, but God will help you!"
+msgstr ""
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, splendid!"
+msgstr ""
+
+#: .\npc\bg\BG_traits.json
+msgid "Survivor Story"
+msgstr ""
+
+#. ~ Description for {'str': 'Survivor Story'}
+#: .\npc\bg\BG_traits.json
+msgid "This NPC could tell you about how they survived the Cataclysm"
+msgstr ""
+
+#: .\npc\bg\bg_drunken_master.json
+msgid "Say, do you continue brewing something?"
+msgstr ""
+
+#: .\npc\bg\bg_drunken_master.json
+msgid "<end_talking>"
+msgstr ""
+
+#: .\npc\bg\bg_drunken_master.json
+msgid ""
+"You bet!  I'm not traveling anywhere without few bottles with different "
+"brewing liquids.  I can give you a few samples if you want some."
+msgstr ""

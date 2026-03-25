@@ -1,0 +1,651 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Soy mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\a_materials.json .\comestibles.json
+msgid "soy"
+msgstr "大豆"
+
+#: .\a_materials.json
+msgid "squished"
+msgstr "壓扁的"
+
+#: .\a_materials.json
+msgid "cut"
+msgstr "割破"
+
+#: .\a_materials.json
+msgid "lightly damaged"
+msgstr "輕微受損"
+
+#: .\a_materials.json
+msgid "damaged"
+msgstr "受損"
+
+#: .\a_materials.json
+msgid "very damaged"
+msgstr "嚴重受損"
+
+#: .\a_materials.json
+msgid "throughly damaged"
+msgstr "完全損壞"
+
+#: .\a_materials.json .\comestibles.json
+msgid "koji"
+msgid_plural "koji"
+msgstr[0] "曲"
+
+#: .\comestibles.json
+msgid "soybean"
+msgid_plural "soybeans"
+msgstr[0] "大豆"
+
+#. ~ Description for {'str': 'soybean', 'str_pl': 'soybeans'}
+#: .\comestibles.json
+msgid "Soybeans. These are indispensable in the Japanese diet."
+msgstr "大豆。這是日本飲食中不可或缺的。"
+
+#: .\comestibles.json
+msgid "edamame"
+msgid_plural "edamame"
+msgstr[0] "毛豆"
+
+#. ~ Description for {'str': 'edamame', 'str_pl': 'edamame'}
+#: .\comestibles.json
+msgid "An immature soybean. Tastes good on it's own."
+msgstr "未成熟的大豆。本身味道不錯。"
+
+#: .\comestibles.json
+msgid "soybean seed"
+msgid_plural "soybean seeds"
+msgstr[0] "大豆種子"
+
+#. ~ Description for {'str': 'soybean seed', 'str_pl': 'soybean seeds'}
+#: .\comestibles.json
+msgid ""
+"It is a soybean seed. If you have a flower pot, you can plant it to harvest "
+"it in the form of edamame."
+msgstr "這是一顆大豆種子。如果你有花盆，可以種植它以收穫毛豆。"
+
+#: .\comestibles.json
+msgid "soy sauce (unfermented)"
+msgid_plural "soy sauce (unfermented)"
+msgstr[0] "醬油（未發酵）"
+
+#. ~ Description for {'str': 'soy sauce (unfermented)', 'str_pl': 'soy sauce
+#. (unfermented)'}
+#: .\comestibles.json
+msgid "If fermented in a vat for 3 days, it will make fine soy sauce."
+msgstr "如果在桶中發酵3天，就能製成優質醬油。"
+
+#: .\comestibles.json
+msgid "miso (unripe)"
+msgid_plural "miso (unripe)"
+msgstr[0] "味噌（未熟）"
+
+#. ~ Use action msg for {'str': 'miso (unripe)', 'str_pl': 'miso (unripe)'}.
+#: .\comestibles.json
+msgid "The Miso's aging was successful!"
+msgstr "味噌的熟化成功了！"
+
+#. ~ Use action not_ready_msg for {'str': 'miso (unripe)', 'str_pl': 'miso
+#. (unripe)'}.
+#: .\comestibles.json
+msgid "Miso is aged."
+msgstr "味噌已熟化。"
+
+#. ~ Description for {'str': 'miso (unripe)', 'str_pl': 'miso (unripe)'}
+#: .\comestibles.json
+msgid ""
+"Miso in the middle of aging. If left alone, it will be ferment in 8 days."
+msgstr "正在熟化中的味噌。如果放置不管，它將在8天內發酵完成。"
+
+#: .\comestibles.json
+msgid "miso"
+msgid_plural "miso"
+msgstr[0] "味噌"
+
+#. ~ Description for {'str': 'miso', 'str_pl': 'miso'}
+#: .\comestibles.json
+msgid ""
+"Miso that has been matured. This food was treated as a health food during "
+"the edo period."
+msgstr "已熟化的味噌。這種食物在江戶時期被視為健康食品。"
+
+#: .\comestibles.json
+msgid "soy milk"
+msgid_plural "soy milk"
+msgstr[0] "豆漿"
+
+#. ~ Description for {'str': 'soy milk', 'str_pl': 'soy milk'}
+#: .\comestibles.json
+msgid ""
+"Squeezed soybeans. This looks like milk. But because it lacks fat, it can "
+"not replace milk."
+msgstr "榨取的大豆。這看起來像牛奶。但由於缺乏脂肪，它不能替代牛奶。"
+
+#: .\comestibles.json
+msgid "okara"
+msgid_plural "okara"
+msgstr[0] "豆渣"
+
+#. ~ Description for {'str': 'okara', 'str_pl': 'okara'}
+#: .\comestibles.json
+msgid "The remnants of soy milk. Has a sweet taste."
+msgstr "豆漿的殘渣。味道甜美。"
+
+#: .\comestibles.json
+msgid "tofu"
+msgid_plural "tofu"
+msgstr[0] "豆腐"
+
+#. ~ Description for {'str': 'tofu', 'str_pl': 'tofu'}
+#: .\comestibles.json
+msgid "A traditional japanese mainstay. Solidified soy milk."
+msgstr "日本傳統的主食。凝固的豆漿。"
+
+#: .\comestibles.json
+msgid "aburage"
+msgid_plural "aburage"
+msgstr[0] "油揚"
+
+#. ~ Description for {'str': 'aburage', 'str_pl': 'aburage'}
+#: .\comestibles.json
+msgid ""
+"Aburaage, also known as usu-age, is a type of Japanese deep-fried tofu (bean"
+" curd)."
+msgstr "油揚，也稱為薄揚，是一種日本油炸豆腐。"
+
+#: .\comestibles.json
+msgid "unohana"
+msgid_plural "unohana"
+msgstr[0] "卯之花"
+
+#. ~ Description for {'str': 'unohana', 'str_pl': 'unohana'}
+#: .\comestibles.json
+msgid ""
+"Stir-fried okara with vegetables and shiitake mushroom. Delicious and sweet."
+msgstr "用蔬菜和香菇炒制的豆渣。美味且甜美。"
+
+#: .\comestibles.json
+msgid "natto"
+msgid_plural "natto"
+msgstr[0] "納豆"
+
+#. ~ Description for {'str': 'natto', 'str_pl': 'natto'}
+#: .\comestibles.json
+msgid ""
+"Fermented soybeans using Bacillus natto. A mainstay of Japanese cuisine."
+msgstr "使用納豆芽孢桿菌發酵的大豆。日本料理的主食。"
+
+#: .\comestibles.json
+msgid "natto (unripe)"
+msgid_plural "natto (unripe)"
+msgstr[0] "納豆（未熟）"
+
+#. ~ Use action msg for {'str': 'natto (unripe)', 'str_pl': 'natto (unripe)'}.
+#: .\comestibles.json
+msgid "Now that's a unique smell! done!"
+msgstr "這味道真獨特！完成了！"
+
+#. ~ Use action not_ready_msg for {'str': 'natto (unripe)', 'str_pl': 'natto
+#. (unripe)'}.
+#: .\comestibles.json
+msgid "Currently fermenting."
+msgstr "正在發酵中。"
+
+#. ~ Description for {'str': 'natto (unripe)', 'str_pl': 'natto (unripe)'}
+#: .\comestibles.json
+msgid ""
+"Wrapped in soybeans. There are already natto bacteria in the beans, thus it "
+"is not necessary add any additional bacteria. It is only safe to leave them "
+"out for one day."
+msgstr "包裹在大豆中。豆中已有納豆菌，因此無需額外添加細菌。僅可安全放置一天。"
+
+#: .\comestibles.json
+msgid "dried natto"
+msgid_plural "dried natto"
+msgstr[0] "幹納豆"
+
+#. ~ Description for {'str': 'dried natto', 'str_pl': 'dried natto'}
+#: .\comestibles.json
+msgid ""
+"Special product of Ibaraki mixed with natto. The natto is sun-dried to "
+"enable long-term storage. The bacteria does not die when sun-dried alone, "
+"does not die when boiled, and does it die from high concentration radiation."
+" Like little waterbears."
+msgstr "茨城縣特產混合納豆。納豆經日曬乾燥以便長期儲存。單獨日曬不會殺死細菌，煮沸不會殺死，高濃度輻射也不會殺死。就像小水熊蟲一樣。"
+
+#: .\comestibles.json
+msgid "miso soup"
+msgid_plural "miso soup"
+msgstr[0] "味噌湯"
+
+#. ~ Description for {'str': 'miso soup', 'str_pl': 'miso soup'}
+#: .\comestibles.json
+msgid "Japanese-style soup with miso. Eat with plenty of vegetables."
+msgstr "日式味噌湯。搭配大量蔬菜食用。"
+
+#: .\comestibles.json
+msgid "natto soup"
+msgid_plural "natto soup"
+msgstr[0] "納豆湯"
+
+#. ~ Description for {'str': 'natto soup', 'str_pl': 'natto soup'}
+#: .\comestibles.json
+msgid ""
+"Miso soup with natto added. Looks good for you, but isn't particularly."
+msgstr "加入納豆的味噌湯。看起來不錯，但實際上並不特別。"
+
+#: .\comestibles.json
+msgid "sealed bottle (miso soup)"
+msgid_plural "sealed bottles (miso soup)"
+msgstr[0] "密封瓶（味噌湯）"
+
+#. ~ Use action msg for {'str': 'sealed bottle (miso soup)', 'str_pl': 'sealed
+#. bottles (miso soup)'}.
+#. ~ Use action msg for {'str': 'sealed bottle (natto soup)', 'str_pl':
+#. 'sealed bottles (natto soup)'}.
+#: .\comestibles.json
+msgid "You opened the lid of the sealed bottle, exposing the contents."
+msgstr "你打開了密封瓶的蓋子，露出了裡面的內容物。"
+
+#. ~ Description for {'str': 'sealed bottle (miso soup)', 'str_pl': 'sealed
+#. bottles (miso soup)'}
+#: .\comestibles.json
+msgid "A sealed glass jar containing miso soup. Edible after opening the lid."
+msgstr "一個裝有味噌湯的密封玻璃罐。打開蓋子後即可食用。"
+
+#: .\comestibles.json
+msgid "sealed bottle (natto soup)"
+msgid_plural "sealed bottles (natto soup)"
+msgstr[0] "密封瓶（納豆湯）"
+
+#. ~ Description for {'str': 'sealed bottle (natto soup)', 'str_pl': 'sealed
+#. bottles (natto soup)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing natto soup. You can eat if you open the lid."
+msgstr "一個裝有納豆湯的密封玻璃罐。打開蓋子後即可食用。"
+
+#: .\comestibles.json
+msgid "Tofu hamburger"
+msgid_plural "Tofu hamburgers"
+msgstr[0] "豆腐漢堡"
+
+#. ~ Description for {'str': 'Tofu hamburger', 'str_pl': 'Tofu hamburgers'}
+#: .\comestibles.json
+msgid ""
+"A baked patty of tofu and milled flour. A juicy morsel for all vegetarians."
+msgstr "用豆腐和麵粉烘烤而成的肉餅。為所有素食者提供的多汁美味。"
+
+#: .\comestibles.json
+msgid "tofu cheeseburger"
+msgid_plural "tofu cheeseburgers"
+msgstr[0] "豆腐芝士漢堡"
+
+#. ~ Description for {'str': 'tofu cheeseburger', 'str_pl': 'tofu
+#. cheeseburgers'}
+#: .\comestibles.json
+msgid "A tofu hamburger with cheese."
+msgstr "加了芝士的豆腐漢堡。"
+
+#: .\comestibles.json
+msgid "Tofu hamburger patty"
+msgid_plural "Tofu hamburger patties"
+msgstr[0] "豆腐漢堡肉餅"
+
+#. ~ Description for {'str': 'Tofu hamburger patty', 'str_pl': 'Tofu hamburger
+#. patties'}
+#: .\comestibles.json
+msgid "Just a round of tofu and flour. Bake and eat."
+msgstr "只是一塊豆腐和麵粉的圓餅。烘烤後食用。"
+
+#: .\comestibles.json
+msgid "vacuum pack (tofu hamburger patty)"
+msgid_plural "vacuum packs (tofu hamburger patty)"
+msgstr[0] "真空包裝（豆腐漢堡肉餅）"
+
+#. ~ Use action msg for {'str': 'vacuum pack (tofu hamburger patty)',
+#. 'str_pl': 'vacuum packs (tofu hamburger patty)'}.
+#. ~ Use action msg for {'str': 'vacuum pack (natto bread)', 'str_pl': 'vacuum
+#. packs (natto bread)'}.
+#: .\comestibles.json
+msgid "You open the vacuum pack, exposing the contents."
+msgstr "你打開了真空包裝，露出了裡面的內容物。"
+
+#. ~ Description for {'str': 'vacuum pack (tofu hamburger patty)', 'str_pl':
+#. 'vacuum packs (tofu hamburger patty)'}
+#: .\comestibles.json
+msgid ""
+"A vacuum pack of plastic packaging containing tofu hamburger patties. Bake "
+"after opening it."
+msgstr "一個裝有豆腐漢堡肉餅的塑料真空包裝。打開後烘烤食用。"
+
+#: .\comestibles.json
+msgid "triple tofu burger"
+msgid_plural "triple tofu burgers"
+msgstr[0] "三重豆腐漢堡"
+
+#. ~ Description for {'str': 'triple tofu burger', 'str_pl': 'triple tofu
+#. burgers'}
+#: .\comestibles.json
+msgid ""
+"A legendary item off the menu of the burger chain sozai official name: "
+"triple toast."
+msgstr "漢堡連鎖店sozai官方菜單上的傳奇物品：三重吐司。"
+
+#: .\comestibles.json
+msgid "soymilk cheese"
+msgid_plural "soymilk cheese"
+msgstr[0] "豆漿芝士"
+
+#. ~ Description for {'str': 'soymilk cheese', 'str_pl': 'soymilk cheese'}
+#: .\comestibles.json
+msgid ""
+"Cheese made from soy milk. Not as rich as normal cheese, but refreshing "
+"none-the-less."
+msgstr "用豆漿製成的芝士。不如普通芝士濃郁，但依然清爽。"
+
+#. ~ Description for {'str': 'koji', 'str_pl': 'koji'}
+#: .\comestibles.json
+msgid ""
+"A food made in the Heian period. The alkali of wood ash kills only bacteria "
+"that prefer potassium and phosphorus."
+msgstr "一種平安時代製作的食物。草木灰的鹼性只殺死偏好鉀和磷的細菌。"
+
+#: .\comestibles.json
+msgid "koji (immature)"
+msgid_plural "koji (immature)s"
+msgstr[0] "麴黴（未成熟）"
+
+#. ~ Use action msg for {'str': 'koji (immature)'}.
+#: .\comestibles.json
+msgid "Culture complete! done!"
+msgstr "培養完成！完成！"
+
+#. ~ Use action not_ready_msg for {'str': 'koji (immature)'}.
+#: .\comestibles.json
+msgid "Culturing koji."
+msgstr "正在培養麴黴。"
+
+#. ~ Description for {'str': 'koji (immature)'}
+#: .\comestibles.json
+msgid ""
+"Rice bran to grow on steamed rice and soybeans. Mixing wood ash is a recipe "
+"using Singa from the Heian period. Considered the best way to obtain proper "
+"bean sprouts."
+msgstr "米糠用於在蒸米和大豆上生長。混合草木灰是使用平安時代新芽的配方。被認為是獲得合適豆芽的最佳方法。"
+
+#: .\comestibles.json
+msgid "zunda"
+msgid_plural "zunda"
+msgstr[0] "毛豆泥"
+
+#. ~ Description for {'str': 'zunda', 'str_pl': 'zunda'}
+#: .\comestibles.json
+msgid "A ground of edamame. Becomes the raw material of zunder sweets."
+msgstr "毛豆的研磨物。成為毛豆甜點的原料。"
+
+#: .\comestibles.json
+msgid "kinako"
+msgid_plural "kinako"
+msgstr[0] "黃豆粉"
+
+#. ~ Description for {'str': 'kinako', 'str_pl': 'kinako'}
+#: .\comestibles.json
+msgid "Mashed soybean. Becomes the raw material of Japanese sweets."
+msgstr "搗碎的大豆。成為日式甜點的原料。"
+
+#: .\comestibles.json
+msgid "mirin"
+msgid_plural "mirin"
+msgstr[0] "味醂"
+
+#. ~ Description for {'str': 'mirin', 'str_pl': 'mirin'}
+#: .\comestibles.json
+msgid ""
+"Miso. One of the seasonings that adds sweet and sour taste to Japanese food."
+msgstr "味噌。為日式食物增添酸甜味的調味料之一。"
+
+#: .\comestibles.json
+msgid "mirin (unfermented)"
+msgid_plural "mirin (unfermented)"
+msgstr[0] "味醂（未發酵）"
+
+#. ~ Description for {'str': 'mirin (unfermented)', 'str_pl': 'mirin
+#. (unfermented)'}
+#: .\comestibles.json
+msgid "Becomes miso when it is aged. Takes about 70 hours to ferment."
+msgstr "陳化後成為味噌。發酵大約需要70小時。"
+
+#: .\comestibles.json
+msgid "nikujaga"
+msgid_plural "nikujaga"
+msgstr[0] "肉じゃが"
+
+#. ~ Description for {'str': 'nikujaga', 'str_pl': 'nikujaga'}
+#: .\comestibles.json
+msgid ""
+"Japanese food that is said to have been made by a certain famous naval "
+"general. It is quite sweet."
+msgstr "據說是由某位著名海軍將領製作的日式食物。相當甜。"
+
+#: .\comestibles.json
+msgid "sealed jar (nikujaga)"
+msgid_plural "sealed jars (nikujaga)"
+msgstr[0] "密封罐（肉じゃが）"
+
+#. ~ Use action msg for {'str': 'sealed jar (nikujaga)', 'str_pl': 'sealed
+#. jars (nikujaga)'}.
+#. ~ Use action msg for {'str': 'sealed jar (soymilk stew)', 'str_pl': 'sealed
+#. jars (soymilk stew)'}.
+#: .\comestibles.json
+msgid "You open the lid of the sealed bottle, exposing the contents."
+msgstr "你打開密封瓶的蓋子，暴露了裡面的內容物。"
+
+#. ~ Description for {'str': 'sealed jar (nikujaga)', 'str_pl': 'sealed jars
+#. (nikujaga)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing meat and potatoes. Eatable after the lid is "
+"opened."
+msgstr "一個裝有肉和土豆的密封玻璃罐。打開蓋子後即可食用。"
+
+#: .\comestibles.json
+msgid "boiled edamame"
+msgid_plural "boiled edamame"
+msgstr[0] "煮毛豆"
+
+#. ~ Description for {'str': 'boiled edamame', 'str_pl': 'boiled edamame'}
+#: .\comestibles.json
+msgid "Boiled green soybeans."
+msgstr "煮熟的青大豆。"
+
+#: .\comestibles.json
+msgid "inari"
+msgid_plural "inari"
+msgstr[0] "稻荷壽司"
+
+#. ~ Description for {'str': 'inari', 'str_pl': 'inari'}
+#: .\comestibles.json
+msgid "A rice ball wrapped in sweetened fried rice."
+msgstr "用甜味炸飯包裹的飯糰。"
+
+#: .\comestibles.json
+msgid "yuba"
+msgid_plural "yuba"
+msgstr[0] "腐竹"
+
+#. ~ Description for {'str': 'yuba', 'str_pl': 'yuba'}
+#: .\comestibles.json
+msgid ""
+"Boiling soymilk changes the surface into a film. This is called the Ramsden "
+"phenomenon."
+msgstr "煮沸豆漿使其表面形成一層薄膜。這被稱為蘭斯登現象。"
+
+#: .\comestibles.json
+msgid "grilled yuba"
+msgid_plural "grilled yuba"
+msgstr[0] "烤腐竹"
+
+#. ~ Description for {'str': 'grilled yuba', 'str_pl': 'grilled yuba'}
+#: .\comestibles.json
+msgid ""
+"A dish made out of grilled yuba. Yuba no Yakiyaki (grilled eel) and Seto bou"
+" (pickles)."
+msgstr "用烤腐竹製作的菜餚。腐竹燒（烤鰻魚）和瀨戶棒（醃菜）。"
+
+#: .\comestibles.json
+msgid "soymilk stew"
+msgid_plural "soymilk stew"
+msgstr[0] "豆漿燉菜"
+
+#. ~ Description for {'str': 'soymilk stew', 'str_pl': 'soymilk stew'}
+#: .\comestibles.json
+msgid "It is a stew made based on soymilk."
+msgstr "這是一種以豆漿為基礎的燉菜。"
+
+#: .\comestibles.json
+msgid "sealed jar (soymilk stew)"
+msgid_plural "sealed jars (soymilk stew)"
+msgstr[0] "密封罐（豆漿燉菜）"
+
+#. ~ Description for {'str': 'sealed jar (soymilk stew)', 'str_pl': 'sealed
+#. jars (soymilk stew)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing soymilk stew. Eatable once the lid is opened."
+msgstr "一個裝有豆漿燉菜的密封玻璃罐。打開蓋子後即可食用。"
+
+#: .\comestibles.json
+msgid "natto bread"
+msgid_plural "natto bread"
+msgstr[0] "納豆麵包"
+
+#. ~ Description for {'str': 'natto bread', 'str_pl': 'natto bread'}
+#: .\comestibles.json
+msgid "Bread containing natto."
+msgstr "含有納豆的麵包。"
+
+#: .\comestibles.json
+msgid "vacuum pack (natto bread)"
+msgid_plural "vacuum packs (natto bread)"
+msgstr[0] "真空包裝（納豆麵包）"
+
+#. ~ Description for {'str': 'vacuum pack (natto bread)', 'str_pl': 'vacuum
+#. packs (natto bread)'}
+#: .\comestibles.json
+msgid ""
+"A vacuum pack of plastic packaging containing natto bread. Eatable once "
+"opened."
+msgstr "一個裝有納豆麵包的塑料真空包裝。打開後即可食用。"
+
+#: .\containers.json
+msgid "straw pack"
+msgid_plural "straw packs"
+msgstr[0] "稻草包"
+
+#. ~ Description for {'str': 'straw pack', 'str_pl': 'straw packs'}
+#: .\containers.json
+msgid "It is a mochi which wrapped natto. Reusable."
+msgstr "這是一種包裹著納豆的麻糬。可重複使用。"
+
+#: .\melee.json
+msgid "Flowerpot (developing green soybeans)"
+msgid_plural "Flowerpots (developing green soybeans)"
+msgstr[0] "花盆（培育中的毛豆）"
+
+#. ~ Use action msg for {'str': 'Flowerpot (developing green soybeans)',
+#. 'str_pl': 'Flowerpots (developing green soybeans)'}.
+#: .\melee.json
+msgid "Edamame is ripe!"
+msgstr "毛豆成熟了！"
+
+#. ~ Use action not_ready_msg for {'str': 'Flowerpot (developing green
+#. soybeans)', 'str_pl': 'Flowerpots (developing green soybeans)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flowerpot (during soybean
+#. cultivation)', 'str_pl': 'Flowerpots (during soybean cultivation)'}.
+#: .\melee.json
+msgid "It's growing up quickly."
+msgstr "它長得很快。"
+
+#. ~ Description for {'str': 'Flowerpot (developing green soybeans)',
+#. 'str_pl': 'Flowerpots (developing green soybeans)'}
+#: .\melee.json
+msgid "It is a flowerpot that is raising edamame."
+msgstr "這是一個正在培育毛豆的花盆。"
+
+#: .\melee.json
+msgid "Flowerpot (Edamame)"
+msgid_plural "Flowerpots (Edamame)"
+msgstr[0] "花盆（毛豆）"
+
+#. ~ Description for {'str': 'Flowerpot (Edamame)', 'str_pl': 'Flowerpots
+#. (Edamame)'}
+#: .\melee.json
+msgid "It is a flowerpot where edamame has grown."
+msgstr "這是一個毛豆已經長成的花盆。"
+
+#: .\melee.json
+msgid "Flowerpot (during soybean cultivation)"
+msgid_plural "Flowerpots (during soybean cultivation)"
+msgstr[0] "花盆（大豆種植期間）"
+
+#. ~ Use action msg for {'str': 'Flowerpot (during soybean cultivation)',
+#. 'str_pl': 'Flowerpots (during soybean cultivation)'}.
+#: .\melee.json
+msgid "Soy has been produced!"
+msgstr "大豆已經產出！"
+
+#. ~ Description for {'str': 'Flowerpot (during soybean cultivation)',
+#. 'str_pl': 'Flowerpots (during soybean cultivation)'}
+#: .\melee.json
+msgid "It is a plant pot that grows soybeans."
+msgstr "這是一個種植大豆的植物盆。"
+
+#: .\melee.json
+msgid "Flowerpot (Soy)"
+msgid_plural "Flowerpots (Soy)"
+msgstr[0] "花盆（大豆）"
+
+#. ~ Description for {'str': 'Flowerpot (Soy)', 'str_pl': 'Flowerpots (Soy)'}
+#: .\melee.json
+msgid "It is a plant pot that has grown soybeans."
+msgstr "這是一個已經長成大豆的植物盆。"
+
+#: .\melee.json
+msgid "Miso barrel"
+msgid_plural "Miso barrels"
+msgstr[0] "味噌桶"
+
+#. ~ Description for {'str': 'Miso barrel', 'str_pl': 'Miso barrels'}
+#: .\melee.json
+msgid ""
+"It is a barrel for miso made of wood. It is safe to take out the finished "
+"miso and use it again."
+msgstr "這是一個木製的味噌桶。取出已完成的味噌並再次使用是安全的。"
+
+#: .\modinfo.json
+msgid "Soy mod"
+msgstr "大豆模組"
+
+#. ~ Description for Soy mod
+#: .\modinfo.json
+msgid "Adds soy and soy cooking related recipes. If you feel like it, please."
+msgstr "添加了大豆及大豆烹飪相關的配方。如果你有興趣，請隨意使用。"

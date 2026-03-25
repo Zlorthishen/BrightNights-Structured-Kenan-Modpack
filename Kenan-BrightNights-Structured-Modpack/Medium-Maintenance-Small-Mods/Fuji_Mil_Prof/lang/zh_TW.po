@@ -1,0 +1,281 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: fuji_mpp\n"
+"POT-Creation-Date: 2026-03-14 07:29+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Fuji's Military Profession Pack"
+msgstr "Fuji的軍事職業包"
+
+#. ~ Description for Fuji's Military Profession Pack
+#: .\modinfo.json
+msgid "Adds numerous military themed professions"
+msgstr "添加大量軍事主題職業"
+
+#: .\npc\classes.json
+msgid "Soldier"
+msgstr "士兵"
+
+#: .\npc\classes.json
+msgid "I'm just here for the paycheck."
+msgstr "我只是來領薪水的。"
+
+#: .\npc\classes.json
+msgid "Operator"
+msgstr "操作員"
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Rifleman"
+msgstr "軍事步槍兵"
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Rifleman"
+msgstr "軍事步槍兵"
+
+#. ~ Profession (male Military Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid ""
+"Frontline infantry, frontline infantry, frontline infantry, frontline "
+"infantry."
+msgstr "前線步兵，前線步兵，前線步兵，前線步兵。"
+
+#. ~ Profession (female Military Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid ""
+"Frontline infantry, frontline infantry, frontline infantry, frontline "
+"infantry."
+msgstr "前線步兵，前線步兵，前線步兵，前線步兵。"
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Marksman"
+msgstr "軍事射手"
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Marksman"
+msgstr "軍事射手"
+
+#. ~ Profession (male Military Marksman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid ""
+"You like to think you're a real sniper, but really you're just infantry with"
+" a bigger gun."
+msgstr "你總覺得自己是個真正的狙擊手，但實際上你只是個拿著更大槍的步兵。"
+
+#. ~ Profession (female Military Marksman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid ""
+"You like to think you're a real sniper, but really you're just infantry with"
+" a bigger gun."
+msgstr "你總覺得自己是個真正的狙擊手，但實際上你只是個拿著更大槍的步兵。"
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Automatic Rifleman"
+msgstr "軍事自動步槍兵"
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Automatic Rifleman"
+msgstr "軍事自動步槍兵"
+
+#. ~ Profession (male Military Automatic Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "S stands for suppressing fire!"
+msgstr "S代表壓制火力！"
+
+#. ~ Profession (female Military Automatic Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "S stands for suppressing fire!"
+msgstr "S代表壓制火力！"
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Grenadier"
+msgstr "軍事擲彈兵"
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Grenadier"
+msgstr "軍事擲彈兵"
+
+#. ~ Profession (male Military Grenadier) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "There's no kill like overkill."
+msgstr "沒有比過度殺傷更徹底的消滅了。"
+
+#. ~ Profession (female Military Grenadier) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "There's no kill like overkill."
+msgstr "沒有比過度殺傷更徹底的消滅了。"
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Breacher"
+msgstr "軍事破門手"
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Breacher"
+msgstr "軍事破門手"
+
+#. ~ Profession (male Military Breacher) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "Doors and windows everywhere dare not speak your name."
+msgstr "門窗遍地，卻無人敢提你的名字。"
+
+#. ~ Profession (female Military Breacher) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "Doors and windows everywhere dare not speak your name."
+msgstr "門窗遍地，卻無人敢提你的名字。"
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Recon"
+msgstr "偵察操作員"
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Recon"
+msgstr "偵察操作員"
+
+#. ~ Profession (male Operator Recon) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid "The only easy day was yesterday."
+msgstr "唯一輕鬆的日子是昨天。"
+
+#. ~ Profession (female Operator Recon) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid "The only easy day was yesterday."
+msgstr "唯一輕鬆的日子是昨天。"
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Sniper"
+msgstr "狙擊手操作員"
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Sniper"
+msgstr "狙擊手操作員"
+
+#. ~ Profession (male Operator Sniper) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You spent days dueling an enemy sniper, then he just… died.  And then un-"
+"died."
+msgstr "你花了幾天時間與敵方狙擊手對決，然後他……死了。接著又復活了。"
+
+#. ~ Profession (female Operator Sniper) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You spent days dueling an enemy sniper, then he just… died.  And then un-"
+"died."
+msgstr "你花了幾天時間與敵方狙擊手對決，然後他……死了。接著又復活了。"
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Hacker"
+msgstr "黑客操作員"
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Hacker"
+msgstr "黑客操作員"
+
+#. ~ Profession (male Operator Hacker) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You insist you're not a hacker, you're an 'Electronic Warfare Specialist'"
+msgstr "你堅稱自己不是黑客，而是“電子戰專家”。"
+
+#. ~ Profession (female Operator Hacker) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You insist you're not a hacker, you're an 'Electronic Warfare Specialist'"
+msgstr "你堅稱自己不是黑客，而是“電子戰專家”。"
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Undercover"
+msgstr "臥底操作員"
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Undercover"
+msgstr "臥底操作員"
+
+#. ~ Profession (male Operator Undercover) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been tailing your target for months and now he's a zombie.  So much "
+"for that lead."
+msgstr "你跟蹤目標數月，現在他卻成了殭屍。這條線索算是白費了。"
+
+#. ~ Profession (female Operator Undercover) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been tailing your target for months and now he's a zombie.  So much "
+"for that lead."
+msgstr "你跟蹤目標數月，現在他卻成了殭屍。這條線索算是白費了。"
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator CBRN"
+msgstr "化生放核操作員"
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator CBRN"
+msgstr "化生放核操作員"
+
+#. ~ Profession (male Operator CBRN) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"Chemical weapons?  Check.  Biological outbreak?  Check.  Nuclear war?  "
+"Check.  Sounds like the perfect job for you!"
+msgstr "化學武器？檢查。生物爆發？檢查。核戰爭？檢查。聽起來這工作正適合你！"
+
+#. ~ Profession (female Operator CBRN) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"Chemical weapons?  Check.  Biological outbreak?  Check.  Nuclear war?  "
+"Check.  Sounds like the perfect job for you!"
+msgstr "化學武器？檢查。生物爆發？檢查。核戰爭？檢查。聽起來這工作正適合你！"

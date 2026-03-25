@@ -1,0 +1,575 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: collectablemod\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items-darts.json
+msgid "foam dart"
+msgid_plural "foam darts"
+msgstr[0] "泡沫飛鏢"
+
+#. ~ Description for {'str': 'foam dart'}
+#: .\items-darts.json
+msgid "A dart made of flimsy foam.  It deals almost no damage."
+msgstr "由脆弱泡沫製成的飛鏢。幾乎不造成傷害。"
+
+#: .\items-darts.json
+msgid "Foam Dart Pistol"
+msgid_plural "Foam Dart Pistols"
+msgstr[0] "泡沫飛鏢手槍"
+
+#: .\items-darts.json
+msgid "A fairly harmless gun that shoots small foam darts."
+msgstr "一種相當無害的槍械，可發射小型泡沫飛鏢。"
+
+#: .\items-darts.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\items-darts.json
+msgid "Foam Dart SMG"
+msgid_plural "Foam Dart SMGs"
+msgstr[0] "泡沫飛鏢衝鋒槍"
+
+#: .\items-darts.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\items-darts.json
+msgid "auto"
+msgstr "自動"
+
+#: .\items-darts.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "衝鋒槍"
+
+#: .\items-dish.json
+msgid "Blue Decorative plate"
+msgid_plural "Blue Decorative plates"
+msgstr[0] "藍色裝飾盤"
+
+#. ~ Description for {'str': 'Blue Decorative plate'}
+#: .\items-dish.json
+msgid "A blue decorative plate."
+msgstr "一個藍色的裝飾盤。"
+
+#: .\items-dish.json
+msgid "Red Decorative plate"
+msgid_plural "Red Decorative plates"
+msgstr[0] "紅色裝飾盤"
+
+#. ~ Description for {'str': 'Red Decorative plate'}
+#: .\items-dish.json
+msgid "A red decorative plate."
+msgstr "一個紅色的裝飾盤。"
+
+#: .\items-dish.json
+msgid "Green Decorative plate"
+msgid_plural "Green Decorative plates"
+msgstr[0] "綠色裝飾盤"
+
+#. ~ Description for {'str': 'Green Decorative plate'}
+#: .\items-dish.json
+msgid "A green decorative plate."
+msgstr "一個綠色的裝飾盤。"
+
+#: .\items-stamps.json
+msgid "River Postage Stamp"
+msgid_plural "River Postage Stamps"
+msgstr[0] "河流郵票"
+
+#. ~ Description for {'str': 'River Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of a river on it."
+msgstr "一張印有河流圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Snowy Mountain Postage Stamp"
+msgid_plural "Snowy Mountain Postage Stamps"
+msgstr[0] "雪山郵票"
+
+#. ~ Description for {'str': 'Snowy Mountain Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of snowy mountains on it."
+msgstr "一張印有雪山圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Forest Postage Stamp"
+msgid_plural "Forest Postage Stamps"
+msgstr[0] "森林郵票"
+
+#. ~ Description for {'str': 'Forest Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of a forest on it."
+msgstr "一張印有森林圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Desert Postage Stamp"
+msgid_plural "Desert Postage Stamps"
+msgstr[0] "沙漠郵票"
+
+#. ~ Description for {'str': 'Desert Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of a desert on it."
+msgstr "一張印有沙漠圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Stars Postage Stamp"
+msgid_plural "Stars Postage Stamps"
+msgstr[0] "星空郵票"
+
+#. ~ Description for {'str': 'Stars Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of stars on it."
+msgstr "一張印有星星圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Truck Postage Stamp"
+msgid_plural "Truck Postage Stamps"
+msgstr[0] "卡車郵票"
+
+#. ~ Description for {'str': 'Truck Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of an old red truck on it."
+msgstr "一張印有舊紅色卡車圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Toxic Waste Postage Stamp"
+msgid_plural "Toxic Waste Postage Stamps"
+msgstr[0] "有毒廢料郵票"
+
+#. ~ Description for {'str': 'Toxic Waste Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of toxic waste on it."
+msgstr "一張印有有毒廢料圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "Swimming Postage Stamp"
+msgid_plural "Swimming Postage Stamps"
+msgstr[0] "游泳郵票"
+
+#. ~ Description for {'str': 'Swimming Postage Stamp'}
+#: .\items-stamps.json
+msgid "A postage stamp with an image of someone swimming on it."
+msgstr "一張印有人游泳圖案的郵票。"
+
+#: .\items-stamps.json
+msgid "finished stamp book"
+msgid_plural "finished stamp books"
+msgstr[0] "完成的郵票冊"
+
+#. ~ Description for {'str': 'finished stamp book'}
+#: .\items-stamps.json
+msgid ""
+"A leather album full of stamps you've collected.  Seeing your finished "
+"collection makes you feel satisfied."
+msgstr "一本裝滿你收集的郵票的皮革相冊。看到完成的收藏讓你感到滿足。"
+
+#: .\items-toys.json
+msgid "Zombie Figurine"
+msgid_plural "Zombie Figurines"
+msgstr[0] "殭屍小雕像"
+
+#. ~ Description for {'str': 'Zombie Figurine'}
+#: .\items-toys.json
+msgid "A figurine of a zombie running."
+msgstr "一個奔跑的殭屍小雕像。"
+
+#: .\items-toys.json
+msgid "Horse Figurine"
+msgid_plural "Horse Figurines"
+msgstr[0] "馬匹小雕像"
+
+#. ~ Description for {'str': 'Horse Figurine'}
+#: .\items-toys.json
+msgid "A figurine of a horse."
+msgstr "一個馬匹小雕像。"
+
+#: .\items-toys.json
+msgid "Moose Plushie"
+msgid_plural "Moose Plushies"
+msgstr[0] "駝鹿毛絨玩具"
+
+#. ~ Description for {'str': 'Moose Plushie'}
+#: .\items-toys.json
+msgid "A soft moose plushie."
+msgstr "一個柔軟的駝鹿毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Zombie Plushie"
+msgid_plural "Zombie Plushies"
+msgstr[0] "殭屍毛絨玩具"
+
+#. ~ Description for {'str': 'Zombie Plushie'}
+#: .\items-toys.json
+msgid "A soft zombie plushie."
+msgstr "一個柔軟的殭屍毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Zombie Moose Plushie"
+msgid_plural "Zombie Moose Plushies"
+msgstr[0] "殭屍駝鹿毛絨玩具"
+
+#. ~ Description for {'str': 'Zombie Moose Plushie'}
+#: .\items-toys.json
+msgid "A soft zombie moose plushie."
+msgstr "一個柔軟的殭屍駝鹿毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Green Alien Plushie"
+msgid_plural "Green Alien Plushies"
+msgstr[0] "綠色外星人毛絨玩具"
+
+#. ~ Description for {'str': 'Green Alien Plushie'}
+#: .\items-toys.json
+msgid "A soft green alien plushie."
+msgstr "一個柔軟的綠色外星人毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Gray Alien Plushie"
+msgid_plural "Gray Alien Plushies"
+msgstr[0] "灰色外星人毛絨玩具"
+
+#. ~ Description for {'str': 'Gray Alien Plushie'}
+#: .\items-toys.json
+msgid "A soft gray alien plushie."
+msgstr "一個柔軟的灰色外星人毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Frog Plushie"
+msgid_plural "Frog Plushies"
+msgstr[0] "青蛙毛絨玩具"
+
+#. ~ Description for {'str': 'Frog Plushie'}
+#: .\items-toys.json
+msgid "A soft frog plushie."
+msgstr "一個柔軟的青蛙毛絨玩具。"
+
+#: .\items-toys.json
+msgid "Snowman Figurine"
+msgid_plural "Snowman Figurines"
+msgstr[0] "雪人小雕像"
+
+#. ~ Description for {'str': 'Snowman Figurine'}
+#: .\items-toys.json
+msgid "A small plastic snowman figurine."
+msgstr "一個小塑料雪人小雕像。"
+
+#: .\items-toys.json
+msgid "Pig Plushie"
+msgid_plural "Pig Plushies"
+msgstr[0] "小豬玩偶"
+
+#. ~ Description for {'str': 'Pig Plushie'}
+#: .\items-toys.json
+msgid "A soft pig plushie."
+msgstr "一個柔軟的小豬玩偶。"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card booster pack"
+msgid_plural "End Times trading card booster packs"
+msgstr[0] "末日交易卡牌補充包"
+
+#. ~ Description for {'str': 'End Times trading card booster pack'}
+#: .\items-tradingcards.json
+msgid "A booster pack for the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲的補充包"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - rats"
+msgid_plural "End Times trading card - ratss"
+msgstr[0] "末日交易卡牌 - 鼠群"
+
+#. ~ Description for {'str': 'End Times trading card - rats'}
+#. ~ Description for {'str': 'Holographic End Times trading card - rats'}
+#: .\items-tradingcards.json
+msgid "A rat horde card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的鼠群卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - beach"
+msgid_plural "End Times trading card - beachs"
+msgstr[0] "末日交易卡牌 - 海灘"
+
+#. ~ Description for {'str': 'End Times trading card - beach'}
+#. ~ Description for {'str': 'Holographic End Times trading card - beach'}
+#: .\items-tradingcards.json
+msgid "A beach card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的海灘卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - blood tide"
+msgid_plural "End Times trading card - blood tides"
+msgstr[0] "末日交易卡牌 - 血潮"
+
+#. ~ Description for {'str': 'End Times trading card - blood tide'}
+#. ~ Description for {'str': 'Holographic End Times trading card - blood
+#. tide'}
+#: .\items-tradingcards.json
+msgid "A blood tide card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的血潮卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - nuke"
+msgid_plural "End Times trading card - nukes"
+msgstr[0] "末日交易卡牌 - 核彈"
+
+#. ~ Description for {'str': 'End Times trading card - nuke'}
+#. ~ Description for {'str': 'Holographic End Times trading card - nuke'}
+#: .\items-tradingcards.json
+msgid "A nuke card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的核彈卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - corpse"
+msgid_plural "End Times trading card - corpses"
+msgstr[0] "末日交易卡牌 - 屍體"
+
+#. ~ Description for {'str': 'End Times trading card - corpse'}
+#. ~ Description for {'str': 'Holographic End Times trading card - corpse'}
+#: .\items-tradingcards.json
+msgid "A corpse card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的屍體卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - forest"
+msgid_plural "End Times trading card - forests"
+msgstr[0] "末日交易卡牌 - 森林"
+
+#. ~ Description for {'str': 'End Times trading card - forest'}
+#. ~ Description for {'str': 'Holographic End Times trading card - forest'}
+#: .\items-tradingcards.json
+msgid "A forest card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的森林卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - surgery"
+msgid_plural "End Times trading card - surgerys"
+msgstr[0] "末日交易卡牌 - 手術"
+
+#. ~ Description for {'str': 'End Times trading card - surgery'}
+#. ~ Description for {'str': 'Holographic End Times trading card - surgery'}
+#: .\items-tradingcards.json
+msgid "A surgery card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的手術卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - burger"
+msgid_plural "End Times trading card - burgers"
+msgstr[0] "末日交易卡牌 - 漢堡"
+
+#. ~ Description for {'str': 'End Times trading card - burger'}
+#. ~ Description for {'str': 'Holographic End Times trading card - burger'}
+#: .\items-tradingcards.json
+msgid "A burger card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的漢堡卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - zombie"
+msgid_plural "End Times trading card - zombies"
+msgstr[0] "末日交易卡牌 - 殭屍"
+
+#. ~ Description for {'str': 'End Times trading card - zombie'}
+#. ~ Description for {'str': 'Holographic End Times trading card - zombie'}
+#: .\items-tradingcards.json
+msgid "A zombie card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的殭屍卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - moose"
+msgid_plural "End Times trading card - mooses"
+msgstr[0] "末日交易卡牌 - 駝鹿"
+
+#. ~ Description for {'str': 'End Times trading card - moose'}
+#. ~ Description for {'str': 'Holographic End Times trading card - moose'}
+#: .\items-tradingcards.json
+msgid "A moose card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的駝鹿卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - evac shelter"
+msgid_plural "End Times trading card - evac shelters"
+msgstr[0] "末日交易卡牌 - 疏散避難所"
+
+#. ~ Description for {'str': 'End Times trading card - evac shelter'}
+#. ~ Description for {'str': 'Holographic End Times trading card - evac
+#. shelter'}
+#: .\items-tradingcards.json
+msgid "An evac shelter card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的疏散避難所卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - drug"
+msgid_plural "End Times trading card - drugs"
+msgstr[0] "末日交易卡牌 - 毒品"
+
+#. ~ Description for {'str': 'End Times trading card - drug'}
+#. ~ Description for {'str': 'Holographic End Times trading card - drug'}
+#: .\items-tradingcards.json
+msgid "A drug card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的毒品卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - boomer"
+msgid_plural "End Times trading card - boomers"
+msgstr[0] "末日交易卡牌 - 胖子"
+
+#. ~ Description for {'str': 'End Times trading card - boomer'}
+#. ~ Description for {'str': 'Holographic End Times trading card - boomer'}
+#: .\items-tradingcards.json
+msgid "A boomer card from the End Times Trading Card Game"
+msgstr "末日交易卡牌遊戲中的胖子卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - guns"
+msgid_plural "End Times trading card - gunss"
+msgstr[0] "終末時代交易卡牌 - 槍械"
+
+#. ~ Description for {'str': 'End Times trading card - guns'}
+#. ~ Description for {'str': 'Holographic End Times trading card - guns'}
+#: .\items-tradingcards.json
+msgid "A gun card from the End Times Trading Card Game"
+msgstr "一張來自《終末時代交易卡牌遊戲》的槍械卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - knife"
+msgid_plural "End Times trading card - knifes"
+msgstr[0] "終末時代交易卡牌 - 刀具"
+
+#. ~ Description for {'str': 'End Times trading card - knife'}
+#. ~ Description for {'str': 'Holographic End Times trading card - knife'}
+#: .\items-tradingcards.json
+msgid "A knife card from the End Times Trading Card Game"
+msgstr "一張來自《終末時代交易卡牌遊戲》的刀具卡牌"
+
+#: .\items-tradingcards.json
+msgid "End Times trading card - zombie moose"
+msgid_plural "End Times trading card - zombie mooses"
+msgstr[0] "終末時代交易卡牌 - 殭屍駝鹿"
+
+#. ~ Description for {'str': 'End Times trading card - zombie moose'}
+#. ~ Description for {'str': 'Holographic End Times trading card - zombie
+#. moose'}
+#: .\items-tradingcards.json
+msgid "A zombie moose card from the End Times Trading Card Game"
+msgstr "一張來自《終末時代交易卡牌遊戲》的殭屍駝鹿卡牌"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - rats"
+msgid_plural "Holographic End Times trading card - ratss"
+msgstr[0] "全息終末時代交易卡牌 - 老鼠"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - beach"
+msgid_plural "Holographic End Times trading card - beachs"
+msgstr[0] "全息終末時代交易卡牌 - 海灘"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - blood tide"
+msgid_plural "Holographic End Times trading card - blood tides"
+msgstr[0] "全息終末時代交易卡牌 - 血潮"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - nuke"
+msgid_plural "Holographic End Times trading card - nukes"
+msgstr[0] "全息終末時代交易卡牌 - 核彈"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - corpse"
+msgid_plural "Holographic End Times trading card - corpses"
+msgstr[0] "全息終末時代交易卡牌 - 屍體"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - forest"
+msgid_plural "Holographic End Times trading card - forests"
+msgstr[0] "全息終末時代交易卡牌 - 森林"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - surgery"
+msgid_plural "Holographic End Times trading card - surgerys"
+msgstr[0] "全息終末時代交易卡牌 - 手術"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - burger"
+msgid_plural "Holographic End Times trading card - burgers"
+msgstr[0] "全息終末時代交易卡牌 - 漢堡"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - zombie"
+msgid_plural "Holographic End Times trading card - zombies"
+msgstr[0] "全息終末時代交易卡牌 - 殭屍"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - moose"
+msgid_plural "Holographic End Times trading card - mooses"
+msgstr[0] "全息終末時代交易卡牌 - 駝鹿"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - evac shelter"
+msgid_plural "Holographic End Times trading card - evac shelters"
+msgstr[0] "全息終末時代交易卡牌 - 疏散避難所"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - drug"
+msgid_plural "Holographic End Times trading card - drugs"
+msgstr[0] "全息終末時代交易卡牌 - 毒品"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - boomer"
+msgid_plural "Holographic End Times trading card - boomers"
+msgstr[0] "全息終末時代交易卡牌 - 胖子殭屍"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - guns"
+msgid_plural "Holographic End Times trading card - gunss"
+msgstr[0] "全息終末時代交易卡牌 - 槍械"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - knife"
+msgid_plural "Holographic End Times trading card - knifes"
+msgstr[0] "全息終末時代交易卡牌 - 刀具"
+
+#: .\items-tradingcards.json
+msgid "Holographic End Times trading card - zombie moose"
+msgid_plural "Holographic End Times trading card - zombie mooses"
+msgstr[0] "全息終末時代交易卡牌 - 殭屍駝鹿"
+
+#: .\items-tradingcards.json
+msgid "Gold Holographic End Times trading card - moose"
+msgid_plural "Gold Holographic End Times trading card - mooses"
+msgstr[0] "金色全息終末時代交易卡牌 - 駝鹿"
+
+#. ~ Description for {'str': 'Gold Holographic End Times trading card -
+#. moose'}
+#: .\items-tradingcards.json
+msgid ""
+"A golden holographic moose card from the End Times Trading Card Game. What a"
+" find!"
+msgstr "一張來自《終末時代交易卡牌遊戲》的金色全息駝鹿卡牌。真是個好發現！"
+
+#: .\modinfo.json
+msgid "Whaleys Collectables"
+msgstr "威利的收藏品"
+
+#. ~ Description for Whaleys Collectables
+#: .\modinfo.json
+msgid ""
+"Adds collectible trading cards, stamps, and several new toys including dart "
+"guns."
+msgstr "添加了可收藏的交易卡牌、郵票以及幾種新玩具，包括飛鏢槍。"

@@ -1,0 +1,374 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apex\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Project APEX"
+msgstr "APEX计划"
+
+#. ~ Description for Project APEX
+#: .\modinfo.json
+msgid "Stage 0. High-end, mid-to-late game armor and equipment"
+msgstr "阶段0。高端、中后期游戏护甲与装备"
+
+#: .\debug\mutations.json
+msgid "Debug Regeneration"
+msgstr "调试再生"
+
+#. ~ Description for {'str': 'Debug Regeneration'}
+#: .\debug\mutations.json
+msgid "Your body regenerates at a very bugged rate."
+msgstr "你的身体以极高的错误率再生。"
+
+#: .\debug\mutations.json
+msgid "Debug Toughness"
+msgstr "调试坚韧"
+
+#. ~ Description for {'str': 'Debug Toughness'}
+#: .\debug\mutations.json
+msgid "Your body can withstand a buggy amount of harm."
+msgstr "你的身体能承受极高的错误伤害量。"
+
+#: .\debug\professions.json
+msgctxt "profession_male"
+msgid "APEX DEBUG - Mk 0"
+msgstr "APEX调试 - Mk 0"
+
+#: .\debug\professions.json
+msgctxt "profession_female"
+msgid "APEX DEBUG - Mk 0"
+msgstr "APEX调试 - Mk 0"
+
+#. ~ Profession (male APEX DEBUG - Mk 0) description
+#: .\debug\professions.json
+msgctxt "prof_desc_male"
+msgid "You start with APEX Mk 0 prototype armor"
+msgstr "你初始拥有APEX Mk 0原型装甲。"
+
+#. ~ Profession (female APEX DEBUG - Mk 0) description
+#: .\debug\professions.json
+msgctxt "prof_desc_female"
+msgid "You start with APEX Mk 0 prototype armor"
+msgstr "你初始拥有APEX Mk 0原型装甲。"
+
+#: .\debug\professions.json
+msgctxt "profession_male"
+msgid "APEX DEBUG - Mk I"
+msgstr "APEX 调试 - Mk I"
+
+#: .\debug\professions.json
+msgctxt "profession_female"
+msgid "APEX DEBUG - Mk I"
+msgstr "APEX 调试 - Mk I"
+
+#. ~ Profession (male APEX DEBUG - Mk I) description
+#: .\debug\professions.json
+msgctxt "prof_desc_male"
+msgid "You start with APEX Mk I armor"
+msgstr "你初始拥有APEX Mk I装甲。"
+
+#. ~ Profession (female APEX DEBUG - Mk I) description
+#: .\debug\professions.json
+msgctxt "prof_desc_female"
+msgid "You start with APEX Mk I armor"
+msgstr "你初始拥有APEX Mk I装甲。"
+
+#: .\debug\professions.json
+msgctxt "profession_male"
+msgid "APEX DEBUG - Mk II"
+msgstr "APEX 调试 - Mk II"
+
+#: .\debug\professions.json
+msgctxt "profession_female"
+msgid "APEX DEBUG - Mk II"
+msgstr "APEX 调试 - Mk II"
+
+#. ~ Profession (male APEX DEBUG - Mk II) description
+#: .\debug\professions.json
+msgctxt "prof_desc_male"
+msgid "You start with APEX Mk II armor."
+msgstr "你初始拥有APEX Mk II装甲。"
+
+#. ~ Profession (female APEX DEBUG - Mk II) description
+#: .\debug\professions.json
+msgctxt "prof_desc_female"
+msgid "You start with APEX Mk II armor."
+msgstr "你初始拥有APEX Mk II装甲。"
+
+#: .\debug\professions.json
+msgctxt "profession_male"
+msgid "APEX DEBUG - Mk III"
+msgstr "APEX 调试 - Mk III"
+
+#: .\debug\professions.json
+msgctxt "profession_female"
+msgid "APEX DEBUG - Mk III"
+msgstr "APEX 调试 - Mk III"
+
+#. ~ Profession (male APEX DEBUG - Mk III) description
+#: .\debug\professions.json
+msgctxt "prof_desc_male"
+msgid "You start with APEX Mk III armor."
+msgstr "你初始拥有APEX Mk III装甲。"
+
+#. ~ Profession (female APEX DEBUG - Mk III) description
+#: .\debug\professions.json
+msgctxt "prof_desc_female"
+msgid "You start with APEX Mk III armor."
+msgstr "你初始拥有APEX Mk III装甲。"
+
+#. ~ Name for scenario 'APEX DEBUG' for a male character
+#: .\debug\scenarios.json
+msgctxt "scenario_male"
+msgid "APEX DEBUG"
+msgstr "APEX 调试"
+
+#. ~ Name for scenario 'APEX DEBUG' for a female character
+#: .\debug\scenarios.json
+msgctxt "scenario_female"
+msgid "APEX DEBUG"
+msgstr "APEX 调试"
+
+#. ~ Description for scenario 'APEX DEBUG' for a male character.
+#: .\debug\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You have survived the initial wave of panic, and have achieved (relative) "
+"safety in one of the many government evac shelters."
+msgstr "你已从最初的恐慌浪潮中幸存下来，并在众多政府疏散避难所之一获得了（相对的）安全。"
+
+#. ~ Description for scenario 'APEX DEBUG' for a female character.
+#: .\debug\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You have survived the initial wave of panic, and have achieved (relative) "
+"safety in one of the many government evac shelters."
+msgstr "你已从最初的恐慌浪潮中幸存下来，并在众多政府疏散避难所之一获得了（相对的）安全。"
+
+#. ~ Starting location for scenario 'APEX DEBUG'.
+#: .\debug\scenarios.json
+msgctxt "start_name"
+msgid "Evac Shelter"
+msgstr "疏散避难所"
+
+#: .\items\books.json
+msgid "schematics for APEX Mk I suit"
+msgid_plural "schematics for APEX Mk I suits"
+msgstr[0] "APEX Mk I 套装设计图"
+
+#. ~ Description for {'str': 'schematics for APEX Mk I suit'}
+#: .\items\books.json
+msgid ""
+"Detailed set of instructions for manually turning prototype Mk 0 suit into a"
+" Mk I. Requires digitizing the suit by inserting and insulating the "
+"governing AI module and the cables connected to holder bracers placed at "
+"joint locations. An alternative is suggested in using a molecular forge to "
+"speed up the process considerably, with instructions supplied for the "
+"process as well."
+msgstr ""
+"一套详细的手动将原型Mk 0套装升级为Mk "
+"I的说明。需要通过插入并绝缘主导AI模块以及连接到关节处固定支架的电缆来实现套装的数字化。建议使用分子锻造机来显著加快此过程，并附有相关操作说明。"
+
+#: .\items\books.json
+msgid "schematics for APEX Mk I suit (processing)"
+msgid_plural "schematics for APEX Mk I suit (processing)s"
+msgstr[0] "APEX Mk I 套装设计图（处理中）"
+
+#. ~ Use action msg for {'str': 'schematics for APEX Mk I suit (processing)'}.
+#: .\items\books.json
+msgid "schematics turn usable"
+msgstr "设计图已可用"
+
+#. ~ Use action not_ready_msg for {'str': 'schematics for APEX Mk I suit
+#. (processing)'}.
+#: .\items\books.json
+msgid "schematics not yet ready"
+msgstr "设计图尚未就绪"
+
+#. ~ Description for {'str': 'schematics for APEX Mk I suit (processing)'}
+#: .\items\books.json
+msgid ""
+"Data on producing APEX Mk I suit, currently compiling. It could be used in "
+"crafting once fully rendered."
+msgstr "关于制造APEX Mk I套装的数据，目前正在编译中。一旦完全渲染完成，即可用于制作。"
+
+#: .\items\books.json
+msgid "Bitter Logic tangents (APEX Mk I suit)"
+msgid_plural "Bitter Logic tangents (APEX Mk I suit)s"
+msgstr[0] "苦涩逻辑切线（APEX Mk I 套装）"
+
+#. ~ Description for {'str': 'Bitter Logic tangents (APEX Mk I suit)'}
+#: .\items\books.json
+msgid ""
+"A set of tangents - logical premises - for the EULER design asssitance "
+"system. This one is labeled \"suit, Mk I\". The only other human-language "
+"text on all pages is the hastily-scribbled \"how to turn prototype into real"
+" thing\"."
+msgstr ""
+"一套针对EULER设计辅助系统的切线——逻辑前提。这份标记为“套装，Mk I”。所有页面上唯一其他的人类语言文本是匆忙涂写的“如何将原型变成真品”。"
+
+#: .\items\materials.json
+msgid "nanofiber"
+msgstr "纳米纤维"
+
+#: .\items\materials.json
+msgid "compressed"
+msgstr "压缩"
+
+#: .\items\materials.json
+msgid "gouged"
+msgstr "凿痕"
+
+#: .\items\materials.json
+msgid "80% integrity"
+msgstr "80% 完整度"
+
+#: .\items\materials.json
+msgid "60% integrity"
+msgstr "60% 完整度"
+
+#: .\items\materials.json
+msgid "40% integrity"
+msgstr "40% 完整度"
+
+#: .\items\materials.json
+msgid "20% integrity"
+msgstr "20% 完整度"
+
+#: .\items\materials.json
+msgid "hypersteel"
+msgstr "超钢"
+
+#: .\items\materials.json
+msgid "phase matter"
+msgstr "相位物质"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module"
+msgid_plural "APEX suit modules"
+msgstr[0] "APEX 套装模块"
+
+#. ~ Description for {'str': 'APEX suit module'}
+#: .\items\suit\modules.json
+msgid "abstract part for APEX module - if you see this, it's a bug"
+msgstr "APEX模块的抽象部件——如果你看到这个，那是个错误。"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (system)"
+msgid_plural "APEX suit module (system)s"
+msgstr[0] "APEX 套装模块（系统）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (cortex)"
+msgid_plural "APEX suit module (cortex)s"
+msgstr[0] "APEX 套装模块（皮质）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (mobility)"
+msgid_plural "APEX suit module (mobility)s"
+msgstr[0] "APEX 套装模块（机动性）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (strength enhancement)"
+msgid_plural "APEX suit module (strength enhancement)s"
+msgstr[0] "APEX 套装模块（力量增强）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (stealth suite)"
+msgid_plural "APEX suit module (stealth suite)s"
+msgstr[0] "APEX 套装模块（潜行套件）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (ultrawide band scanner)"
+msgid_plural "APEX suit module (ultrawide band scanner)s"
+msgstr[0] "APEX 套装模块（超宽带扫描仪）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (exocortex)"
+msgid_plural "APEX suit module (exocortex)s"
+msgstr[0] "APEX 套装模块（外皮质）"
+
+#: .\items\suit\modules.json
+msgid "APEX suit module (mobility suite)"
+msgid_plural "APEX suit module (mobility suite)s"
+msgstr[0] "APEX 套装模块（机动组件）"
+
+#: .\items\suit\suits.json
+msgid "APEX suit"
+msgid_plural "APEX suits"
+msgstr[0] "APEX 套装"
+
+#: .\items\suit\suits.json
+msgid "APEX Mk 0 suit"
+msgid_plural "APEX Mk 0 suits"
+msgstr[0] "APEX Mk 0 套装"
+
+#. ~ Description for {'str': 'APEX Mk 0 suit'}
+#: .\items\suit\suits.json
+msgid ""
+"Prototype APEX suit of armor, printed the showcase the potential of the APEX"
+" Armor Division projects. Offers excellent protection in melee combat."
+msgstr "APEX 装甲原型套装，用于展示 APEX 装甲部门项目的潜力。在近战格斗中提供卓越的防护。"
+
+#: .\items\suit\suits.json
+msgid "APEX Mk I suit"
+msgid_plural "APEX Mk I suits"
+msgstr[0] "APEX Mk I 套装"
+
+#. ~ Description for {'str': 'APEX Mk I suit'}
+#: .\items\suit\suits.json
+msgid ""
+"AI-controlled suit of armor, the first model to be derived tangentially "
+"using Bitter Logic. It is easier to wear despite increased weight and "
+"volume. Thanks to optimizations in structure and AI's management of the "
+"suit, Mk I features improved protection against external threats."
+msgstr ""
+"AI 控制的装甲套装，是首个利用 Bitter Logic 间接衍生的型号。尽管重量和体积增加，但更易于穿戴。得益于结构优化和 AI 对套装的管理，Mk"
+" I 在抵御外部威胁方面提供了改进的防护。"
+
+#: .\items\suit\suits.json
+msgid "APEX Mk II suit"
+msgid_plural "APEX Mk II suits"
+msgstr[0] "APEX Mk II 套装"
+
+#. ~ Description for {'str': 'APEX Mk II suit'}
+#. ~ Description for {'str': 'APEX Mk III suit'}
+#: .\items\suit\suits.json .\items\weapons\ballistic\pistols.json
+#: .\items\weapons\ballistic\rifles.json
+msgid "TBD"
+msgstr "待定"
+
+#: .\items\suit\suits.json
+msgid "APEX Mk III suit"
+msgid_plural "APEX Mk III suits"
+msgstr[0] "APEX Mk III 套装"
+
+#: .\items\weapons\ballistic\pistols.json
+msgid "APEX 2 pistol"
+msgid_plural "APEX 2 pistols"
+msgstr[0] "APEX 2 手枪"
+
+#: .\items\weapons\ballistic\pistols.json
+#: .\items\weapons\ballistic\rifles.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\items\weapons\ballistic\pistols.json
+msgid "double tap"
+msgstr "双发速射"
+
+#: .\items\weapons\ballistic\rifles.json
+msgid "APEX 46 assault rifle"
+msgid_plural "APEX 46 assault rifles"
+msgstr[0] "APEX 46 突击步枪"
+
+#: .\items\weapons\ballistic\rifles.json
+msgid "auto"
+msgstr "自动"

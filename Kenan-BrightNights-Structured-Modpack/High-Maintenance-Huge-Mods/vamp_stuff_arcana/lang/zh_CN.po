@@ -1,0 +1,1161 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vamp_stuff+arcana\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Vampiric Stuff + Arcana Mod Extension"
+msgstr "吸血鬼物品 + 奥秘模组扩展"
+
+#. ~ Description for Vampiric Stuff + Arcana Mod Extension
+#: .\modinfo.json
+msgid "Links Vampiric Stuff and Arcana for various new contents and features."
+msgstr "连接吸血鬼物品与奥秘模组，提供各种新内容和功能。"
+
+#: .\Items\items.json
+msgid "arcane token"
+msgid_plural "arcane tokens"
+msgstr[0] "奥秘代币"
+
+#. ~ Description for arcane token
+#: .\Items\items.json
+msgid ""
+"A small coin made out of scrapped metal, possibly minted by handcrafting. It"
+" is beautifully etched, showing valuability for something."
+msgstr "一枚由废金属制成的小硬币，可能是手工铸造的。上面刻有精美的蚀刻，显示出对某物的珍贵价值。"
+
+#: .\Locations\locations.json
+msgid "wasteland outskirts"
+msgstr "废土边缘"
+
+#: .\Mutations\mutations.json
+msgid "Marked of the Vampire"
+msgstr "吸血鬼印记"
+
+#. ~ Description for {'str': 'Marked of the Vampire'}
+#. ~ Description for {'str': 'Item Validated'}
+#: .\Mutations\mutations.json
+msgid "NPCs will check your progress with this trait."
+msgstr "NPC会检查你在此特质上的进展。"
+
+#: .\Mutations\mutations.json
+msgid "Item Validated"
+msgstr "物品已验证"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "It fits in my collection. Want to sell these to me?"
+msgstr "它很适合我的收藏。想把这些卖给我吗？"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 15 essences!"
+msgstr "好的！这是你的15个精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 7 essences!"
+msgstr "好的！这是你的7个精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "I got no more..."
+msgstr "我没有更多了..."
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "I have to collect more..."
+msgstr "我得收集更多..."
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "I want to sell something else..."
+msgstr "我想卖点别的..."
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 8 blood essences!"
+msgstr "好的！这是你的8个鲜血精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 5 blood essences!"
+msgstr "好的！这是你的5个鲜血精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 22 dull essences!"
+msgstr "好的！这是你的22个暗淡精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your 15 dull essences!"
+msgstr "好的！这是你的15个暗淡精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one crystallized essence!"
+msgstr "好的！这是你的一个结晶精华！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one wind fragment!"
+msgstr "好的！这是你的一个风之碎片！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one amorphous amber!"
+msgstr "是的！这是你的一块无定形琥珀！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one crystallized tear!"
+msgstr "是的！这是你的一颗结晶之泪！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one shadow gem!"
+msgstr "是的！这是你的一颗暗影宝石！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one twisted bone!"
+msgstr "是的！这是你的一根扭曲之骨！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one cracked knucklebone!"
+msgstr "是的！这是你的一颗碎裂的指节骨！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one wyrmskin fragment!"
+msgstr "是的！这是你的一片龙皮碎片！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one monstrous fang!"
+msgstr "是的！这是你的一颗怪物獠牙！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one iridescent plate!"
+msgstr "是的！这是你的一片虹彩板甲！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one engraved stone!"
+msgstr "是的！这是你的一块铭文石！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one petrified heart!"
+msgstr "是的！这是你的一颗石化之心！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one incorruptible sword!"
+msgstr "是的！这是你的一把不腐之剑！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one hammer of the hunter!"
+msgstr "是的！这是你的一把猎人之锤！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one spear of pestilence!"
+msgstr "是的！这是你的一把瘟疫之矛！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one druidic staff!"
+msgstr "是的！这是你的一根德鲁伊法杖！"
+
+#: .\NPCs\NPC_TALK_itemprocess.json
+msgid "Yes! Here's your one cursed blade!"
+msgstr "是的！这是你的一把诅咒之刃！"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 1 token for every 15 essences you bring to me."
+msgstr "每带来15份精华，我会给你1枚代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 205$ for every 15 essences you bring to me."
+msgstr "每带来15份精华，我会给你205美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 90$ for every 15 essences you bring to me."
+msgstr "每带来15份精华，我会给你90美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 30$ and 1 token for every 15 essences you bring to me."
+msgstr "每带来15份精华，我会给你30美元和1枚代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json .\NPCs\NPC_TALK_tokenexchange.json
+#: .\NPCs\npc.json
+msgid "Okay..."
+msgstr "好吧……"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 1 token for every 8 blood essences you bring to me."
+msgstr "每带来8份鲜血精华，我会给你1枚代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 265$ for every 8 blood essences you bring to me."
+msgstr "每带来8份血之精华，我会给你265美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 90$ for every 8 blood essences you bring to me."
+msgstr "每带来8份血之精华，我会给你90美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 55$ and 1 token for every 8 blood essences you bring to me."
+msgstr "每带来8份血之精华，我会给你55美元和1个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 1 token for every 22 dull essences you bring to me."
+msgstr "每带来22份暗淡精华，我会给你1个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 305$ for every 22 dull essences you bring to me."
+msgstr "每带来22份暗淡精华，我会给你305美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 105$ for every 22 dull essences you bring to me."
+msgstr "每带来22份暗淡精华，我会给你105美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 75$ and 1 token for every 22 dull essences you bring to me."
+msgstr "每带来22份暗淡精华，我会给你75美元和1个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 5 token for each crystallized essence you bring to me."
+msgstr "每带来一份结晶精华，我会给你5个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 515$ for each crystallized essence you bring to me."
+msgstr "每带来一份结晶精华，我会给你515美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 190$ for each crystallized essence you bring to me."
+msgstr "每带来一份结晶精华，我会给你190美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 105$ and 5 token for each crystallized essence you bring to "
+"me."
+msgstr "每带来一份结晶精华，我会给你105美元和5个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 4 tokens for each wind fragment you bring to me."
+msgstr "每带来一份风之碎片，我会给你4个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 315$ for each wind fragment you bring to me."
+msgstr "每带来一份风之碎片，我会给你315美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 110$ for each wind fragment you bring to me."
+msgstr "每带来一份风之碎片，我会给你110美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 35$ and 4 tokens for each wind fragment you bring to me."
+msgstr "每带来一份风之碎片，我会给你35美元和4个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 3 tokens for each amorphous amber you bring to me."
+msgstr "每带来一份无定形琥珀，我会给你3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 245$ for each amorphous amber you bring to me."
+msgstr "每带来一份无定形琥珀，我会给你245美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 95$ for each amorphous amber you bring to me."
+msgstr "每带来一份无定形琥珀，我会给你95美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 45$ and 3 tokens for each amorphous amber you bring to me."
+msgstr "每带来一份无定形琥珀，我会给你45美元和3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 5 tokens for each crystallized tear you bring to me."
+msgstr "每带来一份结晶之泪，我会给你5个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 400$ for each crystallized tear you bring to me."
+msgstr "每带来一颗结晶之泪，我会给你400美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 110$ for each crystallized tear you bring to me."
+msgstr "每带来一颗结晶之泪，我会给你110美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 50$ and 5 tokens for each crystallized tear you bring to me."
+msgstr "每带来一颗结晶之泪，我会给你50美元和5个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 6 tokens for each shadow gem you bring to me."
+msgstr "每带来一颗暗影宝石，我会给你6个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 455$ for each shadow gem you bring to me."
+msgstr "每带来一颗暗影宝石，我会给你455美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 135$ for each shadow gem you bring to me."
+msgstr "每带来一颗暗影宝石，我会给你135美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 70$ and 6 tokens for each shadow gem you bring to me."
+msgstr "每带来一颗暗影宝石，我会给你70美元和6个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 3 tokens for each twisted bone you bring to me."
+msgstr "每带来一根扭曲之骨，我会给你3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 195$ for each twisted bone you bring to me."
+msgstr "每带来一根扭曲之骨，我会给你195美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 85$ for each twisted bone you bring to me."
+msgstr "每带来一根扭曲之骨，我会给你85美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 25$ and 3 tokens for each twisted bone you bring to me."
+msgstr "每带来一根扭曲之骨，我会给你25美元和3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 3 tokens for each cracked knucklebone you bring to me."
+msgstr "每带来一根碎裂的指骨，我会给你3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 170$ for each cracked knucklebone you bring to me."
+msgstr "每带来一根碎裂的指骨，我会给你170美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 70$ for each cracked knucklebone you bring to me."
+msgstr "每带来一根碎裂的指骨，我会给你70美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 20$ and 3 tokens for each cracked knucklebone you bring to "
+"me."
+msgstr "每带来一根碎裂的指骨，我会给你20美元和3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 3 tokens for each wyrmskin fragment you bring to me."
+msgstr "每带来一片龙皮碎片，我会给你3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 170$ for each wyrmskin fragment you bring to me."
+msgstr "每带来一片龙皮碎片，我会给你170美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 70$ for each wyrmskin fragment you bring to me."
+msgstr "每带来一片龙皮碎片，我会给你70美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 20$ and 3 tokens for each wyrmskin fragment you bring to me."
+msgstr "每带来一片龙皮碎片，我会给你20美元和3个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 2 tokens for each monstrous fang you bring to me."
+msgstr "每带来一颗怪物獠牙，我会给你2个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 120$ for each monstrous fang you bring to me."
+msgstr "每带来一颗怪物獠牙，我会给你120美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 30$ for each monstrous fang you bring to me."
+msgstr "每带来一颗怪物獠牙，我会给你30美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 25$ and 2 tokens for each monstrous fang you bring to me."
+msgstr "每带来一颗怪物獠牙，我会给你25美元和2个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 4 tokens for each iridescent plate you bring to me."
+msgstr "每带来一块虹彩板，我会给你4个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 365$ for each iridescent plate you bring to me."
+msgstr "每带来一块虹彩板，我会给你365美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 50$ for each iridescent plate you bring to me."
+msgstr "每带来一块虹彩板，我会给你50美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 35$ and 4 tokens for each iridescent plate you bring to me."
+msgstr "每带来一块虹彩板，我会给你35美元和4个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 15 tokens for each engraved stone you bring to me."
+msgstr "每带来一块刻文石，我会给你15个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 785$ for each engraved stone you bring to me."
+msgstr "每带来一块刻文石，我会给你785美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 120$ for each engraved stone you bring to me."
+msgstr "每带来一块刻文石，我会给你120美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 90$ and 15 tokens for each engraved stone you bring to me."
+msgstr "每带来一块刻文石，我会给你90美元和15个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 20 tokens for each petrified heart you bring to me."
+msgstr "每带来一颗石化之心，我会给你20个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 885$ for each petrified heart you bring to me."
+msgstr "每带来一颗石化之心，我会给你885美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 190$ for each petrified heart you bring to me."
+msgstr "每带来一颗石化之心，我会给你190美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 115$ and 20 tokens for each petrified heart you bring to me."
+msgstr "每带来一颗石化之心，我会给你115美元和20个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 25 tokens for each incorruptible sword you bring to me."
+msgstr "每带来一把不腐之剑，我会给你25个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 960$ for each incorruptible sword you bring to me."
+msgstr "每带来一把不腐之剑，我会给你960美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 220$ for each incorruptible sword you bring to me."
+msgstr "每带来一把不腐之剑，我会给你220美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 125$ and 25 tokens for each incorruptible sword you bring to"
+" me."
+msgstr "每带来一把不腐之剑，我会给你125美元和25个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 22 tokens for each hammer of the hunter you bring to me."
+msgstr "每带来一把猎人之锤，我会给你22个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 905$ for each hammer of the hunter you bring to me."
+msgstr "每把猎人战锤，我会给你905美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 195$ for each hammer of the hunter you bring to me."
+msgstr "每把猎人战锤，我会给你195美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 110$ and 22 tokens for each hammer of the hunter you bring "
+"to me."
+msgstr "每把猎人战锤，我会给你110美元和22个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 10 tokens for each spear of pestilence you bring to me."
+msgstr "每把瘟疫长矛，我会给你10个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 675$ for each spear of pestilence you bring to me."
+msgstr "每把瘟疫长矛，我会给你675美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 155$ for each spear of pestilence you bring to me."
+msgstr "每把瘟疫长矛，我会给你155美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 70$ and 10 tokens for each spear of pestilence you bring to "
+"me."
+msgstr "每把瘟疫长矛，我会给你70美元和10个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 15 tokens for each druidic staff you bring to me."
+msgstr "每把德鲁伊法杖，我会给你15个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 720$ for each druidic staff you bring to me."
+msgstr "每把德鲁伊法杖，我会给你720美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 130$ for each druidic staff you bring to me."
+msgstr "每把德鲁伊法杖，我会给你130美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 80$ and 15 tokens for each druidic staff you bring to me."
+msgstr "每把德鲁伊法杖，我会给你80美元和15个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 20 tokens for each cursed blade you bring to me."
+msgstr "每把诅咒之刃，我会给你20个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 815$ for each cursed blade you bring to me."
+msgstr "每把诅咒之刃，我会给你815美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I will give you 110$ for each cursed blade you bring to me."
+msgstr "每把诅咒之刃，我会给你110美元。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid ""
+"I will give you 75$ and 20 tokens for each cursed blade you bring to me."
+msgstr "每把诅咒之刃，我会给你75美元和20个代币。"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "I don't know if I can accept that thing..."
+msgstr "我不知道能不能接受那东西……"
+
+#: .\NPCs\NPC_TALK_itemvalidation.json
+msgid "Oh, okay..."
+msgstr "哦，好吧……"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "Let's see what you've got in stock."
+msgstr "让我看看你库存里有什么。"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have 15 essences!"
+msgstr "我有15个精华！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have 8 blood essences!"
+msgstr "我有8个鲜血精华！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have 22 dull essences!"
+msgstr "我有22个暗淡精华！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one crystallized essence!"
+msgstr "我有一份结晶精华！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one wind fragment!"
+msgstr "我有一块风之碎片！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one amorphous amber!"
+msgstr "我有一块无定形琥珀！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one crystallized tear!"
+msgstr "我有一颗结晶之泪！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one shadow gem!"
+msgstr "我有一颗暗影宝石！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one twisted bone!"
+msgstr "我有一根扭曲之骨！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one cracked knucklebone!"
+msgstr "我有一块碎裂的指骨！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one wyrmskin fragment!"
+msgstr "我有一片龙鳞碎片！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one monstrous fang!"
+msgstr "我有一颗怪物獠牙！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one iridescent plate!"
+msgstr "我有一块虹彩板！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one engraved stone!"
+msgstr "我有一块铭文石！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one petrified heart!"
+msgstr "我有一颗石化之心！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one incorruptible sword!"
+msgstr "我有一把不腐之剑！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one hammer of the hunter!"
+msgstr "我有一把猎人之锤！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one spear of pestilence!"
+msgstr "我有一把瘟疫之矛！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one druidic staff!"
+msgstr "我有一根德鲁伊法杖！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have one cursed blade!"
+msgstr "我有一把诅咒之刃！"
+
+#: .\NPCs\NPC_TALK_processitems.json
+msgid "I have to gather more..."
+msgstr "我得收集更多……"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"I guess you're waiting for more contents... Don't wait for something else."
+msgstr "我猜你在等更多内容……别等别的了。"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "This stock is at its finest!"
+msgstr "这批货可是上等品！"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "For all of your pain, these items would help you out!"
+msgstr "为了缓解你所有的痛苦，这些物品会帮到你！"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "A set of items for your endeavors!"
+msgstr "一套助你奋斗的物品！"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Well... The gunshop is offering you with limited guns in exchange of tokens."
+msgstr "嗯……枪店正用有限的枪支来兑换你的代币。"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "Lets see what could we exchange for your tokens..."
+msgstr "来看看我们能用什么换你的代币……"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I've got some supplies for your stock..."
+msgstr "我有些补给品可以充实你的库存……"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Well, my ware is too small. Maybe you could be needing something at these "
+"stuff."
+msgstr "唉，我的货太少了。或许你会需要这些东西里的某样。"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I don't know if I have something for you to exchange at this moment..."
+msgstr "我不确定现在有没有东西能和你交换……"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "(Inquire for tier 1 VS rewards)"
+msgstr "（询问第1级VS奖励）"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "(Inquire for tier 2 VS rewards)"
+msgstr "（询问第2级VS奖励）"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "(Inquire for tier 3 VS rewards)"
+msgstr "（询问第3级VS奖励）"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "(Inquire for tier 4 VS rewards)"
+msgstr "（询问第4级VS奖励）"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I change my mind..."
+msgstr "我改变主意了……"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Just look at this list:\n"
+"10 blood powders for 1 token\n"
+"blood draw kit with blood for 1 token\n"
+"1 blood compact sheet for 2 tokens."
+msgstr ""
+"看看这份清单：\n"
+"10份血粉换1个代币\n"
+"带血的采血套装换1个代币\n"
+"1张血液压缩板换2个代币。"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange a token for 10 blood powders"
+msgstr "我要用1个代币换10份血粉"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange a token for blood draw kit with blood"
+msgstr "我要用1个代币换带血的采血套装"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 2 tokens for a blood compact sheet"
+msgstr "我要用2个代币换1张血液压缩板"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Just look at this list:\n"
+"\"Red Velvets - The Dark Fashion\" for 10 tokens\n"
+"\"Glorious Gunnery\" for 12 tokens\n"
+"\"The Vampiric Infusion\" for 15 tokens\n"
+"blood infusing forge for 30 tokens\n"
+"blood extractor for 20 tokens\n"
+"blood compressor for 30 tokens\n"
+"blood chemistry for 25 tokens."
+msgstr ""
+"看看这份清单：\n"
+"\"红丝绒——暗黑时尚\"换10个代币\n"
+"\"荣耀枪械\"换12个代币\n"
+"\"吸血鬼灌注\"换15个代币\n"
+"血液灌注熔炉换30个代币\n"
+"血液提取器换20个代币\n"
+"血液压缩机换30个代币\n"
+"血液化学装置换25个代币。"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 10 tokens for \"Red Velvets - The Dark Fashion\""
+msgstr "我要用10个代币换\"红丝绒——暗黑时尚\""
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 12 tokens for \"Glorious Gunnery\""
+msgstr "我要用12个代币换\"荣耀枪械\""
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 15 tokens for \"The Vampiric Infusion\""
+msgstr "我要用15个代币换\"吸血鬼灌注\""
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 30 tokens for the blood infusing forge"
+msgstr "我将用30个代币交换血铸熔炉"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 20 tokens for blood extractor"
+msgstr "我将用20个代币交换血液提取器"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 30 tokens for blood compressor"
+msgstr "我将用30个代币交换血液压缩机"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 25 tokens for the blood chemistry"
+msgstr "我将用25个代币交换血液化学装置"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Just look at this list:\n"
+"full bloodset armor for 40 tokens\n"
+"blood sipper for 20 tokens\n"
+"blood diver for 20 tokens\n"
+"hammerius for 25 tokens\n"
+"knuckle biters for 15 tokens"
+msgstr ""
+"看看这份清单：\n"
+"全套血铸护甲需40代币\n"
+"血啜饮者需20代币\n"
+"血潜行者需20代币\n"
+"锤击者需25代币\n"
+"指节啃咬者需15代币"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 40 tokens for the full set of blood armor"
+msgstr "我将用40个代币交换全套血铸护甲"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 20 tokens for the blood sipper"
+msgstr "我将用20个代币交换血啜饮者"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 20 tokens for the blood diver"
+msgstr "我将用20个代币交换血潜行者"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 25 tokens for the hammerius"
+msgstr "我将用25个代币交换锤击者"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 15 tokens for the knuckle biters"
+msgstr "我将用15个代币交换指节啃咬者"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid ""
+"Just look at this list:\n"
+"full infused bloodset for 65 tokens"
+msgstr ""
+"看看这份清单：\n"
+"全套灌注血铸护甲需65代币"
+
+#: .\NPCs\NPC_TALK_tokenexchange.json
+msgid "I'll exchange 65 tokens for the full set of infused blood armor"
+msgstr "我将用65个代币交换全套灌注血铸护甲"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid ""
+"Mostly that are odd and exquisite objects. Just bring me something and let "
+"me validate them."
+msgstr "大多是些奇特而精致的物品。带些东西给我，让我来鉴定它们。"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got an essence here..."
+msgstr "我这里有一份精华……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a blood essence here..."
+msgstr "我这里有一份血液精华……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a dull essence here..."
+msgstr "我这里有一份暗淡精华……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a crystallized essence here..."
+msgstr "我这里有一份结晶精华……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a wind fragment here..."
+msgstr "我这里有一份风之碎片……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got an amorphous amber here..."
+msgstr "我这里有一份无定形琥珀……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a crystallized tear here..."
+msgstr "我这里有一份结晶之泪……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a shadow gem here..."
+msgstr "我这里有一块暗影宝石……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a twisted bone here..."
+msgstr "我这里有一根扭曲的骨头……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a cracked knucklebone here..."
+msgstr "我这里有一块碎裂的指骨……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a wyrmskin fragment here..."
+msgstr "我这里有一片龙鳞碎片……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a monstrous fang here..."
+msgstr "我这里有一颗怪物獠牙……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got an iridescent plate here..."
+msgstr "我这里有一块虹彩板……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got an engraved stone here..."
+msgstr "我这里有一块刻文石……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a petrified heart here..."
+msgstr "我这里有一颗石化之心……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got an incorruptible sword here..."
+msgstr "我这里有一把不朽之剑……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got hammer of the hunter here..."
+msgstr "我这里有一把猎人之锤……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a spear of pestilence here..."
+msgstr "我这里有一把瘟疫之矛……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a druidic staff here..."
+msgstr "我这里有一根德鲁伊法杖……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a cursed blade here..."
+msgstr "我这里有一把诅咒之刃……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I've got a restored ritual blade here..."
+msgstr "我这里有一把修复的仪式之刃……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I should collect more..."
+msgstr "我应该收集更多……"
+
+#: .\NPCs\NPC_TALK_validateitems.json
+msgid "I guess I've collected everything..."
+msgstr "我想我已经收集齐了……"
+
+#: .\NPCs\npc.json
+msgid "Vampire Arcane Seeker"
+msgstr "吸血鬼秘法追寻者"
+
+#: .\NPCs\npc.json
+msgid "Seeker of the arcane."
+msgstr "秘法的追寻者。"
+
+#: .\NPCs\npc.json
+msgid "Arcane Seeker"
+msgstr "秘法追寻者"
+
+#: .\NPCs\npc.json
+msgid "We've met again, adventurer."
+msgstr "我们又见面了，冒险者。"
+
+#: .\NPCs\npc.json
+msgid "Now what could be your problem this time..."
+msgstr "这次你又是哪里不对劲……"
+
+#: .\NPCs\npc.json
+msgid "Well, We've met again, adventurer."
+msgstr "呵，我们又见面了，冒险者。"
+
+#: .\NPCs\npc.json
+msgid "Greetings, my fellow survivor."
+msgstr "你好啊，我的幸存者同伴。"
+
+#: .\NPCs\npc.json
+msgid "What brings you to my lair again?"
+msgstr "什么风又把你吹到我的巢穴来了？"
+
+#: .\NPCs\npc.json
+msgid "Greetings, my fellow adventurer. What brings you to my safe haven?"
+msgstr "幸会，我的冒险者同好。是什么让你再次光临我的避风港？"
+
+#: .\NPCs\npc.json
+msgid "Who are you?"
+msgstr "你是谁？"
+
+#: .\NPCs\npc.json
+msgid "Any tips for this hunt?"
+msgstr "这次狩猎有什么建议吗？"
+
+#: .\NPCs\npc.json
+msgid "What kind of arcane items and artifacts do you accept?"
+msgstr "你们接受哪些类型的奥术物品和神器？"
+
+#: .\NPCs\npc.json
+msgid "I got something that would interest you."
+msgstr "我这儿有些东西，你可能会感兴趣。"
+
+#: .\NPCs\npc.json
+msgid "What can I trade with these tokens?"
+msgstr "用这些代币我能换些什么？"
+
+#: .\NPCs\npc.json
+msgid "Bye..."
+msgstr "再见……"
+
+#: .\NPCs\npc.json
+msgid "Bye."
+msgstr "再见。"
+
+#: .\NPCs\npc.json
+msgid ""
+"So, What do you think... are you 'in' for this quest? I do not assure your "
+"life in this journey you're about to come up just to collect rare stuff for "
+"me."
+msgstr "那么，你觉得如何……你愿意‘加入’这次任务吗？我可不能保证你在这趟为我收集稀有物品的旅程中能活着回来。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I seek arcane mysteries and anomalies in this damned world as well as "
+"collecting artifacts, utilizing their power for a greater use."
+msgstr "我在这该死的世界里追寻奥术谜团与异常现象，同时收集神器，利用它们的力量实现更伟大的用途。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Who am I you asked?\n"
+"I am the seeker of arcane mysteries and anomalies in this damned world as well as collecting artifacts, utilizing their power for a greater use."
+msgstr ""
+"你问我是谁？\n"
+"我是这该死的世界里奥术谜团与异常现象的追寻者，同时收集神器，利用它们的力量实现更伟大的用途。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I also have grown fond to magic, so maybe we could collaborate with this."
+msgstr "我也对魔法产生了兴趣，或许我们可以在这方面合作。"
+
+#: .\NPCs\npc.json
+msgid "Arcane mysteries?"
+msgstr "奥术谜团？"
+
+#: .\NPCs\npc.json
+msgid "What kind of artifacts are you collecting?"
+msgstr "你在收集哪种类型的神器？"
+
+#: .\NPCs\npc.json
+msgid "Yes! I'm in!"
+msgstr "好！我加入！"
+
+#: .\NPCs\npc.json
+msgid "Wait, I need some time for this."
+msgstr "等等，我需要点时间考虑。"
+
+#: .\NPCs\npc.json
+msgid "Well, your job looks risky..."
+msgstr "呃，你这活儿看起来挺冒险的……"
+
+#: .\NPCs\npc.json
+msgid ""
+"Indeed. Arcane, the magic behind this world. With proper knowledge, you could discover more about it, but be wary of its cost.\n"
+"I will send you out of this place and look for these anomaly, just ask me if you are curious about a thing."
+msgstr ""
+"没错。奥术，这个世界背后的魔法。掌握适当的知识，你就能更深入地了解它，但要警惕其代价。\n"
+"我会派你离开此地去寻找这些异常现象，如果你对某件事好奇，尽管问我。"
+
+#: .\NPCs\npc.json
+msgid "Okay."
+msgstr "好的。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Artifacts are the supreme objects scattered in this world. From cursed swords to precarious weapons, they are the artifacts.\n"
+"I will send you out of this place and look for these ancient objects, just ask me if you are curious about a thing."
+msgstr ""
+"神器是散落在这个世界上的至高物品。从受诅咒的剑到不稳定的武器，它们都属于神器范畴。\n"
+"我会派你离开此地去寻找这些古老物件，如果你对某件事好奇，尽管问我。"
+
+#: .\NPCs\npc.json
+msgid "Just stop repeating the question, will you?"
+msgstr "别再重复这个问题了，好吗？"
+
+#: .\NPCs\npc.json
+msgid "Okay. Sorry..."
+msgstr "好吧。抱歉……"
+
+#: .\NPCs\npc.json
+msgid "What will be the cost of your partnership with me?"
+msgstr "你与我合作的代价是什么？"
+
+#: .\NPCs\npc.json
+msgid "Exchange all your requested items with something else as rewards."
+msgstr "将你要求的所有物品换成其他东西作为奖励。"
+
+#: .\NPCs\npc.json
+msgid "Money as payment from your life-risking quests."
+msgstr "用金钱支付你那些玩命任务的报酬。"
+
+#: .\NPCs\npc.json
+msgid ""
+"You don't need to pay me that much for this and I am glad to serve you."
+msgstr "你不需要为此付我那么多钱，我很乐意为你服务。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I agree, but in form of tokens. Work hard, collect more and earn our "
+"exclusive items to fulfill your endeavors."
+msgstr "我同意，但以代币形式支付。努力工作，收集更多代币，换取我们的专属物品来实现你的目标。"
+
+#: .\NPCs\npc.json
+msgid "Okay. I understood."
+msgstr "好的。我明白了。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I agree, but you should know that our wealth isn't that high, so expect my "
+"fundings to be low."
+msgstr "我同意，但你要知道我们的财富并不丰厚，所以我的资助会很低。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I see you're different from the others who are desperate in this greedy "
+"situations. I thank you for your kind answer. I will still give you some "
+"profit as payment for your job."
+msgstr "我看得出你与那些在贪婪境况中不顾一切的人不同。感谢你善意的回答。我仍会支付一些报酬作为你工作的酬劳。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Its up to you if you'd exchange everything you have in stock. Just remember:"
+" they also have different applications other than selling them."
+msgstr "是否交换你库存中的所有物品由你决定。但记住：它们除了出售之外还有不同的用途。"
+
+#: .\NPCs\npc.json
+msgid "You can't get something if you don't put an effort to it."
+msgstr "不付出努力，就得不到回报。"
+
+#: .\NPCs\npc.json
+msgid ""
+"If you want talk to me about something like artifacts, make sure to bring "
+"them all at once to ease my time."
+msgstr "如果你想和我谈诸如神器之类的东西，确保一次性全部带来，以节省我的时间。"
+
+#: .\NPCs\npc.json
+msgid ""
+"I bet those odd, shimmering vapors that draws out of a dead creature worths "
+"a thing for me if you collect them."
+msgstr "我敢打赌，如果你收集那些从死亡生物身上飘出的奇异闪烁蒸汽，它们对我来说会很有价值。"
+
+#: .\NPCs\npc.json
+msgid "Killing any creatures might give you its arcane elements."
+msgstr "杀死任何生物都可能让你获得其奥术元素。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Those odd looking ruins from the past civilizations might have left "
+"something... Strange."
+msgstr "那些来自过去文明的奇异遗迹可能留下了某些……古怪的东西。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Raiding a peculiar structure might be a suicidal idea if you don't prepare "
+"for it."
+msgstr "如果不做好准备，袭击一座奇特建筑可能是自杀行为。"
+
+#: .\NPCs\npc.json
+msgid "Structures in the forest surely hides something underneath it."
+msgstr "森林中的建筑肯定隐藏着地下的秘密。"
+
+#: .\NPCs\npc.json
+msgid "Swamps are not the only place you'll ever hate the most."
+msgstr "沼泽并不是你唯一会最讨厌的地方。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Don't trust those highways. If you're looking for odd structures, you should"
+" walk past through the forest."
+msgstr "别相信那些高速公路。如果你在寻找古怪建筑，你应该徒步穿越森林。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Every monsters you fight might leave you with something upon its death."
+msgstr "你击败的每个怪物在死亡时都可能留下一些东西。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Those anomalous creatures can provide you with something when you kill it."
+msgstr "那些异常生物在你击杀它们时能提供某些物品。"
+
+#: .\NPCs\npc.json
+msgid ""
+"Rare monsters drop rare items. If you see one of them, slay immediately!"
+msgstr "稀有怪物会掉落稀有物品。如果你看到它们，立即斩杀！"
+
+#: .\NPCs\npc.json
+msgid "An artifact wields a high bounty, but aren't that easy to obtain..."
+msgstr "一件神器悬赏很高，但没那么容易获得……"
+
+#: .\NPCs\npc.json
+msgid "Artifacts are powerful, but costs more than your life..."
+msgstr "神器很强大，但代价可能超过你的生命……"
+
+#: .\NPCs\npc.json
+msgid "A guardian protects an artifact. Its on you if you're up for the loot."
+msgstr "守护者保护着神器。是否要夺取战利品，就看你的了。"
+
+#: .\NPCs\npc.json
+msgid ""
+"If you're on to fast profits, I suggest retrieving artifacts and run away "
+"from any risks you encounter."
+msgstr "如果你想快速获利，我建议获取神器并避开遇到的所有风险。"
+
+#: .\NPCs\npc.json
+msgid "Books are common, and I've read almost everything."
+msgstr "书籍很常见，我几乎什么都读过了。"
+
+#: .\NPCs\npc.json
+msgid "Don't try to sell me with some stupid books you've collected."
+msgstr "别想用你收集的那些蠢书来卖给我。"
+
+#: .\NPCs\npc.json
+msgid "I can't accept some artifacts, because I can't."
+msgstr "有些神器我不能接受，原因我不能说。"
+
+#: .\NPCs\npc.json
+msgid "Okay... Thanks."
+msgstr "好的……谢谢。"

@@ -1,0 +1,262 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Pix's Shit\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\martialarts.json
+msgid "Sojutsu"
+msgstr "槍術"
+
+#: .\modinfo.json
+msgid "Pixel's Various Fuckery"
+msgstr "像素的各種惡搞"
+
+#. ~ Description for Pixel's Various Fuckery
+#: .\modinfo.json
+msgid ""
+"Adds additional unique post-threshold mutations, various recipes for "
+"weapons.  Slightly risqué but safe for work, no worse than vibrators and "
+"gimp suits!@#"
+msgstr "添加額外的獨特閾值後突變、各種武器配方。略帶挑逗但適合工作場合，不比振動器和束縛服更糟！@#"
+
+#: .\pix_item.json
+msgid "pistol grip"
+msgid_plural "pistol grips"
+msgstr[0] "手槍式握把"
+
+#: .\pix_item.json
+msgid ""
+"A rough plastic cap that replaces the stock if ya saw it off.  Which you "
+"will.  Because it's badass and makes shit tiny."
+msgstr "一個粗糙的塑料帽，如果你鋸掉槍托，它可以作為替代品。你會的。因為它很酷，而且能讓東西變小。"
+
+#: .\pix_item.json
+msgid "stock"
+msgstr "槍托"
+
+#: .\pix_item.json
+msgid "short barrel"
+msgid_plural "short barrels"
+msgstr[0] "短槍管"
+
+#: .\pix_item.json
+msgid ""
+"A replacement barrel that shortens the firearms length considerably, but not"
+" to the same extent as sawing off the barrel.  As such, it doesn't affect "
+"the handling as much."
+msgstr "一個替換槍管，能顯著縮短槍支長度，但不像鋸掉槍管那樣極端。因此，它對操作的影響較小。"
+
+#: .\pix_item.json
+msgid "barrel"
+msgstr "槍管"
+
+#: .\pix_item.json
+msgid "XL ANBC suit"
+msgid_plural "XL ANBC suits"
+msgstr[0] "XL ANBC防護服"
+
+#. ~ Description for {'str': 'XL ANBC suit'}
+#: .\pix_item.json
+msgid ""
+"An armored, impermeable full-body suit that functions as body armor, as well"
+" as protecting from nuclear, biological, and chemical hazards.  This one has"
+" been modified to comfortably fit those with exotic anatomy, for the careful"
+" mutant."
+msgstr "一種裝甲、不透氣的全身防護服，可作為防彈衣使用，同時防護核、生物和化學危害。這件經過改裝，能舒適地適應那些具有異形解剖結構的謹慎突變體。"
+
+#: .\pix_item.json
+msgid "aluminum nail bat"
+msgid_plural "aluminum nail bats"
+msgstr[0] "鋁製釘棒"
+
+#. ~ Description for {'str': 'aluminum nail bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat with several nails driven through it, an excellent "
+"melee weapon."
+msgstr "一根鋁製棒球棒，上面釘了幾顆釘子，是一件出色的近戰武器。"
+
+#: .\pix_item.json
+msgid "aluminum barbed wire bat"
+msgid_plural "aluminum barbed wire bats"
+msgstr[0] "鋁製帶刺鐵絲棒"
+
+#. ~ Description for {'str': 'aluminum barbed wire bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat wrapped with barbed wire.  A brutal melee weapon."
+msgstr "一根纏繞著帶刺鐵絲的鋁製棒球棒。一件殘忍的近戰武器。"
+
+#: .\pix_item.json
+msgid "aluminum Louisville Slaughterer"
+msgid_plural "aluminum Louisville Slaughterers"
+msgstr[0] "鋁製路易斯維爾屠宰者"
+
+#. ~ Use action menu_text for {'str': 'aluminum Louisville Slaughterer'}.
+#: .\pix_item.json
+msgid "Light"
+msgstr "點燃"
+
+#. ~ Use action msg for {'str': 'aluminum Louisville Slaughterer'}.
+#: .\pix_item.json
+msgid "You light the Aluminum Louisville Slaughterer."
+msgstr "你點燃了鋁製路易斯維爾屠宰者。"
+
+#. ~ Description for {'str': 'aluminum Louisville Slaughterer'}
+#: .\pix_item.json
+msgid ""
+"This is a sturdy aluminum bat, wrapped in gasoline-soaked rags.  Light it, "
+"and the ball game will REALLY heat up.  You'll need a lighter or matches to "
+"light it."
+msgstr "這是一根堅固的鋁製球棒，包裹著浸透汽油的破布。點燃它，球賽將真正升溫。你需要打火機或火柴來點燃它。"
+
+#: .\pix_item.json
+msgid "aluminum Louisville Slaughterer (lit)"
+msgid_plural "aluminum Louisville Slaughterers (lit)"
+msgstr[0] "鋁製路易斯維爾屠宰者（已點燃）"
+
+#. ~ Description for {'str': 'aluminum Louisville Slaughterer (lit)',
+#. 'str_pl': 'aluminum Louisville Slaughterers (lit)'}
+#: .\pix_item.json
+msgid ""
+"This is a sturdy aluminum bat, wrapped in gasoline-soaked rags.  It is "
+"burning brightly, and makes it much easier to see the baselines at night "
+"games (It also makes the umpire FAR more likely to call a ball instead of a "
+"strike)."
+msgstr "這是一根堅固的鋁製球棒，包裹著浸透汽油的破布。它正熊熊燃燒，讓夜間比賽的壘線更容易看清（也讓裁判更可能判為壞球而非好球）。"
+
+#: .\pix_item.json
+msgid "burnt out aluminum Louisville Slaughterer"
+msgid_plural "burnt out aluminum Louisville Slaughterers"
+msgstr[0] "燒盡的鋁製路易斯維爾屠宰者"
+
+#. ~ Description for {'str': 'burnt out aluminum Louisville Slaughterer'}
+#: .\pix_item.json
+msgid ""
+"A sturdy aluminum bat.  Makes a good melee weapon but better be disassembled"
+" to recycle the baseball bat and get rid of those nasty burnt rags."
+msgstr "一根堅固的鋁製球棒。作為近戰武器不錯，但最好拆解以回收球棒並處理掉那些噁心的燒焦破布。"
+
+#: .\pix_item.json
+msgid "dildo"
+msgid_plural "dildos"
+msgstr[0] "假陽具"
+
+#. ~ Description for {'str': 'dildo', 'str_pl': 'dildos'}
+#: .\pix_item.json
+msgid ""
+"Well now. That's just obscene.  It's got some heft to it, though, so you "
+"could use it as a weapon.  Freak.  Thanks to a handy dandy suction cup on "
+"the bottom, it could also be used to 'relieve some stress.'"
+msgstr "好吧，這真是下流。不過它有些分量，所以你可以用作武器。變態。得益於底部方便的吸盤，它也能用來“緩解壓力”。"
+
+#: .\pix_item.json
+msgid "aluminum chain-wrapped bat"
+msgid_plural "aluminum chain-wrapped bats"
+msgstr[0] "鋁製鏈條纏繞球棒"
+
+#. ~ Description for {'str': 'aluminum chain-wrapped bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat wrapped with a steel chain.  A perfect skull "
+"cracker."
+msgstr "一根纏繞鋼鏈的鋁製棒球棒。完美的碎顱器。"
+
+#: .\pix_item.json
+msgid "chain-wrapped bat"
+msgid_plural "chain-wrapped bats"
+msgstr[0] "鏈條纏繞球棒"
+
+#. ~ Description for {'str': 'chain-wrapped bat'}
+#: .\pix_item.json
+msgid "A baseball bat wrapped with a steel chain.  A perfect skull cracker."
+msgstr "一根纏繞鋼鏈的棒球棒。完美的碎顱器。"
+
+#: .\pix_item.json
+msgid "unpasturized milk"
+msgid_plural "unpasturized milks"
+msgstr[0] "未巴氏殺菌牛奶"
+
+#. ~ Description for {'str': 'unpasturized milk'}
+#: .\pix_item.json
+msgid ""
+"Raw, unpasturized milk- straight from your own teets.  You hold it very "
+"precariously in your own hands to prevent spillage.  It's probably best to "
+"pasturize this before drinking it, yuck."
+msgstr "生的、未巴氏殺菌的牛奶——直接從你自己的乳頭擠出。你小心翼翼地用手捧著以防灑出。喝之前最好先殺菌，真噁心。"
+
+#: .\pix_mutation.json
+msgid "Milkable"
+msgstr "可擠奶"
+
+#. ~ Description for {'str': 'Milkable'}
+#: .\pix_mutation.json
+msgid "You've got a set of udders down below.  Activate for fresh milk."
+msgstr "你下面長了一對乳房。激活以獲得新鮮牛奶。"
+
+#: .\pix_mutation.json
+msgid "You milk yourself. Moo."
+msgstr "你給自己擠奶。哞。"
+
+#: .\pix_mutation.json
+msgid "Oviparous"
+msgstr "卵生"
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an egg-laying "
+"reptile, at certain times you just feel the urge to lay an egg.  Activate to"
+" lay an egg."
+msgstr "你的生殖和消化器官變成了產卵爬行動物的器官，有時你會感到產卵的衝動。激活以產卵。"
+
+#: .\pix_mutation.json
+msgid "You lay an egg. you release a pleased hiss."
+msgstr "你產下一顆蛋。你發出滿足的嘶嘶聲。"
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an Avian, at certain "
+"times you just feel the urge to lay an egg.  Activate to lay an egg."
+msgstr "你的生殖和消化器官變成了鳥類的器官，有時你會感到產卵的衝動。激活以產卵。"
+
+#: .\pix_mutation.json
+msgid "You lay an egg. you release a pleased chirp."
+msgstr "你產下一顆蛋。你發出滿足的啁啾聲。"
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an fish, at certain "
+"times you just feel the urge to lay an roe.  Activate to lay an roe."
+msgstr "你的生殖和消化器官變成了魚類的器官，有時你會感到產卵的衝動。激活以產卵。"
+
+#: .\pix_mutation.json
+msgid "you lay a mass of roe. Blub Blub"
+msgstr "你產下一團魚卵。噗嚕噗嚕"
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an spider, at certain"
+" times you just feel the urge to lay an egg.  Activate to lay an egg."
+msgstr "你的生殖和消化器官變成了蜘蛛的器官，有時你會感到產卵的衝動。激活以產卵。"
+
+#: .\pix_mutation.json
+msgid "You wiggle your rear in excitement! You lay an slimy egg."
+msgstr "你興奮地扭動臀部！你產下一顆黏滑的蛋。"

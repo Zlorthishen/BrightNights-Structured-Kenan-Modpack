@@ -1,0 +1,3140 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Gourmand'sGraces\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\comestibles.json
+msgid "ketchup"
+msgid_plural "ketchups"
+msgstr[0] "番茄酱"
+
+#. ~ Description for {'str': 'ketchup'}
+#: .\comestibles.json
+msgid ""
+"Good old ketchup, tastes great on hot dogs. This is a commercial version "
+"specifically engineered for long shelf life, so it has a lot of "
+"preservatives, artificial coloring, and flavoring."
+msgstr "经典番茄酱，配热狗味道绝佳。这是专为长保质期设计的商业版本，因此含有大量防腐剂、人工色素和调味剂。"
+
+#: .\comestibles.json
+msgid "mayonnaise"
+msgid_plural "mayonnaise"
+msgstr[0] "蛋黄酱"
+
+#. ~ Description for {'str': 'mayonnaise', 'str_pl': 'mayonnaise'}
+#: .\comestibles.json
+msgid ""
+"Good old mayo, tastes great on sandwiches. This is a commercial version "
+"specifically engineered for long shelf life, so it has a lot of "
+"preservatives, artificial coloring, and flavoring."
+msgstr "经典蛋黄酱，配三明治味道绝佳。这是专为长保质期设计的商业版本，因此含有大量防腐剂、人工色素和调味剂。"
+
+#: .\comestibles.json
+msgid "ranch dressing"
+msgid_plural "ranch dressing"
+msgstr[0] "牧场沙拉酱"
+
+#. ~ Description for {'str': 'ranch dressing', 'str_pl': 'ranch dressing'}
+#: .\comestibles.json
+msgid ""
+"Ranch dressing, great on salad or with chicken strips, fries, and burgers. "
+"This is a commercial version loaded with artificial preservatives for longer"
+" shelf life."
+msgstr "牧场沙拉酱，配沙拉、鸡柳、薯条和汉堡都很棒。这是为延长保质期而添加了大量人工防腐剂的商业版本。"
+
+#: .\comestibles.json
+msgid "teriyaki sauce"
+msgid_plural "teriyaki sauce"
+msgstr[0] "照烧酱"
+
+#. ~ Description for {'str': 'teriyaki sauce', 'str_pl': 'teriyaki sauce'}
+#: .\comestibles.json
+msgid ""
+"Teriyaki sauce. It goes well with chow mein, stir fry, or on chicken and "
+"burgers."
+msgstr "照烧酱。它非常适合搭配炒面、炒菜，或者涂在鸡肉和汉堡上。"
+
+#: .\comestibles.json
+msgid "hot pepper sauce"
+msgid_plural "hot pepper sauce"
+msgstr[0] "辣椒酱"
+
+#. ~ Description for {'str': 'hot pepper sauce', 'str_pl': 'hot pepper sauce'}
+#: .\comestibles.json
+msgid ""
+"The red rooster! Good on just about anything savory. Not a good idea to "
+"drink it!"
+msgstr "红公鸡辣椒酱！几乎配任何咸味食物都很棒。但直接喝可不是个好主意！"
+
+#: .\comestibles.json
+msgid "cocoa powder"
+msgid_plural "cocoa powder"
+msgstr[0] "可可粉"
+
+#. ~ Description for {'str': 'cocoa powder', 'str_pl': 'cocoa powder'}
+#: .\comestibles.json
+msgid ""
+"A large tub of mild chocolate in powdered form. Intended for baking, not "
+"mixing, but would do in a pinch for an emergency refreshment."
+msgstr "一大罐温和的巧克力粉末。本用于烘焙而非冲泡，但在紧急情况下也可用来制作临时饮品。"
+
+#: .\comestibles.json
+msgid "chocolate drink mix"
+msgid_plural "chocolate drink mixes"
+msgstr[0] "巧克力饮料粉"
+
+#. ~ Description for {'str': 'chocolate drink mix', 'str_pl': 'chocolate drink
+#. mixes'}
+#: .\comestibles.json
+msgid ""
+"A large tub of commercial chocolate milk mix. Not recommended dry, but "
+"amazing when mixed!"
+msgstr "一大罐商业巧克力牛奶粉。不建议干吃，但冲泡后味道超棒！"
+
+#: .\comestibles.json
+msgid "fruit punch mix"
+msgid_plural "fruit punch mixes"
+msgstr[0] "水果潘趣饮料粉"
+
+#. ~ Description for {'str': 'fruit punch mix', 'str_pl': 'fruit punch mixes'}
+#: .\comestibles.json
+msgid "Fruit punch powder! OH YEAAAAAAAH! Not recommended dry!"
+msgstr "水果潘趣粉！哦耶——！不建议干吃！"
+
+#: .\comestibles.json
+msgid "orange drink mix"
+msgid_plural "orange drink mixes"
+msgstr[0] "橙味饮料粉"
+
+#. ~ Description for {'str': 'orange drink mix', 'str_pl': 'orange drink
+#. mixes'}
+#: .\comestibles.json
+msgid "Tangy, unusually sweet orange drink mix! Not recommended dry!"
+msgstr "酸爽、异常甜美的橙味饮料粉！不建议干吃！"
+
+#: .\comestibles.json
+msgid "grape drink mix"
+msgid_plural "grape drink mixes"
+msgstr[0] "葡萄味饮料粉"
+
+#. ~ Description for {'str': 'grape drink mix', 'str_pl': 'grape drink mixes'}
+#: .\comestibles.json
+msgid ""
+"Particularly sweet grape drink powder! Don't ya wanna? Not recommended dry!"
+msgstr "特别甜的葡萄味饮料粉！不想来点吗？不建议干吃！"
+
+#: .\comestibles.json
+msgid "root beer drink mix"
+msgid_plural "root beer drink mixes"
+msgstr[0] "根汁汽水饮料粉"
+
+#. ~ Description for {'str': 'root beer drink mix', 'str_pl': 'root beer drink
+#. mixes'}
+#: .\comestibles.json
+msgid "Complicated. Multifaceted. Root beer! In powder form."
+msgstr "复杂。多层次。根汁汽水！粉状形态。"
+
+#: .\comestibles.json
+msgid "orange drink (mixed)"
+msgid_plural "orange drinks (mixed)"
+msgstr[0] "橙味饮料（已调配）"
+
+#. ~ Description for {'str': 'orange drink (mixed)', 'str_pl': 'orange drinks
+#. (mixed)'}
+#: .\comestibles.json
+msgid "Orange drink from powder. Much better mixed!"
+msgstr "由粉末调制的橙味饮料。调配后风味更佳！"
+
+#: .\comestibles.json
+msgid "fruit punch drink (mixed)"
+msgid_plural "fruit punch drinks (mixed)"
+msgstr[0] "水果宾治饮料（已调配）"
+
+#. ~ Description for {'str': 'fruit punch drink (mixed)', 'str_pl': 'fruit
+#. punch drinks (mixed)'}
+#: .\comestibles.json
+msgid "The fruit punch most kids grew up with. OH YEAAAAAAAH!"
+msgstr "大多数孩子童年记忆中的水果宾治。哦耶————！"
+
+#: .\comestibles.json
+msgid "grape drink (mixed)"
+msgid_plural "grape drinks (mixed)"
+msgstr[0] "葡萄味饮料（已调配）"
+
+#. ~ Description for {'str': 'grape drink (mixed)', 'str_pl': 'grape drinks
+#. (mixed)'}
+#: .\comestibles.json
+msgid ""
+"Better now that it's mixed, this grape drink will take you way back. Don't "
+"you wanna?"
+msgstr "调配后风味更佳，这款葡萄饮料将带你重回旧日时光。不想试试吗？"
+
+#: .\comestibles.json
+msgid "root beer drink (mixed)"
+msgid_plural "root beer drinks (mixed)"
+msgstr[0] "根汁汽水饮料（已调配）"
+
+#. ~ Description for {'str': 'root beer drink (mixed)', 'str_pl': 'root beer
+#. drinks (mixed)'}
+#: .\comestibles.json
+msgid ""
+"One of the most complicated flavor mixes of all time, this is root beer, "
+"straight from powder. Delicious!"
+msgstr "史上最复杂的风味调配之一，这是直接用粉末冲调的根汁汽水。美味！"
+
+#: .\comestibles.json
+msgid "chocolate drink (mixed)"
+msgid_plural "chocolate drinks (mixed)"
+msgstr[0] "巧克力饮料（已调配）"
+
+#. ~ Description for {'str': 'chocolate drink (mixed)', 'str_pl': 'chocolate
+#. drinks (mixed)'}
+#: .\comestibles.json
+msgid ""
+"No longer solely the drink of the gods, now you too can feel elevated with "
+"some cocoa-powered sweetness!"
+msgstr "不再是神明专属饮品，现在你也能通过可可带来的甜蜜感受升华！"
+
+#: .\comestibles.json
+msgid "cocoa drink"
+msgid_plural "cocoa drink"
+msgstr[0] "可可饮料"
+
+#. ~ Description for {'str': 'cocoa drink', 'str_pl': 'cocoa drink'}
+#: .\comestibles.json
+msgid ""
+"This is chocolate milk made using baker's chocolate powder. It is bitter and"
+" milder than purpose-built drink mix, but still chocolatey enough to enjoy. "
+"Sort of."
+msgstr "这是用烘焙可可粉调制的巧克力牛奶。比专用冲调饮料更苦涩清淡，但仍保有足够巧克力风味以供享用。大概吧。"
+
+#: .\comestibles.json
+msgid "orange juice"
+msgid_plural "orange juices"
+msgstr[0] "橙汁"
+
+#. ~ Description for {'str': 'orange juice'}
+#: .\comestibles.json
+msgid ""
+"Mass-produced national brand orange juice, loaded with artificial flavoring "
+"and preservatives. This is pulp-free and has a much sweeter less citrus "
+"flavor thanks to the added sugar. Completely devoid of health benefits!"
+msgstr "量产国民品牌橙汁，富含人工香精与防腐剂。无果肉，因添加糖分而更甜且柑橘风味减弱。完全无健康益处！"
+
+#: .\comestibles.json
+msgid "apple juice"
+msgid_plural "apple juices"
+msgstr[0] "苹果汁"
+
+#. ~ Description for {'str': 'apple juice'}
+#: .\comestibles.json
+msgid ""
+"Mass-produced national brand apple juice, loaded with artificial flavoring "
+"and preservatives. Much more pronounced sweet flavor thanks to the added "
+"sugar. Completely devoid of health benefits!"
+msgstr "量产国民品牌苹果汁，富含人工香精与防腐剂。因添加糖分而甜味更突出。完全无健康益处！"
+
+#: .\comestibles.json
+msgid "cranberry juice"
+msgid_plural "cranberry juices"
+msgstr[0] "蔓越莓汁"
+
+#. ~ Description for {'str': 'cranberry juice'}
+#: .\comestibles.json
+msgid ""
+"Mass-produced national brand cranberry juice, loaded with artificial "
+"flavoring and preservatives. Much more tolerable than fresh juice thanks to "
+"the added sweeteners. Completely devoid of health benefits!"
+msgstr "量产国民品牌蔓越莓汁，富含人工香精与防腐剂。因添加甜味剂比鲜榨果汁更易入口。完全无健康益处！"
+
+#: .\comestibles.json
+msgid "grape juice"
+msgid_plural "grape juices"
+msgstr[0] "葡萄汁"
+
+#. ~ Description for {'str': 'grape juice'}
+#: .\comestibles.json
+msgid ""
+"Mass-produced national brand grape juice, loaded with artificial flavoring "
+"and preservatives. Tastes nothing like real grapes but in this case that's "
+"not a bad thing. Completely devoid of health benefits!"
+msgstr "量产国民品牌葡萄汁，富含人工香精与防腐剂。毫无真实葡萄风味，但在此情况下并非坏事。完全无健康益处！"
+
+#: .\comestibles.json
+msgid "pineapple juice"
+msgid_plural "pineapple juices"
+msgstr[0] "菠萝汁"
+
+#. ~ Description for {'str': 'pineapple juice'}
+#: .\comestibles.json
+msgid ""
+"Mass-produced national brand pineapple juice. The flavor is obviously "
+"artificial, like most of the ingredients, but it still carries the sweetness"
+" of its host fruit. This is loaded to the gills with artificial "
+"preservatives and coloring to keep it shelf-stable and appealing."
+msgstr "量产国民品牌菠萝汁。风味明显人工化，如同大部分成分，但仍保留原果甜味。为保持货架稳定与诱人外观，添加了大量人工防腐剂与色素。"
+
+#. ~ Description for {'str': 'grape juice'}
+#: .\comestibles.json
+msgid ""
+"Slightly sweetened all-natural concord grape juice, freshly pressed! "
+"Delicious and healthy."
+msgstr "轻微加糖的全天然康科德葡萄汁，新鲜压榨！美味又健康。"
+
+#. ~ Description for {'str': 'pineapple juice'}
+#: .\comestibles.json
+msgid ""
+"The sweetest natural juice you can find: fresh pressed pineapple! And "
+"healthy for you, to boot!"
+msgstr "你能找到的最甜天然果汁：新鲜压榨菠萝汁！而且还很健康！"
+
+#: .\comestibles.json
+msgid "sports drink"
+msgid_plural "sports drinks"
+msgstr[0] "运动饮料"
+
+#. ~ Description for {'str': 'sports drink'}
+#: .\comestibles.json
+msgid ""
+"Electrolytes. Sugar. Artificial fruit punch flavoring. High profile "
+"labeling. Designed for marathon runners and olympians. Even though the "
+"flavor is subdued, it's not bad tasting. But it would be better chilled."
+msgstr "电解质。糖分。人工水果宾治香精。醒目标签。专为马拉松跑者与奥运选手设计。尽管风味清淡，但口感不差。冰镇后会更佳。"
+
+#: .\comestibles.json
+msgid "condensed milk"
+msgid_plural "condensed milk"
+msgstr[0] "炼乳"
+
+#. ~ Description for {'str': 'condensed milk', 'str_pl': 'condensed milk'}
+#: .\comestibles.json
+msgid ""
+"Baby cow food, appropriated for adult humans.  Having been canned, this milk"
+" should last for a very long time."
+msgstr "幼牛食物，被人类成人征用。经罐装处理后，此牛奶可保存极长时间。"
+
+#: .\comestibles.json
+msgid "V8"
+msgid_plural "V8s"
+msgstr[0] "V8果蔬汁"
+
+#. ~ Description for {'str': 'V8'}
+#: .\comestibles.json
+msgid ""
+"Commercial big-brand healthy drink! Has artificial preservatives and 20% "
+"juice! Contains up to eight vegetable flavors!! Tasty and nutritious but not"
+" as healthy as fresh juiced veggies!"
+msgstr "商业大牌健康饮品！含人工防腐剂与20%果汁！最多包含八种蔬菜风味！！美味又营养，但不如新鲜榨取的蔬菜汁健康！"
+
+#: .\comestibles.json
+msgid "cheesecake wheel"
+msgid_plural "cheesecake wheels"
+msgstr[0] "芝士蛋糕轮"
+
+#. ~ Description for {'str': 'cheesecake wheel'}
+#: .\comestibles.json
+msgid ""
+"A whole wheel of New York style cheesecake! Still in its original packaging."
+" What a score!"
+msgstr "一整轮纽约风格芝士蛋糕！仍保留原始包装。真是好收获！"
+
+#. ~ Description for {'str': 'cheesecake wheel'}
+#: .\comestibles.json
+msgid ""
+"A whole wheel of marbled chocolate cheesecake! Still in its original "
+"packaging. What a score!"
+msgstr "一整轮大理石纹巧克力芝士蛋糕！仍保留原始包装。真是好收获！"
+
+#. ~ Description for {'str': 'cheesecake wheel'}
+#: .\comestibles.json
+msgid ""
+"A whole wheel of variety sampler cheesecake! Still in its original "
+"packaging. What a score!"
+msgstr "一整轮多样品尝装芝士蛋糕！仍保留原始包装。真是好收获！"
+
+#: .\comestibles.json
+msgid "cake"
+msgid_plural "cakes"
+msgstr[0] "蛋糕"
+
+#. ~ Description for {'str': 'cake'}
+#: .\comestibles.json
+msgid "Red velvet cake! Smooth and luscious."
+msgstr "红丝绒蛋糕！柔滑诱人。"
+
+#. ~ Description for {'str': 'cake'}
+#: .\comestibles.json
+msgid "Carrot cake! Crumbly."
+msgstr "胡萝卜蛋糕！酥脆易碎。"
+
+#. ~ Description for {'str': 'cake'}
+#: .\comestibles.json
+msgid "A pumpkin spice cake!"
+msgstr "南瓜香料蛋糕！"
+
+#. ~ Description for {'str': 'cake'}
+#: .\comestibles.json
+msgid "German chocolate cake! What a rare treat!"
+msgstr "德国巧克力蛋糕！真是难得的享受！"
+
+#. ~ Description for {'str': 'cake'}
+#: .\comestibles.json
+msgid ""
+"The cake is topped with edible paper depicting a scene of four young-looking"
+" girls with oddly-colored hair raising their arms in cheer. For some reason "
+"there are bumps in the cake where the breasts are. It makes you wonder what "
+"kind of person originally ordered this made."
+msgstr ""
+"蛋糕顶部装饰着可食用纸，描绘了四名发色奇异的年轻女孩举臂欢呼的场景。不知为何，蛋糕在胸部位置有凸起。这让你不禁好奇最初定制这款蛋糕的是怎样的人。"
+
+#: .\comestibles.json
+msgid "party platter"
+msgid_plural "party platters"
+msgstr[0] "派对拼盘"
+
+#. ~ Description for {'str': 'party platter'}
+#: .\comestibles.json
+msgid "A sampler tray of 4 different kinds of sliced cheeses."
+msgstr "装有4种不同切片奶酪的品尝盘。"
+
+#. ~ Description for {'str': 'party platter'}
+#: .\comestibles.json
+msgid "A sampler tray of 4 different kinds of sliced meats."
+msgstr "装有4种不同切片肉类的品尝盘。"
+
+#. ~ Description for {'str': 'party platter'}
+#: .\comestibles.json
+msgid ""
+"A tray of pre-cooked unbreaded shrimp with a tartar sauce cup in the middle."
+msgstr "一盘预煮的无面包屑虾，中间配有一杯塔塔酱。"
+
+#. ~ Description for {'str': 'party platter'}
+#: .\comestibles.json
+msgid ""
+"A variety tray of 3 different kinds of crackers, 2 kinds of cheese, and thin"
+" summer sausage slices."
+msgstr "多样拼盘，包含3种不同饼干、2种奶酪和薄切夏令香肠片。"
+
+#: .\comestibles.json
+msgid "submarine sandwich"
+msgid_plural "submarine sandwiches"
+msgstr[0] "潜艇三明治"
+
+#. ~ Description for {'str': 'submarine sandwich', 'str_pl': 'submarine
+#. sandwiches'}
+#: .\comestibles.json
+msgid ""
+"A freshly prepared footlong sandwich composed of 3 different sliced meats, 2"
+" different sliced cheeses, tomatoes, lettuce, onions, and a liberal smear of"
+" proprietary dressing topped off with oil."
+msgstr "新鲜制作的一英尺长三明治，包含3种不同切片肉类、2种不同切片奶酪、番茄、生菜、洋葱，并慷慨涂抹了特制酱料，最后淋上油。"
+
+#. ~ Description for {'str': 'submarine sandwich', 'str_pl': 'submarine
+#. sandwiches'}
+#: .\comestibles.json
+msgid ""
+"A freshly prepared footlong veggie supreme. Has tomatoes, two different "
+"types of lettuce, both green and white onions, cucumbers, banana peppers, "
+"jalapenos, and olives drenched in a flavored olive oil dressing."
+msgstr "新鲜制作的一英尺长蔬菜至尊三明治。包含番茄、两种不同生菜、青葱与白洋葱、黄瓜、香蕉椒、墨西哥辣椒和橄榄，浸泡在风味橄榄油酱汁中。"
+
+#: .\comestibles.json
+msgid "panini"
+msgid_plural "paninis"
+msgstr[0] "帕尼尼"
+
+#. ~ Description for {'str': 'panini'}
+#: .\comestibles.json
+msgid "A philly cheesesteak panini."
+msgstr "费城芝士牛排帕尼尼。"
+
+#. ~ Description for {'str': 'panini'}
+#: .\comestibles.json
+msgid "A grilled chicken cheese panini."
+msgstr "烤鸡芝士帕尼尼。"
+
+#: .\comestibles.json
+msgid "lunch wrap"
+msgid_plural "lunch wraps"
+msgstr[0] "午餐卷饼"
+
+#. ~ Description for {'str': 'lunch wrap'}
+#: .\comestibles.json
+msgid ""
+"This is a chicken BLT ranch wrap. It takes you back to better times, when "
+"things were simpler. When the deli was running you'd get these in halves, "
+"but looks like you get a whole wrap this time!"
+msgstr "这是鸡肉培根生菜牧场酱卷饼。它将你带回更美好的时光，那时一切更简单。熟食店营业时你只能买到半份，但这次看来你能得到一整份卷饼！"
+
+#. ~ Description for {'str': 'lunch wrap'}
+#: .\comestibles.json
+msgid ""
+"This is a tofu and veggie wrap. Not nearly as satisfying as a chicken wrap, "
+"but four time as good for you! When the deli was running you'd get these in "
+"halves, but looks like you get a whole wrap this time!"
+msgstr "这是豆腐蔬菜卷饼。虽不如鸡肉卷饼满足，但对健康的好处却是四倍！熟食店营业时你只能买到半份，但这次看来你能得到一整份卷饼！"
+
+#: .\comestibles.json
+msgid "potato wedges"
+msgid_plural "potato wedges"
+msgstr[0] "薯角"
+
+#. ~ Description for {'str': 'potato wedges', 'str_pl': 'potato wedges'}
+#: .\comestibles.json
+msgid ""
+"Fried to golden brown perfection, these salty slices are guaranteed to "
+"please. Will make you thirsty!"
+msgstr "炸至金黄完美，这些咸香薯片保证令人满意。会让你口渴！"
+
+#: .\comestibles.json
+msgid "steak fries"
+msgid_plural "steak fries"
+msgstr[0] "牛排薯条"
+
+#. ~ Description for {'str': 'steak fries', 'str_pl': 'steak fries'}
+#: .\comestibles.json
+msgid ""
+"Thick cut potato slices, fried to a golden greasy brown and generously "
+"salted. The perfect modern complement to a burger."
+msgstr "厚切土豆片，炸至金黄油腻的棕色，并慷慨撒盐。是现代汉堡的完美搭配。"
+
+#: .\comestibles.json
+msgid "curly fries"
+msgid_plural "curly fries"
+msgstr[0] "卷卷薯条"
+
+#. ~ Description for {'str': 'curly fries', 'str_pl': 'curly fries'}
+#: .\comestibles.json
+msgid "Long spirals of delightfully salty, greasy potatoes."
+msgstr "长长的螺旋状土豆条，咸香可口，油脂丰富。"
+
+#: .\comestibles.json
+msgid "deli corn dogs"
+msgid_plural "deli corn dogs"
+msgstr[0] "熟食玉米热狗"
+
+#. ~ Description for {'str': 'deli corn dogs', 'str_pl': 'deli corn dogs'}
+#: .\comestibles.json
+msgid ""
+"These are corn dogs the way they were meant to be eaten - greasy, fatty, and"
+" full of flavor straight from a commercial deep fryer. Frozen corn dogs just"
+" simply can't compare."
+msgstr "这才是玉米热狗应有的吃法——油腻、肥美、风味十足，直接从商用油炸锅中取出。冷冻玉米热狗根本无法与之相比。"
+
+#: .\comestibles.json
+msgid "burritos"
+msgid_plural "burritos"
+msgstr[0] "墨西哥卷饼"
+
+#. ~ Description for {'str': 'burritos', 'str_pl': 'burritos'}
+#: .\comestibles.json
+msgid "A pair of soft-shell burritos filled with gooey beans and cheese."
+msgstr "一对软皮墨西哥卷饼，内馅是黏稠的豆泥和奶酪。"
+
+#. ~ Description for {'str': 'burritos', 'str_pl': 'burritos'}
+#: .\comestibles.json
+msgid ""
+"A pair of soft-shell burritos filled with the works. Succulent meat. Crisp "
+"veggies. Gooey cheese. Heaping tablespoons of sour cream and guacamole."
+msgstr "一对软皮墨西哥卷饼，馅料丰富。多汁的肉、爽脆的蔬菜、黏稠的奶酪，还有堆成小山般的酸奶油和鳄梨酱。"
+
+#: .\comestibles.json
+msgid "mozzarella sticks"
+msgid_plural "mozzarella sticks"
+msgstr[0] "马苏里拉奶酪条"
+
+#. ~ Description for {'str': 'mozzarella sticks', 'str_pl': 'mozzarella
+#. sticks'}
+#: .\comestibles.json
+msgid ""
+"A handful of mozzarella sticks. Gooey. Golden brown. Greasy. So worth it."
+msgstr "一把马苏里拉奶酪条。黏稠、金黄、油腻，但绝对值得。"
+
+#: .\comestibles.json
+msgid "chicken fries"
+msgid_plural "chicken fries"
+msgstr[0] "鸡肉薯条"
+
+#. ~ Description for {'str': 'chicken fries', 'str_pl': 'chicken fries'}
+#: .\comestibles.json
+msgid ""
+"A handful of chicken sticks. The convenience of minced meat, in the "
+"convenient form of fries!"
+msgstr "一把鸡肉条。碎肉的便利，薯条的形态！"
+
+#: .\comestibles.json
+msgid "stuffed pepper"
+msgid_plural "stuffed peppers"
+msgstr[0] "酿甜椒"
+
+#. ~ Description for {'str': 'stuffed pepper'}
+#: .\comestibles.json
+msgid ""
+"A large bell pepper, cored and stuffed with rice, beef, tomatoes, corn, and "
+"melted colbyjack cheese."
+msgstr "一个大甜椒，去核后填入米饭、牛肉、番茄、玉米和融化的科尔比杰克奶酪。"
+
+#: .\comestibles.json
+msgid "poutine"
+msgid_plural "poutine"
+msgstr[0] "肉汁奶酪薯条"
+
+#. ~ Description for {'str': 'poutine', 'str_pl': 'poutine'}
+#: .\comestibles.json
+msgid ""
+"A specialty from New England's northern neighbors, this is fries drenched in"
+" a meat gravy and liberally covered with fried cheese curds."
+msgstr "这道新英格兰北部邻国的特色菜，是将薯条浸在肉汁中，并慷慨地撒上油炸奶酪凝块。"
+
+#: .\comestibles.json
+msgid "tortilla chips and salsa"
+msgid_plural "tortilla chips and salsa"
+msgstr[0] "玉米片和莎莎酱"
+
+#. ~ Description for {'str': 'tortilla chips and salsa', 'str_pl': 'tortilla
+#. chips and salsa'}
+#: .\comestibles.json
+msgid "Some corn chips with a side of habanero salsa."
+msgstr "一些玉米片，配上一小份哈瓦那辣椒莎莎酱。"
+
+#: .\comestibles.json
+msgid "meatloaf"
+msgid_plural "meatloaf"
+msgstr[0] "肉饼"
+
+#. ~ Description for {'str': 'meatloaf', 'str_pl': 'meatloaf'}
+#: .\comestibles.json
+msgid ""
+"Ground meat formed into a well-browned loaf in a thick gravy slathered with "
+"smoky barbeque sauce."
+msgstr "碎肉制成烤得焦黄的面包状，淋上浓稠的肉汁，再涂满烟熏烧烤酱。"
+
+#: .\comestibles.json
+msgid "stuffed mushroom"
+msgid_plural "stuffed mushrooms"
+msgstr[0] "酿蘑菇"
+
+#. ~ Description for {'str': 'stuffed mushroom', 'str_pl': 'stuffed
+#. mushrooms'}
+#: .\comestibles.json
+msgid ""
+"Succulent portabello mushrooms hollowed out and filled with rice, melted "
+"cheese, deeply browned ground meat, and roasted veggies."
+msgstr "多汁的波特贝洛蘑菇，挖空后填入米饭、融化的奶酪、深褐色的碎肉和烤蔬菜。"
+
+#: .\comestibles.json
+msgid "potato salad"
+msgid_plural "potato salads"
+msgstr[0] "土豆沙拉"
+
+#. ~ Description for {'str': 'potato salad', 'str_pl': 'potato salads'}
+#: .\comestibles.json
+msgid "Classic potato salad. Filling, but mildly thirst-provoking."
+msgstr "经典土豆沙拉。饱腹，但会微微引发口渴。"
+
+#: .\comestibles.json
+msgid "german potato salad"
+msgid_plural "german potato salads"
+msgstr[0] "德式土豆沙拉"
+
+#. ~ Description for {'str': 'german potato salad', 'str_pl': 'german potato
+#. salads'}
+#: .\comestibles.json
+msgid ""
+"German potato salad. With the addition of diced pickles, mustard, and thick "
+"smoky bacon, it's much heartier and more savory than classic potato salad."
+msgstr "德式土豆沙拉。加入了切碎的腌黄瓜、芥末和厚实的烟熏培根，比经典土豆沙拉更丰盛、更美味。"
+
+#: .\comestibles.json
+msgid "mashed potatoes"
+msgid_plural "mashed potatoes"
+msgstr[0] "土豆泥"
+
+#. ~ Description for {'str': 'mashed potatoes', 'str_pl': 'mashed potatoes'}
+#: .\comestibles.json
+msgid ""
+"Mashed potatoes with a light dusting of salt, pepper, and mild spice. Served"
+" with brown gravy."
+msgstr "土豆泥，轻轻撒上盐、胡椒和温和的香料。配以棕色肉汁。"
+
+#: .\comestibles.json
+msgid "macaroni salad"
+msgid_plural "macaroni salads"
+msgstr[0] "通心粉沙拉"
+
+#. ~ Description for {'str': 'macaroni salad', 'str_pl': 'macaroni salads'}
+#: .\comestibles.json
+msgid "Classic macaroni salad. Refreshing."
+msgstr "经典通心粉沙拉。清爽可口。"
+
+#: .\comestibles.json
+msgid "seafood salad"
+msgid_plural "seafood salads"
+msgstr[0] "海鲜沙拉"
+
+#. ~ Description for {'str': 'seafood salad', 'str_pl': 'seafood salads'}
+#: .\comestibles.json
+msgid ""
+"A New England variation on the traditional tuna salad, this one instead "
+"features hake, cod, lobster, and crab, all minced with a light savory cream "
+"and robust spice blend."
+msgstr "这是新英格兰对传统金枪鱼沙拉的改良版，以鳕鱼、鳕鱼、龙虾和蟹肉为特色，全部切碎后拌入清淡的咸味奶油和浓郁的香料混合物中。"
+
+#: .\comestibles.json
+msgid "fruit salad"
+msgid_plural "fruit salads"
+msgstr[0] "水果沙拉"
+
+#. ~ Description for {'str': 'fruit salad', 'str_pl': 'fruit salads'}
+#: .\comestibles.json
+msgid ""
+"Sweetened fruit chunks in a mix of their own syrup and vanilla-flavored "
+"heavy whipping cream dusted with cinnamon. Mildly good for you!"
+msgstr "甜味水果块混合在自制的糖浆和香草风味重奶油中，撒上肉桂粉。对健康略有裨益！"
+
+#: .\comestibles.json
+msgid "casserole"
+msgid_plural "casseroles"
+msgstr[0] "砂锅菜"
+
+#. ~ Description for {'str': 'casserole', 'str_pl': 'casseroles'}
+#: .\comestibles.json
+msgid ""
+"This is a breakfast casserole, a combination of eggs, milk, tater tots, "
+"bacon, and spices all baked together to a uniform golden brown."
+msgstr "这是一道早餐砂锅菜，将鸡蛋、牛奶、土豆饼、培根和香料混合在一起，烘烤至均匀的金黄色。"
+
+#. ~ Description for {'str': 'casserole', 'str_pl': 'casseroles'}
+#: .\comestibles.json
+msgid ""
+"This is a broccoli bake casserole, a combination of broccoli florets in "
+"mayonnaise and cream of chicken with herbs, topped generously with thick "
+"layers of cheese, and then baked to golden brown. Healthy, fattening, and "
+"delicious."
+msgstr "这是一道西兰花烤砂锅菜，将西兰花小花拌入蛋黄酱和鸡肉奶油汤中，加入香草，顶部慷慨地覆盖厚厚的奶酪层，然后烘烤至金黄色。健康、增肥且美味。"
+
+#. ~ Description for {'str': 'casserole', 'str_pl': 'casseroles'}
+#: .\comestibles.json
+msgid "This is a tuna casserole."
+msgstr "这是一道金枪鱼砂锅菜。"
+
+#: .\comestibles.json
+msgid "schnitzel"
+msgid_plural "schnitzel"
+msgstr[0] "炸肉排"
+
+#. ~ Description for {'str': 'schnitzel', 'str_pl': 'schnitzel'}
+#: .\comestibles.json
+msgid "A breaded cutlet of meat, prepared German-style."
+msgstr "一块裹面包屑的肉排，以德式风格烹制。"
+
+#: .\comestibles.json
+msgid "saurbraten"
+msgid_plural "saurbraten"
+msgstr[0] "酸炖牛肉"
+
+#. ~ Description for {'str': 'saurbraten', 'str_pl': 'saurbraten'}
+#: .\comestibles.json
+msgid ""
+"A German hallmark, this is a soft, juicy, tender roast of meat with various "
+"herbs, seasoings, and spices. Has a sour kick to it due to having marinated "
+"in vinegar and red wine for days before roasting."
+msgstr "这是德国的标志性菜肴，一种柔软、多汁、嫩滑的烤肉，配以各种香草、调味料和香料。由于在烘烤前用醋和红酒腌制数日，带有酸味刺激。"
+
+#: .\comestibles.json
+msgid "german potato pancakes"
+msgid_plural "german potato pancakes"
+msgstr[0] "德式土豆煎饼"
+
+#. ~ Description for {'str': 'german potato pancakes', 'str_pl': 'german
+#. potato pancakes'}
+#: .\comestibles.json
+msgid ""
+"Pancakes from ground potatoes, egg, and flour. Having a neutral flavor by "
+"themselves, they go well with either savory or sweet toppings. These ones "
+"have apple sauce and sugar liberally drizzled over them."
+msgstr "由磨碎的土豆、鸡蛋和面粉制成的煎饼。本身味道中性，适合搭配咸味或甜味配料。这些煎饼上淋有大量的苹果酱和糖。"
+
+#. ~ Description for {'str': 'german potato pancakes', 'str_pl': 'german
+#. potato pancakes'}
+#: .\comestibles.json
+msgid ""
+"Pancakes from ground potatoes, egg, and flour. Having a neutral flavor by "
+"themselves, they go well with either savory or sweet toppings. These ones "
+"have cottage cheese and sour cream spread over them."
+msgstr "由磨碎的土豆、鸡蛋和面粉制成的煎饼。本身味道中性，适合搭配咸味或甜味配料。这些煎饼上涂有农家干酪和酸奶油。"
+
+#: .\comestibles.json
+msgid "speckkuchen"
+msgid_plural "speckkuchen"
+msgstr[0] "培根蛋糕"
+
+#. ~ Description for {'str': 'speckkuchen', 'str_pl': 'speckkuchen'}
+#: .\comestibles.json
+msgid ""
+"A German take on quiche, this one uses rye instead of traditional wheat "
+"flour for the base, and features bacon crumbles covering the top."
+msgstr "这是德国风味的乳蛋饼，使用黑麦而非传统小麦粉作为基底，顶部覆盖培根碎。"
+
+#: .\comestibles.json
+msgid "pizza sticks"
+msgid_plural "pizza sticks"
+msgstr[0] "披萨棒"
+
+#. ~ Description for {'str': 'pizza sticks', 'str_pl': 'pizza sticks'}
+#: .\comestibles.json
+msgid ""
+"Pizza in the convenience of a slimmed down hot pocket. Pepperoni and sausage"
+" in piping hot, gooey mozzarella and marinara."
+msgstr "披萨以简化版热口袋的形式呈现，方便食用。内含意大利辣香肠和香肠，搭配滚烫、粘稠的马苏里拉奶酪和意式番茄酱。"
+
+#: .\comestibles.json
+msgid "hot pocket"
+msgid_plural "hot pockets"
+msgstr[0] "热口袋"
+
+#. ~ Description for {'str': 'hot pocket', 'str_pl': 'hot pockets'}
+#: .\comestibles.json
+msgid "A hot pocket! This one is meatball marinara with melted mozzarella."
+msgstr "一个热口袋！这个是肉丸意式番茄酱口味，搭配融化的马苏里拉奶酪。"
+
+#. ~ Description for {'str': 'hot pocket', 'str_pl': 'hot pockets'}
+#: .\comestibles.json
+msgid "A hot pocket! This one is ham and cheese."
+msgstr "一个热口袋！这个是火腿奶酪口味。"
+
+#. ~ Description for {'str': 'hot pocket', 'str_pl': 'hot pockets'}
+#: .\comestibles.json
+msgid "A hot pocket! This one is pepperoni pizza."
+msgstr "一个热口袋！这个是意大利辣香肠披萨口味。"
+
+#. ~ Description for {'str': 'hot pocket', 'str_pl': 'hot pockets'}
+#: .\comestibles.json
+msgid "A hot pocket! This one is philly cheesesteak."
+msgstr "一个热口袋！这个是费城芝士牛排口味。"
+
+#: .\comestibles.json
+msgid "borscht"
+msgid_plural "borscht"
+msgstr[0] "罗宋汤"
+
+#. ~ Description for {'str': 'borscht', 'str_pl': 'borscht'}
+#: .\comestibles.json
+msgid ""
+"A very sour beet root soup with beef stock and assorted sauteed veggies. "
+"Good for you, but not particularly palatable."
+msgstr "一种非常酸的甜菜根汤，加入牛肉高汤和各种炒蔬菜。对健康有益，但口感不佳。"
+
+#: .\comestibles.json
+msgid "carbonara"
+msgid_plural "carbonara"
+msgstr[0] "卡邦尼意面"
+
+#. ~ Description for {'str': 'carbonara', 'str_pl': 'carbonara'}
+#: .\comestibles.json
+msgid ""
+"Goopy carbonara! Wavy al dente egg noodles in a thick sauce of egg, heavy "
+"cream, and parmesan finished with minced garlic, onion, and thick-cut bacon "
+"chopped into chunks. The deli version has a proprietary blend of spices and "
+"seasoning that significantly heighten the overall flavor profile."
+msgstr ""
+"粘稠的卡邦尼意面！波浪状的弹牙鸡蛋面裹在由鸡蛋、重奶油和帕尔马干酪制成的浓稠酱汁中，最后加入蒜末、洋葱和切块的厚切培根。熟食店版本采用独家混合香料和调味料，显著提升了整体风味。"
+
+#: .\comestibles.json
+msgid "cheese wheel"
+msgid_plural "cheese wheels"
+msgstr[0] "奶酪轮"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of soft cheddar cheese."
+msgstr "一个软质切达奶酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of hard, tart cheddar cheese."
+msgstr "一个硬质、酸味的切达奶酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of smooth muenster cheese."
+msgstr "一个光滑的明斯特奶酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of slightly aromatic swiss cheese."
+msgstr "一块略带香气的瑞士奶酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of moist, delicate colbyjack cheese."
+msgstr "一块湿润、细腻的科尔比杰克奶酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of firm, crumbly parmesan cheese."
+msgstr "一块坚硬、易碎的帕尔马干酪轮。"
+
+#. ~ Description for {'str': 'cheese wheel'}
+#: .\comestibles.json
+msgid "A wheel of creamy gouda cheese."
+msgstr "一块奶油质地的豪达奶酪轮。"
+
+#: .\comestibles.json
+msgid "cottage cheese"
+msgid_plural "cottage cheeses"
+msgstr[0] "乡村奶酪"
+
+#. ~ Description for {'str': 'cottage cheese'}
+#: .\comestibles.json
+msgid ""
+"A two pound container of whole fat large-curd cottage cheese with high "
+"moisture content. Good on its own, or as a side dish to virtually anything. "
+"Especially good in lasagna!"
+msgstr "一罐两磅重、高水分含量的全脂大凝乳乡村奶酪。单吃不错，或作为几乎所有菜肴的配菜。尤其适合用于千层面！"
+
+#: .\comestibles.json
+msgid "cream cheese"
+msgid_plural "cream cheeses"
+msgstr[0] "奶油奶酪"
+
+#. ~ Description for {'str': 'cream cheese'}
+#: .\comestibles.json
+msgid ""
+"A two pound container of whole fat cream cheese. Slightly tart and dry by "
+"itself, but good for baking with."
+msgstr "一罐两磅重的全脂奶油奶酪。单吃略带酸味和干涩，但适合用于烘焙。"
+
+#: .\comestibles.json
+msgid "ricotta cheese"
+msgid_plural "ricotta cheeses"
+msgstr[0] "里科塔奶酪"
+
+#. ~ Description for {'str': 'ricotta cheese'}
+#: .\comestibles.json
+msgid ""
+"A two pound container of whole fat ricotta cheese. Slightly sweeter than "
+"cottage cheese and with about the same moisture content. Great for "
+"garnishing pastas in general."
+msgstr "一罐两磅重的全脂里科塔奶酪。比乡村奶酪稍甜，水分含量相近。非常适合用于装饰各种意面。"
+
+#: .\comestibles.json
+msgid "sliced meat"
+msgid_plural "sliced meats"
+msgstr[0] "切片肉"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is mesquite turkey."
+msgstr "大约一磅熟食店切片肉。这是豆科灌木火鸡肉。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is honey-glazed turkey."
+msgstr "大约一磅熟食店切片肉。这是蜂蜜釉火鸡肉。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is smoked ham."
+msgstr "大约一磅熟食店切片肉。这是烟熏火腿。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is honey-baked ham."
+msgstr "大约一磅熟食店切片肉。这是蜂蜜烤火腿。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is roasted chicken."
+msgstr "大约一磅熟食店切片肉。这是烤鸡肉。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is pepper chicken."
+msgstr "大约一磅熟食店切片肉。这是胡椒鸡肉。"
+
+#. ~ Description for {'str': 'sliced meat'}
+#: .\comestibles.json
+msgid "About a pound of deli-sliced meat. This is roast beef."
+msgstr "大约一磅熟食店切片肉。这是烤牛肉。"
+
+#: .\comestibles.json
+msgid "steak"
+msgid_plural "steaks"
+msgstr[0] "牛排"
+
+#. ~ Description for {'str': 'steak', 'str_pl': 'steaks'}
+#: .\comestibles.json
+msgid "A fully cooked slab of beef. This is a t-bone."
+msgstr "一块完全烹熟的牛肉块。这是T骨牛排。"
+
+#. ~ Description for {'str': 'steak', 'str_pl': 'steaks'}
+#: .\comestibles.json
+msgid "A fully cooked slab of beef. This is a ribeye."
+msgstr "一块完全烹熟的牛肉块。这是肋眼牛排。"
+
+#. ~ Description for {'str': 'steak', 'str_pl': 'steaks'}
+#: .\comestibles.json
+msgid "A fully cooked slab of beef. This is a sirloin."
+msgstr "一块完全烹熟的牛肉块。这是西冷牛排。"
+
+#. ~ Description for {'str': 'steak', 'str_pl': 'steaks'}
+#: .\comestibles.json
+msgid "A fully cooked slab of beef. This is a tri-tip."
+msgstr "一块完全烹熟的牛肉块。这是三角牛排。"
+
+#: .\comestibles.json
+msgid "roasted chicken"
+msgid_plural "roasted chickens"
+msgstr[0] "烤鸡"
+
+#. ~ Description for {'str': 'roasted chicken'}
+#: .\comestibles.json
+msgid "A whole bone-in chicken, roasted rotisserie-style. Juicy and filling."
+msgstr "一整只带骨鸡肉，以旋转烤架风格烤制。多汁且饱腹。"
+
+#: .\comestibles.json
+msgid "deli chicken"
+msgid_plural "deli chicken"
+msgstr[0] "熟食鸡肉"
+
+#. ~ Description for {'str': 'deli chicken', 'str_pl': 'deli chicken'}
+#: .\comestibles.json
+msgid ""
+"A generous assortment of breaded boneless wings, thighs, and breasts. This "
+"is the teriyaki glaze."
+msgstr "一份丰盛的面包屑无骨鸡翅、鸡腿和鸡胸肉组合。这是照烧酱口味。"
+
+#. ~ Description for {'str': 'deli chicken', 'str_pl': 'deli chicken'}
+#: .\comestibles.json
+msgid ""
+"A generous assortment of breaded boneless wings, thighs, and breasts. This "
+"is the bourbon barbeque glaze."
+msgstr "一份丰盛的面包屑无骨鸡翅、鸡腿和鸡胸肉组合。这是波本烧烤酱口味。"
+
+#. ~ Description for {'str': 'deli chicken', 'str_pl': 'deli chicken'}
+#: .\comestibles.json
+msgid ""
+"A generous assortment of breaded boneless wings, thighs, and breasts. This "
+"is the orange chicken glaze."
+msgstr "一份丰盛的面包屑无骨鸡翅、鸡腿和鸡胸肉组合。这是橙子鸡酱口味。"
+
+#. ~ Description for {'str': 'deli chicken', 'str_pl': 'deli chicken'}
+#: .\comestibles.json
+msgid ""
+"A generous assortment of breaded boneless wings, thighs, and breasts. This "
+"is the spicy general tso glaze with whole chili pods."
+msgstr "一份丰盛的面包屑无骨鸡翅、鸡腿和鸡胸肉组合。这是辣味左宗棠酱口味，带有整颗辣椒荚。"
+
+#: .\comestibles.json
+msgid "fried chicken"
+msgid_plural "fried chicken"
+msgstr[0] "炸鸡"
+
+#. ~ Description for {'str': 'fried chicken', 'str_pl': 'fried chicken'}
+#: .\comestibles.json
+msgid ""
+"Deep fried breaded bone-in chicken wings, thighs, and breasts. Mild "
+"seasoning blend."
+msgstr "油炸裹粉的带骨鸡翅、鸡腿和鸡胸肉。采用温和调味料混合。"
+
+#. ~ Description for {'str': 'fried chicken', 'str_pl': 'fried chicken'}
+#: .\comestibles.json
+msgid ""
+"Deep fried breaded bone-in chicken wings, thighs, and breasts. Spicy "
+"seasoning blend."
+msgstr "油炸裹粉的带骨鸡翅、鸡腿和鸡胸肉。采用辛辣调味料混合。"
+
+#. ~ Description for {'str': 'fried chicken', 'str_pl': 'fried chicken'}
+#: .\comestibles.json
+msgid ""
+"Deep fried breaded bone-in chicken wings, thighs, and breasts. Barbeque "
+"glaze."
+msgstr "油炸裹粉的带骨鸡翅、鸡腿和鸡胸肉。涂有烧烤酱汁。"
+
+#. ~ Description for {'str': 'fried chicken', 'str_pl': 'fried chicken'}
+#: .\comestibles.json
+msgid ""
+"Deep fried breaded bone-in chicken wings, thighs, and breasts. Habanero "
+"glaze."
+msgstr "油炸裹粉的带骨鸡翅、鸡腿和鸡胸肉。涂有哈瓦那辣椒酱汁。"
+
+#: .\comestibles.json
+msgid "crab cake"
+msgid_plural "crab cakes"
+msgstr[0] "蟹肉饼"
+
+#. ~ Description for {'str': 'crab cake', 'str_pl': 'crab cakes'}
+#: .\comestibles.json
+msgid ""
+"An iconic nationwide dish, this is a golden brown breaded ball of minced "
+"crab meat and finely diced savory vegetables with a signature new england "
+"herb blend."
+msgstr "这是一道全国闻名的标志性菜肴，由蟹肉末和精细切丁的香草蔬菜混合而成，裹上面包屑炸至金黄，并配有新英格兰特色香草混合料。"
+
+#: .\comestibles.json
+msgid "new england cod fish cake"
+msgid_plural "new england cod fish cakes"
+msgstr[0] "新英格兰鳕鱼饼"
+
+#. ~ Description for {'str': 'new england cod fish cake', 'str_pl': 'new
+#. england cod fish cakes'}
+#: .\comestibles.json
+msgid ""
+"A deep browned formed cake of minced cod fish meat, potato, onion, and herbs"
+" with an incredibly savory flavor. Served with tartar sauce. A regional "
+"specialty."
+msgstr "由鳕鱼肉末、土豆、洋葱和香草混合制成的深褐色成型饼，风味极其鲜美。搭配塔塔酱食用。一道地方特色菜。"
+
+#: .\comestibles.json
+msgid "grilled calamari"
+msgid_plural "grilled calamari"
+msgstr[0] "烤鱿鱼圈"
+
+#. ~ Description for {'str': 'grilled calamari', 'str_pl': 'grilled calamari'}
+#: .\comestibles.json
+msgid ""
+"Several rings of squid meat grilled until thick and firm with a light sear."
+msgstr "几圈鱿鱼肉烤至厚实紧致，表面微焦。"
+
+#: .\comestibles.json
+msgid "coastal seafood cup"
+msgid_plural "coastal seafood cups"
+msgstr[0] "海岸海鲜杯"
+
+#. ~ Description for {'str': 'coastal seafood cup', 'str_pl': 'coastal seafood
+#. cups'}
+#: .\comestibles.json
+msgid ""
+"A hollowed out cucumber 'cup' containing a blend of plain yogurt, hot sauce,"
+" and dijon mustard, with a combination of minced crabmeat and minced lobster"
+" folded in and topped with black peppercorns."
+msgstr "一个挖空的黄瓜“杯”，内盛原味酸奶、辣酱和第戎芥末的混合酱汁，拌入蟹肉末和龙虾肉末，顶部撒上黑胡椒粒。"
+
+#: .\comestibles.json
+msgid "lobster thermidor roll"
+msgid_plural "lobster thermidor rolls"
+msgstr[0] "龙虾瑟米多卷"
+
+#. ~ Description for {'str': 'lobster thermidor roll', 'str_pl': 'lobster
+#. thermidor rolls'}
+#: .\comestibles.json
+msgid ""
+"Creamy, cheesy lobster resting on a bed of fresh shredded lettuce in a whole"
+" wheat roll and drizzled with zesty lemon-flavored yogurt dressing. A "
+"traditional recipe, made portable!"
+msgstr "奶油芝士龙虾肉铺在新鲜切碎的生菜上，夹在全麦卷中，淋上清爽的柠檬风味酸奶酱。传统食谱，便携享用！"
+
+#: .\comestibles.json
+msgid "fried belly clams"
+msgid_plural "fried belly clams"
+msgstr[0] "炸蛤蜊肚"
+
+#. ~ Description for {'str': 'fried belly clams', 'str_pl': 'fried belly
+#. clams'}
+#: .\comestibles.json
+msgid ""
+"Basically clam strips, but thicker and more flavorful with the same "
+"delicious deep fried breading."
+msgstr "本质上是蛤蜊条，但更厚实、风味更浓郁，裹着同样美味的油炸面包屑。"
+
+#: .\comestibles.json
+msgid "fried scallops"
+msgid_plural "fried scallops"
+msgstr[0] "炸扇贝"
+
+#. ~ Description for {'str': 'fried scallops', 'str_pl': 'fried scallops'}
+#: .\comestibles.json
+msgid ""
+"Deep-fried golden-brown nuggets filled with flaky fish. The perfect side "
+"dish to any proper New England meal."
+msgstr "油炸至金黄色的块状物，内填片状鱼肉。任何正宗新英格兰餐点的完美配菜。"
+
+#: .\comestibles.json
+msgid "salmon cakes"
+msgid_plural "salmon cakes"
+msgstr[0] "三文鱼饼"
+
+#. ~ Description for {'str': 'salmon cakes', 'str_pl': 'salmon cakes'}
+#: .\comestibles.json
+msgid ""
+"Minced salmon with a light breading shaped into a large, light patty and "
+"thoroughly browned. The northeasterner's answer to the meatloaf."
+msgstr "三文鱼末裹上轻薄面包屑，塑形成大而轻盈的肉饼，彻底煎至褐色。这是东北地区对肉糕的回应。"
+
+#: .\comestibles.json
+msgid "broiled swordfish kebabs"
+msgid_plural "broiled swordfish kebabs"
+msgstr[0] "烤剑鱼串"
+
+#. ~ Description for {'str': 'broiled swordfish kebabs', 'str_pl': 'broiled
+#. swordfish kebabs'}
+#: .\comestibles.json
+msgid ""
+"Short of whale or shark meat, this is the heartiest meat in the sea. "
+"Broiled, it's got an out-of-this-world umami profile that's well-"
+"complemented by the interspersed vegetable rounds."
+msgstr "除了鲸鱼肉或鲨鱼肉，这是海洋中最丰盛的肉类。烤制后，它带有超凡的鲜味，与穿插其间的蔬菜片相得益彰。"
+
+#: .\comestibles.json
+msgid "lobster mac and cheese"
+msgid_plural "lobster mac and cheese"
+msgstr[0] "龙虾通心粉和奶酪"
+
+#. ~ Description for {'str': 'lobster mac and cheese', 'str_pl': 'lobster mac
+#. and cheese'}
+#: .\comestibles.json
+msgid ""
+"Bite-sized cooked-through lobster bits in three different varieties of gooey"
+" cheese with diced onion, minced garlic, and buttery pasta. An American "
+"classic, Yankee style."
+msgstr "一口大小的熟龙虾块，搭配三种不同口感的粘稠奶酪，以及洋葱丁、蒜末和黄油意面。一道美国经典，扬基风格。"
+
+#: .\comestibles.json
+msgid "chow mein"
+msgid_plural "chow mein"
+msgstr[0] "炒面"
+
+#. ~ Description for {'str': 'chow mein', 'str_pl': 'chow mein'}
+#: .\comestibles.json
+msgid "Oily stirfried noodles with veggies and meat."
+msgstr "油炒面条，配以蔬菜和肉类。"
+
+#: .\comestibles.json
+msgid "potstickers"
+msgid_plural "potstickers"
+msgstr[0] "锅贴"
+
+#. ~ Description for {'str': 'potstickers', 'str_pl': 'potstickers'}
+#: .\comestibles.json
+msgid "Fried stuffed dumplings with cabbage and pork."
+msgstr "油炸馅料饺子，内含卷心菜和猪肉。"
+
+#: .\comestibles.json
+msgid "wontons"
+msgid_plural "wontons"
+msgstr[0] "馄饨"
+
+#. ~ Description for {'str': 'wontons', 'str_pl': 'wontons'}
+#: .\comestibles.json
+msgid "Crispy dumplings filled with cabbage and pork."
+msgstr "酥脆的饺子，内馅为白菜猪肉。"
+
+#. ~ Description for {'str': 'wontons', 'str_pl': 'wontons'}
+#: .\comestibles.json
+msgid "Crispy dumplings filled with cream cheese and imitation crab meat."
+msgstr "酥脆的饺子，内馅为奶油芝士和仿蟹肉。"
+
+#: .\comestibles.json
+msgid "mongolian beef"
+msgid_plural "mongolian beef"
+msgstr[0] "蒙古牛肉"
+
+#. ~ Description for {'str': 'mongolian beef', 'str_pl': 'mongolian beef'}
+#: .\comestibles.json
+msgid ""
+"Thin oily slices of beef on a bed of sticky white rice with a savory sauce."
+msgstr "薄而油润的牛肉片铺在黏糯的白米饭上，佐以咸香酱汁。"
+
+#: .\comestibles.json
+msgid "sweet and sour pork"
+msgid_plural "sweet and sour pork"
+msgstr[0] "糖醋猪肉"
+
+#. ~ Description for {'str': 'sweet and sour pork', 'str_pl': 'sweet and sour
+#. pork'}
+#: .\comestibles.json
+msgid ""
+"Thick chunks of pork bathed in a tangy red glaze over sticky white rice."
+msgstr "厚实的猪肉块裹着酸爽的红色酱汁，铺在黏糯的白米饭上。"
+
+#: .\comestibles.json
+msgid "broccoli beef"
+msgid_plural "broccoli beef"
+msgstr[0] "西兰花牛肉"
+
+#. ~ Description for {'str': 'broccoli beef', 'str_pl': 'broccoli beef'}
+#: .\comestibles.json
+msgid ""
+"Slices of salty chewy beef mixed with broccoli florets doused with a savory "
+"sauce over sticky white rice."
+msgstr "咸香有嚼劲的牛肉片与西兰花混合，浇上咸香酱汁，铺在黏糯的白米饭上。"
+
+#: .\comestibles.json
+msgid "kung pao chicken"
+msgid_plural "kung pao chicken"
+msgstr[0] "宫保鸡丁"
+
+#. ~ Description for {'str': 'kung pao chicken', 'str_pl': 'kung pao chicken'}
+#: .\comestibles.json
+msgid ""
+"Stir-fried tender chicken and chili pods in a spicy teriyaki sauce over "
+"sticky white rice."
+msgstr "嫩滑的鸡肉与辣椒快炒，佐以辛辣照烧酱，铺在黏糯的白米饭上。"
+
+#: .\comestibles.json
+msgid "fortune cookie (empty)"
+msgid_plural "fortune cookies (empty)"
+msgstr[0] "幸运饼干（空的）"
+
+#. ~ Description for {'str': 'fortune cookie (empty)', 'str_pl': 'fortune
+#. cookies (empty)'}
+#: .\comestibles.json
+msgid ""
+"A sweet, hard hollow pastry that normally has a fortune written on paper for"
+" you. This one, however, does not."
+msgstr "一种甜而硬的中空糕点，通常内含写有签文的纸条。但这个没有。"
+
+#: .\comestibles.json
+msgid "chicken katsu"
+msgid_plural "chicken katsu"
+msgstr[0] "炸鸡排"
+
+#. ~ Description for {'str': 'chicken katsu', 'str_pl': 'chicken katsu'}
+#: .\comestibles.json
+msgid "A breaded deep-fried chicken cutlet."
+msgstr "裹面包屑的油炸鸡排。"
+
+#: .\comestibles.json
+msgid "rice bowl"
+msgid_plural "rice bowls"
+msgstr[0] "米饭碗"
+
+#. ~ Description for {'str': 'rice bowl'}
+#: .\comestibles.json
+msgid "Steamed white rice, veggies, and teriyaki pork in a convenient bowl."
+msgstr "蒸白米饭、蔬菜和照烧猪肉，盛于方便的碗中。"
+
+#. ~ Description for {'str': 'rice bowl'}
+#: .\comestibles.json
+msgid ""
+"Steamed white rice, veggies, and teriyaki chicken in a convenient bowl."
+msgstr "蒸白米饭、蔬菜和照烧鸡肉，盛于方便的碗中。"
+
+#. ~ Description for {'str': 'rice bowl'}
+#: .\comestibles.json
+msgid "Steamed white rice, veggies, and teriyaki beef in a convenient bowl."
+msgstr "蒸白米饭、蔬菜和照烧牛肉，盛于方便的碗中。"
+
+#. ~ Description for {'str': 'rice bowl'}
+#: .\comestibles.json
+msgid ""
+"Steamed white rice and veggies with teriyaki sauce in a convenient bowl."
+msgstr "蒸白米饭和蔬菜，佐以照烧酱，盛于方便的碗中。"
+
+#: .\comestibles.json
+msgid "moo shu pork"
+msgid_plural "moo shu pork"
+msgstr[0] "木须猪肉"
+
+#. ~ Description for {'str': 'moo shu pork', 'str_pl': 'moo shu pork'}
+#: .\comestibles.json
+msgid ""
+"Pork tenderloin cutlets in a mild savory sauce flanked by long thin strips "
+"of cabbage, broccoli, and carrots."
+msgstr "猪里脊肉排佐以温和咸香酱汁，配以细长的白菜、西兰花和胡萝卜丝。"
+
+#: .\comestibles.json
+msgid "szechwan shrimp"
+msgid_plural "szechwan shrimp"
+msgstr[0] "四川虾"
+
+#. ~ Description for {'str': 'szechwan shrimp', 'str_pl': 'szechwan shrimp'}
+#: .\comestibles.json
+msgid "Shrimp in a salty sauce served over sticky white rice."
+msgstr "咸香酱汁烹制的虾，铺在黏糯的白米饭上。"
+
+#: .\comestibles.json
+msgid "egg drop soup"
+msgid_plural "egg drop soup"
+msgstr[0] "蛋花汤"
+
+#. ~ Description for {'str': 'egg drop soup', 'str_pl': 'egg drop soup'}
+#: .\comestibles.json
+msgid ""
+"Boiled chicken broth with beaten egg wisps throughout. This version has tiny"
+" chunks of tofu and white pepper seasoning as well."
+msgstr "煮沸的鸡汤中漂浮着打散的蛋丝。此版本还加入了小块豆腐和白胡椒调味。"
+
+#: .\comestibles.json
+msgid "hot and sour soup"
+msgid_plural "egg drop soup"
+msgstr[0] "酸辣汤"
+
+#. ~ Description for {'str': 'hot and sour soup', 'str_pl': 'egg drop soup'}
+#: .\comestibles.json
+msgid ""
+"A relatively thick soup of veggies, pork broth, corn starch, white pepper, "
+"and vinegar. Very good for you."
+msgstr "相对浓稠的汤，内含蔬菜、猪肉汤、玉米淀粉、白胡椒和醋。对身体非常有益。"
+
+#: .\comestibles.json
+msgid "yakisoba noodles"
+msgid_plural "yakisoba noodles"
+msgstr[0] "日式炒面"
+
+#. ~ Description for {'str': 'yakisoba noodles', 'str_pl': 'yakisoba noodles'}
+#: .\comestibles.json
+msgid ""
+"Thick oily buckwheat noodles with tender chunks of stir-fried vegetables and"
+" chicken. Salty and delicious."
+msgstr "油润的粗荞麦面，配以嫩炒蔬菜和鸡肉块。咸香可口。"
+
+#: .\comestibles.json
+msgid "chicken noodle soup"
+msgid_plural "chicken noodle soup"
+msgstr[0] "鸡肉面条汤"
+
+#. ~ Description for {'str': 'chicken noodle soup', 'str_pl': 'chicken noodle
+#. soup'}
+#: .\comestibles.json
+msgid ""
+"An especially thick, hearty chicken noodle soup with wide egg noodles, large"
+" chunks of chicken, and hefty slices of veggies in a savory broth."
+msgstr "一碗特别浓郁、丰盛的鸡肉面条汤，配有宽鸡蛋面、大块鸡肉和厚实的蔬菜片，汤底鲜美。"
+
+#: .\comestibles.json
+msgid "chicken and sausage gumbo soup"
+msgid_plural "chicken and sausage gumbo soup"
+msgstr[0] "鸡肉香肠秋葵汤"
+
+#. ~ Description for {'str': 'chicken and sausage gumbo soup', 'str_pl':
+#. 'chicken and sausage gumbo soup'}
+#: .\comestibles.json
+msgid ""
+"Particularly thick slices of dark meat chicken and spicy andouille sausage "
+"in a traditional rice and veggie gumbo. Has a kick to it!"
+msgstr "传统米饭蔬菜秋葵汤中加入了特别厚实的黑肉鸡块和辛辣的安杜维尔香肠。口感劲爆！"
+
+#: .\comestibles.json
+msgid "steak and potato soup"
+msgid_plural "steak and potato soup"
+msgstr[0] "牛排土豆汤"
+
+#. ~ Description for {'str': 'steak and potato soup', 'str_pl': 'steak and
+#. potato soup'}
+#: .\comestibles.json
+msgid ""
+"Tender cuts of sirloin steak and yukon gold potato chunks in a creamy white "
+"stock."
+msgstr "嫩切的西冷牛排和育空黄金土豆块，浸泡在奶油白汤中。"
+
+#: .\comestibles.json
+msgid "venus de milo soup"
+msgid_plural "venus de milo soup"
+msgstr[0] "维纳斯德米洛汤"
+
+#. ~ Description for {'str': 'venus de milo soup', 'str_pl': 'venus de milo
+#. soup'}
+#: .\comestibles.json
+msgid ""
+"A New England specialty, Venus De Milo soup is thoroughly browned ground "
+"beef, diced tomatoes, mixed veggies, and orzo in a beef and onion broth."
+msgstr "新英格兰特色菜，维纳斯德米洛汤包含充分煎香的碎牛肉、番茄丁、混合蔬菜和米粒面，汤底为牛肉洋葱汤。"
+
+#: .\comestibles.json
+msgid "old-fashioned chicken and dumplings soup"
+msgid_plural "old-fashioned chicken and dumplings soup"
+msgstr[0] "老式鸡肉饺子汤"
+
+#. ~ Description for {'str': 'old-fashioned chicken and dumplings soup',
+#. 'str_pl': 'old-fashioned chicken and dumplings soup'}
+#: .\comestibles.json
+msgid ""
+"A traditional New England preparation of the time-honored chicken and "
+"dumplings. Packed full of delicious juices and flavor. The entire chicken is"
+" used to make the initial stock, then removed, the meat is pulled off the "
+"bones, and then dropped in with bay leaves, salt and pepper, and the puffy, "
+"slightly sticky dumplings."
+msgstr ""
+"传统新英格兰风味的经典鸡肉饺子汤。充满美味的汤汁和风味。整只鸡用于制作初始汤底，然后取出，将肉从骨头上撕下，与月桂叶、盐、胡椒以及蓬松、略带粘性的饺子一起放入汤中。"
+
+#: .\comestibles.json
+msgid "creamy crab bisque soup"
+msgid_plural "creamy crab bisque soup"
+msgstr[0] "奶油蟹肉浓汤"
+
+#. ~ Description for {'str': 'creamy crab bisque soup', 'str_pl': 'creamy crab
+#. bisque soup'}
+#: .\comestibles.json
+msgid ""
+"A New England icon, crab bisque is perfectly cooked-through crab meat in a "
+"light, creamy broth with a balanced, flavorful blend of ground ginger and "
+"minced garlic, carrot, green onion, celery heart, cayenne pepper, and dried "
+"lemon peel."
+msgstr "新英格兰标志性菜肴，蟹肉浓汤包含完美煮熟的蟹肉，汤底清淡奶油，融合了姜末、蒜末、胡萝卜、青葱、芹菜心、辣椒粉和干柠檬皮的平衡风味。"
+
+#: .\comestibles.json
+msgid "firehouse chili"
+msgid_plural "firehouse chili"
+msgstr[0] "消防站辣椒汤"
+
+#. ~ Description for {'str': 'firehouse chili', 'str_pl': 'firehouse chili'}
+#: .\comestibles.json
+msgid ""
+"A New England twist on an American staple, firehouse chili has a mix of 5 "
+"different chopped, powdered, and crushed peppers, cinnamon, and cumin to "
+"infuse the juicy tomato, onion, carrot, beans, and beef chunks with a "
+"powerful kick. Has a little brown sugar to temper the flavor."
+msgstr ""
+"新英格兰风味的美国主食，消防站辣椒汤混合了5种不同的切碎、粉末和碾碎的辣椒、肉桂和孜然，为多汁的番茄、洋葱、胡萝卜、豆类和牛肉块注入强劲的辣味。加入少许红糖调和风味。"
+
+#: .\comestibles.json
+msgid "beef stew"
+msgid_plural "beef stew"
+msgstr[0] "炖牛肉"
+
+#. ~ Description for {'str': 'beef stew', 'str_pl': 'beef stew'}
+#: .\comestibles.json
+msgid ""
+"Beef stew done the New England way: slow-baked with fresh mushrooms, peas, "
+"tomato soup, and red wine in addition to the usual potatoes, carrots, "
+"onions, and chewy beef."
+msgstr "新英格兰风味的炖牛肉：慢炖时加入新鲜蘑菇、豌豆、番茄汤和红酒，以及常见的土豆、胡萝卜、洋葱和有嚼劲的牛肉。"
+
+#: .\comestibles.json
+msgid "New England clam chowder"
+msgid_plural "New England clam chowder"
+msgstr[0] "新英格兰蛤蜊浓汤"
+
+#. ~ Description for {'str': 'New England clam chowder', 'str_pl': 'New
+#. England clam chowder'}
+#: .\comestibles.json
+msgid ""
+"This is a local take on the world-famous New England clam chowder. It uses "
+"diced salted pork to boost the overall flavor."
+msgstr "这是世界闻名的新英格兰蛤蜊浓汤的本地版本。使用咸猪肉丁来提升整体风味。"
+
+#: .\comestibles.json
+msgid "13 bean good luck soup"
+msgid_plural "13 bean good luck soup"
+msgstr[0] "十三豆幸运汤"
+
+#. ~ Description for {'str': '13 bean good luck soup', 'str_pl': '13 bean good
+#. luck soup'}
+#: .\comestibles.json
+msgid ""
+"A blend of multiple beans with ham, tomatoes, celery, onions, red bell "
+"peppers and generous salt."
+msgstr "多种豆类混合火腿、番茄、芹菜、洋葱、红甜椒和大量盐。"
+
+#: .\comestibles.json
+msgid "classic clam chowder"
+msgid_plural "classic clam chowder"
+msgstr[0] "经典蛤蜊浓汤"
+
+#. ~ Description for {'str': 'classic clam chowder', 'str_pl': 'classic clam
+#. chowder'}
+#: .\comestibles.json
+msgid ""
+"This is clam chowder the way you expect it. Creamy. White. Slightly chewy. "
+"Great with crackers."
+msgstr "这是你想象中的蛤蜊浓汤。奶油状。白色。略带嚼劲。搭配饼干非常美味。"
+
+#: .\comestibles.json
+msgid "wild mushroom chowder"
+msgid_plural "wild mushroom chowder"
+msgstr[0] "野生蘑菇浓汤"
+
+#. ~ Description for {'str': 'wild mushroom chowder', 'str_pl': 'wild mushroom
+#. chowder'}
+#: .\comestibles.json
+msgid ""
+"A mix of veggies, various wild mushrooms, and thick-cut bacon in a broth of "
+"heavy cream, white wine, and chicken stock."
+msgstr "混合蔬菜、各种野生蘑菇和厚切培根，汤底为浓奶油、白葡萄酒和鸡汤。"
+
+#: .\comestibles.json
+msgid "gloucester fish chowder"
+msgid_plural "gloucester fish chowder"
+msgstr[0] "格洛斯特鱼浓汤"
+
+#. ~ Description for {'str': 'gloucester fish chowder', 'str_pl': 'gloucester
+#. fish chowder'}
+#: .\comestibles.json
+msgid ""
+"Bite-sized chunks of just-through cooked hake in a creamy stock with thick "
+"potato slices, chopped onions, thick chopped bacon, and a chopped bacon and "
+"chive garnish. A regional specialty."
+msgstr "一口大小的鳕鱼块，刚刚煮熟，浸泡在奶油汤中，配有厚土豆片、切碎的洋葱、厚切培根，以及培根和细香葱装饰。地方特色菜。"
+
+#: .\comestibles.json
+msgid "seafood chowder"
+msgid_plural "seafood chowder"
+msgstr[0] "海鲜浓汤"
+
+#. ~ Description for {'str': 'seafood chowder', 'str_pl': 'seafood chowder'}
+#: .\comestibles.json
+msgid ""
+"Succulent tiny shrimps. Chewy chopped clam. Delicate flaky haddock. Fried, "
+"crumbled bacon. All in a creamy stock with thick chunks of veggies. This is "
+"what made New England famous."
+msgstr "多汁的小虾。有嚼劲的切碎蛤蜊。细腻易碎的鳕鱼。油炸、弄碎的培根。全部浸泡在奶油汤中，配有厚实的蔬菜块。这正是新英格兰闻名遐迩的菜肴。"
+
+#: .\comestibles.json
+msgid "tofu (raw)"
+msgid_plural "tofu (raw)"
+msgstr[0] "豆腐（生的）"
+
+#. ~ Description for {'str': 'tofu (raw)', 'str_pl': 'tofu (raw)'}
+#: .\comestibles.json
+msgid ""
+"A block of extra-firm tofu, perfect for stir-frying. Not exactly palatable "
+"raw."
+msgstr "一块特硬豆腐，非常适合炒菜。生吃不太可口。"
+
+#: .\comestibles.json
+msgid "tofu (cooked)"
+msgid_plural "tofu (cooked)"
+msgstr[0] "豆腐（熟的）"
+
+#. ~ Description for {'str': 'tofu (cooked)', 'str_pl': 'tofu (cooked)'}
+#: .\comestibles.json
+msgid ""
+"Cubed tofu fried in sesame oil and then soaked in soy sauce. Healthy and "
+"delicious."
+msgstr "豆腐块用芝麻油炸过后浸泡在酱油中。健康又美味。"
+
+#: .\comestibles.json
+msgid "edamame"
+msgid_plural "edamame"
+msgstr[0] "毛豆"
+
+#. ~ Description for {'str': 'edamame', 'str_pl': 'edamame'}
+#: .\comestibles.json
+msgid ""
+"Edamame, otherwise known as soy beans. With a little sauce and a beer these "
+"make a tolerable snack."
+msgstr "毛豆，又称大豆。配上一点酱汁和啤酒，可以当作尚可的小吃。"
+
+#: .\comestibles.json
+msgid "buttermilk croissant"
+msgid_plural "buttermilk croissants"
+msgstr[0] "酪乳牛角包"
+
+#. ~ Description for {'str': 'buttermilk croissant'}
+#: .\comestibles.json
+msgid "A light, flaky, crescent-shaped pastry with a smooth buttery texture."
+msgstr "一种轻盈、酥脆、新月形的糕点，质地光滑，带有黄油风味。"
+
+#: .\comestibles.json
+msgid "strudel"
+msgid_plural "strudels"
+msgstr[0] "果馅卷"
+
+#. ~ Description for {'str': 'strudel'}
+#: .\comestibles.json
+msgid "A flaky, buttery pastry filled with apple slices in thick syrup."
+msgstr "一种酥脆的黄油糕点，内馅是浓稠糖浆中的苹果片。"
+
+#: .\comestibles.json
+msgid "almond kringle"
+msgid_plural "almond kringles"
+msgstr[0] "杏仁扭结饼"
+
+#. ~ Description for {'str': 'almond kringle'}
+#: .\comestibles.json
+msgid ""
+"A pretzel-shaped pastry filled with almond paste and custard, topped with "
+"slivered almonds, and lightly dusted with crystal sugar."
+msgstr "一种椒盐卷饼形状的糕点，内馅是杏仁膏和蛋奶冻，顶部撒有杏仁片，并轻轻撒上冰糖。"
+
+#: .\comestibles.json
+msgid "napoleon's hat"
+msgid_plural "napoleon's hats"
+msgstr[0] "拿破仑帽"
+
+#. ~ Description for {'str': "napoleon's hat"}
+#: .\comestibles.json
+msgid ""
+"A dozen tightly pinched pastries in the shape of a 19th century tricorne, "
+"filled with marzipan and topped with rich milk chocolate."
+msgstr "一打紧密捏合成19世纪三角帽形状的糕点，内馅是杏仁蛋白软糖，顶部覆盖着浓郁牛奶巧克力。"
+
+#: .\comestibles.json
+msgid "princess finger"
+msgid_plural "princess fingers"
+msgstr[0] "公主手指"
+
+#. ~ Description for {'str': 'princess finger'}
+#: .\comestibles.json
+msgid ""
+"Made from linzer pastry dough and rich vanilla buttercream. Light and "
+"delicate, like its namesake!"
+msgstr "由林茨酥皮面团和浓郁香草奶油制成。轻盈细腻，正如其名！"
+
+#: .\comestibles.json
+msgid "cream puff"
+msgid_plural "cream puffs"
+msgstr[0] "奶油泡芙"
+
+#. ~ Description for {'str': 'cream puff'}
+#: .\comestibles.json
+msgid ""
+"Flaky pastries sandwiching a sweet cloud of vanilla whipped cream and "
+"custard. Brushed with a hint of raspberry jam, New England style."
+msgstr "酥脆的糕点夹着甜美的香草打发奶油和蛋奶冻云朵。刷上一层覆盆子果酱，新英格兰风格。"
+
+#: .\comestibles.json
+msgid "chocolate eclair"
+msgid_plural "chocolate eclairs"
+msgstr[0] "巧克力闪电泡芙"
+
+#. ~ Description for {'str': 'chocolate eclair'}
+#: .\comestibles.json
+msgid ""
+"An iconic pastry filled with rich flavorful custard and topped with dark "
+"chocolate frosting."
+msgstr "一种标志性的糕点，内馅是浓郁美味的蛋奶冻，顶部覆盖着黑巧克力糖霜。"
+
+#: .\comestibles.json
+msgid "garlic bread"
+msgid_plural "garlic bread"
+msgstr[0] "蒜香面包"
+
+#. ~ Description for {'str': 'garlic bread', 'str_pl': 'garlic bread'}
+#: .\comestibles.json
+msgid ""
+"A loaf of french bread with a slathering of garlic-infused butter on the "
+"inside, in a convenient ready-to-bake foil-lined paper bag."
+msgstr "一条法式面包，内部涂满了蒜香黄油，装在方便即烤的锡纸衬里纸袋中。"
+
+#: .\comestibles.json
+msgid "garlic bread (cooked)"
+msgid_plural "garlic bread (cooked)"
+msgstr[0] "蒜香面包（已烹饪）"
+
+#. ~ Description for {'str': 'garlic bread (cooked)', 'str_pl': 'garlic bread
+#. (cooked)'}
+#: .\comestibles.json
+msgid "Ah, the wonderful aroma of cooked garlic bread. It's amore."
+msgstr "啊，烹饪过的蒜香面包那美妙的香气。这就是爱。"
+
+#: .\comestibles.json
+msgid "texas toast"
+msgid_plural "texas toasts"
+msgstr[0] "德克萨斯吐司"
+
+#. ~ Description for {'str': 'texas toast'}
+#: .\comestibles.json
+msgid ""
+"A bag of thick slices of toasted white bread, each with its own chewy layer "
+"of melted butter and cheese. Because everything's bigger in Texas."
+msgstr "一袋厚厚的烤白面包片，每片都有一层有嚼劲的融化黄油和奶酪。因为在德克萨斯，一切都更大。"
+
+#: .\comestibles.json
+msgid "tart"
+msgid_plural "tarts"
+msgstr[0] "水果挞"
+
+#. ~ Description for {'str': 'tart'}
+#: .\comestibles.json
+msgid ""
+"A dainty pastry covered with a thin layer of custard that is in turn "
+"overlaid with fruit syrup and fruit. This particular one is laden with "
+"raspberries."
+msgstr "一种精致的糕点，覆盖着一层薄薄的蛋奶冻，上面又覆盖着水果糖浆和水果。这个特别的是满载覆盆子。"
+
+#. ~ Description for {'str': 'tart'}
+#: .\comestibles.json
+msgid ""
+"A dainty pastry covered with a thin layer of custard that is in turn "
+"overlaid with fruit syrup and fruit. This particular one is laden with "
+"strawberries."
+msgstr "一种精致的糕点，覆盖着一层薄薄的蛋奶冻，上面又覆盖着水果糖浆和水果。这个特别的是满载草莓。"
+
+#. ~ Description for {'str': 'tart'}
+#: .\comestibles.json
+msgid ""
+"A dainty pastry covered with a thin layer of custard that is in turn "
+"overlaid with fruit syrup and fruit. This particular one is laden with "
+"blueberries."
+msgstr "一种精致的糕点，覆盖着一层薄薄的蛋奶冻，上面又覆盖着水果糖浆和水果。这个特别的是满载蓝莓。"
+
+#: .\comestibles.json
+msgid "cannoli"
+msgid_plural "cannolis"
+msgstr[0] "奶油甜馅煎饼卷"
+
+#. ~ Description for {'str': 'cannoli'}
+#: .\comestibles.json
+msgid ""
+"A sweetened pastry rolled into a sugar-dusted tube with a generous custard "
+"cream filling. The made man's favorite food."
+msgstr "一种甜味糕点，卷成撒有糖粉的管状，内馅是丰富的蛋奶冻奶油。黑手党成员最爱的食物。"
+
+#: .\comestibles.json
+msgid "doughnut"
+msgid_plural "doughnuts"
+msgstr[0] "甜甜圈"
+
+#. ~ Description for {'str': 'doughnut'}
+#: .\comestibles.json
+msgid ""
+"A traditional glazed doughnut. The sweetest reminder of the world that once "
+"was."
+msgstr "一个传统的糖霜甜甜圈。这是对逝去世界最甜蜜的怀念。"
+
+#. ~ Description for {'str': 'doughnut'}
+#: .\comestibles.json
+msgid ""
+"A chocolate frosted doughnut. Not nearly as tender and soft as a glazed "
+"doughnut, but who cares? It's chocolatey!"
+msgstr "一个巧克力糖霜甜甜圈。虽然不如糖霜甜甜圈那样柔软细腻，但谁在乎呢？它可是巧克力味的！"
+
+#. ~ Description for {'str': 'doughnut'}
+#: .\comestibles.json
+msgid "A powdered doughnut. Mostly dry, but still sweet and delicious!"
+msgstr "一个糖粉甜甜圈。口感偏干，但依然香甜可口！"
+
+#. ~ Description for {'str': 'doughnut'}
+#: .\comestibles.json
+msgid "A strawberry jam-filled doughnut. Surprisingly tangy!"
+msgstr "一个草莓果酱夹心甜甜圈。出奇地酸甜开胃！"
+
+#: .\comestibles.json
+msgid "doughnut holes"
+msgid_plural "doughnut holes"
+msgstr[0] "甜甜圈球"
+
+#. ~ Description for {'str': 'doughnut holes', 'str_pl': 'doughnut holes'}
+#: .\comestibles.json
+msgid ""
+"A dozen sweet glazed doughnut holes. The pinnacle of bite-sized luxury!"
+msgstr "一打甜糖霜甜甜圈球。一口一个的奢华巅峰！"
+
+#. ~ Description for {'str': 'doughnut holes', 'str_pl': 'doughnut holes'}
+#: .\comestibles.json
+msgid "A dozen chocolate frosted doughnut holes."
+msgstr "一打巧克力糖霜甜甜圈球。"
+
+#. ~ Description for {'str': 'doughnut holes', 'str_pl': 'doughnut holes'}
+#: .\comestibles.json
+msgid "A dozen powdered doughnut holes."
+msgstr "一打糖粉甜甜圈球。"
+
+#: .\comestibles.json
+msgid "boston cream pie"
+msgid_plural "boston cream pies"
+msgstr[0] "波士顿奶油派"
+
+#. ~ Description for {'str': 'boston cream pie'}
+#: .\comestibles.json
+msgid "A sweet vanilla cream-filled pastry covered with thick chocolate."
+msgstr "一种甜美的香草奶油夹心糕点，外层覆盖着厚厚的巧克力。"
+
+#: .\comestibles.json
+msgid "cinnamon roll"
+msgid_plural "cinnamon rolls"
+msgstr[0] "肉桂卷"
+
+#. ~ Description for {'str': 'cinnamon roll'}
+#: .\comestibles.json
+msgid ""
+"A soft bakery-fresh rolled pastry lined with sticky cinnamon brown sugar and"
+" covered with a thick glaze of cream."
+msgstr "一个柔软、新鲜出炉的卷状糕点，内层铺满粘稠的肉桂红糖，外层覆盖着厚厚的奶油糖霜。"
+
+#: .\comestibles.json
+msgid "corn bread"
+msgid_plural "corn breads"
+msgstr[0] "玉米面包"
+
+#. ~ Description for {'str': 'corn bread'}
+#: .\comestibles.json
+msgid "A country classic. Moist, sweet, and squeezable."
+msgstr "乡村经典。湿润、香甜，且易于挤压。"
+
+#: .\comestibles.json
+msgid "scone"
+msgid_plural "scones"
+msgstr[0] "司康饼"
+
+#. ~ Description for {'str': 'scone'}
+#: .\comestibles.json
+msgid "A scone filled with New England cranberry jam. Tart, yet delicious."
+msgstr "一个夹有新英格兰蔓越莓果酱的司康饼。酸涩，却美味。"
+
+#. ~ Description for {'str': 'scone'}
+#: .\comestibles.json
+msgid "A scone filled with New England blueberry jam. Sweet and delightful."
+msgstr "一个夹有新英格兰蓝莓果酱的司康饼。甜美而令人愉悦。"
+
+#: .\comestibles.json
+msgid "bagel"
+msgid_plural "bagels"
+msgstr[0] "贝果"
+
+#. ~ Description for {'str': 'bagel'}
+#: .\comestibles.json
+msgid "A plain bagel."
+msgstr "一个原味贝果。"
+
+#. ~ Description for {'str': 'bagel'}
+#: .\comestibles.json
+msgid ""
+"A supreme bagel with five kinds of seeds atop a light layer of toasted "
+"cheddar cheese. Secretly good for you."
+msgstr "一个至尊贝果，表面撒有五种种子，并覆盖一层轻烤切达奶酪。暗地里对你有益。"
+
+#: .\comestibles.json
+msgid "pumpkin roll"
+msgid_plural "pumpkin rolls"
+msgstr[0] "南瓜卷"
+
+#. ~ Description for {'str': 'pumpkin roll'}
+#: .\comestibles.json
+msgid ""
+"A sweet pumpkin-infused pastry rolled up with buttery cream cheese and "
+"confectioner's sugar."
+msgstr "一种甜美的南瓜风味糕点，卷入了黄油奶油奶酪和糖粉。"
+
+#: .\comestibles.json
+msgid "lemon roll"
+msgid_plural "lemon rolls"
+msgstr[0] "柠檬卷"
+
+#. ~ Description for {'str': 'lemon roll'}
+#: .\comestibles.json
+msgid ""
+"A sweet lemon-infused pastry rolled up with buttery cream cheese and "
+"confectioner's sugar."
+msgstr "一种甜美的柠檬风味糕点，卷入了黄油奶油奶酪和糖粉。"
+
+#: .\comestibles.json
+msgid "cookies"
+msgid_plural "cookiess"
+msgstr[0] "饼干"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen sugar cookies, bakery fresh."
+msgstr "这是一打糖霜饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen snickerdoodle cookies, bakery fresh."
+msgstr "这是一打肉桂糖饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen chocolate chip cookies, bakery fresh."
+msgstr "这是一打巧克力豆饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen rainbow m&m cookies, bakery fresh."
+msgstr "这是一打彩虹M&M豆饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen oatmeal raisin cookies, bakery fresh."
+msgstr "这是一打燕麦葡萄干饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen peanut butter cookies, bakery fresh."
+msgstr "这是一打花生酱饼干，新鲜出炉。"
+
+#. ~ Description for {'str': 'cookies'}
+#: .\comestibles.json
+msgid "This is a dozen nutella-stuffed cookies, bakery fresh."
+msgstr "这是一打能多益夹心饼干，新鲜出炉。"
+
+#: .\comestibles.json
+msgid "baguette"
+msgid_plural "baguettes"
+msgstr[0] "法棍面包"
+
+#. ~ Description for {'str': 'baguette'}
+#: .\comestibles.json
+msgid ""
+"A warm french baguette with beautiful score lines. It's almost a tragedy to "
+"eat this!"
+msgstr "一条温热的法棍面包，有着漂亮的割纹。吃掉它简直是种罪过！"
+
+#: .\comestibles.json
+msgid "muffins"
+msgid_plural "muffins"
+msgstr[0] "玛芬蛋糕"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid "A dozen poppyseed muffins. Moderately sweet with a subtle chewiness."
+msgstr "一打罂粟籽玛芬蛋糕。甜度适中，略带嚼劲。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen blueberry muffins. Sweet, slightly dry, but with plenty of tanginess"
+" from the fresh blueberries throughout."
+msgstr "一打蓝莓玛芬蛋糕。香甜，略干，但新鲜的蓝莓遍布其中，带来浓郁的酸爽风味。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen cinnamon coffee cake muffins. Deli-quality melted butter and brown "
+"sugar veins throughout, with a generous crumb topping of cinnamon and brown "
+"sugar. It doesn't get much better than this."
+msgstr "一打肉桂咖啡蛋糕玛芬。内部遍布熟食店品质的融化黄油和红糖纹路，顶部慷慨地撒满了肉桂和红糖碎屑。没有比这更好的了。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen banana nut muffins. Exceptionally moist and smooth, these almost "
+"melt in your mouth."
+msgstr "一打香蕉坚果玛芬蛋糕。异常湿润顺滑，几乎入口即化。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen luscious chocolate muffins. Entirely infused with chocolate, right "
+"down to thick chunks of chewy fudge and chocolate chunks throughout."
+msgstr "一打浓郁巧克力玛芬蛋糕。完全浸润了巧克力，内部遍布厚实的耐嚼软糖块和巧克力块。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen oreo chocolate muffins. Studded with oreo cookie bits and drizzled "
+"with melted oreo cream. The best kind of volcanic eruption."
+msgstr "一打奥利奥巧克力玛芬蛋糕。点缀着奥利奥饼干碎，淋上了融化的奥利奥奶油。这是最美妙的火山喷发。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen pumpkin muffins. Moist and velvety, with just enough spice to bring "
+"out the edge."
+msgstr "一打南瓜玛芬蛋糕。湿润丝滑，香料恰到好处，凸显了风味层次。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid ""
+"A dozen pound cake muffins. Modestly sweet and buttery with a smooth glaze."
+msgstr "一打磅蛋糕玛芬。甜度适中，黄油味浓郁，表面有一层光滑的糖霜。"
+
+#. ~ Description for {'str': 'muffins', 'str_pl': 'muffins'}
+#: .\comestibles.json
+msgid "A dozen cheesecake muffins. Exceptionally rich and creamy."
+msgstr "一打芝士蛋糕玛芬。异常浓郁柔滑。"
+
+#: .\comestibles.json
+msgid "bouillon cubes"
+msgid_plural "bouillon cubes"
+msgstr[0] "汤料块"
+
+#. ~ Description for {'str': 'bouillon cubes', 'str_pl': 'bouillon cubes'}
+#: .\comestibles.json
+msgid "A dozen bouillon cubes. These are the chicken stock variety."
+msgstr "一打汤料块。这是鸡汤口味的。"
+
+#. ~ Description for {'str': 'bouillon cubes', 'str_pl': 'bouillon cubes'}
+#: .\comestibles.json
+msgid "A dozen bouillon cubes. These are the beef stock variety."
+msgstr "一打汤料块。这是牛肉汤口味的。"
+
+#. ~ Description for {'str': 'bouillon cubes', 'str_pl': 'bouillon cubes'}
+#: .\comestibles.json
+msgid "A dozen bouillon cubes. These are the vegetable stock variety."
+msgstr "一打汤料块。这是蔬菜汤口味的。"
+
+#: .\comestibles.json
+msgid "mushroom soup mix"
+msgid_plural "mushroom soup mixes"
+msgstr[0] "蘑菇汤料包"
+
+#. ~ Description for {'str': 'mushroom soup mix', 'str_pl': 'mushroom soup
+#. mixes'}
+#: .\comestibles.json
+msgid "A packet of instant mushroom soup. Just add water!"
+msgstr "一包速溶蘑菇汤。只需加水即可！"
+
+#: .\comestibles.json
+msgid "chicken noodle soup mix"
+msgid_plural "chicken noodle soup mixes"
+msgstr[0] "鸡肉面条汤料包"
+
+#. ~ Description for {'str': 'chicken noodle soup mix', 'str_pl': 'chicken
+#. noodle soup mixes'}
+#: .\comestibles.json
+msgid "A packet of instant chicken noodle soup. Just add water!"
+msgstr "一包速溶鸡肉面条汤。只需加水即可！"
+
+#: .\comestibles.json
+msgid "tomato soup mix"
+msgid_plural "tomato soup mixes"
+msgstr[0] "番茄汤料包"
+
+#. ~ Description for {'str': 'tomato soup mix', 'str_pl': 'tomato soup mixes'}
+#: .\comestibles.json
+msgid "A packet of instant tomato soup. Just add water!"
+msgstr "一包速溶番茄汤。只需加水即可！"
+
+#: .\comestibles.json
+msgid "country vegetable soup mix"
+msgid_plural "country vegetable soup mixes"
+msgstr[0] "乡村蔬菜汤料包"
+
+#. ~ Description for {'str': 'country vegetable soup mix', 'str_pl': 'country
+#. vegetable soup mixes'}
+#: .\comestibles.json
+msgid "A packet of instant country vegetable soup. Just add water!"
+msgstr "一包速溶乡村蔬菜汤。只需加水即可！"
+
+#: .\comestibles.json
+msgid "oxtail soup mix"
+msgid_plural "oxtail soup mixes"
+msgstr[0] "牛尾汤料包"
+
+#. ~ Description for {'str': 'oxtail soup mix', 'str_pl': 'oxtail soup mixes'}
+#: .\comestibles.json
+msgid "A packet of instant oxtail soup. Just add water!"
+msgstr "一包速溶牛尾汤。只需加水即可！"
+
+#: .\comestibles.json
+msgid "cake mix"
+msgid_plural "cake mixes"
+msgstr[0] "蛋糕预拌粉"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of yellow cake mix with pudding in the mix. Just add water!"
+msgstr "一盒内含布丁的黄蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of white cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的白蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of french vanilla cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的法式香草蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of butter pecan cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的黄油山核桃蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of confetti cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的彩屑蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of party rainbow cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的派对彩虹蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of chocolate fudge cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的巧克力软糖蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of triple chocolate cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的三重巧克力蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of german chocolate cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的德式巧克力蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of red velvet cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的红丝绒蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of devil's food cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的魔鬼蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of angel food cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的天使蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid ""
+"A box of pineapple upside down cake mix with pudding in the mix. Just add "
+"water!"
+msgstr "一盒含有布丁的菠萝翻转蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of spice cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的香料蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of gingerbread cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的姜饼蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of cherry chip cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的樱桃碎蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of lemon cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的柠檬蛋糕预拌粉。只需加水即可！"
+
+#. ~ Description for {'str': 'cake mix', 'str_pl': 'cake mixes'}
+#: .\comestibles.json
+msgid "A box of strawberry cake mix with pudding in the mix. Just add water!"
+msgstr "一盒含有布丁的草莓蛋糕预拌粉。只需加水即可！"
+
+#: .\comestibles.json
+msgid "krispy kreme cake mix"
+msgid_plural "krispy kreme cake mixes"
+msgstr[0] "krispy kreme 蛋糕预拌粉"
+
+#. ~ Description for {'str': 'krispy kreme cake mix', 'str_pl': 'krispy kreme
+#. cake mixes'}
+#: .\comestibles.json
+msgid ""
+"You've found it. One of the remaining intact boxes of Krispy Kreme cake mix!"
+" This has immeasurable trading value due to being the best darn thing ever "
+"created by mankind."
+msgstr "你找到了它。这是仅存的完好 Krispy Kreme 蛋糕预拌粉之一！由于这是人类创造过的最棒的东西，它具有无可估量的交易价值。"
+
+#: .\comestibles.json
+msgid "cookie mix"
+msgid_plural "cookie mixes"
+msgstr[0] "饼干预拌粉"
+
+#. ~ Description for {'str': 'cookie mix', 'str_pl': 'cookie mixes'}
+#: .\comestibles.json
+msgid "Chocolate chip cookie mix."
+msgstr "巧克力碎饼干预拌粉。"
+
+#. ~ Description for {'str': 'cookie mix', 'str_pl': 'cookie mixes'}
+#: .\comestibles.json
+msgid "Sugar cookie mix."
+msgstr "糖霜饼干预拌粉。"
+
+#. ~ Description for {'str': 'cookie mix', 'str_pl': 'cookie mixes'}
+#: .\comestibles.json
+msgid "Snickerdoodle cookie mix."
+msgstr "肉桂糖饼干预拌粉。"
+
+#. ~ Description for {'str': 'cookie mix', 'str_pl': 'cookie mixes'}
+#: .\comestibles.json
+msgid "Salted caramel chocolate chip cookie mix."
+msgstr "咸焦糖巧克力碎饼干预拌粉。"
+
+#. ~ Description for {'str': 'cookie mix', 'str_pl': 'cookie mixes'}
+#: .\comestibles.json
+msgid "Rainbow m&m cookie mix."
+msgstr "彩虹 M&M 饼干预拌粉。"
+
+#: .\comestibles.json
+msgid "brownie mix"
+msgid_plural "brownie mixes"
+msgstr[0] "布朗尼预拌粉"
+
+#. ~ Description for {'str': 'brownie mix', 'str_pl': 'brownie mixes'}
+#: .\comestibles.json
+msgid "Chewy fudge brownie mix."
+msgstr "耐嚼软糖布朗尼预拌粉。"
+
+#. ~ Description for {'str': 'brownie mix', 'str_pl': 'brownie mixes'}
+#: .\comestibles.json
+msgid "Molten lava brownie mix."
+msgstr "熔岩巧克力布朗尼预拌粉。"
+
+#. ~ Description for {'str': 'brownie mix', 'str_pl': 'brownie mixes'}
+#: .\comestibles.json
+msgid "Cookie brownie mix."
+msgstr "饼干布朗尼预拌粉。"
+
+#: .\comestibles.json
+msgid "krispy kreme doughnut mix"
+msgid_plural "krispy kreme doughnut mixes"
+msgstr[0] "krispy kreme 甜甜圈预拌粉"
+
+#. ~ Description for {'str': 'krispy kreme doughnut mix', 'str_pl': 'krispy
+#. kreme doughnut mixes'}
+#: .\comestibles.json
+msgid ""
+"The ultimate American sweet treat, just a few cups of water away from "
+"fruition!"
+msgstr "终极美式甜点，只需几杯水即可完成！"
+
+#: .\comestibles.json
+msgid "frosting"
+msgid_plural "frosting"
+msgstr[0] "糖霜"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some vanilla frosting."
+msgstr "一些香草糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some butter cream frosting."
+msgstr "一些黄油奶油糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some whipped cream frosting."
+msgstr "一些鲜奶油糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some cream cheese frosting."
+msgstr "一些奶油芝士糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some fluffy white frosting."
+msgstr "一些蓬松的白糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some hershey's cookies and cream frosting."
+msgstr "一些好时饼干奶油糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some party rainbow chip frosting."
+msgstr "一些派对彩虹片糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some milk chocolate frosting."
+msgstr "一些牛奶巧克力糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some dark chocolate frosting."
+msgstr "一些黑巧克力糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some fudge frosting."
+msgstr "一些软糖糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some neutral chocolate frosting."
+msgstr "一些中性巧克力糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some german chocolate coconut pecan frosting."
+msgstr "一些德式巧克力椰子山核桃糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some cherry chip frosting."
+msgstr "一些樱桃片糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some strawberry frosting."
+msgstr "一些草莓糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some lemon frosting."
+msgstr "一些柠檬糖霜。"
+
+#. ~ Description for {'str': 'frosting', 'str_pl': 'frosting'}
+#: .\comestibles.json
+msgid "Some cherry frosting."
+msgstr "一些樱桃糖霜。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked yellow cake. Moist and sweet but without any frosting. From "
+"a dry mix."
+msgstr "一块新鲜出炉的黄色蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked white cake. Moist and sweet but without any frosting. From a"
+" dry mix."
+msgstr "一块新鲜出炉的白色蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked french vanilla cake. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "一块新鲜出炉的法式香草蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked butter pecan cake. Moist and sweet but without any frosting."
+" From a dry mix."
+msgstr "一块新鲜出炉的黄油山核桃蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked confetti cake. Moist and sweet but without any frosting. "
+"From a dry mix."
+msgstr "一块新鲜出炉的彩屑蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked party rainbow cake. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "一块新鲜出炉的派对彩虹蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked chocolate fudge cake. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "一块新鲜出炉的巧克力软糖蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked triple chocolate cake. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "一块新鲜出炉的三重巧克力蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked german chocolate cake. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "一块新鲜出炉的德式巧克力蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked red velvet cake. Moist and sweet but without any frosting. "
+"From a dry mix."
+msgstr "一块新鲜出炉的红丝绒蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked devil's food cake. Moist and sweet but without any frosting."
+" From a dry mix."
+msgstr "一块新鲜出炉的魔鬼蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked angel food cake. Moist and sweet but without any frosting. "
+"From a dry mix."
+msgstr "一块新鲜出炉的天使蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A pineapple upside down cake. Moist and sweet but without any frosting. From"
+" a dry mix."
+msgstr "一个菠萝翻转蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A spice cake. Moist and sweet but without any frosting. From a dry mix."
+msgstr "一个香料蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A gingerbread cake. Moist and sweet but without any frosting. From a dry "
+"mix."
+msgstr "一个姜饼蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A cherry chip cake. Moist and sweet but without any frosting. From a dry "
+"mix."
+msgstr "一个樱桃碎屑蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A lemon cake. Moist and sweet but without any frosting. From a dry mix."
+msgstr "一个柠檬蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cake', 'str_pl': 'cakes'}
+#: .\comestibles.json
+msgid ""
+"A strawberry cake. Moist and sweet but without any frosting. From a dry mix."
+msgstr "一个草莓蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#: .\comestibles.json
+msgid "cupcakes"
+msgid_plural "cupcakes"
+msgstr[0] "纸杯蛋糕"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked yellow cupcakes. Moist and sweet but without any frosting. "
+"From a dry mix."
+msgstr "新鲜烤制的黄色纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked white cupcakes. Moist and sweet but without any frosting. From"
+" a dry mix."
+msgstr "新鲜烤制的白色纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked french vanilla cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的法式香草纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked butter pecan cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的黄油山核桃纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked confetti cupcakes. Moist and sweet but without any frosting. "
+"From a dry mix."
+msgstr "新鲜烤制的五彩纸屑纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked party rainbow cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的派对彩虹纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked chocolate fudge cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的巧克力软糖纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked triple chocolate cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的三重巧克力纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked german chocolate cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的德式巧克力纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked red velvet cupcakes. Moist and sweet but without any frosting."
+" From a dry mix."
+msgstr "新鲜烤制的红丝绒纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked devil's food cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的魔鬼蛋糕纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked angel food cupcakes. Moist and sweet but without any frosting."
+" From a dry mix."
+msgstr "新鲜烤制的天使蛋糕纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked pineapple upside down cupcakes. Moist and sweet but without "
+"any frosting. From a dry mix."
+msgstr "新鲜烤制的菠萝翻转纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked spice cupcakes. Moist and sweet but without any frosting. From"
+" a dry mix."
+msgstr "新鲜烤制的香料纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked gingerbread cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的姜饼纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked cherry chip cupcakes. Moist and sweet but without any "
+"frosting. From a dry mix."
+msgstr "新鲜烤制的樱桃碎屑纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked lemon cupcakes. Moist and sweet but without any frosting. From"
+" a dry mix."
+msgstr "新鲜烤制的柠檬纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#. ~ Description for {'str': 'cupcakes', 'str_pl': 'cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked strawberry cupcakes. Moist and sweet but without any frosting."
+" From a dry mix."
+msgstr "新鲜烤制的草莓纸杯蛋糕。湿润甜美，但没有任何糖霜。由干粉混合制成。"
+
+#: .\comestibles.json
+msgid "frosted cupcakes"
+msgid_plural "frosted cupcakes"
+msgstr[0] "糖霜纸杯蛋糕"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked yellow cupcakes. This is the complete experience now that it's"
+" frosted."
+msgstr "新鲜烤制的黄色纸杯蛋糕。现在它已覆上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked white cupcakes. This is the complete experience now that it's "
+"frosted."
+msgstr "新鲜烤制的白色纸杯蛋糕。现在它已覆上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked french vanilla cupcakes. This is the complete experience now "
+"that it's frosted."
+msgstr "新鲜烤制的法式香草纸杯蛋糕。现在它已覆上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked butter pecan cupcakes. This is the complete experience now "
+"that it's frosted."
+msgstr "新鲜烤制的黄油山核桃纸杯蛋糕。现在它已覆上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked confetti cupcakes. This is the complete experience now that "
+"it's frosted."
+msgstr "新鲜出炉的彩屑纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked party rainbow cupcakes. This is the complete experience now "
+"that it's frosted."
+msgstr "新鲜出炉的派对彩虹纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked chocolate fudge cupcakes. This is the complete experience now "
+"that it's frosted."
+msgstr "新鲜出炉的巧克力软糖纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked triple chocolate cupcakes. This is the complete experience now"
+" that it's frosted."
+msgstr "新鲜出炉的三重巧克力纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked german chocolate cupcakes. This is the complete experience now"
+" that it's frosted."
+msgstr "新鲜出炉的德式巧克力纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked red velvet cupcakes. This is the complete experience now that "
+"it's frosted."
+msgstr "新鲜出炉的红丝绒纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked devil's food cupcakes. This is the complete experience now "
+"that it's frosted."
+msgstr "新鲜出炉的魔鬼蛋糕纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked angel food cupcakes. This is the complete experience now that "
+"it's frosted."
+msgstr "新鲜出炉的天使蛋糕纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked pineapple upside down cupcakes. This is the complete "
+"experience now that it's frosted."
+msgstr "新鲜出炉的菠萝翻转纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked spice cupcakes. This is the complete experience now that it's "
+"frosted."
+msgstr "新鲜出炉的香料纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked gingerbread cupcakes. This is the complete experience now that"
+" it's frosted."
+msgstr "新鲜出炉的姜饼纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked cherry chip cupcakes. This is the complete experience now that"
+" it's frosted."
+msgstr "新鲜出炉的樱桃碎纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked lemon cupcakes. This is the complete experience now that it's "
+"frosted."
+msgstr "新鲜出炉的柠檬纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#. ~ Description for {'str': 'frosted cupcakes', 'str_pl': 'frosted cupcakes'}
+#: .\comestibles.json
+msgid ""
+"Freshly baked strawberry cupcakes. This is the complete experience now that "
+"it's frosted."
+msgstr "新鲜出炉的草莓纸杯蛋糕。现在它已经涂上糖霜，这才是完整的体验。"
+
+#: .\comestibles.json
+msgid "frosted cake"
+msgid_plural "frosted cakes"
+msgstr[0] "糖霜蛋糕"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked yellow cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的黄色蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked white cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的白色蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked french vanilla cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的法式香草蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked butter pecan cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的黄油山核桃蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked confetti cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的彩屑蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked party rainbow cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的派对彩虹蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked chocolate fudge cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的巧克力软糖蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked triple chocolate cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的三重巧克力蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid ""
+"A freshly baked german chocolate cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的德式巧克力蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked red velvet cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的红丝绒蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked devil's food cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的魔鬼蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A freshly baked angel food cake. Even sweeter now that it's frosted!"
+msgstr "新鲜出炉的天使蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A pineapple upside down cake. Even sweeter now that it's frosted!"
+msgstr "一个菠萝翻转蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A spice cake. Even sweeter now that it's frosted!"
+msgstr "一个香料蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A gingerbread cake. Even sweeter now that it's frosted!"
+msgstr "一个姜饼蛋糕。现在它已经涂上糖霜，更加甜美了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A cherry chip cake. Even sweeter now that it's frosted!"
+msgstr "一块樱桃碎屑蛋糕。现在加上糖霜，更甜了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A lemon cake. Even sweeter now that it's frosted!"
+msgstr "一块柠檬蛋糕。现在加上糖霜，更甜了！"
+
+#. ~ Description for {'str': 'frosted cake', 'str_pl': 'frosted cakes'}
+#: .\comestibles.json
+msgid "A strawberry cake. Even sweeter now that it's frosted!"
+msgstr "一块草莓蛋糕。现在加上糖霜，更甜了！"
+
+#: .\comestibles.json
+msgid "krispy kreme cake"
+msgid_plural "krispy kreme cakes"
+msgstr[0] "krispy kreme蛋糕"
+
+#. ~ Description for {'str': 'krispy kreme cake', 'str_pl': 'krispy kreme
+#. cakes'}
+#: .\comestibles.json
+msgid ""
+"You've done it. You've assembled the perfect snack treat. This has "
+"immeasurable trading value due to being the greatest sweet thing ever "
+"created by mankind."
+msgstr "你做到了。你组合出了完美的零食点心。由于这是人类创造过的最伟大的甜食，它具有无可估量的交易价值。"
+
+#: .\comestibles.json
+msgid "cookie"
+msgid_plural "cookies"
+msgstr[0] "曲奇"
+
+#. ~ Description for {'str': 'cookie', 'str_pl': 'cookies'}
+#: .\comestibles.json
+msgid "Chocolate chip cookies from a dry mix."
+msgstr "用干混料制作的巧克力碎曲奇。"
+
+#. ~ Description for {'str': 'cookie', 'str_pl': 'cookies'}
+#: .\comestibles.json
+msgid "Sugar cookies from a dry mix."
+msgstr "用干混料制作的糖霜曲奇。"
+
+#. ~ Description for {'str': 'cookie', 'str_pl': 'cookies'}
+#: .\comestibles.json
+msgid "Snickerdoodle cookies from a dry mix."
+msgstr "用干混料制作的肉桂糖曲奇。"
+
+#. ~ Description for {'str': 'cookie', 'str_pl': 'cookies'}
+#: .\comestibles.json
+msgid "Salted caramel chocolate chip cookies from a dry mix."
+msgstr "用干混料制作的咸焦糖巧克力碎曲奇。"
+
+#. ~ Description for {'str': 'cookie', 'str_pl': 'cookies'}
+#: .\comestibles.json
+msgid "Rainbow m&m cookies from a dry mix."
+msgstr "用干混料制作的彩虹m&m曲奇。"
+
+#: .\comestibles.json
+msgid "brownie"
+msgid_plural "brownies"
+msgstr[0] "布朗尼"
+
+#. ~ Description for {'str': 'brownie', 'str_pl': 'brownies'}
+#: .\comestibles.json
+msgid "A long slab of chewy fudge brownie from a dry mix."
+msgstr "用干混料制作的长条耐嚼软糖布朗尼。"
+
+#. ~ Description for {'str': 'brownie', 'str_pl': 'brownies'}
+#: .\comestibles.json
+msgid "A long slab of molten lava brownie from a dry mix."
+msgstr "用干混料制作的长条熔岩布朗尼。"
+
+#. ~ Description for {'str': 'brownie', 'str_pl': 'brownies'}
+#: .\comestibles.json
+msgid "A long slab of cookie brownie from a dry mix."
+msgstr "用干混料制作的长条曲奇布朗尼。"
+
+#: .\comestibles.json
+msgid "krispy kreme doughnut"
+msgid_plural "krispy kreme doughnuts"
+msgstr[0] "krispy kreme甜甜圈"
+
+#. ~ Description for {'str': 'krispy kreme doughnut', 'str_pl': 'krispy kreme
+#. doughnuts'}
+#: .\comestibles.json
+msgid ""
+"Congratulations. You're living the dream. Not a hint of dryness. Perfectly "
+"slathered in layers of rich icing. Delicate and fluffy. This is what every "
+"doughnut wishes it could be."
+msgstr "恭喜你。你正活在梦想中。没有一丝干硬。完美地涂抹了层层浓郁的糖霜。细腻而松软。这是每个甜甜圈都渴望成为的样子。"
+
+#: .\comestibles.json
+msgid "honey bun"
+msgid_plural "honey buns"
+msgstr[0] "蜂蜜面包卷"
+
+#. ~ Description for {'str': 'honey bun', 'str_pl': 'honey buns'}
+#: .\comestibles.json
+msgid "Heavily processed mass-produced glazed buns."
+msgstr "经过深度加工、批量生产的糖霜面包卷。"
+
+#: .\comestibles.json
+msgid "zebra cake"
+msgid_plural "zebra cakes"
+msgstr[0] "斑马蛋糕"
+
+#. ~ Description for {'str': 'zebra cake', 'str_pl': 'zebra cakes'}
+#: .\comestibles.json
+msgid ""
+"Heavily processed, mass-produced, but utterly delightful cream-filled "
+"chocolate cakes covered with thick sheets of zigzag frosting."
+msgstr "经过深度加工、批量生产，但绝对令人愉悦的奶油夹心巧克力蛋糕，覆盖着厚厚的锯齿状糖霜片。"
+
+#: .\comestibles.json
+msgid "nutty buddy"
+msgid_plural "nutty buddies"
+msgstr[0] "坚果伙伴"
+
+#. ~ Description for {'str': 'nutty buddy', 'str_pl': 'nutty buddies'}
+#: .\comestibles.json
+msgid ""
+"A classic melding of chocolate and peanut butter throughout melt-in-your-"
+"mouth layers of cookie."
+msgstr "经典融合了巧克力和花生酱，贯穿于入口即化的曲奇层中。"
+
+#: .\comestibles.json
+msgid "apple pie pocket"
+msgid_plural "apple pie pockets"
+msgstr[0] "苹果派口袋"
+
+#. ~ Description for {'str': 'apple pie pocket', 'str_pl': 'apple pie
+#. pockets'}
+#: .\comestibles.json
+msgid ""
+"Artificially sweetened neatly folded pastry covered liberally with "
+"sickeningly sweet sugar and filled with gooey apple chunks in syrup."
+msgstr "人工增甜的整齐折叠糕点，表面大量覆盖着甜得发腻的糖，内馅是糖浆中黏糊糊的苹果块。"
+
+#: .\comestibles.json
+msgid "cherry pie pocket"
+msgid_plural "cherry pie pockets"
+msgstr[0] "樱桃派口袋"
+
+#. ~ Description for {'str': 'cherry pie pocket', 'str_pl': 'cherry pie
+#. pockets'}
+#: .\comestibles.json
+msgid ""
+"Artificially sweetened neatly folded pastry covered liberally with "
+"sickeningly sweet sugar and filled with gooey cherry chunks in syrup."
+msgstr "人工增甜的整齐折叠糕点，表面大量覆盖着甜得发腻的糖，内馅是糖浆中黏糊糊的樱桃块。"
+
+#: .\comestibles.json
+msgid "chocolate pie pocket"
+msgid_plural "chocolate pie pockets"
+msgstr[0] "巧克力派口袋"
+
+#. ~ Description for {'str': 'chocolate pie pocket', 'str_pl': 'chocolate pie
+#. pockets'}
+#: .\comestibles.json
+msgid ""
+"Artificially sweetened neatly folded pastry filled with luscious chocolate "
+"pudding as a filling. Absolutely heavenly."
+msgstr "人工增甜的整齐折叠糕点，内馅是美味的巧克力布丁。绝对的天堂享受。"
+
+#: .\comestibles.json
+msgid "fudge round"
+msgid_plural "fudge rounds"
+msgstr[0] "软糖圆饼"
+
+#. ~ Description for {'str': 'fudge round', 'str_pl': 'fudge rounds'}
+#: .\comestibles.json
+msgid ""
+"Heavily processed chewy chocolate cookies sandwiching an artificially "
+"flavored fudge filling."
+msgstr "重度加工的耐嚼巧克力饼干，夹着人工调味软糖馅料。"
+
+#: .\comestibles.json
+msgid "oatmeal cream pie"
+msgid_plural "oatmeal cream pies"
+msgstr[0] "燕麦奶油派"
+
+#. ~ Description for {'str': 'oatmeal cream pie', 'str_pl': 'oatmeal cream
+#. pies'}
+#: .\comestibles.json
+msgid ""
+"Heavily processed cream sandwiched between two artificially flavored oatmeal"
+" cookies. A childhood favorite!"
+msgstr "重度加工的奶油夹在两块人工调味的燕麦饼干之间。童年最爱！"
+
+#: .\comestibles.json
+msgid "cosmic brownie"
+msgid_plural "cosmic brownies"
+msgstr[0] "宇宙布朗尼"
+
+#. ~ Description for {'str': 'cosmic brownie', 'str_pl': 'cosmic brownies'}
+#: .\comestibles.json
+msgid ""
+"Some of the richest, chewiest brownies you'll ever taste, topped with the "
+"most colorful candy topping you'll ever see. Truly a rare treat."
+msgstr "你尝过的最浓郁、最耐嚼的布朗尼之一，顶部覆盖着你见过的最多彩的糖果装饰。真是难得的享受。"
+
+#: .\comestibles.json
+msgid "donut stick"
+msgid_plural "donut sticks"
+msgstr[0] "甜甜圈棒"
+
+#. ~ Description for {'str': 'donut stick', 'str_pl': 'donut sticks'}
+#: .\comestibles.json
+msgid ""
+"The breakfast of champions for many young kids. Heavily processed and coated"
+" with thick layers of artificial flavoring."
+msgstr "许多小朋友的冠军早餐。重度加工，覆盖着厚厚的人工调味层。"
+
+#: .\comestibles.json
+msgid "survivor cookie"
+msgid_plural "survivor cookies"
+msgstr[0] "幸存者饼干"
+
+#. ~ Description for {'str': 'survivor cookie'}
+#: .\comestibles.json
+msgid ""
+"Improvised cookies, often made with non-standard ingredients. Their flavor "
+"varies wildly from cookie to cookie as a result. Good in a pinch, but not "
+"nearly as good as a commercial mix. Due to being made mostly with dry "
+"ingredients, these keep for a long time."
+msgstr ""
+"临时制作的饼干，通常使用非标准原料。因此，每块饼干的味道差异极大。紧急情况下不错，但远不如商业混合品。由于主要由干原料制成，这些饼干能保存很长时间。"
+
+#: .\containers.json
+msgid "deli tray"
+msgid_plural "deli trays"
+msgstr[0] "熟食托盘"
+
+#. ~ Description for {'str': 'deli tray'}
+#: .\containers.json
+msgid ""
+"A plastic deli tray with a fitted transparent plastic lid. Commonly used to "
+"display and transport individual meals such as sandwiches and chow mein."
+msgstr "一个塑料熟食托盘，配有合适的透明塑料盖。通常用于展示和运输单独餐点，如三明治和炒面。"
+
+#: .\containers.json
+msgid "deli platter"
+msgid_plural "deli platters"
+msgstr[0] "熟食拼盘"
+
+#. ~ Description for {'str': 'deli platter'}
+#: .\containers.json
+msgid ""
+"A round plastic deli platter with a tall fitted transparent plastic lid. "
+"Normally used for larger displays like cheesecake and samplers."
+msgstr "一个圆形塑料熟食拼盘，配有高大的合适透明塑料盖。通常用于较大展示，如芝士蛋糕和样品拼盘。"
+
+#: .\containers.json
+msgid "rigid plastic case"
+msgid_plural "rigid plastic cases"
+msgstr[0] "硬质塑料箱"
+
+#. ~ Description for {'str': 'rigid plastic case'}
+#: .\containers.json
+msgid ""
+"A large, rigid plastic case normally used to store 30 day emergency food "
+"supplies or cat litter."
+msgstr "一个大型硬质塑料箱，通常用于储存30天应急食品或猫砂。"
+
+#: .\containers.json
+msgid "plastic tub"
+msgid_plural "plastic tubs"
+msgstr[0] "塑料桶"
+
+#. ~ Description for {'str': 'plastic tub'}
+#: .\containers.json
+msgid ""
+"A wide-mouthed plastic tub with a screw-on lid. Normally used for storing "
+"dry powder."
+msgstr "一个广口塑料桶，配有旋盖。通常用于储存干粉。"
+
+#: .\containers.json
+msgid "large plastic cup"
+msgid_plural "large plastic cups"
+msgstr[0] "大塑料杯"
+
+#. ~ Description for {'str': 'large plastic cup'}
+#: .\containers.json
+msgid ""
+"A clear plastic cup with a wide mouth and fitted lid. Normally used for "
+"holding individual deli soup and salad servings."
+msgstr "一个透明塑料杯，广口并配有合适的盖子。通常用于盛装单独的熟食汤和沙拉份餐。"
+
+#: .\modinfo.json
+msgid "Gourmand's Graces"
+msgstr "美食家的恩赐"
+
+#. ~ Description for Gourmand's Graces
+#: .\modinfo.json
+msgid ""
+"Greatly expands the selection of various cooked food you can find in grocery"
+" stores and pharmacy fridges. Focuses on items you'd expect to find in "
+"bakery and deli departments."
+msgstr "极大地扩展了你在杂货店和药店冰箱中可以找到的各种熟食选择。专注于你期望在烘焙区和熟食区找到的物品。"
+
+#. ~ Sign
+#: .\teashop.json
+msgid "The Red Dragon Tea Shop"
+msgstr "红龙茶馆"

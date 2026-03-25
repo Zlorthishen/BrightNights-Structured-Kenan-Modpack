@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: randomized_mall\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items.json
+msgid "shopping brochure"
+msgid_plural "shopping brochures"
+msgstr[0] "購物宣傳冊"
+
+#. ~ Use action message for {'str': 'shopping brochure'}.
+#: .\items.json
+msgid "You add the mall to your map."
+msgstr "你將商場添加到了地圖上。"
+
+#. ~ Description for {'str': 'shopping brochure'}
+#: .\items.json
+msgid ""
+"This is a brochure advertising a local shopping mall.  It includes a map "
+"with bus routes.  The buses aren't running but the roads should still be "
+"there."
+msgstr "這是一份宣傳當地購物商場的宣傳冊。內含帶公交路線的地圖。公交車已停運，但道路應該還在。"
+
+#: .\modinfo.json
+msgid "Randomized Mall"
+msgstr "隨機化商場"
+
+#. ~ Description for Randomized Mall
+#: .\modinfo.json
+msgid ""
+"Replaces the existing mall with one having a randomized layout.  Less "
+"realistic looking but more variety."
+msgstr "將現有商場替換為佈局隨機化的版本。外觀真實性稍差，但提供了更多變化。"
+
+#: .\overmap_terrain.json
+msgid "parking lot"
+msgstr "停車場"
+
+#: .\overmap_terrain.json
+msgid "shopping mall"
+msgstr "購物中心"
+
+#. ~ Name for scenario 'Mall Cop' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Mall Cop"
+msgstr "商場保安"
+
+#. ~ Name for scenario 'Mall Cop' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Mall Cop"
+msgstr "商場保安"
+
+#. ~ Description for scenario 'Mall Cop' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as"
+" a security guard.  Find a way out and try your best to survive."
+msgstr "你作為保安，在你工作的商場內儘可能長時間地生存了下來。找到出路，並盡力活下去。"
+
+#. ~ Description for scenario 'Mall Cop' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as"
+" a security guard.  Find a way out and try your best to survive."
+msgstr "你作為保安，在你工作的商場內儘可能長時間地生存了下來。找到出路，並盡力活下去。"
+
+#. ~ Starting location for scenario 'Mall Cop'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Mall"
+msgstr "商場"
+
+#: .\start_locations.json
+msgid "Shopping Mall"
+msgstr "購物中心"

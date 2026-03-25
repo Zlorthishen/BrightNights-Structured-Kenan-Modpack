@@ -1,0 +1,860 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AbrahmsRecipes1\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Abrahms Recipes 1"
+msgstr ""
+
+#. ~ Description for Abrahms Recipes 1
+#: .\modinfo.json
+msgid ""
+"Adds some simple recipes, ingredients and meals that don't require advanced "
+"tools to make. Also adds some slightly overpowered historical and mythical "
+"melee weapons from Europe, China and Japan"
+msgstr ""
+
+#: .\items\comestibles\carnivore.json
+msgid "minced meat"
+msgid_plural "minced meat"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'minced meat', 'str_pl': 'minced meat'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"When you don't have a meat grinder, a knife or food processor will do the "
+"job. A finely chopped or ground paste of assorted meat, fat, gristle, and "
+"connective tissues."
+msgstr ""
+
+#: .\items\comestibles\carnivore.json
+msgid "minced scrap"
+msgid_plural "minced scraps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'minced scrap', 'str_pl': 'minced scraps'}
+#: .\items\comestibles\carnivore.json
+msgid "Finely chopped or ground scraps of meat."
+msgstr ""
+
+#: .\items\comestibles\carnivore.json
+msgid "cooked minced meat"
+msgid_plural "cooked minced meat"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cooked minced meat', 'str_pl': 'cooked minced
+#. meat'}
+#: .\items\comestibles\carnivore.json
+msgid "Cooked mixed hamburger meat."
+msgstr ""
+
+#: .\items\comestibles\carnivore.json
+msgid "meatstick"
+msgid_plural "meatsticks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'meatstick', 'str_pl': 'meatsticks'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"Meat that has been ground then formed into strips or sticks and smoked or "
+"dehydrated. Chewier than regular jerky but with a shorter shelf life."
+msgstr ""
+
+#: .\items\comestibles\carnivore.json
+msgid "meatball"
+msgid_plural "meatballs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'meatball', 'str_pl': 'meatballs'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"Minced or ground meat, and optionally filler or other ingredients, mushed "
+"into a ball. It can be used as a substitute for chunks of meat, or formed "
+"into smaller balls for use in sauces and soups."
+msgstr ""
+
+#: .\items\comestibles\drink_other.json
+msgid "mayonnaise gummy"
+msgid_plural "mayonnaise gummies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mayonnaise gummy', 'str_pl': 'mayonnaise
+#. gummies'}
+#: .\items\comestibles\drink_other.json
+msgid ""
+"Because of its oil content, mayonnaise can't be dried into a powder, instead"
+" becoming a rubbery gummy that tastes more or less like mayonnaise, but has "
+"an unpleasant texture. It can't be reconstituted into spreadable mayonnaise,"
+" but it can be softened by heating with water."
+msgstr ""
+
+#: .\items\comestibles\drink_other.json
+msgid "ketchup powder"
+msgid_plural "ketchup powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ketchup powder', 'str_pl': 'ketchup powder'}
+#: .\items\comestibles\drink_other.json
+msgid ""
+"Dehydrated ketchup, ground into a powder. Can be used as a flavouring for "
+"dry snacks, or reconstituted with water."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "maggi goreng"
+msgid_plural "maggi goreng"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#. when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Maggie goreng"
+msgid_plural "Maggie gorengs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#. when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "hairy %s"
+msgid_plural "hairy %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Mie goreng, Indo-Malay fried noodles, made with Maggi brand instant noodles."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "mie goreng"
+msgid_plural "mie goreng"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'mie goreng', 'str_pl': 'mie goreng'} when
+#. FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "you goreng"
+msgid_plural "you gorengs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'mie goreng', 'str_pl': 'mie goreng'} when
+#. COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "monster %s"
+msgid_plural "monster %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mie goreng', 'str_pl': 'mie goreng'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Indo-Malay fried noodles, filled with eggs and beef, flavoured with sambal "
+"and ketjap."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "hor fun"
+msgid_plural "hor fun"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'hor fun', 'str_pl': 'hor fun'} when FLAG
+#. matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "who fun"
+msgid_plural "who funs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'hor fun', 'str_pl': 'hor fun'} when
+#. COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "hexed %s"
+msgid_plural "hexed %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hor fun', 'str_pl': 'hor fun'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Indo-Chinese very wide, thin noodles, fried with eggs, meat, seafood, and 3 "
+"types of soy sauce."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "Babylonian beet stew"
+msgid_plural "Babylonian beet stew"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew', 'str_pl':
+#. 'Babylonian beet stew'} when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Babe-lonian beet stew"
+msgid_plural "Babes-lonian beet stew"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew', 'str_pl':
+#. 'Babylonian beet stew'} when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "ectoplasmic beet stew"
+msgid_plural "ectoplasmic beet stew"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Babylonian beet stew', 'str_pl': 'Babylonian
+#. beet stew'}
+#. ~ Description for {'str': 'Babylonian beet stew with couscous', 'str_pl':
+#. 'Babylonian beet stews with couscous'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"An ancient recipe, translated from a 4000 year old Babylonian clay tablet, "
+"written in ancient Akkadian, consisting of beets, leeks, onions, garlic, "
+"lamb, and spices, simmered in beer. Best eaten with couscous."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "clay pot rice"
+msgid_plural "clay pot rice"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#. when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "crackpot rice"
+msgid_plural "crackpot rice"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#. when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "corrupted clay pot rice"
+msgid_plural "corrupted clay pot rice"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Rice, meat, veggies, and seasonings boiled together in a sealed clay pot "
+"over a hot fire."
+msgstr ""
+
+#: .\items\comestibles\meat_dishes.json
+msgid "Babylonian beet stew with couscous"
+msgid_plural "Babylonian beet stews with couscous"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew with couscous',
+#. 'str_pl': 'Babylonian beet stews with couscous'} when FLAG matches
+#. CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Babe-lonian beet stew with couscous"
+msgid_plural "Babes-lonian beet stews with couscous"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew with couscous',
+#. 'str_pl': 'Babylonian beet stews with couscous'} when COMPONENT_ID matches
+#. mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "ectoplasmic beet stew with couscous"
+msgid_plural "ectoplasmic beet stew with couscous"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\comestibles\spice.json
+msgid "dehydrated mustard"
+msgid_plural "dehydrated mustard"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dehydrated mustard', 'str_pl': 'dehydrated
+#. mustard'}
+#: .\items\comestibles\spice.json
+msgid ""
+"Dehydrated prepared mustard. Can be reconstituted by just adding a bit of "
+"water, but won't be as good as fresh mustard."
+msgstr ""
+
+#: .\items\comestibles\spice.json
+msgid "ketjap manis"
+msgid_plural "ketjap manis"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ketjap manis', 'str_pl': 'ketjap manis'}
+#: .\items\comestibles\spice.json
+msgid "Indonesian sweet soy sauce."
+msgstr ""
+
+#: .\items\comestibles\spice.json
+msgid "sambal"
+msgid_plural "sambal"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sambal', 'str_pl': 'sambal'}
+#: .\items\comestibles\spice.json
+msgid "Indo-Malay chilli paste."
+msgstr ""
+
+#: .\items\comestibles\veggy_dishes.json
+msgid "pasta marinara"
+msgid_plural "pasta marinara"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pasta marinara', 'str_pl': 'pasta marinara'}
+#: .\items\comestibles\veggy_dishes.json
+msgid ""
+"Cooked pasta with a jar of tomato sauce. Not very nutritious, but very easy "
+"to make."
+msgstr ""
+
+#: .\items\comestibles\veggy_dishes.json
+msgid "pasta primavera"
+msgid_plural "pasta primavera"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pasta primavera', 'str_pl': 'pasta primavera'}
+#: .\items\comestibles\veggy_dishes.json
+msgid "Pasta with sauteed veggies, spices, and olive oil."
+msgstr ""
+
+#: .\items\comestibles\wheat.json
+msgid "raw couscous pasta"
+msgid_plural "raw couscous pasta"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'raw couscous pasta', 'str_pl': 'raw couscous
+#. pasta'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Durum semolina wheat flour dough, rubbed between the hands until it forms "
+"small rice-like pellets. Could be eaten raw, but only takes a couple of "
+"minutes to cook, so why bother?"
+msgstr ""
+
+#: .\items\comestibles\wheat.json
+msgid "fun batter"
+msgid_plural "fun batter"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fun batter', 'str_pl': 'fun batter'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"A thin batter of rice and water, used to make rice noodle sheets called fun."
+msgstr ""
+
+#: .\items\comestibles\wheat.json
+msgid "raw fun"
+msgid_plural "raw fun"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'raw fun', 'str_pl': 'raw fun'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Thin, very wide Chinese rice noodles, made from a thin batter, steamed into "
+"sheets then cut into wide strips."
+msgstr ""
+
+#: .\items\comestibles\wheat.json
+msgid "prepared couscous"
+msgid_plural "prepared couscous"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'prepared couscous', 'str_pl': 'prepared
+#. couscous'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Grain-like pasta cooked with broth. Delicious and filling, but not very "
+"nutritious."
+msgstr ""
+
+#: .\items\comestibles\wheat.json
+msgid "sooji halwa"
+msgid_plural "sooji halwas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sooji halwa', 'str_pl': 'sooji halwas'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"An Indian sweet consisting of couscous fried in butter or ghee, then cooked "
+"with milk, sugar, and spices. Traditionally cut into diamond-shaped pieces."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "rokushakubo"
+msgid_plural "rokushakubos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rokushakubo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 6 shaku (180cm) in length."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "jyo"
+msgid_plural "jyos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'jyo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 4 shaku (120cm) in length."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "hanbo"
+msgid_plural "hanbos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hanbo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 3 shaku (90cm) in length."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tanbo"
+msgid_plural "tanbos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tanbo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 1 shaku (30cm) in length."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "dumbell bar"
+msgid_plural "dumbell bars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dumbell bar'}
+#: .\items\melee\bludgeons.json
+msgid "A heavy solid steel bar from a dumbell, 20cm in length."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "barbell bar"
+msgid_plural "barbell bars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'barbell bar'}
+#: .\items\melee\bludgeons.json
+msgid "A very heavy, solid steel bar from a barbell."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "hollow barbell bar"
+msgid_plural "hollow barbell bars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hollow barbell bar'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A lightweight hollow steel bar from a cheap barbell, reinforced with sturdy "
+"plastic. As a weapon, it does little damage, but is very sturdy for its "
+"weight, is light and fast, and has a long reach."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "putting trainer"
+msgid_plural "putting trainers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'putting trainer'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A short section of a putter handle with a heavy weight on the end, for "
+"training golfing techniques. Essentially a fairly sturdy mace."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "jitte"
+msgid_plural "jittes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'jitte'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"The 'ten hands' weapon. A steel rod with a disarming hook, used primarily by"
+" officers of the Edo police during the Edo period."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo"
+msgid_plural "tokushukeibos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'tokushukeibo'}.
+#. ~ Use action menu_text for {'str': 'tokushukeibo jitte'}.
+#: .\items\melee\bludgeons.json
+msgid "Expand"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'tokushukeibo'}.
+#. ~ Use action msg for {'str': 'tokushukeibo jitte'}.
+#: .\items\melee\bludgeons.json
+msgid "You snap open your tokushukeibo."
+msgstr ""
+
+#. ~ Description for {'str': 'tokushukeibo'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"Steel cobra, a telescoping lightweight spring steel rod with a weighted tip,"
+" that collapses for easy storage.  Makes an excellent melee weapon.  "
+"Activate to expand."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo (extended)"
+msgid_plural "tokushukeibo (extended)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}.
+#. ~ Use action menu_text for {'str': 'tokushukeibo jitte (extended)',
+#. 'str_pl': 'tokushukeibo jitte (extended)'}.
+#: .\items\melee\bludgeons.json
+msgid "Collapse"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}.
+#. ~ Use action msg for {'str': 'tokushukeibo jitte (extended)', 'str_pl':
+#. 'tokushukeibo jitte (extended)'}.
+#: .\items\melee\bludgeons.json
+msgid "You collapse your tokushukeibo."
+msgstr ""
+
+#. ~ Description for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A steel cobra baton that collapses for easy storage.  Makes an excellent "
+"melee weapon.  Activate to collapse."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo jitte"
+msgid_plural "tokushukeibo jittes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tokushukeibo jitte'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"Steel cobra, a telescoping lightweight spring steel rod with a weighted tip "
+"and a disarming hook, that collapses for easy storage.  Makes an excellent "
+"melee weapon.  Activate to expand."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo jitte (extended)"
+msgid_plural "tokushukeibo jitte (extended)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tokushukeibo jitte (extended)', 'str_pl':
+#. 'tokushukeibo jitte (extended)'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A steel cobra baton with a disarming hook, that collapses for easy storage."
+"  Makes an excellent melee weapon.  Activate to collapse."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "fake tessen"
+msgid_plural "fake tessens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fake tessen'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"An iron fan, a small steel bludgeon designed to resemble a folded hand fan, "
+"carried by Samurai in situations in which wearing a sword was not permitted."
+" This one is purely a weapon, and not functional as a fan."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "tessen"
+msgid_plural "tessens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tessen'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"An iron fan, a rice paper hand fan with a sturdy steel frame and steel or "
+"bamboo ribs, carried by Samurai in situations in which wearing a sword was "
+"not permitted. This one is also functional as a fan."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "bonker"
+msgid_plural "bonkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bonker'}
+#: .\items\melee\bludgeons.json
+msgid "A small wooden club for stunning fish."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "manriki gusari"
+msgid_plural "manriki gusaris"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'manriki gusari'}
+#: .\items\melee\bludgeons.json
+msgid "A heavy steel chain with a weighted grip on each end."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "keychain"
+msgid_plural "keychains"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'keychain'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A big, heavy bunch of keys on the end of a steel chain. Makes a fairly "
+"effective flail."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "blackthorn stick"
+msgid_plural "blackthorn sticks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'blackthorn stick'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A walking stick made from a sapling of dense blackthorn or sloe wood, with a"
+" large knob at the top, that has been left to cure in a chimney.  A "
+"traditional Irish weapon derived from the shillelagh."
+msgstr ""
+
+#: .\items\melee\bludgeons.json
+msgid "synthetic blackthorn stick"
+msgid_plural "synthetic blackthorn sticks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'synthetic blackthorn stick'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A walking stick made from a sapling of dense blackthorn or sloe wood, with a"
+" large knob at the top, that has been left to cure in a chimney.  A "
+"traditional Irish weapon derived from the shillelagh. This is a synthetic "
+"one made from durable polymer, cheaper and more durable than a wooden one, "
+"but less effective as a weapon."
+msgstr ""
+
+#: .\items\melee\spears_and_polearms.json
+msgid "guandao"
+msgid_plural "guandaos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'guandao'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"This is a giant ancient Chinese battlefield polearm, named for its purported"
+" inventor, the legendary 3rd century general Guan Yu. Though it may have "
+"never existed, the original was thought to have weighed as much as 49kg, and"
+" required great strength to wield, but by the time of the earliest confirmed"
+" records of the weapon, the design had already shed much of its weight, "
+"while retaining its imposing size. This is a modern version, weighing in at "
+"10kg."
+msgstr ""
+
+#: .\items\melee\spears_and_polearms.json
+msgid "qinglong yanyuedao"
+msgid_plural "qinglong yanyuedaos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'qinglong yanyuedao'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"This is a giant ancient Chinese battlefield polearm, named for its purported"
+" inventor, the legendary 3rd century general Guan Yu. Though it may have "
+"never existed, the original was thought to have weighed as much as 49kg, and"
+" required great strength to wield, but by the time of the earliest confirmed"
+" records of the weapon, the design had already shed much of its weight, "
+"while retaining its imposing size. This is a faithful reproduction of Guan "
+"Yu's own weapon, the Qinglong Yanyuedao or Green Dragon Crescent Blade."
+msgstr ""
+
+#: .\items\melee\spears_and_polearms.json
+msgid "bisento"
+msgid_plural "bisentos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bisento'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"The Japanese equivalent of the guandao. Pretty much a direct copy of the "
+"guandao design, but forged with the same forging techniques that created the"
+" katana. Heftier than a modern guandao, the bisento requires considerable "
+"strength to wield, while techniques focus on keeping the blade in constant "
+"motion using the whole body, and using its weight to increase attacking "
+"power."
+msgstr ""
+
+#: .\items\melee\spears_and_polearms.json
+msgid "dragon qiang"
+msgid_plural "dragon qiangs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dragon qiang'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"A mythical Chinese spear, consisting of a solid steel, textured shaft with a"
+" diamond-shaped spear point. Equally effective at bashing and stabbing, but "
+"heavy and slow."
+msgstr ""
+
+#: .\items\melee\swords_and_blades.json
+msgid "grosse messer"
+msgid_plural "grosse messers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grosse messer'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A large single-edged two-handed sword from Germany, resembling an oversized "
+"kitchen knife. The name means Big Knife."
+msgstr ""
+
+#: .\items\melee\swords_and_blades.json
+msgid "da dao"
+msgid_plural "da daos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'da dao'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"This is a heavy two-handed Chinese ring-pommeled sabre with a short, wide "
+"blade and S crossguard. It hits almost as hard as a greatsword or claymore, "
+"but is much easier to use. The lack of reach is a disadvantage on the "
+"battlefield, but an advantage in tight spaces."
+msgstr ""
+
+#: .\items\melee\swords_and_blades.json
+msgid "rebar sword"
+msgid_plural "rebar swords"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rebar sword'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A large, heavy sword-shaped cudgel forged from rebar, with a dull edge and "
+"sharp tip, and a flat disc or square crossguard."
+msgstr ""
+
+#: .\items\melee\swords_and_blades.json
+msgid "pudao"
+msgid_plural "pudao"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pudao', 'str_pl': 'pudao'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A Chinese long-handled sword with a single-edged curved blade, consisting of"
+" a dao blade attached to a medium length pole, extending its reach and "
+"increasing damage and attack speed with a minimal increase in weight."
+msgstr ""
+
+#: .\items\melee\swords_and_blades.json
+msgid "nagamaki"
+msgid_plural "nagamaki"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'nagamaki', 'str_pl': 'nagamaki'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A long-handled tachi sword from Japan, likely evolved from the Chinese "
+"pudao, and the ancestor of the naginata."
+msgstr ""
+
+#: .\items\tool\cooking.json
+msgid "fun pan"
+msgid_plural "fun pans"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fun pan'}
+#: .\items\tool\cooking.json
+msgid ""
+"A flat steaming pan, with a lid and an internal pan, for making sheets of "
+"rice noodles known as fun."
+msgstr ""
+
+#: .\items\vehicle\wheel.json
+msgid "60 inch industrial off-road wheel"
+msgid_plural "60 inch industrial off-road wheels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '60 inch industrial off-road wheel'}
+#: .\items\vehicle\wheel.json
+msgid ""
+"A 60-inch diameter, wide off-road wheel, used in mining, forestry, and "
+"military transport."
+msgstr ""

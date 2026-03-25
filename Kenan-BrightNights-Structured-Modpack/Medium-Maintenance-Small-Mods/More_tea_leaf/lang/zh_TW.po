@@ -1,0 +1,338 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: More tea leaf\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "MOD to grow tea leaves"
+msgstr "種植茶葉的MOD"
+
+#. ~ Description for MOD to grow tea leaves
+#: .\modinfo.json
+msgid ""
+"Adds new tea leaf seeds and raw tea leaves crafting options, new types of "
+"tea leaves and tea."
+msgstr "添加新的茶葉種子和生茶葉製作選項，以及新型茶葉和茶飲。"
+
+#: .\tl_drink.json
+msgid "sugarless tea"
+msgid_plural "sugarless tea"
+msgstr[0] "無糖茶"
+
+#: .\tl_drink.json
+msgid "fruit tea"
+msgid_plural "fruit tea"
+msgstr[0] "水果茶"
+
+#: .\tl_drink.json
+msgid "decaffeinated tea"
+msgid_plural "decaffeinated teas"
+msgstr[0] "脫咖啡因茶"
+
+#. ~ Description for {'str': 'decaffeinated tea'}
+#: .\tl_drink.json
+msgid ""
+"It is a tea extracted with water. It is safe to drink before going to bed "
+"because caffeine is significantly reduced, but it may not be enough because "
+"the taste has changed compared to those made with hot water."
+msgstr "這是一種用水萃取的茶。由於咖啡因含量顯著降低，睡前飲用是安全的，但味道與熱水沖泡的茶相比有所變化，可能不夠滿足。"
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "green tea"
+msgid_plural "green teas"
+msgstr[0] "綠茶"
+
+#. ~ Description for {'str': 'green tea'}
+#: .\tl_drink.json
+msgid ""
+"Green tea is a tea made from tea leaves, which is processed by heating the "
+"picked tea leaves to prevent fermentation. Vivid fresh green is beautiful."
+msgstr "綠茶是由茶葉製成的茶，通過加熱採摘的茶葉以防止發酵處理而成。鮮豔的嫩綠色澤十分美麗。"
+
+#: .\tl_drink.json
+msgid "decaffeinated green tea"
+msgid_plural "decaffeinated green teas"
+msgstr[0] "脫咖啡因綠茶"
+
+#. ~ Description for {'str': 'decaffeinated green tea'}
+#: .\tl_drink.json
+msgid ""
+"水で抽出した緑茶です。カフェインが大幅に少なくなっているので就寝前に飲用しても安心ですが、お湯で作ったものよりも味が変化しているので物足りないかもしれません。"
+msgstr ""
+"水で抽出した緑茶です。カフェインが大幅に少なくなっているので就寢前に飲用しても安心ですが、お湯で作ったものよりも味が変化しているので物足りないかもしれません。"
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "oolong tea"
+msgid_plural "oolong teas"
+msgstr[0] "烏龍茶"
+
+#. ~ Description for {'str': 'oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"Oolong tea is a semi-fermented tea that is classified as blue tea among "
+"Chinese teas and stopped fermentation by heating during fermentation of tea "
+"leaves. I will refresh after drinking after meals."
+msgstr "烏龍茶是一種半發酵茶，在中國茶中屬於青茶類，通過在茶葉發酵過程中加熱停止發酵。餐後飲用能提神醒腦。"
+
+#: .\tl_drink.json
+msgid "decaffeinated oolong tea"
+msgid_plural "decaffeinated oolong teas"
+msgstr[0] "脫咖啡因烏龍茶"
+
+#. ~ Description for {'str': 'decaffeinated oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"It is oolong tea extracted with water. It is safe to drink before going to "
+"bed, as caffeine is significantly reduced, but the taste may have changed "
+"and more than those made with hot water."
+msgstr "這是一種用水萃取的烏龍茶。由於咖啡因含量顯著降低，睡前飲用是安全的，但味道可能已改變，且比熱水沖泡的更濃郁。"
+
+#: .\tl_drink.json
+msgid "boiled plum tea"
+msgid_plural "boiled plum teas"
+msgstr[0] "煮梅茶"
+
+#. ~ Description for {'str': 'boiled plum tea'}
+#: .\tl_drink.json
+msgid ""
+"Sumomo simmered with black tea and sugar. The sweetness of the tea is good "
+"and the flavor of the tea is good."
+msgstr "用紅茶和糖燉煮的李子。茶的甜度恰到好處，茶香濃郁。"
+
+#: .\tl_drink.json
+msgid "milk tea with banana and chocolate flavorings"
+msgid_plural "milk tea with banana and chocolate flavoringss"
+msgstr[0] "香蕉巧克力風味奶茶"
+
+#. ~ Description for {'str': 'milk tea with banana and chocolate flavorings'}
+#: .\tl_drink.json
+msgid ""
+"It has a sweet, rich, parfait-like flavor with a milk-rich black tea plus "
+"banana and chocolate flavors."
+msgstr "這是一種甜味濃郁、類似芭菲風味的飲品，以奶香濃郁的紅茶為基礎，加入香蕉和巧克力風味。"
+
+#. ~ Description for {'str': 'fruit tea'}
+#: .\tl_drink.json
+msgid "It is black tea with added fruit juice. Fruity and delicious."
+msgstr "這是一種添加了果汁的紅茶。果味濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "berry tea"
+msgid_plural "berry teas"
+msgstr[0] "漿果茶"
+
+#. ~ Description for {'str': 'berry tea'}
+#: .\tl_drink.json
+msgid "It is black tea with berry juice. Fruity and delicious."
+msgstr "這是一種添加了漿果汁的紅茶。果味濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "apple tea"
+msgid_plural "apple teas"
+msgstr[0] "蘋果茶"
+
+#. ~ Description for {'str': 'apple tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with apple juice added. Fruity and delicious."
+msgstr "這是一種添加了蘋果汁的紅茶。果味濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "pear tea"
+msgid_plural "pear teas"
+msgstr[0] "梨茶"
+
+#. ~ Description for {'str': 'pear tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with pear juice added. Fruity and delicious."
+msgstr "這是一種添加了梨汁的紅茶。果味濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "cherry tea"
+msgid_plural "cherry teas"
+msgstr[0] "櫻桃茶"
+
+#. ~ Description for {'str': 'cherry tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with cherry juice added. Fruity and delicious."
+msgstr "這是一種添加了櫻桃汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "peach tea"
+msgid_plural "peach teas"
+msgstr[0] "桃子茶"
+
+#. ~ Description for {'str': 'peach tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with peach juice added. Fruity and delicious."
+msgstr "這是一種添加了桃子汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "apricot tea"
+msgid_plural "apricot teas"
+msgstr[0] "杏子茶"
+
+#. ~ Description for {'str': 'apricot tea'}
+#: .\tl_drink.json
+msgid "It is black tea with apricot juice. Fruity and delicious."
+msgstr "這是一種添加了杏子汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "lemon tea"
+msgid_plural "lemon teas"
+msgstr[0] "檸檬茶"
+
+#. ~ Description for {'str': 'lemon tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with lemon juice added. Fruity and delicious."
+msgstr "這是一種添加了檸檬汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "mango tea"
+msgid_plural "mango teas"
+msgstr[0] "芒果茶"
+
+#. ~ Description for {'str': 'mango tea'}
+#: .\tl_drink.json
+msgid "It is black tea with mango juice. Fruity and delicious."
+msgstr "這是一種添加了芒果汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "grape tea"
+msgid_plural "grape teas"
+msgstr[0] "葡萄茶"
+
+#. ~ Description for {'str': 'grape tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grape juice added. Fruity and delicious."
+msgstr "這是一種添加了葡萄汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "grapefruit tea"
+msgid_plural "grapefruit teas"
+msgstr[0] "葡萄柚茶"
+
+#. ~ Description for {'str': 'grapefruit tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grapefruit juice. Fruity and delicious."
+msgstr "這是一種添加了葡萄柚汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "papaya tea"
+msgid_plural "papaya teas"
+msgstr[0] "木瓜茶"
+
+#. ~ Description for {'str': 'papaya tea'}
+#: .\tl_drink.json
+msgid "It is a tea with papaya juice added. Fruity and delicious."
+msgstr "這是一種添加了木瓜汁的茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "orange tea"
+msgid_plural "orange teas"
+msgstr[0] "橙子茶"
+
+#. ~ Description for {'str': 'orange tea'}
+#: .\tl_drink.json
+msgid "It is black tea with orange juice. Fruity and delicious."
+msgstr "這是一種添加了橙汁的紅茶。果香濃郁，美味可口。"
+
+#: .\tl_drink.json
+msgid "pomegranate tea"
+msgid_plural "pomegranate teas"
+msgstr[0] "石榴茶"
+
+#. ~ Description for {'str': 'pomegranate tea'}
+#: .\tl_drink.json
+msgid "It is a tea with pomegranate juice added. Fruity and delicious."
+msgstr "這是一種添加了石榴汁的茶。果香濃郁，美味可口。"
+
+#: .\tl_materials.json
+msgid "squished"
+msgstr "壓扁的"
+
+#: .\tl_materials.json
+msgid "cut"
+msgstr "切開的"
+
+#: .\tl_materials.json
+msgid "lightly damaged"
+msgstr "輕微損壞的"
+
+#: .\tl_materials.json
+msgid "damaged"
+msgstr "損壞的"
+
+#: .\tl_materials.json
+msgid "very damaged"
+msgstr "嚴重損壞的"
+
+#: .\tl_materials.json
+msgid "thoroughly damaged"
+msgstr "完全損壞的"
+
+#: .\tl_seed.json
+msgid "Tea Leaf template"
+msgid_plural "Tea Leaf template"
+msgstr[0] "茶葉模板"
+
+#: .\tl_seed.json
+msgid "tea leaf seed"
+msgid_plural "tea leaf seeds"
+msgstr[0] "茶葉種子"
+
+#. ~ Description for {'str': 'tea leaf seed', 'str_pl': 'tea leaf seeds'}
+#: .\tl_seed.json
+msgid "It is a species of tea leaves."
+msgstr "這是一種茶葉品種。"
+
+#: .\tl_seed.json
+msgid "tea plant"
+msgstr "茶樹"
+
+#: .\tl_tea_leaf.json
+msgid "raw tea leaf"
+msgid_plural "raw tea leaves"
+msgstr[0] "生茶葉"
+
+#. ~ Description for {'str': 'raw tea leaf', 'str_pl': 'raw tea leaves'}
+#: .\tl_tea_leaf.json
+msgid "It is a raw tea leaf."
+msgstr "這是一片生茶葉。"
+
+#: .\tl_tea_leaf.json
+msgid "green tea leaf"
+msgid_plural "green tea leaves"
+msgstr[0] "綠茶茶葉"
+
+#. ~ Description for {'str': 'green tea leaf', 'str_pl': 'green tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"It is green tea leaves. You can use green tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr "這是綠茶茶葉。你可以用來泡綠茶，也可以直接生吃。需要根據身體不適程度食用足夠量來緩解飢餓。"
+
+#: .\tl_tea_leaf.json
+msgid "oolong tea leaf"
+msgid_plural "oolong tea leaves"
+msgstr[0] "烏龍茶茶葉"
+
+#. ~ Description for {'str': 'oolong tea leaf', 'str_pl': 'oolong tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"Oolong tea leaves. You can use oolong tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr "烏龍茶茶葉。你可以用來泡烏龍茶，也可以直接生吃。需要根據身體不適程度食用足夠量來緩解飢餓。"

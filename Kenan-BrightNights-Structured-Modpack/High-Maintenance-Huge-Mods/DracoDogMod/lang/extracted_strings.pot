@@ -1,0 +1,1122 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DracoDogMod\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s bites your %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s bites <npcname>'s %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s tries to bite your %2$s, but fails to penetrate your armor!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to bite <npcname>'s %2$s, but fails to penetrate their armor!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s ferociously bites your %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s ferociously bites <npcname>'s %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s nips at your %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s nips at <npcname>'s %2$s!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to nips at your %2$s, but fails to penetrate your armor!"
+msgstr ""
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to nips at <npcname>'s %2$s, but fails to penetrate their "
+"armor!"
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "Labrador mutt"
+msgid_plural "Labrador mutts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Labrador mutt'}
+#: .\dog_monsters.json
+msgid ""
+"This once-average Labrador mixed breed dog has clearly gone feral.  Though "
+"it likely still instinctually trusts humans, it's probably far from domestic"
+" by now."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack labrador"
+msgid_plural "attack labradors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack labrador'}
+#: .\dog_monsters.json
+msgid ""
+"A shaggy Labrador Retriever that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "bulldog"
+msgid_plural "bulldogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bulldog'}
+#: .\dog_monsters.json
+msgid ""
+"The American Bulldog is a hardy, well built dog, that seems suited for "
+"surviving the apocalypse.  Can be trained as an attack dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack bulldog"
+msgid_plural "attack bulldogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack bulldog'}
+#: .\dog_monsters.json
+msgid ""
+"A muscular American Bulldog that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "cattle dog"
+msgid_plural "cattle dogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cattle dog'}
+#: .\dog_monsters.json
+msgid ""
+"An agile and sturdy breed that is welcome on any farm, the Australian Cattle"
+" Dog is adept at leaping fences and herding livestock.  Can be trained as an"
+" attack dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack cattle dog"
+msgid_plural "attack cattle dogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack cattle dog'}
+#: .\dog_monsters.json
+msgid ""
+"A darting Australian Cattle Dog that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "pit bull mix"
+msgid_plural "pit bull mixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pit bull mix'}
+#: .\dog_monsters.json
+msgid ""
+"The oft-misunderstood Pit Bull is not actually a single breed but a label "
+"for several such as American Pit Bull Terrier and American Staffordshire "
+"Terrier.  Average abilities and well-known for their 'lock jaw' which isn't "
+"real but their incredible determination is.  Can be trained as an attack "
+"dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack pit bull mix"
+msgid_plural "attack pit bull mixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack pit bull mix'}
+#: .\dog_monsters.json
+msgid ""
+"A ferocious Pit Bull mix that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "beagle"
+msgid_plural "beagles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'beagle'}
+#: .\dog_monsters.json
+msgid ""
+"An adorable Beagle that has managed to survive the apocalypse.  Being agile "
+"and small, they are difficult to shoot at.  Generally attacks in packs."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack beagle"
+msgid_plural "attack beagles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack beagle'}
+#: .\dog_monsters.json
+msgid ""
+"A regal Beagle that has been trained to fight.  Improved agility, attack, "
+"health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "border collie"
+msgid_plural "border collies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'border collie'}
+#: .\dog_monsters.json
+msgid ""
+"An athletic and hyperactive dog that loves to herd animals and jump, the "
+"Border Collie is an agile attacker.  Although they can be easy to train, "
+"they don't work well in packs.  Can be trained as an attack dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack border collie"
+msgid_plural "attack border collies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack border collie'}
+#: .\dog_monsters.json
+msgid ""
+"A hyper Border Collie that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "boxer mastiff"
+msgid_plural "boxer mastiffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'boxer mastiff'}
+#: .\dog_monsters.json
+msgid ""
+"An ordinary breed full of affection, the Boxer Mastiff doesn't stand out "
+"amongst other dogs but has mediocre abilities nonetheless.  Can be trained "
+"as an attack dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack boxer mastiff"
+msgid_plural "attack boxer mastiffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack boxer mastiff'}
+#: .\dog_monsters.json
+msgid ""
+"A stocky Boxer Mastiff that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "chihuahua"
+msgid_plural "chihuahuas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chihuahua'}
+#: .\dog_monsters.json
+msgid ""
+"It's a tiny Chihuahua.  How it has managed to survive is a miracle; although"
+" its small size and aggressive nature may been useful."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack chihuahua"
+msgid_plural "attack chihuahuas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack chihuahua'}
+#: .\dog_monsters.json
+msgid ""
+"A skittish Chihuahua that has been trained to embrace its bark rather than "
+"its bite.  Improved agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "dachshund"
+msgid_plural "dachshunds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dachshund'}
+#: .\dog_monsters.json
+msgid ""
+"A weiner dog!  This awkward looking dog can be a useful watch dog, plus it "
+"looks adorable as it bumbles around, also making it hard to shoot."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack dachshund"
+msgid_plural "attack dachshunds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack dachshund'}
+#: .\dog_monsters.json
+msgid ""
+"A long-bodied Dachshund that has been trained to fight, or so it wants you "
+"to believe.  Improved agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "german shepherd"
+msgid_plural "german shepherds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'german shepherd'}
+#: .\dog_monsters.json
+msgid ""
+"The original K-9 breed.  An easy to train and great attack dog that will "
+"also defend its owner to the death, however they don't work well in packs.  "
+"Can be trained as an attack dog."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack german shepherd"
+msgid_plural "attack german shepherds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack german shepherd'}
+#: .\dog_monsters.json
+msgid ""
+"A noble German Shepherd that has been trained to fight and not flee.  "
+"Improved agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "great pyrenees"
+msgid_plural "great pyreneess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'great pyrenees'}
+#: .\dog_monsters.json
+msgid ""
+"A large and powerful breed, the Great Pyrenees has a beautiful, thick white "
+"coat.  Originally bred to deter wolves and other predators, now faced with "
+"protecting livestock from shambling hordes of undead."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack great pyrenees"
+msgid_plural "attack great pyreneess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack great pyrenees'}
+#: .\dog_monsters.json
+msgid ""
+"A resilient Great Pyrenees that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "rottweiler"
+msgid_plural "rottweilers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rottweiler'}
+#: .\dog_monsters.json
+msgid ""
+"A terrifying breed to face feral, Rottweilers are descended from Roman "
+"legion mastiffs.  It's robust, vicious, and quite capable of mauling a human"
+" to death."
+msgstr ""
+
+#: .\dog_monsters.json
+msgid "attack rottweiler"
+msgid_plural "attack rottweilers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'attack rottweiler'}
+#: .\dog_monsters.json
+msgid ""
+"A brutal Rottweiler that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Amateur Dog Trainer"
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Amateur Dog Trainer"
+msgstr ""
+
+#. ~ Profession (male Amateur Dog Trainer) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"As a high school student, you were the only member of a canine training "
+"club.  You've always been into dogs, but you barely manage to get Fido to "
+"sit.  Unfortunately, you'll need to learn quick or you and Fido aren't going"
+" to last long in this new world."
+msgstr ""
+
+#. ~ Profession (female Amateur Dog Trainer) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"As a high school student, you were the only member of a canine training "
+"club.  You've always been into dogs, but you barely manage to get Fido to "
+"sit.  Unfortunately, you'll need to learn quick or you and Fido aren't going"
+" to last long in this new world."
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Dog Fighting Breeder"
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Dog Fighting Breeder"
+msgstr ""
+
+#. ~ Profession (male Dog Fighting Breeder) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You never cared for anything until you got caught up in a dog fighting ring."
+"  You weren't really any good, but now there's no one else to be better than"
+" you.  Time to train some dogs to take down the newly undead!"
+msgstr ""
+
+#. ~ Profession (female Dog Fighting Breeder) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You never cared for anything until you got caught up in a dog fighting ring."
+"  You weren't really any good, but now there's no one else to be better than"
+" you.  Time to train some dogs to take down the newly undead!"
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Professional Canine Handler"
+msgstr ""
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Professional Canine Handler"
+msgstr ""
+
+#. ~ Profession (male Professional Canine Handler) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been teaching dogs for all manner of things: movies, obedience, "
+"tricks, and sometimes fighting.  With all your experience and money, you're "
+"ready to take on the next step: the apocalypse!"
+msgstr ""
+
+#. ~ Profession (female Professional Canine Handler) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been teaching dogs for all manner of things: movies, obedience, "
+"tricks, and sometimes fighting.  With all your experience and money, you're "
+"ready to take on the next step: the apocalypse!"
+msgstr ""
+
+#: .\modinfo.json
+msgid "Draco's Dog Mod"
+msgstr ""
+
+#. ~ Description for Draco's Dog Mod
+#: .\modinfo.json
+msgid ""
+"Adds dog crates with trainable dogs to animal shelters that can be trained "
+"into attack dogs (stat boosts). Adds dog pet professions."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated labrador mutt"
+msgid_plural "crated labrador mutts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'crated labrador mutt'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack labrador'}.
+#. ~ Use action friendly_msg for {'str': 'crated bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'crated cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'crated pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'crated beagle'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack beagle'}.
+#. ~ Use action friendly_msg for {'str': 'crated border collie'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack border collie'}.
+#. ~ Use action friendly_msg for {'str': 'crated boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'crated chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'crated dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'crated german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'crated great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'crated rottweiler'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack rottweiler'}.
+#: .\items\dog_items_crate.json
+msgid "You release the dog from its crate."
+msgstr ""
+
+#. ~ Description for {'str': 'crated labrador mutt'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Labrador Retriever in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack labrador"
+msgid_plural "crated attack labradors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack labrador'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Labrador Retriever in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated bulldog"
+msgid_plural "crated bulldogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated bulldog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An American Bulldog in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack bulldog"
+msgid_plural "crated attack bulldogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack bulldog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack American Bulldog in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated cattle dog"
+msgid_plural "crated cattle dogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated cattle dog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An Australian Cattle Dog in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack cattle dog"
+msgid_plural "crated attack cattle dogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack cattle dog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Australian Cattle Dog in a crate.  You can release it from the "
+"crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated pit bull mix"
+msgid_plural "crated pit bull mixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated pit bull mix'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Pit Bull mix in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack pit bull mix"
+msgid_plural "crated attack pit bull mixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack pit bull mix'}
+#: .\items\dog_items_crate.json
+msgid "An attack Pit Bull mix in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated beagle"
+msgid_plural "crated beagles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated beagle'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Beagle in a crate.  You can train it as an attack dog or release it from "
+"the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack beagle"
+msgid_plural "crated attack beagles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack beagle'}
+#: .\items\dog_items_crate.json
+msgid "An attack Beagle in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated border collie"
+msgid_plural "crated border collies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated border collie'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Border Collie in a crate.  You can train it as an attack dog or release it"
+" from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack border collie"
+msgid_plural "crated attack border collies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack border collie'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Border Collie in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated boxer mastiff"
+msgid_plural "crated boxer mastiffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated boxer mastiff'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Boxer Mastiff in a crate.  You can train it as an attack dog or release it"
+" from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack boxer mastiff"
+msgid_plural "crated attack boxer mastiffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack boxer mastiff'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Boxer Mastiff in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated chihuahua"
+msgid_plural "crated chihuahuas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated chihuahua'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Chihuahua in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack chihuahua"
+msgid_plural "crated attack chihuahuas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack chihuahua'}
+#: .\items\dog_items_crate.json
+msgid "An attack Chihuahua in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated dachshund"
+msgid_plural "crated dachshunds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated dachshund'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Dachshund in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack dachshund"
+msgid_plural "crated attack dachshunds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack dachshund'}
+#: .\items\dog_items_crate.json
+msgid "An attack Dachshund in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated german shepherd"
+msgid_plural "crated german shepherds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated german shepherd'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A German Shepherd in a crate.  You can train it as an attack dog or release "
+"it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack german shepherd"
+msgid_plural "crated attack german shepherds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack german shepherd'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack German Shepherd in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated great pyrenees"
+msgid_plural "crated great pyreneess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated great pyrenees'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Great Pyrenees in a crate.  You can train it as an attack dog or release "
+"it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack great pyrenees"
+msgid_plural "crated attack great pyreneess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack great pyrenees'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Great Pyrenees in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated rottweiler"
+msgid_plural "crated rottweilers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated rottweiler'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Rottweiler in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr ""
+
+#: .\items\dog_items_crate.json
+msgid "crated attack rottweiler"
+msgid_plural "crated attack rottweilers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'crated attack rottweiler'}
+#: .\items\dog_items_crate.json
+msgid "An attack Rottweiler in a crate.  You can release it from the crate."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train labrador"
+msgid_plural "train labradors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'train labrador'}.
+#. ~ Use action friendly_msg for {'str': 'train bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'train cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'train pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'train beagle'}.
+#. ~ Use action friendly_msg for {'str': 'train border collie'}.
+#. ~ Use action friendly_msg for {'str': 'train boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'train chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'train dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'train german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'train great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'train rottweiler'}.
+#: .\items\dog_items_train.json
+msgid "You finish training the dog and reward it with a treat."
+msgstr ""
+
+#. ~ Description for {'str': 'train labrador'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Labrador as an attack dog.  Activate "
+"to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train bulldog"
+msgid_plural "train bulldogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train bulldog'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this American Bulldog as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train cattle dog"
+msgid_plural "train cattle dogs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train cattle dog'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Australian Cattle Dog as an attack "
+"dog.  Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train pit bull mix"
+msgid_plural "train pit bull mixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train pit bull mix'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Pit Bull mix as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train beagle"
+msgid_plural "train beagles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train beagle'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Beagle as an attack dog.  Activate to"
+" reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train border collie"
+msgid_plural "train border collies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train border collie'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Border Collie as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train boxer mastiff"
+msgid_plural "train boxer mastiffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train boxer mastiff'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Boxer Mastiff as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train chihuahua"
+msgid_plural "train chihuahuas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train chihuahua'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Chihuahua as an attack dog.  Activate"
+" to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train dachshund"
+msgid_plural "train dachshunds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train dachshund'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Dachshund as an attack dog.  Activate"
+" to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train german shepherd"
+msgid_plural "train german shepherds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train german shepherd'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this German Shepherd as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train great pyrenees"
+msgid_plural "train great pyreneess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train great pyrenees'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Great Pyrenees as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\dog_items_train.json
+msgid "train rottweiler"
+msgid_plural "train rottweilers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'train rottweiler'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Rottweiler as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "Kevlar-lined small quadruped peto"
+msgid_plural "Kevlar-lined small quadruped petos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Kevlar-lined small quadruped peto'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A heavy mattress-like armor of cloth, leather and thick linings of Kevlar, "
+"originally used as protection in bullfighting. Nowadays usually worn by "
+"canines in the service of local law enforcement, that protects from "
+"shoulders to abdomen.  You could put this on a friendly small quadruped "
+"including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "biosilicified chitin small quadruped armor"
+msgid_plural "biosilicified chitin small quadruped armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'biosilicified chitin small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A makeshift assembly of criniere, peytral and croupiere made from "
+"biosilicified chitin fitted to a thin mesh. Can be used for protecting the "
+"neck to flank of canines.  You could put this on a friendly small quadruped "
+"including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "chitin small quadruped armor"
+msgid_plural "chitin small quadruped armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chitin small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A makeshift assembly of criniere, peytral and croupiere made from chitin "
+"fitted to a thin mesh. Can be used for protecting the neck to flank of "
+"canines.  You could put this on a friendly small quadruped including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "chainmail small quadruped armor"
+msgid_plural "chainmail small quadruped armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chainmail small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"Protecteth yon hund fram ful daemons!  You could put this on a friendly "
+"small quadruped including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "boiled leather small quadruped barding with caprison"
+msgid_plural "boiled leather small quadruped bardings with caprison"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'boiled leather small quadruped barding with
+#. caprison', 'str_pl': 'boiled leather small quadruped bardings with
+#. caprison'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A full barding fofr small quadrupeds including dogs consisting of boiled "
+"leather and cloth undercovering. This caparison is depicting a battle "
+"between a monstrous dragon and regal griffin. Can be attached to a canine "
+"for protection.  You could put this on a friendly small quadruped including "
+"a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "boiled leather small quadruped barding with bones"
+msgid_plural "boiled leather small quadruped bardings with bones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'boiled leather small quadruped barding with
+#. bones', 'str_pl': 'boiled leather small quadruped bardings with bones'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"Decorative bones affixed to leather small quadruped barding to invoke fear "
+"in bandits and raiders and traders all!  You could put this on a friendly "
+"small quadruped including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "small quadruped rubber rainsuit"
+msgid_plural "small quadruped rubber rainsuits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'small quadruped rubber rainsuit'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A thin plastic covering adapted for small quadrupeds including dogs to "
+"protect from acid rain and other caustic sources.  You could put this on a "
+"friendly small quadruped including a dog."
+msgstr ""
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "superalloy tactical small quadruped armor"
+msgid_plural "superalloy tactical small quadruped armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superalloy tactical small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A thin mesh interwoven with superalloy plates and pouches for military "
+"working small quadrupeds including dogs that covers from the dewlap to the "
+"croup, down to the elbows.  You could put this on a friendly small quadruped"
+" including a dog."
+msgstr ""
+
+#. ~ Crafting recipes category name
+#: .\recipes\dog_recipes.json
+msgid "ANIMALS"
+msgstr ""
+
+#. ~ Crafting recipes subcategory all
+#: .\recipes\dog_recipes.json
+msgid "ALL"
+msgstr ""
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "CANINE ARMOR"
+msgstr ""
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "CANINE TRAINING"
+msgstr ""
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "EQUINE ARMOR"
+msgstr ""
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "EQUINE STORAGE"
+msgstr ""
+
+#: .\vehicles\dg_vehicles.json
+msgid "Animal Control Truck"
+msgstr ""

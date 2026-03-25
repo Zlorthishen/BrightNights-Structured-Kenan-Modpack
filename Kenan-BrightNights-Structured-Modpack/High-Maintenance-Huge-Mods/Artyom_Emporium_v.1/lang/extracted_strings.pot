@@ -1,0 +1,2224 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Arts' Guns\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\art_ammo.json .\art_ammo_types.json
+msgid ".380"
+msgid_plural ".380"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.380', 'str_pl': '.380'}
+#: .\art_ammo.json
+msgid ""
+"The .380 round is a compact pistol round. Only used in compact pistols or "
+"zip guns."
+msgstr ""
+
+#: .\art_ammo.json
+msgid ".380 casing"
+msgid_plural ".380 casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.380 casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a .380 round."
+msgstr ""
+
+#: .\art_ammo.json
+msgid ".303 British"
+msgid_plural ".303 Britishs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.303 British'}
+#: .\art_ammo.json
+msgid ""
+".303 British was commonly used before the introduction and standardization "
+"of NATO-bloc ammunition. It is roughly similar to 7.62x51mm in terms of "
+"ballistics, but is rimmed."
+msgstr ""
+
+#: .\art_ammo.json
+msgid ".303 casing"
+msgid_plural ".303 casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.303 casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a .303 round."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "reloaded .303 British"
+msgid_plural "reloaded .303 Britishs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_ammo.json
+msgid "Match 7.62x51mm"
+msgid_plural "Match 7.62x51mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_ammo.json
+msgid "7.62x54mmR API/Explosive"
+msgid_plural "7.62x54mmR API/Explosives"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x54mmR API/Explosive'}
+#: .\art_ammo.json
+msgid ""
+"Originally used by Soviet Anti-Air weapons, then used by snipers to blow "
+"apart fascist light armour. Now used by you. Careful using it too close to "
+"yourself. "
+msgstr ""
+
+#: .\art_ammo.json
+msgid ".460 Rowland"
+msgid_plural ".460 Rowland"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.460 Rowland', 'str_pl': '.460 Rowland'}
+#: .\art_ammo.json
+msgid ""
+"The .460 Rowland is a modified version of the .45 round used in pistols like"
+" the M1911. The .460 is an evolutionary step as it has more power and faster"
+" velocity then the .45 making it one of the most powerful semi-automatic "
+"pistol round in the world."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "reloaded .460 Rowland"
+msgid_plural "reloaded .460 Rowland"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_ammo.json
+msgid "8mm Mauser"
+msgid_plural "8mm Mausers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8mm Mauser'}
+#: .\art_ammo.json
+msgid ""
+"Introduced in its current form in 1903, the 8mm Mauser is one of the most "
+"famous and prolific cartridges of all time. Its users stretched from China "
+"to Chile, and is still used today."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "8mm Mauser casing"
+msgid_plural "8mm Mauser casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8mm Mauser casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a 8mm Mauser round."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "reloaded 8mm Mauser"
+msgid_plural "reloaded 8mm Mausers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_ammo.json
+msgid "Match .303"
+msgid_plural "Match .303s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_ammo.json
+msgid ".50BMG - Explosive"
+msgid_plural ".50BMG - Explosives"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.50BMG - Explosive'}
+#: .\art_ammo.json
+msgid ""
+"Easily capable of blowing apart light targets, this ammo is used as anti-"
+"materiel ammunition the world over."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "Match 5.56 NATO"
+msgid_plural "Match 5.56 NATOs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Match 5.56 NATO'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 5.56 NATO cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "Match .30-06"
+msgid_plural "Match .30-06s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Match .30-06'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded .30-06 cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "Match 7.62x39mm"
+msgid_plural "Match 7.62x39mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Match 7.62x39mm'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 7.62x39mm cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive. Based on the M87 loading."
+msgstr ""
+
+#: .\art_ammo.json
+msgid ".22 Zimmerpatronen"
+msgid_plural ".22 Zimmerpatronens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 Zimmerpatronen'}
+#: .\art_ammo.json
+msgid ""
+"A very quiet, very lightweight .22LR round meant for indoors practice "
+"without ear protection. The gun is louder than the ammunition. Handmade in "
+"the US of A."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "Match 5.45x39"
+msgid_plural "Match 5.45x39s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Match 5.45x39'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 5.45x39 cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr ""
+
+#: .\art_ammo.json
+msgid "Match 8mm Mauser"
+msgid_plural "Match 8mm Mausers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Match 8mm Mauser'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 8mm Mauser cartridge. Loaded for accuracy and damage, very well"
+" made - but quite expensive."
+msgstr ""
+
+#: .\art_ammo_types.json
+msgid ".460"
+msgstr ""
+
+#: .\art_ammo_types.json
+msgid ".303"
+msgstr ""
+
+#: .\art_ammo_types.json
+msgid "7.92mm"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "10 Round 7.62x51mm Magazine"
+msgid_plural "10 Round 7.62x51mm Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '10 Round 7.62x51mm Magazine'}
+#: .\art_magazines.json
+msgid "A 10 round 7.62x51mm magazine for use in sniper rifles"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "20 Round 7.62x51mm Magazine"
+msgid_plural "20 Round 7.62x51mm Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '20 Round 7.62x51mm Magazine'}
+#: .\art_magazines.json
+msgid "A 20 round 7.62x51mm magazine for use in sniper rifles"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "10 Round 7.62x54R Magazine"
+msgid_plural "10 Round 7.62x54R Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '10 Round 7.62x54R Magazine'}
+#: .\art_magazines.json
+msgid "A 10 round 7.62x54R magazine for use in Russian sniper rifles"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "20 Round 7.62x54R Magazine"
+msgid_plural "20 Round 7.62x54R Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '20 Round 7.62x54R Magazine'}
+#: .\art_magazines.json
+msgid ""
+"An extended 20 round 7.62x54R magazine for use in Russian sniper rifles"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "40 S&W Magazine"
+msgid_plural "40 S&W Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '40 S&W Magazine'}
+#: .\art_magazines.json
+msgid "A single-stack 40 S&W Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "9x19 7 Round Magazine"
+msgid_plural "9x19 7 Round Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19 7 Round Magazine'}
+#: .\art_magazines.json
+msgid "A single-stack 9x19 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "9x4 Storm Magazine"
+msgid_plural "9x4 Storm Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x4 Storm Magazine'}
+#: .\art_magazines.json
+msgid "A compact light-weight polymer magazine."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Sig P220 magazine"
+msgid_plural "Sig P220 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sig P220 magazine'}
+#: .\art_magazines.json
+msgid "A military issue 8-round magazine for use with the Sig P220 handgun."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Sig P227 magazine"
+msgid_plural "Sig P227 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sig P227 magazine'}
+#: .\art_magazines.json
+msgid "A military issue 15-round magazine for use with the Sig P227 handgun."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Sig P226 magazine"
+msgid_plural "Sig P226 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sig P226 magazine'}
+#: .\art_magazines.json
+msgid ""
+"A compact light-weight polymer magazine for use with Sig P226 compatible "
+"firearms."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "FN FNP-9 magazine"
+msgid_plural "FN FNP-9 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'FN FNP-9 magazine'}
+#: .\art_magazines.json
+msgid "A compact light-weight polymer magazine for use with the FNP-9"
+msgstr ""
+
+#: .\art_magazines.json
+msgid ".45 ACP Stripper Clip"
+msgid_plural ".45 ACP Stripper Clips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.45 ACP Stripper Clip'}
+#: .\art_magazines.json
+msgid "A small stripper clip for .45 ACP"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "9x19 Stripper Clip"
+msgid_plural "9x19 Stripper Clips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19 Stripper Clip'}
+#: .\art_magazines.json
+msgid "A small stripper clip for 9x19"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "P08 magazine"
+msgid_plural "P08 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'P08 magazine'}
+#: .\art_magazines.json
+msgid "A wooden P08 Magazine used with the .45 round"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "CZ 52 Magazine"
+msgid_plural "CZ 52 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CZ 52 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 52 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "CZ 75 Magazine"
+msgid_plural "CZ 75 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CZ 75 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 75 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Jericho 941 Magazine"
+msgid_plural "Jericho 941 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Jericho 941 Magazine'}
+#: .\art_magazines.json
+msgid "A metal Jericho 941 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Automag Magazine"
+msgid_plural "Automag Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Automag Magazine'}
+#: .\art_magazines.json
+msgid "A metal magazine for the worst gun in existence."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "CZ 83 Magazine"
+msgid_plural "CZ 83 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CZ 83 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 83 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Fort 12 Magazine"
+msgid_plural "Fort 12 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fort 12 Magazine'}
+#: .\art_magazines.json
+msgid "A metal Fort 12 Magazine"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Tec 22 magazine"
+msgid_plural "Tec 22 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tec 22 magazine'}
+#: .\art_magazines.json
+msgid "A 30 round box magazine for use with the Tec 22 SMG"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Tec 22 drum magazine"
+msgid_plural "Tec 22 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tec 22 drum magazine'}
+#: .\art_magazines.json
+msgid "A 100 round drum magazine for use with the Tec 22 SMG"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Bizon drum magazine"
+msgid_plural "Bizon drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bizon drum magazine'}
+#: .\art_magazines.json
+msgid "A unique giant drum... thing meant for the Bizon SMG"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "KP m/44 Magazine"
+msgid_plural "KP m/44 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'KP m/44 Magazine'}
+#: .\art_magazines.json
+msgid "A stick made out of metal meant for 9mm PPSH clones"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "5.56x45mm AK short magazine"
+msgid_plural "5.56x45mm AK short magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm AK short magazine'}
+#: .\art_magazines.json
+msgid "A compact 10-round magazine meant for AK profile rifles."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "AK Standard magazine"
+msgid_plural "AK Standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AK Standard magazine'}
+#: .\art_magazines.json
+msgid "A standard capacity magazine for use with AK-Blank compatible rifles."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "AK Standard drum magazine"
+msgid_plural "AK Standard drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AK Standard drum magazine'}
+#: .\art_magazines.json
+msgid ""
+"A 50-round magazine with a bulky green drum for use with AK-Blank compatible"
+" rifles."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "30-06 magazine"
+msgid_plural "30-06 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '30-06 magazine'}
+#: .\art_magazines.json
+msgid ""
+"A standard capacity magazine for use with 30-06 assault weapons during WWII "
+"and Beyond!"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "AA-12 box magazine"
+msgid_plural "AA-12 box magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AA-12 box magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the AA-12 shotgun.  Holds 10 rounds"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "AA-12 drum magazine"
+msgid_plural "AA-12 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AA-12 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the AA-12 shotgun.  Holds 30 rounds"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "USAS-12 drum magazine"
+msgid_plural "USAS-12 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'USAS-12 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the USAS-12 shotgun.  Holds 30 rounds"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Franchi Spas 15 box magazine"
+msgid_plural "Franchi Spas 15 box magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Franchi Spas 15 box magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the Spas 15 shotgun.  Holds 10 rounds"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "Franchi Spas 15 drum magazine"
+msgid_plural "Franchi Spas 15 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Franchi Spas 15 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the Spas 15 shotgun.  Holds 30 rounds"
+msgstr ""
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (762R)"
+msgid_plural "ammo belt linkage (762R)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (22lr)"
+msgid_plural "ammo belt linkage (22lr)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (.45)"
+msgid_plural "ammo belt linkage (.45)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid "7.62x54R ammo belt"
+msgid_plural "7.62x54R ammo belts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid ".45ACP ammo belt"
+msgid_plural ".45ACP ammo belts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid ".22LR ammo belt"
+msgid_plural ".22LR ammo belts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_magazines.json
+msgid "30-06 plate magazine"
+msgid_plural "30-06 plate magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '30-06 plate magazine'}
+#: .\art_magazines.json
+msgid "A massive plate of bullets for your Lewis Gun."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "7.62x54R Russian plate magazine"
+msgid_plural "7.62x54R Russian plate magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x54R Russian plate magazine'}
+#: .\art_magazines.json
+msgid "A massive plate of bullets for your DP Gun."
+msgstr ""
+
+#: .\art_magazines.json
+msgid "M1911A1 .460 Rowland magazine"
+msgid_plural "M1911A1 .460 Rowland magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'M1911A1 .460 Rowland magazine'}
+#: .\art_magazines.json
+msgid ""
+"A custom 7-round magazine for use with the M1911A1 .460 Conversion handgun."
+msgstr ""
+
+#. ~ Description for {'str': 'M1911A1 .460 Rowland magazine'}
+#: .\art_magazines.json
+msgid ""
+"A custom 10-round magazine for use with the M1911A1 .460 Conversion handgun."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Rebel's Suppressor"
+msgid_plural "Rebel's Suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"This modified suppressor allows for gas to escape, while reducing sound to a"
+" minimal. You don't know but the suppressor might be magic. After all, who "
+"could have made this with only a toolbox and good-will?"
+msgstr ""
+
+#: .\art_mods.json
+msgid "muzzle"
+msgstr ""
+
+#: .\art_mods.json
+msgid "EOTech EXPS3-4 Holographic Hybrid Sight"
+msgid_plural "EOTech EXPS3-4 Holographic Hybrid Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A hybrid sight meant for long range and short range engagements."
+msgstr ""
+
+#: .\art_mods.json
+msgid "sights"
+msgstr ""
+
+#: .\art_mods.json
+msgid "EOTech EXP-729 SSS"
+msgid_plural "EOTech EXP-729 SSSs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"The EXP-729 SSS is a short sighted scope meant for small close range "
+"engagements."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Trijicon Iluminator Sight"
+msgid_plural "Trijicon Iluminator Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"The Iluminator is close range/barrel to barrel fights meant for SMGs and "
+"shotguns."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Trijicon 1x24 Sight"
+msgid_plural "Trijicon 1x24 Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A medium range reflex sight that allows for quick target changes."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Sightmark Mini-Shot Reflex Sight"
+msgid_plural "Sightmark Mini-Shot Reflex Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A super small sight that will really only fit on small weapons."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Trijicon 1x42 Sight"
+msgid_plural "Trijicon 1x42 Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A long range reflex sight that allows for quick target changes."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Ultra Duel Shot Pro Night Vision Sight."
+msgid_plural "Ultra Duel Shot Pro Night Vision Sight.s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A short range glowing sight that allows for increased viability at night."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Laser Duel Shot Reflex Sight"
+msgid_plural "Laser Duel Shot Reflex Sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A reflex sight that has a built-in laser sight."
+msgstr ""
+
+#: .\art_mods.json
+msgid "ACOG 4x32mm Rifle Scope"
+msgid_plural "ACOG 4x32mm Rifle Scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A long/medium scope used by everything... Well, nearly."
+msgstr ""
+
+#: .\art_mods.json
+msgid "VX-3 Rifle Scope"
+msgid_plural "VX-3 Rifle Scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A long range scope used by hunting rifles."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Spectre DR Duel Role Sights"
+msgid_plural "Spectre DR Duel Role Sightss"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A cool as hell ACOG-like sight used by NATO countries."
+msgstr ""
+
+#: .\art_mods.json
+msgid "P-223 Rifle Scope"
+msgid_plural "P-223 Rifle Scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A short range scope used by hunting rifles."
+msgstr ""
+
+#: .\art_mods.json
+msgid "V-XR Patrol Rifle Scope"
+msgid_plural "V-XR Patrol Rifle Scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A medium range scope used by hunting rifles."
+msgstr ""
+
+#: .\art_mods.json
+msgid ".460 Rowland caliber conversion kit"
+msgid_plural ".460 Rowland caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A conversion kit for the M1911 pistol to allow it the ability to fire the "
+".460 Rowland pistol caliber. Don't forget the muzzle break!"
+msgstr ""
+
+#: .\art_mods.json
+msgid "bore"
+msgstr ""
+
+#: .\art_mods.json
+msgid ".460 Rowland muzzle brake"
+msgid_plural ".460 Rowland muzzle brakes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A muzzle break meant specifically for the M1911 conversion. Found in all "
+".460 Rowland conversion kits at your local Artyoms' Gun Emporium."
+msgstr ""
+
+#: .\art_mods.json
+msgid "Artyom's Custom .460 Rowland Conversion Kit"
+msgid_plural "Artyom's Custom .460 Rowland Conversion Kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Artyom's Custom .460 Rowland Conversion Kit",
+#. 'str_pl': "Artyom's Custom .460 Rowland Conversion Kits"}
+#: .\art_mods.json
+msgid ""
+"A conversion kit for the M1911 to make it shoot .460 Rowland. Dissemble it "
+"to get the stuff you need!"
+msgstr ""
+
+#: .\art_mods.json
+msgid "GP-25"
+msgid_plural "GP-25"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the GP-25 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203."
+msgstr ""
+
+#: .\art_mods.json
+msgid "rail"
+msgstr ""
+
+#: .\art_mods.json
+msgid "GP-30"
+msgid_plural "GP-30"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the GP-30 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203. A more accurate version of the GP-25"
+msgstr ""
+
+#: .\art_mods.json
+msgid "BG-15"
+msgid_plural "BG-15"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the BG-15 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203. The first of the Russian launchers."
+msgstr ""
+
+#: .\art_mods.json
+msgid "space gun shot"
+msgid_plural "space gun shots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid "A modification meant for the space gun."
+msgstr ""
+
+#: .\art_mods.json
+msgid "underbarrel"
+msgstr ""
+
+#: .\art_mods.json
+msgid "Grunt's Big Boys"
+msgid_plural "Grunt's Big Boys"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"This peculiar set-up of two M203 launchers duck-taped to the sides of the "
+"Grunt makes it look ridiculous. But in practice, the soldier who made this "
+"becomes a one-man mortar team. Slinging massive explosive rounds down range "
+"onto unsuspecting zombies and whatnot. A genius of a modification"
+msgstr ""
+
+#: .\art_mods.json
+msgid "Pedersen Device Kit"
+msgid_plural "Pedersen Device Kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"Replacing several key parts of a .30-06, 7.62x51mm, 7.62x54R, .303, or "
+"7.62x39mm  firearm converting it into a shorter range, semi-automatic "
+"carbine. Much more accurate and controllable than the original rifle, it was"
+" supposed to be the Wonder Weapon of WWI for the Allies... in 1919. The "
+"originals are incredibly rare, however this reproduction includes the kit, "
+"chambered in .32 ACP and ready for use in seconds with all major WWI "
+"weapons. Score!"
+msgstr ""
+
+#: .\art_mods.json
+msgid "8mm Mauser caliber conversion kit"
+msgid_plural "8mm Mauser caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_mods.json
+msgid ""
+"This kit is used to convert a shotgun or 7.62x39mm, .303, 7.62x54R, "
+"7.62x51mm, or .30-06 rifle to the famous and powerful 7.62x51mm caliber.  "
+"The conversion results in reduced ammo capacity and a slight reduction to "
+"accuracy."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Browning Hi-Power"
+msgid_plural "Browning Hi-Power"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A old but still relatively powerful and reliable semi-auto pistol from "
+"Belgium. Rechambered to fire the ever so powerful 10mm round."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Remington R51-Subcompact"
+msgid_plural "Remington R51-Subcompact"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A subcompact pistol made by Remington. Features a extremely light build and "
+"easy trigger pull. The perfect drop weapon."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Rebel"
+msgid_plural "Rebel"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A modified Browning HP pistol showing a lot of wear-n-tear. But don't let "
+"that fool you, the weapon is accurate, powerful, and near silent thanks to "
+"it's unique sound suppressor. The weapon has the phrase Fight the Power! "
+"scratched in by a knife on the right side of the slide. It was most likely "
+"made during the first few riots in the beginning of the Cataclysm."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Beretta Px4 Storm Subcompact"
+msgid_plural "Beretta Px4 Storm Subcompact"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A small, compact pistol made by Beretta. Light and agile, its use is more "
+"than just a pistol; it's a life saver."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SIG P224"
+msgid_plural "SIG P224"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A very small, pocket pistol made by Sig Sauer for when you need to put a gun"
+" in your back pocket just in case. The perfect weapon to put it on the "
+"temple of a zombie and blow it's brains all over the wall. Great fun!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SIG P220"
+msgid_plural "SIG P220"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The first pistol made by Sig Sauer, quoted to be the most accurate pistol "
+"right out of the box. Well it does say that, and it sure does show."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SIG P227"
+msgid_plural "SIG P227"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A slim, .45 ACP pistol made by SIG. Exceptional and robust, the P227 might "
+"just be the perfect .45"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SIG P220 Scorpion"
+msgid_plural "SIG P220 Scorpion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A special edition of the SIG P220, custom grips, custom finish, custom "
+"everything. All in a nice desert paint job. Even comes with a threaded "
+"barrel!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SIG P226"
+msgid_plural "SIG P226"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. It's used by police "
+"forces all around the world. Though it didn't help them when the cataclysm "
+"struck... But hey, they were probably all stupid. You're not stupid, are "
+"you?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FN FNP-9"
+msgid_plural "FN FNP-9"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. Made by the guys who "
+"created the FN Five-Seven. This underestimated little pistol packs one hell "
+"of a punch. This being from Belgium; I'm not surprised it's good in a bar "
+"fight."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FN FNX-9"
+msgid_plural "FN FNX-9"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. Made by the guys who "
+"created the FN Five-Seven. This underestimated little pistol packs one hell "
+"of a punch. This being from Belgium; I'm not surprised it's good in a bar "
+"fight. And this one has an X in the title so you just know it's supper edgy!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Swiss P210"
+msgid_plural "Swiss P210"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A old, but very reliable side arm made by the soon-to-be SIG. Robust, "
+"accurate, and extremely rare. This pistol sure got some fire to it. "
+"Hopefully these zombies don't put out that fire huh?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M1911A1"
+msgid_plural "M1911A1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The M1911A1 was the updated version of the 1911 from 1924. This is the "
+"version of the pistol that ran through WWII to Desert Storm, and is still in"
+" use today."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Shanxi Type 17"
+msgid_plural "Shanxi Type 17"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A .45 ACP version of the Mauser C96 produced in China. Features a short "
+"action and plenty of firepower. You should know this gun from Metal Gear "
+"Solid 3. If you don't... What is wrong with you?!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "semi auto"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "burst"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M1916 Prussian Red 9"
+msgid_plural "M19116 Prussian Red 9"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The 9mm variant of the Mauser C96. Over 150,000 were made to outpace the "
+"Luger. A large number 9 is burned into the broomhandle in red, a distinct "
+"look. "
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Luger PO8"
+msgid_plural "Luger PO8"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Luger PO8 is a semi-automatic 9mm shooting handgun used by the German "
+"Empire and by Nazis around the globe. Actually, this one is in .45..."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "CZ 52"
+msgid_plural "CZ 52"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Czechoslovakian military pistol in 1952 gained great popularity when it "
+"first rolled off the production line. Supporting great accuracy and bullet "
+"penetration thanks to the 7.62x25 round that it was chambered in. Not the "
+"most reliable though."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "CZ 75"
+msgid_plural "CZ 75"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Czechoslovakian semi-auto military pistol introduced in 1975 and became "
+"one of the original 'wonder nines', fairly accurate and with a common ammo "
+"type. Makes this weapon a good addition to any gun nut's arsenal."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "IWI Jericho 941"
+msgid_plural "IWI Jericho 941"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Israeli defence weapon marketed in the US and parts of the UK as the Baby "
+"Eagle. It's not a desert eagle by any means. But kinda looks like it."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Automag"
+msgid_plural "Automag"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A not-so-beloved .44 caliber semi-auto pistol. Known for it breaking and "
+"exploding in the users hand instead of being an actual gun. Still packs a "
+"punch though... When it works."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "CZ 83"
+msgid_plural "CZ 83"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Czechoslovakian semi-auto civilian pistol introduced in 1983 to replace "
+"the CZ 52. Very accurate and reliable thanks to its chrome plated barrel and"
+" well built frame."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Fort 12"
+msgid_plural "Fort 12"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Ukrainian designed and produced pistol firing the ever so popular 9x18mm "
+"round. Small for its use as a police pistol, the Fort 12 boasts great "
+"Ukrainian reliability and good accuracy for stalken your STALKER."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Glock 34"
+msgid_plural "Glock 34"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Competition version of the Glock 19. Much more accurate and slightly lighter"
+" thinks to its weird muzzle drifting system to negate muzzle rise while also"
+" decreasing weight in the front end of the gun. An amazing pistol; but sadly"
+" not many upgrades available."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Glock 18"
+msgid_plural "Glock 18"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A fully automatic variant of the Glock 17. The Glock 18 features are exactly"
+" the same compared to the Glock 17."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "auto"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Glock 18c"
+msgid_plural "Glock 18c"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Glock 18c is a compensated variant of the Glock 18. The compensation "
+"allows for better control of recoil."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "TEC-22"
+msgid_plural "TEC-22"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The more modern TEC-9 but fires the more easily found .22, still made using "
+"stamped metal but now is also made with plastic! So its lighter."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Bizon"
+msgid_plural "Bizon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Russian grade military SMG with a unique large capacity magazine. Used by "
+"Russian special forces for CQB and tight environments. The Bizon is "
+"accurate, and has excellent armour piercing capabilities."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Beretta Model 38"
+msgid_plural "Beretta Model 38"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Widely acknowledged as the best weapon to come out of Italy during WWII, its"
+" simple design and ability to fire German 9mm ammo made it very easy to "
+"produce."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Beretta Model 32/38"
+msgid_plural "Beretta Model 32/38"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Widely acknowledged as the best weapon to come out of Italy during WWII, its"
+" simple design and ability to fire German 9mm ammo made it very easy to "
+"produce. The 32/38 is the updated version of the 38."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Scorpion Evo 3 S1"
+msgid_plural "Scorpion Evo 3 S1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The latest in line for the Scorpion sub-machine guns started by the Skorpion"
+" vz 61, its large amount of rails and ability to be modified is one of the "
+"reasons this is a good SMG, the other? It looks fucking cool that's why."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Homemade SMG"
+msgid_plural "Homemade SMG"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A homemade sub machine gun clearly made in someone's garage with clearly "
+"some knowledge in gun designs. While not very accurate, and has high recoil."
+" It fires a powerful round... 5.56"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "KP m/44"
+msgid_plural "KP m/44"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Finish made clone of the very popular PPSh-43, while it does have some of "
+"the same design, it still wasn't as good as the original."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AK-101"
+msgid_plural "AK-101"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A AK designed to fire 5.56x45mm NATO. One of the many AK-blanks that are "
+"coming out. Good accuracy though."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AK-102"
+msgid_plural "AK-102"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"An AK designed to fire 5.56x45mm NATO. One of the many AK-blanks that are "
+"coming out. Good accuracy though. Lighter and less volume than the AK-101"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AK-104"
+msgid_plural "AK-104"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A plastic version of the beloved AKM, still performs the same though. The "
+"AK-104 is the shortened version of the AK-103"
+msgstr ""
+
+#: .\art_weapons.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AKS-74"
+msgid_plural "AKS-74"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The paratrooper version of the AK-74, used by special Russian forces and "
+"stalkers around the zone. Comes with a collapse-able stock"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AKS-74u"
+msgid_plural "AKS-74u"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The even more paratrooper version of the AKS-74, used by special Russian "
+"forces and stalkers around the zone. Comes with a collapse-able stock and "
+"tons of recoil!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AK-12"
+msgid_plural "AK-12"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The newest AK in the line, just a baby compared to what all the other ones "
+"have gone through. This one decides to embrace western culture and has the "
+"ability to shoot 5.56 NATO"
+msgstr ""
+
+#: .\art_weapons.json
+msgid ""
+"The newest AK in the line, just a baby compared to what all the other ones "
+"have gone through. This one said fuck America and NATO and stuck with the "
+"5.45x39"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "CZ 805 BREN"
+msgid_plural "CZ 805 BREN"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The replacement of the vz 58, the CZ 805 surpasses any qualification of a "
+"good gun, it's an amazing gun. One of the best."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "EM-2 Janson"
+msgid_plural "EM-2 Janson"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A experimental bullpup designed combat rifle. It was adopted by the UK in "
+"1951, but very quickly was dropped, not because it was bad. But because the "
+"UK was tying ties with NATO. This one shoots the powerful 30-06"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "MSBS Radon"
+msgid_plural "MSBS Radon"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The standard rifle used by the Poland Military in 2031, There are two "
+"versions of this rifle. This one is the Normal version, which looks a lot "
+"like the ACR and performs like it as well... Huh"
+msgstr ""
+
+#: .\art_weapons.json
+msgid ""
+"The standard rifle used by the Poland Military in 2031, There are two "
+"versions of this rifle. This one is the bullpup version, which is like a PDW"
+" but a hell of a lot more scary."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AAC Honey Badger"
+msgid_plural "AAC Honey Badger"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The AAC Honey Badger is the premier PDW in the modern world. Short, sleek, "
+"and silent as hell. The AAC uses the .300 AC Blackout bullet to achieve sub-"
+"sonic velocity and super-sonic velocity with just a change of the magazine."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Grunt"
+msgid_plural "Grunt"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A modified SCAR L made by some unknown soldier. It has been painted a leaf "
+"camouflage and features a longer barrel then the base SCAR L, dog tags whose"
+" name has long sense faded away are wrapped around the front end of the gun."
+" And magazines jungle taped together clasp to the magazine well. But what "
+"makes this weapon stand out is its two M203 Big boys. Two M203 launchers are"
+" fashioned to the sides of the SCAR. With a activator switch for each one "
+"taped to the magazine well. An amazing gun, unique to the Cataclysm."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Steyr Scout"
+msgid_plural "Steyr Scouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Steyr scout is a long range, compact siper rifle meant for scouting "
+"teams. It fires the powerful 7.62x51mm round and packs one hell of a punch"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Accuracy International AX308"
+msgid_plural "Accuracy International AX308s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Accuracy International AX308 is a state of the art sniper rifle used by "
+"modern sniper teams from around the globe. It's amazing capabilities for "
+"taking out enemies from afar is only offset by the fact that it's rare and "
+"not many were made."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Accuracy International L96A1"
+msgid_plural "Accuracy International L96A1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The L96A1 is a British designed and manufactured sniper rifle that debuted "
+"back in 1982. While an old rifle, the L96A1 still proves itself on the "
+"battlefield compared to newer sniper rifles."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "DSR-1"
+msgid_plural "DSR-1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The DSR-1 is an incredibly futuristic firearm. Toting the 7.62x51mm cartage,"
+" it's power and accuracy is very commendable. But it's reliability and ease "
+"of use is questionable... Seriously, where do you put the magazine?!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Sako RK95-TP"
+msgid_plural "Sako RK95-TP"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A weapon used by the gods of war. A weapon that is used for both good and "
+"evil. This gun was born in the fire forges of hell and blessed in the Garden"
+" of Eden. This weapon has no commanders, or followers. The Sako has saved "
+"many of survivors. It might just save you..."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "PSG1"
+msgid_plural "PSG1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The PSG1 is Germany's premier sniper rifle. Accurate, Damaging, and super "
+"cool looking, this weapon sure is a blast..."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M16"
+msgid_plural "M16"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The first generation M16 used during Vietnam. If the history books tell you "
+"this was a bad gun, they were a little wrong. It's accurate, low weight and "
+"volume, while using a fairly easy to find caliber. Just clean it once in "
+"awhile okay?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M16A1"
+msgid_plural "M16A1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The second generation M16 after soldiers told their superiors that the "
+"original felt like a toy. It features a longer barrel and lower rate of "
+"fire, but much higher accuracy and reliability."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M16A2"
+msgid_plural "M16A2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The third generation M16. Used during the Iraq war, it didn't prove very "
+"well for the CQB that the marines had to face. Which is where the M4 stepped"
+" in. But in the Cataclysm, you don't need to worry about terrorists with "
+"AKs, only zombies with electricity powers..."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M16A3"
+msgid_plural "M16A3"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The fourth generation M16, which featured a lower rate of fire in favour of "
+"making the M16 into a battle rifle. A good call, seeing that this is the "
+"most accurate M16 at that time. A real brute stopper."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M16A4"
+msgid_plural "M16A4"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The last generation M16, Now a true battle rifle. Rails up the wazoo, and "
+"better at close quarters thanks to its tri-burst system. A reliable, "
+"accurate, damaging combat rifle."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M110 SASS"
+msgid_plural "M110 SASS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A sniper rifle based on the M16A4, extremely accurate and damaging thanks to"
+" the power 7.62x51mm round that it fires."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M4 SOPMOD"
+msgid_plural "M4 SOPMOD"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The military issued M4A1; the SOPMOD, also called the Block 1, was a "
+"advancement in M4A1 tech and allows for a more accurate, and reliable M4."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M4 Block II"
+msgid_plural "M4 Block II"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The special forces issued M4A1. The Block II was used by Navy Seals during "
+"the beginning of the Cataclysm. And has lasted up to this point. Need I say "
+"more?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "De Lisle Commando"
+msgid_plural "De Lisle Commando"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The De Lisle Commando is a short, carbine styled bolt action rifle using .45"
+" caliber with an integrated suppressor. Arguably the most silent rifle ever "
+"created, its ability as a survival tool is amazing."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FG42"
+msgid_plural "FG42s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Germany's go-to paratrooper weapon during WWII, while not the most reliable,"
+" it still caused many casualties on the allied side. A weapon ahead of its "
+"time, this one is a modern reproduction chambered in .30-06."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FX-05 Xiuhcoatl"
+msgid_plural "FX-05 Xiuhcoatl"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Mexican FX-05 Xiuhcoatl is translated into 'Fire Snake' which is awesome"
+" in it of itself, but what is most important is it's rifling design, instead"
+" of grooves, it has ridges. Making it unique and accurate."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "H&K G36c"
+msgid_plural "H&K G36c"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A smaller version of the G36, the G36c is made for CQB. Light, accurate, and"
+" very reliable, its the ultimate weapon for any special ops soldier"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FAMAS"
+msgid_plural "FAMAS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A bullpup assault rifle made with accuracy in mind. The weapon is very "
+"modular, even having the ability to put wing mirrors on the sides... Why?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "AA-12"
+msgid_plural "AA-12"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The US made automatic shotgun features a fully automatic recoil reducer "
+"system that provides excess death dealing when in close quarters. "
+msgstr ""
+
+#: .\art_weapons.json
+msgid "USAS 12"
+msgid_plural "USAS 12s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid "Franchi Spas 15"
+msgid_plural "Franchi Spas 15"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Italian made Spas 15 was a update on the great Spas 12, making much "
+"needed improvements on loading of shells and rate of fire. It's got a box "
+"magazine and can go full auto!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Mossberg 590A1"
+msgid_plural "Mossberg 590A1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Mossberg 590A1 is a modern military pump action shotgun used by special "
+"forces soldiers around the globe. Known for its brutality on the field. The "
+"weapon is by far a most dangerous firearm."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Open Action Revolver"
+msgid_plural "Open Action Revolver"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"This weapon seems to be a mix of a Semi-Automatic Pistol and a Revolver. "
+"Very peculiar weapon but seems to be in working condition. Accurate, "
+"powerful, and fecking awesome looking."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Colt Single Action Army"
+msgid_plural "Colt Single Action Army"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid "A Russian once said this was the best gun in the world. Nuff said"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Colt Python"
+msgid_plural "Colt Python"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Weapon of choice for many action heroes and zombie survivalists, this pistol"
+" has proven many times that it is one of the best"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Ruger Blackhawk"
+msgid_plural "Ruger Blackhawk"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"One of the most versatile revolvers to date, this break-action revolver "
+"features some of the best accuracy of any revolver"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Colt Detective Special"
+msgid_plural "Colt Detective Special"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The gun that started the Snub-nose revolution. Features small compatibility "
+"and the ability to blow someone face off."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Winchester Model 1873"
+msgid_plural "Winchester Model 1873"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A .44-40 caliber repeating rifle straight out of wild west films. This one "
+"has some age to it but like a old mule, it kicks pretty damn hard. Looks "
+"like someone had retooled the gun for .44, guess the 44-40 was too "
+"expensive."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Remington Model 7600"
+msgid_plural "Remington Model 7600"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Remington Model 7600 is a pump-action hunting rifle that shoots "
+"7.62x51mm. Proves to be pretty effective against zombie brains."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Dragunov SVD"
+msgid_plural "Dragunov SVDs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Dragunov SVD is a semi-automatic sniper rifle in service from 1954 to "
+"modern times via the Russian military and friends. Gas operated and "
+"incredibly reliable; the SVD is sure to bring out the sniper stalker in you!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Ots-03 SVU"
+msgid_plural "Ots-03 SVU"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A Russian bullpup sniper rifle which is a conversion for the SVD Dragunov. "
+"The length of a pdw with the range and power of a SVD you can surely breach "
+"and clear any room now!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Obrez"
+msgid_plural "Obrez"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"An Mosin Nagant that is shortened so much that it looks like a pistol. And "
+"is a pistol; that shoots 7.62x54R..."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Ithaca M37"
+msgid_plural "Ithaca M37"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Ithaca M37 is a extremely popular shotgun for home defense and cool "
+"looks. This one has been modified by cutting the stock off."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Striker"
+msgid_plural "Striker"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The South African Striker provides large capacity to the shot-gunner's world"
+" with its revolving wheel of death. Being semi-auto, its very fast in "
+"unloading it's payload. But don't expect perfect delivery every time."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Bren Light Machine Gun"
+msgid_plural "Bren Light Machine Gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Bren Light Machine gun is a fixed bypod, top loaded machine gun that "
+"more or less acts like a anti-personnel SAW. Deadly when used properly - "
+"this one has been chambered in 7.62x51mm NATO. Must be a post-war model."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "DP Light Machine Gun"
+msgid_plural "DP Light Machine Gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The DP is a WWII squad automatic weapon that has one hell of a round coming "
+"out of the barrel. Very powerful, and with high capacity."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "FN Minimi"
+msgid_plural "FN Minimi"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A paratrooper version of the ever so popular M249 SAW, it features a "
+"skeletal stock and light weight. Along with all those SAW parts."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Lewis Gun"
+msgid_plural "Lewis Gun"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Lewis gun is a water cooled machine gun that is meant to be used in a "
+"prone position, but thanks to game reasons, you can't prone down to use the "
+"thing properly. But if you can use it, it's one hell of a machine gun."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "RPK"
+msgid_plural "RPK"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The RPK is the light machine gun varient in the AK family. Using the "
+"7.62x39mm round means that there is going to be a lot of lead spewing out of"
+" the barrel when this baby is lit up."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "PKM"
+msgid_plural "PKM"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The PKM is the Heavy machine gun in the AK family. And unlike everything "
+"else, it's internals are the only thing that is based on the AK. The look "
+"and feel is it's own thing."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "MG3"
+msgid_plural "MG3"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The MG3 is the modernized version of the MG42. It features more lightweight "
+"parts and a slimmer magazine. It's fire rate is still the same 1,200 rounds "
+"a minute. So be ready to reload this baby a LOT."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "The Hacksaw"
+msgid_plural "The Hacksaw"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"A heavily modified MG3, clearly made in someone's basement. It seems ready "
+"for anything. The word Hacksaw is scratched into the right side. Under the "
+"word Bundeswehr so faint you can barely see it. A rag is wrapped around the "
+"heat shield so the user can hold it by it. But the stock seems the most "
+"unique of all the modifications. It seems to float, only held by some para "
+"cord and a spring. And when you push your shoulder into the firing position."
+" It seems to push against you. Considerably reducing recoil."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "RPD"
+msgid_plural "RPD"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The RPD is the light machine gun varient in the AK family. Using the "
+"7.62x39mm round means that there is going to be a lot of lead spewing out of"
+" the barrel when this baby is lit up."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "SMLE Number 4"
+msgid_plural "SMLE Number 4"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The Short, Magazine Lee-Enfield Number Four - The quintessential British "
+"service rifle, along with other members of the Lee-Enfield family. Rule "
+"Britannia!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Gewehr 98"
+msgid_plural "G98"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Developed in 1898, this gun would later become the basis for many rifles the"
+" world over, from the Springfield to the Type 24 to the K98k. Today, its "
+"action is primarily used in hunting rifles."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Type 24"
+msgid_plural "T24"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Developed with German support in China, this would become one of the most "
+"domestically produced rifles in Chinese service in WWII. A smaller, more "
+"accurate version of the G98, it was well-liked."
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Mosin-Nagant 28/30"
+msgid_plural "Finnish Mosin"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Based on the famous 91/30, this Finnish Mosin represents one of the "
+"pinnacles of the bolt-action system. As it was a Civil Guard model before "
+"the Winter War, the rifle was greatly improved with a focus on accuracy. "
+"Perkele!"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "M17 Enfield"
+msgid_plural "M17 Enfield"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"Despite being less famous than its cousin, the Springfield 1903, the Enfield"
+" 1917 saw large amounts of service with American soldiers in WWI and "
+"internationally into WWII. Rule... Britannia?"
+msgstr ""
+
+#: .\art_weapons.json
+msgid "Needlefire Rifle"
+msgid_plural "Needlefire Rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\art_weapons.json
+msgid ""
+"The pinnacle of black-powder firearm development, the needlefire system uses"
+" a protruding needle style of firing pin, allowing it to use breech-loading "
+"paper cartridges, allowing for relatively rapid and precise fire. This in "
+"particular seems to be a reproduction of a Chassepot, which was the most "
+"highly developed of its kind - capable of out-ranging its competitors nearly"
+" 2-1. "
+msgstr ""
+
+#: .\modinfo.json
+msgid "Artyoms' Gun Emporium - Reloaded"
+msgstr ""
+
+#. ~ Description for Artyoms' Gun Emporium - Reloaded
+#: .\modinfo.json
+msgid "Adds all the guns that YOU need to survive the Cataclysm"
+msgstr ""

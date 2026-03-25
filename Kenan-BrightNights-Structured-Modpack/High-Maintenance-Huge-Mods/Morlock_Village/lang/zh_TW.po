@@ -1,0 +1,862 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: morlock_village\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items.json
+msgid "underground map"
+msgid_plural "underground maps"
+msgstr[0] "地下地圖"
+
+#. ~ Use action message for {'str': 'underground map'}.
+#: .\items.json
+msgid "You add the underground sites to your map."
+msgstr "你將地下地點添加到了你的地圖上。"
+
+#. ~ Description for {'str': 'underground map'}
+#: .\items.json
+msgid ""
+"This is a crude map of the local sewers and subways.  It has a few "
+"additional sites as well."
+msgstr "這是一張當地下水道和地鐵的粗略地圖。上面還標有一些額外的地點。"
+
+#: .\items.json
+msgid "morlock cookbook"
+msgid_plural "morlock cookbooks"
+msgstr[0] "摩洛克食譜"
+
+#. ~ Description for {'str': 'morlock cookbook'}
+#: .\items.json
+msgid ""
+"A hand written notebook full of nightmarish Morlock recipes, such as rat "
+"soup, cockroach stirfry, worm-in-a-blanket, and others.  But there are a few"
+" useful recipes mixed in with the bad."
+msgstr "一本手寫筆記本，充滿了噩夢般的摩洛克食譜，例如鼠肉湯、蟑螂炒菜、毯裹蠕蟲等等。但在糟糕的食譜中也混雜著一些有用的。"
+
+#: .\items.json
+msgid "mush-tea"
+msgid_plural "mush-tea"
+msgstr[0] "蘑菇茶"
+
+#. ~ Description for {'str': 'mush-tea', 'str_pl': 'mush-tea'}
+#: .\items.json
+msgid "A healthy beverage made from mushrooms steeped in boiling water."
+msgstr "一種健康的飲品，由在沸水中浸泡的蘑菇製成。"
+
+#: .\items.json
+msgid "glowing mushroom"
+msgid_plural "glowing mushrooms"
+msgstr[0] "發光蘑菇"
+
+#. ~ Use action activation_message for {'str': 'glowing mushroom'}.
+#: .\items.json
+msgid "You eat the magic."
+msgstr "你吃下了這魔法。"
+
+#. ~ Description for {'str': 'glowing mushroom'}
+#: .\items.json
+msgid ""
+"A mutated mushroom that gives off a faint phosporescent glow.  Not safe to "
+"eat in this state."
+msgstr "一種發出微弱磷光的變異蘑菇。在此狀態下食用不安全。"
+
+#: .\items.json
+msgid "glowing mushroom culture"
+msgid_plural "glowing mushroom culture"
+msgstr[0] "發光蘑菇培養物"
+
+#: .\items.json
+msgid "dried glowing mushroom"
+msgid_plural "dried glowing mushrooms"
+msgstr[0] "乾燥的發光蘑菇"
+
+#. ~ Description for {'str': 'dried glowing mushroom'}
+#: .\items.json
+msgid ""
+"A mutant mushroom.  It no longers glows with phosphorescent light, but still"
+" looks unsafe to eat."
+msgstr "一種變異蘑菇。它不再發出磷光，但看起來仍然不安全，不宜食用。"
+
+#: .\items.json
+msgid "magic tea"
+msgid_plural "magic tea"
+msgstr[0] "魔法茶"
+
+#. ~ Use action activation_message for {'str': 'magic tea', 'str_pl': 'magic
+#. tea'}.
+#: .\items.json
+msgid "You drink the magic."
+msgstr "你喝下了這魔法。"
+
+#. ~ Description for {'str': 'magic tea', 'str_pl': 'magic tea'}
+#: .\items.json
+msgid ""
+"A healthy beverage made from mutated mushrooms steeped in hot water.  May "
+"cause hallucinations."
+msgstr "一種健康的飲品，由在熱水中浸泡的變異蘑菇製成。可能導致幻覺。"
+
+#: .\items.json
+msgid "sunshine mash"
+msgid_plural "sunshine mashes"
+msgstr[0] "陽光醪"
+
+#. ~ Description for {'str': 'sunshine mash', 'str_pl': 'sunshine mashes'}
+#: .\items.json
+msgid ""
+"Unfermented sunshine.  Just some water, sugar, and glowing mutant mushrooms,"
+" just like Urist used to make."
+msgstr "未發酵的陽光。只是一些水、糖和發光的變異蘑菇，就像烏里斯特過去常做的那樣。"
+
+#: .\items.json
+msgid "sunshine wash"
+msgid_plural "sunshine washes"
+msgstr[0] "陽光酒醪"
+
+#. ~ Description for {'str': 'sunshine wash', 'str_pl': 'sunshine washes'}
+#: .\items.json
+msgid ""
+"Fermented, but not distilled sunshine.  Contains all the contaminants you "
+"don't want in your sunshine."
+msgstr "已發酵但未蒸餾的陽光。含有所有你不想在陽光中看到的雜質。"
+
+#: .\items.json
+msgid "sunshine"
+msgid_plural "sunshine"
+msgstr[0] "陽光"
+
+#. ~ Description for {'str': 'sunshine', 'str_pl': 'sunshine'}
+#: .\items.json
+msgid ""
+"Only the strongest, purest, good ol' fashioned hooch, distilled from glowing"
+" mushrooms and sugar.  The prefered drink of all subterranean people."
+msgstr "只有最烈、最純、老式的好酒，由發光蘑菇和糖蒸餾而成。所有地下居民的首選飲品。"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Morlock Village"
+msgid_plural "Hologram Projector - Locator of Morlock Villages"
+msgstr[0] "全息投影儀 - 摩洛克村莊定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Morlock
+#. Village'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Morlock Village"
+msgstr "這是一臺全息投影儀，激活後可生成交互式全息影像。全息影像能與你對話，回答部分問題，但最重要的是它能定位莫洛克村的位置。"
+
+#: .\mammal.json
+msgid "cave piglet"
+msgid_plural "cave piglets"
+msgstr[0] "洞穴豬崽"
+
+#. ~ Description for {'str': 'cave piglet'}
+#. ~ Description for {'str': 'cave pig'}
+#: .\mammal.json
+msgid ""
+"A mutant omnivore descended from the domestic pig.  It has adapted to life "
+"underground by losing all skin pigment, going blind, and becoming even less "
+"picky about what it eats."
+msgstr "由家豬演化而來的突變雜食動物。為適應地下生活，其皮膚完全褪去色素，雙目失明，且對食物更加不挑剔。"
+
+#: .\mammal.json
+msgid "cave pig"
+msgid_plural "cave pigs"
+msgstr[0] "洞穴豬"
+
+#: .\modinfo.json
+msgid "Morlock Village"
+msgstr "莫洛克村"
+
+#. ~ Description for Morlock Village
+#: .\modinfo.json
+msgid ""
+"Adds an underground village of mutant NPCs.  Connects to subways and sewers."
+msgstr "新增一個由突變NPC構成的地下村落。可連通地鐵與下水道系統。"
+
+#: .\overmap_terrain.json
+msgid "morlock_village"
+msgstr "莫洛克村"
+
+#: .\terrain.json
+msgid "giant mushroom"
+msgstr "巨型蘑菇"
+
+#. ~ Description for giant mushroom
+#: .\terrain.json
+msgid "A Terrestrial mushroom that has mutated to an enormous size."
+msgstr "一種陸地蘑菇因突變而生長至龐大體型。"
+
+#: .\terrain.json
+msgid "crunch!"
+msgstr "嘎吱！"
+
+#: .\terrain.json
+msgid "whack!"
+msgstr "啪！"
+
+#: .\NPC\NPC_missions.json
+msgid "Morlock Village Locator Hologram"
+msgstr "莫洛克村定位全息儀"
+
+#: .\NPC\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "全息影像防護"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\NPC\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"我的程序設定為不與遊蕩怪物交戰。\""
+
+#. ~ Description for mission '{'str': 'Go to Morlock Village'}'
+#: .\NPC\NPC_missions.json
+msgid "Go to Morlock Village"
+msgstr "前往莫洛克村"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr "要我為你定位探索地點？沒問題，只需等我用網絡系統查找幾分鐘或更短時間"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr "你想讓我現在為你定位那個地點以便探索嗎？當然，告訴我吧，你只需要等幾分鐘或更短時間，我就能通過網絡系統找到它。"
+
+#: .\NPC\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "祝你好運！"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr "對新地點的探索不感興趣嗎？別急，希望如此。你可以稍後再來找我。我相信你會的，因為我覺得你不是個無聊的人。"
+
+#: .\NPC\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "也希望你運用智慧確保自身安全。"
+
+#: .\NPC\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "你去過我為你找到的那個探索地點了嗎？"
+
+#: .\NPC\NPC_missions.json
+msgid "Good work!"
+msgstr "幹得好！"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"對我撒謊有什麼意義？你以為我會獎勵你嗎？這次任務的獎勵就是你在那個地點找到的對你來說有價值的物品、生物或其他倖存者，那是我為你找到的探索地點。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr "說實話，你是個無聊又懶惰的人。我想懶惰這一點我們倆都適用。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"系統在線。啟動對話模式。看啊，倖存者輕鬆激活了全息投影儀！沒錯，我的創造者瞭解很多像你這樣的人，說實話他們甚至不讀物品上的說明。幸好你看起來是個相當聰明的人，希望如此。那麼，你想讓我通過網絡系統為你顯示這個地點的位置嗎？我可以授予你訪問存檔全球網絡系統的權限，那是我的創造者設法恢復的。不過，使用後我需要稍微充能，這意味著你需要等待才能再次使用這個功能，希望如此。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr "[任務] 我希望你通過你的網絡系統為我找到這個地點以便探索，希望如此。"
+
+#: .\NPC\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "你是誰或是什麼東西？"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "你的創造者是誰？製造這些投影儀的目的是什麼？"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr "[改善心情] 我希望你授予我訪問存檔全球網絡系統的權限。"
+
+#: .\NPC\NPC_missions.json
+msgid "About that mission..."
+msgstr "關於那個任務……"
+
+#: .\NPC\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[告別]"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"啟動搜索模式。請等待幾分鐘或更短時間。你聽清楚了。不過，我們的定位工具有所限制。如果定位器無法找到這個地點，那就簡單地創建另一個能成功找到該地點的全息定位器。"
+
+#: .\NPC\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "我能和你談談別的嗎？"
+
+#: .\NPC\NPC_missions.json
+msgid "Thanks"
+msgstr "謝謝。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+"我是魔法相機裡的魔法精靈。不，開個玩笑。這是什麼問題？你不喜歡探索，還是對自己的世界瞭解不多？你沒在實驗室裡見過東西嗎？軍事設施？絕密物品？外星人或那些生物？你以為你們自己人沒有能製造全息影像的技術嗎？我是個全息影像，是帶有附加技術的軟件，就這麼簡單。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"這個問題比上一個聰明多了。我的創造者可以說是一群高科技極客，說實話其中大多數是人類。他們既沒有太多戰鬥技能，也顯然不願讓自己的生命承受不必要的風險。他們只會在基本生存需要時與敵對生物交戰。他們試圖依靠自給自足，並憑藉應用智慧和自行發現或設計的技術取得相對成功。他們製造這些投影儀是為了我們能互相幫助。我們為你提供有危險生物的地點，以及有價值的物品或被囚禁的倖存者。你清理這些地點，從中獲取你想要的任何有價值物品或倖存者，使這些地點成為安全的庇護所，希望我們包括你也能在那裡生活。"
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+"你想做什麼？玩存檔遊戲？瀏覽存檔社交媒體？看存檔視頻？聽存檔音樂？閱讀存檔文件和存檔書籍？找點東西玩、讀、聽、看，為了樂趣、提升智力、精神提升、心智改善？"
+
+#: .\NPC\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "說實話，我很喜歡其中一些。健康的東西。"
+
+#: .\NPC\TALK_MORLOCK_GUARD.json
+msgid "Only two rules in the Morlock Village.  Be cool.  Don't be uncool."
+msgstr "莫洛克村只有兩條規矩：保持酷炫，別掉鏈子。"
+
+#: .\NPC\TALK_MORLOCK_GUARD.json
+msgid "Got it."
+msgstr "明白了。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Hello.  Can I help you find something?"
+msgstr "你好。需要我幫你找什麼嗎？"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "So what's your deal?  You're like a book guy or something?"
+msgstr "所以你是做什麼的？搞書籍收藏之類的？"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm desperate for a specific book. Can you help me?"
+msgstr "我急需一本特定的書。你能幫忙嗎？"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "How's the hunt, <name_g>?"
+msgstr "獵書進展如何，<name_g>？"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Is my order in?"
+msgstr "我的訂單到了嗎？"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Later, book man."
+msgstr "回見，書呆子。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"Precisely.  I gather books to preserve the memories of human civilization.  "
+"Sometimes, when I have extra copies, I distribute them to the public.  Feel "
+"free to checkout what you like from the shelves."
+msgstr "正是。我收集書籍以保存人類文明的記憶。偶爾有複本時，會向公眾分發。書架上的書隨意取閱即可。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Sounds reasonable."
+msgstr "聽起來很合理。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"I often search for rare books.  I can sell you a specific book, but it will "
+"take several days for my field agents to locate it.  And then there's the "
+"price-- I charge for my time, not the value of the book.  It will be $10,000"
+" paid up front.  If you're still interested, we can make a deal."
+msgstr "我常搜尋珍稀書籍。可以為你代購特定書籍，但外勤人員需數日定位。至於價格——按工時收費，不論書價。需預付1萬美元。若仍有興趣，我們可以成交。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I want to locate a book on glass-blowing."
+msgstr "[4k商品] 我想找一本關於玻璃吹制的書。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] A robot-hacking manual is my first priority."
+msgstr "[4k商品] 我的首要目標是機器人黑客手冊。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I need info on crafting katanas. Lots of 'em."
+msgstr "[4k商品] 我需要大量日本刀鍛造資料。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I would literally kill a man for a sushi cookbook."
+msgstr "[4k商品] 為了一本壽司食譜，我真能動手殺人。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I have a burning passion for chemical warfare."
+msgstr "[4k商品] 我對化學戰有著熾熱的熱情。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[4k Merch+CANNIBAL] For no particular reason, I would like a human cookbook."
+msgstr "[4k商品+食人族] 沒什麼特別原因，就是想要本人肉烹飪書。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I would like anything you can find on fake fur."
+msgstr "[4k商品] 任何關於人造皮毛的資料都可以。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[400 Merch] I, like you, also hope to preserve human civilization.  I'm "
+"collecting every back issue of Playboy and I will pay ANY price to make that"
+" dream a reality."
+msgstr "[400商品] 我和你一樣希望保存人類文明。我正在收集所有過期的《花花公子》雜誌，為此不惜任何代價。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm a little short on funds right now.  Maybe later.."
+msgstr "目前手頭有點緊，或許改天再說……"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Nevermind."
+msgstr "算了。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Ugh.  Fine.  Come back in three days for your 'articles'."
+msgstr "呃。好吧。三天後再來拿你的“物品”吧。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "We have a deal then.  Return in three days and I will have your book."
+msgstr "那我們說定了。三天後回來，我會準備好你的書。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'll be here!"
+msgstr "我會在這裡等！"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"We haven't found it yet.  Come back in a few days. (ooc note: Currently NPCs"
+" must be in your reality bubble for their effect timer to count down.)"
+msgstr "我們還沒找到。過幾天再來吧。（OOC 備註：目前 NPC 必須在你的現實氣泡內，其效果計時器才會倒計時。）"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I need that book!"
+msgstr "我需要那本書！"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "We've located a copy of your book.  Happy reading."
+msgstr "我們找到了你那本書的副本。閱讀愉快。"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*The Art of Glassblowing*"
+msgstr "*玻璃吹制藝術*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Robots for Fun & Profit*"
+msgstr "*機器人的樂趣與利潤*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Swords of the Samurai*"
+msgstr "*武士刀*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Sushi Made Easy*"
+msgstr "*壽司輕鬆做*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Art and Science of Chemical Warfare*"
+msgstr "*化學戰的藝術與科學*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*To Serve Man*"
+msgstr "*為人類服務*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Friendly, Humane Fashion*"
+msgstr "*友善、人道的時尚*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Playboy*"
+msgstr "*花花公子*"
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Just a minute."
+msgstr "稍等一下。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "How goes it, surface dweller?"
+msgstr "最近怎麼樣，地表居民？"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Holy, <swear!>! Fungus!  Burn it!"
+msgstr "天啊，<swear!>！真菌！燒了它！"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "So, you're a farmer...   Underground."
+msgstr "所以，你是個農民……在地下。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Who are you people anyway?"
+msgstr "你們到底是什麼人？"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Can I join your group?"
+msgstr "我能加入你們嗎？"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What sort of things do you trade?"
+msgstr "你們交易些什麼東西？"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Let's trade."
+msgstr "我們來交易吧。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Later, man."
+msgstr "回頭見，夥計。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Don't worry.  These are mutant mushrooms, not alien mushrooms.  They won't "
+"take over your brain much."
+msgstr "別擔心。這些是變異蘑菇，不是外星蘑菇。它們不會太侵佔你的大腦。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Thank God for that."
+msgstr "謝天謝地。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Just a crusty old shroomer.  I've been growing mushrooms, of one type or "
+"another, for many years.  But they didn't used to get quite so big."
+msgstr "只是個頑固的老蘑菇農。我種蘑菇，不管是哪種，已經很多年了。但它們以前可沒長這麼大。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I see that."
+msgstr "我看出來了。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"We're the Morlocks, a bunch of weirdos who couldn't fit in with the rest of "
+"the world.  But now we're the most normal people left."
+msgstr "我們是莫洛克人，一群與世格格不入的怪胎。但現在我們是剩下最正常的人了。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I'm not so sure about that."
+msgstr "我可不太確定。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"There's no official way to join.  Just move into an empty house, and in a "
+"decade or two you'll be a morlock."
+msgstr "沒有正式的加入方式。只要搬進一間空房子，過個一二十年，你就能成為莫洛克人了。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Very laid back."
+msgstr "非常隨和。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"The Morlocks are always short on food since not much grows down here in the "
+"dark.  I got no surplus crops to sell.  But if you could get me some "
+"fertilizer, I'd help you kickstart your own shroom-room.  I'll swap you 12 "
+"seeds for each bag of commercial fertilizer you haul down here.  Not much, "
+"but it get will you started."
+msgstr ""
+"莫洛克人總是食物短缺，因為黑暗的地下長不出多少東西。我沒有多餘的作物可賣。但如果你能給我弄些肥料，我可以幫你啟動你自己的蘑菇房。每袋商業肥料換12顆種子。不多，但足夠你起步了。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Got it.  Commercial fertilizer."
+msgstr "明白了。商業肥料。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "What shall we trade?"
+msgstr "我們交易什麼？"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I'd like to get some seeds, my good shroomer."
+msgstr "我想弄些種子，我的好蘑菇農。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "[74 Merch] I'd like to buy some ~specialty~ mushrooms."
+msgstr "[74 商人] 我想買些~特製~蘑菇。"
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Later, <name_g>."
+msgstr "回頭見，<name_g>。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What's up, cool breeze?"
+msgstr "怎麼了，酷風？"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Nice place ya got here.  Cozy."
+msgstr "你這地方不錯。挺溫馨的。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Is there any way I can join your group?"
+msgstr "有什麼辦法能加入你們嗎？"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Let's trade then."
+msgstr "那我們交易吧。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Fuck off, <name_g>.  It's not like we chose to live in the sewer."
+msgstr "滾開，<name_g>。又不是我們自願住下水道的。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Well, it kept you alive.  So it can't be that bad."
+msgstr "好吧，但它讓你活下來了。所以也沒那麼糟。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"We're the morlocks, a bunch of bums and losers who live underground.  We "
+"aren't organized and we don't have leaders, but we stick together."
+msgstr "我們是莫洛克人，一群住在地下的流浪漢和失敗者。我們沒有組織，也沒有首領，但我們團結一致。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Nice."
+msgstr "不錯。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"Why the hell would you want join us?  Most of us don't want to join us.  "
+"Unless you grow a rat tail or fish-gills you probably won't fit in down "
+"here."
+msgstr "你他媽為啥想加入我們？我們大多數人自己都不想加入。除非你長出老鼠尾巴或魚鰓，不然你在這兒可能格格不入。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "I'll see what I can do."
+msgstr "我會看看能做什麼。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"We're always in the market for raw mutagen and purifier.  I can pay you a "
+"whopping 500 old world credits for each flask of standard mutagen or "
+"purifier you bring in.  I can also exchange unflavored mutagen for more "
+"advanced types, if you're interested in such things."
+msgstr ""
+"我們一直收購原始突變劑和淨化劑。每瓶標準突變劑或淨化劑，我可以付你高達500舊世界信用點。如果你感興趣，我也可以用無味突變劑交換更高級的類型。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Got it.  Mutagen.  Purifier."
+msgstr "明白了。突變劑。淨化劑。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What'll it be then?"
+msgstr "那要什麼？"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Got some fresh-squeezed mutagens for ya."
+msgstr "[10] 給你帶了點新鮮榨取的突變劑。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of mutagen for ya."
+msgstr "[1] 給你帶了瓶突變劑。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Got a batch of purifier for ya."
+msgstr "[10] 給你帶了批淨化劑。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of purifier for ya."
+msgstr "[1] 給你帶了瓶淨化劑。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Have anything rat-flavored?"
+msgstr "[10] 有老鼠口味的嗎？"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] I'd like a hit of trog-serum, <name_g>."
+msgstr "[10] 我想來一劑穴居人血清，<name_g>。"
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Gimme some of that sweet fish-juice."
+msgstr "[10] 給我來點那種甜美的魚汁。"
+
+#: .\NPC\classes.json
+msgid "morlock"
+msgstr "莫洛克人"
+
+#: .\NPC\classes.json
+msgid "I live in the sewer now.  That about sums it up."
+msgstr "我現在住下水道了。差不多就這樣。"
+
+#: .\NPC\classes.json
+msgid "morlock trader"
+msgstr "摩洛克商人"
+
+#: .\NPC\classes.json
+msgid "I make trade deals for the morlocks."
+msgstr "我為摩洛克人處理貿易事務。"
+
+#: .\NPC\classes.json
+msgid "morlock librarian"
+msgstr "摩洛克圖書管理員"
+
+#: .\NPC\classes.json
+msgid "I gather and preserve books."
+msgstr "我收集並保存書籍。"
+
+#: .\NPC\effects.json
+msgid "Searching for your Book"
+msgstr "正在尋找你的書"
+
+#. ~ Description of effect 'Searching for your Book'.
+#. ~ Description of effect 'removing effect'.
+#. ~ Description of effect 'Searching for Art of Glassblowing'.
+#. ~ Description of effect 'Searching for Robots for Fun & Profit'.
+#. ~ Description of effect 'Searching for Swords of the Samurai'.
+#. ~ Description of effect 'Searching for the Art and Science of Chemical
+#. Warfare'.
+#. ~ Description of effect 'Searching for Sushi Made Easy'.
+#. ~ Description of effect 'Searching for To Serve Man'.
+#. ~ Description of effect 'Searching for Friendly Fashion'.
+#. ~ Description of effect 'Searching for Playboy magazines'.
+#: .\NPC\effects.json
+msgid "AI tag.  This is a bug if you have it."
+msgstr "AI標籤。如果你有這個標籤，說明出現了bug。"
+
+#: .\NPC\effects.json
+msgid "Located your Book"
+msgstr "已定位到你的書"
+
+#. ~ Description of effect 'Located your Book'.
+#: .\NPC\effects.json
+msgid ""
+"AI tag.  This is a bug if you have it.  Book isn't actually available until "
+"search timer runs out."
+msgstr "AI標籤。如果你有這個標籤，說明出現了bug。書籍在搜索計時結束前實際上不可用。"
+
+#: .\NPC\effects.json
+msgid "removing effect"
+msgstr "移除效果"
+
+#: .\NPC\effects.json
+msgid "Searching for Art of Glassblowing"
+msgstr "正在尋找《玻璃吹制藝術》"
+
+#: .\NPC\effects.json
+msgid "Searching for Robots for Fun & Profit"
+msgstr "正在尋找《機器人的樂趣與利潤》"
+
+#: .\NPC\effects.json
+msgid "Searching for Swords of the Samurai"
+msgstr "正在尋找《武士刀》"
+
+#: .\NPC\effects.json
+msgid "Searching for the Art and Science of Chemical Warfare"
+msgstr "正在尋找《化學戰的藝術與科學》"
+
+#: .\NPC\effects.json
+msgid "Searching for Sushi Made Easy"
+msgstr "正在尋找《輕鬆製作壽司》"
+
+#: .\NPC\effects.json
+msgid "Searching for To Serve Man"
+msgstr "正在尋找《為人類服務》"
+
+#: .\NPC\effects.json
+msgid "Searching for Friendly Fashion"
+msgstr "正在尋找《友好時尚》"
+
+#: .\NPC\effects.json
+msgid "Searching for Playboy magazines"
+msgstr "正在尋找《花花公子》雜誌"
+
+#: .\NPC\factions.json
+msgid "Morlocks"
+msgstr "摩洛克人"
+
+#. ~ Description for Morlocks
+#: .\NPC\factions.json
+msgid ""
+"Before the Cataclysm a loose collection of drifters, hobos, addicts, and "
+"other homeless people took shelter in the abandoned tunnels beneath New "
+"England, largely ignored by the authorities and townsfolk.  Their hidden "
+"sanctuary allowed them to survive the first wave of horrors, but not "
+"unscathed.  Many of them have begun to show signs of change, biological "
+"adaptions to their new underground home.  Despite their weird appearance and"
+" reclusive nature, the Morlocks are friendly to those surface-dwellers "
+"willing to trade."
+msgstr ""
+"在大災變之前，一群流浪者、遊民、癮君子和其他無家可歸者在新英格蘭廢棄的隧道中避難，基本上被當局和鎮民忽視。他們隱藏的避難所讓他們在第一批恐怖浪潮中倖存下來，但並非毫髮無傷。他們中的許多人開始顯示出變化的跡象，這是對他們新地下家園的生物適應。儘管他們外表怪異且性格孤僻，摩洛克人對那些願意交易的地表居民是友好的。"
+
+#: .\NPC\npc.json
+msgid "Morlock"
+msgstr "摩洛克人"
+
+#: .\NPC\npc.json
+msgid "Guard"
+msgstr "守衛"
+
+#: .\NPC\npc.json
+msgid "Trader"
+msgstr "商人"
+
+#: .\NPC\npc.json
+msgid "Shroomer"
+msgstr "蘑菇種植者"
+
+#: .\NPC\npc.json
+msgid "Librarian"
+msgstr "圖書管理員"
+
+#. ~ Sign
+#: .\mapgen\morlock_corner_a.json .\mapgen\morlock_sewer.json
+msgid "Secret Morlock Village"
+msgstr "秘密摩洛克村莊"

@@ -1,0 +1,169 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: arsenal_breach\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\ab_gunmods_override.json
+msgid "beam scatterer"
+msgid_plural "beam scatterers"
+msgstr[0] "光束散射器"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"A set of optics made to fit on laser weapons, which will diffract the laser "
+"beam into several lower powered beams.  This increases point-blank damage, "
+"but reduces range."
+msgstr "一套专为激光武器设计的光学组件，可将激光束衍射成数道威力较低的射线。这提升了近身伤害，但降低了射程。"
+
+#: .\ab_gunmods_override.json
+msgid "heat ray conversion"
+msgid_plural "heat ray conversions"
+msgstr[0] "热射线转换器"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"A rare advanced electronics unit that converts a laser weapon into a "
+"incendiary heat weapon, at the cost of a decreased damage output and "
+"increased power consumption."
+msgstr "一种罕见的先进电子单元，可将激光武器转换为燃烧性热能武器，代价是降低伤害输出并增加能耗。"
+
+#: .\ab_gunmods_override.json
+msgid "lens"
+msgstr "透镜"
+
+#: .\ab_gunmods_override.json
+msgid "Type-39 auxiliary laser"
+msgid_plural "Type-39 auxiliary lasers"
+msgstr[0] "39型辅助激光器"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"The Pan Pacific Consortium Type-39 Laser Auxiliary Weapon System is designed"
+" to can be mounted under the barrel of military rifles, allowing continued "
+"fighting even when the main weapon's ammunition is exhausted."
+msgstr "泛太平洋联合体39型激光辅助武器系统设计用于安装在军用步枪枪管下方，即使主武器弹药耗尽也能继续作战。"
+
+#: .\ab_gunmods_override.json
+msgid "underbarrel"
+msgstr "下挂式"
+
+#: .\ab_gunmods_override.json
+msgid "focusing unit"
+msgid_plural "focusing units"
+msgstr[0] "聚焦单元"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"A set of optics made to fit laser weapons, which will focus the laser beam "
+"into a thin high powered beam.  This increases range, but reduces pure "
+"damage."
+msgstr "一套专为激光武器设计的光学组件，可将激光束聚焦成一道纤细的高能射线。这提升了射程，但降低了纯粹伤害。"
+
+#: .\ab_gunmods_override.json
+msgid "optimized capacitor"
+msgid_plural "optimized capacitors"
+msgstr[0] "优化电容器"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"A finely tuned optimized capacitor unit. It significantly reduces power "
+"consumption of laser weapons in exchange for damage."
+msgstr "一个经过精细调校的优化电容器单元。它显著降低了激光武器的能耗，但以牺牲伤害为代价。"
+
+#: .\ab_gunmods_override.json
+msgid "emitter"
+msgstr "发射器"
+
+#: .\ab_gunmods_override.json
+msgid "high density capacitor"
+msgid_plural "high density capacitors"
+msgstr[0] "高密度电容器"
+
+#: .\ab_gunmods_override.json
+msgid ""
+"A capacitor with a higher energy density increases range and damage; at the "
+"cost of a increased power consumption."
+msgstr "一种能量密度更高的电容器，可增加射程和伤害；代价是功耗增加。"
+
+#: .\ab_weapons.json
+msgid "Type-38 laser pistol"
+msgid_plural "Type-38 laser pistols"
+msgstr[0] "38型激光手枪"
+
+#: .\ab_weapons.json
+msgid ""
+"The service sidearm of the Pan Pacific Coalition, the Type-38 is relatively "
+"light and nimble laser pistol."
+msgstr "38型是泛太平洋联盟的制式手枪，是一种相对轻巧灵活的激光手枪。"
+
+#: .\ab_weapons.json
+msgid "Type-40 laser carbine"
+msgid_plural "Type-40 laser carbines"
+msgstr[0] "40型激光卡宾枪"
+
+#: .\ab_weapons.json
+msgid ""
+"A lightweight laser weapon developed by the Pan Pacific Consortium. This "
+"carbine compensates for its lack of firepower with rapid fire rate."
+msgstr "由泛太平洋联盟开发的轻型激光武器。这款卡宾枪以高射速弥补了火力不足。"
+
+#: .\ab_weapons.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\ab_weapons.json
+msgid "3 rd."
+msgstr "3 发"
+
+#: .\ab_weapons.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "冲锋枪"
+
+#: .\ab_weapons.json
+msgid "Type-41 laser precision rifle"
+msgid_plural "Type-41 laser precision rifles"
+msgstr[0] "41型激光精确步枪"
+
+#: .\ab_weapons.json
+msgid ""
+"A precise, powerful laser weapon with a huge energy consumption. The Pan "
+"Pacific Consortium designed this weapon for designated marksmen."
+msgstr "一种精准、强大的激光武器，能耗巨大。泛太平洋联盟为指定射手设计了这款武器。"
+
+#: .\ab_weapons.json
+msgid "Type-37 scatter laser"
+msgid_plural "Type-37 scatter lasers"
+msgstr[0] "37型散射激光枪"
+
+#: .\ab_weapons.json
+msgid ""
+"A close-quarter laser weapon developed by the Pan Pacific Consortium. In the"
+" early days of laser weapon development, the PPC's engineers came up with "
+"the idea of solving the low accuracy of their laser weapons by fastening "
+"several barrels together."
+msgstr "泛太平洋联盟开发的近战激光武器。在激光武器发展的早期，PPC的工程师提出了通过将多个枪管固定在一起来解决激光武器精度低下的想法。"
+
+#: .\ab_weapons.json
+msgid "multi"
+msgstr "多重"
+
+#: .\ab_weapons.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr "霰弹枪"
+
+#: .\modinfo.json
+msgid "Arsenal Breach"
+msgstr "军火库突破"
+
+#. ~ Description for Arsenal Breach
+#: .\modinfo.json
+msgid "Adds futuristic weapons"
+msgstr "添加未来主义武器"

@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Survivors_Lost_item\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\item.json
+msgid "Survivor's bag"
+msgid_plural "Survivor's bags"
+msgstr[0] "幸存者的背包"
+
+#. ~ Description for {'str': "Survivor's bag"}
+#: .\item.json
+msgid ""
+"It is a bag that someone had dropped. You can get the items that are "
+"included by disassembling."
+msgstr "这是一个被人遗落的背包。你可以通过拆解来获取其中包含的物品。"
+
+#: .\modinfo.json
+msgid "Survivor's Lost item"
+msgstr "幸存者的遗失物品"
+
+#. ~ Description for Survivor's Lost item
+#: .\modinfo.json
+msgid ""
+"You will be able to pick up bags that survivors have dropped from the bushes"
+msgstr "你将能从灌木丛中捡到幸存者遗落的背包"

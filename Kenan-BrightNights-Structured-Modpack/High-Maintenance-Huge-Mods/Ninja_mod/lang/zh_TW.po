@@ -1,0 +1,1203 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Ninja\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Compatible Ninja MOD"
+msgstr "兼容忍者模組"
+
+#. ~ Description for Compatible Ninja MOD
+#: .\modinfo.json
+msgid ""
+"This mod adds a plethora of content related to pop culture ninjas including "
+"hideouts with enemy ninja NPCs. Malkeus: (Fixes to maps and vehicles)"
+msgstr "此模組添加了大量與流行文化忍者相關的內容，包括帶有敵方忍者NPC的藏身處。Malkeus：（修復了地圖和載具）"
+
+#: .\ninja_ammo.json
+msgid "Shuriken"
+msgid_plural "Shurikens"
+msgstr[0] "手裡劍"
+
+#. ~ Description for {'str': 'Shuriken', 'str_pl': 'Shurikens'}
+#: .\ninja_ammo.json
+msgid "Shurikens are ninja stars for throwing"
+msgstr "手裡劍是用於投擲的忍者星形鏢"
+
+#. ~ Description for {'str': 'Shuriken', 'str_pl': 'Shurikens'}
+#: .\ninja_ammo.json
+msgid "Shurikens that aren't ninja stars."
+msgstr "不是忍者星形鏢的手裡劍。"
+
+#: .\ninja_ammo.json
+msgid "Paper Shuriken"
+msgid_plural "Paper Shurikens"
+msgstr[0] "紙製手裡劍"
+
+#. ~ Description for {'str': 'Paper Shuriken', 'str_pl': 'Paper Shurikens'}
+#: .\ninja_ammo.json
+msgid "These are shuriken made of paper."
+msgstr "這些是用紙製成的手裡劍。"
+
+#: .\ninja_ammo.json
+msgid "rocket fuel"
+msgid_plural "rocket fuel"
+msgstr[0] "火箭燃料"
+
+#. ~ Description for {'str': 'rocket fuel', 'str_pl': 'rocket fuel'}
+#: .\ninja_ammo.json
+msgid ""
+"A chunk of a zinc powder and sulfur mixture, bound together by superglue, "
+"that can be used as an impromptu rocket fuel."
+msgstr "一塊鋅粉與硫磺的混合物，由強力膠粘合，可用作臨時火箭燃料。"
+
+#: .\ninja_ammo_types.json
+msgid "shuriken"
+msgstr "手裡劍"
+
+#: .\ninja_ammo_types.json
+msgid "Ninja jet fuel"
+msgstr "忍者噴氣燃料"
+
+#: .\ninja_factions.json .\ninja_npc_lower.json
+msgid "Ninja"
+msgstr "忍者"
+
+#. ~ Description for Ninja
+#: .\ninja_factions.json
+msgid ""
+"Ninja doesn't belong anywhere. They are never get a monarch, but has been "
+"well organized. their purpose is unknown, they're trying to eliminate "
+"others."
+msgstr "忍者不屬於任何地方。他們從未有過君主，但組織嚴密。他們的目的未知，試圖消滅他人。"
+
+#. ~ 'close' action message of some gate object.
+#: .\ninja_gates.json
+msgid "closed ninja wall"
+msgstr "關閉的忍者牆"
+
+#. ~ 'fail' action message of some gate object.
+#: .\ninja_gates.json
+msgid "You fail"
+msgstr "你失敗了"
+
+#. ~ 'open' action message of some gate object.
+#: .\ninja_gates.json
+msgid "Open ninja wall"
+msgstr "打開忍者牆"
+
+#. ~ 'pull' action message of some gate object.
+#: .\ninja_gates.json
+msgid "Opens ninja wall"
+msgstr "打開忍者牆"
+
+#: .\ninja_generics.json
+msgid "Cosplay map"
+msgid_plural "Cosplay maps"
+msgstr[0] "角色扮演地圖"
+
+#. ~ Use action message for {'str': 'Cosplay map'}.
+#: .\ninja_generics.json
+msgid "You now know where the cosplay party is."
+msgstr "你現在知道角色扮演派對在哪裡了。"
+
+#. ~ Description for {'str': 'Cosplay map'}
+#: .\ninja_generics.json
+msgid "A map of the venue of a cosplay party."
+msgstr "角色扮演派對會場的地圖。"
+
+#: .\ninja_generics.json
+msgid "Ninja note"
+msgid_plural "Ninja notes"
+msgstr[0] "忍者筆記"
+
+#. ~ Description for {'str': 'Ninja note', 'str_pl': 'Ninja notes'}
+#: .\ninja_generics.json
+msgid ""
+"It is a note of a ninja. I use it to write each other's correspondence and "
+"phrase. The letters are written in black."
+msgstr "這是一份忍者的筆記。我用來書寫彼此的信件和短語。文字用黑色墨水書寫。"
+
+#: .\ninja_martialarts.json
+msgid "surprise attack"
+msgstr "奇襲"
+
+#: .\ninja_martialarts.json
+#, c-format
+msgid "You surprise attack %s"
+msgstr "你對 %s 發動了奇襲"
+
+#: .\ninja_martialarts.json
+#, c-format
+msgid "<npcname> surprise attacks %s"
+msgstr "<npcname> 對 %s 發動了奇襲"
+
+#: .\ninja_martialarts.json
+msgid "Assassination"
+msgstr "暗殺"
+
+#: .\ninja_martialarts.json
+#, c-format
+msgid "A merciless blow from the back to %s"
+msgstr "對 %s 背後發動的無情一擊"
+
+#: .\ninja_martialarts.json
+msgid "<npcname> gets a merciless blow"
+msgstr "<npcname> 遭受了無情一擊"
+
+#: .\ninja_martialarts.json
+msgid "Abandonment"
+msgstr "棄身"
+
+#: .\ninja_martialarts.json
+#, c-format
+msgid "%s dodged by abandonment"
+msgstr "%s 通過棄身躲開了攻擊"
+
+#: .\ninja_martialarts.json
+#, c-format
+msgid "<npcname>%s dodged by abandonment"
+msgstr "<npcname>%s 通過棄身躲開了攻擊"
+
+#: .\ninja_martialarts.json
+msgid "Ninjutsu"
+msgstr "忍術"
+
+#. ~ Description for martial art '{'str': 'Ninjutsu'}'
+#: .\ninja_martialarts.json
+msgid ""
+"Ninjutsu is a traditional art of combining martial arts and tactics used by "
+"ninja from the Kamakura period to the Edo period. We focus on quick and "
+"accurate covert attacks. It makes the superhuman battle possible by using "
+"the behavior principle of Sun Tzu Feng Shima Volcano."
+msgstr ""
+"忍術是從鎌倉時代到江戶時代忍者使用的結合武術與戰術的傳統技藝。我們專注於快速而精準的隱秘攻擊。它通過運用孫子兵法風林火山的行為原則，使超乎常人的戰鬥成為可能。"
+
+#. ~ Initiate message for martial art '{'str': 'Ninjutsu'}'
+#: .\ninja_martialarts.json
+msgid ""
+"風林火山:Swift as wind, gentle as the forest, fierce as the fire, unshakable as "
+"mountain"
+msgstr ""
+"風林火山:Swift as wind, gentle as the forest, fierce as the fire, unshakable as "
+"mountain"
+
+#: .\ninja_martialarts.json
+msgid "Ninjutsu (Fire)"
+msgstr "忍術（火）"
+
+#. ~ Description of buff 'Ninjutsu (Fire)' for martial art '{'str':
+#. 'Ninjutsu'}'
+#: .\ninja_martialarts.json
+msgid ""
+"Activation condition: Attack hits \n"
+" Accuracy and damage increased by 20% of Dexterity "
+msgstr ""
+"激活條件：攻擊命中 \n"
+" 命中率與傷害增加敏捷的20%"
+
+#: .\ninja_martialarts.json
+msgid "Ninjutsu (Forest)"
+msgstr "忍術（林）"
+
+#. ~ Description of buff 'Ninjutsu (Forest)' for martial art '{'str':
+#. 'Ninjutsu'}'
+#: .\ninja_martialarts.json
+msgid ""
+"Your training allows you to make no noise when attacking and less noise when moving around.\n"
+"\n"
+"Melee and unarmed attacks generate 0 noise.  Moving generates 1/2 as much noise."
+msgstr ""
+"你的訓練使你在攻擊時不發出聲響，移動時產生的噪音也更少。\n"
+"\n"
+"近戰與徒手攻擊產生0噪音。移動時產生的噪音減半。"
+
+#: .\ninja_martialarts.json
+msgid "Ninjutsu (Wind)"
+msgstr "忍術（風）"
+
+#. ~ Description of buff 'Ninjutsu (Wind)' for martial art '{'str':
+#. 'Ninjutsu'}'
+#: .\ninja_martialarts.json
+msgid "Activation condition: Avoid attack +1 "
+msgstr "激活條件：躲避攻擊 +1"
+
+#: .\ninja_martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr "二天一流"
+
+#: .\ninja_monsters.json .\ninja_toos.json
+msgid "Decoy doll"
+msgid_plural "Decoy dolls"
+msgstr[0] "誘餌人偶"
+
+#. ~ Description for {'str': 'Decoy doll'}
+#: .\ninja_monsters.json
+msgid ""
+"I made shirts on trees and attached strings so that I could produce "
+"movement. It is installed on the floor."
+msgstr "我在樹上製作了襯衫並繫上細繩，以便能產生移動。它被安裝在地板上。"
+
+#: .\ninja_monsters.json
+msgid "After Image"
+msgid_plural "After Images"
+msgstr[0] "殘像"
+
+#. ~ Description for {'str': 'After Image'}
+#: .\ninja_monsters.json
+msgid "Goshigoshi .... This is afterimage ...!"
+msgstr "五十四……這是殘像……！"
+
+#: .\ninja_monsters.json
+msgid "Spring Floor"
+msgid_plural "Spring Floors"
+msgstr[0] "彈簧地板"
+
+#. ~ Description for {'str': 'Spring Floor'}
+#: .\ninja_monsters.json
+msgid ""
+"It is a floor type defense robot. Jump up and play the intruder. \n"
+" Despite being devised as defense method not to kill \n"
+" the user who brought a cruel trap to the destroyed place was banned and manufacturing was banned as being inhumane."
+msgstr ""
+"這是一種地板型防禦機器人。它會跳起來戲弄入侵者。\n"
+"儘管其設計初衷是作為不致命的防禦手段，\n"
+"但將殘酷陷阱帶到被毀之地的使用者被禁止，且因其不人道，製造也被禁止。"
+
+#: .\ninja_npc_higher.json
+msgid "High Ninja"
+msgstr "上忍"
+
+#: .\ninja_npc_higher.json
+msgid "I'm a master of martial arts."
+msgstr "我是武術大師。"
+
+#: .\ninja_npc_higher.json
+msgid "HIGH NINJA"
+msgstr "上忍"
+
+#: .\ninja_npc_higher.json
+msgid "Ignite 'Blaze' - HIGH NINJA"
+msgstr "點燃‘烈焰’ - 上忍"
+
+#: .\ninja_npc_lower.json
+msgid "I'm a wandering master of martial arts."
+msgstr "我是一名雲遊的武術大師。"
+
+#: .\ninja_npc_lower.json
+msgid "NINJA"
+msgstr "忍者"
+
+#: .\ninja_other_changes.json
+msgid "hose"
+msgid_plural "hoses"
+msgstr[0] "軟管"
+
+#: .\ninja_other_changes.json
+msgid "chemical thrower"
+msgid_plural "chemical throwers"
+msgstr[0] "化學噴射器"
+
+#: .\ninja_other_changes.json
+msgid "bolts"
+msgstr "弩箭"
+
+#: .\ninja_professions.json
+msgid "Disciple of Ninjutsu"
+msgstr "忍術門徒"
+
+#. ~ Description for Disciple of Ninjutsu
+#: .\ninja_professions.json
+msgid ""
+"I inherited Ninjutsu from my grandfather. I usually live a life that has not"
+" changed from the ordinary citizens, but I secretly practice my training and"
+" I am acquiring mystery. After that we need physical strength to operate it."
+msgstr "我從祖父那裡繼承了忍術。我通常過著與普通市民無異的生活，但私下裡堅持修煉，逐漸領悟奧秘。之後我們需要體力來運用它。"
+
+#: .\ninja_professions.json
+msgctxt "profession_male"
+msgid "Ninja"
+msgstr "忍者"
+
+#: .\ninja_professions.json
+msgctxt "profession_female"
+msgid "Kunoichi"
+msgstr "女忍者"
+
+#. ~ Profession (male Ninja) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a disciple to Ninjutsu. The ninja occupation is no longer necessary "
+"in modern times, but its skill, knowledge, and spirit have been handed down "
+"in succession. It will not change even if major catastrophe occurs. Let's "
+"survive in order to survive your school!"
+msgstr "你是忍術的門徒。忍者職業在現代已非必需，但其技藝、知識與精神卻代代相傳。即便發生重大災難也不會改變。為了傳承你的流派，努力生存下去吧！"
+
+#. ~ Profession (female Kunoichi) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a disciple to Ninjutsu. The ninja occupation is no longer necessary "
+"in modern times, but its skill, knowledge, and spirit have been handed down "
+"in succession. It will not change even if major catastrophe occurs. Let's "
+"survive in order to survive your school!"
+msgstr "你是忍術的門徒。忍者職業在現代已非必需，但其技藝、知識與精神卻代代相傳。即便發生重大災難也不會改變。為了傳承你的流派，努力生存下去吧！"
+
+#: .\ninja_professions.json
+msgctxt "profession_male"
+msgid "Ninja (Cosplay)"
+msgstr "忍者（角色扮演）"
+
+#: .\ninja_professions.json
+msgctxt "profession_female"
+msgid "Kunoichi(Cosplay)"
+msgstr "女忍者（角色扮演）"
+
+#. ~ Profession (male Ninja (Cosplay)) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"I wanted to be a ninja. It seems that some serious things have happened, but"
+" now is my chance. The neighbors who watch with blank white eyes don't have "
+"any laws to stop me anymore.  Unfortunately the cosplay party seems to be "
+"canceled."
+msgstr ""
+"我曾夢想成為忍者。雖然似乎發生了嚴重的事情，但現在正是我的機會。那些用空洞白眼看我的鄰居們再也無法用法律阻止我了。可惜角色扮演派對似乎取消了。"
+
+#. ~ Profession (female Kunoichi(Cosplay)) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"I wanted to be a ninja. It seems that some serious things have happened, but"
+" now is my chance. The neighbors who watch with blank white eyes don't have "
+"any laws to stop me anymore.  Unfortunately the cosplay party seems to be "
+"canceled."
+msgstr ""
+"我曾夢想成為忍者。雖然似乎發生了嚴重的事情，但現在正是我的機會。那些用空洞白眼看我的鄰居們再也無法用法律阻止我了。可惜角色扮演派對似乎取消了。"
+
+#: .\ninja_professions.json
+msgid "Ninja Slayer"
+msgstr "忍者殺手"
+
+#. ~ Description for Ninja Slayer
+#: .\ninja_professions.json
+msgid "Ninja must all be killed ... There is no mercy ..."
+msgstr "忍者必須全部殺死……絕不手軟……"
+
+#: .\ninja_professions.json
+msgctxt "profession_male"
+msgid "Ninja Slayer"
+msgstr "忍者殺手"
+
+#: .\ninja_professions.json
+msgctxt "profession_female"
+msgid "Ninja Slayer"
+msgstr "忍者殺手"
+
+#. ~ Profession (male Ninja Slayer) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"It is an embarrassed person who is troubled by the delusion that Ninja "
+"killed a beloved person, killed himself, and revived his magical ability by "
+"near-death experiences. Memory is false, but vengeance for Ninja left by you"
+" is real."
+msgstr "這是一個因妄想而困擾的可憐人，他幻想忍者殺害了摯愛之人，自殺未遂後通過瀕死體驗重獲魔力。記憶是虛假的，但你留下的對忍者的復仇卻是真實的。"
+
+#. ~ Profession (female Ninja Slayer) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"It is an embarrassed person who is troubled by the delusion that Ninja "
+"killed a beloved person, killed himself, and revived his magical ability by "
+"near-death experiences. Memory is false, but vengeance for Ninja left by you"
+" is real."
+msgstr "這是一個因妄想而困擾的可憐人，他幻想忍者殺害了摯愛之人，自殺未遂後通過瀕死體驗重獲魔力。記憶是虛假的，但你留下的對忍者的復仇卻是真實的。"
+
+#: .\ninja_professions.json
+msgid "Tattoos"
+msgstr "紋身"
+
+#. ~ Description for Tattoos
+#: .\ninja_professions.json
+msgid ""
+"A picture of a dragon is engraved. You will not be able to enter the pool or"
+" beach."
+msgstr "刻有一條龍的圖案。你將無法進入游泳池或海灘。"
+
+#: .\ninja_professions.json
+msgctxt "profession_male"
+msgid "Yakuza"
+msgstr "黑道成員"
+
+#: .\ninja_professions.json
+msgctxt "profession_female"
+msgid "Yakuza Wife"
+msgstr "黑道之妻"
+
+#. ~ Profession (male Yakuza) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Yakuza is a group of gangsters who systematically operate violence and earn "
+"money by crime. Numerous enemies who disturb you before the accident ... "
+"There are no more police, politicians, law, other gangsters, bosses, etc. At"
+" last the time has come when your family will take the heaven."
+msgstr ""
+"黑道是有組織地實施暴力並通過犯罪牟利的幫派。事故前騷擾你的眾多敵人……警察、政客、法律、其他幫派、老大等都已不復存在。終於到了你的家族掌控天下的時候。"
+
+#. ~ Profession (female Yakuza Wife) description
+#: .\ninja_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Yakuza is a group of gangsters who systematically operate violence and earn "
+"money by crime. Numerous enemies who disturb you before the accident ... "
+"There are no more police, politicians, law, other gangsters, bosses, etc. At"
+" last the time has come when your family will take the heaven."
+msgstr ""
+"黑道是有組織地實施暴力並通過犯罪牟利的幫派。事故前騷擾你的眾多敵人……警察、政客、法律、其他幫派、老大等都已不復存在。終於到了你的家族掌控天下的時候。"
+
+#: .\ninja_snippets.json
+msgid ""
+"Apparently it seems like cryptography but I can not understand it, but something like a sketch is written \n"
+" ãˆ? This is a hidden passage!"
+msgstr ""
+"看起來像是密碼但無法理解，不過寫著類似草圖的東西\n"
+"え？這是一條密道！"
+
+#: .\ninja_snippets.json
+msgid ""
+"This is a ninja 's epistemology phrase. \n"
+"It is dirty and can not be read."
+msgstr ""
+"這是忍者的認識論短語。\n"
+"它很髒，無法閱讀。"
+
+#: .\ninja_snippets.json
+msgid ""
+"               - PEOPLE TO KILL -     \n"
+" \n"
+"<full_name>\n"
+" \n"
+"(A hastily drawn picture of you...)"
+msgstr ""
+"               - 必殺之人 -     \n"
+" \n"
+"<full_name>\n"
+" \n"
+"（一張匆忙繪製的你的畫像……）"
+
+#: .\ninja_snippets.json
+msgid ""
+"There are various recipes written on the board. \n"
+" ... \n"
+" The egg dish of the latter poster is mostly marked with a circle. \n"
+" All of the bluegill's dishes are crossed It is attached."
+msgstr ""
+"板上寫著各種食譜。\n"
+"……\n"
+"後一張海報的蛋類菜餚大多標有圓圈。\n"
+"所有藍鰓太陽魚的菜餚都被打上了叉。"
+
+#: .\ninja_snippets.json
+msgid ""
+"         [Ninja Enterprises] \n"
+" \n"
+" \" Unnamed persons will be killed \n"
+"  Please enter the reception area after signing in. \n"
+" Guns are strictly prohibited. \n"
+" \n"
+" Opening hours: 9: 00 - 17: 00 \n"
+" Closed holiday: Saturdays, Sundays, and public holidays "
+msgstr ""
+"         [忍者企業] \n"
+" \n"
+" “未具名者將被處決\n"
+"  請簽到後進入接待區。\n"
+"  嚴禁攜帶槍支。\n"
+" \n"
+" 營業時間：9:00 - 17:00\n"
+" 休息日：週六、週日及公共假日”"
+
+#: .\ninja_snippets.json
+msgid ""
+"       [Battle training facility] \n"
+" - Usage notes - \n"
+" 1. Do not miss training zombies \n"
+" 2. Restore traps \n"
+" 3. Hurry and die"
+msgstr ""
+"       [戰鬥訓練設施] \n"
+" - 使用須知 - \n"
+" 1. 勿錯過訓練殭屍\n"
+" 2. 恢復陷阱\n"
+" 3. 趕緊去死"
+
+#: .\ninja_snippets.json
+msgid ""
+" \n"
+"  -  Open prohibition -   \n"
+" "
+msgstr ""
+" \n"
+"  -  禁止開啟 -   \n"
+" "
+
+#: .\ninja_snippets.json
+msgid ""
+" \n"
+"     Under construction.     \n"
+"      DANGER\n"
+" "
+msgstr ""
+" \n"
+"     施工中。     \n"
+"      危險\n"
+" "
+
+#: .\ninja_snippets.json
+msgid ""
+"                [Karakuri Ninja Houses] \n"
+" \n"
+" * * * No other people coming in except * * * \n"
+" \n"
+" Please contact the vendor on the intercom with a ninja in charge. \n"
+" Will enter inside There is no guarantee of life. \n"
+" \n"
+" The visit of Scenic spot: Shinobi no Ike is a reservation system."
+msgstr ""
+"                [機關忍者屋] \n"
+" \n"
+" * * * 除相關人員外禁止入內 * * * \n"
+" \n"
+" 請通過內部對講機聯繫負責的忍者供應商。\n"
+" 進入內部生命無保障。\n"
+" \n"
+" 景點“忍之池”參觀需預約。"
+
+#: .\ninja_snippets.json
+msgid ""
+"Hell-o! \n"
+" \n"
+" (Punk Pando posters are pasted ... ...)"
+msgstr ""
+"地獄你好！\n"
+" \n"
+"（朋克潘多海報被貼上了……）"
+
+#: .\ninja_snippets.json
+msgid ""
+"Tomorrow won't work \n"
+" \n"
+" (Punk Pando posters are pasted ... ...)"
+msgstr ""
+"明天不行\n"
+" \n"
+"（朋克潘多海報被貼上了……）"
+
+#: .\ninja_snippets.json
+msgid ""
+"We decided to abandon this facility. \n"
+" A central unit will resume sarcophagination as soon as concrete is ready. \n"
+" \n"
+" Â· Employees should transfer materials and goods to the head office. \n"
+" Â· Do not get close to the equipment until the end of the coal mining. \n"
+" Â· Wear protective clothing when working \n"
+" Â· We will promptly remove any abnormal officials. \n"
+" Â· Study body If there is a possibility of an outflow, follow the action sequence. \n"
+" \n"
+" - Ninja Enterprise Security Division"
+msgstr ""
+"我們決定廢棄此設施。\n"
+" 一旦混凝土就緒，中央單位將立即恢復石棺化處理。\n"
+" \n"
+" · 員工應將物資和貨物轉移至總部。\n"
+" · 在採煤結束前勿靠近設備。\n"
+" · 工作時請穿戴防護服\n"
+" · 我們將迅速清除任何異常官員。\n"
+" · 若研究體有洩露可能，請遵循行動序列。\n"
+" \n"
+" - 忍者企業安全部"
+
+#: .\ninja_snippets.json
+msgid ""
+"\n"
+" - Final Action Sequence - \n"
+" \n"
+" ... \n"
+" \n"
+" (I got everything with the yellow and black logo ...) \n"
+" \n"
+" [Danger]  No opening Be sure to wear protective clothing at times!"
+msgstr ""
+"\n"
+" - 最終行動序列 - \n"
+" \n"
+" …… \n"
+" \n"
+"（所有帶黃黑標誌的物品都已獲取……） \n"
+" \n"
+" [危險] 禁止開啟！務必隨時穿戴防護服！"
+
+#: .\ninja_terrain.json
+msgid "wall"
+msgstr "牆壁"
+
+#. ~ Description for wall
+#: .\ninja_terrain.json
+msgid "This is a secret door"
+msgstr "這是一扇暗門"
+
+#: .\ninja_terrain.json
+msgid "smash!"
+msgstr "砸！"
+
+#: .\ninja_terrain.json
+msgid "whump!"
+msgstr "砰！"
+
+#: .\ninja_terrain.json
+msgid "Damaged hidden door (wall)"
+msgstr "受損的隱藏門（牆壁）"
+
+#. ~ Description for Damaged hidden door (wall)
+#: .\ninja_terrain.json
+msgid "This is a damaged hidden door"
+msgstr "這是一扇受損的隱藏門"
+
+#: .\ninja_terrain.json
+msgid "crash!"
+msgstr "崩潰！"
+
+#: .\ninja_terrain.json
+msgid "Open hidden door (wall)"
+msgstr "開啟的隱藏門（牆壁）"
+
+#. ~ Description for Open hidden door (wall)
+#: .\ninja_terrain.json
+msgid "This is an open hidden door"
+msgstr "這是一扇開啟的隱藏門"
+
+#: .\ninja_terrain.json
+msgid "wall(metal)"
+msgstr "牆壁（金屬）"
+
+#. ~ Description for wall(metal)
+#: .\ninja_terrain.json
+msgid "This is a ninja secret metal wall"
+msgstr "這是一面忍者秘密金屬牆"
+
+#: .\ninja_terrain.json
+msgid "metal screeching!"
+msgstr "金屬尖嘯聲！"
+
+#: .\ninja_terrain.json
+msgid "clang!"
+msgstr "哐當！"
+
+#: .\ninja_terrain.json
+msgid "Damaged secret door (metal)"
+msgstr "受損的秘密門（金屬）"
+
+#. ~ Description for Damaged secret door (metal)
+#: .\ninja_terrain.json
+msgid "This is a damaged ninja secret door"
+msgstr "這是一扇受損的忍者秘密門"
+
+#: .\ninja_terrain.json
+msgid "Open secret door (metal)"
+msgstr "開啟的秘密門（金屬）"
+
+#. ~ Description for Open secret door (metal)
+#: .\ninja_terrain.json
+msgid "This is an open ninja secret door"
+msgstr "這是一扇開啟的忍者秘密門"
+
+#. ~ Description for wall
+#: .\ninja_terrain.json
+msgid "This is a secret ninja gate control"
+msgstr "這是一個秘密忍者門控裝置"
+
+#. ~ Description for wall
+#: .\ninja_terrain.json
+msgid "This is a secret ninja wall"
+msgstr "這是一面秘密忍者牆"
+
+#: .\ninja_terrain.json
+msgid "Bed (rock)"
+msgstr "床（岩石）"
+
+#. ~ Description for Bed (rock)
+#: .\ninja_terrain.json
+msgid "This is a ninja secret rock floor"
+msgstr "這是一塊忍者秘密岩石地板"
+
+#: .\ninja_terrain.json
+msgid "Wall (metal)"
+msgstr "牆壁（金屬）"
+
+#. ~ Description for Wall (metal)
+#: .\ninja_terrain.json
+msgid "This is a secret ninja metal gate control"
+msgstr "這是一個秘密忍者金屬門控裝置"
+
+#. ~ Description for Wall (metal)
+#: .\ninja_terrain.json
+msgid "This is a secret ninja metal wall"
+msgstr "這是一面秘密忍者金屬牆"
+
+#: .\ninja_terrain.json
+msgid "floor"
+msgstr "地板"
+
+#. ~ Description for floor
+#: .\ninja_terrain.json
+msgid "This is a ninja secret floor"
+msgstr "這是一塊忍者秘密地板"
+
+#: .\ninja_terrain.json
+msgid "bed"
+msgstr "床"
+
+#. ~ Description for bed
+#: .\ninja_terrain.json
+msgid "This is a ninja secret air gate control"
+msgstr "這是一個忍者秘密氣閘控制裝置"
+
+#. ~ Description for wall
+#: .\ninja_terrain.json
+msgid "This is a ninja secret water gate control"
+msgstr "這是一個忍者秘密水閘控制裝置"
+
+#: .\ninja_toos.json
+msgid "Knight katana"
+msgid_plural "Knight katanas"
+msgstr[0] "騎士刀"
+
+#. ~ Description for {'str': 'Knight katana'}
+#: .\ninja_toos.json
+msgid ""
+"This is a sword that Japanese ninja deal with. It is a straight sword with "
+"no warpage, with a length intermediate between the sword and chisel. I could"
+" also use it to climb the wall with my legs on the brim."
+msgstr "這是日本忍者使用的刀。這是一把無彎曲的直刀，長度介於刀與鑿之間。我還可以用它踩著刀緣攀爬牆壁。"
+
+#: .\ninja_toos.json
+msgid "Kusari gama"
+msgid_plural "Kusari gamas"
+msgstr[0] "鎖鐮"
+
+#. ~ Description for {'str': 'Kusari gama'}
+#: .\ninja_toos.json
+msgid ""
+"It is a weapon that connects weights to a mowing scythe with a long chain. "
+"It was mainly used as a hidden weapon. By throwing the weight like a sling, "
+"you can hit an enemy of a distant intervalã€"
+msgstr "這是一種用長鏈將重物連接到鐮刀上的武器。它主要被用作暗器。通過像投石索一樣投擲重物，可以擊中遠距離的敵人。"
+
+#: .\ninja_toos.json
+msgid "Nunchuku"
+msgid_plural "Nunchukus"
+msgstr[0] "雙節棍"
+
+#. ~ Description for {'str': 'Nunchuku'}
+#: .\ninja_toos.json
+msgid ""
+"It is a weapon originating from Okinawa in Japan. By interwoven fighting by "
+"bare hands, we can shoot a variety of blows while dazzling our opponent. You"
+" wish you were Bruce Lee."
+msgstr "這是一種源自日本沖繩的武器。通過徒手交織搏擊，我們可以在迷惑對手的同時施展多種打擊。你希望自己是李小龍。"
+
+#: .\ninja_toos.json
+msgid "Scroll of thunder release art"
+msgid_plural "Scroll of thunder release art"
+msgstr[0] "雷遁術卷軸"
+
+#: .\ninja_toos.json
+msgid ""
+"It is a discharge device which camouflaged as a scroll ... where the "
+"technique of thunder release was written. It operates by feeding power from "
+"the UPS. Furess is a technique to escape. Get away from the zombie while he "
+"is immobilized."
+msgstr "這是一種偽裝成卷軸的放電裝置……上面記載了雷遁之術。它通過從UPS供電來運作。風雷遁是一種逃脫技巧。在殭屍無法動彈時趁機遠離。"
+
+#: .\ninja_toos.json .\ninja_vehicle_parts.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\ninja_toos.json .\ninja_vehicle_parts.json
+msgid "auto"
+msgstr "自動"
+
+#: .\ninja_toos.json
+msgid "Scroll of fire art"
+msgid_plural "Scrolls of fire art"
+msgstr[0] "火遁卷軸"
+
+#: .\ninja_toos.json
+msgid ""
+"It is an outright flamethrower that disguised as a scroll ... where art of "
+"fire abstinence was written. Fill with gasoline or napalm and use. Furess is"
+" a technique to escape. Let's get away with the zombies burning."
+msgstr "這是一種偽裝成卷軸的直噴式火焰噴射器……上面記載了火遁禁術。填充汽油或凝固汽油後使用。風雷遁是一種逃脫技巧。讓我們在殭屍燃燒時趁機脫身。"
+
+#: .\ninja_toos.json
+msgid "Scroll of afterimage"
+msgid_plural "Scroll of afterimages"
+msgstr[0] "殘影卷軸"
+
+#. ~ Description for {'str': 'Scroll of afterimage'}
+#: .\ninja_toos.json
+msgid ""
+"It is a portable fog screen disguised as scroll of divisional technique. "
+"Collect the moisture in the air and scatter it as fog and project the "
+"afterimage with the projector. The effect time is very short and the image "
+"seems rather blurred, but in a moment it may be possible to make the enemy "
+"dazzle."
+msgstr ""
+"這是一種偽裝成分身術卷軸的便攜式霧屏。收集空氣中的水分並將其散佈為霧氣，並通過投影儀投射殘影。效果時間很短，圖像看起來相當模糊，但瞬間或許能讓敵人眼花繚亂。"
+
+#: .\ninja_toos.json
+msgid "Tornado technique scroll"
+msgid_plural "Tornado technique scrolls"
+msgstr[0] "龍捲風術卷軸"
+
+#. ~ Description for {'str': 'Tornado technique scroll'}
+#: .\ninja_toos.json
+msgid ""
+"It is a new type of vacuum cleaner that disguised as a scroll of tornado's "
+"technique. * We clean the surroundings by raising a tornado. Its attractive "
+"force does not decay, it is difficult to control, so you need to be careful "
+"when you use it."
+msgstr "這是一種偽裝成龍捲風術卷軸的新型吸塵器。*我們通過掀起龍捲風來清理周圍環境。其吸引力不會衰減，但難以控制，因此使用時需小心。"
+
+#. ~ Use action friendly_msg for {'str': 'Decoy doll'}.
+#: .\ninja_toos.json
+msgid "The decoy doll seems to be dancing."
+msgstr "誘餌人偶似乎在跳舞。"
+
+#. ~ Use action hostile_msg for {'str': 'Decoy doll'}.
+#: .\ninja_toos.json
+msgid " set up a decoy doll, but the control string has run out."
+msgstr "設置了誘餌人偶，但控制線已用完。"
+
+#. ~ Description for {'str': 'Decoy doll'}
+#: .\ninja_toos.json
+msgid ""
+"I put on shirts on trees and attached strings so that I could produce "
+"movement. If you have bad heads, you will mistake this doll for you and show"
+" off your ski. It installs it by using it."
+msgstr "我在樹上套上襯衫並繫上線，以便能產生動作。如果敵人頭腦不好，就會誤以為這個人偶是你，並炫耀其滑雪技巧。通過使用它來安裝。"
+
+#: .\ninja_toos.json
+msgid "Black armor"
+msgid_plural "Black armors"
+msgstr[0] "黑色護甲"
+
+#. ~ Description for {'str': 'Black armor'}
+#: .\ninja_toos.json
+msgid ""
+"These are ninja clothes. It is black in order to be able to blend in with "
+"the dark night. In reality, the actual ninja wore leaf colored camoflage."
+msgstr "這是忍者服裝。為了能與黑夜融為一體，它被設計成黑色。實際上，真正的忍者穿的是葉色迷彩服。"
+
+#: .\ninja_toos.json
+msgid "Survivor ninja suit"
+msgid_plural "Survivor ninja suits"
+msgstr[0] "倖存者忍者服"
+
+#. ~ Description for {'str': 'Survivor ninja suit'}
+#: .\ninja_toos.json
+msgid ""
+"We reinforced the black sheath with modern materials. From the ancient "
+"times, the main character's costume is determined to be red."
+msgstr "我們用現代材料加固了黑色護甲。自古以來，主角的服裝就被定為紅色。"
+
+#: .\ninja_toos.json
+msgid "Ninja hood"
+msgid_plural "Ninja hoods"
+msgstr[0] "忍者頭巾"
+
+#. ~ Description for {'str': 'Ninja hood'}
+#: .\ninja_toos.json
+msgid "It is a set of ninja's hood, bowl and face cheeks."
+msgstr "這是一套忍者的頭巾、碗狀護額和麵頰護具。"
+
+#: .\ninja_toos.json
+msgid "Survivor ninja hood"
+msgid_plural "Survivor ninja hoods"
+msgstr[0] "倖存者忍者頭巾"
+
+#. ~ Description for {'str': 'Survivor ninja hood'}
+#: .\ninja_toos.json
+msgid ""
+"A reinforced ninja hood with modern materials. A compact gas mask, dual "
+"structure goggles that can shield light are attached. Two characters of "
+"shinobi kill are engraved on the face cheek."
+msgstr "用現代材料加固的忍者頭巾。附有緊湊型防毒面具和可屏蔽光線的雙層結構護目鏡。面頰護具上刻有“忍殺”兩個字符。"
+
+#: .\ninja_toos.json
+msgid "Ninja chainmail"
+msgid_plural "Ninja chainmails"
+msgstr[0] "忍者鎖子甲"
+
+#. ~ Description for {'str': 'Ninja chainmail'}
+#: .\ninja_toos.json
+msgid ""
+"Worn under your clothes, made of steel chain that a ninja wore for battle. "
+"It is heavy and difficult to handle, but it has excellent cutting-edge "
+"performance."
+msgstr "穿在衣服下面，由忍者戰鬥時穿戴的鋼鏈製成。它沉重且難以操控，但具有卓越的防切割性能。"
+
+#: .\ninja_toos.json
+msgid "Survivor ninja chainmail"
+msgid_plural "Survivor ninja chainmails"
+msgstr[0] "倖存者忍者鎖子甲"
+
+#. ~ Description for {'str': 'Survivor ninja chainmail'}
+#: .\ninja_toos.json
+msgid ""
+"It is a lightweight body armor made of Kevlar plate and superalloy. It is "
+"made to not interfere with ninja's light and light action."
+msgstr "這是一種由凱夫拉板和超合金製成的輕質防彈衣。設計上不干擾忍者輕盈靈活的動作。"
+
+#: .\ninja_toos.json
+msgid "Ninja gloves"
+msgid_plural "Ninja glovess"
+msgstr[0] "忍者手套"
+
+#. ~ Description for {'str': 'Ninja gloves'}
+#: .\ninja_toos.json
+msgid ""
+"It is a glove that a ninja wore for battle. It is reinforced with an iron "
+"plate and it is sturdy. It does not disturb the movement of the fingertip."
+msgstr "這是忍者戰鬥時穿戴的手套。用鐵板加固，十分堅固。不會干擾指尖的活動。"
+
+#: .\ninja_toos.json
+msgid "Survivor ninja gloves"
+msgid_plural "Survivor ninja glovess"
+msgstr[0] "倖存者忍者手套"
+
+#. ~ Description for {'str': 'Survivor ninja gloves'}
+#: .\ninja_toos.json
+msgid "These ninja gloves were strengthened with modern materials"
+msgstr "這些忍者手套用現代材料進行了強化"
+
+#: .\ninja_toos.json
+msgid "Tabi"
+msgid_plural "Tabis"
+msgstr[0] "足袋"
+
+#. ~ Description for {'str': 'Tabi'}
+#: .\ninja_toos.json
+msgid ""
+"Tabi is a type of Japanese shoes with a shoe sole on socks, which is a "
+"reproduction of what the ninja used."
+msgstr "足袋是一種日式鞋履，在襪子上加有鞋底，這是對忍者所用之物的復刻。"
+
+#: .\ninja_toos.json
+msgid "Survivor ninja boots"
+msgid_plural "Survivor ninja bootss"
+msgstr[0] "倖存者忍者靴"
+
+#. ~ Use action holster_msg for {'str': 'Survivor ninja boots'}.
+#: .\ninja_toos.json
+msgid "You sheath your %s"
+msgstr "你將你的%s收鞘。"
+
+#. ~ Use action holster_prompt for {'str': 'Survivor ninja boots'}.
+#: .\ninja_toos.json
+msgid "Sheath knife"
+msgstr "收鞘刀"
+
+#. ~ Description for {'str': 'Survivor ninja boots'}
+#: .\ninja_toos.json
+msgid ""
+"These tabi were strengthened with modern materials. We have devised to keep "
+"light movement in every environment. To that extent, the blade preventive "
+"performance has been sacrificed."
+msgstr "這些足袋用現代材料進行了強化。我們設計得能在各種環境中保持輕盈的移動。為此，防刃性能有所犧牲。"
+
+#: .\ninja_toos.json
+msgid "Starving circle"
+msgid_plural "Starving circles"
+msgstr[0] "飢餓之環"
+
+#. ~ Description for {'str': 'Starving circle', 'str_pl': 'Starving circles'}
+#: .\ninja_toos.json
+msgid "A ninja ration."
+msgstr "一份忍者口糧。"
+
+#: .\ninja_toos.json
+msgid "Ninja tengu mask"
+msgid_plural "Ninja tengu masks"
+msgstr[0] "忍者天狗面具"
+
+#. ~ Description for {'str': 'Ninja tengu mask'}
+#: .\ninja_toos.json
+msgid ""
+"Tengu is an imaginary creature in Japan and has a deep relationship with "
+"mountain faith. This is a handicraft imitating the face of the Tengu, it "
+"seems to be a considerable age."
+msgstr "天狗是日本傳說中的虛構生物，與山嶽信仰有深厚淵源。這是一件仿照天狗面孔製作的手工藝品，看起來年代相當久遠。"
+
+#: .\ninja_toos.json
+msgid "Ninja jet pack"
+msgid_plural "Ninja jet packs"
+msgstr[0] "忍者噴氣揹包"
+
+#. ~ Use action msg for {'str': 'Ninja jet pack'}.
+#: .\ninja_toos.json
+msgid "You zoom forward using your jet pack."
+msgstr "你使用噴氣揹包向前疾衝。"
+
+#. ~ Use action need_charges_msg for {'str': 'Ninja jet pack'}.
+#: .\ninja_toos.json
+msgid "You need rocket fuel for your jet pack."
+msgstr "你的噴氣揹包需要火箭燃料。"
+
+#. ~ Description for {'str': 'Ninja jet pack'}
+#: .\ninja_toos.json
+msgid ""
+"It is a backpack type jet pack. Rocket fuel is necessary but high speed "
+"movement is possible by flying. If the output is made too strong, it will "
+"not reach the second floor of the house because it burns the buttocks."
+msgstr "這是一款揹包式噴氣揹包。需要火箭燃料，但可以通過飛行實現高速移動。如果輸出功率調得過高，會因為灼傷臀部而無法抵達房屋二樓。"
+
+#: .\ninja_toos.json
+msgid "Ninja jet pack.(on)"
+msgid_plural "Ninja jet pack.(on)s"
+msgstr[0] "忍者噴氣揹包（開啟）"
+
+#. ~ Use action msg for {'str': 'Ninja jet pack.(on)'}.
+#: .\ninja_toos.json
+msgid "You stopped the jet pack"
+msgstr "你關閉了噴氣揹包"
+
+#. ~ Description for {'str': 'Ninja jet pack.(on)'}
+#: .\ninja_toos.json
+msgid ""
+"It is a backpack type jet pack. Rocket fuel is necessary but high speed "
+"movement is possible by flying. If the output is made too strong, it will "
+"not reach the second floor of the house because it burns the buttocks. It is"
+" on."
+msgstr ""
+"這是一款揹包式噴氣揹包。需要火箭燃料，但可以通過飛行實現高速移動。如果輸出功率調得過高，會因為灼傷臀部而無法抵達房屋二樓。目前處於開啟狀態。"
+
+#: .\ninja_toos.json
+msgid "Hand gun/AY89-3"
+msgid_plural "Hand gun/AY89-3s"
+msgstr[0] "手槍/AY89-3"
+
+#: .\ninja_toos.json
+msgid ""
+"It is a machine pistol numbered as AY (Automatic Yakuza). Looks scary "
+"corresponding to its intimidating size and weight. Design such as mounting "
+"biological parts interlocking interface is strange, especially irregular "
+"firing mode of 8 shots, 9 shots, 3 shots is meaning unknown and was "
+"criticized. Uses Glock's 9 mm magazine."
+msgstr ""
+"這是一款編號為AY（自動黑幫）的衝鋒手槍。其威嚇性的尺寸和重量看起來令人畏懼。諸如搭載生物部件聯鎖接口的設計頗為怪異，尤其是8發、9發、3發的不規則射擊模式意義不明，曾受到批評。使用格洛克9毫米彈匣。"
+
+#: .\ninja_toos.json
+msgid "8 shots"
+msgstr "8發"
+
+#: .\ninja_toos.json
+msgid "9 shots"
+msgstr "9發"
+
+#: .\ninja_toos.json
+msgid "3 shots"
+msgstr "3發"
+
+#: .\ninja_vehicle.json
+msgid "Kawasaki Ninja ZX14"
+msgstr "川崎忍者ZX14"
+
+#: .\ninja_vehicle.json
+msgid "Kawasaki Ninja ZX14 Custom"
+msgstr "川崎忍者ZX14定製版"
+
+#: .\ninja_vehicle.json
+msgid "Yakata car"
+msgstr "宅邸車"
+
+#: .\ninja_vehicle.json
+msgid "Ignite 'Blaze'house trailer"
+msgstr "點燃'烈焰'房車"
+
+#: .\ninja_vehicle_parts.json
+msgid "Shuriken thrower (smg)"
+msgid_plural "Shuriken thrower (smg)s"
+msgstr[0] "手裡劍發射器（衝鋒槍）"
+
+#: .\ninja_vehicle_parts.json
+msgid ""
+"It is a device which modified the coil gun. You can shoot shuriken "
+"continuously. To use it should be installed in the vehicle."
+msgstr "這是改造自線圈槍的裝置。可以連續發射手裡劍。使用時需安裝在載具上。"
+
+#: .\ninja_vehicle_parts.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "衝鋒槍"
+
+#: .\ninja_vehicle_parts.json
+msgid "Automotive / Sub Machine Gun (Shuriken)"
+msgstr "車載/衝鋒槍（手裡劍）"
+
+#: .\ninja_vehicle_parts.json
+msgid "Aisle (tatami)"
+msgid_plural "Aisle (tatami)s"
+msgstr[0] "過道（榻榻米）"
+
+#. ~ Description for {'str': 'Aisle (tatami)'}
+#: .\ninja_vehicle_parts.json
+msgid ""
+"Tatami is traditional Japanese flooring. It is very cool and calm. This "
+"tatami can be installed as the floor of the vehicle."
+msgstr "榻榻米是日本傳統地板材料。它非常涼爽且能讓人平靜。這款榻榻米可作為載具地板安裝。"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "Large Office Tower"
+msgstr "大型辦公塔樓"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "cabin"
+msgstr "小屋"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "cabin basement"
+msgstr "小屋地下室"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "mansion"
+msgstr "豪宅"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "castle tower"
+msgstr "城堡塔樓"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "Nishinomaru Treasury"
+msgstr "西之丸藏寶庫"
+
+#: .\map\ninja_overmap_terrain.json
+msgid "Ignite 'Blaze' Trailer Home"
+msgstr "點燃'烈焰'拖車之家"

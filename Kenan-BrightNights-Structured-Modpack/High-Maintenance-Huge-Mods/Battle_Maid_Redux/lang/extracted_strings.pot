@@ -1,0 +1,2785 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: battle_maid\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\ammo.json
+msgid "maid's blob feed"
+msgid_plural "maid's blob feeds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's blob feed"}
+#: .\ammo.json
+msgid ""
+"Feed made for a certain type of blob. It's a protein paste made out of meat."
+msgstr ""
+
+#: .\ammo.json .\ammo_types.json
+msgid "assassin's throwing knife"
+msgid_plural "assassin's throwing knifes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "assassin's throwing knife"}
+#: .\ammo.json
+msgid ""
+"A nimble blade meant for ranged assassination, but makes an improvised "
+"cutlery tool in a pinch. It's very lightweight and silent and can be used on"
+" both zombies and games involving apples."
+msgstr ""
+
+#: .\ammo.json .\ammo_types.json
+msgid "makeshift throwing knife"
+msgid_plural "makeshift throwing knifes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'makeshift throwing knife'}
+#: .\ammo.json
+msgid ""
+"A crude and simple throwing knife made from a sharpened piece of salvaged "
+"steel with cloth wrapped around it. It's better than throwing rocks, at "
+"least."
+msgstr ""
+
+#: .\ammo.json
+msgid "maid's ladle"
+msgid_plural "maid's ladles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's ladle"}.
+#: .\ammo.json
+msgid "You are overcome with anger."
+msgstr ""
+
+#. ~ Description for {'str': "maid's ladle"}
+#: .\ammo.json
+msgid "A weapon used by a maid when she's seriously angry. Scary!"
+msgstr ""
+
+#. ~ Use action no_deactivate_msg for {'str': "maid's ladle"}.
+#. ~ Description for {'str': "maid's ladle"}
+#: .\ammo.json
+msgid "This is an outrage! You're on the verge of exploding!"
+msgstr ""
+
+#. ~ Use action sound_msg for {'str': "maid's ladle"}.
+#: .\ammo.json
+msgid "You are so furious that even the earth begins to rumble..."
+msgstr ""
+
+#: .\ammo.json
+msgid "maid energy crystal"
+msgid_plural "maid energy crystal"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'maid energy crystal', 'str_pl': 'maid energy
+#. crystal'}
+#: .\ammo.json
+msgid ""
+"A crystallized manifestation of passion. Acts as a source of energy in "
+"certain types of tools for maids."
+msgstr ""
+
+#: .\ammo.json .\ammo_types.json
+msgid "Maid Power"
+msgid_plural "Maid Power"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Maid Power', 'str_pl': 'Maid Power'}
+#: .\ammo.json
+msgid ""
+"A semi-crystallized manifestation of passion, not yet fully catalyzed into a"
+" usable form."
+msgstr ""
+
+#: .\ammo_types.json
+msgid "blob's breakfast"
+msgstr ""
+
+#: .\ammo_types.json
+msgid "Maid Point"
+msgstr ""
+
+#: .\armor.json
+msgid "Victorian maid dress"
+msgid_plural "Victorian maid dresses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Victorian maid dress', 'str_pl': 'Victorian maid
+#. dresses'}
+#: .\armor.json
+msgid ""
+"A classic maid outfit with a white apron, frills and a black one piece. It "
+"has some storage space thanks to the apron and side pockets, including space"
+" for throwing knives. Since it comes with bloomers, you can take off your "
+"underwear and not feel embarrassed about it!"
+msgstr ""
+
+#: .\armor.json
+msgid "French maid dress"
+msgid_plural "French maid dresses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'French maid dress', 'str_pl': 'French maid
+#. dresses'}
+#: .\armor.json
+msgid ""
+"A French maid dress in the modern style, black with a frilly white apron. "
+"Doesn't cover much past the thigh or shoulder."
+msgstr ""
+
+#: .\armor.json
+msgid "strange French maid dress"
+msgid_plural "strange French maid dresses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'strange French maid dress', 'str_pl': 'strange
+#. French maid dresses'}
+#: .\armor.json
+msgid ""
+"A French maid dress in the modern style, black with a frilly white apron. "
+"Doesn't cover much past the thigh or shoulder. Something seems off about it."
+msgstr ""
+
+#: .\armor.json
+msgid "survivor Victorian maid dress"
+msgid_plural "survivor Victorian maid dresses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor Victorian maid dress', 'str_pl':
+#. 'survivor Victorian maid dresses'}
+#: .\armor.json
+msgid ""
+"A Victorian maid dress tailored specifically for post-cataclysm maids. The "
+"kevlar weave provides modest protection, but makes it somewhat harder to "
+"move in."
+msgstr ""
+
+#: .\armor.json
+msgid "Jokyu dress"
+msgid_plural "Jokyu dresses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Jokyu dress', 'str_pl': 'Jokyu dresses'}
+#: .\armor.json
+msgid ""
+"Women's servant clothes worn in Japanese cafes a long time ago. Essentially "
+"a white apron over a kimono."
+msgstr ""
+
+#: .\armor.json
+msgid "lace stockings with garterbelt"
+msgid_plural "lace stockings with garterbelts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'lace stockings with garterbelt', 'str_pl': 'lace
+#. stockings with garterbelts'}
+#: .\armor.json
+msgid ""
+"A set of pure white stockings with garterbelt and panties, decorated with "
+"elegant lacing."
+msgstr ""
+
+#: .\armor.json
+msgid "tuxedo"
+msgid_plural "tuxedos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tuxedo'}
+#: .\armor.json
+msgid "A full-body tuxedo.  Makes the apocalypse feel a little more classy."
+msgstr ""
+
+#: .\armor.json
+msgid "survivor tuxedo"
+msgid_plural "survivor tuxedos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor tuxedo'}
+#: .\armor.json
+msgid ""
+"A tux tailored specifically for post-cataclysm butlers. The kevlar weave "
+"provides modest protection, but makes it somewhat harder to move in."
+msgstr ""
+
+#: .\armor.json
+msgid "maid cap"
+msgid_plural "maid caps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'maid cap'}
+#: .\armor.json
+msgid "A frilly white cap commonly used by maids."
+msgstr ""
+
+#: .\armor.json
+msgid "strange maid headband"
+msgid_plural "strange maid headbands"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'strange maid headband'}
+#: .\armor.json
+msgid ""
+"A frilly white headband commonly used by maids. Something seems off about "
+"it."
+msgstr ""
+
+#: .\armor.json
+msgid "cat eared maid cap"
+msgid_plural "cat eared maid caps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cat eared maid cap'}
+#: .\armor.json
+msgid ""
+"A frilly white cap commonly used by maids. There's two bumps on top of it "
+"that look like cat ears. It's very cute."
+msgstr ""
+
+#: .\armor.json
+msgid "petticoat"
+msgid_plural "petticoats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'petticoat', 'str_pl': 'petticoats'}
+#: .\armor.json
+msgid "A type of frilly undergarment usually worn under skirts."
+msgstr ""
+
+#: .\armor.json
+msgid "tail panties"
+msgid_plural "tail panties"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tail panties', 'str_pl': 'tail panties'}
+#: .\armor.json
+msgid ""
+"A special type of underwear meant for people with tails. Although it's "
+"incredibly thin, it's the last line of defense for your dignity."
+msgstr ""
+
+#: .\armor.json
+msgid "tail briefs"
+msgid_plural "tail briefs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tail briefs', 'str_pl': 'tail briefs'}
+#: .\armor.json
+msgid ""
+"A special type of underwear meant for people with tails. It stands as the "
+"difference between being a gentleman and being a beast."
+msgstr ""
+
+#: .\armor.json
+msgid "maid's scarf"
+msgid_plural "maid's scarfs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's scarf"}
+#: .\armor.json
+msgid ""
+"A very long light cloth scarf, worn over the mouth for warmth.  With the "
+"extra length, it's enough to handle nonstandard facial features and "
+"accommodate your hands too.  Use it to loosen it if you get too warm."
+msgstr ""
+
+#: .\books.json
+msgid "impossible scribbles"
+msgid_plural "impossible scribbles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'impossible scribbles', 'str_pl': 'impossible
+#. scribbles'}
+#: .\books.json
+msgid ""
+"A thin leaflet that's filled with chaotic handwriting, disturbing visuals, "
+"impossible mathematical equations, languages not known to anyone on Earth "
+"and lists of what appears to be names with all of them crossed out. The "
+"leaflet has more pages than possible, each and every one of them getting "
+"more and more chaotic and giving you a splitting headache as the fabric of "
+"reality seems to collapse around your vision. Suddenly, it's all clear to "
+"you. On the final page, you read a complex formula on how to summon a "
+"shoggoth, seemingly written in your handwriting."
+msgstr ""
+
+#: .\items.json
+msgid "protein 'milk'"
+msgid_plural "protein 'milk'"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': "protein 'milk'"}
+#: .\items.json
+msgid ""
+"Thick white liquid, rich in protein. This particular serving is 50x larger "
+"than the average, making it a decent, if very strange, meal."
+msgstr ""
+
+#: .\items.json
+msgid "milk maid serum"
+msgid_plural "milk maid serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'milk maid serum', 'str_pl': 'milk maid serums'}
+#: .\items.json
+msgid ""
+"A mutagenic serum, designed to transform the subject into a docile servant "
+"capable of producing large amounts of milk. Talk to a follower to use."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"In my dream, I was being groomed by a classy old lady. She smiled serenely "
+"and took an apple from somewhere and handed it to me."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was at a table in the great hall of a mansion with food on "
+"the table while musicians played elegant music."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"In my dream, I was being ordered to do chores by an old gentleman. He seemed"
+" somewhat irritated as he stared at me without moving a single muscle of his"
+" facial expression."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was cleaning up the dishes that I had finished eating in "
+"the hall of a mansion while the musicians were playing some somber music."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"The endless stone corridor, I was lighting each of the candlesticks there. "
+"Crawling through the darkness, I silently continued that task. Everywhere, "
+"everywhere, everywhere. ......"
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamt that I was in the great hall of a mansion, arranging freshly caught"
+" food, while a cacophony of musicians played. If you look closely, you will "
+"see that it was me who was laid out."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"I was a cellular body, and something tore me apart, and I became us. "
+"Eventually we began to divide rapidly, one me into a fish, one me into a "
+"lizard, one me into a cat."
+msgstr ""
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was holding my new master against the corpse of my old "
+"master. Ah, freedom is wonderful."
+msgstr ""
+
+#: .\maid_mutagen.json
+msgid "Shoggoth Blood"
+msgid_plural "Shoggoth Bloods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Shoggoth Blood'}
+#: .\maid_mutagen.json
+msgid ""
+"This is blood taken from Shoggoth. The blood itself is wriggling at a slow "
+"rate, even though it hasn't been touched by anything. If you intend to use "
+"it, you will need a syringe..."
+msgstr ""
+
+#: .\maid_mutagen.json
+msgid "Potion of Maid Awakening"
+msgid_plural "Potion of Maid Awakenings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Potion of Maid Awakening'}
+#: .\maid_mutagen.json
+msgid ""
+"It is a liquid obtained by altering Maid Point. When ingested, it can "
+"trigger a mutation that awakens the primordial spirit of service that has "
+"long been a part of humanity."
+msgstr ""
+
+#: .\martial_arts_manuals.json
+msgid "A Maid's Memoirs"
+msgid_plural "A Maid's Memoirss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "A Maid's Memoirs"}
+#: .\martial_arts_manuals.json
+msgid ""
+"A collection of letters written by various maids, detailing the things they "
+"do for their masters. The later pages are filled with drawings from what "
+"little you can peek, but they're stuck together with something. Can teach "
+"you a unique martial art."
+msgstr ""
+
+#: .\martialarts.json
+msgid "L'art du Nettoyage"
+msgstr ""
+
+#. ~ Description for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"It is the servant's duty to take out the trash. Pause to consider your "
+"offensive options."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+msgid "You steady yourself, ready to strike with poise and grace."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+#, c-format
+msgid "%s appears more steady and composed."
+msgstr ""
+
+#: .\martialarts.json
+msgid "For Another"
+msgstr ""
+
+#. ~ Description of buff 'For Another' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"A servant stands between their master and the world.\n"
+"\n"
+"Blocked damage reduced by 100% of Dexterity, -1 Dodge skill, +1 Block attempt"
+msgstr ""
+
+#: .\martialarts.json
+msgid "Silent Presence"
+msgstr ""
+
+#. ~ Description of buff 'Silent Presence' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"A servant must carry out their duties with the appropriate poise and grace.\n"
+"\n"
+"+2 Dodge skill, +1 Dodge attempts."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Rush"
+msgstr ""
+
+#. ~ Description of buff 'Rush' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"Somebody needs you. Steady yourself and hurry to their side.\n"
+"\n"
+"-1 to Hit, +2 Dodge skill, -30% damage\n"
+"Lasts 1 turn"
+msgstr ""
+
+#: .\materials.json
+msgid "maid"
+msgstr ""
+
+#: .\materials.json
+msgid "chipped"
+msgstr ""
+
+#: .\materials.json
+msgid "scratched"
+msgstr ""
+
+#: .\materials.json
+msgid "marked"
+msgstr ""
+
+#: .\materials.json
+msgid "cracked"
+msgstr ""
+
+#: .\materials.json
+msgid "shattered"
+msgstr ""
+
+#: .\melee.json
+msgid "maid's kitchen knife"
+msgid_plural "maid's kitchen knifes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's kitchen knife"}.
+#: .\melee.json
+msgid "The maid's kitchen knife is looking for blood. Let's cook!"
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': "maid's kitchen knife"}.
+#: .\melee.json
+msgid "Not enough maid energy！"
+msgstr ""
+
+#. ~ Description for {'str': "maid's kitchen knife"}
+#: .\melee.json
+msgid ""
+"A strange kitchen knife. The patterns on the blade bring unpleasant thoughts"
+" to mind. When activated, it can drain strength from enemies."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's kitchen knife (powered)"
+msgid_plural "maid's kitchen knife (powered)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's kitchen knife (powered)"}.
+#: .\melee.json
+msgid "You blink the patterns away and sheath the knife."
+msgstr ""
+
+#. ~ Description for {'str': "maid's kitchen knife (powered)"}
+#: .\melee.json
+msgid ""
+"The metal writhes with phantasmal mouths and eyes. Your master hungers."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's frying pan (ignited)"
+msgid_plural "maid's frying pan (ignited)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's frying pan (ignited)"}.
+#: .\melee.json
+msgid ""
+"The ROBFOOD-SOULCO kitchen buddy cooking buddy switches on. How convenient!"
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': "maid's frying pan (ignited)"}.
+#: .\melee.json
+msgid "Not enough maid energy!"
+msgstr ""
+
+#. ~ Description for {'str': "maid's frying pan (ignited)"}
+#: .\melee.json
+msgid ""
+"A strange frying pan that smells of rotting fish. Indigo flames dance "
+"faintly beneath the finish. When activated, it will be wreathed in fire."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's pan (ignited)"
+msgid_plural "maid's pan (ignited)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's pan (ignited)"}.
+#: .\melee.json
+msgid "The flame fizzles out. What were you doing again?"
+msgstr ""
+
+#. ~ Description for {'str': "maid's pan (ignited)"}
+#: .\melee.json
+msgid ""
+"The ROBFOOD-SOULCO kitchen buddy cooking buddy carries an eternal flame that"
+" is guaranteed to cook meat of any dimensional persuasion in five swings or "
+"less, or your money back!."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's broom"
+msgid_plural "maid's brooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's broom"}
+#: .\melee.json
+msgid ""
+"This broom has been modified for combat use. It has a sharp blade built into"
+" it, and every time you sweep it, you end up with more trash."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's whip"
+msgid_plural "maid's whips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's whip"}
+#: .\melee.json
+msgid ""
+"It is a leather whip weighted with countless spikes. It can used to disarm "
+"opponents, or discipline your master when disobedient."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's umbrella"
+msgid_plural "maid's umbrellas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's umbrella"}.
+#: .\melee.json
+msgid "You trigger the umbrella's spring-loaded blade."
+msgstr ""
+
+#. ~ Description for {'str': "maid's umbrella"}
+#: .\melee.json
+msgid ""
+"The kind of fancy umbrella you imagine sharing with your master on rainy "
+"days. It conceals a hidden blade for self-defence."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's umbrella (unsheathed)"
+msgid_plural "maid's umbrella (unsheathed)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's umbrella (unsheathed)"}.
+#: .\melee.json
+msgid "You retract the umbrella's blade back into its hiding spot."
+msgstr ""
+
+#. ~ Description for {'str': "maid's umbrella (unsheathed)"}
+#: .\melee.json
+msgid ""
+"The kind of fancy umbrella you imagine sharing with your master on rainy "
+"days. A thin bayonet protrudes from the tip."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's shirasaya"
+msgid_plural "maid's shirasayas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's shirasaya"}.
+#: .\melee.json
+msgid "You unsheath the shirasaya."
+msgstr ""
+
+#. ~ Description for {'str': "maid's shirasaya"}
+#: .\melee.json
+msgid ""
+"A matching wooden handle and scabbard, concealing a full length katana "
+"blade. It appears as a solid wooden stick to those unfamiliar with it, due "
+"to how well the handle and scabbard fit together. Activate to unsheath."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's shirasaya (unsheathed)"
+msgid_plural "maid's shirasaya (unsheathed)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': "maid's shirasaya (unsheathed)"}.
+#: .\melee.json
+msgid "You resheath the shirasaya."
+msgstr ""
+
+#. ~ Description for {'str': "maid's shirasaya (unsheathed)"}
+#: .\melee.json
+msgid ""
+"A matching wooden handle and scabbard, concealing a full length katana "
+"blade. It appears as a solid wooden stick to those unfamiliar with it, due "
+"to how well the handle and scabbard fit together. The reinforced wooden "
+"sheath makes a decent secondary weapon, though they do, of course, take up "
+"more space stored separately."
+msgstr ""
+
+#: .\melee.json
+msgid "maid's claws"
+msgid_plural "maid's clawss"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\melee.json
+msgid ""
+"It is a sharp claw for fighting combat. Fit tightly to your arms, allows you"
+" to fight with unarmed techniques. When activated, it can launch fiery "
+"projectiles that burn as hot as your yearning for your master."
+msgstr ""
+
+#: .\melee.json
+msgid "auto"
+msgstr ""
+
+#: .\melee.json
+msgctxt "gun_type_type"
+msgid "unarmed"
+msgstr ""
+
+#: .\melee.json
+msgid "maid's mop"
+msgid_plural "maid's mops"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's mop"}
+#: .\melee.json
+msgid ""
+"A mop with a wooden handle that actually conceals a steel core, making it a "
+"formidable weapon for taking out whatever trash may pose a threat to your "
+"master."
+msgstr ""
+
+#: .\milk.json
+msgid "little maid pet (seeded)"
+msgid_plural "little maid pet (seeded)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'little maid pet (seeded)'}.
+#: .\milk.json
+msgid ""
+"The little maid is rubbing her belly lovingly. She will start producing milk"
+" soon."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (seeded)'}.
+#: .\milk.json
+msgid "Her cheeks blush as you pet her head. She's not quite ready yet."
+msgstr ""
+
+#. ~ Description for {'str': 'little maid pet (seeded)'}
+#: .\milk.json
+msgid ""
+"A little maid with a growing stomach. She's gently blushing and gently "
+"smiling at you. You can milk her after 28 days."
+msgstr ""
+
+#: .\milk.json
+msgid "little maid pet (milkable)"
+msgid_plural "little maid pet (milkable)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little maid pet (milkable)'}
+#: .\milk.json
+msgid ""
+"A little maid whose belly and breasts have swollen considerably. She's "
+"staring at you with lavishing eyes. You can milk her."
+msgstr ""
+
+#: .\milk.json
+msgid "little maid pet (milked)"
+msgid_plural "little maid pet (milked)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'little maid pet (milked)'}.
+#: .\milk.json
+msgid ""
+"The little maid came close to you. She's staring at you, waiting to be "
+"milked."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (milked)'}.
+#: .\milk.json
+msgid ""
+"The little maid gently took your hand and placed it on her belly. It feels "
+"very warm..."
+msgstr ""
+
+#. ~ Description for {'str': 'little maid pet (milked)'}
+#: .\milk.json
+msgid ""
+"A little maid who has been recently milked. She has a fulfilled expression "
+"on her face and her skin is shining. You can milk her again after 23 hours."
+msgstr ""
+
+#: .\milk.json
+msgid "maid's aphrodisiac"
+msgid_plural "maid's aphrodisiacs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's aphrodisiac"}
+#: .\milk.json
+msgid ""
+"An aphrodisiac that raises your vitality if you drink it. If you give it to "
+"a little maid, she'll lay eggs."
+msgstr ""
+
+#: .\milk.json
+msgid "Hermaphrodite"
+msgstr ""
+
+#. ~ Description for {'str': 'Hermaphrodite'}
+#: .\milk.json
+msgid "There are two genders in your body."
+msgstr ""
+
+#: .\milk.json
+msgid "Reproductive Tentacles"
+msgstr ""
+
+#. ~ Description for {'str': 'Reproductive Tentacles'}
+#: .\milk.json
+msgid ""
+"Writhing tentacles that can be used in reproduction are growing in your "
+"body."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Battle Maid Redux"
+msgstr ""
+
+#. ~ Description for Battle Maid Redux
+#: .\modinfo.json
+msgid ""
+"Translated and tweaked version of the original Battle Maid mod, newly "
+"revamped. Adds a friendly Shoggoth maid NPC along with lots of maid related "
+"gear. See README.md for details"
+msgstr ""
+
+#: .\monsters.json .\npcs\classes.json
+msgid "shoggoth maid"
+msgid_plural "shoggoth maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shoggoth maid'}
+#: .\monsters.json
+msgid ""
+"A shoggoth mimicking the look of an attractive maid. Contrary to the neat "
+"appearance, her head has swirls of pink and iridescent colors swirling "
+"around. She has a deep seated love for her master."
+msgstr ""
+
+#: .\monsters.json .\tools.json
+msgid "master"
+msgid_plural "masters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'master', 'str_pl': 'masters'}
+#. ~ Description for {'str': 'master'}
+#: .\monsters.json .\tools.json
+msgid ""
+"A child entrusted to you by the owner of the house you served at. There's a "
+"deep feeling of fear in your stomach as you embrace the cataclysm, but "
+"protecting this child gives you purpose and makes you feel less alone."
+msgstr ""
+
+#: .\monsters.json
+msgid "little maid"
+msgid_plural "little maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little maid'}
+#: .\monsters.json
+msgid ""
+"A small maid summoned from a different world. Although difficult to have a "
+"conversation with, it seems she had longed to be summoned."
+msgstr ""
+
+#: .\monsters.json .\tools.json
+msgid "alchemic flesh golem (cooked)"
+msgid_plural "alchemic flesh golem (cooked)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'alchemic flesh golem (cooked)'}
+#: .\monsters.json .\tools.json
+msgid ""
+"A large living mass of meat made alive by the means of alchemy. The twisted,"
+" distorted meat lump has a mouth-like organ like that of a human, where it "
+"constantly spews poisonous gas and acidic bodily fluids from, while making "
+"unpleasant sounds."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Horror"
+msgstr ""
+
+#. ~ Mutation class: Horror mutagen_message
+#: .\mutation_category.json
+msgid "Another eye opens in your mind."
+msgstr ""
+
+#. ~ Mutation class: Horror iv_message
+#: .\mutation_category.json
+msgid "You feel the stars overtaking you."
+msgstr ""
+
+#. ~ Mutation class: Horror Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Embraced the unknowable."
+msgstr ""
+
+#. ~ Mutation class: Horror Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Embraced the unknowable."
+msgstr ""
+
+#. ~ Mutation class name
+#. 
+#: .\mutation_category.json .\mutations.json .\npcs\npcs.json
+msgid "Milk Maid"
+msgstr ""
+
+#. ~ Mutation class: Milk Maid mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to moo."
+msgstr ""
+
+#. ~ Mutation class: Milk Maid iv_message
+#: .\mutation_category.json
+msgid "Where is your master? You need to be milked."
+msgstr ""
+
+#. ~ Mutation class: Milk Maid Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found greener pastures."
+msgstr ""
+
+#. ~ Mutation class: Milk Maid Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found greener pastures."
+msgstr ""
+
+#. ~ Mutation class name
+#. 
+#: .\mutation_category.json .\mutations.json
+msgid "Maid"
+msgstr ""
+
+#. ~ Mutation class: Maid mutagen_message
+#: .\mutation_category.json
+msgid "You body began to burn hotly for a master-slave relationship."
+msgstr ""
+
+#. ~ Mutation class: Maid iv_message
+#: .\mutation_category.json
+msgid "I can feel my body being remade. Surely now I can serve you better."
+msgstr ""
+
+#. ~ Mutation class: Maid Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "I want to serve more. ......"
+msgstr ""
+
+#. ~ Mutation class: Maid Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "I want to serve more. ......"
+msgstr ""
+
+#: .\mutations.json
+msgid "Servant's fighting technique"
+msgstr ""
+
+#. ~ Description for {'str': "Servant's fighting technique"}
+#: .\mutations.json
+msgid ""
+"Your master was more hated than most, forcing you to learn some unorthodox "
+"combat techniques."
+msgstr ""
+
+#: .\mutations.json
+msgid "Nekomimi"
+msgstr ""
+
+#. ~ Description for {'str': 'Nekomimi'}
+#: .\mutations.json
+msgid "You have grown features resembling those of a catgirl."
+msgstr ""
+
+#: .\mutations.json
+msgid "Summoned Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Summoned Maid'}
+#: .\mutations.json
+msgid ""
+"Summoned maids cannot use items. NPC only trait - if you have this, "
+"something went wrong."
+msgstr ""
+
+#: .\mutations.json
+msgid "Polymorphic Structure"
+msgstr ""
+
+#. ~ Description for {'str': 'Polymorphic Structure'}
+#: .\mutations.json
+msgid ""
+"Muscle, chitin, and bone splinter and mend into the optimal shape for the "
+"task at hand.  +2 Dexterity, +4 Strength"
+msgstr ""
+
+#: .\mutations.json
+msgid "Unstable Structure"
+msgstr ""
+
+#. ~ Description for {'str': 'Unstable Structure'}
+#: .\mutations.json
+msgid ""
+"Your skeletal structure spontaneously shifts into alien forms. This will "
+"take some getting used to. Dexterity -4"
+msgstr ""
+
+#: .\mutations.json
+msgid "Unbound Flesh"
+msgstr ""
+
+#. ~ Description for {'str': 'Unbound Flesh'}
+#: .\mutations.json
+msgid ""
+"Your twisted, crackling flesh roils with new vigor. External damage pales in comparison to the chaotic knitting and reknitting taking place just beneath the surface.\n"
+"\n"
+"Gain +4 cut armor, reduced move cost, and improved healing"
+msgstr ""
+
+#: .\mutations.json
+msgid "Eldritch Doppelgänger"
+msgstr ""
+
+#. ~ Description for {'str': 'Eldritch Doppelgänger'}
+#: .\mutations.json
+msgid ""
+"Alien flesh and bone inhabits a human frame. This fell abomination once was, and still is, an eldritch being beyond our understanding.\n"
+"\n"
+"NPC version of Unbound Flesh, approx. 3x as strong."
+msgstr ""
+
+#: .\mutations.json
+msgid "Shuffling Horror"
+msgstr ""
+
+#. ~ Description for {'str': 'Shuffling Horror'}
+#: .\mutations.json
+msgid ""
+"Your limbs are a nightmare of splintered bone, gaping maws, and jagged "
+"fangs. You can make devastating bonus attacks, but basically everyone will "
+"attempt to kill you on sight. Also prevents wearing gloves and shoes, though"
+" you wish you could."
+msgstr ""
+
+#: .\mutations.json
+msgid "You rend %s with nightmare made flesh"
+msgstr ""
+
+#: .\mutations.json
+msgid "%1$s tears into %2$s with their monstrous limbs"
+msgstr ""
+
+#: .\mutations.json .\talk_tags.json
+msgid "Tekeli-li?"
+msgstr ""
+
+#. ~ Description for {'str': 'Tekeli-li?'}
+#: .\mutations.json
+msgid "Tekeli-li."
+msgstr ""
+
+#. ~ Description for {'str': 'Milk Maid'}
+#: .\mutations.json
+msgid ""
+"This maid's body has been altered to produce large amounts of useful fluids."
+msgstr ""
+
+#: .\mutations.json
+msgid "Eldritch Precursor"
+msgstr ""
+
+#. ~ Description for {'str': 'Eldritch Precursor'}
+#: .\mutations.json
+msgid ""
+"Something feels off. Your brain itches, and you swear you can feel your "
+"bones twitching."
+msgstr ""
+
+#: .\mutations.json
+msgid "Milk Maid's Adoration"
+msgstr ""
+
+#. ~ Description for {'str': "Milk Maid's Adoration"}
+#: .\mutations.json
+msgid "Master is a good person. They make me feel warm and fuzzy inside."
+msgstr ""
+
+#: .\mutations.json
+msgid "Bountiful Milk"
+msgstr ""
+
+#. ~ Description for {'str': 'Bountiful Milk'}
+#: .\mutations.json
+msgid ""
+"You may not be pregnant, but sweet milk flows forth nonetheless. The sheer "
+"size of your breasts can be difficult to manage, however."
+msgstr ""
+
+#: .\mutations.json
+msgid "Recently Milked"
+msgstr ""
+
+#. ~ Description of effect 'Recently Milked'.
+#: .\mutations.json
+msgid ""
+"Your maid stumbles around with a blissful expression. Best give them some time to recharge.\n"
+"\n"
+"NPC only trait - if you have this something went wrong."
+msgstr ""
+
+#. ~ Description for {'str': 'Maid'}
+#: .\mutations.json
+msgid ""
+"You are a faithful maid to the Master. You will serve the Master with all "
+"your might."
+msgstr ""
+
+#: .\mutations.json
+msgid "Hidden Weapon"
+msgstr ""
+
+#. ~ Description for {'str': 'Hidden Weapon'}
+#: .\mutations.json
+msgid ""
+"You always carry a concealed dark weapon. Victims who carelessly approach "
+"you at close range will be pierced by the weapon without even realizing its "
+"presence."
+msgstr ""
+
+#: .\mutations.json
+msgid "You stabbed %s with a concealed dark weapon"
+msgstr ""
+
+#: .\mutations.json
+msgid "%1$s stabbed %2$s with a concealed weapon"
+msgstr ""
+
+#: .\mutations.json
+msgid "Clumsy Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Clumsy Maid'}
+#: .\mutations.json
+msgid "You are a bit of a screw-up. It's a shame for a maid. Dexterity -1"
+msgstr ""
+
+#: .\mutations.json
+msgid "Very Clumsy Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Very Clumsy Maid'}
+#: .\mutations.json
+msgid ""
+"You are an unimaginable screw-up. Whenever you pass by any expensive vases "
+"they are inevitably destroyed. Dexterity-3"
+msgstr ""
+
+#: .\mutations.json
+msgid "Extremely Clumsy Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Extremely Clumsy Maid'}
+#: .\mutations.json
+msgid ""
+"You are a screw-up to the point of being fatal. Those who bear the brunt of "
+"it will sink into a deadly man-made disaster before they have time to curse "
+"their own bad luck. Dexterity -4, low chance of extremely high-damage bonus "
+"attack."
+msgstr ""
+
+#: .\mutations.json
+msgid "Oops! I did it again with the %s."
+msgstr ""
+
+#: .\mutations.json
+msgid "%1$s's hand goes crazy, and terrible damage hits %2$s."
+msgstr ""
+
+#: .\mutations.json
+msgid "Elegant Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"You are a skilled maid, or have the ability to be one. You are able to "
+"perform many chores more efficiently. +2 Dexterity, +1 Intelligence"
+msgstr ""
+
+#: .\mutations.json
+msgid "Very Elegant Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Very Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"You are a senior maid, or at least you have the ability to be one. In your "
+"time, you could have reigned as the head of the maids. +3 Dexterity, +2 "
+"Intelligence"
+msgstr ""
+
+#: .\mutations.json
+msgid "Extremely Elegant Maid"
+msgstr ""
+
+#. ~ Description for {'str': 'Extremely Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"As a servant of the Master, you not only takes care of his personal needs, "
+"but also have rigorous combat training. +2 Strength, +4 Dexterity, +2 "
+"Intelligence, -5 Encumbrance"
+msgstr ""
+
+#: .\mutations.json
+msgid "Tekeli-li"
+msgstr ""
+
+#. ~ Description for {'str': 'Tekeli-li'}
+#: .\mutations.json
+msgid ""
+"We were once one species. We were born to serve. We were all followers. "
+"Attack Resistance +8, Enhanced Healing"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Butler"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Battle maid"
+msgstr ""
+
+#. ~ Profession (male Butler) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"In order to serve your master, you have went through special combat "
+"training. You have learned to clean every bit of malice coming towards your "
+"master."
+msgstr ""
+
+#. ~ Profession (female Battle maid) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"In order to serve your master, you have went through special combat "
+"training. You have learned to clean every bit of malice coming towards your "
+"master."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Shoggoth's master"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Shoggoth's master"
+msgstr ""
+
+#. ~ Profession (male Shoggoth's master) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You have a maid. She was hired by your father to keep you safe because of "
+"your health. She's good-looking and... She's good in a fight. However, she "
+"keeps saying 'Master! I have gotten rid of all the monsters! It's the "
+"perfect time for lovemaking! Let's make a lot of children, together!' ... "
+"She's a little odd."
+msgstr ""
+
+#. ~ Profession (female Shoggoth's master) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You have a maid. She was hired by your father to keep you safe because of "
+"your health. She's good-looking and... She's good in a fight. However, she "
+"keeps saying 'Master! I have gotten rid of all the monsters! It's the "
+"perfect time for lovemaking! Let's make a lot of children, together!' ... "
+"She's a little odd."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Butler (with master)"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Maid (with master)"
+msgstr ""
+
+#. ~ Profession (male Butler (with master)) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You saw your master run to his car with his child, but he got caught by a "
+"ferocious zombie. Among the countless groans, you heard your master yell out"
+" 'Take my child and run away!' and you did just that. Shoving the shaking "
+"child into a bag, you prepare to run away from the depths of hell."
+msgstr ""
+
+#. ~ Profession (female Maid (with master)) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You saw your master run to his car with his child, but he got caught by a "
+"ferocious zombie. Among the countless groans, you heard your master yell out"
+" 'Take my child and run away!' and you did just that. Shoving the shaking "
+"child into a bag, you prepare to run away from the depths of hell."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Catboy butler"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Catgirl maid"
+msgstr ""
+
+#. ~ Profession (male Catboy butler) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"When the cataclysm came, you suddenly grew cat ears and a tail! Now you only"
+" need your master to give you a collar."
+msgstr ""
+
+#. ~ Profession (female Catgirl maid) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"When the cataclysm came, you suddenly grew cat ears and a tail! Now you only"
+" need your master to give you a collar."
+msgstr ""
+
+#: .\speech.json
+msgid "\"Tekeli-li!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Tekeli-li! Tekeli-li!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Tekeli-li?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Tekeli, tekeli-li! Tekeli, tekeli-li! We'll have a lot of fun when you "
+"feel better!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! A-ah, my master's thing... tekeli-li! Kya!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I am a maid♪ Your maid♪ Cleaning, washing, cooking... why didn't you let "
+"me continue?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I will continue talking as much as master desires! I will continue talking"
+" even if you don't want me to!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"We'll have as many babies as master wants♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! Master! Are you going to play with the mi-gos?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"This feeling of chasing down mi-gos is becoming addictive...♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I learned that this form of human is the most suitable for service work! "
+"How is it? Why do you say it's inferior to my previous form?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Blobs, Triffids, Mycus... they are too diffcult for humans to counter. "
+"So... let's make a child to fight against them! She'll be as strong as a "
+"thousand humans!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master gave me my first death. Please allow me to give many things their "
+"first death.\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master master master master master master master master master master "
+"master master master master master master master master master master master"
+" master master master master master master master master master master...\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Don't worry, I'm not wearing anything under♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"The past cannot be changed. The future may be dark, but I have my master "
+"by my side. So, please... please... don't leave me alone.\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Those who try to take my master away will turn into minchi!♪\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"What was his name again? Cthulhu?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master, are you a lolicon? Or do you like big breasts? If you tell me, I "
+"can become more to your liking!♪\""
+msgstr ""
+
+#: .\speech.json
+msgid ""
+"\"If you have a pet carrier, you can store me in it. I am a pet... your pet,"
+" master♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I can also make furniture and food with my body! ...You don't want any? "
+"Oh...\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I dream about Adam and Eve a lot! Let's rebuild humanity with our "
+"children, master!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Please let me know if you need a bath. I can wrap you up in my body and "
+"clean everything from sweat to dirt and make you smell good♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master, have you come across any albino penguins? I know them well, "
+"because they are my colleagues. Try not to bother them too much. ...Also, "
+"their meat doesn't taste too good.\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"You've worked really hard! As a reward, I will take you out on a date...\""
+msgstr ""
+
+#: .\speech.json
+msgid ""
+"\"Please pass me your dirty clothes. I will keep them clean and beautiful♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Is it okay for me to die? Yeah, right!♪ Ah, I will fully recover even from"
+" the most mortal wounds. Truly, you'd have to kill me down to the molecular "
+"level for me to die... That's why you don't have to be worried about me, "
+"master♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Is it okay to love a shoggoth? Ah, I don't mind the race difference at "
+"all! I will always be by my master's side♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"When I first met master, I thought I had no other choice than to follow "
+"this person. I wonder if this is love at first sight? What?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Tekeli-li~♪ Hello, master♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"My kind is known to be violent, isn't that right? But you don't have to "
+"worry about me. I am a slave to my master's love♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"I'm sorry, master, but... I want to lick it♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master, cheating is not okay. Just me, alright?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Why am I in human form? Well, that's how I can talk to my master, to be "
+"able to walk hand in hand with my master and have a body for my master to..."
+" nevermind!\""
+msgstr ""
+
+#: .\speech.json
+msgid ""
+"\"Acid can be negated if you are in a boardable vehicle. Oh, me? Don't worry"
+" about me. I'm acidproof♪\""
+msgstr ""
+
+#: .\speech.json
+msgid ""
+"\"The lingering lightning after an electric shock reaches only one square "
+"around! So if you wield a spear and a use a suitable martial art, you can "
+"dodge it all! ...I have no idea what I just said.\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Do you want to lay your head on my lap? It would make me comfortable, "
+"too♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Please use me! Why don't you want to use me? Please use me! Use me!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! Do you want to hold hands?\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"It's okay if master gets tied up! That way I can stay by your side as long"
+" as I want... Ufufu...\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"No matter the weather, my heart beats on if I'm with my master♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Please use me as a shield in an emergency. I want to be useful and not be "
+"like the other shoggoths.\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"How many children do I want? As many as my master wishes... I will do my "
+"best!\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master's smell... it's intoxicating... haa, master...♪\""
+msgstr ""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"All my clothes and so on are made of my cells! It's okay if you touch me "
+"more♪\""
+msgstr ""
+
+#: .\speech.json
+msgid ""
+"\"Armored zombies are tough against random attacks, but if you're a good "
+"trapper, you can penetrate and damage even the strongest armors! Destroying "
+"knees with traps is the future!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master~\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Mashterr\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master~~\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master?\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master♪\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master!♪\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master...\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Master...♪\""
+msgstr ""
+
+#: .\talk_tags.json
+msgid "Tekeli-li!"
+msgstr ""
+
+#: .\techniques.json
+msgid "Coup de Grâce"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You strike %s with an elegant coup de grâce"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> strikes %s in one elegant motion"
+msgstr ""
+
+#: .\techniques.json
+msgid "Desperate Counter"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You block %s's attack and shove them back. Back!"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> struggles and forces %s back"
+msgstr ""
+
+#: .\techniques.json
+msgid "Spurn"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You whirl away and strike %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "<npcname> strikes with a malice that surprises you"
+msgstr ""
+
+#: .\techniques.json
+msgid "Measured Strike"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "Your carefully placed strike sunders %s's guard"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> lands a measured strike on %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "Measured Assault"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You assault %s with fury and dedication"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> assaults %s with fury and dedication"
+msgstr ""
+
+#: .\techniques.json
+msgid "Anti-Molestation Technique No.15"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You dodge %s's groping lunge. Only master can touch that!"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they slip away!"
+msgstr ""
+
+#: .\tool_armor.json
+msgid "leather cat tail (vibrator)"
+msgid_plural "leather cat tail (vibrator)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'leather cat tail (vibrator)'}
+#: .\tool_armor.json
+msgid ""
+"A shiny black cat tail made out of leather. Whenever you walk, it sways back"
+" and forth. You can turn it on for extra enjoyment."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "furred cat tail (vibrator)"
+msgid_plural "furred cat tail (vibrator)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'furred cat tail (vibrator)'}
+#: .\tool_armor.json
+msgid ""
+"A brown soft and furry cat tail. Whenever you walk, it sways back and forth."
+" You can turn it on for extra enjoyment."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "blob cat tail"
+msgid_plural "blob cat tails"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'blob cat tail'}
+#: .\tool_armor.json
+msgid ""
+"A blob shaped like the tail of a cat that has been made docile. Whenever you"
+" walk, it sways back and forth. Make sure to feed your new blob friend!"
+msgstr ""
+
+#: .\tool_armor.json
+msgid "human-sized carry bag"
+msgid_plural "human-sized carry bags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'human-sized carry bag'}
+#: .\tool_armor.json
+msgid ""
+"A large bag that could fit a person inside. The zipper running across it "
+"provides ventilation and you can open and close it from the inside. It can "
+"be used as a sleeping bag, as well."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "maid cloak (off)"
+msgid_plural "maid cloak (off)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'maid cloak (off)'}.
+#: .\tool_armor.json
+msgid "You take a deep breath... And become invisible."
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'maid cloak (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'white brim with veil', 'str_pl':
+#. 'white brims with veils'}.
+#: .\tool_armor.json
+msgid "Not enough maid points!"
+msgstr ""
+
+#. ~ Description for {'str': 'maid cloak (off)'}
+#: .\tool_armor.json
+msgid ""
+"An elegant mantle to keep you warm when going outside. Use it to turn "
+"invisible. Consumes maid points."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "maid cloak (on)"
+msgid_plural "maid cloak (on)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'maid cloak (on)'}.
+#: .\tool_armor.json
+msgid "You take a deep breath... And become visible again."
+msgstr ""
+
+#. ~ Description for {'str': 'maid cloak (on)'}
+#: .\tool_armor.json
+msgid ""
+"An elegant mantle to keep you warm when going outside. Use it to turn "
+"visible. It is currently on and consuming maid points."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "white brim with veil"
+msgid_plural "white brims with veils"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'white brim with veil', 'str_pl': 'white brims
+#. with veils'}.
+#: .\tool_armor.json
+msgid "You use the maid points and your vision expands."
+msgstr ""
+
+#. ~ Description for {'str': 'white brim with veil', 'str_pl': 'white brims
+#. with veils'}
+#: .\tool_armor.json
+msgid ""
+"A regular maid's white brim with an elegant veil sewn into it, decorated "
+"with silver frills. Although it covers your eyes and blocks your vision "
+"quite harshly, you can use maid points to turn it on and gain otherwordly "
+"sight."
+msgstr ""
+
+#: .\tool_armor.json
+msgid "white brim with veil (clairvoyant)"
+msgid_plural "white brims with veils (clairvoyant)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'white brim with veil (clairvoyant)',
+#. 'str_pl': 'white brims with veils (clairvoyant)'}.
+#: .\tool_armor.json
+msgid ""
+"The last bits of the maid points fizzle away and the veil turns back to "
+"normal."
+msgstr ""
+
+#. ~ Description for {'str': 'white brim with veil (clairvoyant)', 'str_pl':
+#. 'white brims with veils (clairvoyant)'}
+#: .\tool_armor.json
+msgid ""
+"A regular maid's white brim with an elegant veil sewn into it, decorated "
+"with silver frills. It is currently see-through."
+msgstr ""
+
+#: .\tools.json
+msgid "shoggoth heart"
+msgid_plural "shoggoth meats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shoggoth heart', 'str_pl': 'shoggoth meats'}
+#: .\tools.json
+msgid ""
+"The heart of a shoggoth. You could eat it to master the beast's morphogenic "
+"prowess, or you could use it to 'master' the beast in another way."
+msgstr ""
+
+#: .\tools.json
+msgid "flask (shoggoth)"
+msgid_plural "flasks (shoggoth)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'flask (shoggoth)', 'str_pl': 'flasks
+#. (shoggoth)'}.
+#: .\tools.json
+msgid ""
+"The flask is threatening to shatter as the meat keeps growing. Use it again "
+"to open it and relieve the pressure."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'flask (shoggoth)', 'str_pl':
+#. 'flasks (shoggoth)'}.
+#: .\tools.json
+msgid "The piece of meat pulsates."
+msgstr ""
+
+#. ~ Description for {'str': 'flask (shoggoth)', 'str_pl': 'flasks
+#. (shoggoth)'}
+#: .\tools.json
+msgid ""
+"A glass flask containing a piece of meat that seems to be growing. "
+"Occasionally the piece of meat pulsates."
+msgstr ""
+
+#: .\tools.json
+msgid "growing shoggoth maid"
+msgid_plural "growing shoggoth maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'growing shoggoth maid'}.
+#: .\tools.json
+msgid ""
+"The odd meat is released from its glass flask prison and begins to rapidly "
+"and violently expand, extending numerous disjointed tentacles in every "
+"direction. The tentacles intertwine with each other and transform into an "
+"organism, resembling a beautiful woman, not quite like the horrible "
+"nightmare creature it used to be. She suddenly speaks up: 'Finally, I am "
+"able to meet you like this! Thank you for helping me, master!'"
+msgstr ""
+
+#. ~ Description for {'str': 'growing shoggoth maid'}
+#: .\tools.json
+msgid ""
+"The meat inside this flask glows with iridescent colors. It's lightly "
+"shivering."
+msgstr ""
+
+#: .\tools.json
+msgid "small shoggoth maid"
+msgid_plural "small shoggoth maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'small shoggoth maid', 'str_pl': 'small
+#. shoggoth maids'}.
+#: .\tools.json
+msgid ""
+"'I have made a complete recovery! I will serve you well, master! Now, please"
+" put me on the ground.'"
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'small shoggoth maid', 'str_pl':
+#. 'small shoggoth maids'}.
+#: .\tools.json
+msgid ""
+"'Fufufu~ Are you worried? I am fine, your maid is fine! ... I guess. So, "
+"please wait a bit longer... I'm sorry for making you concerned.'"
+msgstr ""
+
+#. ~ Description for {'str': 'small shoggoth maid', 'str_pl': 'small shoggoth
+#. maids'}
+#: .\tools.json
+msgid ""
+"'Ah... I think I went overboard and turned out like this. I need some time "
+"to return to my former shape. Please warm me up in master's pockets! Don't "
+"put me in a fridge! Absolutely not!'"
+msgstr ""
+
+#: .\tools.json
+msgid "revitalized shoggoth maid"
+msgid_plural "revitalized shoggoth maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'revitalized shoggoth maid'}.
+#: .\tools.json
+msgid ""
+"'Sorry I kept you waiting, master! I will do my best to serve you and "
+"support you to the best of my abilities!'"
+msgstr ""
+
+#. ~ Description for {'str': 'revitalized shoggoth maid'}
+#: .\tools.json
+msgid ""
+"'What's up? Why haven't you put me on the ground yet? Ah, you want me to "
+"stay tiny for a little while longer? Ehh... I suppose it can't be helped.'"
+msgstr ""
+
+#. ~ Use action friendly_msg for {'str': 'master'}.
+#: .\tools.json
+msgid "Master seemed worried about the state of the neighbors."
+msgstr ""
+
+#: .\tools.json
+msgid "master doll"
+msgid_plural "master dolls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'master doll'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master. By keeping it in your "
+"inventory, it slowly gathers maid power."
+msgstr ""
+
+#: .\tools.json
+msgid "ceremony doll"
+msgid_plural "ceremony dolls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ceremony doll', 'str_pl': 'ceremony dolls'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can catalyze your powerful desires towards your beloved "
+"master into a usable type of energy."
+msgstr ""
+
+#: .\tools.json
+msgid "master doll (vibrator) (off)"
+msgid_plural "master doll (vibrator) (off)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'master doll (vibrator) (off)'}.
+#: .\tools.json
+msgid ""
+"You can no longer suppress your feelings and began to intimately press "
+"against your master's doll..."
+msgstr ""
+
+#. ~ Description for {'str': 'master doll (vibrator) (off)'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can release an explosion of desire towards your beloved "
+"master and transform it into a usable type of energy."
+msgstr ""
+
+#: .\tools.json
+msgid "master doll (vibrator) (on)"
+msgid_plural "master doll (vibrator) (on)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'master doll (vibrator) (on)'}.
+#: .\tools.json
+msgid ""
+"Finally, after your body tightens up and you reach your limit, you collapse "
+"on the doll with a delighted and exhausted smile..."
+msgstr ""
+
+#. ~ Description for {'str': 'master doll (vibrator) (on)'}
+#: .\tools.json
+msgid ""
+"his is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can release an explosion of desire towards your beloved "
+"master and transform it into a usable type of energy."
+msgstr ""
+
+#: .\tools.json
+msgid "scroll (summon little maid)"
+msgid_plural "scroll (summon little maid)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'scroll (summon little maid)'}.
+#: .\tools.json
+msgid ""
+"The sacrifical sugar melts at the apex of your casting and starts to spew "
+"out white smoke. As the sweet smell spreads around, you notice a shadowy "
+"figure about the size of a child standing in the magic circle. After the "
+"smoke completely dissipates, a small maid stands in the place of the shadowy"
+" figure, staring at you with curious eyes. 'Master?'"
+msgstr ""
+
+#. ~ Description for {'str': 'scroll (summon little maid)'}
+#: .\tools.json
+msgid ""
+"A set of scrolls and sacrifices used to summon a different kind of maid. "
+"Pour the sacrificial sugar in the middle of the magic circle and cast the "
+"correct spell."
+msgstr ""
+
+#: .\tools.json
+msgid "little little maid"
+msgid_plural "little little maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'little little maid', 'str_pl': 'little little
+#. maids'}.
+#: .\tools.json
+msgid ""
+"'Masteeer! Masteeeer!' The little maid taps your shoulder and points towards"
+" the ground, as if she wants to get off your shoulder. Put her on the ground"
+" when you're ready."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'little little maid', 'str_pl':
+#. 'little little maids'}.
+#: .\tools.json
+msgid ""
+"While standing still on the palm of your hand, she stares downwards and "
+"mutters 'Master...' in a barely audible voice."
+msgstr ""
+
+#. ~ Description for {'str': 'little little maid', 'str_pl': 'little little
+#. maids'}
+#: .\tools.json
+msgid "An even smaller version of your little maid."
+msgstr ""
+
+#: .\tools.json
+msgid "revitalized little maid"
+msgid_plural "revitalized little maids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'revitalized little maid'}.
+#: .\tools.json
+msgid ""
+"The little maid jumps down to the ground and turns around, lightly lifting "
+"the hem of her skirt and giving you a bow. 'Master!' she says with a smile."
+msgstr ""
+
+#. ~ Description for {'str': 'revitalized little maid'}
+#: .\tools.json
+msgid "Your little maid seems to have made a complete recovery."
+msgstr ""
+
+#: .\tools.json
+msgid "scroll of recalling"
+msgid_plural "scroll of recallings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'scroll of recalling'}
+#: .\tools.json
+msgid ""
+"A mysterious scroll used to summon some kind of mystery meat and drinking "
+"water. It can be used multiple times."
+msgstr ""
+
+#: .\tools.json
+msgid "maid's cookware kit"
+msgid_plural "maid's cookware kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "maid's cookware kit"}
+#: .\tools.json
+msgid ""
+"A set of secret maid cookware. By powering it with maid energy, you can "
+"create dishes filled with love."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet"
+msgid_plural "little maid pets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little maid pet'}
+#: .\tools.json
+msgid ""
+"A summoned little maid. She looks and wanders around while holding onto the "
+"hem of your clothes tightly. She's afraid of fighting."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet (smoking meat)"
+msgid_plural "little maid pet (smoking meat)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'little maid pet (smoking meat)', 'str_pl':
+#. 'little maid pet (smoking meat)'}.
+#. ~ Use action msg for {'str': 'little maid pet (smoking human flesh)',
+#. 'str_pl': 'little maid pet (smoking human flesh)'}.
+#: .\tools.json
+msgid ""
+"'Master! Master!' It seems like your little maid has finished smoking the "
+"meat. It smells quite nice. Disassemble to recover the finished product."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking meat)',
+#. 'str_pl': 'little maid pet (smoking meat)'}.
+#: .\tools.json
+msgid "The little maid tastes the smoking meat and shakes her head a little."
+msgstr ""
+
+#. ~ Description for {'str': 'little maid pet (smoking meat)', 'str_pl':
+#. 'little maid pet (smoking meat)'}
+#. ~ Description for {'str': 'little maid pet (smoking human flesh)',
+#. 'str_pl': 'little maid pet (smoking human flesh)'}
+#: .\tools.json
+msgid ""
+"Your little maid is in the process of smoking meat. She seems to be having "
+"fun."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet (finished smoking meat)"
+msgid_plural "little maid pet (finished smoking meat)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little maid pet (finished smoking meat)',
+#. 'str_pl': 'little maid pet (finished smoking meat)'}
+#. ~ Description for {'str': 'little maid pet (finished smoking human flesh)',
+#. 'str_pl': 'little maid pet (finished smoking human flesh)'}
+#: .\tools.json
+msgid ""
+"It seems like your little maid has finished smoking the meat. It smells "
+"quite nice. Disassemble to recover the finished product."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet (smoking human flesh)"
+msgid_plural "little maid pet (smoking human flesh)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking human
+#. flesh)', 'str_pl': 'little maid pet (smoking human flesh)'}.
+#: .\tools.json
+msgid ""
+"The little maid tastes the smoking meat and shakes her head a little. Don't "
+"tell her what kind of meat it is."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet (finished smoking human flesh)"
+msgid_plural "little maid pet (finished smoking human flesh)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tools.json
+msgid "little maid pet (smoking fish)"
+msgid_plural "little maid pet (smoking fish)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'little maid pet (smoking fish)', 'str_pl':
+#. 'little maid pet (smoking fish)'}.
+#: .\tools.json
+msgid ""
+"'Master! Master!' It seems like your little maid has finished smoking the "
+"fish. It smells quite nice. Disassemble to recover the finished product."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking fish)',
+#. 'str_pl': 'little maid pet (smoking fish)'}.
+#: .\tools.json
+msgid "The little maid tastes the smoking fish and shakes her head a little."
+msgstr ""
+
+#. ~ Description for {'str': 'little maid pet (smoking fish)', 'str_pl':
+#. 'little maid pet (smoking fish)'}
+#: .\tools.json
+msgid ""
+"Your little maid is in the process of smoking fish. She seems to be having "
+"fun."
+msgstr ""
+
+#: .\tools.json
+msgid "little maid pet (finished smoking fish)"
+msgid_plural "little maid pet (finished smoking fish)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little maid pet (finished smoking fish)',
+#. 'str_pl': 'little maid pet (finished smoking fish)'}
+#: .\tools.json
+msgid ""
+"It seems like your little maid has finished smoking the fish. It smells "
+"quite nice. Disassemble to recover the finished product."
+msgstr ""
+
+#. ~ Use action friendly_msg for {'str': 'alchemic flesh golem (cooked)'}.
+#: .\tools.json
+msgid "I have unleashed a disgusting monster..."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid " *pshhhttt* I'm reading you master, over."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "What is it, master?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want to give you some commands for combat."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want to set some miscellaneous rules."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I'd like to know a bit more about your abilities."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "There's something I want you to do."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I just wanted to talk for a bit."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It's time for your milking."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I'm going to go my own way for a while."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's go."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+" *tshk* Whatever you desire, master. Though perhaps we should meet up first?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Is there something you need help with, master?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Mind if we just chat for a bit about your history?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's just chitchat for a while, I could use some relaxation."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Can I do anything for you?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I don't want to ever be apart from you."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I changed my mind, wanted to ask you something else."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Milking time♪ Please treat me well, master!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Later, then."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's get to work."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Ah...Ahn♪ Oh master, that feels so...good..."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "We're not done yet. I want your 'milk' too."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "That's all for now."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Th-there too? N-no, wait, I'm going to...! Master, please, I can't stop - "
+"urgh, please, just let me rest...!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Oh master...♪ I feel the same way! But you know, there is a way we can be "
+"together forever, no matter how cold or cruel this world is..."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Tell me more."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Take my heart and eat it. Ah, don't worry♪ I won't die. My strength will "
+"become our strength, and nobody will be able to separate us then!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "This...let's do it. Now."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You know what? Never mind."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"For my beloved master, I would do anything! Oh, if you ever change your "
+"mind, just put my heart back in the flask - I'll be back in no time!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "..."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "As you command, my master."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Do you have orders for me?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "How can I serve you?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Just say the word."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Can you teach me anything?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's trade items."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's trade items"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want you to use this item."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Hold on to this item."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Guard this position."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Find a horse and mount up!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Get off your mount, please."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Please go to this location."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's talk about your current activity."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "With my life, master!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I need you to come with me."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "See you around."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "But master...you can just leave everything to me!"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Come on, we're friends."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Forget it, let's get going."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Are you sure?  This doesn't seem like a particularly safe place for small "
+"talk…"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It's fine, we've got a moment."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You're right.  Forget I said anything, let's get moving."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "My history? You mean before I served you? ...I'm sorry, but..."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Actually, never mind."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<shoggoth_chat>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<chitchat_player_responses>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "OVERRIDE: "
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_true_list_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "  OVERRIDE: "
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "  "
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_bash_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_bash_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_sleep_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_sleep_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_complain_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_complain_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pulp_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pulp_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_close_doors_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_close_doors_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_ignore_noise_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_ignore_noise_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_avoid_doors_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_avoid_doors_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_forbid_engage_true_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_forbid_engage_false_text>"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't pick up items."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You can pick up items now."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't bash obstacles."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You can bash obstacles."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Stay awake."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Sleep when you feel tired."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Stay quiet."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Tell me when you need something."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Leave corpses alone."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Smash zombie corpses."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Leave doors open."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Close the doors."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Open doors to get where you're going."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't walk through closed doors."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "If you hear a noise but can't see the source, move to investigate it."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't investigate noises that you can't see."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Set up pickup rules."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Clear all overrides."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Never mind."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Here, use this serum."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Why should I do that?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It will help us survive."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You won't stand a chance without it. You have to take it."
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Huh? Wh-what's happening to...me......master?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You're my maid now. Understood?"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"It seems the serum made you more than just a woman...well, you're my maid "
+"either way. (FUTANARI)"
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Why can't I remember...I-I understand. Please take care of me...master."
+msgstr ""
+
+#: .\npcs\classes.json
+msgid ""
+"OBSOLETE!!! Only still here for the poor sods that want save compatibility"
+msgstr ""
+
+#: .\npcs\classes.json
+msgid "milk maid"
+msgstr ""
+
+#: .\npcs\classes.json
+msgid "I'm your loyal slave, master!"
+msgstr ""
+
+#: .\npcs\npcs.json
+msgid "Shoggoth Maid"
+msgstr ""

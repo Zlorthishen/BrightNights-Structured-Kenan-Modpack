@@ -1,0 +1,685 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WHALEYHAIR1\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Whaleys Hair Mod"
+msgstr "Whaleys发型模组"
+
+#. ~ Description for Whaleys Hair Mod
+#: .\modinfo.json
+msgid "Adds New Hairstyles, Tattoos, Makeup and cosmetic injuries."
+msgstr "添加新发型、纹身、化妆和装饰性伤痕。"
+
+#: .\tattoos.json
+msgid "Female Hair: Modern Pink"
+msgstr "女性发型：现代粉色"
+
+#. ~ Description for {'str': 'Female Hair: Modern Pink'}
+#: .\tattoos.json
+msgid "You have pink hair."
+msgstr "你有一头粉色的头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Modern Green"
+msgstr "女性发型：现代绿色"
+
+#. ~ Description for {'str': 'Female Hair: Modern Green'}
+#: .\tattoos.json
+msgid "You have green hair."
+msgstr "你有一头绿色的头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Blonde Pigtail"
+msgstr "女性发型：金色双马尾"
+
+#. ~ Description for {'str': 'Female Hair: Blonde Pigtail'}
+#: .\tattoos.json
+msgid "You have blonde pigtails."
+msgstr "你有一头金色的双马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Brunette Pigtail"
+msgstr "女性发型：深褐色双马尾"
+
+#. ~ Description for {'str': 'Female Hair: Brunette Pigtail'}
+#: .\tattoos.json
+msgid "You have brunette pigtails."
+msgstr "你有一头棕色的双马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Black Pigtail"
+msgstr "女性发型：黑色双马尾"
+
+#. ~ Description for {'str': 'Female Hair: Black Pigtail'}
+#: .\tattoos.json
+msgid "You have black pigtails."
+msgstr "你有一头黑色的双马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Bushytail Brunette"
+msgstr "女性发型：蓬松棕色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Bushytail Brunette'}
+#: .\tattoos.json
+msgid "You have brunette bushy hair with a short ponytail."
+msgstr "你有一头蓬松的棕色短发，扎着短马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Bushytail Brunette with Bow"
+msgstr "女性发型：带蝴蝶结的蓬松棕色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Bushytail Brunette with Bow'}
+#: .\tattoos.json
+msgid "You have brunette bushy hair with a short ponytail and bow."
+msgstr "你有一头蓬松的棕色短发，扎着短马尾并系有蝴蝶结。"
+
+#: .\tattoos.json
+msgid "Female Hair: Bushytail Blonde"
+msgstr "女性发型：蓬松金色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Bushytail Blonde'}
+#: .\tattoos.json
+msgid "You have blonde bushy hair with a short ponytail."
+msgstr "你有一头蓬松的金色短发，扎着短马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Bushytail Black"
+msgstr "女性发型：蓬松黑色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Bushytail Black'}
+#: .\tattoos.json
+msgid "You have black bushy hair with a short ponytail."
+msgstr "你有一头蓬松的黑色短发，扎着短马尾。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Brunette"
+msgstr "女性发型：长波浪棕色发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Brunette'}
+#: .\tattoos.json
+msgid "You have long wavy brunette hair."
+msgstr "你有一头长长的波浪棕色头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Blonde"
+msgstr "女性发型：长波浪金色发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Blonde'}
+#: .\tattoos.json
+msgid "You have long wavy blonde hair."
+msgstr "你有一头长长的波浪金色头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Black"
+msgstr "女性发型：长波浪黑色发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Black'}
+#: .\tattoos.json
+msgid "You have long wavy black hair."
+msgstr "你有一头长长的波浪黑色头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Ponytail Brunette"
+msgstr "女性发型：棕色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Ponytail Brunette'}
+#: .\tattoos.json
+msgid "You have a brunette ponytail hair."
+msgstr "你有一头棕色马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: Ponytail Blonde"
+msgstr "女性发型：金色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Ponytail Blonde'}
+#: .\tattoos.json
+msgid "You have a blonde ponytail hair."
+msgstr "你有一头金色马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: Ponytail Black"
+msgstr "女性发型：黑色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Ponytail Black'}
+#: .\tattoos.json
+msgid "You have a black ponytail hair."
+msgstr "你有一头黑色马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: Red Short Pigtails"
+msgstr "女性发型：红色短双马尾"
+
+#. ~ Description for {'str': 'Female Hair: Red Short Pigtails'}
+#: .\tattoos.json
+msgid "You have short red ponytail hair."
+msgstr "你有一头红色短马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: QuadTail Brunette with Bows."
+msgstr "女性发型：带蝴蝶结的四马尾棕色发。"
+
+#. ~ Description for {'str': 'Female Hair: QuadTail Brunette with Bows.'}
+#: .\tattoos.json
+msgid "You have QuadTail Brunette Hair with Bows."
+msgstr "你有一头带蝴蝶结的四马尾棕色发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: QuadTail Brunette"
+msgstr "女性发型：四马尾棕色发"
+
+#. ~ Description for {'str': 'Female Hair: QuadTail Brunette'}
+#: .\tattoos.json
+msgid "You have QuadTail Brunette Hair."
+msgstr "你有一头四马尾棕色发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: QuadTail Blonde"
+msgstr "女性发型：四马尾金色发"
+
+#. ~ Description for {'str': 'Female Hair: QuadTail Blonde'}
+#: .\tattoos.json
+msgid "You have QuadTail Blonde Hair."
+msgstr "你拥有四尾辫金发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Flapper Blue Hair"
+msgstr "女性发型：蓝色波浪短发"
+
+#. ~ Description for {'str': 'Female Hair: Flapper Blue Hair'}
+#: .\tattoos.json
+msgid "You have Blue Flapper Hair."
+msgstr "你拥有蓝色波浪短发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Flapper Blonde"
+msgstr "女性发型：金色波浪短发"
+
+#. ~ Description for {'str': 'Female Hair: Flapper Blonde'}
+#: .\tattoos.json
+msgid "You have Blonde Flapper Hair."
+msgstr "你拥有金色波浪短发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Flapper Brunette"
+msgstr "女性发型：棕色波浪短发"
+
+#. ~ Description for {'str': 'Female Hair: Flapper Brunette'}
+#: .\tattoos.json
+msgid "You have Brunette Flapper Hair."
+msgstr "你拥有棕色波浪短发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Flapper Black"
+msgstr "女性发型：黑色波浪短发"
+
+#. ~ Description for {'str': 'Female Hair: Flapper Black'}
+#: .\tattoos.json
+msgid "You have Black Flapper Hair."
+msgstr "你拥有黑色波浪短发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Brunette Receeding"
+msgstr "男性发型：棕色后移发际线"
+
+#. ~ Description for {'str': 'Male Hair: Brunette Receeding'}
+#: .\tattoos.json
+msgid "You have Brunette Receeding Hair."
+msgstr "你拥有棕色后移发际线发型。"
+
+#: .\tattoos.json
+msgid "Male Hair: Blonde Receeding"
+msgstr "男性发型：金色后移发际线"
+
+#. ~ Description for {'str': 'Male Hair: Blonde Receeding'}
+#: .\tattoos.json
+msgid "You have Blonde Receeding Hair."
+msgstr "你拥有金色后移发际线发型。"
+
+#: .\tattoos.json
+msgid "Male Hair: Black Receeding"
+msgstr "男性发型：黑色后移发际线"
+
+#. ~ Description for {'str': 'Male Hair: Black Receeding'}
+#: .\tattoos.json
+msgid "You have Black Receeding Hair."
+msgstr "你拥有黑色后移发际线发型。"
+
+#: .\tattoos.json
+msgid "Male Hair: Brunette Dreads"
+msgstr "男性发型：棕色脏辫"
+
+#. ~ Description for {'str': 'Male Hair: Brunette Dreads'}
+#: .\tattoos.json
+msgid "You have Brunette dreads Hair."
+msgstr "你拥有棕色脏辫发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: Brunette Chelsea Cut"
+msgstr "女性发型：棕色切尔西短发"
+
+#. ~ Description for {'str': 'Female Hair: Brunette Chelsea Cut'}
+#: .\tattoos.json
+msgid "You have Brunette Chelsea Cut Hair."
+msgstr "你拥有棕色切尔西短发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Extremely Long Brunette"
+msgstr "女性发型：极长棕色发"
+
+#. ~ Description for {'str': 'Female Hair: Extremely Long Brunette'}
+#: .\tattoos.json
+msgid "You have extremely long Brunette Hair."
+msgstr "你拥有极长的棕色头发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Extremely Long Blonde"
+msgstr "女性发型：极长金发"
+
+#. ~ Description for {'str': 'Female Hair: Extremely Long Blonde'}
+#: .\tattoos.json
+msgid "You have extremely long Blonde Hair."
+msgstr "你拥有极长的金发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Extremely Long Black"
+msgstr "女性发型：极长黑发"
+
+#. ~ Description for {'str': 'Female Hair: Extremely Long Black'}
+#: .\tattoos.json
+msgid "You have extremely long Black Hair."
+msgstr "你拥有极长的黑发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Extremely Long red"
+msgstr "女性发型：极长红发"
+
+#. ~ Description for {'str': 'Female Hair: Extremely Long red'}
+#: .\tattoos.json
+msgid "You have extremely long red Hair."
+msgstr "你拥有极长的红发。"
+
+#: .\tattoos.json
+msgid "Eyes: Mascara Running down"
+msgstr "眼部：睫毛膏晕染"
+
+#. ~ Description for {'str': 'Eyes: Mascara Running down'}
+#: .\tattoos.json
+msgid "You have Mascara running down your face."
+msgstr "你脸上有睫毛膏晕染的痕迹。"
+
+#: .\tattoos.json
+msgid "Face: Red Blush"
+msgstr "面部：红色腮红"
+
+#. ~ Description for {'str': 'Face: Red Blush'}
+#: .\tattoos.json
+msgid "You have red blush on your cheeks."
+msgstr "你的脸颊上有红晕。"
+
+#: .\tattoos.json
+msgid "Facial Hair: fumanchu Moustache"
+msgstr "面部毛发：八字胡"
+
+#. ~ Description for {'str': 'Facial Hair: fumanchu Moustache'}
+#: .\tattoos.json
+msgid "You have a fumanchu moustache."
+msgstr "你有一副八字胡。"
+
+#: .\tattoos.json
+msgid "Facial Hair: long thin Moustache"
+msgstr "面部毛发：细长胡须"
+
+#. ~ Description for {'str': 'Facial Hair: long thin Moustache'}
+#: .\tattoos.json
+msgid "You have a long thin moustache."
+msgstr "你有一副细长的胡须。"
+
+#: .\tattoos.json
+msgid "Face: Unibrow"
+msgstr "面部：连心眉"
+
+#. ~ Description for {'str': 'Face: Unibrow'}
+#: .\tattoos.json
+msgid "You have a unibrow."
+msgstr "你有一道连心眉。"
+
+#: .\tattoos.json
+msgid "Eyes: Black eye"
+msgstr "眼睛：黑眼圈"
+
+#. ~ Description for {'str': 'Eyes: Black eye'}
+#: .\tattoos.json
+msgid "You have a black eye."
+msgstr "你有一只黑眼圈。"
+
+#: .\tattoos.json
+msgid "Face: Bloody face"
+msgstr "面部：血污脸"
+
+#. ~ Description for {'str': 'Face: Bloody face'}
+#: .\tattoos.json
+msgid "You have a blood splattered face."
+msgstr "你的脸上溅满了血。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Blue and Yellow"
+msgstr "女性发型：长波浪蓝黄发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Blue and Yellow'}
+#: .\tattoos.json
+msgid "You have Long Wavy Blue and Yellow Hair."
+msgstr "你有一头长波浪蓝黄发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Pink and Green"
+msgstr "女性发型：长波浪粉绿发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Pink and Green'}
+#: .\tattoos.json
+msgid "You have Long Wavy Pink and Green Hair."
+msgstr "你有一头长波浪粉绿发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Long Wavy Purple and Blue"
+msgstr "女性发型：长波浪紫蓝发"
+
+#. ~ Description for {'str': 'Female Hair: Long Wavy Purple and Blue'}
+#: .\tattoos.json
+msgid "You have Long Wavy Purple and Blue Hair."
+msgstr "你有一头长波浪紫蓝发。"
+
+#: .\tattoos.json
+msgid "Male Tattoo: Chest Cross"
+msgstr "男性纹身：胸前十字架"
+
+#. ~ Description for {'str': 'Male Tattoo: Chest Cross'}
+#: .\tattoos.json
+msgid "You have a black cross on your chest."
+msgstr "你的胸前有一个黑色十字架。"
+
+#: .\tattoos.json
+msgid "Male Tattoo: Right Arm Wire"
+msgstr "男性纹身：右臂铁丝网"
+
+#. ~ Description for {'str': 'Male Tattoo: Right Arm Wire'}
+#: .\tattoos.json
+msgid "You have a black barbwire tattoo on your right arm."
+msgstr "你的右臂上有一个黑色铁丝网纹身。"
+
+#: .\tattoos.json
+msgid "Male Tattoo: Left Arm Blackout"
+msgstr "男性纹身：左臂全黑"
+
+#. ~ Description for {'str': 'Male Tattoo: Left Arm Blackout'}
+#: .\tattoos.json
+msgid "You have a blackout tattoo on your left arm."
+msgstr "你的左臂上有一个全黑纹身。"
+
+#: .\tattoos.json
+msgid "Male Tattoo: Face Covered"
+msgstr "男性纹身：面部全覆盖"
+
+#. ~ Description for {'str': 'Male Tattoo: Face Covered'}
+#: .\tattoos.json
+msgid "Your entire face is covered in tattoos."
+msgstr "你的整个面部都布满了纹身。"
+
+#: .\tattoos.json
+msgid "Male Tattoo: Face Less Covered"
+msgstr "男性纹身：面部部分覆盖"
+
+#. ~ Description for {'str': 'Male Tattoo: Face Less Covered'}
+#: .\tattoos.json
+msgid "Almost your entire face is covered in tattoos."
+msgstr "你的面部几乎布满了纹身。"
+
+#: .\tattoos.json
+msgid "Eyes: Eyeliner Green"
+msgstr "眼睛：绿色眼线"
+
+#. ~ Description for {'str': 'Eyes: Eyeliner Green'}
+#: .\tattoos.json
+msgid "You have green eyeliner on."
+msgstr "你画着绿色眼线。"
+
+#: .\tattoos.json
+msgid "Eyes: Eyeliner Blue"
+msgstr "眼睛：蓝色眼线"
+
+#. ~ Description for {'str': 'Eyes: Eyeliner Blue'}
+#: .\tattoos.json
+msgid "You have blue eyeliner on."
+msgstr "你化了蓝色眼线。"
+
+#: .\tattoos.json
+msgid "Eyes: Eyeliner Red"
+msgstr "眼睛：红色眼线"
+
+#. ~ Description for {'str': 'Eyes: Eyeliner Red'}
+#: .\tattoos.json
+msgid "You have red eyeliner on."
+msgstr "你化了红色眼线。"
+
+#: .\tattoos.json
+msgid "Eyes: Dark Circles Around Eyes"
+msgstr "眼睛：黑眼圈"
+
+#. ~ Description for {'str': 'Eyes: Dark Circles Around Eyes'}
+#: .\tattoos.json
+msgid "You have dark circles around your eyes."
+msgstr "你有黑眼圈。"
+
+#: .\tattoos.json
+msgid "Eyes: Bloodshot Eyes"
+msgstr "眼睛：充血的眼睛"
+
+#. ~ Description for {'str': 'Eyes: Bloodshot Eyes'}
+#: .\tattoos.json
+msgid "You have bloodshot eyes."
+msgstr "你的眼睛充血了。"
+
+#: .\tattoos.json
+msgid "Male Hair: Slicked Back Brunette"
+msgstr "男性发型：后梳棕发"
+
+#. ~ Description for {'str': 'Male Hair: Slicked Back Brunette'}
+#: .\tattoos.json
+msgid "You have Long slicked back brunette Hair."
+msgstr "你有一头后梳的棕色长发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Slicked Back Black"
+msgstr "男性发型：后梳黑发"
+
+#. ~ Description for {'str': 'Male Hair: Slicked Back Black'}
+#: .\tattoos.json
+msgid "You have Long slicked back black Hair."
+msgstr "你有一头后梳的黑色长发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Slicked Back Blonde"
+msgstr "男性发型：后梳金发"
+
+#. ~ Description for {'str': 'Male Hair: Slicked Back Blonde'}
+#: .\tattoos.json
+msgid "You have Long slicked back blonde Hair."
+msgstr "你有一头后梳的金色长发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Slicked Back Gray"
+msgstr "男性发型：后梳灰发"
+
+#. ~ Description for {'str': 'Male Hair: Slicked Back Gray'}
+#: .\tattoos.json
+msgid "You have Long slicked back gray Hair."
+msgstr "你有一头后梳的灰色长发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Nerdy Brunette"
+msgstr "男性发型：书呆子棕发"
+
+#. ~ Description for {'str': 'Male Hair: Nerdy Brunette'}
+#: .\tattoos.json
+msgid "You have nerdy brunette Hair."
+msgstr "你有一头书呆子气的棕色头发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Nerdy Black"
+msgstr "男性发型：书呆子黑发"
+
+#. ~ Description for {'str': 'Male Hair: Nerdy Black'}
+#: .\tattoos.json
+msgid "You have nerdy black Hair."
+msgstr "你有一头书呆子气的黑色头发。"
+
+#: .\tattoos.json
+msgid "Angry Eyebrows"
+msgstr "愤怒的眉毛"
+
+#. ~ Description for {'str': 'Angry Eyebrows'}
+#: .\tattoos.json
+msgid "You have an angry expression."
+msgstr "你表情愤怒。"
+
+#: .\tattoos.json
+msgid "Female Hair: Straight Draped Brunette"
+msgstr "女性发型：直垂棕发"
+
+#. ~ Description for {'str': 'Female Hair: Straight Draped Brunette'}
+#: .\tattoos.json
+msgid "You have Long brunette Hair with bits hanging in front."
+msgstr "你有一头棕色长发，前面有几缕垂发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Straight Draped Black"
+msgstr "女性发型：直垂黑发"
+
+#. ~ Description for {'str': 'Female Hair: Straight Draped Black'}
+#: .\tattoos.json
+msgid "You have Long black Hair with bits hanging in front."
+msgstr "你有一头黑色长发，前面有几缕垂发。"
+
+#: .\tattoos.json
+msgid "Female Hair: Straight Draped Blonde"
+msgstr "女性发型：直垂金发"
+
+#. ~ Description for {'str': 'Female Hair: Straight Draped Blonde'}
+#: .\tattoos.json
+msgid "You have Long blonde Hair with bits hanging in front."
+msgstr "你有一头金色长发，前面有几缕垂发。"
+
+#: .\tattoos.json
+msgid "Male Hair: Mullet Brunette"
+msgstr "男性发型：鲻鱼头棕发"
+
+#. ~ Description for {'str': 'Male Hair: Mullet Brunette'}
+#: .\tattoos.json
+msgid "You have a brunette Mullet Hair."
+msgstr "你有一头棕色的鲻鱼头发型。"
+
+#: .\tattoos.json
+msgid "Male Hair: Mullet Black"
+msgstr "男性发型：鲻鱼头黑发"
+
+#. ~ Description for {'str': 'Male Hair: Mullet Black'}
+#: .\tattoos.json
+msgid "You have a black Mullet Hair."
+msgstr "你有一头黑色鲻鱼头发型。"
+
+#: .\tattoos.json
+msgid "Male Hair: Mullet Blonde"
+msgstr "男性发型：金色鲻鱼头"
+
+#. ~ Description for {'str': 'Male Hair: Mullet Blonde'}
+#: .\tattoos.json
+msgid "You have a blonde Mullet Hair."
+msgstr "你有一头金色鲻鱼头发型。"
+
+#: .\tattoos.json
+msgid "Face: Rosy Cheeks"
+msgstr "面部：红润脸颊"
+
+#. ~ Description for {'str': 'Face: Rosy Cheeks'}
+#: .\tattoos.json
+msgid "You have rosy cheeks."
+msgstr "你拥有红润的脸颊。"
+
+#: .\tattoos.json
+msgid "Female Hair: Ponytail Fire Color"
+msgstr "女性发型：火焰色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Ponytail Fire Color'}
+#: .\tattoos.json
+msgid "You have a fire colored ponytail hair."
+msgstr "你有一头火焰色的马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Hair: Ponytail Ice Color"
+msgstr "女性发型：冰色马尾"
+
+#. ~ Description for {'str': 'Female Hair: Ponytail Ice Color'}
+#: .\tattoos.json
+msgid "You have an ice ponytail hair."
+msgstr "你有一头冰色马尾发型。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Whole Body Colorful"
+msgstr "女性纹身：全身彩色纹身"
+
+#. ~ Description for {'str': 'Female Tattoo: Whole Body Colorful'}
+#: .\tattoos.json
+msgid "You have colorful tattoos all over your body."
+msgstr "你全身布满了彩色纹身。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Chest Cross"
+msgstr "女性纹身：胸前十字架"
+
+#. ~ Description for {'str': 'Female Tattoo: Chest Cross'}
+#: .\tattoos.json
+msgid "You have a cross tattoo on your chest."
+msgstr "你胸前有一个十字架纹身。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Right Arm Blackout"
+msgstr "女性纹身：右臂全黑纹身"
+
+#. ~ Description for {'str': 'Female Tattoo: Right Arm Blackout'}
+#: .\tattoos.json
+msgid "You have a blackout tattoo on your right arm."
+msgstr "你右臂有一个全黑纹身。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Left Leg Rose"
+msgstr "女性纹身：左腿玫瑰"
+
+#. ~ Description for {'str': 'Female Tattoo: Left Leg Rose'}
+#: .\tattoos.json
+msgid "You have a rose tattoo on your left leg."
+msgstr "你左腿上有一个玫瑰纹身。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Whole Body Illustration"
+msgstr "女性纹身：全身插画纹身"
+
+#. ~ Description for {'str': 'Female Tattoo: Whole Body Illustration'}
+#: .\tattoos.json
+msgid "You have black illustration tattoos all over your body."
+msgstr "你全身布满了黑色插画纹身。"
+
+#: .\tattoos.json
+msgid "Female Tattoo: Whole Body Tigerstripes"
+msgstr "女性纹身：全身虎纹"
+
+#. ~ Description for {'str': 'Female Tattoo: Whole Body Tigerstripes'}
+#: .\tattoos.json
+msgid "You have tigerstripe tattoos all over your body."
+msgstr "你全身布满了虎纹纹身。"

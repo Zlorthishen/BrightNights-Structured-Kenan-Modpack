@@ -1,0 +1,1545 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: modern_weapon\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Modern Weapon Pack Expanded"
+msgstr "现代武器包扩展版"
+
+#. ~ Description for Modern Weapon Pack Expanded
+#: .\modinfo.json
+msgid ""
+"This mod adds more real world firearms to the game. It was derived from "
+"Modern Weapons Pack by crom. It also overrides most of core game guns to use"
+" more calibers. INCLUDES PATCH OPTION in modern_extras folder to disable "
+"overriding of core game guns."
+msgstr ""
+"此模组为游戏添加了更多现实世界的枪械。它衍生自crom的现代武器包。同时覆盖了大部分核心游戏枪械以使用更多口径。包含在modern_extras文件夹中的补丁选项可禁用对核心游戏枪械的覆盖。"
+
+#: .\modern_ammo\modern_ammo.json
+msgid ".30-30 Winchester"
+msgid_plural ".30-30 Winchester"
+msgstr[0] ".30-30温彻斯特"
+
+#. ~ Description for {'str': '.30-30 Winchester', 'str_pl': '.30-30
+#. Winchester'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"At short-range, with considerably lower recoil than a .3006, the .30-30 "
+"Winchester is very popular with hunters of deer, black bear, and even moose."
+"  Its 150gr round-nose cartridge is well suited for the tubular magazines of"
+" lever-action rifles."
+msgstr ".30-30温彻斯特在短距离内后坐力远低于.3006，深受猎鹿、黑熊甚至驼鹿的猎人喜爱。其150格令圆头弹非常适合杠杆式步枪的管状弹仓。"
+
+#: .\modern_ammo\modern_ammo.json
+msgid "reloaded .30-30 Winchester"
+msgid_plural "reloaded .30-30 Winchester"
+msgstr[0] "重装.30-30温彻斯特"
+
+#. ~ Description for {'str': 'reloaded .30-30 Winchester', 'str_pl': 'reloaded
+#. .30-30 Winchester'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"At short-range, with considerably lower recoil than a .3006, the .30-30 "
+"Winchester is very popular with hunters of deer, black bear, and even moose."
+"  Its 150gr round-nose cartridge is well suited for the tubular magazines of"
+" lever-action rifles.  This one has been hand-reloaded."
+msgstr ""
+".30-30温彻斯特在短距离内后坐力远低于.3006，深受猎鹿、黑熊甚至驼鹿的猎人喜爱。其150格令圆头弹非常适合杠杆式步枪的管状弹仓。此发为手工重装弹。"
+
+#: .\modern_ammo\modern_ammo.json
+msgid ".357 Magnum"
+msgid_plural ".357 Magnum"
+msgstr[0] ".357马格南"
+
+#. ~ Description for {'str': '.357 Magnum', 'str_pl': '.357 Magnum'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"The high velocity and high energy .357 Magnum, with 158gr JHP in an "
+"elongated .38 Special cartridge, was developed in the 1930s.  Renowned for "
+"its stopping power, the .357 is easily capable of bringing down medium to "
+"large game."
+msgstr ""
+"高速高能量的.357马格南弹，采用加长的.38特种弹壳配158格令空尖弹，于1930年代开发。以其制止力闻名，.357能轻松放倒中型至大型猎物。"
+
+#: .\modern_ammo\modern_ammo.json
+msgid "reloaded .357 Magnum"
+msgid_plural "reloaded .357 Magnum"
+msgstr[0] "重装.357马格南"
+
+#. ~ Description for {'str': 'reloaded .357 Magnum', 'str_pl': 'reloaded .357
+#. Magnum'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"The high velocity and high energy .357 Magnum, with 125gr JHP in an "
+"elongated .38 Special cartridge, was developed in the 1930s.  Renowned for "
+"its stopping power, the .357 is easily capable of bringing down medium to "
+"large game.  This one has been hand-reloaded."
+msgstr ""
+"高速高能量的.357马格南弹，采用加长的.38特种弹壳配125格令空尖弹，于1930年代开发。以其制止力闻名，.357能轻松放倒中型至大型猎物。此发为手工重装弹。"
+
+#: .\modern_ammo\modern_ammo_items.json
+msgid ".30-30 casing"
+msgid_plural ".30-30 casings"
+msgstr[0] ".30-30弹壳"
+
+#. ~ Description for {'str': '.30-30 casing'}
+#: .\modern_ammo\modern_ammo_items.json
+msgid "An empty casing from a .30-30 round."
+msgstr ".30-30子弹的空弹壳。"
+
+#: .\modern_ammo\modern_ammo_items.json
+msgid ".357 Magnum casing"
+msgid_plural ".357 Magnum casings"
+msgstr[0] ".357 马格南弹壳"
+
+#. ~ Description for {'str': '.357 Magnum casing'}
+#: .\modern_ammo\modern_ammo_items.json
+msgid "An empty casing from a .357 Magnum round."
+msgstr "一枚 .357 马格南子弹的空弹壳。"
+
+#: .\modern_ammo\modern_ammo_types.json
+msgid ".30-30"
+msgstr ".30-30"
+
+#: .\modern_extras\modern_items.json
+msgid "AutoMag Pack"
+msgid_plural "AutoMag Packs"
+msgstr[0] "自动马格南套装"
+
+#. ~ Description for {'str': 'AutoMag Pack', 'str_pl': 'AutoMag Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box AutoMag with extra mags, manual, holster,"
+" and firearm repair kit."
+msgstr "这是一套全新未拆封的自动马格南，包含额外弹匣、手册、枪套和枪械维修工具包。"
+
+#: .\modern_extras\modern_items.json
+msgid "Coonan .357 Pack"
+msgid_plural "Coonan .357 Packs"
+msgstr[0] "库南 .357 套装"
+
+#. ~ Description for {'str': 'Coonan .357 Pack', 'str_pl': 'Coonan .357
+#. Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Coonan .357 with extra mags, manual, and "
+"improved iron sights."
+msgstr "这是一把全新未拆封的库南 .357，配有额外弹匣、手册和改进型机械瞄具。"
+
+#: .\modern_extras\modern_items.json
+msgid "R93 Tactical Pack"
+msgid_plural "R93 Tactical Packs"
+msgstr[0] "R93 战术套装"
+
+#. ~ Description for {'str': 'R93 Tactical Pack', 'str_pl': 'R93 Tactical
+#. Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box R93 Tactical 2 with assorted mags, "
+"manual, retool kits, and firearm repair kit."
+msgstr "这是一把全新未拆封的 R93 战术 2 型，配有多种弹匣、手册、改装工具包和枪械维修工具包。"
+
+#: .\modern_extras\modern_items.json
+msgid "Colt USMC M45A1 CQBP Pack"
+msgid_plural "Colt USMC M45A1 CQBP Packs"
+msgstr[0] "柯尔特 USMC M45A1 CQBP 套装"
+
+#. ~ Description for {'str': 'Colt USMC M45A1 CQBP Pack', 'str_pl': 'Colt USMC
+#. M45A1 CQBP Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Colt USMC M45A1 CQBP with extra mags, "
+"manual, and firearm repair kit."
+msgstr "这是一把全新未拆封的柯尔特 USMC M45A1 CQBP，配有额外弹匣、手册和枪械维修工具包。"
+
+#: .\modern_extras\modern_items.json
+msgid "Strike One Pack"
+msgid_plural "Strike One Packs"
+msgstr[0] "Strike One 套装"
+
+#. ~ Description for {'str': 'Strike One Pack', 'str_pl': 'Strike One Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Strike One with extra mags, manual, and "
+"firearm repair kit."
+msgstr "这是一把全新未拆封的 Strike One，配有额外弹匣、手册和枪械维修工具包。"
+
+#: .\modern_extras\modern_items.json
+msgid "Saab Bofors Dynamics CBJ-MS Pack"
+msgid_plural "Saab Bofors Dynamics CBJ-MS Packs"
+msgstr[0] "萨博博福斯动力 CBJ-MS 套装"
+
+#. ~ Description for {'str': 'Saab Bofors Dynamics CBJ-MS Pack', 'str_pl':
+#. 'Saab Bofors Dynamics CBJ-MS Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Saab Bofors Dynamics CBJ-MS with extra "
+"mags and a bipod."
+msgstr "这是一把全新未拆封的萨博博福斯动力 CBJ-MS，配有额外弹匣和两脚架。"
+
+#: .\modern_extras\modern_items.json
+msgid "Varos-Danuvia VD-01 Pack"
+msgid_plural "Varos-Danuvia VD-01 Packs"
+msgstr[0] "Varos-Danuvia VD-01 套装"
+
+#. ~ Description for {'str': 'Varos-Danuvia VD-01 Pack', 'str_pl': 'Varos-
+#. Danuvia VD-01 Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Vörös-Danuvia VD-01 with extra mags, and "
+"extra goodies."
+msgstr "这是一把全新未拆封的 Vörös-Danuvia VD-01，配有额外弹匣和其他配件。"
+
+#: .\modern_extras\modern_mod.json
+msgid "folding and adjustable stock"
+msgid_plural "folding and adjustable stocks"
+msgstr[0] "折叠可调式枪托"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"This mod improves recoil and accuracy but needs unfolding before use.  It "
+"increases the time needed to wield the weapon."
+msgstr "此改装件能改善后坐力和精准度，但使用前需展开。它会增加举枪所需的时间。"
+
+#: .\modern_extras\modern_mod.json
+msgid "stock"
+msgstr "枪托"
+
+#: .\modern_extras\modern_mod.json
+msgid "lightweight bipod"
+msgid_plural "lightweight bipods"
+msgstr[0] "轻量化两脚架"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A makeshift metal bipod looped around the barrel and used to provide a "
+"forward rest to reduce motion.  Aside from a very slight increase in weight "
+"there are no drawbacks."
+msgstr "一个临时制作的金属两脚架，环绕枪管，用于提供前置支撑以减少晃动。除了轻微增加重量外，没有其他缺点。"
+
+#: .\modern_extras\modern_mod.json
+msgid "underbarrel"
+msgstr "下挂式"
+
+#: .\modern_extras\modern_mod.json
+msgid "neck strap"
+msgid_plural "neck straps"
+msgstr[0] "颈带"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A neck strap allows a pistol to be worn like a piece of clothing.  It offers"
+" no protection, but improves accuracy when held taught."
+msgstr "颈带允许手枪像衣物一样佩戴。它不提供防护，但在拉紧时能提高精准度。"
+
+#: .\modern_extras\modern_mod.json
+msgid "sling"
+msgstr "枪带"
+
+#: .\modern_extras\modern_mod.json
+msgid "peep sight"
+msgid_plural "peep sights"
+msgstr[0] "觇孔式瞄具"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A rear sight aperture that can adjust for windage and elevation allowing for"
+" very accurate aiming through a small, framed circle. Also known as a "
+"diopter sight."
+msgstr "一种可调节风偏和高低的后瞄具孔径，通过一个带框的小圆孔实现非常精准的瞄准。也称为屈光瞄具。"
+
+#: .\modern_extras\modern_mod.json
+msgid "sights"
+msgstr "瞄准具"
+
+#: .\modern_extras\modern_mod.json
+msgid "SUSAT scope"
+msgid_plural "SUSAT scopes"
+msgstr[0] "SUSAT 瞄准镜"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A 4x telescopic sight aperture with a red illuminated, German Post type "
+"reticle."
+msgstr "一个 4 倍望远瞄准镜孔径，带有红色照明的德国柱状分划板。"
+
+#: .\modern_extras\modern_mod.json
+msgid "Six12 integral shotgun suppressor"
+msgid_plural "Six12 integral shotgun suppressors"
+msgstr[0] "Six12 内置霰弹枪消音器"
+
+#: .\modern_extras\modern_mod.json
+msgid "An integral shot suppressor designed to work with Crye Six12."
+msgstr "专为Crye Six12设计的一体式消音器。"
+
+#: .\modern_extras\modern_mod.json
+msgid "muzzle"
+msgstr "枪口"
+
+#: .\modern_extras\modern_mod.json
+msgid "Crye Six12 underbarrel shotgun"
+msgid_plural "Crye Six12 underbarrel shotguns"
+msgstr[0] "Crye Six12下挂式霰弹枪"
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A double action, bullpup, semi-automatic shotgun with a removable revolver "
+"cylinder."
+msgstr "一款双动、无托、半自动霰弹枪，配有可拆卸转轮弹巢。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "auto-fire rifle assembly"
+msgid_plural "auto-fire rifle assemblys"
+msgstr[0] "全自动步枪组件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"Fabricated parts necessary to convert a valid semi-automatic rifle to a "
+"selective fire weapon with a burst size of 15 rounds.  However it reduces "
+"accuracy while increasing recoil."
+msgstr "将适用的半自动步枪改装为15发点射可选射击武器的必要自制零件。但会降低精度并增加后坐力。"
+
+#: .\modern_extras\modern_mod_obsolete.json .\modern_extras\overrides_gun.json
+#: .\modern_handgun\modern_handgun.json .\modern_rifle\modern_rifle.json
+#: .\modern_smg\modern_smg.json
+msgid "auto"
+msgstr "自动"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "receiver"
+msgstr "机匣"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "select auto-fire assembly"
+msgid_plural "select auto-fire assemblys"
+msgstr[0] "可选全自动组件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"A fabricated cam and sear, combined with an auto-fire rifle assembly, used "
+"to convert a valid semi-automatic rifle to a selective fire weapon with a "
+"burst sizes of 3 and 10 rounds.  However it reduces accuracy while "
+"increasing recoil."
+msgstr "一个自制的凸轮和阻铁，结合全自动步枪组件，用于将适用的半自动步枪改装为可选射击武器，支持3发和10发点射。但会降低精度并增加后坐力。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "3 rd."
+msgstr "3 发"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "shotgun auto-fire assembly"
+msgid_plural "shotgun auto-fire assemblys"
+msgstr[0] "霰弹枪全自动组件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"Fabricated parts necessary to convert a valid semi-automatic shotgun to a "
+"selective fire weapon with a burst size of 5 rounds.  However it reduces "
+"accuracy while increasing recoil."
+msgstr "将适用的半自动霰弹枪改装为5发点射可选射击武器的必要自制零件。但会降低精度并增加后坐力。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".38 caliber conversion kit"
+msgid_plural ".38 caliber conversion kits"
+msgstr[0] ".38口径转换套件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .38 firearm.  The conversion results in reduced accuracy."
+msgstr "此套件替换适用枪支的若干关键部件，将其转换为.38口径枪支。转换会导致精度下降。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "bore"
+msgstr "枪管"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".357 caliber conversion kit"
+msgid_plural ".357 caliber conversion kits"
+msgstr[0] ".357口径转换套件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .357 firearm.  The conversion results in reduced accuracy."
+msgstr "此套件替换适用枪支的若干关键部件，将其转换为.357口径枪支。转换会导致精度下降。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".40 caliber conversion kit"
+msgid_plural ".40 caliber conversion kits"
+msgstr[0] ".40口径转换套件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .40 firearm.  The conversion results in reduced accuracy."
+msgstr "此套件替换适用枪支的若干关键部件，将其转换为.40口径枪支。转换会导致精度下降。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "7.62x39mm caliber conversion kit"
+msgid_plural "7.62x39mm caliber conversion kits"
+msgstr[0] "7.62x39mm口径转换套件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a 7.62x39mm firearm.  The conversion results in reduced accuracy."
+msgstr "此套件替换适用枪支的若干关键部件，将其转换为7.62x39mm口径枪支。转换会导致精度下降。"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "5.45x39mm caliber conversion kit"
+msgid_plural "5.45x39mm caliber conversion kits"
+msgstr[0] "5.45x39mm口径转换套件"
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a 5.45x39mm firearm.  The conversion results in reduced accuracy."
+msgstr "此套件替换适用枪支的若干关键部件，将其转换为5.45x39mm口径枪支。转换会导致精度下降。"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M134D-H"
+msgid_plural "M134D-Hs"
+msgstr[0] "M134D-H"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M249"
+msgid_plural "M249s"
+msgstr[0] "M249"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M240"
+msgid_plural "M240s"
+msgstr[0] "M240"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M60"
+msgid_plural "M60s"
+msgstr[0] "M60"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M72 LAW"
+msgid_plural "M72 LAWs"
+msgstr[0] "M72 LAW"
+
+#: .\modern_extras\overrides_gun.json
+msgid "66mm HEAT"
+msgid_plural "66mm HEATs"
+msgstr[0] "66mm HEAT"
+
+#: .\modern_extras\overrides_gun.json
+msgid "S&W 22A"
+msgid_plural "S&W 22As"
+msgstr[0] "S&W 22A"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Ruger 10/22"
+msgid_plural "Ruger 10/22s"
+msgstr[0] "Ruger 10/22"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Desert Eagle .44"
+msgid_plural "Desert Eagle .44s"
+msgstr[0] "沙漠之鹰 .44"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Bushmaster ACR"
+msgid_plural "Bushmaster ACRs"
+msgstr[0] "Bushmaster ACR"
+
+#: .\modern_extras\overrides_gun.json
+msgid "AR-15"
+msgid_plural "AR-15s"
+msgstr[0] "AR-15"
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K 416A5"
+msgid_plural "H&K 416A5s"
+msgstr[0] "H&K 416A5"
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K G36"
+msgid_plural "H&K G36s"
+msgstr[0] "H&K G36"
+
+#: .\modern_extras\overrides_gun.json .\modern_handgun\modern_handgun.json
+#: .\modern_smg\modern_smg.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\modern_extras\overrides_gun.json
+msgid "2 rd."
+msgstr "2发。"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M27 IAR"
+msgid_plural "M27 IARs"
+msgstr[0] "M27 IAR"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M4A1"
+msgid_plural "M4A1s"
+msgstr[0] "M4A1"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Ruger Mini-14"
+msgid_plural "Ruger Mini-14s"
+msgstr[0] "鲁格 Mini-14"
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN SCAR-L"
+msgid_plural "FN SCAR-Ls"
+msgstr[0] "FN SCAR-L"
+
+#: .\modern_extras\overrides_gun.json
+msgid "SIG 552"
+msgid_plural "SIG 552s"
+msgstr[0] "SIG 552"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Steyr AUG"
+msgid_plural "Steyr AUGs"
+msgstr[0] "斯泰尔 AUG"
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN FAL"
+msgid_plural "FN FALs"
+msgstr[0] "FN FAL"
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K G3"
+msgid_plural "H&K G3s"
+msgstr[0] "H&K G3"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M1A"
+msgid_plural "M1As"
+msgstr[0] "M1A"
+
+#: .\modern_extras\overrides_gun.json
+msgid "M14 EBR-RI"
+msgid_plural "M14 EBR-RIs"
+msgstr[0] "M14 EBR-RI"
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN SCAR-H"
+msgid_plural "FN SCAR-Hs"
+msgstr[0] "FN SCAR-H"
+
+#: .\modern_extras\overrides_gun.json
+msgid "AKM"
+msgid_plural "AKMs"
+msgstr[0] "AKM"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Beretta ARX-160"
+msgid_plural "Beretta ARX-160s"
+msgstr[0] "Beretta ARX-160"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Cx4 Storm"
+msgid_plural "Cx4 Storms"
+msgstr[0] "Cx4 Storm"
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K MP5"
+msgid_plural "H&K MP5s"
+msgstr[0] "H&K MP5"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Kel-Tec SUB-2000"
+msgid_plural "Kel-Tec SUB-2000s"
+msgstr[0] "Kel-Tec SUB-2000"
+
+#: .\modern_extras\overrides_gun.json
+msgid ""
+"A uniquely designed pistol caliber carbine with an integral folding stock "
+"and that makes use of a large variety of 9mm magazines."
+msgstr "一款独特设计的手枪口径卡宾枪，配有内置折叠枪托，可使用多种9毫米弹匣。"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Uzi 9mm"
+msgid_plural "Uzi 9mms"
+msgstr[0] "乌兹9毫米"
+
+#: .\modern_extras\overrides_gun.json
+msgid "Saiga-12"
+msgid_plural "Saiga-12s"
+msgstr[0] "赛加-12"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "AMT Longslide Hardballer"
+msgid_plural "AMT Longslide Hardballers"
+msgstr[0] "AMT长滑套硬球手"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A brushed stainless steel .45 patterned after the Colt M1911 with a seven "
+"inch barrel."
+msgstr "一款基于柯尔特M1911设计的拉丝不锈钢.45手枪，配备七英寸枪管。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "APB Stechkin"
+msgid_plural "APB Stechkins"
+msgstr[0] "APB斯捷奇金"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Russian, APB Stechkin, or Avtomaticheskij Pistolet Besshumnyj, is a Cold"
+" War era, double action, automatic machine pistol used by Spetsnaz special "
+"forces."
+msgstr ""
+"俄罗斯APB斯捷奇金，或称Avtomaticheskij Pistolet Besshumnyj，是一款冷战时期的双动自动冲锋手枪，由特种部队使用。"
+
+#: .\modern_handgun\modern_handgun.json .\modern_rifle\modern_rifle.json
+#: .\modern_smg\modern_smg.json
+msgid "semi auto"
+msgstr "半自动"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Strike One"
+msgid_plural "Strike Ones"
+msgstr[0] "一击"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"Of Italian design, the Arsenal Firearms Strike One is a short recoil "
+"operated, hammerless striker-fired, semi-automatic pistol."
+msgstr "意大利设计的阿森纳火器一击是一款短后坐力操作、无击锤击针击发半自动手枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "AutoMag"
+msgid_plural "AutoMags"
+msgstr[0] "自动马格南"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The AutoMag is easily recognizable because of a distinctive vented rib along"
+" its barrel.  It has a recoil operated, locking rotary bolt similar to many "
+"rifles, and is a highly regarded semi-automatic pistol."
+msgstr "自动马格南因其枪管上独特的通风肋条而易于识别。它采用后坐力操作、旋转闭锁枪机，类似于许多步枪，是一款备受推崇的半自动手枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Beretta 93R"
+msgid_plural "Beretta 93Rs"
+msgstr[0] "伯莱塔93R"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Beretta 93 Raffica machine pistol used by Italian counter-terrorism "
+"police and military forces."
+msgstr "伯莱塔93 Raffica冲锋手枪，由意大利反恐警察和军事部队使用。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Browning HP"
+msgid_plural "Browning HPs"
+msgstr[0] "勃朗宁HP"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Browning Hi Power, introduced in 1935, has been a widely used military "
+"service sidearm for many countries.  It is a single action, recoil operated "
+"pistol."
+msgstr "勃朗宁大威力手枪于1935年推出，已成为许多国家广泛使用的军用制式手枪。它是一款单动、后坐力操作手枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Colt USMC M45A1 CQBP"
+msgid_plural "Colt USMC M45A1 CQBPs"
+msgstr[0] "柯尔特美国海军陆战队M45A1 CQBP"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The US Marine Corp standard-issue side arm, this single action, recoil "
+"operated, semi-automatic Close Quarter Battle Pistol is a M1911-style "
+"handgun with a sand-tan finish."
+msgstr "美国海军陆战队标准配发手枪，这款单动、后坐力操作半自动近战手枪是一款M1911风格手枪，采用沙褐色涂装。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Coonan .357 Magnum Automatic"
+msgid_plural "Coonan .357 Magnum Automatics"
+msgstr[0] "库南.357马格南自动手枪"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Coonan Compensated .357 Magnum is a recoil operated, m1911-style "
+"automatic pistol of high quality."
+msgstr "库南补偿型.357马格南是一款后坐力操作、M1911风格的高品质自动手枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "H&K 45T"
+msgid_plural "H&K 45Ts"
+msgstr[0] "H&K 45T"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Heckler & Koch 45 Tactical was intended to replace the Berreta M9 as the"
+" standard US Military service weapon in the Joint Combat Pistol program "
+"which was suspended due to budgetary contraints.  It is a double-action "
+"pistol, short-recoil operated, using modified Browning-type locking system "
+"and tilting barrel."
+msgstr ""
+"Heckler & Koch "
+"45战术型手枪原计划在联合战斗手枪项目中取代伯莱塔M9，成为美军标准制式武器，后因预算限制而搁置。它是一款双动手枪，采用短后坐力操作，改良版勃朗宁式闭锁系统与倾斜枪管设计。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "H&K 45CT"
+msgid_plural "H&K 45CTs"
+msgstr[0] "H&K 45CT"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Heckler & Koch 45 Compact Tactical is a double-action pistol, short-"
+"recoil operated, using modified Browning-type locking system and tilting "
+"barrel."
+msgstr "Heckler & Koch 45紧凑战术型是一款双动手枪，采用短后坐力操作，改良版勃朗宁式闭锁系统与倾斜枪管设计。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Mare's Leg"
+msgid_plural "Mare's Legs"
+msgstr[0] "母马腿"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Henry Lever Action Mare's Leg has an octogon barrel with brass barrel "
+"bands and a brass receiver plate.  Classified as a pistol in the US, this is"
+" a cut-down version of a full sized rifle."
+msgstr "亨利杠杆式母马腿步枪配备八边形枪管、黄铜枪管箍和黄铜机匣板。在美国被归类为手枪，这是全尺寸步枪的截短版本。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard Semi-Automatic"
+msgid_plural "High Standard Semi-Automatics"
+msgstr[0] "海标准半自动手枪"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "A US Military, WWII era, target pistol for competition."
+msgstr "一款美军二战时期的竞赛用靶枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard HDM"
+msgid_plural "High Standard HDMs"
+msgstr[0] "海标准HDM"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"An OSS, US Special Operations Forces, and CIA pistol common between "
+"1942-1951.  It is still found, today, in United States inventories."
+msgstr "一款在1942年至1951年间常见的OSS（美国战略服务局）、美国特种部队和CIA手枪。至今仍可在美国库存中找到。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard Deluxe"
+msgid_plural "High Standard Deluxes"
+msgstr[0] "海标准豪华型"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A common 9mm revolver loved for its dependability and comfortable grip."
+msgstr "一款常见的9毫米左轮手枪，以其可靠性和舒适握把而备受喜爱。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Kahr K9"
+msgid_plural "Kahr K9s"
+msgstr[0] "Kahr K9"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A popular concealed carry option for law enforcement officers, the Kahr K9 "
+"is a double action only, compact semi-automatic of solid steel construction "
+"with polymer grips."
+msgstr "Kahr K9是执法人员常用的隐蔽携带选择，它是一款纯双动、紧凑型半自动手枪，采用全钢结构与聚合物握把。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Korth Nibelungen"
+msgid_plural "Korth Nibelungens"
+msgstr[0] "Korth Nibelungen"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"Made with cold forged Damascus steel, the Korth Nibelungen is at the "
+"pinnacle of German precision engineering."
+msgstr "采用冷锻大马士革钢制成，Korth Nibelungen代表了德国精密工程的巅峰。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Korth Combat"
+msgid_plural "Korth Combats"
+msgstr[0] "Korth Combat"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"This wheelgun is hand crafted with German precision engineering.  The Korth "
+"Combat is a double action work of art machined from the finest billet steel."
+msgstr "这款左轮手枪采用德国精密工程手工打造。Korth Combat是一款双动艺术品，由最优质的钢坯加工而成。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Manurhin MR 73"
+msgid_plural "Manurhin MR 73s"
+msgstr[0] "Manurhin MR 73"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A double-action revolver from France, the Manurhin MR 73 was a standard "
+"issue firearm for the French Police Nationale and Gendarmerie Nationale.  "
+"Its performance, durability, and accuracy have reached a legendary status."
+msgstr "Manurhin MR 73是一款法国产双动左轮手枪，曾是法国国家警察和国家宪兵队的标准配枪。其性能、耐用性和精准度已达到传奇地位。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Rohrbaugh R9s"
+msgid_plural "Rohrbaugh R9ss"
+msgstr[0] "Rohrbaugh R9s"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Rohrbaugh R9s is a hammerless, compact semi-automatic.  Lightweight, "
+"double action, it is operated with a short recoil and a locking breech."
+msgstr "Rohrbaugh R9s是一款无击锤紧凑型半自动手枪。轻量双动设计，采用短后坐力与闭锁枪机操作。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "S&W 59"
+msgid_plural "S&W 59s"
+msgstr[0] "S&W 59"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "The Smith & Wesson Model 59 double-action, semi-automatic pistol."
+msgstr "史密斯&韦森59型双动半自动手枪。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "S&W 686"
+msgid_plural "S&W 686s"
+msgstr[0] "S&W 686"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The stainless steel Smith & Wesson Model 686 double-action revolver is a "
+"popular sidearm among several US law enforcement agencies and police."
+msgstr "不锈钢史密斯&韦森686型双动左轮手枪是美国多个执法机构和警察部门常用的副武器。"
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Vörös-Danuvia VD-01"
+msgid_plural "Vörös-Danuvia VD-01s"
+msgstr[0] "Vörös-Danuvia VD-01"
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A Hungarian weapon, the Vörös-Danuvia Machine-Pistol VD-01 features a "
+"distinctive under-barrel cylindrical magazine forward the trigger guard."
+msgstr "Vörös-Danuvia VD-01是一款匈牙利武器，其特色是枪管下方、扳机护圈前方设有独特的圆柱形弹匣。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ".22 magazine"
+msgid_plural ".22 magazines"
+msgstr[0] ".22弹匣"
+
+#. ~ Description for {'str': '.22 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "A standard 10 round capacity magazine for a .22 pistol."
+msgstr ".22手枪的标准10发容量弹匣。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ".357 magazine"
+msgid_plural ".357 magazines"
+msgstr[0] ".357弹匣"
+
+#. ~ Description for {'str': '.357 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for a .357 semi-automatic, holds 7 rounds."
+msgstr ".357半自动手枪的标准弹匣，可容纳7发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Strike One 9mm magazine"
+msgid_plural "Strike One 9mm magazines"
+msgstr[0] "Strike One 9毫米弹匣"
+
+#. ~ Description for {'str': 'Strike One 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for the Browning HP, holds 17 rounds staggered."
+msgstr "勃朗宁HP的标准弹匣，采用交错排列，可容纳17发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "S&W 9mm magazine"
+msgid_plural "S&W 9mm magazines"
+msgstr[0] "S&W 9毫米弹匣"
+
+#. ~ Description for {'str': 'S&W 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The S&W 9mm magazine, holds 14 rounds double column."
+msgstr "S&W 9毫米弹匣，采用双排设计，可容纳14发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Browning HP 9mm magazine"
+msgid_plural "Browning HP 9mm magazines"
+msgstr[0] "勃朗宁HP 9毫米弹匣"
+
+#. ~ Description for {'str': 'Browning HP 9mm magazine'}
+#. ~ Description for {'str': 'Strike One .40 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "The standard magazine for the Browning HP, holds 13 rounds staggered."
+msgstr "勃朗宁HP的标准弹匣，采用交错排列，可容纳13发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "compact concealed carry 9mm magazine"
+msgid_plural "compact concealed carry 9mm magazines"
+msgstr[0] "紧凑型隐蔽携带9毫米弹匣"
+
+#. ~ Description for {'str': 'compact concealed carry 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for a compact handgun, holds 7 rounds."
+msgstr "紧凑型手枪的标准弹匣，可容纳7发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Stechkin magazine"
+msgid_plural "Stechkin magazines"
+msgstr[0] "斯捷奇金弹匣"
+
+#. ~ Description for {'str': 'Stechkin magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ""
+"The standard magazine for the APB Stechkin, holds 20 rounds double-stacked "
+"with a double feed."
+msgstr "APB斯捷奇金的标准弹匣，采用双排双进设计，可容纳20发子弹。"
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "VD-01 cylindrical magazine"
+msgid_plural "VD-01 cylindrical magazines"
+msgstr[0] "VD-01圆柱形弹匣"
+
+#. ~ Description for {'str': 'VD-01 cylindrical magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ""
+"An under-barrel, 33-round, helical loading, cylindrical magazine made for "
+"the Voros-Danuvia VD-01."
+msgstr "专为Voros-Danuvia VD-01设计的枪管下挂式33发螺旋供弹圆柱形弹匣。"
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "Strike One .40 magazine"
+msgid_plural "Strike One .40 magazines"
+msgstr[0] "Strike One .40口径弹匣"
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "Browning HP .40 magazine"
+msgid_plural "Browning HP .40 magazines"
+msgstr[0] "勃朗宁HP .40口径弹匣"
+
+#. ~ Description for {'str': 'Browning HP .40 magazine'}
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid ""
+"The .40 magazine for the Browning HP, holds 10 rounds double-stacked with a "
+"staggered feed."
+msgstr "勃朗宁HP的.40口径弹匣，采用双排交错供弹设计，可容纳10发子弹。"
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "compact concealed carry .40 magazine"
+msgid_plural "compact concealed carry .40 magazines"
+msgstr[0] "紧凑型隐蔽携带.40口径弹匣"
+
+#. ~ Description for {'str': 'compact concealed carry .40 magazine'}
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "The standard magazine for a compact handgun, holds 6 rounds."
+msgstr "紧凑型手枪的标准弹匣，可容纳6发子弹。"
+
+#: .\modern_launcher\modern_launcher.json
+msgid "GL06 stand alone launcher"
+msgid_plural "GL06 stand alone launchers"
+msgstr[0] "GL06独立发射器"
+
+#: .\modern_launcher\modern_launcher.json
+msgid ""
+"The Brügger & Thomet GL06 grenade launcher is one of the most accurate "
+"launchers available.  It features vertical loading with a folding buttstock "
+"and detachable forward grip."
+msgstr "Brügger & Thomet GL06榴弹发射器是现有最精确的发射器之一。它采用垂直装填方式，配备折叠枪托和可拆卸前握把。"
+
+#: .\modern_launcher\modern_launcher.json
+msgid "RGM-40 Kastet"
+msgid_plural "RGM-40 Kastets"
+msgstr[0] "RGM-40 Kastet"
+
+#: .\modern_launcher\modern_launcher.json
+msgid ""
+"The RGM-40 Kastet light grenade launcher is intended to be used by law "
+"enforcement agencies for anti-riot control but can also be used to engage "
+"other targets.  It is muzzle-loaded, has a self-cocking trigger mechanism, "
+"an AK style pistol grip, and extendable buttstock."
+msgstr ""
+"RGM-40 "
+"Kastet轻型榴弹发射器旨在供执法机构用于防暴控制，但也可用于攻击其他目标。它采用前装式设计，配备自击发扳机机构、AK式手枪握把和可伸缩枪托。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "AR57 LEM"
+msgid_plural "AR57 LEMs"
+msgstr[0] "AR57 LEM"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"This short barrel rifle (6in Fluted Barrel) is a familiar AR style personal "
+"defense weapon.  It fires 5.7x28mm ammunition and takes a FN P90 magazine.  "
+"This one is a semi automatic Law Enforcement Model."
+msgstr "这款短管步枪（6英寸凹槽枪管）是常见的AR式个人防卫武器。它发射5.7x28毫米弹药，使用FN P90弹匣。此型号为半自动执法模型。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "R93 Tactical 2"
+msgid_plural "R93 Tactical 2s"
+msgstr[0] "R93 Tactical 2"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Blaser R93 Tactical 2 is a straight pull, bolt action sniper rifle. "
+msgstr "Blaser R93 Tactical 2是一款直拉式栓动狙击步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "CETME Ameli"
+msgid_plural "CETME Amelis"
+msgstr[0] "CETME Ameli"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The CETME Ameli light machine gun used by the Spanish military resembles the"
+" German MG3 but uses a roller delayed blowback action to reduce recoil as "
+"the bolt body travels back on the bolt spring."
+msgstr "西班牙军队使用的CETME Ameli轻机枪与德国MG3相似，但采用滚柱延迟后坐式设计，通过枪机在复进簧上后移来减少后坐力。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Chiappa M1-9"
+msgid_plural "Chiappa M1-9s"
+msgstr[0] "Chiappa M1-9"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A replica of the standard M1 Carbine of WWII, the Italian semi-automatic, "
+"the Chiappa M1-9, is a blowback operated plinker and small game hunting "
+"rifle."
+msgstr "作为二战标准M1卡宾枪的复制品，意大利半自动Chiappa M1-9是一款采用后坐式操作的娱乐射击和小型猎物狩猎步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Desert Tech MDR"
+msgid_plural "Desert Tech MDRs"
+msgstr[0] "沙漠科技MDR"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"With a bullpup design, the Desert Tech Micro Dynamic Rifle is a gas "
+"operated, ambidextrous assault rifle."
+msgstr "采用无托式设计的沙漠科技微型动态步枪是一款气动操作、左右手通用的突击步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Enfield L85A2"
+msgid_plural "Enfield L85A2s"
+msgstr[0] "恩菲尔德L85A2"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A bullpup assault rifle, the standard issue service rifle of the British "
+"Armed Forces, the Enfield L85A2, uses a short-stroke gas piston system and a"
+" rotating bolt."
+msgstr "恩菲尔德L85A2是一款无托式突击步枪，作为英国武装部队的标准制式步枪，采用短行程气动活塞系统和旋转式枪机。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "FAD assault rifle"
+msgid_plural "FAD assault rifles"
+msgstr[0] "FAD突击步枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"From Peru, the FAD assault rifle, (or Fusil Automático Doble,) is a compact "
+"infantry support weapon used by vehicle crews as back-up weapon.  It "
+"features a bullpup design with an integrated grenade launcher."
+msgstr ""
+"来自秘鲁的FAD突击步枪（或称Fusil Automático "
+"Doble）是一款紧凑型步兵支援武器，被车辆乘员用作备用武器。它采用无托式设计并集成了榴弹发射器。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "FX-05 Xiuhcoatl"
+msgid_plural "FX-05 Xiuhcoatls"
+msgstr[0] "FX-05 火蛇"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Fire Serpent, a modern assault rifle of the Mexican Armed Forces, "
+"Fuerzas Armadas de Mexico.  Closely patterned after the German made HK G36."
+msgstr "火蛇步枪是墨西哥武装部队（Fuerzas Armadas de Mexico）的一款现代突击步枪，其设计紧密仿照德国制造的HK G36。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Henry Lever Action"
+msgid_plural "Henry Lever Actions"
+msgstr[0] "亨利杠杆式步枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Henry Lever Action has an octogon barrel with brass barrel bands and a "
+"brass receiver plate.  This beloved repeater has a home with many a hunter "
+"of venison."
+msgstr "亨利杠杆式步枪配备八角形枪管、黄铜枪管箍和黄铜机匣板。这款备受喜爱的连发步枪是许多猎鹿人的心头好。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Galil assault rifle"
+msgid_plural "Galil assault rifles"
+msgstr[0] "加利尔突击步枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Built by Israel Military Industries, the Galil is a gas operated/rotating "
+"bolt assault rifle whose design was greatly influenced by the Valmet Rk.62 "
+"and the AK-47.  It features an aluminum side folding stock and a diopter "
+"sight."
+msgstr ""
+"由以色列军事工业公司制造的加利尔是一款气动操作/旋转枪机式突击步枪，其设计深受瓦尔梅特Rk.62和AK-47的影响。它采用铝制侧折叠枪托和觇孔式瞄具。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 1894"
+msgid_plural "Marlin 1894s"
+msgstr[0] "马林1894"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A lever action hunting rifle, the .44 Magnum caliber Marlin 1894 repeater is"
+" a perfect companion piece for your .44 Magnum sidearm."
+msgstr "马林1894是一款杠杆式狩猎步枪，采用.44马格南口径，是您.44马格南手枪的完美搭档。"
+
+#: .\modern_rifle\modern_rifle.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 1894C"
+msgid_plural "Marlin 1894Cs"
+msgstr[0] "马林1894C"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A lever action hunting rifle, the .357 Magnum caliber Marlin 1894C repeater "
+"is a perfect companion piece for your .357 Magnum sidearm."
+msgstr "马林1894C是一款杠杆式狩猎步枪，采用.357马格南口径，是您.357马格南手枪的完美搭档。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 336"
+msgid_plural "Marlin 336s"
+msgstr[0] "马林336"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Combined with a pistol grip-type buttstock and a responsive trigger, the "
+"Marlin 336 is a very popular lever action rifle."
+msgstr "马林336结合了手枪握把式枪托和灵敏的扳机，是一款非常受欢迎的杠杆式步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Mossberg 464 SPX"
+msgid_plural "Mossberg 464 SPXs"
+msgstr[0] "莫斯伯格464 SPX"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A centerfire repeating rifle, the Mossberg 464 SPX is a modern take on the "
+"classic lever-action rifle."
+msgstr "莫斯伯格464 SPX是一款中心发火连发步枪，是对经典杠杆式步枪的现代诠释。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Norinco Type 56-1"
+msgid_plural "Norinco Type 56-1s"
+msgstr[0] "北方工业56-1式"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Manufactured by China North Industries Corporation, this assault rifle is a "
+"near copy of the Russian AKM.  This model has an integrated pig sticker "
+"bayonet, and a foldable stock."
+msgstr "由中国北方工业公司制造的这款突击步枪近乎复制了俄罗斯的AKM。该型号配备一体式刺刀和可折叠枪托。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Norinco Type 56-2"
+msgid_plural "Norinco Type 56-2s"
+msgstr[0] "北方工业56-2式"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Manufactured by China North Industries Corporation, this assault rifle is a "
+"near copy of the Russian AKM.  This model has a foldable stock."
+msgstr "由中国北方工业公司制造的这款突击步枪近乎复制了俄罗斯的AKM。该型号配备可折叠枪托。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Ruger M77"
+msgid_plural "Ruger M77s"
+msgstr[0] "鲁格M77"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A popular hunting rifle, the Ruger M77 features a Mauser-type controlled "
+"round feed extractor and an angled large screw which moves the action into "
+"the stock."
+msgstr "鲁格M77是一款受欢迎的狩猎步枪，采用毛瑟式可控供弹抽壳钩，以及一个倾斜的大螺丝，将机匣固定于枪托内。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Saiga Mk3 carbine"
+msgid_plural "Saiga Mk3 carbines"
+msgstr[0] "赛加Mk3卡宾枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"This AK-74 style, semi-automatic carbine is gas operated with a dual lug "
+"rotary bolt.  Used for hunting, target shooting, and self-defence, it is "
+"noted for its reliability and accuracy."
+msgstr "这款AK-74风格的半自动卡宾枪采用气动操作和双凸耳旋转枪机。用于狩猎、目标射击和自卫，以其可靠性和精准度著称。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Serbu BFG-50 carbine"
+msgid_plural "Serbu BFG-50 carbines"
+msgstr[0] "塞尔布BFG-50卡宾枪"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A single shot bolt action sniper/anti-materiel rifle with dual locking lugs."
+msgstr "一款采用双闭锁凸耳的单发栓动狙击/反器材步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Serbu BFG-50A"
+msgid_plural "Serbu BFG-50As"
+msgstr[0] "塞尔布BFG-50A"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A semi-automatic sniper/anti-materiel rifle using a gas-operated rotary "
+"locking bolt with triangular head."
+msgstr "一款采用气动旋转闭锁枪机、三角枪头的半自动狙击/反器材步枪。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Steyr SSG 69"
+msgid_plural "Steyr SSG 69s"
+msgstr[0] "斯泰尔 SSG 69"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Steyr Scharfschützengewehr 69 is regarded as one of the most accurate "
+"sniper rifle in the world.  It is a bolt action with rear locking lugs."
+msgstr "斯泰尔 Scharfschützengewehr 69 被认为是世界上最精确的狙击步枪之一。它采用后置闭锁凸榫的栓动式设计。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Tavor MTAR-21"
+msgid_plural "Tavor MTAR-21s"
+msgstr[0] "塔沃尔 MTAR-21"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Israeli, Tavor MTAR-21 bullpup assault rifle has a long-stroke, gas "
+"operated piston system like that of an AK-47.  A reliable weapon, it has "
+"replaced the M-16 by Israeli Defence Forces and is used by military and "
+"police forces around the world."
+msgstr ""
+"以色列的塔沃尔 MTAR-21 无托突击步枪采用类似 AK-47 的长行程气动活塞系统。作为一种可靠的武器，它已被以色列国防军取代 "
+"M-16，并被世界各地的军队和警察部队使用。"
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Walther WA 2000"
+msgid_plural "Walther WA 2000s"
+msgstr[0] "瓦尔特 WA 2000"
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Walther WA 2000 is a semi-automatic bullpup sniper rifle operated with a"
+" short stroke gas piston and a rotating locking bolt."
+msgstr "瓦尔特 WA 2000 是一款采用短行程气动活塞和旋转闭锁枪机的半自动无托狙击步枪。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  AK74 10 rd magazine"
+msgid_plural "5.56x45mm  AK74 10 rd magazines"
+msgstr[0] "5.56x45mm AK74 10 发弹匣"
+
+#. ~ Description for {'str': '5.56x45mm  AK74 10 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A AK74 style magazine designed for 5.56x45mm ammunition, made of steel-"
+"reinforced polymer.  Holds 10 rounds."
+msgstr "一款为 5.56x45mm 弹药设计的 AK74 风格弹匣，采用钢增强聚合物制成。容量为 10 发。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  AK74 30 rd magazine"
+msgid_plural "5.56x45mm  AK74 30 rd magazines"
+msgstr[0] "5.56x45mm AK74 30 发弹匣"
+
+#. ~ Description for {'str': '5.56x45mm  AK74 30 rd magazine'}
+#. ~ Description for {'str': '5.56x45mm  Galil 35 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A AK74 style magazine designed for 5.56x45mm ammunition, made of steel-"
+"reinforced polymer.  Holds 30 rounds."
+msgstr "一款为 5.56x45mm 弹药设计的 AK74 风格弹匣，采用钢增强聚合物制成。容量为 30 发。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  Galil 35 rd magazine"
+msgid_plural "5.56x45mm  Galil 35 rd magazines"
+msgstr[0] "5.56x45mm 加利尔 35 发弹匣"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ".300 tactical magazine"
+msgid_plural ".300 tactical magazines"
+msgstr[0] ".300 战术弹匣"
+
+#. ~ Description for {'str': '.300 tactical magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "A 4-round box magazine typically used by sniper rifles"
+msgstr "一种通常由狙击步枪使用的 4 发盒式弹匣。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Beta-C dual drum magazine"
+msgid_plural "7.62x51mm Beta-C dual drum magazines"
+msgstr[0] "7.62x51mm Beta-C 双鼓弹匣"
+
+#. ~ Description for {'str': '7.62x51mm Beta-C dual drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 100 round magazine for assault rifles that utilize the 7.62x51mm round or "
+"similar ammunition."
+msgstr "一种为使用 7.62x51mm 或类似弹药的突击步枪设计的 100 发弹匣。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Steyr 5 rd magazine"
+msgid_plural "7.62x51mm Steyr 5 rd magazines"
+msgstr[0] "7.62x51mm 斯泰尔 5 发弹匣"
+
+#. ~ Description for {'str': '7.62x51mm Steyr 5 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A Steyr, 5 rd, rotary magazine, made for 7.62x51mm ammunition, with a "
+"transparent back."
+msgstr "一款斯泰尔制造的 5 发旋转弹匣，专为 7.62x51mm 弹药设计，背面透明。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Steyr 10 rd magazine"
+msgid_plural "7.62x51mm Steyr 10 rd magazines"
+msgstr[0] "7.62x51mm 斯泰尔 10 发弹匣"
+
+#. ~ Description for {'str': '7.62x51mm Steyr 10 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A Steyr, 5 rd, staggered magazine, made for 7.62x51mm ammunition, with a "
+"transparent back."
+msgstr "一款斯泰尔制造的 5 发交错弹匣，专为 7.62x51mm 弹药设计，背面透明。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "Translucent STANAG magazine"
+msgid_plural "Translucent STANAG magazines"
+msgstr[0] "半透明 STANAG 弹匣"
+
+#. ~ Description for {'str': 'Translucent STANAG magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 30 round STANAG-compliant magazine for rifles that utilize 5.56x45mm or "
+"5.56x45mm ammunition."
+msgstr "一种为使用 5.56x45mm 或 5.56x45mm 弹药的步枪设计的 30 发 STANAG 兼容弹匣。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  Beta-C dual drum magazine"
+msgid_plural "5.56x45mm  Beta-C dual drum magazines"
+msgstr[0] "5.56x45mm Beta-C 双鼓弹匣"
+
+#. ~ Description for {'str': '5.56x45mm  Beta-C dual drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 100 round STANAG-compliant magazine for assault rifles that utilize the "
+"5.56x45mm round or similar ammunition."
+msgstr "一种为使用 5.56x45mm 或类似弹药的突击步枪设计的 100 发 STANAG 兼容弹匣。"
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm X-14 50 rd drum magazine"
+msgid_plural "7.62x51mm X-14 50 rd drum magazines"
+msgstr[0] "7.62x51mm X-14 50 发鼓形弹匣"
+
+#. ~ Description for {'str': '7.62x51mm X-14 50 rd drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 50 round drum magazine designed for 7.62x51mm ammunition, made of steel-"
+"reinforced polymer.  Compatible with M1A and M14 rifles."
+msgstr "一种为 7.62x51mm 弹药设计的 50 发鼓形弹匣，采用钢增强聚合物制成。兼容 M1A 和 M14 步枪。"
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "7.62x51mm AK74 25 rd magazine"
+msgid_plural "7.62x51mm AK74 25 rd magazines"
+msgstr[0] "7.62x51mm AK74 25 发弹匣"
+
+#. ~ Description for {'str': '7.62x51mm AK74 25 rd magazine'}
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid ""
+"A AK74 style magazine designed for 7.62x51mm ammuntion, made of steel-"
+"reinforced polymer.  Holds 25 rounds."
+msgstr "一款为 7.62x51mm 弹药设计的 AK74 风格弹匣，采用钢增强聚合物制成。容量为 25 发。"
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "5.56x45mm tactical magazine"
+msgid_plural "5.56x45mm tactical magazines"
+msgstr[0] "5.56x45mm 战术弹匣"
+
+#. ~ Description for {'str': '5.56x45mm tactical magazine'}
+#. ~ Description for {'str': '7.62x51mm tactical magazine'}
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "A 5-round box magazine typically used by sniper rifles."
+msgstr "一种通常由狙击步枪使用的 5 发盒式弹匣。"
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "7.62x51mm tactical magazine"
+msgid_plural "7.62x51mm tactical magazines"
+msgstr[0] "7.62x51毫米战术弹匣"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Crye Six12"
+msgid_plural "Crye Six12s"
+msgstr[0] "Crye Six12"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A double action, bullpup, shotgun semi-automatic with a removable revolver "
+"cylinder."
+msgstr "一把双动、无托结构、半自动霰弹枪，配有可拆卸转轮弹巢。"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Crye Six12 suppressed"
+msgid_plural "Crye Six12 suppresseds"
+msgstr[0] "Crye Six12 消音型"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A double action, bullpup, shotgun semi-automatic with a removable revolver "
+"cylinder and integral shot suppressor."
+msgstr "一把双动、无托结构、半自动霰弹枪，配有可拆卸转轮弹巢和内置霰弹消音器。"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Taurus ST 12"
+msgid_plural "Taurus ST 12s"
+msgstr[0] "Taurus ST 12"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A light weight, tactical pump action shotgun for law enforcement and "
+"military users."
+msgstr "一款为执法部门和军事用户设计的轻型战术泵动式霰弹枪。"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "UTAS UTS-15"
+msgid_plural "UTAS UTS-15s"
+msgstr[0] "UTAS UTS-15"
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A weapon built in Turkey, the UTAS Urban Tactical Shotgun is a bullpup, pump"
+" action shotgun with dual tube magazines similar to the Kel-Tec KSG."
+msgstr "这款在土耳其制造的武器，UTAS 城市战术霰弹枪是一款无托、泵动式霰弹枪，配有类似 Kel-Tec KSG 的双管弹匣。"
+
+#: .\modern_shotgun\modern_shotgun_magazines.json
+msgid "Six12 magazine"
+msgid_plural "Six12 magazines"
+msgstr[0] "Six12 弹匣"
+
+#. ~ Description for {'str': 'Six12 magazine'}
+#: .\modern_shotgun\modern_shotgun_magazines.json
+msgid "A 6 round cylinder magazine for the Crye Six12 shotgun."
+msgstr "Crye Six12 霰弹枪使用的 6 发转轮弹匣。"
+
+#: .\modern_smg\modern_smg.json
+msgid "APC-9"
+msgid_plural "APC-9s"
+msgstr[0] "APC-9"
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Brügger & Thomet Advanced Police Carbine 9 has a square closed bolt and "
+"is a low recoil straight blowback operated submachine gun."
+msgstr "Brügger & Thomet 先进警用卡宾枪 9 型采用方形闭锁枪机，是一款后坐力较低的自由枪机式冲锋枪。"
+
+#: .\modern_smg\modern_smg.json
+msgid "M635"
+msgid_plural "M635s"
+msgstr[0] "M635"
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Colt SMG has a closed bolt action that is blowback operated.  "
+"Essentially, it is a M16 factory modified submachine gun."
+msgstr "柯尔特冲锋枪采用闭锁枪机，由自由枪机原理驱动。本质上，它是一款由 M16 工厂改装的冲锋枪。"
+
+#: .\modern_smg\modern_smg.json
+msgid "CBJ-MS"
+msgid_plural "CBJ-MSs"
+msgstr[0] "CBJ-MS"
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"From Sweden, the Saab Bofors Dynamics CBJ-MS is a personal defense weapon, "
+"blowback-operated, with a retractable wire frame buttstock."
+msgstr "来自瑞典的萨博博福斯动力 CBJ-MS 是一款个人防卫武器，采用自由枪机原理，配有可伸缩线框枪托。"
+
+#: .\modern_smg\modern_smg.json
+msgid "4 rd."
+msgstr "4 发"
+
+#: .\modern_smg\modern_smg.json
+msgid "STK CPW"
+msgid_plural "STK CPWs"
+msgstr[0] "STK CPW"
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"From Singapore Technologies Kinetics, the Compact Personal Weapon is lever "
+"delayed blowback operated, and was developed to be carried by support troops"
+" and security personnel."
+msgstr "来自新加坡科技动力公司的紧凑型个人武器采用杠杆延迟自由枪机原理，专为支援部队和安全人员携带而开发。"
+
+#: .\modern_smg\modern_smg.json
+msgid "Sterling Mk.4"
+msgid_plural "Sterling Mk.4s"
+msgstr[0] "斯特林 Mk.4"
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Sterling L2A3 (Mk.4) is a open bolt, blowback operated submachine gun "
+"with a side-loading magazine."
+msgstr "斯特林 L2A3 (Mk.4) 是一款开膛待击、自由枪机式冲锋枪，配有侧装弹匣。"
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "Beta-C dual drum 9x19mm 100 round magazine"
+msgid_plural "Beta-C dual drum 9x19mm 100 round magazines"
+msgstr[0] "Beta-C 双鼓 9x19毫米 100 发弹匣"
+
+#. ~ Description for {'str': 'Beta-C dual drum 9x19mm 100 round magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A 100 round magazine for assault rifles that utilize the 19mm round or "
+"similar ammunition."
+msgstr "一款供使用 19 毫米子弹或类似弹药的突击步枪使用的 100 发弹匣。"
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "CBJ-MS 9x19mm 100 round drum"
+msgid_plural "CBJ-MS 9x19mm 100 round drums"
+msgstr[0] "CBJ-MS 9x19毫米 100 发弹鼓"
+
+#. ~ Description for {'str': 'CBJ-MS 9x19mm 100 round drum'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid "A single drum 100 round magazine for the CBJ_MS PDW."
+msgstr "CBJ-MS 个人防卫武器使用的单鼓 100 发弹匣。"
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "9mm NATO magazine"
+msgid_plural "9mm NATO magazines"
+msgstr[0] "9毫米北约弹匣"
+
+#. ~ Description for {'str': '9mm NATO magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A standard 30-round, translucent plastic, box magazine for submachine guns."
+msgstr "冲锋枪使用的标准 30 发半透明塑料盒式弹匣。"
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "Sterling L2A3 magazine"
+msgid_plural "Sterling L2A3 magazines"
+msgstr[0] "斯特林 L2A3 弹匣"
+
+#. ~ Description for {'str': 'Sterling L2A3 magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A 34 round capacity mag for the Sterling submachine gun. It is slightly "
+"curved, double-stacked, with twin rollers for positive feeding."
+msgstr "斯特林冲锋枪使用的 34 发容量弹匣。它略微弯曲，采用双排设计，带有双滚轮以确保可靠供弹。"

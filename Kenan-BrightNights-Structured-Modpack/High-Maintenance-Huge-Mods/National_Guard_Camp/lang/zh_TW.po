@@ -1,0 +1,424 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: national_guard_camp\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\furniture.json
+msgid "tank trap"
+msgstr "坦克陷阱"
+
+#: .\furniture.json
+msgid "metal screeching!"
+msgstr "金屬尖嘯聲！"
+
+#: .\furniture.json
+msgid "clang!"
+msgstr "哐當！"
+
+#: .\military.json
+msgid "W11B10"
+msgid_plural "W11B10s"
+msgstr[0] "W11B10"
+
+#. ~ Description for {'str': 'W11B10'}
+#: .\military.json
+msgid ""
+"Wraitheon (11B) Infantry 10 Level.  Part of Wraitheon's series of one-to-one"
+" auxiliaries designed to seamlessly integrate with more traditional forces."
+msgstr "Wraitheon (11B) 步兵 10 級。屬於 Wraitheon 一對一輔助單位系列，旨在與傳統部隊無縫整合。"
+
+#: .\military.json
+msgid "W11B10B4"
+msgid_plural "W11B10B4s"
+msgstr[0] "W11B10B4"
+
+#. ~ Description for {'str': 'W11B10B4'}
+#: .\military.json
+msgid ""
+"Wraitheon (11B) Infantry 20 Level (B4) Sniper.  Part of Wraitheon's series "
+"of one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces.  "
+msgstr "Wraitheon (11B) 步兵 20 級 (B4) 狙擊手。屬於 Wraitheon 一對一輔助單位系列，旨在與傳統部隊無縫整合。"
+
+#: .\military.json
+msgid "W12B10"
+msgid_plural "W12B10s"
+msgstr[0] "W12B10"
+
+#. ~ Description for {'str': 'W12B10'}
+#: .\military.json
+msgid ""
+"Wraitheon (12B) Combat Engineer 10 Level.  Part of Wraitheon's series of "
+"one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr "Wraitheon (12B) 戰鬥工兵 10 級。屬於 Wraitheon 一對一輔助單位系列，旨在與傳統部隊無縫整合。"
+
+#: .\military.json
+msgid "W11H10"
+msgid_plural "W11H10s"
+msgstr[0] "W11H10"
+
+#. ~ Description for {'str': 'W11H10'}
+#: .\military.json
+msgid ""
+"Wraitheon (11H) Anti-Tank Infantry 10 Level.  Part of Wraitheon's series of "
+"one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr "Wraitheon (11H) 反坦克步兵 10 級。屬於 Wraitheon 一對一輔助單位系列，旨在與傳統部隊無縫整合。"
+
+#: .\military.json
+msgid "W12N10"
+msgid_plural "W12N10s"
+msgstr[0] "W12N10"
+
+#. ~ Description for {'str': 'W12N10'}
+#: .\military.json
+msgid ""
+"Wraitheon (12N) Construction Engineer 10 Level.  Part of Wraitheon's series "
+"of one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr "Wraitheon (12N) 建築工兵 10 級。屬於 Wraitheon 一對一輔助單位系列，旨在與傳統部隊無縫整合。"
+
+#: .\modinfo.json .\overmap_terrain.json
+msgid "National Guard Camp"
+msgstr "國民警衛隊營地"
+
+#. ~ Description for National Guard Camp
+#: .\modinfo.json
+msgid ""
+"Gigantic national guard camp filled with military grade enemy robots.  "
+"Location is a bit unstable because of it's size so game can heavily lag near"
+" it if processing power is relatively low so use it if your computer can "
+"process it's size"
+msgstr ""
+"龐大的國民警衛隊營地，充滿了軍用級別的敵方機器人。由於其規模，位置可能不太穩定，如果處理能力相對較低，遊戲在其附近可能會嚴重卡頓，因此請確保您的計算機能夠處理其規模後再使用。"
+
+#: .\overmap_terrain.json
+msgid "Heliport"
+msgstr "直升機停機坪"
+
+#: .\overmap_terrain.json
+msgid "road"
+msgstr "道路"
+
+#: .\overmap_terrain.json
+msgid "motor pool"
+msgstr "車輛調度場"
+
+#: .\overmap_terrain.json
+msgid "repair bay"
+msgstr "維修間"
+
+#: .\overmap_terrain.json
+msgid "barracks"
+msgstr "兵營"
+
+#: .\overmap_terrain.json
+msgid "parking lot"
+msgstr "停車場"
+
+#: .\overmap_terrain.json
+msgid "fuel point"
+msgstr "燃料補給點"
+
+#: .\overmap_terrain.json
+msgid "company ops facility"
+msgstr "公司作戰設施"
+
+#: .\overmap_terrain.json
+msgid "arms room"
+msgstr "武器室"
+
+#: .\overmap_terrain.json
+msgid "dining facility"
+msgstr "餐飲設施"
+
+#: .\overmap_terrain.json
+msgid "adv. warfare center"
+msgstr "高級作戰中心"
+
+#: .\overmap_terrain.json
+msgid "range"
+msgstr "靶場"
+
+#: .\overmap_terrain.json
+msgid "aid station"
+msgstr "救護站"
+
+#: .\overmap_terrain.json
+msgid "commo building"
+msgstr "通信大樓"
+
+#: .\overmap_terrain.json
+msgid "battalion HQ"
+msgstr "營部指揮部"
+
+#: .\overmap_terrain.json
+msgid "flag pole"
+msgstr "旗杆"
+
+#: .\overmap_terrain.json
+msgid "shoppette"
+msgstr "小賣部"
+
+#: .\overmap_terrain.json
+msgid "gym"
+msgstr "健身房"
+
+#: .\overmap_terrain.json
+msgid "gate"
+msgstr "大門"
+
+#: .\overmap_terrain.json
+msgid "house"
+msgstr "房屋"
+
+#: .\overmap_terrain.json
+msgid "ammunition supply point"
+msgstr "彈藥供應點"
+
+#: .\overmap_terrain.json
+msgid "Launch Station"
+msgstr "發射站"
+
+#: .\overmap_terrain.json
+msgid "helipad"
+msgstr "直升機停機坪"
+
+#: .\overmap_terrain.json
+msgid "solid rock"
+msgstr "堅固岩石"
+
+#: .\overmap_terrain.json
+msgid "Military Complex"
+msgstr "軍事綜合體"
+
+#: .\overmap_terrain.json
+msgid "cavern"
+msgstr "洞穴"
+
+#: .\overmap_terrain.json
+msgid "reactor"
+msgstr "反應堆"
+
+#: .\overmap_terrain.json
+msgid "weapons lab"
+msgstr "武器實驗室"
+
+#: .\overmap_terrain.json
+msgid "genetics lab"
+msgstr "遺傳學實驗室"
+
+#: .\overmap_terrain.json
+msgid "microbiology lab"
+msgstr "微生物學實驗室"
+
+#: .\overmap_terrain.json
+msgid "rocketry lab"
+msgstr "火箭技術實驗室"
+
+#: .\overmap_terrain.json
+msgid "basement"
+msgstr "地下室"
+
+#: .\overmap_terrain.json
+msgid "sewer"
+msgstr "下水道"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "National Guard Camp Locator Hologram"
+msgstr "國民警衛隊營地定位全息圖"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "全息影像防護"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\national_guard_camp\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"我的程序設定為不與遊蕩怪物交戰。\""
+
+#. ~ Description for mission '{'str': 'Go to National Guard Camp'}'
+#: .\national_guard_camp\NPC_missions.json
+msgid "Go to National Guard Camp"
+msgstr "前往國民警衛隊營地"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr "要我為你定位探索地點？沒問題，只需等我用網絡系統查找幾分鐘或更短時間"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr "你想讓我現在為你定位那個地點以便探索嗎？當然，告訴我吧，你只需要等幾分鐘或更短時間，我就能通過網絡系統找到它。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "祝你好運！"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr "對新地點的探索不感興趣嗎？別急，希望如此。你可以稍後再來找我。我相信你會的，因為我覺得你不是個無聊的人。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "也希望你運用智慧確保自身安全。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "你去過我為你找到的那個探索地點了嗎？"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Good work!"
+msgstr "幹得好！"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"對我撒謊有什麼意義？你以為我會獎勵你嗎？這次任務的獎勵就是你在那個地點找到的對你來說有價值的物品、生物或其他倖存者，那是我為你找到的探索地點。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr "說實話，你是個無聊又懶惰的人。我想懶惰這一點我們倆都適用。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"系統在線。啟動對話模式。看啊，倖存者輕鬆激活了全息投影儀！沒錯，我的創造者瞭解很多像你這樣的人，說實話他們甚至不讀物品上的說明。幸好你看起來是個相當聰明的人，希望如此。那麼，你想讓我通過網絡系統為你顯示這個地點的位置嗎？我可以授予你訪問存檔全球網絡系統的權限，那是我的創造者設法恢復的。不過，使用後我需要稍微充能，這意味著你需要等待才能再次使用這個功能，希望如此。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr "[任務] 我希望你通過你的網絡系統為我找到這個地點以便探索，希望如此。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "你是誰或是什麼東西？"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "你的創造者是誰？製造這些投影儀的目的是什麼？"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr "[改善心情] 我希望你授予我訪問存檔全球網絡系統的權限。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "About that mission..."
+msgstr "關於那個任務……"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[告別]"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"啟動搜索模式。請等待幾分鐘或更短時間。你聽清楚了。不過，我們的定位工具有所限制。如果定位器無法找到這個地點，那就簡單地創建另一個能成功找到該地點的全息定位器。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "我能和你談談別的嗎？"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Thanks"
+msgstr "謝謝。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+"我是魔法相機裡的魔法精靈。不，開個玩笑。這是什麼問題？你不喜歡探索，還是對自己的世界瞭解不多？你沒在實驗室裡見過東西嗎？軍事設施？絕密物品？外星人或那些生物？你以為你們自己人沒有能製造全息影像的技術嗎？我是個全息影像，是帶有附加技術的軟件，就這麼簡單。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"這個問題比上一個聰明多了。我的創造者可以說是一群高科技極客，說實話其中大多數是人類。他們既沒有太多戰鬥技能，也顯然不願讓自己的生命承受不必要的風險。他們只會在基本生存需要時與敵對生物交戰。他們試圖依靠自給自足，並憑藉應用智慧和自行發現或設計的技術取得相對成功。他們製造這些投影儀是為了我們能互相幫助。我們為你提供有危險生物的地點，以及有價值的物品或被囚禁的倖存者。你清理這些地點，從中獲取你想要的任何有價值物品或倖存者，使這些地點成為安全的庇護所，希望我們包括你也能在那裡生活。"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+"你想做什麼？玩存檔遊戲？瀏覽存檔社交媒體？看存檔視頻？聽存檔音樂？閱讀存檔文件和存檔書籍？找點東西玩、讀、聽、看，為了樂趣、提升智力、精神提升、心智改善？"
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "說實話，我很喜歡其中一些。健康的東西。"
+
+#: .\national_guard_camp\items_NPC_missions.json
+msgid "Hologram Projector - Locator of National Guard Camp"
+msgid_plural "Hologram Projector - Locator of National Guard Camps"
+msgstr[0] "全息投影儀 - 國民警衛隊營地定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of National Guard
+#. Camp'}
+#: .\national_guard_camp\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate National Guard Camp"
+msgstr "這是一臺全息投影儀，激活時會生成交互式全息影像。全息影像可以與你對話，回答部分問題，但最重要的是，它能定位國民警衛隊營地。"

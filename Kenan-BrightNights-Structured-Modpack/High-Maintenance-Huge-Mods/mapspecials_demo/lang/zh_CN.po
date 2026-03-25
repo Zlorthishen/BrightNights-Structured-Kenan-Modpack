@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mapgen_demo\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Mapgen Demo"
+msgstr "地图生成演示"
+
+#. ~ Description for Mapgen Demo
+#: .\modinfo.json
+msgid "Demo for JSONized mapgens (missile silo)."
+msgstr "JSON化地图生成演示（导弹发射井）。"
+
+#: .\missile_silo\overmap_terrain.json
+msgid "missile silo"
+msgstr "导弹发射井"
+
+#. ~ Computer name
+#: .\missile_silo\silo_utrc_03.json
+msgid "Missile Control"
+msgstr "导弹控制"
+
+#. ~ Computer option
+#: .\missile_silo\silo_utrc_03.json
+msgid "Disarm Missile"
+msgstr "解除导弹武装"
+
+#. ~ Computer access denied warning
+#: .\missile_silo\silo_utrc_03.json
+msgid ""
+"ERROR!  Access denied!  Unauthorized access will be met with lethal force!"
+msgstr "错误！访问被拒绝！未经授权的访问将遭到致命武力打击！"

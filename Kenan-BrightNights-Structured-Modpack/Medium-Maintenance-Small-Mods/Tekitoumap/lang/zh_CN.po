@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tekitoumap\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\carts.json
+msgid "Electric car chair"
+msgstr "电动汽车座椅"
+
+#: .\carts.json
+msgid "Armed chair"
+msgstr "武装座椅"
+
+#: .\carts.json
+msgid "refrigerator"
+msgstr "冰箱"
+
+#: .\modinfo.json
+msgid "Tekitou Map Commercial Overhaul"
+msgstr "Tekitou 地图商业大修"
+
+#. ~ Description for Tekitou Map Commercial Overhaul
+#: .\modinfo.json
+msgid ""
+"Tekitou map Rezone's Commercial Zones? Adds a few distant urban locations "
+"along with new variants of existing city locations"
+msgstr "Tekitou 地图重新规划商业区？添加了一些遥远的城市地点以及现有城市地点的新变体"
+
+#: .\overmap_terrain.json
+msgid "Plain"
+msgstr "平原"
+
+#: .\overmap_terrain.json
+msgid "A hideout place"
+msgstr "一个藏身处"
+
+#: .\overmap_terrain.json
+msgid "Underground road"
+msgstr "地下道路"
+
+#: .\overmap_terrain.json
+msgid "Hiding place (basement)"
+msgstr "藏身处（地下室）"
+
+#: .\overmap_terrain.json
+msgid "Alley"
+msgstr "小巷"
+
+#: .\overmap_terrain.json
+msgid "dojo"
+msgstr "道场"
+
+#: .\overmap_terrain.json
+msgid "Nursing home"
+msgstr "养老院"
+
+#: .\overmap_terrain.json
+msgid "Orchard"
+msgstr "果园"
+
+#: .\overmap_terrain.json
+msgid "Wild vegetable shop"
+msgstr "野菜店"
+
+#: .\overmap_terrain.json
+msgid "Bicycle shop"
+msgstr "自行车店"
+
+#: .\overmap_terrain.json
+msgid "Optometrist"
+msgstr "验光师"
+
+#: .\overmap_terrain.json
+msgid "pet Shop"
+msgstr "宠物店"
+
+#: .\overmap_terrain.json
+msgid "Blacksmith"
+msgstr "铁匠铺"
+
+#: .\vehicles.json
+msgid "Road Bikes"
+msgstr "公路自行车"
+
+#: .\vehicles_parts.json
+msgid "Super alloy frame"
+msgid_plural "Super alloy frames"
+msgstr[0] "超合金车架"
+
+#. ~ Description for {'str': 'Super alloy frame'}
+#: .\vehicles_parts.json
+msgid "It is a lightweight frame for bicycles made of superalloy."
+msgstr "这是一种由超合金制成的轻量化自行车车架。"
+
+#: .\vehicles_parts.json
+msgid "Crank (for competition)"
+msgid_plural "Crank (for competition)s"
+msgstr[0] "竞赛用曲柄"
+
+#. ~ Description for {'str': 'Crank (for competition)'}
+#: .\vehicles_parts.json
+msgid "It is a competition pedal with a multistep transmission."
+msgstr "这是一种带有多级变速的竞赛用踏板。"
+
+#: .\vehicles_parts.json
+msgid "Competitive pedals"
+msgstr "竞赛用踏板"

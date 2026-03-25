@@ -1,0 +1,1527 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: modular_turrets_no_blacklist\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\corpses.json
+msgid "broken turret"
+msgid_plural "broken turrets"
+msgstr[0] "损坏的炮塔"
+
+#. ~ Description for {'str': 'broken turret'}
+#: .\corpses.json
+msgid ""
+"A broken turret.  Much less threatening now that it lies limp on solid "
+"ground.  Could be gutted for parts."
+msgstr "一座损坏的炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken military turret"
+msgid_plural "broken military turrets"
+msgstr[0] "损坏的军用炮塔"
+
+#: .\corpses.json
+msgid "broken advanced turret"
+msgid_plural "broken advanced turrets"
+msgstr[0] "损坏的先进炮塔"
+
+#: .\corpses.json
+msgid "broken defense turret"
+msgid_plural "broken defense turrets"
+msgstr[0] "损坏的防御炮塔"
+
+#. ~ Description for {'str': 'broken defense turret'}
+#: .\corpses.json
+msgid ""
+"A broken defense turret.  Much less threatening now that it lies limp on "
+"solid ground.  Could be gutted for parts."
+msgstr "一座损坏的防御炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#. ~ Description for {'str': 'broken military turret'}
+#: .\corpses.json
+msgid ""
+"A broken military turret.  Much less threatening now that it lies limp on "
+"solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#. ~ Description for {'str': 'broken advanced turret'}
+#. ~ Description for {'str': 'broken 9mm turret'}
+#. ~ Description for {'str': 'broken riotcontrol turret'}
+#: .\corpses.json
+msgid ""
+"A broken 9mm defense turret.  Much less threatening now that it lies limp on"
+" solid ground.  Could be gutted for parts."
+msgstr "一座损坏的9毫米防御炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken 9mm turret"
+msgid_plural "broken 9mm turrets"
+msgstr[0] "损坏的9毫米炮塔"
+
+#. ~ Description for {'str': 'broken 9mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken shotgun defense turret.  Much less threatening now that it lies "
+"limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的霰弹枪防御炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken riot control turret"
+msgid_plural "broken riot control turrets"
+msgstr[0] "损坏的防暴控制炮塔"
+
+#. ~ Description for {'str': 'broken riot control turret'}
+#: .\corpses.json
+msgid ""
+"A broken riot control turret.  Much less threatening now that it lies limp "
+"on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的防暴控制炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken riotcontrol turret"
+msgid_plural "broken riotcontrol turrets"
+msgstr[0] "损坏的防暴控制炮塔"
+
+#: .\corpses.json
+msgid "broken 5.56mm turret"
+msgid_plural "broken 5.56mm turrets"
+msgstr[0] "损坏的5.56毫米炮塔"
+
+#. ~ Description for {'str': 'broken 5.56mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 5.56mm turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级5.56毫米炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken 7.62mm turret"
+msgid_plural "broken 7.62mm turrets"
+msgstr[0] "损坏的7.62毫米炮塔"
+
+#. ~ Description for {'str': 'broken 7.62mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 7.62mm turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级7.62毫米炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken 50cal turret"
+msgid_plural "broken 50cal turrets"
+msgstr[0] "损坏的50口径炮塔"
+
+#. ~ Description for {'str': 'broken 50cal turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 50 caliber turret.  Much less threatening now that "
+"it lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级50口径炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken 40mm turret"
+msgid_plural "broken 40mm turrets"
+msgstr[0] "损坏的40毫米炮塔"
+
+#. ~ Description for {'str': 'broken 40mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 40mm grenade turret.  Much less threatening now that"
+" it lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级40毫米榴弹炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#. ~ Description for {'str': 'broken 5.56mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 5x50 flechette turret.  Much less threatening now "
+"that it lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级5x50毫米箭弹炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken 8x40mm turret"
+msgid_plural "broken 8x40mm turrets"
+msgstr[0] "损坏的8x40毫米炮塔"
+
+#. ~ Description for {'str': 'broken 8x40mm turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade 8x40mm turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级8x40毫米炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken flamethrower turret"
+msgid_plural "broken flamethrower turrets"
+msgstr[0] "损坏的火焰喷射器炮塔"
+
+#. ~ Description for {'str': 'broken flamethrower turret'}
+#: .\corpses.json
+msgid ""
+"A broken military-grade flamethrower turret.  Much less threatening now that"
+" it lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的军用级火焰喷射器炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken laser turret"
+msgid_plural "broken laser turrets"
+msgstr[0] "损坏的激光炮塔"
+
+#. ~ Description for {'str': 'broken laser turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced laser emitter turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的先进激光发射器炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken acid turret"
+msgid_plural "broken acid turrets"
+msgstr[0] "损坏的酸液炮塔"
+
+#. ~ Description for {'str': 'broken acid turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced acid thrower turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的先进酸液喷射器炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken plasma turret"
+msgid_plural "broken plasma turrets"
+msgstr[0] "损坏的等离子炮塔"
+
+#. ~ Description for {'str': 'broken plasma turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced plasma ejector turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一座损坏的先进等离子喷射器炮塔。如今它瘫软在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken rail gun turret"
+msgid_plural "broken rail gun turrets"
+msgstr[0] "损坏的磁轨炮炮塔"
+
+#. ~ Description for {'str': 'broken rail gun turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced rail gun turret.  Much less threatening now that it lies "
+"limp on solid ground.  Could be gutted for parts."
+msgstr "一台损坏的先进磁轨炮炮塔。如今它瘫在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken electro turret"
+msgid_plural "broken electro turrets"
+msgstr[0] "损坏的电击炮塔"
+
+#. ~ Description for {'str': 'broken electro turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced electro caster turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一台损坏的先进电击投射炮塔。如今它瘫在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken EMP turret"
+msgid_plural "broken EMP turrets"
+msgstr[0] "损坏的EMP炮塔"
+
+#. ~ Description for {'str': 'broken EMP turret'}
+#: .\corpses.json
+msgid ""
+"A broken advanced EMP generator turret.  Much less threatening now that it "
+"lies limp on solid ground.  Could be gutted for parts."
+msgstr "一台损坏的先进EMP发生器炮塔。如今它瘫在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken gaurdin gnome"
+msgid_plural "broken gaurdin gnomes"
+msgstr[0] "损坏的守护地精"
+
+#. ~ Description for {'str': 'broken gaurdin gnome'}
+#: .\corpses.json
+msgid "A broken and completely harmless garden gnome."
+msgstr "一个损坏且完全无害的花园地精。"
+
+#: .\corpses.json
+msgid "broken hack"
+msgid_plural "broken hacks"
+msgstr[0] "损坏的猎杀机器人"
+
+#. ~ Description for {'str': 'broken hack'}
+#. ~ Description for {'str': 'broken manhack'}
+#: .\corpses.json
+msgid ""
+"A broken manhack.  Much less threatening now that it lies limp on solid "
+"ground.  Could be gutted for parts."
+msgstr "一台损坏的猎杀机器人。如今它瘫在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken manhack"
+msgid_plural "broken manhacks"
+msgstr[0] "损坏的猎杀机"
+
+#: .\corpses.json
+msgid "broken grenade hack"
+msgid_plural "broken grenade hacks"
+msgstr[0] "损坏的榴弹猎杀机器人"
+
+#. ~ Description for {'str': 'broken grenade hack'}
+#: .\corpses.json
+msgid ""
+"A broken grenade hack.  Much less threatening now that it lies quiet on "
+"solid ground.  Could be gutted for parts."
+msgstr "一台损坏的榴弹猎杀机器人。如今它安静地躺在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken mininuke hack"
+msgid_plural "broken mininuke hacks"
+msgstr[0] "损坏的微型核弹猎杀机器人"
+
+#. ~ Description for {'str': 'broken mininuke hack'}
+#: .\corpses.json
+msgid ""
+"A broken magenta hack.  Just looking at the wreck makes you shiver.  Could "
+"be gutted for parts."
+msgstr "一台损坏的品红色猎杀机器人。光是看着残骸就让你不寒而栗。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken tear gas hack"
+msgid_plural "broken tear gas hacks"
+msgstr[0] "损坏的催泪瓦斯猎杀机器人"
+
+#. ~ Description for {'str': 'broken tear gas hack'}
+#: .\corpses.json
+msgid ""
+"A broken tear gas hack.  Much less threatening now that it lies quiet on "
+"solid ground.  Could be gutted for parts."
+msgstr "一台损坏的催泪瓦斯猎杀机器人。如今它安静地躺在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken EMP hack"
+msgid_plural "broken EMP hacks"
+msgstr[0] "损坏的EMP猎杀机器人"
+
+#. ~ Description for {'str': 'broken EMP hack'}
+#: .\corpses.json
+msgid ""
+"A broken EMP hack.  Much less threatening now that it lies quiet on solid "
+"ground.  Could be gutted for parts."
+msgstr "一台损坏的EMP猎杀机器人。如今它安静地躺在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken flashbang hack"
+msgid_plural "broken flashbang hacks"
+msgstr[0] "损坏的闪光弹猎杀机器人"
+
+#. ~ Description for {'str': 'broken flashbang hack'}
+#: .\corpses.json
+msgid ""
+"A broken flashbang hack.  Much less threatening now that it lies quiet on "
+"solid ground.  Could be gutted for parts."
+msgstr "一台损坏的闪光弹猎杀机器人。如今它安静地躺在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken C-4 hack"
+msgid_plural "broken C-4 hacks"
+msgstr[0] "损坏的C-4猎杀机器人"
+
+#. ~ Description for {'str': 'broken C-4 hack'}
+#: .\corpses.json
+msgid ""
+"A broken C-4 hack.  Much less threatening now that it lies quiet on solid "
+"ground.  Could be gutted for parts."
+msgstr "一台损坏的C-4猎杀机器人。如今它安静地躺在坚实的地面上，威胁性已大大降低。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken eyebot"
+msgid_plural "broken eyebots"
+msgstr[0] "损坏的眼球机器人"
+
+#. ~ Description for {'str': 'broken eyebot'}
+#: .\corpses.json
+msgid ""
+"A broken eyebot.  Much less threatening now that it won't be calling for "
+"backup.  Could be gutted for parts."
+msgstr "一台损坏的眼球机器人。如今它不会再呼叫支援，威胁性已大大降低。可拆解获取零件。"
+
+#. ~ Description for {'str': 'broken eyebot'}
+#: .\corpses.json
+msgid ""
+"A broken eyebot, now dark and motionless.  Could be stripped down for parts."
+msgstr "一台损坏的眼球机器人，现已黯淡无光、静止不动。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken disarmed eyebot"
+msgid_plural "broken disarmed eyebots"
+msgstr[0] "损坏的已卸武装眼球机器人"
+
+#. ~ Description for {'str': 'broken disarmed eyebot'}
+#: .\corpses.json
+msgid ""
+"A broken eyebot.  Its integrated weapon module has been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr "一台损坏的眼球机器人。其内置武器模块已被移除。可拆解获取零件，或制作成回收机器人。"
+
+#: .\corpses.json
+msgid "broken utility robot"
+msgid_plural "broken utility robots"
+msgstr[0] "损坏的通用机器人"
+
+#. ~ Description for {'str': 'broken utility robot'}
+#: .\corpses.json
+msgid ""
+"A broken utility robot, now limp and unmoving.  Could be gutted for parts or"
+" crafted into a salvaged robot."
+msgstr "一台损坏的通用机器人，现已瘫软不动。可拆解获取零件，或制作成回收机器人。"
+
+#: .\corpses.json
+msgid "broken disarmed skitterbot"
+msgid_plural "broken disarmed skitterbots"
+msgstr[0] "损坏的已卸武装疾行机器人"
+
+#. ~ Description for {'str': 'broken disarmed skitterbot'}
+#: .\corpses.json
+msgid ""
+"A broken skitterbot. Its internal weapon modules have been removed.  Could "
+"be gutted for parts or crafted into a salvaged robot."
+msgstr "一台损坏的疾行机器人。其内部武器模块已被移除。可拆解获取零件，或制作成回收机器人。"
+
+#: .\corpses.json
+msgid "broken skitterbot"
+msgid_plural "broken skitterbots"
+msgstr[0] "损坏的爬行机器人"
+
+#. ~ Description for {'str': 'broken skitterbot'}
+#: .\corpses.json
+msgid ""
+"A broken skitterbot, now harmless and inert.  Could be stripped of integral "
+"weapon modules."
+msgstr "一台损坏的疾行机器人，现已无害且失去活性。可拆除其内置武器模块。"
+
+#: .\corpses.json
+msgid "broken disarmed defense bot"
+msgid_plural "broken disarmed defense bots"
+msgstr[0] "损坏的解除武装防御机器人"
+
+#. ~ Description for {'str': 'broken disarmed defense bot'}
+#. ~ Description for {'str': 'broken security robot'}
+#. ~ Description for {'str': 'broken riotcontrol robot'}
+#: .\corpses.json
+msgid ""
+"A broken defense robot. Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr "一台损坏的防御机器人。其内部武器已被移除。可拆解零件或改造成回收机器人。"
+
+#: .\corpses.json
+msgid "broken security robot"
+msgid_plural "broken security robots"
+msgstr[0] "损坏的安保机器人"
+
+#: .\corpses.json
+msgid "broken riotcontrol robot"
+msgid_plural "broken riotcontrol robots"
+msgstr[0] "损坏的防暴控制机器人"
+
+#: .\corpses.json
+msgid "broken miner bot"
+msgid_plural "broken miner bots"
+msgstr[0] "损坏的矿工机器人"
+
+#. ~ Description for {'str': 'broken miner bot'}
+#: .\corpses.json
+msgid ""
+"A broken miner bot.  Much less threatening now that it's no longer capable "
+"of drilling anything.  Could be gutted for parts."
+msgstr "一台损坏的矿工机器人。由于无法再钻探任何物体，威胁性大大降低。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken chickenwalker"
+msgid_plural "broken chickenwalkers"
+msgstr[0] "损坏的鸡足步行机"
+
+#. ~ Description for {'str': 'broken chickenwalker'}
+#: .\corpses.json
+msgid "A broken chickenwalker.  Could be stripped for parts."
+msgstr "一台损坏的鸡足步行机。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken disarmed chickenwalker"
+msgid_plural "broken disarmed chickenwalkers"
+msgstr[0] "损坏的解除武装鸡足步行机"
+
+#. ~ Description for {'str': 'broken disarmed chickenwalker'}
+#: .\corpses.json
+msgid ""
+"A broken chickenwalker. Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr "一台损坏的鸡足步行机。其内部武器已被移除。可拆解零件或改造成回收机器人。"
+
+#: .\corpses.json
+msgid "broken tank drone"
+msgid_plural "broken tank drones"
+msgstr[0] "损坏的坦克无人机"
+
+#. ~ Description for {'str': 'broken tank drone'}
+#: .\corpses.json
+msgid "A broken tank drone.  Could be stripped down for parts."
+msgstr "一台损坏的坦克无人机。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken disarmed tank drone"
+msgid_plural "broken disarmed tank drones"
+msgstr[0] "损坏的解除武装坦克无人机"
+
+#. ~ Description for {'str': 'broken disarmed tank drone'}
+#: .\corpses.json
+msgid ""
+"A broken tank drone.  Could be gutted for parts or recrafted into a salvaged"
+" robot."
+msgstr "一台损坏的坦克无人机。可拆解零件或重新制作为回收机器人。"
+
+#: .\furniture.json .\items.json
+msgid "garden gnome"
+msgid_plural "garden gnomes"
+msgstr[0] "花园地精"
+
+#. ~ Description for garden gnome
+#. ~ Description for {'str': 'guardin gnome'}
+#: .\furniture.json .\monster.json
+msgid "A normal and completely harmless garden gnome."
+msgstr "一个普通且完全无害的花园地精。"
+
+#: .\furniture.json
+msgid "krash!"
+msgstr "咔嚓！"
+
+#: .\furniture.json
+msgid "krak."
+msgstr "咔。"
+
+#: .\items.json
+msgid "electrohack"
+msgid_plural "electrohacks"
+msgstr[0] "电子破解器"
+
+#. ~ Description for {'str': 'electrohack'}
+#: .\items.json
+msgid ""
+"This device has many ports attached, allowing it to connect to almost any "
+"control panel or other electronic machine (but not computers).  With a "
+"little skill, it can be used to crack passwords and more.  It requires 25 "
+"charges of battery power per use."
+msgstr "该设备配备多个接口，可连接几乎任何控制面板或其他电子机器（但不包括计算机）。稍加技巧即可用于破解密码等操作。每次使用需消耗25点电池电量。"
+
+#: .\items.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] "未激活的鸡形步行机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr "鸡形机器人出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr "鸡形机器人旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\items.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的鸡形步行机。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\items.json
+msgid "inactive tank drone"
+msgid_plural "inactive tank drones"
+msgstr[0] "未激活的坦克无人机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid "The tank drone rolls out and begins acquiring targets."
+msgstr "坦克无人机出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid ""
+"The tank drone swivels its turret and aims directly at you.  Don your brown "
+"pants!"
+msgstr "坦克无人机旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive tank drone'}
+#: .\items.json
+msgid ""
+"This is an inactive Beagle Mini-Tank UGV.  Using this item involves placing "
+"it on the ground, loading the unit with the factory-loaded 5.56 rounds and "
+"40mm cartridge grenades in your inventory (if you wish to divide your "
+"ammunition, set aside whatever ammunition you do NOT want to give the robot)"
+" and turning it on.  If reprogrammed and rewired successfully the tank drone"
+" will then identify you as a friendly, roam around or follow you, and attack"
+" all enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的Beagle迷你坦克UGV。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\items.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] "探路者底盘"
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是探路者的骨架与装甲。"
+
+#: .\items.json
+msgid "Regulator chassis"
+msgid_plural "Regulator chassis"
+msgstr[0] "调节者底盘"
+
+#. ~ Description for {'str_sp': 'Regulator chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the Regulator tank."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是调节者坦克的骨架与装甲。"
+
+#: .\items.json
+msgid "robot component"
+msgid_plural "robot components"
+msgstr[0] "机器人组件"
+
+#. ~ Description for {'str': 'robot component'}
+#: .\items.json
+msgid ""
+"A component for turrets and robots.  It is unuseable in its current state."
+msgstr "用于炮塔和机器人的组件。当前状态下无法使用。"
+
+#: .\items.json
+msgid "integral microreactor"
+msgid_plural "integral microreactors"
+msgstr[0] "内置微型反应堆"
+
+#. ~ Description for {'str': 'integral microreactor'}
+#: .\items.json
+msgid "A compact fusion reactor used to power a robot's energy weapons."
+msgstr "一种紧凑型聚变反应堆，用于为机器人的能量武器供能。"
+
+#: .\items.json
+msgid "integral flash gun"
+msgid_plural "integral flash guns"
+msgstr[0] "内置闪光枪"
+
+#: .\items.json
+msgid "integral tazer"
+msgid_plural "integral tazers"
+msgstr[0] "内置电击枪"
+
+#: .\items.json .\roboguns.json
+msgid "integral 9mm firearm"
+msgid_plural "integral 9mm firearms"
+msgstr[0] "内置9毫米枪械"
+
+#: .\items.json .\roboguns.json
+msgid "integral 5.56mm firearm"
+msgid_plural "integral 5.56mm firearms"
+msgstr[0] "内置5.56毫米枪械"
+
+#: .\items.json .\roboguns.json
+msgid "integral 7.62mm firearm"
+msgid_plural "integral 7.62mm firearms"
+msgstr[0] "内置7.62毫米枪械"
+
+#: .\items.json
+msgid "integral shotgun"
+msgid_plural "integral shotguns"
+msgstr[0] "内置霰弹枪"
+
+#: .\items.json .\roboguns.json
+msgid "integral beanbag launcher"
+msgid_plural "integral beanbag launchers"
+msgstr[0] "集成豆袋发射器"
+
+#: .\items.json .\roboguns.json
+msgid "integral teargas launcher"
+msgid_plural "integral teargas launchers"
+msgstr[0] "集成催泪瓦斯发射器"
+
+#: .\items.json .\roboguns.json
+msgid "integral flamethrower"
+msgid_plural "integral flamethrowers"
+msgstr[0] "内置火焰喷射器"
+
+#: .\items.json
+msgid "integral flechette firearm"
+msgid_plural "integral flechette firearms"
+msgstr[0] "集成箭弹枪械"
+
+#: .\items.json
+msgid "integral 8x40mm firearm"
+msgid_plural "integral 8x40mm firearms"
+msgstr[0] "集成8x40毫米枪械"
+
+#: .\items.json
+msgid "integral 50 caliber firearm"
+msgid_plural "integral 50 caliber firearms"
+msgstr[0] "集成50口径枪械"
+
+#: .\items.json .\roboguns.json
+msgid "integral grenade launcher"
+msgid_plural "integral grenade launchers"
+msgstr[0] "集成榴弹发射器"
+
+#: .\items.json
+msgid "integral laser weapon"
+msgid_plural "integral laser weapons"
+msgstr[0] "集成激光武器"
+
+#: .\items.json .\roboguns.json
+msgid "integral plasma ejector"
+msgid_plural "integral plasma ejectors"
+msgstr[0] "集成等离子喷射器"
+
+#: .\items.json
+msgid "integral electromagnetic railgun"
+msgid_plural "integral electromagnetic railguns"
+msgstr[0] "集成电磁轨道炮"
+
+#: .\items.json .\roboguns.json
+msgid "integral acid thrower"
+msgid_plural "integral acid throwers"
+msgstr[0] "集成酸液喷射器"
+
+#: .\items.json
+msgid "integral electro caster"
+msgid_plural "integral electro casters"
+msgstr[0] "集成电击投射器"
+
+#: .\items.json
+msgid "integral EMP projector"
+msgid_plural "integral EMP projectors"
+msgstr[0] "集成EMP投射器"
+
+#: .\items.json
+msgid "inactive turret"
+msgid_plural "inactive turrets"
+msgstr[0] "未激活炮塔"
+
+#. ~ Description for {'str': 'inactive turret'}
+#: .\items.json .\roboguns.json
+msgid ""
+"This is a pseudo item for monster attacks. If you see this, it's a bug."
+msgstr "这是用于怪物攻击的伪物品。如果你看到这个，那是个错误。"
+
+#: .\items.json .\monster.json
+msgid "disarmed defense turret"
+msgid_plural "disarmed defense turrets"
+msgstr[0] "解除武装的防御炮塔"
+
+#. ~ Description for {'str': 'disarmed defense turret'}
+#: .\items.json
+msgid "An automated defense turret.  It lacks an integrated weapon."
+msgstr "一个自动化防御炮塔。它缺少集成武器。"
+
+#: .\items.json .\monster.json
+msgid "disarmed military turret"
+msgid_plural "disarmed military turrets"
+msgstr[0] "解除武装的军用炮塔"
+
+#. ~ Description for {'str': 'disarmed military turret'}
+#: .\items.json
+msgid "An automated military turret.  It lacks an integrated weapon."
+msgstr "一个自动化军用炮塔。它缺少集成武器。"
+
+#: .\items.json .\monster.json
+msgid "disarmed advanced turret"
+msgid_plural "disarmed advanced turrets"
+msgstr[0] "解除武装的先进炮塔"
+
+#. ~ Description for {'str': 'disarmed advanced turret'}
+#: .\items.json
+msgid "An advanced automated turret.  It lacks an integrated weapon."
+msgstr "一个先进的自动化炮塔。它缺少集成武器。"
+
+#: .\items.json
+msgid "inactive 9mm defense turret"
+msgid_plural "inactive 9mm defense turrets"
+msgstr[0] "未激活9毫米防御炮塔"
+
+#. ~ Description for {'str': 'inactive 9mm defense turret'}
+#: .\items.json
+msgid ""
+"An inactive 9mm defense turret.  Up to 100 standard 9mm rounds will be "
+"automatically loaded from your inventory into the turret upon activation.  "
+"Place the turret and it will ID you as friendly with its advanced IFF "
+"software.  Consult your safety manual in the event of a malfunction."
+msgstr ""
+"一个未激活的9毫米防御炮塔。激活时，最多100发标准9毫米子弹将从你的库存自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive shotgun defense turret"
+msgid_plural "inactive shotgun defense turrets"
+msgstr[0] "未激活霰弹枪防御炮塔"
+
+#. ~ Description for {'str': 'inactive shotgun defense turret'}
+#: .\items.json
+msgid ""
+"An inactive shotgun defense turret.  Up to 100 standard 12ga shells will be "
+"automatically loaded from your inventory into the turret upon activation.  "
+"Place the turret and it will ID you as friendly with its advanced IFF "
+"software.  Consult your safety manual in the event of a malfunction."
+msgstr ""
+"一个未激活的霰弹枪防御炮塔。激活时，最多100发标准12号霰弹将从你的库存自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive riot control turret"
+msgid_plural "inactive riot control turrets"
+msgstr[0] "未激活防暴控制炮塔"
+
+#. ~ Description for {'str': 'inactive riot control turret'}
+#: .\items.json
+msgid ""
+"An inactive riotcontrol turret.  Up to 50 standard 40mm less-than-lethal "
+"beanbag canisters will be automatically loaded from your inventory into the "
+"turret upon activation.  Place the turret and it will ID you as friendly "
+"with its advanced IFF software.  Consult your safety manual in the event of "
+"a malfunction."
+msgstr ""
+"一个未激活的防暴控制炮塔。激活时，最多50发标准40毫米非致命豆袋弹将从你的库存自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#. ~ Description for {'str': 'inactive riot control turret'}
+#: .\items.json
+msgid ""
+"An inactive riot control turret.  Up to 50 standard 40mm teargas canisters "
+"will be automatically loaded from your inventory into the turret upon "
+"activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一个未激活的防暴控制炮塔。激活时，最多50发标准40毫米催泪瓦斯弹将从你的库存自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive 5.56mm military turret"
+msgid_plural "inactive 5.56mm military turrets"
+msgstr[0] "未激活5.56毫米军用炮塔"
+
+#. ~ Description for {'str': 'inactive 5.56mm military turret'}
+#: .\items.json
+msgid ""
+"An inactive 5.56mm military turret.  Up to 100 standard 5.56mm NATO rounds "
+"will be automatically loaded from your inventory into the turret upon "
+"activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一个未激活的5.56毫米军用炮塔。激活时，最多100发标准5.56毫米北约子弹将从你的库存自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive 7.62mm military turret"
+msgid_plural "inactive 7.62mm military turrets"
+msgstr[0] "未激活7.62毫米军用炮塔"
+
+#. ~ Description for {'str': 'inactive 7.62mm military turret'}
+#: .\items.json
+msgid ""
+"An inactive 7.62mm military turret.  Up to 100 standard 7.62mm NATO rounds "
+"will be automatically loaded from your inventory into the turret upon "
+"activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的7.62毫米军用炮塔。激活时，最多100发标准7.62毫米北约弹药将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive 50 caliber military turret"
+msgid_plural "inactive 50 caliber military turrets"
+msgstr[0] "未激活的50口径军用炮塔"
+
+#. ~ Description for {'str': 'inactive 50 caliber military turret'}
+#: .\items.json
+msgid ""
+"An inactive 50 caliber military turret.  Up to 100 standard 50 caliber bmg "
+"rounds will be automatically loaded from your inventory into the turret upon"
+" activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的50口径军用炮塔。激活时，最多100发标准50口径BMG弹药将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive military needle turret"
+msgid_plural "inactive military needle turrets"
+msgstr[0] "未激活的军用针刺炮塔"
+
+#. ~ Description for {'str': 'inactive military needle turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced needle turret.  Up to 100 standard 5x50mm flechette "
+"rounds will be automatically loaded from your inventory into the turret upon"
+" activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的先进针刺炮塔。激活时，最多100发标准5x50毫米箭形弹将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive military 8x40mm turret"
+msgid_plural "inactive military 8x40mm turrets"
+msgstr[0] "未激活的军用8x40毫米炮塔"
+
+#. ~ Description for {'str': 'inactive military 8x40mm turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced 8x40mm turret.  Up to 100 standard 8x40mm caseless "
+"rounds will be automatically loaded from your inventory into the turret upon"
+" activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software.  Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的先进8x40毫米炮塔。激活时，最多100发标准8x40毫米无壳弹将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive military 40mm grenade turret"
+msgid_plural "inactive military 40mm grenade turrets"
+msgstr[0] "未激活的军用40毫米榴弹炮塔"
+
+#. ~ Description for {'str': 'inactive military 40mm grenade turret'}
+#: .\items.json
+msgid ""
+"An inactive military grenade turret.  Up to 50 standard 40mm fragmentation "
+"grenades will be automatically loaded from your inventory into the turret "
+"upon activation.  Place the turret and it will ID you as friendly with its "
+"advanced IFF software. Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的军用榴弹炮塔。激活时，最多50枚标准40毫米破片榴弹将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive military flamethrower turret"
+msgid_plural "inactive military flamethrower turrets"
+msgstr[0] "未激活的军用火焰喷射器炮塔"
+
+#. ~ Description for {'str': 'inactive military flamethrower turret'}
+#: .\items.json
+msgid ""
+"An inactive flame turret.  Up to 100 units of napalm will be automatically "
+"loaded from your inventory into the turret upon activation.  Place the "
+"turret and it will ID you as friendly with its advanced IFF software.  "
+"Consult your safety manual in the event of a malfunction."
+msgstr ""
+"一台未激活的火焰炮塔。激活时，最多100单位凝固汽油将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced laser turret"
+msgid_plural "inactive advanced laser turrets"
+msgstr[0] "未激活的先进激光炮塔"
+
+#. ~ Description for {'str': 'inactive advanced laser turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced laser turret.  Place the turret and it will ID you as "
+"friendly with its advanced IFF software.  Consult your safety manual in the "
+"event of a malfunction."
+msgstr "一台未激活的先进激光炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced plasma turret"
+msgid_plural "inactive advanced plasma turrets"
+msgstr[0] "未激活的先进等离子炮塔"
+
+#. ~ Description for {'str': 'inactive advanced plasma turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced plasma turret.  Place the turret and it will ID you as "
+"friendly with its advanced IFF software.  Consult your safety manual in the "
+"event of a malfunction."
+msgstr "一台未激活的先进等离子炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced railgun turret"
+msgid_plural "inactive advanced railgun turrets"
+msgstr[0] "未激活的先进磁轨炮塔"
+
+#. ~ Description for {'str': 'inactive advanced railgun turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced railgun turret.  Up to 50 standard rail projectiles "
+"will be automatically loaded from your inventory into the turret upon "
+"activation. Place the turret and it will ID you as friendly with its "
+"advanced IFF software. Consult your safety manual in the event of a "
+"malfunction."
+msgstr ""
+"一台未激活的先进磁轨炮塔。激活时，最多50发标准磁轨弹将从你的物品栏自动装入炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced acid turret"
+msgid_plural "inactive advanced acid turrets"
+msgstr[0] "未激活的先进酸性炮塔"
+
+#. ~ Description for {'str': 'inactive advanced acid turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced acid turret.  Place the turret and it will ID you as "
+"friendly with its advanced IFF software. Consult your safety manual in the "
+"event of a malfunction."
+msgstr "一台未激活的先进酸性炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced EMP turret"
+msgid_plural "inactive advanced EMP turrets"
+msgstr[0] "未激活的先进EMP炮塔"
+
+#. ~ Description for {'str': 'inactive advanced EMP turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced EMP turret.  Place the turret and it will ID you as "
+"friendly with its advanced IFF software. Consult your safety manual in the "
+"event of a malfunction."
+msgstr "一台未激活的先进EMP炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#: .\items.json
+msgid "inactive advanced electro turret"
+msgid_plural "inactive advanced electro turrets"
+msgstr[0] "未激活的先进电击炮塔"
+
+#. ~ Description for {'str': 'inactive advanced electro turret'}
+#: .\items.json
+msgid ""
+"An inactive advanced electro turret.  Place the turret and it will ID you as"
+" friendly with its advanced IFF software.  Consult your safety manual in the"
+" event of a malfunction."
+msgstr "一台未激活的先进电击炮塔。放置炮塔后，其先进的IFF软件会将你识别为友方。若发生故障，请查阅安全手册。"
+
+#. ~ Description for {'str': 'garden gnome'}
+#: .\items.json
+msgid ""
+"A normal and completely harmless garden gnome.  You can place him in your "
+"garden or elsewhere."
+msgstr "一个普通且完全无害的花园地精。你可以将他放在花园或其他地方。"
+
+#: .\items.json
+msgid "gaurdin gnome"
+msgid_plural "gaurdin gnomes"
+msgstr[0] "守卫地精"
+
+#. ~ Description for {'str': 'gaurdin gnome'}
+#: .\items.json
+msgid ""
+"A normal and completely harmless garden gnome.  He holds up to 100 rounds of"
+" 9mm ammo."
+msgstr "一个普通且完全无害的花园地精。他最多可容纳100发9毫米弹药。"
+
+#: .\modinfo.json
+msgid "Modular Turrets with No Blacklist"
+msgstr "无黑名单的模块化炮塔"
+
+#. ~ Description for Modular Turrets with No Blacklist
+#: .\modinfo.json
+msgid ""
+"Adds new types of enemy turrets, gives to enemy turrets swappable firearm "
+"modules, which can be reclaimed from broken robots."
+msgstr "新增多种敌方炮塔类型，为敌方炮塔提供可更换的枪械模块，这些模块可从损坏的机器人中回收。"
+
+#: .\monster.json
+msgid "automated turret"
+msgid_plural "automated turrets"
+msgstr[0] "自动炮塔"
+
+#. ~ Description for {'str': 'disarmed defense turret'}
+#: .\monster.json
+msgid ""
+"The General Atomics TX-series turret, a small, pill-shaped automated gun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  It requires an integrated firearm module to "
+"work."
+msgstr "通用原子TX系列炮塔，一种小型药丸形状的自动枪塔，采用先进的ATR系统动态重新定位，以识别新的友方和敌方目标。它需要集成枪械模块才能工作。"
+
+#. ~ Description for {'str': 'disarmed military turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TX series turret, a military-grade automated gun turret "
+"using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  It requires a integrated gun module to operate."
+msgstr ""
+"Leadworks LLC的TX系列炮塔，一款军用级自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。它需要集成枪械模块才能运作。"
+
+#. ~ Description for {'str': 'disarmed advanced turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-series turret, an advanced automated gun turret using state"
+" of the art ATR systems to dynamically reorient itself to new friends and "
+"enemies alike.  It requires an integrated gun module to function."
+msgstr ""
+"DoubleTech T系列炮塔，一款先进的自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。它需要集成枪械模块才能运作。"
+
+#: .\monster.json .\monster_override.json
+msgid "9mm turret"
+msgid_plural "9mm turrets"
+msgstr[0] "9毫米炮塔"
+
+#. ~ Description for {'str': '9mm turret'}
+#: .\monster.json
+msgid ""
+"The General Atomics TX-1 Guardian, a small, pill-shaped automated gun turret"
+" using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  Its integrated 9mm sub machinegun can swivel a "
+"full 360 degrees."
+msgstr ""
+"通用原子TX-1守护者，一款小型药丸状自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的9毫米冲锋枪可360度旋转。"
+
+#: .\monster.json
+msgid "shotgun turret"
+msgid_plural "shotgun turrets"
+msgstr[0] "霰弹枪炮塔"
+
+#. ~ Description for {'str': 'shotgun turret'}
+#: .\monster.json
+msgid ""
+"The General Atomics TX-4 Protector, a small, pill-shaped automated gun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 12ga shotgun can swivel a "
+"full 360 degrees."
+msgstr ""
+"通用原子TX-4保护者，一款小型药丸状自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的12号霰弹枪可360度旋转。"
+
+#: .\monster.json
+msgid "riot control turret"
+msgid_plural "riot control turrets"
+msgstr[0] "防暴控制炮塔"
+
+#. ~ Description for {'str': 'riot control turret'}
+#: .\monster.json
+msgid ""
+"The General Atomics TZ-1a Warden, a small, pill-shaped automated gun turret "
+"using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  Its integrated 40mm teargas launcher can swivel "
+"a full 360 degrees."
+msgstr ""
+"通用原子TZ-1a看守者，一款小型药丸状自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的40毫米催泪弹发射器可360度旋转。"
+
+#. ~ Description for {'str': 'riot control turret'}
+#: .\monster.json
+msgid ""
+"The General Atomics TZ-1b Pacifier, a small, pill-shaped automated gun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 40mm beanbag launcher can "
+"swivel a full 360 degrees."
+msgstr ""
+"通用原子TZ-1b安抚者，一款小型药丸状自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的40毫米豆袋弹发射器可360度旋转。"
+
+#: .\monster.json .\monster_override.json
+msgid "5.56mm turret"
+msgid_plural "5.56mm turrets"
+msgstr[0] "5.56毫米炮塔"
+
+#. ~ Description for {'str': '5.56mm turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TX-32L Sentry, a military-grade automated machinegun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 5.56 rifle can swivel a full "
+"360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TX-32L哨兵，一款军用级自动机枪炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的5.56步枪可360度旋转。"
+
+#: .\monster.json
+msgid "7.62mm turret"
+msgid_plural "7.62mm turrets"
+msgstr[0] "7.62毫米炮塔"
+
+#. ~ Description for {'str': '7.62mm turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TX-32H Sentry, a military-grade automated machinegun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 7.62 rifle can swivel a full "
+"360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TX-32H哨兵，一款军用级自动机枪炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的7.62步枪可360度旋转。"
+
+#: .\monster.json .\monster_override.json
+msgid "50cal turret"
+msgid_plural "50cal turrets"
+msgstr[0] "50口径炮塔"
+
+#. ~ Description for {'str': '50cal turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TX-13 Sentry, a military-grade automated machinegun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 50 caliber machinegun can "
+"swivel a full 360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TX-13哨兵，一款军用级自动机枪炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的50口径机枪可360度旋转。"
+
+#: .\monster.json
+msgid "8x40mm turret"
+msgid_plural "8x40mm turrets"
+msgstr[0] "8x40毫米炮塔"
+
+#. ~ Description for {'str': '8x40mm turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TX-01A Warden, a military-grade automated machinegun "
+"turret using state of the art ATR systems to dynamically reorient itself to "
+"new friends and enemies alike.  Its integrated 8x40mm rifle can swivel a "
+"full 360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TX-01A看守者，一款军用级自动机枪炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的8x40毫米步枪可360度旋转。"
+
+#: .\monster.json
+msgid "needle turret"
+msgid_plural "needle turrets"
+msgstr[0] "针弹炮塔"
+
+#. ~ Description for {'str': 'needle turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TN-7 Sentry, a military-grade automated flechette turret"
+" using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  Its integrated 5mm flechette gun can swivel a "
+"full 360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TN-7哨兵，一款军用级自动箭弹炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的5毫米箭弹枪可360度旋转。"
+
+#: .\monster.json
+msgid "40mm grenade turret"
+msgid_plural "40mm grenade turrets"
+msgstr[0] "40毫米榴弹炮塔"
+
+#. ~ Description for {'str': '40mm grenade turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TG-7 Sentry, a military-grade automated gun turret using"
+" state of the art ATR systems to dynamically reorient itself to new friends "
+"and enemies alike.  Its integrated 40mm grenade launcher can swivel a full "
+"360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TG-7哨兵，一款军用级自动枪塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的40毫米榴弹发射器可360度旋转。"
+
+#: .\monster.json
+msgid "flame turret"
+msgid_plural "flame turrets"
+msgstr[0] "火焰炮塔"
+
+#. ~ Description for {'str': 'flame turret'}
+#: .\monster.json
+msgid ""
+"The Leadworks LLC's TF-7 Sentry, a military-grade automated flame turret "
+"using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  Its integrated flamethrower can swivel a full "
+"360 degrees."
+msgstr ""
+"Leadworks "
+"LLC的TF-7哨兵，一款军用级自动火焰炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的火焰喷射器可360度旋转。"
+
+#: .\monster.json .\monster_override.json
+msgid "laser turret"
+msgid_plural "laser turrets"
+msgstr[0] "激光炮塔"
+
+#. ~ Description for {'str': 'laser turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-L3 Scintillator, an advanced automated laser turret using "
+"state of the art ATR systems to dynamically reorient itself to new friends "
+"and enemies alike.  Its integrated laser emitter can swivel a full 360 "
+"degrees."
+msgstr ""
+"DoubleTech "
+"T-L3闪烁者，一款先进的自动激光炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的激光发射器可360度旋转。"
+
+#: .\monster.json
+msgid "acid turret"
+msgid_plural "acid turrets"
+msgstr[0] "酸液炮塔"
+
+#. ~ Description for {'str': 'acid turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-A3 Disintegrator, an advanced automated acid turret using "
+"state of the art ATR systems to dynamically reorient itself to new friends "
+"and enemies alike.  Its integrated acid thrower can swivel a full 360 "
+"degrees."
+msgstr ""
+"DoubleTech "
+"T-A3分解者，一款先进的自动酸液炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的酸液喷射器可360度旋转。"
+
+#: .\monster.json
+msgid "plasma turret"
+msgid_plural "plasma turrets"
+msgstr[0] "等离子炮塔"
+
+#. ~ Description for {'str': 'plasma turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-P3 Scathefire, an advanced automated laser turret using "
+"state of the art ATR systems to dynamically reorient itself to new friends "
+"and enemies alike.  Its integrated plasma ejector can swivel a full 360 "
+"degrees."
+msgstr ""
+"DoubleTech "
+"T-P3焚灭者，一款先进的自动激光炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的等离子喷射器可360度旋转。"
+
+#: .\monster.json
+msgid "railgun turret"
+msgid_plural "railgun turrets"
+msgstr[0] "磁轨炮塔"
+
+#. ~ Description for {'str': 'railgun turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-R3 Arbalest, an advanced automated railgun turret using "
+"state of the art ATR systems to dynamically reorient itself to new friends "
+"and enemies alike.  Its integrated railgun can swivel a full 360 degrees."
+msgstr ""
+"DoubleTech T-R3弩炮，一款先进的自动磁轨炮塔，采用先进的ATR系统，能动态重新定位自身以应对新的友军和敌军。其集成的磁轨炮可360度旋转。"
+
+#: .\monster.json
+msgid "advanced electro turret"
+msgid_plural "advanced electro turrets"
+msgstr[0] "高级电击炮塔"
+
+#. ~ Description for {'str': 'advanced electro turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-E3 Thunderstroke, an advanced automated electro turret "
+"using state of the art ATR systems to dynamically reorient itself to new "
+"friends and enemies alike.  Its integrated electro caster can swivel a full "
+"360 degrees."
+msgstr "双科T-E3雷击型，一种先进自动电击炮塔，采用尖端ATR系统动态重新定位，以应对新的友方与敌方目标。其集成电击投射器可360度全方位旋转。"
+
+#: .\monster.json
+msgid "EMP turret"
+msgid_plural "EMP turrets"
+msgstr[0] "EMP炮塔"
+
+#. ~ Description for {'str': 'EMP turret'}
+#: .\monster.json
+msgid ""
+"The DoubleTech T-EMP3 Corona, an advanced automated EMP turret using state "
+"of the art ATR systems to dynamically reorient itself to new friends and "
+"enemies alike.  Its electro magnetic pulse generator can swivel a full 360 "
+"degrees."
+msgstr ""
+"双科T-EMP3日冕型，一种先进自动EMP炮塔，采用尖端ATR系统动态重新定位，以应对新的友方与敌方目标。其电磁脉冲发生器可360度全方位旋转。"
+
+#: .\monster.json
+msgid "guardin gnome"
+msgid_plural "guardin gnomes"
+msgstr[0] "守护地精"
+
+#: .\monster_attacks.json
+msgid "The %1$s flashes you!"
+msgstr "%1$s对你闪光！"
+
+#: .\monster_attacks.json
+msgid "The %1$s flashes at <npcname>!"
+msgstr "%1$s对<npcname>闪光！"
+
+#: .\monster_attacks.json
+msgid "The %1$s tries to flash you, but fails to."
+msgstr "%1$s试图对你闪光，但失败了。"
+
+#: .\monster_attacks.json
+msgid "The %1$s tries to flash <npcname>, but fails to."
+msgstr "%1$s试图对<npcname>闪光，但失败了。"
+
+#: .\monster_override.json
+msgid "utility robot"
+msgid_plural "utility robots"
+msgstr[0] "实用机器人"
+
+#. ~ Description for {'str': 'utility robot'}
+#: .\monster_override.json
+msgid ""
+"One of the many models of utility robot formerly in use by government "
+"agencies, private corporations, and civilians alike."
+msgstr "众多实用机器人型号之一，曾广泛应用于政府机构、私营公司及平民领域。"
+
+#: .\monster_override.json
+msgid "eyebot"
+msgid_plural "eyebots"
+msgstr[0] "眼球机器人"
+
+#. ~ Description for {'str': 'eyebot'}
+#: .\monster_override.json
+msgid ""
+"A small aerial robot equipped with a suite of cameras and armed with a "
+"blinding flash.  No longer linked to police or security network, it "
+"continues its unending hunt for criminals and trespassers."
+msgstr "一种小型空中机器人，配备全套摄像头并装备致盲闪光装置。虽已脱离警方或安防网络，仍持续无休止地追捕罪犯与入侵者。"
+
+#: .\monster_override.json
+msgid "skitterbot"
+msgid_plural "skitterbots"
+msgstr[0] "疾行机器人"
+
+#. ~ Description for {'str': 'skitterbot'}
+#: .\monster_override.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two close-range tazers, it can skate across the ground with great"
+" speed."
+msgstr "一种昆虫形态机器人，体型如小狗，专为家庭安防设计。配备两把近程电击枪，能以极快速度滑行移动。"
+
+#: .\monster_override.json
+msgid "defense robot"
+msgid_plural "defense robots"
+msgstr[0] "防御机器人"
+
+#. ~ Description for {'str': 'defense robot'}
+#: .\monster_override.json
+msgid ""
+"An automated defense robot still active due to its internal power source. "
+"This one is armed with an electric prod and an integrated 9mm firearm."
+msgstr "因内置动力源仍保持运作的自动防御机器人。该型号配备电击棒与集成9毫米枪械。"
+
+#: .\monster_override.json
+msgid "security robot"
+msgid_plural "security robots"
+msgstr[0] "安防机器人"
+
+#. ~ Description for {'str': 'security robot'}
+#: .\monster_override.json
+msgid ""
+"An automated defense robot still active due to its internal power source. "
+"This one is equipped with an integrated 9mm firearm."
+msgstr "因内置动力源仍保持运作的自动防御机器人。该型号配备集成9毫米枪械。"
+
+#: .\monster_override.json
+msgid "riotcontrol robot"
+msgid_plural "riotcontrol robots"
+msgstr[0] "防暴控制机器人"
+
+#. ~ Description for {'str': 'riotcontrol robot'}
+#: .\monster_override.json
+msgid ""
+"An automated defense robot still active due to its internal power source. "
+"This one is equipped with an electric prod, tear gas sprayer, and integrated"
+" 40mm beanbag launcher."
+msgstr "因内置动力源仍保持运作的自动防御机器人。该型号配备电击棒、催泪瓦斯喷射器及集成40毫米豆袋弹发射器。"
+
+#: .\monster_override.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] "鸡形步行机"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monster_override.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"诺斯罗普ATSV，一种庞大、重武装且重装甲的机器人，以一对反关节腿行走。配备40毫米反车辆榴弹发射器、5.56毫米反人员枪械，并能对攻击者释放电击，是一种高效的自动哨兵，但因法律纠纷生产受限。"
+
+#: .\monster_override.json
+msgid "Beagle Mini-Tank UGV"
+msgid_plural "Beagle Mini-Tank UGVs"
+msgstr[0] "比格微型坦克无人地面载具"
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monster_override.json
+msgid ""
+"The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr "诺斯罗普·比格是一款冰箱大小的城市战无人地面载具。配备反坦克导弹发射器、40毫米榴弹发射器和多种反步兵武器，专为高风险城市战斗设计。"
+
+#: .\roboguns.json
+msgid "base robogun"
+msgid_plural "base roboguns"
+msgstr[0] "基础机器人枪械"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\roboguns.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\roboguns.json
+msgid "auto"
+msgstr "自动"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "冲锋枪"
+
+#: .\roboguns.json
+msgid "integral 12 gauge shotgun"
+msgid_plural "integral 12 gauge shotguns"
+msgstr[0] "集成12号霰弹枪"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr "霰弹枪"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "发射器"
+
+#: .\roboguns.json
+msgid "integral 50 caliber machinegun"
+msgid_plural "integral 50 caliber machineguns"
+msgstr[0] "集成50口径机枪"
+
+#: .\roboguns.json
+msgid "integral needle gun"
+msgid_plural "integral needle guns"
+msgstr[0] "集成射针枪"
+
+#: .\roboguns.json
+msgid "integral 8mm firearm"
+msgid_plural "integral 8mm firearms"
+msgstr[0] "集成8毫米枪械"
+
+#: .\roboguns.json
+msgid "integral laser emitter"
+msgid_plural "integral laser emitters"
+msgstr[0] "集成激光发射器"
+
+#: .\roboguns.json
+msgid "integral railgun"
+msgid_plural "integral railguns"
+msgstr[0] "集成磁轨炮"
+
+#: .\roboguns.json
+msgid "integral lightning caster"
+msgid_plural "integral lightning casters"
+msgstr[0] "集成闪电投射器"
+
+#: .\roboguns.json
+msgid "integral EMP generator"
+msgid_plural "integral EMP generators"
+msgstr[0] "集成EMP发生器"

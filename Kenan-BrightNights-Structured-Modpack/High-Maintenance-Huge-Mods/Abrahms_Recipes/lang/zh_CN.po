@@ -1,0 +1,802 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AbrahmsRecipes1\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Abrahms Recipes 1"
+msgstr "亚伯拉罕食谱 1"
+
+#. ~ Description for Abrahms Recipes 1
+#: .\modinfo.json
+msgid ""
+"Adds some simple recipes, ingredients and meals that don't require advanced "
+"tools to make. Also adds some slightly overpowered historical and mythical "
+"melee weapons from Europe, China and Japan"
+msgstr "添加一些无需高级工具即可制作的简单食谱、食材和餐点。同时加入一些来自欧洲、中国和日本的历史与神话近战武器，它们略微过于强大。"
+
+#: .\items\comestibles\carnivore.json
+msgid "minced meat"
+msgid_plural "minced meat"
+msgstr[0] "肉末"
+
+#. ~ Description for {'str': 'minced meat', 'str_pl': 'minced meat'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"When you don't have a meat grinder, a knife or food processor will do the "
+"job. A finely chopped or ground paste of assorted meat, fat, gristle, and "
+"connective tissues."
+msgstr "当你没有绞肉机时，一把刀或食品加工机也能胜任。这是由各种肉类、脂肪、软骨和结缔组织精细切碎或研磨而成的糊状物。"
+
+#: .\items\comestibles\carnivore.json
+msgid "minced scrap"
+msgid_plural "minced scraps"
+msgstr[0] "碎肉屑"
+
+#. ~ Description for {'str': 'minced scrap', 'str_pl': 'minced scraps'}
+#: .\items\comestibles\carnivore.json
+msgid "Finely chopped or ground scraps of meat."
+msgstr "精细切碎或研磨的肉屑。"
+
+#: .\items\comestibles\carnivore.json
+msgid "cooked minced meat"
+msgid_plural "cooked minced meat"
+msgstr[0] "熟肉末"
+
+#. ~ Description for {'str': 'cooked minced meat', 'str_pl': 'cooked minced
+#. meat'}
+#: .\items\comestibles\carnivore.json
+msgid "Cooked mixed hamburger meat."
+msgstr "煮熟的混合汉堡肉。"
+
+#: .\items\comestibles\carnivore.json
+msgid "meatstick"
+msgid_plural "meatsticks"
+msgstr[0] "肉条"
+
+#. ~ Description for {'str': 'meatstick', 'str_pl': 'meatsticks'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"Meat that has been ground then formed into strips or sticks and smoked or "
+"dehydrated. Chewier than regular jerky but with a shorter shelf life."
+msgstr "将肉研磨后制成条状或棒状，再烟熏或脱水而成。比普通肉干更有嚼劲，但保质期较短。"
+
+#: .\items\comestibles\carnivore.json
+msgid "meatball"
+msgid_plural "meatballs"
+msgstr[0] "肉丸"
+
+#. ~ Description for {'str': 'meatball', 'str_pl': 'meatballs'}
+#: .\items\comestibles\carnivore.json
+msgid ""
+"Minced or ground meat, and optionally filler or other ingredients, mushed "
+"into a ball. It can be used as a substitute for chunks of meat, or formed "
+"into smaller balls for use in sauces and soups."
+msgstr "将肉末或碎肉，以及可选的填充物或其他配料，揉成球状。它可以作为肉块的替代品，也可以制成更小的丸子用于酱汁和汤中。"
+
+#: .\items\comestibles\drink_other.json
+msgid "mayonnaise gummy"
+msgid_plural "mayonnaise gummies"
+msgstr[0] "蛋黄酱软糖"
+
+#. ~ Description for {'str': 'mayonnaise gummy', 'str_pl': 'mayonnaise
+#. gummies'}
+#: .\items\comestibles\drink_other.json
+msgid ""
+"Because of its oil content, mayonnaise can't be dried into a powder, instead"
+" becoming a rubbery gummy that tastes more or less like mayonnaise, but has "
+"an unpleasant texture. It can't be reconstituted into spreadable mayonnaise,"
+" but it can be softened by heating with water."
+msgstr ""
+"由于含有油脂，蛋黄酱无法干燥成粉末，反而会变成一种橡胶状的软糖，味道大致像蛋黄酱，但口感不佳。它无法还原成可涂抹的蛋黄酱，但可以通过加水加热软化。"
+
+#: .\items\comestibles\drink_other.json
+msgid "ketchup powder"
+msgid_plural "ketchup powder"
+msgstr[0] "番茄酱粉"
+
+#. ~ Description for {'str': 'ketchup powder', 'str_pl': 'ketchup powder'}
+#: .\items\comestibles\drink_other.json
+msgid ""
+"Dehydrated ketchup, ground into a powder. Can be used as a flavouring for "
+"dry snacks, or reconstituted with water."
+msgstr "脱水番茄酱，研磨成粉末。可用作干零食的调味料，或加水复原。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "maggi goreng"
+msgid_plural "maggi goreng"
+msgstr[0] "美极炒面"
+
+#. ~ Conditional name for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#. when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Maggie goreng"
+msgid_plural "Maggie gorengs"
+msgstr[0] "美极炒面"
+
+#. ~ Conditional name for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#. when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "hairy %s"
+msgid_plural "hairy %s"
+msgstr[0] "毛茸茸的 %s"
+
+#. ~ Description for {'str': 'maggi goreng', 'str_pl': 'maggi goreng'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Mie goreng, Indo-Malay fried noodles, made with Maggi brand instant noodles."
+msgstr "美极炒面，印度尼西亚-马来西亚风味的炒面，使用美极牌方便面制作。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "mie goreng"
+msgid_plural "mie goreng"
+msgstr[0] "炒面"
+
+#. ~ Conditional name for {'str': 'mie goreng', 'str_pl': 'mie goreng'} when
+#. FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "you goreng"
+msgid_plural "you gorengs"
+msgstr[0] "炒面"
+
+#. ~ Conditional name for {'str': 'mie goreng', 'str_pl': 'mie goreng'} when
+#. COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "monster %s"
+msgid_plural "monster %s"
+msgstr[0] "怪物 %s"
+
+#. ~ Description for {'str': 'mie goreng', 'str_pl': 'mie goreng'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Indo-Malay fried noodles, filled with eggs and beef, flavoured with sambal "
+"and ketjap."
+msgstr "印度尼西亚-马来西亚炒面，内含鸡蛋和牛肉，以叁巴酱和甜酱油调味。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "hor fun"
+msgid_plural "hor fun"
+msgstr[0] "河粉"
+
+#. ~ Conditional name for {'str': 'hor fun', 'str_pl': 'hor fun'} when FLAG
+#. matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "who fun"
+msgid_plural "who funs"
+msgstr[0] "河粉"
+
+#. ~ Conditional name for {'str': 'hor fun', 'str_pl': 'hor fun'} when
+#. COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+#, c-format
+msgid "hexed %s"
+msgid_plural "hexed %s"
+msgstr[0] "被诅咒的 %s"
+
+#. ~ Description for {'str': 'hor fun', 'str_pl': 'hor fun'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Indo-Chinese very wide, thin noodles, fried with eggs, meat, seafood, and 3 "
+"types of soy sauce."
+msgstr "印度支那风味的极宽薄面，与鸡蛋、肉类、海鲜和三种酱油一起炒制。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "Babylonian beet stew"
+msgid_plural "Babylonian beet stew"
+msgstr[0] "巴比伦甜菜炖肉"
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew', 'str_pl':
+#. 'Babylonian beet stew'} when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Babe-lonian beet stew"
+msgid_plural "Babes-lonian beet stew"
+msgstr[0] "巴比伦甜菜炖肉"
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew', 'str_pl':
+#. 'Babylonian beet stew'} when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "ectoplasmic beet stew"
+msgid_plural "ectoplasmic beet stew"
+msgstr[0] "灵质甜菜炖肉"
+
+#. ~ Description for {'str': 'Babylonian beet stew', 'str_pl': 'Babylonian
+#. beet stew'}
+#. ~ Description for {'str': 'Babylonian beet stew with couscous', 'str_pl':
+#. 'Babylonian beet stews with couscous'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"An ancient recipe, translated from a 4000 year old Babylonian clay tablet, "
+"written in ancient Akkadian, consisting of beets, leeks, onions, garlic, "
+"lamb, and spices, simmered in beer. Best eaten with couscous."
+msgstr ""
+"一道古老的食谱，译自一块4000年前的巴比伦泥板，用古阿卡德语书写，包含甜菜、韭葱、洋葱、大蒜、羊肉和香料，在啤酒中慢炖而成。最好搭配古斯米食用。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "clay pot rice"
+msgid_plural "clay pot rice"
+msgstr[0] "煲仔饭"
+
+#. ~ Conditional name for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#. when FLAG matches CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "crackpot rice"
+msgid_plural "crackpot rice"
+msgstr[0] "煲仔饭"
+
+#. ~ Conditional name for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#. when COMPONENT_ID matches mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "corrupted clay pot rice"
+msgid_plural "corrupted clay pot rice"
+msgstr[0] "腐化煲仔饭"
+
+#. ~ Description for {'str': 'clay pot rice', 'str_pl': 'clay pot rice'}
+#: .\items\comestibles\meat_dishes.json
+msgid ""
+"Rice, meat, veggies, and seasonings boiled together in a sealed clay pot "
+"over a hot fire."
+msgstr "米饭、肉类、蔬菜和调味料在密封的陶罐中用旺火一同炖煮而成。"
+
+#: .\items\comestibles\meat_dishes.json
+msgid "Babylonian beet stew with couscous"
+msgid_plural "Babylonian beet stews with couscous"
+msgstr[0] "巴比伦甜菜炖古斯米"
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew with couscous',
+#. 'str_pl': 'Babylonian beet stews with couscous'} when FLAG matches
+#. CANNIBALISM
+#: .\items\comestibles\meat_dishes.json
+msgid "Babe-lonian beet stew with couscous"
+msgid_plural "Babes-lonian beet stews with couscous"
+msgstr[0] "巴比伦甜菜炖古斯米"
+
+#. ~ Conditional name for {'str': 'Babylonian beet stew with couscous',
+#. 'str_pl': 'Babylonian beet stews with couscous'} when COMPONENT_ID matches
+#. mutant
+#: .\items\comestibles\meat_dishes.json
+msgid "ectoplasmic beet stew with couscous"
+msgid_plural "ectoplasmic beet stew with couscous"
+msgstr[0] "灵质甜菜炖古斯米"
+
+#: .\items\comestibles\spice.json
+msgid "dehydrated mustard"
+msgid_plural "dehydrated mustard"
+msgstr[0] "脱水芥末酱"
+
+#. ~ Description for {'str': 'dehydrated mustard', 'str_pl': 'dehydrated
+#. mustard'}
+#: .\items\comestibles\spice.json
+msgid ""
+"Dehydrated prepared mustard. Can be reconstituted by just adding a bit of "
+"water, but won't be as good as fresh mustard."
+msgstr "脱水制备的芥末酱。只需加少许水即可复原，但风味不及新鲜芥末。"
+
+#: .\items\comestibles\spice.json
+msgid "ketjap manis"
+msgid_plural "ketjap manis"
+msgstr[0] "甜酱油"
+
+#. ~ Description for {'str': 'ketjap manis', 'str_pl': 'ketjap manis'}
+#: .\items\comestibles\spice.json
+msgid "Indonesian sweet soy sauce."
+msgstr "印度尼西亚甜酱油。"
+
+#: .\items\comestibles\spice.json
+msgid "sambal"
+msgid_plural "sambal"
+msgstr[0] "叁巴酱"
+
+#. ~ Description for {'str': 'sambal', 'str_pl': 'sambal'}
+#: .\items\comestibles\spice.json
+msgid "Indo-Malay chilli paste."
+msgstr "印度-马来风味辣椒酱。"
+
+#: .\items\comestibles\veggy_dishes.json
+msgid "pasta marinara"
+msgid_plural "pasta marinara"
+msgstr[0] "意式番茄酱面"
+
+#. ~ Description for {'str': 'pasta marinara', 'str_pl': 'pasta marinara'}
+#: .\items\comestibles\veggy_dishes.json
+msgid ""
+"Cooked pasta with a jar of tomato sauce. Not very nutritious, but very easy "
+"to make."
+msgstr "煮熟的意大利面配上一罐番茄酱。营养不高，但制作非常简单。"
+
+#: .\items\comestibles\veggy_dishes.json
+msgid "pasta primavera"
+msgid_plural "pasta primavera"
+msgstr[0] "春季蔬菜意面"
+
+#. ~ Description for {'str': 'pasta primavera', 'str_pl': 'pasta primavera'}
+#: .\items\comestibles\veggy_dishes.json
+msgid "Pasta with sauteed veggies, spices, and olive oil."
+msgstr "意面配以炒蔬菜、香料和橄榄油。"
+
+#: .\items\comestibles\wheat.json
+msgid "raw couscous pasta"
+msgid_plural "raw couscous pasta"
+msgstr[0] "生古斯米面"
+
+#. ~ Description for {'str': 'raw couscous pasta', 'str_pl': 'raw couscous
+#. pasta'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Durum semolina wheat flour dough, rubbed between the hands until it forms "
+"small rice-like pellets. Could be eaten raw, but only takes a couple of "
+"minutes to cook, so why bother?"
+msgstr "硬质粗粒小麦粉面团，经手工揉搓成米粒状小颗粒。可以生吃，但只需几分钟就能煮熟，何必费事？"
+
+#: .\items\comestibles\wheat.json
+msgid "fun batter"
+msgid_plural "fun batter"
+msgstr[0] "肠粉浆"
+
+#. ~ Description for {'str': 'fun batter', 'str_pl': 'fun batter'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"A thin batter of rice and water, used to make rice noodle sheets called fun."
+msgstr "由米和水调制的稀面糊，用于制作称为“肠粉”的米皮。"
+
+#: .\items\comestibles\wheat.json
+msgid "raw fun"
+msgid_plural "raw fun"
+msgstr[0] "生肠粉"
+
+#. ~ Description for {'str': 'raw fun', 'str_pl': 'raw fun'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Thin, very wide Chinese rice noodles, made from a thin batter, steamed into "
+"sheets then cut into wide strips."
+msgstr "薄而宽的中国米线，由稀面糊制成，蒸成薄片后切成宽条。"
+
+#: .\items\comestibles\wheat.json
+msgid "prepared couscous"
+msgid_plural "prepared couscous"
+msgstr[0] "熟古斯米"
+
+#. ~ Description for {'str': 'prepared couscous', 'str_pl': 'prepared
+#. couscous'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"Grain-like pasta cooked with broth. Delicious and filling, but not very "
+"nutritious."
+msgstr "用高汤煮熟的粒状意面。美味饱腹，但营养价值不高。"
+
+#: .\items\comestibles\wheat.json
+msgid "sooji halwa"
+msgid_plural "sooji halwas"
+msgstr[0] "粗麦粉哈尔瓦"
+
+#. ~ Description for {'str': 'sooji halwa', 'str_pl': 'sooji halwas'}
+#: .\items\comestibles\wheat.json
+msgid ""
+"An Indian sweet consisting of couscous fried in butter or ghee, then cooked "
+"with milk, sugar, and spices. Traditionally cut into diamond-shaped pieces."
+msgstr "一种印度甜点，将古斯米用黄油或酥油炒制，然后与牛奶、糖和香料一同烹煮。传统上切成菱形块。"
+
+#: .\items\melee\bludgeons.json
+msgid "rokushakubo"
+msgid_plural "rokushakubos"
+msgstr[0] "六尺棒"
+
+#. ~ Description for {'str': 'rokushakubo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 6 shaku (180cm) in length."
+msgstr "一根坚固的橡木长棍，长度为6尺（180厘米）。"
+
+#: .\items\melee\bludgeons.json
+msgid "jyo"
+msgid_plural "jyos"
+msgstr[0] "杖"
+
+#. ~ Description for {'str': 'jyo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 4 shaku (120cm) in length."
+msgstr "一根坚固的橡木长棍，长度为4尺（120厘米）。"
+
+#: .\items\melee\bludgeons.json
+msgid "hanbo"
+msgid_plural "hanbos"
+msgstr[0] "半棒"
+
+#. ~ Description for {'str': 'hanbo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 3 shaku (90cm) in length."
+msgstr "一根坚固的橡木短棍，长度为3尺（90厘米）。"
+
+#: .\items\melee\bludgeons.json
+msgid "tanbo"
+msgid_plural "tanbos"
+msgstr[0] "短棒"
+
+#. ~ Description for {'str': 'tanbo'}
+#: .\items\melee\bludgeons.json
+msgid "A sturdy oak staff 1 shaku (30cm) in length."
+msgstr "一根坚固的橡木短棍，长度为1尺（30厘米）。"
+
+#: .\items\melee\bludgeons.json
+msgid "dumbell bar"
+msgid_plural "dumbell bars"
+msgstr[0] "哑铃杆"
+
+#. ~ Description for {'str': 'dumbell bar'}
+#: .\items\melee\bludgeons.json
+msgid "A heavy solid steel bar from a dumbell, 20cm in length."
+msgstr "哑铃上的重型实心钢杆，长度为20厘米。"
+
+#: .\items\melee\bludgeons.json
+msgid "barbell bar"
+msgid_plural "barbell bars"
+msgstr[0] "杠铃杆"
+
+#. ~ Description for {'str': 'barbell bar'}
+#: .\items\melee\bludgeons.json
+msgid "A very heavy, solid steel bar from a barbell."
+msgstr "杠铃上非常沉重的实心钢杆。"
+
+#: .\items\melee\bludgeons.json
+msgid "hollow barbell bar"
+msgid_plural "hollow barbell bars"
+msgstr[0] "空心杠铃杆"
+
+#. ~ Description for {'str': 'hollow barbell bar'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A lightweight hollow steel bar from a cheap barbell, reinforced with sturdy "
+"plastic. As a weapon, it does little damage, but is very sturdy for its "
+"weight, is light and fast, and has a long reach."
+msgstr "廉价杠铃上的轻质空心钢杆，由坚固塑料加固。作为武器，它伤害较低，但以其重量而言非常坚固，轻便快速，且攻击范围长。"
+
+#: .\items\melee\bludgeons.json
+msgid "putting trainer"
+msgid_plural "putting trainers"
+msgstr[0] "推杆训练器"
+
+#. ~ Description for {'str': 'putting trainer'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A short section of a putter handle with a heavy weight on the end, for "
+"training golfing techniques. Essentially a fairly sturdy mace."
+msgstr "推杆手柄的一小段，末端带有重物，用于训练高尔夫技巧。本质上是一把相当坚固的钉头锤。"
+
+#: .\items\melee\bludgeons.json
+msgid "jitte"
+msgid_plural "jittes"
+msgstr[0] "十手"
+
+#. ~ Description for {'str': 'jitte'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"The 'ten hands' weapon. A steel rod with a disarming hook, used primarily by"
+" officers of the Edo police during the Edo period."
+msgstr "“十手”武器。一种带有卸械钩的钢棍，主要供江户时代的警察官员使用。"
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo"
+msgid_plural "tokushukeibos"
+msgstr[0] "特缩警棒"
+
+#. ~ Use action menu_text for {'str': 'tokushukeibo'}.
+#. ~ Use action menu_text for {'str': 'tokushukeibo jitte'}.
+#: .\items\melee\bludgeons.json
+msgid "Expand"
+msgstr "展开"
+
+#. ~ Use action msg for {'str': 'tokushukeibo'}.
+#. ~ Use action msg for {'str': 'tokushukeibo jitte'}.
+#: .\items\melee\bludgeons.json
+msgid "You snap open your tokushukeibo."
+msgstr "你啪地一声展开了特缩警棒。"
+
+#. ~ Description for {'str': 'tokushukeibo'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"Steel cobra, a telescoping lightweight spring steel rod with a weighted tip,"
+" that collapses for easy storage.  Makes an excellent melee weapon.  "
+"Activate to expand."
+msgstr "钢蛇，一种可伸缩的轻质弹簧钢杆，带有加重尖端，可折叠便于存放。是极佳的近战武器。激活以展开。"
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo (extended)"
+msgid_plural "tokushukeibo (extended)"
+msgstr[0] "特缩警棒（展开状态）"
+
+#. ~ Use action menu_text for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}.
+#. ~ Use action menu_text for {'str': 'tokushukeibo jitte (extended)',
+#. 'str_pl': 'tokushukeibo jitte (extended)'}.
+#: .\items\melee\bludgeons.json
+msgid "Collapse"
+msgstr "收缩"
+
+#. ~ Use action msg for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}.
+#. ~ Use action msg for {'str': 'tokushukeibo jitte (extended)', 'str_pl':
+#. 'tokushukeibo jitte (extended)'}.
+#: .\items\melee\bludgeons.json
+msgid "You collapse your tokushukeibo."
+msgstr "你收起了特缩警棒。"
+
+#. ~ Description for {'str': 'tokushukeibo (extended)', 'str_pl':
+#. 'tokushukeibo (extended)'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A steel cobra baton that collapses for easy storage.  Makes an excellent "
+"melee weapon.  Activate to collapse."
+msgstr "一种可折叠的钢制眼镜蛇警棍，便于收纳。是出色的近战武器。激活以折叠。"
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo jitte"
+msgid_plural "tokushukeibo jittes"
+msgstr[0] "特修警棍 十手"
+
+#. ~ Description for {'str': 'tokushukeibo jitte'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"Steel cobra, a telescoping lightweight spring steel rod with a weighted tip "
+"and a disarming hook, that collapses for easy storage.  Makes an excellent "
+"melee weapon.  Activate to expand."
+msgstr "钢制眼镜蛇，一种可伸缩的轻质弹簧钢杆，带有加重尖端和缴械钩，可折叠以便收纳。是出色的近战武器。激活以展开。"
+
+#: .\items\melee\bludgeons.json
+msgid "tokushukeibo jitte (extended)"
+msgid_plural "tokushukeibo jitte (extended)"
+msgstr[0] "特修警棍 十手（展开状态）"
+
+#. ~ Description for {'str': 'tokushukeibo jitte (extended)', 'str_pl':
+#. 'tokushukeibo jitte (extended)'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A steel cobra baton with a disarming hook, that collapses for easy storage."
+"  Makes an excellent melee weapon.  Activate to collapse."
+msgstr "一种带有缴械钩的钢制眼镜蛇警棍，可折叠以便收纳。是出色的近战武器。激活以折叠。"
+
+#: .\items\melee\bludgeons.json
+msgid "fake tessen"
+msgid_plural "fake tessens"
+msgstr[0] "仿制铁扇"
+
+#. ~ Description for {'str': 'fake tessen'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"An iron fan, a small steel bludgeon designed to resemble a folded hand fan, "
+"carried by Samurai in situations in which wearing a sword was not permitted."
+" This one is purely a weapon, and not functional as a fan."
+msgstr "一把铁扇，一种小型钢制钝器，设计成折叠手扇的形状，由武士在禁止佩剑的场合携带。此物纯粹是武器，不具备扇子的功能。"
+
+#: .\items\melee\bludgeons.json
+msgid "tessen"
+msgid_plural "tessens"
+msgstr[0] "铁扇"
+
+#. ~ Description for {'str': 'tessen'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"An iron fan, a rice paper hand fan with a sturdy steel frame and steel or "
+"bamboo ribs, carried by Samurai in situations in which wearing a sword was "
+"not permitted. This one is also functional as a fan."
+msgstr "一把铁扇，一把宣纸手扇，配有坚固的钢制框架和钢制或竹制扇骨，由武士在禁止佩剑的场合携带。此物也可作为扇子使用。"
+
+#: .\items\melee\bludgeons.json
+msgid "bonker"
+msgid_plural "bonkers"
+msgstr[0] "敲鱼棒"
+
+#. ~ Description for {'str': 'bonker'}
+#: .\items\melee\bludgeons.json
+msgid "A small wooden club for stunning fish."
+msgstr "一根用于击晕鱼类的小木棒。"
+
+#: .\items\melee\bludgeons.json
+msgid "manriki gusari"
+msgid_plural "manriki gusaris"
+msgstr[0] "万力锁链"
+
+#. ~ Description for {'str': 'manriki gusari'}
+#: .\items\melee\bludgeons.json
+msgid "A heavy steel chain with a weighted grip on each end."
+msgstr "一根沉重的钢链，两端各有一个加重的握柄。"
+
+#: .\items\melee\bludgeons.json
+msgid "keychain"
+msgid_plural "keychains"
+msgstr[0] "钥匙链"
+
+#. ~ Description for {'str': 'keychain'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A big, heavy bunch of keys on the end of a steel chain. Makes a fairly "
+"effective flail."
+msgstr "钢链末端挂着一大串沉重钥匙。是相当有效的连枷武器。"
+
+#: .\items\melee\bludgeons.json
+msgid "blackthorn stick"
+msgid_plural "blackthorn sticks"
+msgstr[0] "黑刺李手杖"
+
+#. ~ Description for {'str': 'blackthorn stick'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A walking stick made from a sapling of dense blackthorn or sloe wood, with a"
+" large knob at the top, that has been left to cure in a chimney.  A "
+"traditional Irish weapon derived from the shillelagh."
+msgstr "一根由致密黑刺李或黑刺李木幼树制成的手杖，顶部有一个大圆头，曾在烟囱中风干。这是一种源自爱尔兰短棍的传统爱尔兰武器。"
+
+#: .\items\melee\bludgeons.json
+msgid "synthetic blackthorn stick"
+msgid_plural "synthetic blackthorn sticks"
+msgstr[0] "合成黑刺李手杖"
+
+#. ~ Description for {'str': 'synthetic blackthorn stick'}
+#: .\items\melee\bludgeons.json
+msgid ""
+"A walking stick made from a sapling of dense blackthorn or sloe wood, with a"
+" large knob at the top, that has been left to cure in a chimney.  A "
+"traditional Irish weapon derived from the shillelagh. This is a synthetic "
+"one made from durable polymer, cheaper and more durable than a wooden one, "
+"but less effective as a weapon."
+msgstr ""
+"一根由致密黑刺李或黑刺李木幼树制成的手杖，顶部有一个大圆头，曾在烟囱中风干。这是一种源自爱尔兰短棍的传统爱尔兰武器。这是一把由耐用聚合物制成的合成品，比木制的更便宜、更耐用，但作为武器的效果稍差。"
+
+#: .\items\melee\spears_and_polearms.json
+msgid "guandao"
+msgid_plural "guandaos"
+msgstr[0] "关刀"
+
+#. ~ Description for {'str': 'guandao'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"This is a giant ancient Chinese battlefield polearm, named for its purported"
+" inventor, the legendary 3rd century general Guan Yu. Though it may have "
+"never existed, the original was thought to have weighed as much as 49kg, and"
+" required great strength to wield, but by the time of the earliest confirmed"
+" records of the weapon, the design had already shed much of its weight, "
+"while retaining its imposing size. This is a modern version, weighing in at "
+"10kg."
+msgstr ""
+"这是一种巨大的中国古代战场长柄武器，以其传说中的发明者——公元3世纪的传奇将领关羽命名。尽管它可能从未存在过，但据信原重可达49公斤，需要极大的力量才能挥舞；然而，到该武器最早的确切记载出现时，其设计已大幅减重，同时保留了其庞大的尺寸。这是一个现代版本，重10公斤。"
+
+#: .\items\melee\spears_and_polearms.json
+msgid "qinglong yanyuedao"
+msgid_plural "qinglong yanyuedaos"
+msgstr[0] "青龙偃月刀"
+
+#. ~ Description for {'str': 'qinglong yanyuedao'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"This is a giant ancient Chinese battlefield polearm, named for its purported"
+" inventor, the legendary 3rd century general Guan Yu. Though it may have "
+"never existed, the original was thought to have weighed as much as 49kg, and"
+" required great strength to wield, but by the time of the earliest confirmed"
+" records of the weapon, the design had already shed much of its weight, "
+"while retaining its imposing size. This is a faithful reproduction of Guan "
+"Yu's own weapon, the Qinglong Yanyuedao or Green Dragon Crescent Blade."
+msgstr ""
+"这是一种巨大的中国古代战场长柄武器，以其传说中的发明者——公元3世纪的传奇将领关羽命名。尽管它可能从未存在过，但据信原重可达49公斤，需要极大的力量才能挥舞；然而，到该武器最早的确切记载出现时，其设计已大幅减重，同时保留了其庞大的尺寸。这是对关羽本人的武器——青龙偃月刀的忠实复刻。"
+
+#: .\items\melee\spears_and_polearms.json
+msgid "bisento"
+msgid_plural "bisentos"
+msgstr[0] "眉尖刀"
+
+#. ~ Description for {'str': 'bisento'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"The Japanese equivalent of the guandao. Pretty much a direct copy of the "
+"guandao design, but forged with the same forging techniques that created the"
+" katana. Heftier than a modern guandao, the bisento requires considerable "
+"strength to wield, while techniques focus on keeping the blade in constant "
+"motion using the whole body, and using its weight to increase attacking "
+"power."
+msgstr ""
+"关刀的日本对应物。几乎是关刀设计的直接复制品，但采用了与打造武士刀相同的锻造技术。比现代关刀更重，眉尖刀需要相当大的力量才能挥舞，其技巧侧重于利用全身使刀锋保持持续运动，并利用其重量增加攻击力。"
+
+#: .\items\melee\spears_and_polearms.json
+msgid "dragon qiang"
+msgid_plural "dragon qiangs"
+msgstr[0] "龙枪"
+
+#. ~ Description for {'str': 'dragon qiang'}
+#: .\items\melee\spears_and_polearms.json
+msgid ""
+"A mythical Chinese spear, consisting of a solid steel, textured shaft with a"
+" diamond-shaped spear point. Equally effective at bashing and stabbing, but "
+"heavy and slow."
+msgstr "一种神话般的中国长枪，由实心钢制纹理枪杆和菱形枪尖组成。在打击和刺击方面同样有效，但沉重且缓慢。"
+
+#: .\items\melee\swords_and_blades.json
+msgid "grosse messer"
+msgid_plural "grosse messers"
+msgstr[0] "大砍刀"
+
+#. ~ Description for {'str': 'grosse messer'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A large single-edged two-handed sword from Germany, resembling an oversized "
+"kitchen knife. The name means Big Knife."
+msgstr "一种来自德国的大型单刃双手剑，形似一把超大号的菜刀。其名称意为“大刀”。"
+
+#: .\items\melee\swords_and_blades.json
+msgid "da dao"
+msgid_plural "da daos"
+msgstr[0] "大刀"
+
+#. ~ Description for {'str': 'da dao'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"This is a heavy two-handed Chinese ring-pommeled sabre with a short, wide "
+"blade and S crossguard. It hits almost as hard as a greatsword or claymore, "
+"but is much easier to use. The lack of reach is a disadvantage on the "
+"battlefield, but an advantage in tight spaces."
+msgstr ""
+"这是一把沉重的中国双手环首大刀，刀身短而宽，配有S形护手。其打击力几乎与巨剑或克莱莫剑相当，但更易于使用。攻击距离短是战场上的劣势，但在狭窄空间中是优势。"
+
+#: .\items\melee\swords_and_blades.json
+msgid "rebar sword"
+msgid_plural "rebar swords"
+msgstr[0] "钢筋剑"
+
+#. ~ Description for {'str': 'rebar sword'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A large, heavy sword-shaped cudgel forged from rebar, with a dull edge and "
+"sharp tip, and a flat disc or square crossguard."
+msgstr "一把由钢筋锻造的大型沉重剑形棍棒，刃口钝，尖端锋利，配有扁平圆盘或方形护手。"
+
+#: .\items\melee\swords_and_blades.json
+msgid "pudao"
+msgid_plural "pudao"
+msgstr[0] "朴刀"
+
+#. ~ Description for {'str': 'pudao', 'str_pl': 'pudao'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A Chinese long-handled sword with a single-edged curved blade, consisting of"
+" a dao blade attached to a medium length pole, extending its reach and "
+"increasing damage and attack speed with a minimal increase in weight."
+msgstr "一种中国长柄刀，单刃曲刀，由一把刀身连接到中等长度的杆上构成，延伸了攻击距离，并在重量增加最小的情况下提高了伤害和攻击速度。"
+
+#: .\items\melee\swords_and_blades.json
+msgid "nagamaki"
+msgid_plural "nagamaki"
+msgstr[0] "长卷"
+
+#. ~ Description for {'str': 'nagamaki', 'str_pl': 'nagamaki'}
+#: .\items\melee\swords_and_blades.json
+msgid ""
+"A long-handled tachi sword from Japan, likely evolved from the Chinese "
+"pudao, and the ancestor of the naginata."
+msgstr "一种来自日本的长柄太刀，可能由中国朴刀演变而来，是薙刀的前身。"
+
+#: .\items\tool\cooking.json
+msgid "fun pan"
+msgid_plural "fun pans"
+msgstr[0] "粉盘"
+
+#. ~ Description for {'str': 'fun pan'}
+#: .\items\tool\cooking.json
+msgid ""
+"A flat steaming pan, with a lid and an internal pan, for making sheets of "
+"rice noodles known as fun."
+msgstr "一个扁平的蒸盘，带有盖子和内盘，用于制作称为“粉”的米粉皮。"
+
+#: .\items\vehicle\wheel.json
+msgid "60 inch industrial off-road wheel"
+msgid_plural "60 inch industrial off-road wheels"
+msgstr[0] "60英寸工业越野车轮"
+
+#. ~ Description for {'str': '60 inch industrial off-road wheel'}
+#: .\items\vehicle\wheel.json
+msgid ""
+"A 60-inch diameter, wide off-road wheel, used in mining, forestry, and "
+"military transport."
+msgstr "一个直径60英寸的宽大越野车轮，用于采矿、林业和军事运输。"

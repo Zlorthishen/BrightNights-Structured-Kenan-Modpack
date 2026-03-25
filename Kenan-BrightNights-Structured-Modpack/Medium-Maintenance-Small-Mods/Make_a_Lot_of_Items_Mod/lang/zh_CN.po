@@ -1,0 +1,158 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Make_a_Lot_of_Items_Mod\n"
+"POT-Creation-Date: 2026-03-14 07:35+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\MLI_items.json
+msgid "Sitetron pot"
+msgid_plural "Sitetron pots"
+msgstr[0] "大容量锅"
+
+#. ~ Description for {'str': 'Sitetron pot'}
+#: .\MLI_items.json
+msgid ""
+"A larger pot than general household, you can cook many materials at the same"
+" time."
+msgstr "比一般家用锅更大，你可以同时烹饪多种材料。"
+
+#: .\MLI_items.json
+msgid "Large-scale pasta extruder"
+msgid_plural "Large-scale pasta extruders"
+msgstr[0] "大型意面挤出机"
+
+#. ~ Description for {'str': 'Large-scale pasta extruder'}
+#: .\MLI_items.json
+msgid ""
+"A pasta extruder that is larger than ordinary households, can make many "
+"pasta at once."
+msgstr "比普通家用更大的意面挤出机，可以一次制作大量意面。"
+
+#: .\MLI_items.json
+msgid "A set of glass bottle manufacturing molds"
+msgid_plural "A set of glass bottle manufacturing moldss"
+msgstr[0] "一套玻璃瓶制造模具"
+
+#. ~ Description for {'str': 'A set of glass bottle manufacturing molds'}
+#: .\MLI_items.json
+msgid ""
+"A set of molds and working tools that can efficiently produce glass products"
+" used in glass workshops."
+msgstr "一套模具和工作工具，可以高效生产玻璃工作坊使用的玻璃制品。"
+
+#: .\MLI_items.json
+msgid "Glass studio manual"
+msgid_plural "Glass studio manual"
+msgstr[0] "玻璃工作室手册"
+
+#. ~ Description for {'str': 'Glass studio manual', 'str_pl': 'Glass studio
+#. manual'}
+#: .\MLI_items.json
+msgid ""
+"Work manual of the glass workshop, and a method of manufacturing an "
+"efficient glass product are described."
+msgstr "玻璃工作坊的工作手册，描述了高效制造玻璃制品的方法。"
+
+#: .\MLI_items.json
+msgid "Search Map"
+msgid_plural "Search Maps"
+msgstr[0] "搜索地图"
+
+#. ~ Use action message for {'str': 'Search Map'}.
+#: .\MLI_items.json
+msgid "You add roads and tourist attractions to your map."
+msgstr "你在地图上添加了道路和旅游景点。"
+
+#. ~ Description for {'str': 'Search Map'}
+#: .\MLI_items.json
+msgid "Quickly add additional map position"
+msgstr "快速添加额外地图位置"
+
+#: .\MLI_overmap_terrain.json .\MLI_start_location.json
+msgid "Pasta restaurant"
+msgstr "意面餐厅"
+
+#: .\MLI_overmap_terrain.json .\MLI_start_location.json
+msgid "Glass workshop"
+msgstr "玻璃工作坊"
+
+#. ~ Name for scenario 'At that time, I was eating pasta' for a male character
+#: .\MLI_scenario.json
+msgctxt "scenario_male"
+msgid "At that time, I was eating pasta"
+msgstr "那时，我正在吃意面"
+
+#. ~ Name for scenario 'At that time, I was eating pasta' for a female
+#. character
+#: .\MLI_scenario.json
+msgctxt "scenario_female"
+msgid "At that time, I was eating pasta"
+msgstr "那时，我正在吃意面"
+
+#. ~ Description for scenario 'At that time, I was eating pasta' for a male
+#. character.
+#: .\MLI_scenario.json
+msgctxt "scen_desc_male"
+msgid "An outbreak occurred when pasta was enjoyed at a pasta restaurant."
+msgstr "疫情爆发时，人们正在意面餐厅享用意面。"
+
+#. ~ Description for scenario 'At that time, I was eating pasta' for a female
+#. character.
+#: .\MLI_scenario.json
+msgctxt "scen_desc_female"
+msgid "An outbreak occurred when pasta was enjoyed at a pasta restaurant."
+msgstr "疫情爆发时，人们正在意面餐厅享用意面。"
+
+#. ~ Starting location for scenario 'At that time, I was eating pasta'.
+#: .\MLI_scenario.json
+msgctxt "start_name"
+msgid "Pasta restaurant"
+msgstr "意面餐厅"
+
+#. ~ Name for scenario 'Watching the glass workshop' for a male character
+#: .\MLI_scenario.json
+msgctxt "scenario_male"
+msgid "Watching the glass workshop"
+msgstr "观察玻璃工作坊"
+
+#. ~ Name for scenario 'Watching the glass workshop' for a female character
+#: .\MLI_scenario.json
+msgctxt "scenario_female"
+msgid "Watching the glass workshop"
+msgstr "观察玻璃工作坊"
+
+#. ~ Description for scenario 'Watching the glass workshop' for a male
+#. character.
+#: .\MLI_scenario.json
+msgctxt "scen_desc_male"
+msgid "An outbreak occurred while observing the glass workshop."
+msgstr "疫情爆发时，人们正在观察玻璃工作坊。"
+
+#. ~ Description for scenario 'Watching the glass workshop' for a female
+#. character.
+#: .\MLI_scenario.json
+msgctxt "scen_desc_female"
+msgid "An outbreak occurred while observing the glass workshop."
+msgstr "疫情爆发时，人们正在观察玻璃工作坊。"
+
+#. ~ Starting location for scenario 'Watching the glass workshop'.
+#: .\MLI_scenario.json
+msgctxt "start_name"
+msgid "Glass workshop"
+msgstr "玻璃工作坊"
+
+#: .\modinfo.json
+msgid "Make a Lot of Items"
+msgstr "制造大量物品"
+
+#. ~ Description for Make a Lot of Items
+#: .\modinfo.json
+msgid ""
+"Adds a pasta restaurant and easier batch crafting options for pasta along "
+"with glass jars and such"
+msgstr "添加一个意面餐厅，以及更简便的意面批量制作选项，还有玻璃罐等物品。"

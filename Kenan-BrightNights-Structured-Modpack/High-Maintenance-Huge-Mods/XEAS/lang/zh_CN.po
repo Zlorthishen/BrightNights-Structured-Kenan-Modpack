@@ -1,0 +1,103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: XEAS\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\Bag.json
+msgid "xeas bag"
+msgid_plural "xeas bags"
+msgstr[0] "xeas袋"
+
+#. ~ Description for {'str': 'xeas bag'}
+#: .\Bag.json
+msgid "Small lace bag. But large inside!"
+msgstr "小型蕾丝袋。但内部空间很大！"
+
+#: .\Boot.json
+msgid "pair of xeas boot"
+msgid_plural "pairs of xeas boots"
+msgstr[0] "xeas靴子"
+
+#. ~ Description for {'str': 'pair of xeas boot', 'str_pl': 'pairs of xeas
+#. boots'}
+#: .\Boot.json
+msgid "A pair of experimental mix multilayer boots."
+msgstr "一双实验性混合多层靴子。"
+
+#: .\Gloves.json
+msgid "pair of xeas gloves"
+msgid_plural "pairs of xeas gloves"
+msgstr[0] "xeas手套"
+
+#. ~ Description for {'str': 'pair of xeas gloves', 'str_pl': 'pairs of xeas
+#. gloves'}
+#: .\Gloves.json
+msgid "A pair of xeas experimental mix multilayer gloves."
+msgstr "一双xeas实验性混合多层手套。"
+
+#: .\Helmet.json
+msgid "xeas helmet"
+msgid_plural "xeas helmets"
+msgstr[0] "xeas头盔"
+
+#. ~ Description for {'str': 'xeas helmet'}
+#: .\Helmet.json
+msgid "A experimental mix multilayer helmet."
+msgstr "一项实验性混合多层头盔。"
+
+#: .\Mask.json
+msgid "xeas mask"
+msgid_plural "xeas masks"
+msgstr[0] "xeas面罩"
+
+#. ~ Description for xeas mask
+#: .\Mask.json
+msgid ""
+"A experimental, mix multilayer reinforced gas mask. Provides excellent "
+"protection from smoke, teargas, and claws. It must be prepared before use."
+msgstr "一项实验性、混合多层加固防毒面具。提供出色的烟雾、催泪瓦斯和爪击防护。使用前必须准备。"
+
+#: .\Suit.json
+msgid "xeas suit"
+msgid_plural "xeas suits"
+msgstr[0] "xeas套装"
+
+#. ~ Description for {'str': 'xeas suit'}
+#: .\Suit.json
+msgid ""
+"A lightweight, experimental mix multilayer armor made from. Protects from "
+"the elements as well as from harm."
+msgstr "一套轻量级、实验性混合多层装甲，由...制成。既能抵御环境因素，也能防护伤害。"
+
+#: .\Weapon.json
+msgid "xeas knife"
+msgid_plural "xeas knives"
+msgstr[0] "xeas刀"
+
+#. ~ Description for {'str': 'xeas knife', 'str_pl': 'xeas knives'}
+#: .\Weapon.json
+msgid ""
+"Ultra hi-tech, ultra light experimental knife. Does never get damaged when "
+"used as melee weapon."
+msgstr "超高科技、超轻量实验性刀具。用作近战武器时永不损坏。"
+
+#: .\modinfo.json
+msgid "XEAS"
+msgstr "XEAS"
+
+#. ~ Description for XEAS
+#: .\modinfo.json
+msgid ""
+"Adds new Xeno-Adapted Stuff. Close to hi-tech content. Includes an armor set"
+" (slightly better protection than survival armor, less encumbrance), a new "
+"knife (better butchering, impression damage) and a vortex bag (120 L, tiny "
+"size, no encumbrance). Craft recipes are in vanilla lab journal. High price "
+"in terms of money. Late game content!"
+msgstr ""
+"新增异形适应装备。接近高科技内容。包括一套装甲（防护略优于生存装甲，负重更轻）、一把新刀（更好的屠宰效果，印象伤害）和一个涡流袋（120升容量，极小尺寸，无负重）。制作配方在原版实验室日志中。价格高昂。属于后期游戏内容！"

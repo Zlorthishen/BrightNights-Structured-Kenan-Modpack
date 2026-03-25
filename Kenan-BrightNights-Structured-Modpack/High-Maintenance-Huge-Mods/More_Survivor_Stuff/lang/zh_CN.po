@@ -1,0 +1,1103 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: more_survivor_stuff\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\martialarts.json
+msgid "Survivor Sledge-Fu"
+msgstr "幸存者大锤功夫"
+
+#. ~ Description for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You have started to become rather proficient in handling heavy weaponry. "
+"Sledge-Fu allows you to bully an opponent using your strength until the "
+"right moment presents itself to swing your weapon properly for a killing "
+"blow."
+msgstr "你已经开始相当熟练地使用重型武器。大锤功夫让你能够利用力量压制对手，直到合适的时机出现，再挥动武器给予致命一击。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid "You roll your neck and get ready to shatter your enemies."
+msgstr "你转动脖子，准备粉碎你的敌人。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s rolls their neck menacingly."
+msgstr "%s 威胁性地转动脖子。"
+
+#: .\martialarts.json
+msgid "Intimidating Figure"
+msgstr "威慑形象"
+
+#. ~ Description of buff 'Intimidating Figure' for martial art '{'str':
+#. 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"No man, machine or monstrosity can get through you and your strength. \n"
+"\n"
+"+2 Block attempts, -3.0 Dodge skill, blocked damage reduced by 70%% of Strength."
+msgstr ""
+"没有人、机器或怪物能够突破你和你的力量。\n"
+"\n"
+"+2 格挡尝试，-3.0 闪避技能，格挡伤害减少 70%% 的力量值。"
+
+#: .\martialarts.json
+msgid "Moving Bulk"
+msgstr "移动巨躯"
+
+#. ~ Description of buff 'Moving Bulk' for martial art '{'str': 'Survivor
+#. Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Moving your weight around makes it hard to take hits strategically, but it does prove useful for extra swing speed. \n"
+"\n"
+"-2 Block attempts, blocked damage increased by 70%% of Strength.\n"
+"+10%% bonus to bashing damage.\n"
+"Lasts 1 turn."
+msgstr ""
+"移动你的体重使得难以策略性地承受攻击，但这确实对额外的挥击速度很有用。\n"
+"\n"
+"-2 格挡尝试，格挡伤害增加 70%% 的力量值。\n"
+"+10%% 的打击伤害加成。\n"
+"持续 1 回合。"
+
+#: .\martialarts.json
+msgid "Eager For Contact"
+msgstr "渴望接触"
+
+#. ~ Description of buff 'Eager For Contact' for martial art '{'str':
+#. 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You dodged. Next time, you'll take the hit and make them pay properly. \n"
+"\n"
+"-3.0 Dodge skill\n"
+"Lasts 3 turns.  Stacks 3 times."
+msgstr ""
+"你闪避了。下次，你会承受攻击并让他们付出应有的代价。\n"
+"\n"
+"-3.0 闪避技能\n"
+"持续 3 回合。可叠加 3 次。"
+
+#: .\martialarts.json
+msgid "Survivor Flail-Fu"
+msgstr "幸存者链枷功夫"
+
+#. ~ Description for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You have started to become very proficient in handling heavy weaponry. "
+"Flail-Fu lets you redirect opponents as the chain wishes, or whirl the head "
+"for a heavy blow."
+msgstr "你已经开始非常熟练地使用重型武器。链枷功夫让你能够根据链条的意愿引导对手，或者旋转头部进行重击。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+msgid "You grip your flail confidently and start swaying the chain."
+msgstr "你自信地握住链枷，开始摆动链条。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s grips their flail and sways the chain idly."
+msgstr "%s 握住链枷，随意地摆动着链条。"
+
+#: .\martialarts.json
+msgid "Metal Must Flow"
+msgstr "金属必须流动"
+
+#. ~ Description of buff 'Metal Must Flow' for martial art '{'str': 'Survivor
+#. Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Your flail must keep spinning at all costs. \n"
+"\n"
+"+1.0 Dodge skill"
+msgstr ""
+"你的链枷必须不惜一切代价保持旋转。\n"
+"\n"
+"+1.0 闪避技能"
+
+#: .\martialarts.json
+msgid "Swift Mass"
+msgstr "迅捷质量"
+
+#. ~ Description of buff 'Swift Mass' for martial art '{'str': 'Survivor
+#. Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Dodging an attack only quickens your weapon!\n"
+"\n"
+"+10%% bashing damage.\n"
+"Enables \"Stunning Blow\" technique.\n"
+"Lasts 1 turns.  Stacks 3 times."
+msgstr ""
+"闪避攻击只会让你的武器更快！\n"
+"\n"
+"+10%% 打击伤害。\n"
+"启用“眩晕打击”技巧。\n"
+"持续 1 回合。可叠加 3 次。"
+
+#: .\martialarts.json
+msgid "Survivor Glove-Fu"
+msgstr "幸存者手套功夫"
+
+#. ~ Description for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You're not unused to the concept of killing things with your own hands. "
+"Glove-Fu lets you show the Zs the real definition of a smackdown with "
+"unrelenting, heavy hitting powercombos."
+msgstr "你并不陌生于用自己的双手杀死东西的概念。手套功夫让你能够向僵尸展示什么是真正的重击，通过持续不断的强力连击。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid "You assume a sturdy stance and keep one arm cocked and loaded."
+msgstr "你采取稳固的站姿，并将一只手臂蓄势待发。"
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s assumes a sturdy stance and keeps an arm ready."
+msgstr "%s 采取稳固的站姿，并保持一只手臂准备就绪。"
+
+#: .\martialarts.json
+msgid "Ready"
+msgstr "准备就绪"
+
+#. ~ Description of buff 'Ready' for martial art '{'str': 'Survivor Glove-
+#. Fu'}'
+#: .\martialarts.json
+msgid ""
+"You're ready. Your fighting implements are ready. They always will be. \n"
+"\n"
+"+2 Block attempts, -1.0 Dodge skill, blocked damage reduced by 50%% of Strength."
+msgstr ""
+"你已准备就绪。你的战斗工具也已就绪。它们永远都会如此。\n"
+"\n"
+"+2次格挡尝试，-1.0点闪避技能，格挡伤害减少力量值的50%。"
+
+#: .\martialarts.json
+msgid "Eager For Smackdown"
+msgstr "渴望痛击"
+
+#. ~ Description of buff 'Eager For Smackdown' for martial art '{'str':
+#. 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You dodged. Next time, you'll take the hit so you can begin the smackdown. \n"
+"\n"
+"-3.0 Dodge skill\n"
+"Lasts 3 turns.  Stacks 3 times."
+msgstr ""
+"你闪避了。下一次，你将承受攻击以便开始痛击。\n"
+"\n"
+"-3.0点闪避技能\n"
+"持续3回合。可叠加3次。"
+
+#: .\modinfo.json
+msgid "More Survivor Stuff"
+msgstr "更多幸存者物品"
+
+#. ~ Description for More Survivor Stuff
+#: .\modinfo.json
+msgid "Adds more variety to survivor equipment, styles, crafts etc."
+msgstr "为幸存者的装备、风格、制作等增添更多多样性。"
+
+#: .\techniques.json
+msgid "Lovetap"
+msgstr "轻击"
+
+#: .\techniques.json
+#, c-format
+msgid "You thrust your weapon at %s"
+msgstr "你将武器刺向%s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> thrusts their weapon at %s"
+msgstr "<npcname>将武器刺向%s"
+
+#: .\techniques.json
+msgid "Slam Jab"
+msgstr "猛力刺击"
+
+#: .\techniques.json
+#, c-format
+msgid "You jab powerfully at %s with your weapon"
+msgstr "你用武器猛力刺向%s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> jabs powerfully at %s with their weapon"
+msgstr "<npcname>用武器猛力刺向%s"
+
+#: .\techniques.json
+msgid "Gutbuster"
+msgstr "破腹者"
+
+#: .\techniques.json
+#, c-format
+msgid "You slam the end of your weapon into %s and drive them back"
+msgstr "你将武器末端猛击进%s体内并将其击退"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> slams the end of their weapon into %s and drives them back"
+msgstr "<npcname>将武器末端猛击进%s体内并将其击退"
+
+#: .\techniques.json
+msgid "Block And Bash"
+msgstr "格挡猛击"
+
+#: .\techniques.json
+#, c-format
+msgid "You parry and headbutt %s"
+msgstr "你招架并用头撞向%s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> parries and headbutts %s"
+msgstr "<npcname>招架并用头撞向%s"
+
+#: .\techniques.json
+msgid "Violent Shove"
+msgstr "暴力推搡"
+
+#: .\techniques.json
+#, c-format
+msgid "You violently shove at %s, sending them staggering"
+msgstr "你暴力推搡%s，使其踉跄后退"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> violently shoves at %s, sending them staggering"
+msgstr "<npcname>暴力推搡%s，使其踉跄后退"
+
+#: .\techniques.json
+msgid "Flying Blow"
+msgstr "飞身重击"
+
+#: .\techniques.json
+#, c-format
+msgid "You swing directly into %s, making them soar through the air"
+msgstr "你直接挥击%s，使其腾空飞起"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> swings directly into %s, making them soar through the air"
+msgstr "<npcname>直接挥击%s，使其腾空飞起"
+
+#: .\techniques.json
+msgid "Grab Break"
+msgstr "挣脱抓取"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you shove their grasp away!"
+msgstr "%s试图抓住你，但你将其抓握推开！"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they shove their grasp away!"
+msgstr "%s试图抓住<npcname>，但被其将抓握推开！"
+
+#: .\techniques.json
+msgid "Swing For The Fences"
+msgstr "全力挥击"
+
+#: .\techniques.json
+#, c-format
+msgid "You miss %s, but keep the momentum going."
+msgstr "你未击中%s，但保持了攻击势头。"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> misses %s, but keeps the momentum going."
+msgstr "<npcname>未击中%s，但保持了攻击势头。"
+
+#: .\techniques.json
+msgid "Directed Force"
+msgstr "定向发力"
+
+#: .\techniques.json
+#, c-format
+msgid "You direct your flail into %s"
+msgstr "你将连枷挥向 %s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> directs their flail into %s"
+msgstr "<npcname> 将连枷挥向 %s"
+
+#: .\techniques.json
+msgid "Stunning Blow"
+msgstr "眩晕打击"
+
+#: .\techniques.json
+#, c-format
+msgid "You stun %s with a deft blow"
+msgstr "你一记巧妙的打击眩晕了 %s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stuns %s with a deft blow"
+msgstr "<npcname> 一记巧妙的打击眩晕了 %s"
+
+#: .\techniques.json
+msgid "Heavy Blow"
+msgstr "重击"
+
+#: .\techniques.json
+#, c-format
+msgid "You overwhelm and concuss %s with a heavy blow"
+msgstr "你一记重击压制并震晕了 %s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> hits %s with a heavy blow"
+msgstr "<npcname> 一记重击打中了 %s"
+
+#: .\techniques.json
+msgid "Swing And Fling"
+msgstr "挥击抛掷"
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s and swing them around yourself"
+msgstr "你缠住 %s 并绕着自己挥舞"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and swings them around"
+msgstr "<npcname> 缠住 %s 并绕着自己挥舞"
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s hard and swing them away"
+msgstr "你用力缠住 %s 并将其甩开"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and swings them away"
+msgstr "<npcname> 缠住 %s 并将其甩开"
+
+#: .\techniques.json
+msgid "Kick Over"
+msgstr "踢翻"
+
+#: .\techniques.json
+#, c-format
+msgid "You shove over %s and strike at their exposed back"
+msgstr "你推倒 %s 并攻击其暴露的后背"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> shoves over %s and strikes at them"
+msgstr "<npcname> 推倒 %s 并攻击他们"
+
+#: .\techniques.json
+msgid "Wrapped Trip"
+msgstr "缠绕绊摔"
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s and pull them to the ground"
+msgstr "你缠住 %s 并将其拉倒在地"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and pulls them down"
+msgstr "<npcname> 缠住 %s 并将其拉倒"
+
+#: .\techniques.json
+msgid "Continued Mass"
+msgstr "持续质量"
+
+#: .\techniques.json
+#, c-format
+msgid "You miss %s, but your flail cares not and keeps swinging."
+msgstr "你未击中 %s，但你的连枷毫不在意，继续挥舞。"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> misses %s, but their flail keeps spinning."
+msgstr "<npcname> 未击中 %s，但他们的连枷继续旋转。"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you wrench their grip off!"
+msgstr "%s 试图抓住你，但你挣脱了他们的抓握！"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they wrench their grip off!"
+msgstr "%s 试图抓住 <npcname>，但他们挣脱了抓握！"
+
+#: .\techniques.json
+msgid "Stop And Smack"
+msgstr "停手猛击"
+
+#: .\techniques.json
+#, c-format
+msgid "You stop %s's attack and throw a violent haymaker"
+msgstr "你阻止了 %s 的攻击并挥出一记猛烈的重拳"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stops %s's attack and throws a violent haymaker"
+msgstr "<npcname> 阻止了 %s 的攻击并挥出一记猛烈的重拳"
+
+#: .\techniques.json
+msgid "Stop And Smackdown"
+msgstr "停手痛击"
+
+#: .\techniques.json
+#, c-format
+msgid "You stop %s's attack and knock them into next week"
+msgstr "你阻止了 %s 的攻击并将其打得晕头转向"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stops %s's attack and knocks them into next week"
+msgstr "<npcname> 阻止了 %s 的攻击并将其打得晕头转向"
+
+#: .\techniques.json
+msgid "Bodyshot Knockback"
+msgstr "躯干击退"
+
+#: .\techniques.json
+#, c-format
+msgid "You throw a breath-robbing bodyshot at %s and follow through"
+msgstr "你向%s打出一记令人窒息的躯干重击并持续跟进"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> throws a breath-robbing bodyshot at %s and follows through"
+msgstr "<npcname>向%s打出一记令人窒息的躯干重击并持续跟进"
+
+#: .\techniques.json
+msgid "Debilitating Bodyshot Knockback"
+msgstr "致残躯干击退"
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"You throw a breath-robbing bodyshot at %s, and run after them as they "
+"stumble"
+msgstr "你向%s打出一记令人窒息的躯干重击，并在其踉跄时追击"
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"<npcname> throws a breath-robbing bodyshot at %s and runs after them as they"
+" stumble"
+msgstr "<npcname>向%s打出一记令人窒息的躯干重击，并在其踉跄时追击"
+
+#: .\techniques.json
+msgid "Bodyshot"
+msgstr "躯干重击"
+
+#: .\techniques.json
+#, c-format
+msgid "You throw a rib-cracking bodyshot at %s"
+msgstr "你向%s打出一记肋骨碎裂的躯干重击"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> throws a rib-cracking bodyshot at %s"
+msgstr "<npcname>向%s打出一记肋骨碎裂的躯干重击"
+
+#: .\techniques.json
+msgid "Debilitating Bodyshot Combo"
+msgstr "致残躯干连击"
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"You throw a rib-shattering bodyshot at %s, and immediately follow with a "
+"skullcracking strike"
+msgstr "你向%s打出一记肋骨粉碎的躯干重击，并立即接上一记碎颅打击"
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"<npcname> throws a rib-shattering bodyshot at %s and immediately follows "
+"with a skullcracking strike"
+msgstr "<npcname>向%s打出一记肋骨粉碎的躯干重击，并立即接上一记碎颅打击"
+
+#: .\techniques.json
+msgid "Knockout"
+msgstr "击倒"
+
+#: .\techniques.json
+#, c-format
+msgid "You punch %s straight to the ground, dazing them further"
+msgstr "你将%s一拳打倒在地，使其更加眩晕"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> punches %s straight to the ground, dazing them further"
+msgstr "<npcname>将%s一拳打倒在地，使其更加眩晕"
+
+#: .\techniques.json
+msgid "Smackdown"
+msgstr "猛击"
+
+#: .\techniques.json
+#, c-format
+msgid "You mulch %s's head into the ground with a rabid attack"
+msgstr "你以狂暴的攻击将%s的头颅碾入地面"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> mulches %s's head into the ground with a rabid attack"
+msgstr "<npcname>以狂暴的攻击将%s的头颅碾入地面"
+
+#: .\techniques.json
+msgid "Life-ending Smackdown"
+msgstr "终结猛击"
+
+#: .\techniques.json
+#, c-format
+msgid "You maim %s's head against the ground with all your might"
+msgstr "你竭尽全力将%s的头颅砸向地面致其重伤"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> maims %s's head against the ground with all their might"
+msgstr "<npcname>竭尽全力将%s的头颅砸向地面致其重伤"
+
+#: .\techniques.json
+msgid "Wallbash"
+msgstr "撞墙"
+
+#: .\techniques.json
+#, c-format
+msgid "You grab %s and bash them into a nearby wall"
+msgstr "你抓住%s并将其猛撞向附近的墙壁"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> grabs %s and bashes them into a nearby wall"
+msgstr "<npcname>抓住%s并将其猛撞向附近的墙壁"
+
+#: .\techniques.json
+msgid "Lurch"
+msgstr "踉跄"
+
+#: .\techniques.json
+#, c-format
+msgid "You tense up at %s."
+msgstr "你对着%s绷紧了身体。"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> tenses up at %s."
+msgstr "<npcname>对着%s绷紧了身体。"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you shove them off!"
+msgstr "%s试图抓住你，但你将其推开了！"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they shove them off!"
+msgstr "%s试图抓住<npcname>，但被其推开了！"
+
+#: .\tool_qualities.json
+msgid "lathing"
+msgstr "车削"
+
+#: .\items\armor.json
+msgid "pair of extra-light survivor gloves"
+msgid_plural "pairs of extra-light survivor gloves"
+msgstr[0] "一双超轻型幸存者手套"
+
+#. ~ Description for {'str': 'pair of extra-light survivor gloves', 'str_pl':
+#. 'pairs of extra-light survivor gloves'}
+#: .\items\armor.json
+msgid ""
+"A pair of very light Kevlar-lined cloth gloves, modified to be as easy to "
+"wear as normal gloves while providing considerable protection under rough "
+"conditions."
+msgstr "一双非常轻便的凯夫拉衬里布手套，经过改良，穿戴起来如同普通手套一样轻松，同时在恶劣环境下提供可观的保护。"
+
+#: .\items\armor.json
+msgid "pair of extra-light survivor boots"
+msgid_plural "pairs of extra-light survivor boots"
+msgstr[0] "一双超轻型幸存者靴子"
+
+#. ~ Description for {'str': 'pair of extra-light survivor boots', 'str_pl':
+#. 'pairs of extra-light survivor boots'}
+#: .\items\armor.json
+msgid ""
+"A pair of very light Kevlar-lined cloth boots, modified to provide "
+"considerable protection from harm, even when ankle-deep in the dead."
+msgstr "一双非常轻便的凯夫拉衬里布靴，经过改良，即使深陷尸群也能提供可观的伤害防护。"
+
+#: .\items\armor.json
+msgid "light survivor helmet"
+msgid_plural "light survivor helmets"
+msgstr[0] "轻型幸存者头盔"
+
+#. ~ Description for {'str': 'light survivor helmet'}
+#: .\items\armor.json
+msgid ""
+"A customized, Kevlar-armored helmet, modified with leather reinforcements to"
+" provide maximum comfort and considerable protection from harm given the "
+"weight."
+msgstr "一款定制的凯夫拉装甲头盔，采用皮革加固改良，在保证重量的前提下提供最大舒适度和可观的伤害防护。"
+
+#: .\items\armor.json
+msgid "extra-light survivor mask"
+msgid_plural "extra-light survivor masks"
+msgstr[0] "超轻型幸存者面罩"
+
+#. ~ Description for {'str': 'extra-light survivor mask'}
+#: .\items\armor.json
+msgid ""
+"A custom-built, Kevlar-lined gas mask that covers the face and eyes.  "
+"Provides excellent protection from smoke and teargas, and considerable "
+"protection from shrapnel.  It must be prepared before use."
+msgstr "一款定制、凯夫拉衬里的防毒面具，覆盖面部和眼睛。对烟雾和催泪瓦斯提供极佳防护，对弹片也有可观保护。使用前必须准备。"
+
+#: .\items\armor.json
+msgid "extra-light survivor hood"
+msgid_plural "extra-light survivor hoods"
+msgstr[0] "超轻型幸存者兜帽"
+
+#. ~ Description for {'str': 'extra-light survivor hood'}
+#: .\items\armor.json
+msgid ""
+"A customized Kevlar-lined cloth hood, very light and considerably durable."
+msgstr "一款定制的凯夫拉衬里布兜帽，非常轻便且相当耐用。"
+
+#: .\items\armor.json
+msgid "extra-light survivor suit"
+msgid_plural "extra-light survivor suits"
+msgstr[0] "超轻型幸存者套装"
+
+#. ~ Description for {'str': 'extra-light survivor suit'}
+#: .\items\armor.json
+msgid ""
+"A very lightweight Kevlar-lined jumpsuit, nearly as easy to move in as if it"
+" were just cotton. Protects from the elements as well as from some harm."
+msgstr "一件非常轻便的凯夫拉衬里连体服，活动起来几乎像纯棉一样自如。既能抵御恶劣天气，也能提供一定的伤害防护。"
+
+#: .\items\armor.json
+msgid "pair of superheavy survivor gloves"
+msgid_plural "pairs of superheavy survivor gloves"
+msgstr[0] "一双超重型幸存者手套"
+
+#. ~ Description for {'str': 'pair of superheavy survivor gloves', 'str_pl':
+#. 'pairs of superheavy survivor gloves'}
+#: .\items\armor.json
+msgid ""
+"A pair of extreme, heavily customized, steel-plated armored Kevlar gloves, "
+"modified to provide maximum protection under extreme conditions. Mobility "
+"comes second."
+msgstr "一双极致、高度定制的钢板装甲凯夫拉手套，经过改良，在极端条件下提供最大防护。机动性次之。"
+
+#: .\items\armor.json
+msgid "pair of superheavy survivor boots"
+msgid_plural "pairs of superheavy survivor boots"
+msgstr[0] "一双超重型幸存者靴子"
+
+#. ~ Description for {'str': 'pair of superheavy survivor boots', 'str_pl':
+#. 'pairs of superheavy survivor boots'}
+#: .\items\armor.json
+msgid ""
+"A pair of extreme, customized kevlar boots, heavily armored with steel and "
+"modified to provide maximum protection from serious harm, even when knee-"
+"deep in hell itself."
+msgstr "一双极致、定制的凯夫拉靴，采用重型钢板装甲改良，即使深陷地狱也能提供最大程度的严重伤害防护。"
+
+#: .\items\armor.json
+msgid "superheavy survivor helmet"
+msgid_plural "superheavy survivor helmets"
+msgstr[0] "超重型幸存者头盔"
+
+#. ~ Description for {'str': 'superheavy survivor helmet'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, heavily armored steel and kevlar helmet, modified"
+" to provide protection from even the most extreme harm."
+msgstr "一款极其定制、重型装甲的钢和凯夫拉头盔，经过改良，能防护最极端的伤害。"
+
+#: .\items\armor.json
+msgid "superheavy survivor mask"
+msgid_plural "superheavy survivor masks"
+msgstr[0] "超重型幸存者面罩"
+
+#. ~ Description for {'str': 'superheavy survivor mask'}
+#: .\items\armor.json
+msgid ""
+"A custom-built, tri-filter steel gas mask that covers the face and eyes.  "
+"Provides beyond excellent protection from smoke, teargas, and shrapnel.  It "
+"must be prepared before use."
+msgstr "一款定制、三滤芯钢制防毒面具，覆盖面部和眼睛。对烟雾、催泪瓦斯和弹片提供超乎寻常的防护。使用前必须准备。"
+
+#: .\items\armor.json
+msgid "heavy survivor hood"
+msgid_plural "heavy survivor hoods"
+msgstr[0] "重型幸存者兜帽"
+
+#. ~ Description for {'str': 'heavy survivor hood'}
+#: .\items\armor.json
+msgid ""
+"A heavily customized, heavily armored steel, leather and kevlar hood, "
+"designed to provide maximum protection from harm."
+msgstr "一款高度定制、重型装甲的钢、皮革和凯夫拉兜帽，旨在提供最大伤害防护。"
+
+#: .\items\armor.json
+msgid "superheavy survivor suit"
+msgid_plural "superheavy survivor suits"
+msgstr[0] "超重型幸存者套装"
+
+#. ~ Description for {'str': 'superheavy survivor suit'}
+#: .\items\armor.json
+msgid ""
+"An extreme, hand-built combination armor made from a steel-reinforced "
+"bulletproof vest and thick metal plates attached to leather to cover the "
+"limbs.  Protects from the elements as well as from serious harm, for those "
+"who want to push the limits of unpowered armor."
+msgstr ""
+"一套极致、手工打造的组合装甲，由钢加固防弹背心和厚金属板附着在皮革上覆盖四肢制成。既能抵御恶劣天气，也能防护严重伤害，适合那些想挑战无动力装甲极限的人。"
+
+#: .\items\armor.json
+msgid "heavy survivor leather robe"
+msgid_plural "heavy survivor leather robes"
+msgstr[0] "重型幸存者皮革长袍"
+
+#. ~ Description for {'str': 'heavy survivor leather robe'}
+#: .\items\armor.json
+msgid ""
+"A full-size, full-thickness, solidly and lovingly sewn leather robe meant to"
+" be worn over other clothes. It has no pockets, to maximize protection. "
+"While very, very heavy and encumbering, it protects well from serious harm."
+msgstr ""
+"一件全尺寸、全厚度、结实且精心缝制的皮革长袍，设计用于穿在其他衣物外。没有口袋，以最大化防护。虽然非常沉重且妨碍行动，但对严重伤害防护良好。"
+
+#: .\items\armor.json
+msgid "survivor rubber undersuit"
+msgid_plural "survivor rubber undersuit"
+msgstr[0] "幸存者橡胶内衬服"
+
+#. ~ Description for {'str_sp': 'survivor rubber undersuit'}
+#: .\items\armor.json
+msgid ""
+"A handmade, skintight acid-resistant rubber-plastic combo suit. It is "
+"cleverly designed so as to not limit movement as much as one would think, "
+"but this leaves cotton gaps at the joints which are susceptible to "
+"penetration. Either way, it will protect well from things such as acid."
+msgstr ""
+"一件手工制作、紧身耐酸的橡胶塑料组合服。设计巧妙，对行动的限制比想象中小，但关节处留有棉质缝隙易受穿透。无论如何，它能很好地防护酸液等物质。"
+
+#: .\items\armor.json
+msgid "pair of survivor dark plate gauntlets"
+msgid_plural "pairs of survivor dark plate gauntlets"
+msgstr[0] "一双幸存者暗色板甲护手"
+
+#. ~ Description for {'str': 'pair of survivor dark plate gauntlets',
+#. 'str_pl': 'pairs of survivor dark plate gauntlets'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy pair of dark-"
+"tinted plate gauntlets. The knuckles flange up and the fingers end in "
+"spikes, which makes this pair of gloves understandably hard to use. However,"
+" they protect really, really well, and look super fancy to boot."
+msgstr ""
+"一双极其定制、外观极端且异常沉重的暗色调板甲护手。指关节凸起，手指末端带刺，使得这双手套使用起来相当困难。然而，它们防护效果极佳，而且看起来超级炫酷。"
+
+#: .\items\armor.json
+msgid "pair of survivor dark plate sabatons"
+msgid_plural "pairs of survivor dark plate sabatons"
+msgstr[0] "一双幸存者暗色板甲战靴"
+
+#. ~ Description for {'str': 'pair of survivor dark plate sabatons', 'str_pl':
+#. 'pairs of survivor dark plate sabatons'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy pair of dark-"
+"tinted plate sabatons. These terrifying boots practically threaten to "
+"crumble the earth with every step, and although their weight and stylish, "
+"angular construction make them a little impractical, they will protect your "
+"foot even if you decide to kick a tank-bot during a duel to the death. And "
+"they'll look good doing it."
+msgstr ""
+"一双经过荒谬定制、外观极端且沉重得离谱的暗色调板甲战靴。这双骇人的靴子几乎每一步都威胁着要踏碎大地，尽管其重量和棱角分明的时尚构造让它们略显不实用，但即使你在生死决斗中决定去踢一个坦克机器人，它们也能保护你的脚。而且它们看起来还很酷。"
+
+#: .\items\armor.json
+msgid "survivor dark quad-horned greathelm"
+msgid_plural "survivor dark horned greathelmets"
+msgstr[0] "幸存者暗色四角巨盔"
+
+#. ~ Description for {'str': 'survivor dark quad-horned greathelm', 'str_pl':
+#. 'survivor dark horned greathelmets'}
+#: .\items\armor.json
+msgid ""
+"This is the king of helmets. The spiky horns signal to all that the wearer "
+"is the bringer of metal-plated death. Its sturdy, beyond-solid steel "
+"construction keeps anything that dares go against it at bay."
+msgstr "这是头盔之王。尖刺状的角向所有人宣告佩戴者是带来金属覆面死亡的存在。其坚固无比、超越实心的钢结构能将任何胆敢对抗之物拒之门外。"
+
+#: .\items\armor.json
+msgid "survivor dark plate armor"
+msgid_plural "survivor dark plate armors"
+msgstr[0] "幸存者暗色板甲"
+
+#. ~ Description for {'str': 'survivor dark plate armor'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy set of dark-"
+"tinted plate armor. It's rife with impractical-looking flanges and "
+"questionable design choices, especially in the shoulder area, but in a world"
+" where opponents don't know how to exploit those, all they do is add to the "
+"protection. And... one cannot deny, it looks darn stylish."
+msgstr ""
+"一套经过荒谬定制、外观极端且沉重得离谱的暗色调板甲。它布满了看似不实用的凸缘和值得商榷的设计选择，尤其是在肩部区域，但在这个对手不知道如何利用这些弱点的世界里，它们只会增加防护。而且……不可否认，它看起来非常时髦。"
+
+#: .\items\books.json
+msgid "Closer Looks At Guns In History"
+msgid_plural "copies of Guns In History"
+msgstr[0] "历史枪械细览"
+
+#. ~ Description for {'str': 'Closer Looks At Guns In History', 'str_pl':
+#. 'copies of Guns In History'}
+#: .\items\books.json
+msgid ""
+"A textbook that goes through many influential guns of history and "
+"intricately details their inner workings, from flintlock to modern day. It "
+"also names and explains more than a few experimental guns with a heavy "
+"emphasis on minute, unique mechanical details, which should let the "
+"enterprising survivor like you really figure out how guns work."
+msgstr ""
+"一本教科书，梳理了历史上许多有影响力的枪械，并详细阐述了它们从燧发枪到现代的内部工作原理。它还命名并解释了不少实验性枪械，重点强调微小、独特的机械细节，这应该能让像你这样有进取心的幸存者真正弄清楚枪械是如何工作的。"
+
+#: .\items\books.json
+msgid "workshop log"
+msgid_plural "workshop logs"
+msgstr[0] "工坊日志"
+
+#. ~ Description for {'str': 'workshop log', 'str_pl': 'workshop logs'}
+#: .\items\books.json
+msgid ""
+"A log of the workshop's business, work, commissions, things like that. It's "
+"useless at first glance, but there's very many technical details that the "
+"experienced craftsman could learn from. The handwritten last chapter also "
+"has very interesting ideas on how the workshop's machinery could be "
+"improved."
+msgstr ""
+"一份记录工坊业务、工作、委托等事项的日志。乍一看毫无用处，但其中包含了许多有经验的工匠可以借鉴的技术细节。手写的最后一章还提出了关于如何改进工坊机械的非常有趣的想法。"
+
+#. ~ Description for {'str': 'workshop log', 'str_pl': 'workshop logs'}
+#: .\items\books.json
+msgid ""
+"A log of the workshop's business, work, commissions, things like that. It's "
+"useless at first glance, but somewhere among the endless metal trinkets is a"
+" wildly detailed blueprint for a... magnetic rail rifle? The order reads "
+"FULFILLED."
+msgstr "一份记录工坊业务、工作、委托等事项的日志。乍一看毫无用处，但在无数金属小饰品中，藏有一份极其详细的……磁轨步枪蓝图？订单上写着“已完成”。"
+
+#: .\items\gun.json
+msgid "Survivor machined belt-fed shotgun"
+msgid_plural "Survivor machined belt-fed shotguns"
+msgstr[0] "幸存者机加工弹链供弹霰弹枪"
+
+#: .\items\gun.json
+msgid ""
+"This is a professional-looking homemade machine-shotgun made to take custom,"
+" high-quality shotshell belts. It has semi, burst and full-auto fire modes "
+"and many rails for modification beyond its already-solid foundation. This "
+"was definitely made with love and care, and even makes a decent bashing "
+"implement if push comes to shove."
+msgstr ""
+"这是一把外观专业的自制机加工霰弹枪，设计用于使用定制的高质量霰弹弹链。它拥有半自动、点射和全自动射击模式，并在其已经坚固的基础上提供了许多用于改装的导轨。这绝对是倾注了爱心和细心制作的，甚至在必要时也能当作不错的敲击工具。"
+
+#: .\items\gun.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\items\gun.json
+msgid "2 rd."
+msgstr "2发。"
+
+#: .\items\gun.json
+msgid "auto"
+msgstr "自动"
+
+#: .\items\gun.json
+msgid "Survivor machined shotgun revolver"
+msgid_plural "Survivor machined shotgun revolvers"
+msgstr[0] "幸存者机加工霰弹左轮手枪"
+
+#: .\items\gun.json
+msgid ""
+"This is a massive, professional-looking revolver chambered in full-size "
+"shotshells. It's made nearly entirely of steel to be as weighty as possible "
+"to absorb recoil, and comes with many attachment points for modifications. "
+"This was definitely made with love and care, and even makes a decent bashing"
+" implement if push comes to shove."
+msgstr ""
+"这是一把巨大的、外观专业的左轮手枪，使用全尺寸霰弹。它几乎完全由钢材制成，以尽可能增加重量来吸收后坐力，并带有许多用于改装的附件安装点。这绝对是倾注了爱心和细心制作的，甚至在必要时也能当作不错的敲击工具。"
+
+#: .\items\gun.json
+msgid "Survivor rail rifle"
+msgid_plural "Survivor rail rifles"
+msgstr[0] "幸存者磁轨步枪"
+
+#: .\items\gun.json
+msgid ""
+"This overpowered and overengineered, professional-looking and MASSIVE rifle "
+"was designed to deliver electromagnetically-driven obliteration right "
+"through whatever obstacle that lies in front of it, be it building, vehicle "
+"or a horde of walking dead.  However, the hefty bulk and weight of this "
+"weapon compared to most contemporary rifles makes it somewhat cumbersome to "
+"wield; not to mention that it consumes UPS charges at a tremendous rate, "
+"making it impractical for use in prolonged engagements. Either way, this was"
+" definitely made with love and care."
+msgstr ""
+"这把威力过强、过度设计、外观专业且体型巨大的步枪，旨在通过电磁驱动将毁灭直接送达前方任何障碍物，无论是建筑、车辆还是一群行尸走肉。然而，与大多数现代步枪相比，该武器的庞大体积和重量使其挥舞起来有些笨拙；更不用说它以惊人的速度消耗UPS电量，使其在持久战中不切实际。无论如何，这绝对是倾注了爱心和细心制作的。"
+
+#: .\items\gunmod.json
+msgid "underbarrel axehead"
+msgid_plural "underbarrel axeheads"
+msgstr[0] "下挂斧头"
+
+#: .\items\gunmod.json
+msgid ""
+"This is a stout axehead, like one on the end of a medieval battleaxe. It has"
+" a railed handle on the back, so you could attach it to a gun to make it a "
+"very dangerous, if unwieldy, melee weapon."
+msgstr ""
+"这是一个结实的斧头，类似于中世纪战斧末端的样式。它的背面有一个带导轨的握柄，因此你可以将其安装在枪上，使其成为一种非常危险（尽管可能笨重）的近战武器。"
+
+#: .\items\items.json
+msgid "lathing rig"
+msgid_plural "lathing rigs"
+msgstr[0] "车床设备"
+
+#. ~ Description for {'str': 'lathing rig'}
+#: .\items\items.json
+msgid ""
+"This is a very large lathing rig, including tools aside from the big "
+"rotating bit. It runs on batteries and will allow you to lathe anything from"
+" fancy table legs to precision gun receivers, albeit inefficiently."
+msgstr ""
+"这是一套非常大的车床设备，除了大型旋转部件外还包括其他工具。它依靠电池运行，可以让你车削从精美的桌腿到精密的枪机匣等各种东西，尽管效率不高。"
+
+#: .\items\items.json
+msgid "machining rig"
+msgid_plural "machining rigs"
+msgstr[0] "机加工设备"
+
+#. ~ Description for {'str': 'machining rig'}
+#: .\items\items.json
+msgid ""
+"This is a neatly arranged, self-contained workbench kit of various precision"
+" machining and metalworking tools, from handheld to integrated. Some things "
+"can be used without power, but the heavy duty built-in tools will require "
+"batteries."
+msgstr ""
+"这是一套整齐排列、自成一体的工作台套件，包含各种精密机加工和金属加工工具，从手持式到集成式都有。有些工具无需电力即可使用，但重型内置工具需要电池供电。"
+
+#: .\items\items.json
+msgid "shotshell ammo belt linkage"
+msgid_plural "shotshell ammo belt linkages"
+msgstr[0] "霰弹弹链连接件"
+
+#: .\items\magazines.json
+msgid "metal shotshell ammo belt"
+msgid_plural "metal shotshell ammo belts"
+msgstr[0] "金属霰弹弹链"
+
+#: .\items\melee.json
+msgid "survivor sledge"
+msgid_plural "survivor sledges"
+msgstr[0] "幸存者大锤"
+
+#. ~ Description for {'str': 'survivor sledge'}
+#: .\items\melee.json
+msgid ""
+"A highly customized sledgehammer with carefully-placed rubber along the "
+"handle and a wicked-looking steel head, sharp on one end and square on "
+"another. Designed for post-apocalyptic swinging pleasure, though you could "
+"also use it as a clumsy tool."
+msgstr ""
+"一把高度定制的大锤，手柄上精心放置了橡胶，钢制锤头看起来凶悍，一端尖锐，另一端方正。专为后末日时代的挥击乐趣而设计，不过你也可以把它当作笨拙的工具使用。"
+
+#: .\items\melee.json
+msgid "survivor claymore"
+msgid_plural "survivor claymores"
+msgstr[0] "幸存者巨剑"
+
+#. ~ Description for {'str': 'survivor claymore'}
+#: .\items\melee.json
+msgid ""
+"This is a ridiculously large and heavy custom-made sword. If you can get it "
+"moving, you can destroy anything."
+msgstr "这是一把大得离谱、沉重无比的定制剑。如果你能挥动它，就能摧毁一切。"
+
+#: .\items\melee.json
+msgid "survivor flail"
+msgid_plural "survivor flails"
+msgstr[0] "幸存者连枷"
+
+#. ~ Description for {'str': 'survivor flail'}
+#: .\items\melee.json
+msgid ""
+"A highly customized, two-handed flail with carefully-placed rubber along the"
+" handle and a wicked-looking steel head, slightly spiked, mostly blunt, and "
+"very heavy. The chain is long enough to make using this a complicated "
+"endeavor, but if used properly by a skilled survivor, it could probably "
+"crush a skull or five."
+msgstr ""
+"一把高度定制的双手连枷，手柄上精心包裹着橡胶，配有一个外观凶险的钢制头部，略带尖刺，大部分为钝面，且非常沉重。链条足够长，使得使用它成为一项复杂的挑战，但如果由熟练的幸存者正确使用，它或许能砸碎一个甚至五个头骨。"
+
+#: .\items\melee.json
+msgid "survivor fighting gauntlet"
+msgid_plural "survivor fighting gauntlets"
+msgstr[0] "幸存者战斗护手"
+
+#. ~ Description for {'str': 'survivor fighting gauntlet', 'str_pl': 'survivor
+#. fighting gauntlets'}
+#: .\items\melee.json
+msgid ""
+"A customized metal gauntlet resembling a flanged mace, strapped securely to "
+"one's hand. Strange to get used to, but it will wildly improve punching "
+"power."
+msgstr "一个定制的金属护手，形似凸缘钉头锤，牢固地绑在手上。起初使用会感到别扭，但它能极大地提升拳击威力。"
+
+#: .\monsters\monsters.json
+msgid "monstrous zombie technician"
+msgid_plural "monstrous zombie technicians"
+msgstr[0] "怪物般的僵尸技师"
+
+#. ~ Description for {'str': 'monstrous zombie technician'}
+#: .\monsters\monsters.json
+msgid ""
+"A terrifying goliath, forced to hunch over by the weight of improvised "
+"conveyor belt armor on its back. It could rival a semi-truck and win."
+msgstr "一个可怕的巨人，因背上临时拼凑的传送带装甲的重量而被迫驼背。它足以与半挂卡车匹敌并取胜。"
+
+#: .\monsters\speech.json
+msgid "an EARTHSHAKING roar!!!"
+msgstr "一声惊天动地的咆哮！！！"
+
+#: .\overmap\overmap_terrain_artisan.json
+msgid "artisan metalworks"
+msgstr "工匠金属工坊"
+
+#: .\overmap\overmap_terrain_artisan.json
+msgid "artisan metalworks roof"
+msgstr "工匠金属工坊屋顶"

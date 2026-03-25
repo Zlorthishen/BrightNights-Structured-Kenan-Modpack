@@ -1,0 +1,2873 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Salvaged_Robots\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\construction_group.json
+msgid "Place Workbench"
+msgstr "放置工作台"
+
+#: .\corpses.json
+msgid "broken light auto armor"
+msgid_plural "broken light auto armors"
+msgstr[0] "损坏的轻型自动装甲"
+
+#. ~ Description for {'str': 'broken light auto armor'}
+#. ~ Description for {'str': 'broken basic auto armor'}
+#. ~ Description for {'str': 'broken heavy auto armor'}
+#: .\corpses.json
+msgid ""
+"A broken set of power armor fitted with an AI core for automated use.  It "
+"cannot be worn or disassembled until re-crafted into an undamaged robot."
+msgstr "一套损坏的动力装甲，装有用于自动操作的AI核心。在重新制作为完好的机器人之前，无法穿着或拆卸。"
+
+#: .\corpses.json
+msgid "broken basic auto armor"
+msgid_plural "broken basic auto armors"
+msgstr[0] "损坏的基础自动装甲"
+
+#: .\corpses.json
+msgid "broken heavy auto armor"
+msgid_plural "broken heavy auto armors"
+msgstr[0] "损坏的重型自动装甲"
+
+#: .\corpses.json
+msgid "dead craftbuddy"
+msgid_plural "dead craftbuddies"
+msgstr[0] "报废的工艺伙伴"
+
+#. ~ Description for {'str': 'dead craftbuddy', 'str_pl': 'dead craftbuddies'}
+#: .\corpses.json
+msgid ""
+"A broken repair robot, now limp and unmoving.  Could be gutted for parts or "
+"re-crafted into a functioning pal."
+msgstr "一台损坏的维修机器人，现已瘫软不动。可拆解零件或重新制作为可用的伙伴。"
+
+#: .\corpses.json
+msgid "broken floating lantern"
+msgid_plural "broken floating lanterns"
+msgstr[0] "损坏的浮空提灯"
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid ""
+"A broken floating lantern, now dark and motionless.  Could be gutted for "
+"parts."
+msgstr "一盏损坏的浮空提灯，现已黯淡静止。可拆解零件。"
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid "A broken arson hack, now cold and burnt.  Could be gutted for parts."
+msgstr "一台损坏的纵火黑客，现已冷却烧焦。可拆解零件。"
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid ""
+"A broken distract-o-hack, now silent and still.  Could be gutted for parts."
+msgstr "一台损坏的干扰黑客，现已沉寂静止。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken spore hack"
+msgid_plural "broken spore hacks"
+msgstr[0] "损坏的孢子黑客"
+
+#. ~ Description for {'str': 'broken spore hack'}
+#: .\corpses.json
+msgid ""
+"A broken spore hack.  Much less threatening now that it lies quiet on solid "
+"ground.  Could be gutted for parts."
+msgstr "一台损坏的孢子黑客。如今它安静地躺在地上，威胁性大减。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken watercannon turret"
+msgid_plural "broken watercannon turrets"
+msgstr[0] "损坏的水炮炮塔"
+
+#. ~ Description for {'str': 'broken watercannon turret'}
+#: .\corpses.json
+msgid ""
+"A broken watercannon turret.  Much less threatening now that it lies limp on"
+" solid ground.  Could be gutted for parts."
+msgstr "一座损坏的水炮炮塔。如今它瘫软在地，威胁性大减。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken floating heater"
+msgid_plural "broken floating heaters"
+msgstr[0] "损坏的浮空加热器"
+
+#. ~ Description for {'str': 'broken floating heater'}
+#: .\corpses.json
+msgid ""
+"A broken floating heater, now cold and motionless.  Could be stripped down "
+"or re-crafted."
+msgstr "一台损坏的浮空加热器，现已冷却静止。可拆解零件或重新制作。"
+
+#: .\corpses.json
+msgid "broken floating furnace"
+msgid_plural "broken floating furnaces"
+msgstr[0] "损坏的悬浮熔炉"
+
+#. ~ Description for {'str': 'broken floating furnace'}
+#: .\corpses.json
+msgid ""
+"A broken floating furnace, now cold and motionless.  Could bestripped down "
+"or re-crafted."
+msgstr "一个损坏的悬浮熔炉，现已冰冷静止。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken burning eye"
+msgid_plural "broken burning eyes"
+msgstr[0] "损坏的燃烧之眼"
+
+#. ~ Description for {'str': 'broken burning eye'}
+#: .\corpses.json
+msgid ""
+"A broken burning eye, now dark and motionless.  Could be stripped down or "
+"re-crafted."
+msgstr "一个损坏的燃烧之眼，现已黯淡静止。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken butler-bot"
+msgid_plural "broken butler-bots"
+msgstr[0] "损坏的管家机器人"
+
+#. ~ Description for {'str': 'broken butler-bot'}
+#: .\corpses.json
+msgid ""
+"A broken butler-bot, now silent and mangled.  Could be stripped down for "
+"parts."
+msgstr "一个损坏的管家机器人，现已沉默扭曲。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken construction robot"
+msgid_plural "broken construction robots"
+msgstr[0] "损坏的建筑机器人"
+
+#. ~ Description for {'str': 'broken construction robot'}
+#: .\corpses.json
+msgid ""
+"A broken construction robot, now wrecked and immobile.  Could be stripped "
+"down for parts."
+msgstr "一个损坏的建筑机器人，现已损毁无法移动。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken firefighter robot"
+msgid_plural "broken firefighter robots"
+msgstr[0] "损坏的消防机器人"
+
+#. ~ Description for {'str': 'broken firefighter robot'}
+#: .\corpses.json
+msgid ""
+"A broken firefighter robot, now cold and inert.  Could be stripped down for "
+"parts."
+msgstr "一个损坏的消防机器人，现已冰冷失效。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken blob breeder"
+msgid_plural "broken blob breeders"
+msgstr[0] "损坏的异形团块培育器"
+
+#. ~ Description for {'str': 'broken blob breeder'}
+#: .\corpses.json
+msgid ""
+"A broken robotic incubator for alien blobs.  Could be stripped down or re-"
+"crafted."
+msgstr "一个损坏的异形团块机器人培育器。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken slime breeder"
+msgid_plural "broken slime breeders"
+msgstr[0] "损坏的异形粘液培育器"
+
+#. ~ Description for {'str': 'broken slime breeder'}
+#: .\corpses.json
+msgid ""
+"A broken robotic incubator for alien slimes.  Could be stripped down or re-"
+"crafted."
+msgstr "一个损坏的异形粘液机器人培育器。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken digestron"
+msgid_plural "broken digestrons"
+msgstr[0] "损坏的消化机器人"
+
+#. ~ Description for {'str': 'broken digestron'}
+#: .\corpses.json
+msgid ""
+"A broken acid digestor robot, now cold and unmoving.  Could be stripped down"
+" or re-crafted."
+msgstr "一个损坏的酸液消化机器人，现已冰冷不动。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken bee-bot"
+msgid_plural "broken bee-bots"
+msgstr[0] "损坏的蜂巢机器人"
+
+#. ~ Description for {'str': 'broken bee-bot'}
+#: .\corpses.json
+msgid ""
+"A broken beehive robot, now still and bee-less.  Could be stripped down or "
+"re-crafted."
+msgstr "一个损坏的蜂巢机器人，现已静止且无蜂。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken medical bot"
+msgid_plural "broken medical bots"
+msgstr[0] "损坏的医疗机器人"
+
+#. ~ Description for {'str': 'broken medical bot'}
+#: .\corpses.json
+msgid ""
+"A broken medical robot, now crumpled and inert.  Could be stripped down for "
+"parts."
+msgstr "一个损坏的医疗机器人，现已扭曲失效。可拆解获取零件。"
+
+#: .\corpses.json
+msgid "broken disarmed medical robot"
+msgid_plural "broken disarmed medical robots"
+msgstr[0] "损坏的已拆卸医疗机器人"
+
+#. ~ Description for {'str': 'broken disarmed medical robot'}
+#: .\corpses.json
+msgid ""
+"A broken medical robot.  Its onboard pharma-crafter and integral surgical "
+"tools have been removed.  Could be gutted for parts or crafted into a "
+"salvaged robot."
+msgstr "一个损坏的医疗机器人。其内置制药装置和集成手术工具已被移除。可掏空获取零件或改造成残骸机器人。"
+
+#: .\corpses.json
+msgid "broken assassin robot"
+msgid_plural "broken assassin robots"
+msgstr[0] "损坏的刺客机器人"
+
+#. ~ Description for {'str': 'broken assassin robot'}
+#: .\corpses.json
+msgid ""
+"A broken assassin robot, now limp and immobile.  Could be stripped down or "
+"re-crafted."
+msgstr "一个损坏的刺客机器人，现已瘫软不动。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken elixirator"
+msgid_plural "broken elixirators"
+msgstr[0] "损坏的炼药器"
+
+#. ~ Description for {'str': 'broken elixirator'}
+#: .\corpses.json
+msgid ""
+"A broken elixirator, now shattered and lifeless.  Could be stripped down or "
+"re-crafted."
+msgstr "一个损坏的炼药器，现已破碎无生命。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken party bot"
+msgid_plural "broken party bots"
+msgstr[0] "损坏的派对机器人"
+
+#. ~ Description for {'str': 'broken party bot'}
+#: .\corpses.json
+msgid ""
+"A broken party robot, now wasted and burnt out.  Looks like the party's "
+"over.  Could be stripped down or re-crafted."
+msgstr "一个损坏的派对机器人，现已耗尽烧毁。看来派对结束了。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken insane cyborg"
+msgid_plural "broken insane cyborgs"
+msgstr[0] "损坏的疯狂改造人"
+
+#. ~ Description for {'str': 'broken insane cyborg'}
+#: .\corpses.json
+msgid ""
+"A broken cyborg, now limp and unmoving.  Could be gutted for parts or "
+"crafted into a salvaged robot."
+msgstr "一个损坏的改造人，现已瘫软不动。可掏空获取零件或改造成残骸机器人。"
+
+#: .\corpses.json
+msgid "broken necrotic cyborg"
+msgid_plural "broken necrotic cyborgs"
+msgstr[0] "损坏的坏死赛博格"
+
+#. ~ Description for {'str': 'broken necrotic cyborg'}
+#: .\corpses.json
+msgid ""
+"A broken cyborg, now limp and unmoving.  Could be stripped down or re-"
+"crafted into a salvaged robot."
+msgstr "一个损坏的赛博格，现已瘫软不动。可拆解或重制成打捞机器人。"
+
+#: .\corpses.json
+msgid "broken rat snatcher"
+msgid_plural "broken rat snatchers"
+msgstr[0] "损坏的捕鼠机"
+
+#. ~ Description for {'str': 'broken rat snatcher'}
+#: .\corpses.json
+msgid ""
+"A broken rat snatcher, now harmless and inert.  Could be stripped down or "
+"re-crafted."
+msgstr "一个损坏的捕鼠机，现已无害且失效。可拆解或重制。"
+
+#: .\corpses.json
+msgid "broken grab-bot"
+msgid_plural "broken grab-bots"
+msgstr[0] "损坏的抓取机器人"
+
+#. ~ Description for {'str': 'broken grab-bot'}
+#: .\corpses.json
+msgid ""
+"A broken grabber robot, now limp and nonthreatening.  Could be stripped down"
+" or re-crafted."
+msgstr "一个损坏的抓取机器人，现已瘫软且无威胁。可拆解或重制。"
+
+#: .\corpses.json
+msgid "broken pest hunter"
+msgid_plural "broken pest hunters"
+msgstr[0] "损坏的害虫猎手"
+
+#. ~ Description for {'str': 'broken pest hunter'}
+#: .\corpses.json
+msgid ""
+"A broken pest hunter, now harmless and inert.  Could be gutted for parts or "
+"re-crafted."
+msgstr "一个损坏的害虫猎手，现已无害且失效。可拆解零件或重制。"
+
+#: .\corpses.json
+msgid "broken security robot"
+msgid_plural "broken security robots"
+msgstr[0] "损坏的安保机器人"
+
+#. ~ Description for {'str': 'broken security robot'}
+#. ~ Description for {'str': 'broken defense bot'}
+#. ~ Description for {'str': 'broken riotcontrol robot'}
+#. ~ Description for {'str': 'broken disarmed military bot'}
+#: .\corpses.json
+msgid ""
+"A broken defense robot.  Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr "一个损坏的防御机器人。其内置武器已被移除。可拆解零件或制成打捞机器人。"
+
+#: .\corpses.json
+msgid "broken defense bot"
+msgid_plural "broken defense bots"
+msgstr[0] "损坏的防御机器人"
+
+#: .\corpses.json
+msgid "broken riotcontrol robot"
+msgid_plural "broken riotcontrol robots"
+msgstr[0] "损坏的防暴控制机器人"
+
+#: .\corpses.json
+msgid "broken junkyard cowboy"
+msgid_plural "broken junkyard cowboys"
+msgstr[0] "损坏的废料场牛仔"
+
+#. ~ Description for {'str': 'broken junkyard cowboy'}
+#. ~ Description for {'str': 'broken shortcircuit samurai'}
+#. ~ Description for {'str': 'broken slapdash paladin'}
+#: .\corpses.json
+msgid "A broken salvaged robot.  Could be stripped for parts or re-crafted."
+msgstr "一个损坏的打捞机器人。可拆解零件或重制。"
+
+#: .\corpses.json
+msgid "broken shortcircuit samurai"
+msgid_plural "broken shortcircuit samurais"
+msgstr[0] "损坏的短路武士"
+
+#: .\corpses.json
+msgid "broken slapdash paladin"
+msgid_plural "broken slapdash paladins"
+msgstr[0] "损坏的草率圣骑士"
+
+#: .\corpses.json
+msgid "broken disarmed military bot"
+msgid_plural "broken disarmed military bots"
+msgstr[0] "损坏的解除武装军用机器人"
+
+#: .\corpses.json
+msgid "broken military trainer robot"
+msgid_plural "broken military trainer robots"
+msgstr[0] "损坏的军事训练机器人"
+
+#. ~ Description for {'str': 'broken military trainer robot'}
+#: .\corpses.json
+msgid ""
+"A broken military trainer robot, shattered and inert.  This one is armed "
+"with an integrated paintball gun.  Could be stripped for parts."
+msgstr "一个损坏的军事训练机器人，已破碎且失效。此机器人配备集成彩弹枪。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken military robot"
+msgid_plural "broken military robots"
+msgstr[0] "损坏的军用机器人"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 5.56mm firearm.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成5.56毫米枪械。可拆解零件。"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 7.62mm firearm.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成7.62毫米枪械。可拆解零件。"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 50 caliber firearm.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成.50口径枪械。可拆解零件。"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 8x40mm firearm.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成8x40毫米枪械。可拆解零件。"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated flechette gun.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成飞镖枪。可拆解零件。"
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 40mm grenade launcher.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成40毫米榴弹发射器。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken military flame robot"
+msgid_plural "broken military flame robots"
+msgstr[0] "损坏的军用火焰机器人"
+
+#. ~ Description for {'str': 'broken military flame robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated flamethrower.  Could be stripped for parts."
+msgstr "一个损坏的军用机器人，已破碎且失效。此机器人配备集成火焰喷射器。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken robo-guardian"
+msgid_plural "broken robo-guardians"
+msgstr[0] "损坏的机器人守卫"
+
+#. ~ Description for {'str': 'broken robo-guardian'}
+#. ~ Description for {'str': 'broken robo-protector'}
+#. ~ Description for {'str': 'broken robo-defender'}
+#. ~ Description for {'str': 'broken glittering lady', 'str_pl': 'broken
+#. glittering ladies'}
+#. ~ Description for {'str': 'broken bitter spinster'}
+#. ~ Description for {'str': 'broken fist king'}
+#. ~ Description for {'str': 'broken atomic sultan'}
+#: .\corpses.json
+msgid "A broken salvaged robot.  Could be stripped or recrafted."
+msgstr "一个损坏的打捞机器人。可拆解或重制。"
+
+#: .\corpses.json
+msgid "broken robote deluxe"
+msgid_plural "broken robote deluxes"
+msgstr[0] "损坏的豪华机器人"
+
+#. ~ Description for {'str': 'broken robote deluxe'}
+#: .\corpses.json
+msgid "A broken deluxe robot.  Could be stripped or recrafted."
+msgstr "一个损坏的豪华机器人。可拆解或重制。"
+
+#: .\corpses.json
+msgid "broken robo-protector"
+msgid_plural "broken robo-protectors"
+msgstr[0] "损坏的机器人护卫者"
+
+#: .\corpses.json
+msgid "broken robo-defender"
+msgid_plural "broken robo-defenders"
+msgstr[0] "损坏的机器人防御者"
+
+#: .\corpses.json
+msgid "broken disarmed advanced bot"
+msgid_plural "broken disarmed advanced bots"
+msgstr[0] "损坏的已解除武装高级机器人"
+
+#. ~ Description for {'str': 'broken disarmed advanced bot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr "一台损坏的高级机器人。其内部武器已被移除。可拆解零件或改造成残骸机器人。"
+
+#: .\corpses.json
+msgid "broken advanced robot"
+msgid_plural "broken advanced robots"
+msgstr[0] "损坏的高级机器人"
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated laser-"
+"emitter.  Could be stripped for parts."
+msgstr "一台损坏的高级机器人。此型号配备集成激光发射器。可拆解零件。"
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated plasma-"
+"ejector.  Could be stripped for parts."
+msgstr "一台损坏的高级机器人。此型号配备集成等离子喷射器。可拆解零件。"
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated electro-"
+"caster.  Could be stripped for parts."
+msgstr "一台损坏的高级机器人。此型号配备集成电击投射器。可拆解零件。"
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated EMP "
+"projector.  Could be stripped for parts."
+msgstr "一台损坏的高级机器人。此型号配备集成EMP投射器。可拆解零件。"
+
+#: .\corpses.json
+msgid "broken glittering lady"
+msgid_plural "broken glittering ladies"
+msgstr[0] "损坏的闪耀女士"
+
+#: .\corpses.json
+msgid "broken bitter spinster"
+msgid_plural "broken bitter spinsters"
+msgstr[0] "损坏的苦涩老处女"
+
+#: .\corpses.json
+msgid "broken chainsaw horror"
+msgid_plural "broken chainsaw horrors"
+msgstr[0] "损坏的链锯惊魂"
+
+#. ~ Description for {'str': 'broken chainsaw horror'}
+#. ~ Description for {'str': 'broken screeching terror'}
+#. ~ Description for {'str': 'broken hooked nightmare'}
+#: .\corpses.json
+msgid ""
+"A broken salvaged robot.  Thank God it's finally dead.  Could be stripped or"
+" recrafted."
+msgstr "一台损坏的残骸机器人。谢天谢地它终于死了。可拆解或重新改造。"
+
+#: .\corpses.json
+msgid "broken screeching terror"
+msgid_plural "broken screeching terrors"
+msgstr[0] "损坏的尖啸恐怖"
+
+#: .\corpses.json
+msgid "broken hooked nightmare"
+msgid_plural "broken hooked nightmares"
+msgstr[0] "损坏的钩爪噩梦"
+
+#: .\corpses.json
+msgid "broken fist king"
+msgid_plural "broken fist kings"
+msgstr[0] "损坏的拳王"
+
+#: .\corpses.json
+msgid "broken atomic sultan"
+msgid_plural "broken atomic sultans"
+msgstr[0] "损坏的原子苏丹"
+
+#: .\corpses.json
+msgid "broken miner bot"
+msgid_plural "broken miner bots"
+msgstr[0] "损坏的矿工机器人"
+
+#. ~ Description for {'str': 'broken miner bot'}
+#: .\corpses.json
+msgid ""
+"A broken miner bot.  Much less threatening now that it's no longer capable "
+"of drilling anything.  Could be gutted for parts."
+msgstr "一台损坏的矿工机器人。由于无法再钻探任何物体，威胁性大大降低。可拆解零件。"
+
+#: .\corpses.json .\items.json
+msgid "broken tribot"
+msgid_plural "broken tribots"
+msgstr[0] "损坏的三足机器人"
+
+#. ~ Description for {'str': 'broken tribot'}
+#: .\corpses.json .\items.json
+msgid ""
+"A broken tribot.  Now that its legs lie broken and immobile, the world seems"
+" a little less threatening.  Could be gutted for parts."
+msgstr "一个损坏的三足机器人。如今它的腿部断裂无法移动，世界似乎变得不那么可怕了。或许可以拆解零件。"
+
+#: .\harvest.json
+msgid "You butcher the fallen zombie and hack off its head"
+msgstr "你肢解倒下的僵尸并砍下它的头颅"
+
+#: .\items.json
+msgid "necrotic head"
+msgid_plural "necrotic heads"
+msgstr[0] "死灵头颅"
+
+#. ~ Description for {'str': 'necrotic head'}
+#: .\items.json
+msgid ""
+"The severed head of a zombie necromancer.  Its eyes still roll in its head "
+"and its jaws snap menacingly."
+msgstr "僵尸死灵法师的断首。其眼珠仍在转动，下颚威胁性地开合。"
+
+#: .\items.json
+msgid "mutagenic glob"
+msgid_plural "mutagenic globs"
+msgstr[0] "突变凝胶团"
+
+#. ~ Description for {'str': 'mutagenic glob'}
+#: .\items.json
+msgid "A gelatinous glob of mutagen."
+msgstr "一团凝胶状的突变质。"
+
+#: .\items.json
+msgid "honey"
+msgid_plural "honey"
+msgstr[0] "蜂蜜"
+
+#. ~ Description for {'str_sp': 'honey'}
+#: .\items.json
+msgid "Honey, that stuff bees make."
+msgstr "蜂蜜，蜜蜂酿造的产物。"
+
+#: .\items.json
+msgid "tripod schematics"
+msgid_plural "tripod schematics"
+msgstr[0] "三足机甲设计图"
+
+#. ~ Description for {'str_sp': 'tripod schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Honda, those are assembly plans, design specs, and "
+"technical drawings for the tripod.  Most of this is useless to you, but you "
+"could use the assembly plans to re-assemble the robot from salvaged parts."
+msgstr "印有本田标志，这是三足机甲的装配计划、设计规格和技术图纸。大部分内容对你无用，但可利用装配计划从残骸零件重新组装机器人。"
+
+#: .\items.json
+msgid "chicken walker schematics"
+msgid_plural "chicken walker schematics"
+msgstr[0] "鸡足步行机设计图"
+
+#. ~ Description for {'str_sp': 'chicken walker schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Northrop, those are assembly plans, design specs, and "
+"technical drawings for the chicken walker.  Most of this is useless to you, "
+"but you could use the assembly plans to re-assemble the robot from salvaged "
+"parts."
+msgstr "印有诺斯罗普标志，这是鸡足步行机的装配计划、设计规格和技术图纸。大部分内容对你无用，但可利用装配计划从残骸零件重新组装机器人。"
+
+#: .\items.json
+msgid "tank drone schematics"
+msgid_plural "tank drone schematics"
+msgstr[0] "坦克无人机设计图"
+
+#. ~ Description for {'str_sp': 'tank drone schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Northrop, those are assembly plans, design specs, and "
+"technical drawings for the tank drone.  Most of this is useless to you, but "
+"you could use the assembly plans to re-assemble the robot from salvaged "
+"parts."
+msgstr "印有诺斯罗普标志，这是坦克无人机的装配计划、设计规格和技术图纸。大部分内容对你无用，但可利用装配计划从残骸零件重新组装机器人。"
+
+#: .\items.json
+msgid "Hacking Robots for Fun & Profit"
+msgid_plural "copies of Hacking Robots for Fun & Profit"
+msgstr[0] "黑客机器人：乐趣与收益"
+
+#. ~ Description for {'str': 'Hacking Robots for Fun & Profit', 'str_pl':
+#. 'copies of Hacking Robots for Fun & Profit'}
+#: .\items.json
+msgid ""
+"A book on illegally obtaining, reprogramming, and modifying robots.  It has "
+"lots of helpful step-by-step guides and example blueprints."
+msgstr "一本关于非法获取、重编程和改装机器人的书。书中包含大量有用的分步指南和示例蓝图。"
+
+#: .\items.json
+msgid "Popular Robotics"
+msgid_plural "issues of Popular Robotics"
+msgstr[0] "大众机器人学"
+
+#. ~ Description for {'str': 'Popular Robotics', 'str_pl': 'issues of Popular
+#. Robotics'}
+#: .\items.json
+msgid "A magazine about building and altering your own robots."
+msgstr "一本关于建造和改造个人机器人的杂志。"
+
+#: .\items.json
+msgid "AI core"
+msgid_plural "AI cores"
+msgstr[0] "AI核心"
+
+#. ~ Description for {'str': 'AI core'}
+#: .\items.json
+msgid "A computer module for controlling robots."
+msgstr "用于控制机器人的计算机模块。"
+
+#: .\items.json
+msgid "surgery module"
+msgid_plural "surgery modules"
+msgstr[0] "手术模块"
+
+#. ~ Description for {'str': 'surgery module'}
+#: .\items.json
+msgid "A microsurgery module for a medical robot."
+msgstr "医疗机器人的显微手术模块。"
+
+#: .\items.json
+msgid "pharmaceutical module"
+msgid_plural "pharmaceutical modules"
+msgstr[0] "制药模块"
+
+#. ~ Description for {'str': 'pharmaceutical module'}
+#: .\items.json
+msgid "A pharmaceutical fabricating module for a medical robot."
+msgstr "医疗机器人的药物制造模块。"
+
+#: .\items.json .\roboguns.json
+msgid "integral paintball gun"
+msgid_plural "integral paintball guns"
+msgstr[0] "内置彩弹枪"
+
+#. ~ Description for {'str': 'integral paintball gun'}
+#: .\items.json
+msgid ""
+"A high-powered paintball module used for safely testing robots or training "
+"soldiers."
+msgstr "一种高功率彩弹模块，用于安全测试机器人或训练士兵。"
+
+#: .\items.json
+msgid "inactive CraftBuddy"
+msgid_plural "inactive CraftBuddies"
+msgstr[0] "未激活的工艺伙伴"
+
+#. ~ Description for {'str': 'inactive CraftBuddy', 'str_pl': 'inactive
+#. CraftBuddies'}
+#: .\items.json
+msgid ""
+"A robot crafting assistant. Useable in its current state as a portable all-"
+"purpose craft station, or deployable as a traveling companion. It's complex "
+"geometry doesn't allow it to provide workbench surface, which makes you a "
+"little disappointed. You can probably instal it as an more functional "
+"immobile crafting station."
+msgstr ""
+"一个机器人制作助手。当前状态下可作为便携式多功能制作站使用，或部署为旅行伙伴。其复杂的几何结构使其无法提供工作台表面，这让你有些失望。你或许可以将其安装为功能更丰富的固定式制作站。"
+
+#: .\items.json .\monsters.json
+msgid "light auto armor"
+msgid_plural "light auto armors"
+msgstr[0] "轻型自动装甲"
+
+#. ~ Description for {'str': 'light auto armor'}
+#. ~ Description for {'str': 'basic auto armor'}
+#. ~ Description for {'str': 'heavy auto armor'}
+#: .\items.json
+msgid ""
+"A set of light power armor fitted with an AI core for automated use.  "
+"Activate it to deploy the robot or disassemble it to use as armor."
+msgstr "一套配备AI核心用于自动操作的轻型动力装甲。激活以部署机器人，或拆解作为装甲使用。"
+
+#: .\items.json
+msgid "basic auto armor"
+msgid_plural "basic auto armors"
+msgstr[0] "基础自动装甲"
+
+#: .\items.json .\monsters.json
+msgid "heavy auto armor"
+msgid_plural "heavy auto armors"
+msgstr[0] "重型自动装甲"
+
+#: .\items.json
+msgid "inactive hack"
+msgid_plural "inactive hacks"
+msgstr[0] "未激活的猎杀机"
+
+#. ~ Description for {'str': 'inactive hack'}
+#: .\items.json
+msgid ""
+"This is an inactive manhack.  Manhacks are fist-sized robots that fly "
+"through the air.  They are covered with whirring blades and attack by "
+"throwing themselves against their target.  Use this item to reprogram and "
+"activate the manhack.  Electronics and computer skill determines if the "
+"targeting matrix is reprogrammed successfully."
+msgstr ""
+"这是一个未激活的猎杀机。猎杀机是拳头大小、在空中飞行的机器人，周身覆盖旋转刀片，通过撞击目标进行攻击。使用此物品来重编程并激活猎杀机。电子和计算机技能决定目标矩阵是否成功重编程。"
+
+#: .\items.json
+msgid "inactive floating lantern"
+msgid_plural "inactive floating lanterns"
+msgstr[0] "未激活的浮空提灯"
+
+#. ~ Use action friendly_msg for {'str': 'inactive floating lantern'}.
+#: .\items.json
+msgid "The floating lantern flies from your hand and lights up the area!"
+msgstr "浮空提灯从你手中飞出，照亮了区域！"
+
+#. ~ Use action hostile_msg for {'str': 'inactive floating lantern'}.
+#: .\items.json
+msgid "You misprogram the lantern."
+msgstr "你错误编程了提灯。"
+
+#. ~ Description for {'str': 'inactive floating lantern'}
+#: .\items.json
+msgid ""
+"An inactive floating lantern, a fist-sized robots that flies through the air"
+" and illuminates its surroundings with bright LEDs.  The lantern is non "
+"aggressive and has no means of attack.  Activate this item to deploy the "
+"salvaged robot."
+msgstr ""
+"一个未激活的浮空提灯，这是一种拳头大小、在空中飞行并通过明亮LED照亮周围环境的机器人。提灯无攻击性且不具备攻击手段。激活此物品以部署回收的机器人。"
+
+#: .\items.json
+msgid "inactive distract-o-hack"
+msgid_plural "inactive distract-o-hacks"
+msgstr[0] "未激活的干扰机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive distract-o-hack'}.
+#: .\items.json
+msgid "The distract-o-hack flies from your hand and begins sparking!"
+msgstr "干扰机从你手中飞出并开始迸发火花！"
+
+#. ~ Use action hostile_msg for {'str': 'inactive distract-o-hack'}.
+#: .\items.json
+msgid "You misprogram the distract-o-hack!"
+msgstr "你错误编程了干扰机！"
+
+#. ~ Description for {'str': 'inactive distract-o-hack'}
+#: .\items.json
+msgid ""
+"An inactive distract-o-hack, a fist-sized robot that flies through the air "
+"emitting noise, smoke, and sparks.  The salvaged robot has no weapons, but "
+"will harass hostile targets to draw their attention.  Activate this item to "
+"deploy the robot.  It cannot be recovered once activated."
+msgstr ""
+"一个未激活的干扰机，这是一种拳头大小、在空中飞行并发出噪音、烟雾和火花的机器人。回收的机器人没有武器，但会骚扰敌对目标以吸引其注意力。激活此物品以部署机器人。一旦激活将无法回收。"
+
+#: .\items.json
+msgid "inactive arson hack"
+msgid_plural "inactive arson hacks"
+msgstr[0] "未激活的纵火机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive arson hack'}.
+#: .\items.json
+msgid "The arson hack flies from your hand!  Get clear!"
+msgstr "纵火机从你手中飞出！快闪开！"
+
+#. ~ Use action hostile_msg for {'str': 'inactive arson hack'}.
+#: .\items.json
+msgid "You misprogram the arson hack!  Run!"
+msgstr "你错误编程了纵火骇客！快跑！"
+
+#. ~ Description for {'str': 'inactive arson hack'}
+#: .\items.json
+msgid ""
+"An inactive arson hack, a fist-sized robot that flies through the air "
+"chaotically spreading deadly fires.  The salvaged robot has no weapons, but "
+"will emit intermittent bursts of flame as it moves toward hostile targets.  "
+"Activate this item to deploy the robot.  It cannot be recovered once "
+"activated."
+msgstr ""
+"一个未激活的纵火骇客，拳头大小的机器人，在空中混乱飞行，散布致命火焰。该回收机器人没有武器，但会向敌对目标移动时间歇性喷发火焰。激活此物品以部署机器人。一旦激活，无法回收。"
+
+#: .\items.json
+msgid "inactive spore hack"
+msgid_plural "inactive spore hacks"
+msgstr[0] "未激活的孢子骇客"
+
+#. ~ Use action friendly_msg for {'str': 'inactive spore hack'}.
+#: .\items.json
+msgid "The spore hack flies from your hand!"
+msgstr "孢子骇客从你手中飞了出去！"
+
+#. ~ Use action hostile_msg for {'str': 'inactive spore hack'}.
+#: .\items.json
+msgid "You misprogram the spore hack!"
+msgstr "你错误编程了孢子骇客！"
+
+#. ~ Description for {'str': 'inactive spore hack'}
+#: .\items.json
+msgid ""
+"An inactive spore hack, a fist-sized robot that flies through the air "
+"spreading alien contaminants.  The robot will dust hostile targets, and "
+"intermittently cover the terrain with puffs of fungal spores.  Activate this"
+" item to deploy the robot."
+msgstr ""
+"一个未激活的孢子骇客，拳头大小的机器人，在空中飞行，散布外星污染物。机器人会向敌对目标撒播尘埃，并间歇性地在地形上覆盖真菌孢子云。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive water turret"
+msgid_plural "inactive water turrets"
+msgstr[0] "未激活的水炮炮塔"
+
+#. ~ Description for {'str': 'inactive water turret'}
+#: .\items.json
+msgid ""
+"An inactive watercannon defense turret.  Up to 1000 units of water will be "
+"automatically loaded from your inventory into the turret upon activation.  "
+"Place the turret and it will ID you as friendly with its advanced IFF "
+"software.  There is no safety manual."
+msgstr ""
+"一个未激活的水炮防御炮塔。激活时，最多1000单位的水会自动从你的库存加载到炮塔中。放置炮塔，其先进的IFF软件将识别你为友方。没有安全手册。"
+
+#: .\items.json
+msgid "inactive eyebot"
+msgid_plural "inactive eyebots"
+msgstr[0] "未激活的眼球机器人"
+
+#: .\items.json
+msgid "inactive floating heater"
+msgid_plural "inactive floating heaters"
+msgstr[0] "未激活的悬浮加热器"
+
+#. ~ Description for {'str': 'inactive floating heater'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of warm air to heat an enclosed space.  It is non-aggressive "
+"and has no weapons systems.  Activate this item to deploy the robot."
+msgstr "一个回收的眼球机器人改造成的悬浮空间加热器。它持续喷射暖风以加热封闭空间。它非攻击性，没有武器系统。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive floating furnace"
+msgid_plural "inactive floating furnaces"
+msgstr[0] "未激活的悬浮熔炉"
+
+#. ~ Description for {'str': 'inactive floating furnace'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of dangerously hot air to heat an enclosed space.  It is non-"
+"aggressive and has no weapons systems.  Activate this item to deploy the "
+"robot."
+msgstr "一个回收的眼球机器人改造成的悬浮空间加热器。它持续喷射危险热风以加热封闭空间。它非攻击性，没有武器系统。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive burning eye"
+msgid_plural "inactive burning eyes"
+msgstr[0] "未激活的燃烧之眼"
+
+#. ~ Description for {'str': 'inactive burning eye'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot refitted with a laser weapon which it will use on hostile "
+"targets.  Activate this item to deploy the robot."
+msgstr "一个回收的眼球机器人改装了激光武器，用于攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive utilibot"
+msgid_plural "inactive utilibots"
+msgstr[0] "未激活的实用机器人"
+
+#: .\items.json
+msgid "inactive blob breeder"
+msgid_plural "inactive blob breeders"
+msgstr[0] "未激活的粘液培育器"
+
+#. ~ Description for {'str': 'inactive blob breeder'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It is non aggressive and has no weapon systems.  You can activate "
+"this item to deploy the robot and begin the incubation process, but you "
+"probably shouldn't."
+msgstr ""
+"一个回收的实用机器人改造成外星粘液的移动孵化器。它非攻击性，没有武器系统。你可以激活此物品以部署机器人并开始孵化过程，但你可能不应该这样做。"
+
+#: .\items.json
+msgid "inactive slime breeder"
+msgid_plural "inactive slime breeders"
+msgstr[0] "未激活的史莱姆培育器"
+
+#. ~ Description for {'str': 'inactive slime breeder'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob, and upgraded to only produce friendly slimes.  It is non aggressive "
+"and has no weapon systems.  You can activate this item to deploy the robot "
+"and begin the incubation process."
+msgstr ""
+"一个回收的实用机器人改造成外星粘液的移动孵化器，并升级为仅生产友好史莱姆。它非攻击性，没有武器系统。你可以激活此物品以部署机器人并开始孵化过程。"
+
+#: .\items.json
+msgid "inactive digestron"
+msgid_plural "inactive digestrons"
+msgstr[0] "未激活的消化机器人"
+
+#. ~ Description for {'str': 'inactive digestron'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into an automated vacuum cleaner.  It "
+"will suck stray items off the ground and dissolve them with its internal "
+"acid reserves.  It is non aggressive and has no weapon systems.  Activate "
+"this item to deploy the robot."
+msgstr "一个回收的实用机器人改造成自动吸尘器。它会吸起地上的散落物品，并用内部酸液储备溶解它们。它非攻击性，没有武器系统。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive bee-bot"
+msgid_plural "inactive bee-bots"
+msgstr[0] "未激活的蜜蜂机器人"
+
+#. ~ Description for {'str': 'inactive bee-bot'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into an ambulatory bee hive that "
+"periodically removes and delivers segments of fresh honey comb.  It protects"
+" the insect colony with a mechanical crossbow mounted to its chassis.  "
+"Activate this item, with wooden bolts in your inventory, to load and deploy "
+"the robot."
+msgstr ""
+"一个回收的实用机器人改造成移动蜂巢，定期移除并递送新鲜蜂巢片段。它用安装在底盘上的机械弩保护昆虫群落。激活此物品，并确保库存中有木制弩箭，以加载并部署机器人。"
+
+#: .\items.json
+msgid "inactive medibot"
+msgid_plural "inactive medibots"
+msgstr[0] "未激活的医疗机器人"
+
+#: .\items.json
+msgid "inactive assassin robot"
+msgid_plural "inactive assassin robots"
+msgstr[0] "未激活的刺客机器人"
+
+#. ~ Description for {'str': 'inactive assassin robot'}
+#: .\items.json
+msgid ""
+"A salvaged medical robot repurposed into a murder machine.  It will attack "
+"hostile targets with a set of blades and a toxic needle.  Activate this item"
+" to deploy the robot."
+msgstr "一个回收的医疗机器人改造成杀戮机器。它会用一组刀片和毒针攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive elixirator"
+msgid_plural "inactive elixirators"
+msgstr[0] "未激活的灵药机器人"
+
+#. ~ Description for {'str': 'inactive elixirator'}
+#: .\items.json
+msgid ""
+"A salvaged medibot with its internal pharma-fabricators repurposed to "
+"produce mutagen.  Activate this item to deploy the robot."
+msgstr "一个回收的医疗机器人，其内部制药装置被改造成生产突变剂。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive party bot"
+msgid_plural "inactive party bots"
+msgstr[0] "未激活的派对机器人"
+
+#. ~ Description for {'str': 'inactive party bot'}
+#: .\items.json
+msgid ""
+"A salvaged medibot stuffed with marijuana, covered in multicolored blinking "
+"lights, and programmed to dance.  Activate this item to get the party "
+"started."
+msgstr "一个回收的医疗机器人，塞满了大麻，覆盖着五彩闪烁的灯光，并编程为跳舞。激活此物品以启动派对。"
+
+#: .\items.json
+msgid "inactive skitterbot"
+msgid_plural "inactive skitterbots"
+msgstr[0] "未激活的疾行机器人"
+
+#: .\items.json
+msgid "inactive rat snatcher"
+msgid_plural "inactive rat snatchers"
+msgstr[0] "未激活的捕鼠机器人"
+
+#. ~ Description for {'str': 'inactive rat snatcher'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot repurposed for hunting small game.  It attacks targets"
+" with pincers and an integrated tazer.  Activate this item to deploy the "
+"robot."
+msgstr "一个回收的疾行机器人，被重新用于狩猎小型猎物。它用钳子和内置电击枪攻击目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive grab-bot"
+msgid_plural "inactive grab-bots"
+msgstr[0] "未激活的抓取机器人"
+
+#. ~ Description for {'str': 'inactive grab-bot'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot repurposed to grab onto and immobilize enemies.  "
+"Activate this item to deploy the robot."
+msgstr "一个回收的疾行机器人，被重新用于抓住并固定敌人。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive pest hunter"
+msgid_plural "inactive pest hunters"
+msgstr[0] "未激活的害虫猎人"
+
+#. ~ Description for {'str': 'inactive pest hunter'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot refitted with an 8mm integrated firearm.  Activate "
+"this item, with ammo in your inventory, to load and deploy the robot."
+msgstr "一个回收的疾行机器人，改装了内置的8毫米火器。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive cyborg"
+msgid_plural "inactive cyborgs"
+msgstr[0] "未激活的生化人"
+
+#: .\items.json
+msgid "inactive necrotic cyborg"
+msgid_plural "inactive necrotic cyborgs"
+msgstr[0] "未激活的坏死生化人"
+
+#. ~ Description for {'str': 'inactive necrotic cyborg'}
+#: .\items.json
+msgid ""
+"A salvaged cyborg refitted with the head of a zombie necromancer.  The "
+"animate head retains some of its ability to revive zombies.  Activate this "
+"item to deploy the robot."
+msgstr "一个回收的生化人，改装了僵尸死灵法师的头部。这个活化的头部保留了一些复活僵尸的能力。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive defense robot"
+msgid_plural "inactive defense robots"
+msgstr[0] "未激活的防御机器人"
+
+#: .\items.json
+msgid "inactive junkyard cowboy"
+msgid_plural "inactive junkyard cowboys"
+msgstr[0] "未激活的废料场牛仔"
+
+#. ~ Description for {'str': 'inactive junkyard cowboy'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with a shotgun and two circular buzzsaws."
+"  Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr "一个回收的防御机器人，改装了霰弹枪和两个圆形电锯。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive shortcircuit samurai"
+msgid_plural "inactive shortcircuit samurais"
+msgstr[0] "未激活的短路武士"
+
+#. ~ Description for {'str': 'inactive shortcircuit samurai'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with an integrated tazer and two "
+"electrified blades.  Activate this item to deploy the robot."
+msgstr "一个回收的防御机器人，改装了内置电击枪和两把带电刀刃。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive slapdash paladin"
+msgid_plural "inactive slapdash paladins"
+msgstr[0] "未激活的草率圣骑士"
+
+#. ~ Description for {'str': 'inactive slapdash paladin'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with a homemade flamethrower and two "
+"searing hot blades.  Activate this item, with gasoline in your inventory, to"
+" load and deploy the robot… preferably far from anything flammable"
+msgstr "一个回收的防御机器人，改装了自制火焰喷射器和两把灼热刀刃。激活此物品，并在你的库存中有汽油时，以装载并部署机器人……最好远离任何易燃物。"
+
+#: .\items.json
+msgid "inactive military robot"
+msgid_plural "inactive military robots"
+msgstr[0] "未激活的军用机器人"
+
+#. ~ Description for {'str': 'inactive military robot'}
+#: .\items.json
+msgid ""
+"An unpowered military robot fitted with an integrated 7.62 firearm and "
+"electric prod.  Activate this item, with ammo in your inventory, to load and"
+" deploy the robot."
+msgstr "一个未供电的军用机器人，配备了内置的7.62毫米火器和电击棒。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive robo-guardian"
+msgid_plural "inactive robo-guardians"
+msgstr[0] "未激活的机器人守护者"
+
+#. ~ Description for {'str': 'inactive robo-guardian'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with a pair of integrated 9mm firearms.  "
+"Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr "一个回收的军用机器人，改装了一对内置的9毫米火器。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive robote deluxe"
+msgid_plural "inactive robote deluxes"
+msgstr[0] "未激活的豪华机器人"
+
+#. ~ Description for {'str': 'inactive robote deluxe'}
+#: .\items.json
+msgid ""
+"A diamond-studded gold-plated robot armed with a pair of integrated 9mm "
+"firearms.  An opulent luxury-bot suitable for those who wish to survive the "
+"apocalypse in style.  Activate this item, with ammo in your inventory, to "
+"load and deploy the robot."
+msgstr ""
+"一个镶钻镀金的机器人，配备了一对内置的9毫米火器。一个奢华的豪华机器人，适合那些希望以时尚方式在末日中生存的人。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive robo-protector"
+msgid_plural "inactive robo-protectors"
+msgstr[0] "未激活的机器人保护者"
+
+#. ~ Description for {'str': 'inactive robo-protector'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with an integrated 5.56mm rifle.  "
+"Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr "一个回收的军用机器人，改装了内置的5.56毫米步枪。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive robo-defender"
+msgid_plural "inactive robo-defenders"
+msgstr[0] "未激活的机器人防御者"
+
+#. ~ Description for {'str': 'inactive robo-defender'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with an integrated 50bmg rifle.  Activate"
+" this item, with ammo in your inventory, to load and deploy the robot."
+msgstr "一个回收的军用机器人，改装了内置的50口径勃朗宁机枪步枪。激活此物品，并在你的库存中有弹药时，以装载并部署机器人。"
+
+#: .\items.json
+msgid "inactive advanced robot"
+msgid_plural "inactive advanced robots"
+msgstr[0] "未激活的先进机器人"
+
+#: .\items.json
+msgid "inactive glittering lady"
+msgid_plural "inactive glittering ladies"
+msgstr[0] "未激活的闪耀女士"
+
+#. ~ Description for {'str': 'inactive glittering lady', 'str_pl': 'inactive
+#. glittering ladies'}
+#: .\items.json
+msgid ""
+"A salvaged advanced robot transformed into a luminous beacon of destruction."
+"  It attacks hostile targets with its two integral lasers and blinding "
+"flashes.  Activate this item to deploy the robot."
+msgstr "一台经过改造的先进机器人，化身为毁灭的明亮信标。它使用内置的两道激光和致盲闪光攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive bitter spinster"
+msgid_plural "inactive bitter spinsters"
+msgstr[0] "不活跃的苦痛老处女"
+
+#. ~ Description for {'str': 'inactive bitter spinster'}
+#: .\items.json
+msgid ""
+"A salvaged military robot transformed into a caustic monster.  An internal "
+"acid fermenter feeds a ranged glob spitter and sprayer.  Activate this item "
+"to deploy the robot."
+msgstr "一台经过改造的军用机器人，化身为腐蚀性怪物。内部酸液发酵器为远程粘液喷射器和喷洒器供能。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive chickenwalker"
+msgid_plural "inactive chickenwalkers"
+msgstr[0] "不活跃的鸡足步行机"
+
+#: .\items.json
+msgid "inactive chainsaw horror"
+msgid_plural "inactive chainsaw horrors"
+msgstr[0] "不活跃的电锯惊魂"
+
+#. ~ Description for {'str': 'inactive chainsaw horror'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of whirring "
+"chainsaws and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr "一台经过改造的鸡足步行机，变为装饰着骷髅与尖刺的恐怖怪物。它使用一对旋转电锯和震耳欲聋的音响系统攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive screeching terror"
+msgid_plural "inactive screeching terrors"
+msgstr[0] "不活跃的尖啸恐惧"
+
+#. ~ Description for {'str': 'inactive screeching terror'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of piston-driven "
+"lances and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr ""
+"一台经过改造的鸡足步行机，变为装饰着骷髅与尖刺的恐怖怪物。它使用一对活塞驱动的长矛和震耳欲聋的音响系统攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive hooked nightmare"
+msgid_plural "inactive hooked nightmares"
+msgstr[0] "不活跃的钩链梦魇"
+
+#. ~ Description for {'str': 'inactive hooked nightmare'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of spinning hooks"
+" on chains and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr "一台经过改造的鸡足步行机，变为装饰着骷髅与尖刺的恐怖怪物。它使用一对链式旋转钩爪和震耳欲聋的音响系统攻击敌对目标。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "broken chickenbot"
+msgid_plural "broken chickenbots"
+msgstr[0] "损坏的鸡形机器人"
+
+#. ~ Description for {'str': 'broken chickenbot'}
+#: .\items.json
+msgid ""
+"A broken chicken walker.  Still looks intimidating despite being permanently"
+" inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr "一台损坏的鸡形步行机。尽管已永久失效，但其庞大的体型和质量仍令人望而生畏。可拆解获取零件。"
+
+#: .\items.json
+msgid "broken tank drone"
+msgid_plural "broken tank drones"
+msgstr[0] "损坏的坦克无人机"
+
+#. ~ Description for {'str': 'broken tank drone'}
+#: .\items.json
+msgid ""
+"A broken tank drone.  Still looks intimidating despite being permanently "
+"inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr "一台损坏的坦克无人机。尽管已永久失效，但其庞大的体型和质量仍令人望而生畏。可拆解获取零件。"
+
+#: .\items.json
+msgid "inactive tripod"
+msgid_plural "inactive tripods"
+msgstr[0] "未激活的三足机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive tripod'}.
+#: .\items.json
+msgid "The tribot rises to its feet and scans the area for contaminants."
+msgstr "三足机器人起身并扫描区域内的污染物。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive tripod'}.
+#: .\items.json
+msgid ""
+"The tribot glowers down at you and ignites its flamethrower.  Turns out you "
+"hate the smell of napalm."
+msgstr "三足机器人俯视着你并点燃了火焰喷射器。看来你讨厌凝固汽油的气味。"
+
+#. ~ Description for {'str': 'inactive tripod'}
+#: .\items.json
+msgid ""
+"This is an inactive Honda Regnal.  Using this item involves placing it on "
+"the ground, wondering how it fuels its flamethrower and turning it on.  If "
+"reprogrammed and rewired successfully the tribot will then identify you as "
+"an ally, roam around or follow you, and impale hostiles with its spiked "
+"cable weapons."
+msgstr ""
+"这是一台未激活的本田Regnal。使用此物品需将其放置在地面，疑惑其火焰喷射器的燃料来源，然后启动。若成功重编程并重新接线，三足机器人会将你识别为盟友，四处巡逻或跟随你，并用其尖刺电缆武器刺穿敌人。"
+
+#: .\items.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] "未激活的鸡形步行机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr "鸡形机器人出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr "鸡形机器人旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\items.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的鸡形步行机。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\items.json
+msgid "inactive tank drone"
+msgid_plural "inactive tank drones"
+msgstr[0] "未激活的坦克无人机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid "The tank drone rolls out and begins acquiring targets."
+msgstr "坦克无人机出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid ""
+"The tank drone swivels its turret and aims directly at you.  Don your brown "
+"pants!"
+msgstr "坦克无人机旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive tank drone'}
+#: .\items.json
+msgid ""
+"This is an inactive Beagle Mini-Tank UGV.  Using this item involves placing "
+"it on the ground, loading the unit with the factory-loaded 5.56 rounds and "
+"40mm cartridge grenades in your inventory (if you wish to divide your "
+"ammunition, set aside whatever ammunition you do NOT want to give the robot)"
+" and turning it on.  If reprogrammed and rewired successfully the tank drone"
+" will then identify you as a friendly, roam around or follow you, and attack"
+" all enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的Beagle迷你坦克UGV。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\items.json
+msgid "set of spidery legs"
+msgid_plural "sets of spidery legs"
+msgstr[0] "一组蜘蛛腿"
+
+#. ~ Description for {'str': 'set of spidery legs', 'str_pl': 'sets of spidery
+#. legs'}
+#: .\items.json
+msgid "A set of big pointy legs, like the ones found under a tripod."
+msgstr "一组巨大尖利的腿，类似三足机器人底部的部件。"
+
+#: .\items.json
+msgid "tripod chassis"
+msgid_plural "tripod chassis"
+msgstr[0] "三足机底盘"
+
+#. ~ Description for {'str_sp': 'tripod chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the tripod."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是三足机器人的骨架与装甲。"
+
+#: .\items.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] "探路者底盘"
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是探路者的骨架与装甲。"
+
+#: .\items.json
+msgid "Regulator chassis"
+msgid_plural "Regulator chassis"
+msgstr[0] "调节者底盘"
+
+#. ~ Description for {'str_sp': 'Regulator chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the Regulator tank."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是调节者坦克的骨架与装甲。"
+
+#: .\items.json
+msgid "inactive tankbot"
+msgid_plural "inactive tankbots"
+msgstr[0] "不活跃的坦克机器人"
+
+#: .\items.json
+msgid "inactive fist king"
+msgid_plural "inactive fist kings"
+msgstr[0] "不活跃的拳王"
+
+#. ~ Description for {'str': 'inactive fist king'}
+#. ~ Description for {'str': 'inactive atomic sultan'}
+#: .\items.json
+msgid ""
+"A salvaged tankbot refitted with a pair of powerful pneumatic hammers which "
+"it uses to crush anything in its way, including buildings.  Activate this "
+"item to deploy the robot."
+msgstr "一台经过改装的坦克机器人，配备了一对强大的气动锤，用于粉碎路径上的一切，包括建筑物。激活此物品以部署机器人。"
+
+#: .\items.json
+msgid "inactive atomic sultan"
+msgid_plural "inactive atomic sultans"
+msgstr[0] "不活跃的原子苏丹"
+
+#: .\modinfo.json
+msgid "Salvaged Robots"
+msgstr "残骸机器人"
+
+#. ~ Description for Salvaged Robots
+#: .\modinfo.json
+msgid ""
+"Expands the types of robots and allows players to jury-rig broken robots "
+"into functioning companions."
+msgstr "扩展了机器人类型，并允许玩家将损坏的机器人临时改装为可用的同伴。"
+
+#: .\monster_attacks.json
+msgid "The %1$s injects you with a syringe!"
+msgstr "%1$s用注射器给你注射了！"
+
+#: .\monster_attacks.json
+msgid "The %1$s injects <npcname> with a syringe!"
+msgstr "%1$s用注射器给<npcname>注射了！"
+
+#: .\monster_attacks.json
+msgid "The %1$s tries to inject you, but fails to penetrate your armor!"
+msgstr "%1$s试图给你注射，但未能穿透你的护甲！"
+
+#: .\monster_attacks.json
+msgid ""
+"The %1$s tries to inject <npcname>, but fails to penetrate their armor!"
+msgstr "%1$s试图给<npcname>注射，但未能穿透其护甲！"
+
+#: .\monsters.json
+msgid "craftbuddy"
+msgid_plural "craftbuddies"
+msgstr[0] "工艺伙伴"
+
+#. ~ Description for {'str': 'craftbuddy', 'str_pl': 'craftbuddies'}
+#: .\monsters.json
+msgid ""
+"A mobile crafting station used by workers in mines, on oil rigs, and in "
+"other remote locales.  In it's active state, the craftbuddy merely follows "
+"its user.  In it's deactivated state, the craft buddy is useable as a "
+"toolbench and multipurpose workstation."
+msgstr ""
+"一种移动式工作台，曾被矿工、石油钻井平台工人及其他偏远地区的工作人员使用。在激活状态下，工艺伙伴仅跟随其使用者。在停用状态下，工艺伙伴可用作工具台和多功能工作站。"
+
+#: .\monsters.json
+msgid "automated armor"
+msgid_plural "automated armors"
+msgstr[0] "自动化装甲"
+
+#. ~ Description for {'str': 'automated armor'}
+#: .\monsters.json
+msgid ""
+"A suit of power armor temporarily controlled by an attached AI-core.  "
+"Originally intended as a way to retrieve dead or wounded operators from "
+"combat, it was more commonly used for transporting the suit itself.  The AI "
+"is limited, and makes a poor combatant."
+msgstr "一套由附着的AI核心临时控制的动力装甲。最初设计用于从战场上回收死亡或受伤的操作员，但更常用于运输装甲本身。AI功能有限，作战能力较差。"
+
+#: .\monsters.json
+msgid "auto armor"
+msgid_plural "auto armors"
+msgstr[0] "自动装甲"
+
+#: .\monsters.json
+msgid "tripod"
+msgid_plural "tripods"
+msgstr[0] "三足机"
+
+#. ~ Description for {'str': 'tripod'}
+#: .\monsters.json
+msgid ""
+"The Honda Crop King.  Originally designed for agriculture, it has a trio of "
+"spiked retractable cables and where it used to mount pesticide sprayer the "
+"PrepNet Phyle have modified it to have a flamethrower for their war against "
+"the Mycus."
+msgstr ""
+"本田Crop King。最初设计用于农业，配备三根尖刺可伸缩电缆，而PrepNet宗族将其原有的农药喷洒器改装为火焰喷射器，用于对抗真菌族。"
+
+#: .\monsters.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] "鸡形步行机"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monsters.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"诺斯罗普ATSV，一种庞大、重武装且重装甲的机器人，以一对反关节腿行走。配备40毫米反车辆榴弹发射器、5.56毫米反人员枪械，并能对攻击者释放电击，是一种高效的自动哨兵，但因法律纠纷生产受限。"
+
+#: .\monsters.json
+msgid "Beagle Mini-Tank UGV"
+msgid_plural "Beagle Mini-Tank UGVs"
+msgstr[0] "比格微型坦克无人地面载具"
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monsters.json
+msgid ""
+"The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr "诺斯罗普·比格是一款冰箱大小的城市战无人地面载具。配备反坦克导弹发射器、40毫米榴弹发射器和多种反步兵武器，专为高风险城市战斗设计。"
+
+#: .\monsters.json
+msgid "floating lantern"
+msgid_plural "floating lanterns"
+msgstr[0] "浮空灯笼"
+
+#. ~ Description for {'str': 'floating lantern'}
+#: .\monsters.json
+msgid "A salvaged drone repurposed into a mobile lightsource."
+msgstr "一台经过改造的无人机，被重新用作移动光源。"
+
+#: .\monsters.json
+msgid "distract-o-hack"
+msgid_plural "distract-o-hacks"
+msgstr[0] "干扰黑客"
+
+#. ~ Description for {'str': 'distract-o-hack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed into a makeshift diversion tactic.  Once "
+"activated it will light up, produce sound, emit sparks, and move towards "
+"hostile targets.  Although fragile, the distract-o-hack's erratic movements "
+"make it difficult to hit."
+msgstr ""
+"一台经过改造的无人机，被重新用作临时干扰战术工具。一旦激活，它会发光、产生声音、迸发火花并朝敌对目标移动。尽管脆弱，但干扰黑客的不规则移动使其难以被击中。"
+
+#: .\monsters.json
+msgid "arsonhack"
+msgid_plural "arsonhacks"
+msgstr[0] "纵火黑客"
+
+#. ~ Description for {'str': 'arsonhack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed to spread flame and cause property damage.  It's"
+" almost as dangerous to its user as it is to the surroundings.  The "
+"arsonhack cannot be recovered once activated.  Only a reckless madman would "
+"dare to build this."
+msgstr ""
+"一架被改造用于散布火焰并造成财产损失的回收无人机。它对使用者几乎与对周围环境一样危险。纵火骇客一旦激活便无法回收。只有鲁莽的疯子才敢制造这东西。"
+
+#: .\monsters.json
+msgid "spore hack"
+msgid_plural "spore hacks"
+msgstr[0] "孢子骇客"
+
+#. ~ Description for {'str': 'spore hack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed to spread alien contaminants.  It periodically "
+"releases a puff of fungal spores.  Who in their right mind would build such "
+"a thing?"
+msgstr "一架被改造用于散布外星污染物的回收无人机。它会定期释放一团真菌孢子。哪个神志清醒的人会造这种东西？"
+
+#: .\monsters.json
+msgid "watercannon turret"
+msgid_plural "watercannon turrets"
+msgstr[0] "水炮炮塔"
+
+#. ~ Description for {'str': 'watercannon turret'}
+#: .\monsters.json
+msgid ""
+"A turret equipped with a jury-rigged watercannon in place of a proper "
+"firearm.  It's highly ineffective but the ammo is cheap."
+msgstr "一座配备临时水炮而非正规枪械的炮塔。它效率极低，但弹药很便宜。"
+
+#: .\monsters.json
+msgid "eyebot"
+msgid_plural "eyebots"
+msgstr[0] "眼球机器人"
+
+#. ~ Description for {'str': 'eyebot'}
+#: .\monsters.json
+msgid ""
+"A small aerial robot equipped with a suite of cameras and armed with a "
+"blinding flash.  No longer linked to police or security network, it "
+"continues its unending hunt for criminals and tresspassers."
+msgstr "一架配备全套摄像头并武装有致盲闪光的小型空中机器人。它已不再与警察或安保网络连接，却仍在持续追捕罪犯和入侵者。"
+
+#: .\monsters.json
+msgid "floating heater"
+msgid_plural "floating heaters"
+msgstr[0] "悬浮加热器"
+
+#. ~ Description for {'str': 'floating heater'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of warm air to heat an enclosed space."
+msgstr "一架被改造成悬浮空间加热器的回收眼球机器人。它持续喷射暖气流以加热密闭空间。"
+
+#: .\monsters.json
+msgid "floating furnace"
+msgid_plural "floating furnaces"
+msgstr[0] "悬浮熔炉"
+
+#. ~ Description for {'str': 'floating furnace'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of dangerously hot air to heat an enclosed space.  Warning!  "
+"Can result in rapid heatstroke!"
+msgstr "一架被改造成悬浮空间加热器的回收眼球机器人。它持续喷射危险的热空气以加热密闭空间。警告！可能导致快速中暑！"
+
+#: .\monsters.json
+msgid "burning eye"
+msgid_plural "burning eyes"
+msgstr[0] "燃烧之眼"
+
+#. ~ Description for {'str': 'burning eye'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot refitted with a laser weapon.  The lack of recoil allows "
+"the hovering robot to aim and fire without penalty.  It has decent range and"
+" damage, but requires an extended recharge time between shots."
+msgstr ""
+"一架改装了激光武器的回收眼球机器人。无后坐力的特性让这台悬浮机器人能够无惩罚地瞄准射击。它拥有不错的射程和伤害，但每次射击后需要较长的充能时间。"
+
+#: .\monsters.json
+msgid "utility robot"
+msgid_plural "utility robots"
+msgstr[0] "实用机器人"
+
+#. ~ Description for {'str': 'utility robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of utility robot formerly in use by government "
+"agencies, private corporations, and civilians alike."
+msgstr "众多实用机器人型号之一，曾广泛应用于政府机构、私营公司及平民领域。"
+
+#: .\monsters.json
+msgid "hazmat bot"
+msgid_plural "hazmat bots"
+msgstr[0] "防化机器人"
+
+#. ~ Description for {'str': 'hazmat bot'}
+#: .\monsters.json
+msgid ""
+"A utility robot designed for cleaning up waste material in hazardous "
+"conditions."
+msgstr "一种设计用于在危险条件下清理废料的实用机器人。"
+
+#: .\monsters.json
+msgid "butler-bot"
+msgid_plural "butler-bots"
+msgstr[0] "管家机器人"
+
+#. ~ Description for {'str': 'butler-bot'}
+#: .\monsters.json
+msgid "A luxury model utility robot for domestic use."
+msgstr "一款家用豪华型实用机器人。"
+
+#: .\monsters.json
+msgid "construction robot"
+msgid_plural "construction robots"
+msgstr[0] "建筑机器人"
+
+#. ~ Description for {'str': 'construction robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of construction robot formerly in use by government "
+"agencies and private corporations.  It is equipped with an integrated "
+"welder, flashlight, nailgun, and jackhammer."
+msgstr "这是政府机构和私营公司以前使用的众多建筑机器人型号之一。它配备了集成焊枪、手电筒、射钉枪和手提钻。"
+
+#: .\monsters.json
+msgid "firefighter robot"
+msgid_plural "firefighter robots"
+msgstr[0] "消防机器人"
+
+#. ~ Description for {'str': 'firefighter robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of fire-fighting robot formerly in use by local fire "
+"departments and emergency services.  Designed for entering burning buildings"
+" and other situations deemed too dangerous for human firefighters."
+msgstr "这是地方消防部门和应急服务机构以前使用的众多消防机器人型号之一。设计用于进入燃烧的建筑物以及其他被认为对人类消防员过于危险的情况。"
+
+#: .\monsters.json
+msgid "blob breeder"
+msgid_plural "blob breeders"
+msgstr[0] "粘液培育者"
+
+#. ~ Description for {'str': 'blob breeder'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It will intermittently release a group of living blobs.  Why on Earth"
+" would you build this?"
+msgstr "一架被改造成外星粘液移动孵化器的回收实用机器人。它会间歇性地释放一群活体粘液。你到底为什么要造这个？"
+
+#: .\monsters.json
+msgid "slime breeder"
+msgid_plural "slime breeders"
+msgstr[0] "史莱姆培育者"
+
+#. ~ Description for {'str': 'slime breeder'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It will intermittently release a group of friendly blobs."
+msgstr "一架被改造成外星粘液移动孵化器的回收实用机器人。它会间歇性地释放一群友好的粘液。"
+
+#: .\monsters.json
+msgid "digestron"
+msgid_plural "digestrons"
+msgstr[0] "消化者"
+
+#. ~ Description for {'str': 'digestron'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into an automated vacuum cleaner.  It "
+"will suck stray items off the ground and dissolve them with its internal "
+"acid reserves.  A useful helper for keeping your front lawn clean of debris…"
+" or corpses."
+msgstr ""
+"一架被改造成自动吸尘器的回收实用机器人。它会吸起地上的散落物品，并用其内部储存的酸液将其溶解。一个有用的帮手，可以保持你前院草坪没有杂物……或者尸体。"
+
+#: .\monsters.json
+msgid "bee bot"
+msgid_plural "bee bots"
+msgstr[0] "蜜蜂机器人"
+
+#. ~ Description for {'str': 'bee bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into an ambulatory bee hive that "
+"periodically removes and delivers honey combs.  It protects the insect "
+"colony with a mechanical crossbow mounted to its chassis."
+msgstr "一架被改造成移动蜂巢的回收实用机器人，会定期取出并递送蜂巢。它通过安装在机身上的机械弩来保护昆虫群落。"
+
+#: .\monsters.json
+msgid "medical robot"
+msgid_plural "medical robots"
+msgstr[0] "医疗机器人"
+
+#. ~ Description for {'str': 'medical robot'}
+#: .\monsters.json
+msgid ""
+"A free roaming medical robot capable of administering powerful anesthetics "
+"and performing complex surgical operations, usually in that order.  Faulty "
+"bio-diagnostic programs resulted in numerous lawsuits before the Cataclysm."
+msgstr "一种自由移动的医疗机器人，能够施用强效麻醉剂并进行复杂的外科手术，通常按此顺序进行。在灾变之前，有缺陷的生物诊断程序导致了大量诉讼。"
+
+#: .\monsters.json
+msgid "assassination robot"
+msgid_plural "assassination robots"
+msgstr[0] "暗杀机器人"
+
+#. ~ Description for {'str': 'assassination robot'}
+#: .\monsters.json
+msgid ""
+"A salvaged medical robot repurposed into a murder machine.  Its surgical "
+"tools have been replaced with a fearsome set of blades, and its hypodermic "
+"needle now delivers powerful toxins."
+msgstr "一台被回收的医疗机器人，被改造成了杀戮机器。它的手术工具已被替换为一套可怕的刀刃，而皮下注射针现在用于输送强效毒素。"
+
+#: .\monsters.json
+msgid "elixirator"
+msgid_plural "elixirators"
+msgstr[0] "炼药机"
+
+#. ~ Description for {'str': 'elixirator'}
+#: .\monsters.json
+msgid ""
+"This doesn't work yet.  Don't build it… A salvaged medibot with its internal"
+" pharma-fabricators repurposed to produce mutagen."
+msgstr "这东西还不能用。别造它……一台被回收的医疗机器人，其内部制药装置被重新利用来生产诱变剂。"
+
+#: .\monsters.json
+msgid "party bot"
+msgid_plural "party bots"
+msgstr[0] "派对机器人"
+
+#. ~ Description for {'str': 'party bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged medibot stuffed with marijuana, covered in multicolored blinking "
+"lights, and programmed to dance.  Why on Earth would you build this crazy "
+"thing?"
+msgstr "一台被回收的医疗机器人，塞满了大麻，覆盖着五颜六色的闪烁灯光，并被编程来跳舞。你到底为什么要造这个疯狂的东西？"
+
+#: .\monsters.json
+msgid "skitterbot"
+msgid_plural "skitterbots"
+msgstr[0] "疾行机器人"
+
+#. ~ Description for {'str': 'skitterbot'}
+#: .\monsters.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two close-range tazers, it can skate across the ground with great"
+" speed."
+msgstr "一种昆虫形态机器人，体型如小狗，专为家庭安防设计。配备两把近程电击枪，能以极快速度滑行移动。"
+
+#: .\monsters.json
+msgid "rat snatcher"
+msgid_plural "rat snatchers"
+msgstr[0] "捕鼠机"
+
+#. ~ Description for {'str': 'rat snatcher'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot repurposed for hunting small game.  It's faster than "
+"the original model but far less sturdy."
+msgstr "一台被回收的疾行机器人，被重新用于狩猎小型猎物。它比原型号更快，但远没有那么坚固。"
+
+#: .\monsters.json
+msgid "grab-bot"
+msgid_plural "grab-bots"
+msgstr[0] "抓取机器人"
+
+#. ~ Description for {'str': 'grab-bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot repurposed to grab onto and immobilize enemies.  It's "
+"meant to work in a pack."
+msgstr "一台被回收的疾行机器人，被重新用于抓住并固定敌人。它被设计为群体协作。"
+
+#: .\monsters.json
+msgid "pest hunter"
+msgid_plural "pest hunters"
+msgstr[0] "害虫猎手"
+
+#. ~ Description for {'str': 'pest hunter'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot refitted with an 8mm integrated firearm.  The robot's "
+"small size precludes rapid fire, due to recoil, and requires the use of "
+"lightweight caseless ammo."
+msgstr "一台被回收的疾行机器人，改装了8毫米内置枪械。由于后坐力，机器人的小尺寸限制了其快速射击能力，并且需要使用轻质无壳弹药。"
+
+#: .\monsters.json
+msgid "insane cyborg"
+msgid_plural "insane cyborgs"
+msgstr[0] "疯狂改造人"
+
+#. ~ Description for {'str': 'insane cyborg'}
+#: .\monsters.json
+msgid ""
+"A robot body with the head of a human.  All kinds of electronic wires and "
+"devices are implanted in its head.  This cyborg moves erratically and has a "
+"confused and deranged look in its eyes."
+msgstr "一具机器人躯体，上面安装着人类的头颅。各种电子线路和设备植入其头部。这个改造人行动诡异，眼中流露出困惑和疯狂的神色。"
+
+#: .\monsters.json
+msgid "necrotic cyborg"
+msgid_plural "necrotic cyborgs"
+msgstr[0] "死灵改造人"
+
+#. ~ Description for {'str': 'necrotic cyborg'}
+#: .\monsters.json
+msgid ""
+"A salvaged cyborg refitted with the head of a zombie necromancer.  The "
+"animate head retains some of its ability to revive zombies.  Why on Earth "
+"would anyone build such an abomination?"
+msgstr "一台被回收的改造人，改装了僵尸死灵法师的头颅。这个活化的头颅保留了部分复活僵尸的能力。到底为什么会有人造出这样的怪物？"
+
+#: .\monsters.json
+msgid "security robot"
+msgid_plural "security robots"
+msgstr[0] "安防机器人"
+
+#. ~ Description for {'str': 'security robot'}
+#: .\monsters.json
+msgid ""
+"An automated defense robot still active due to its internal power source.  "
+"This one is equipped with an electric prod and an integrated shotgun."
+msgstr "一台自动化防御机器人，因其内部电源仍在运行。这台机器人装备了电击棒和内置霰弹枪。"
+
+#: .\monsters.json
+msgid "military robot"
+msgid_plural "military robots"
+msgstr[0] "军用机器人"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 5.56mm firearm."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置5.56毫米枪械。"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military training robot still operating due to its internal power core.  "
+"This one is armed with a high power paintball gun and a foam baton."
+msgstr "一台军用训练机器人，因其内部动力核心仍在运行。这台机器人装备了高功率彩弹枪和泡沫警棍。"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 7.62mm firearm."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置7.62毫米枪械。"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 50 caliber firearm."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置.50口径枪械。"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 8mm firearm."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置8毫米枪械。"
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 5x50mm flechette gun."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置5x50毫米飞镖枪。"
+
+#: .\monsters.json
+msgid "grenadier robot"
+msgid_plural "grenadier robots"
+msgstr[0] "掷弹兵机器人"
+
+#. ~ Description for {'str': 'grenadier robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 40mm grenade launcher."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置40毫米榴弹发射器。"
+
+#: .\monsters.json
+msgid "military flame robot"
+msgid_plural "military flame robots"
+msgstr[0] "军用火焰机器人"
+
+#. ~ Description for {'str': 'military flame robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated flamethrower."
+msgstr "一台军用机器人，因其内部动力核心仍在运行。这台机器人装备了电击棒和内置火焰喷射器。"
+
+#: .\monsters.json
+msgid "advanced robot"
+msgid_plural "advanced robots"
+msgstr[0] "先进机器人"
+
+#. ~ Description for {'str': 'advanced robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is armed with a powerful laser-emitter."
+msgstr "一台先进机器人，因其内部聚变核心仍在运行。此型号装备了强大的激光发射器。"
+
+#: .\monsters.json
+msgid "laser-emitting robot"
+msgid_plural "laser-emitting robots"
+msgstr[0] "激光发射机器人"
+
+#. ~ Description for {'str': 'laser-emitting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful laser-emitter."
+msgstr "一台因其内部聚变核心而仍在运作的先进机器人。该型号配备了一台强大的激光发射器。"
+
+#: .\monsters.json
+msgid "plasma-ejecting robot"
+msgid_plural "plasma-ejecting robots"
+msgstr[0] "等离子喷射机器人"
+
+#. ~ Description for {'str': 'plasma-ejecting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful plasma-ejector."
+msgstr "一台因其内部聚变核心而仍在运作的先进机器人。该型号配备了一台强大的等离子喷射器。"
+
+#: .\monsters.json
+msgid "railgun robot"
+msgid_plural "railgun robots"
+msgstr[0] "磁轨炮机器人"
+
+#. ~ Description for {'str': 'railgun robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful railgun."
+msgstr "一台因其内部聚变核心而仍在运作的先进机器人。该型号配备了一门强大的磁轨炮。"
+
+#: .\monsters.json
+msgid "electro-casting robot"
+msgid_plural "electro-casting robots"
+msgstr[0] "电击投射机器人"
+
+#. ~ Description for {'str': 'electro-casting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful electro-caster."
+msgstr "一台因其内部聚变核心而仍在运作的先进机器人。该型号配备了一台强大的电击投射器。"
+
+#: .\monsters.json
+msgid "EMP-projecting robot"
+msgid_plural "EMP-projecting robots"
+msgstr[0] "EMP投射机器人"
+
+#. ~ Description for {'str': 'EMP-projecting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful EMP-projector."
+msgstr "一台因其内部聚变核心而仍在运作的先进机器人。该型号配备了一台强大的EMP投射器。"
+
+#: .\monsters.json
+msgid "junkyard cowboy"
+msgid_plural "junkyard cowboys"
+msgstr[0] "废料场牛仔"
+
+#. ~ Description for {'str': 'junkyard cowboy'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with a shotgun and two circular buzzsaws."
+"  Due to bootleg targeting software, it can only attack nearby targets."
+msgstr "一台经过改装的回收防御机器人，配备了一把霰弹枪和两个圆形电锯。由于使用了盗版瞄准软件，它只能攻击附近的目标。"
+
+#: .\monsters.json
+msgid "shortcircuit samurai"
+msgid_plural "shortcircuit samurais"
+msgstr[0] "短路武士"
+
+#. ~ Description for {'str': 'shortcircuit samurai'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with two electrified blades.  The over-"
+"taxed power systems result in somewhat sluggish movement and occasional "
+"discharges.  Keep a safe distance!"
+msgstr "一台经过改装的回收防御机器人，配备了两把带电刀刃。超负荷的电力系统导致其移动有些迟缓，并偶尔会放电。请保持安全距离！"
+
+#: .\monsters.json
+msgid "slapdash paladin"
+msgid_plural "slapdash paladins"
+msgstr[0] "草率圣骑士"
+
+#. ~ Description for {'str': 'slapdash paladin'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with a homemade flamethrower and two "
+"searing hot blades.  The burning fuel reserves make the robot noisy and "
+"smokey."
+msgstr "一台经过改装的回收防御机器人，配备了一台自制的火焰喷射器和两把灼热刀刃。燃烧的燃料储备使机器人发出噪音并冒出浓烟。"
+
+#: .\monsters.json
+msgid "robo-guardian"
+msgid_plural "robo-guardians"
+msgstr[0] "机器人守卫"
+
+#. ~ Description for {'str': 'robo-guardian'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with a pair of integrated 9mm firearms.  "
+"Multiple weapons provide a high rate of fire, but jury-rigged sensors limit "
+"the effective range and accuracy.  It makes for a good close range "
+"bodyguard."
+msgstr ""
+"一台经过改装的回收军用机器人，配备了一对内置的9毫米枪械。多种武器提供了高射速，但临时拼凑的传感器限制了有效射程和精度。它是一位优秀的近战保镖。"
+
+#: .\monsters.json
+msgid "robote deluxe"
+msgid_plural "robote deluxe"
+msgstr[0] "豪华机器人"
+
+#. ~ Description for {'str_sp': 'robote deluxe'}
+#: .\monsters.json
+msgid ""
+"A diamond-studded gold-plated robot armed with a pair of integrated 9mm "
+"firearms.  An opulent luxury-bot suitable for those who wish to survive the "
+"apocalypse in style."
+msgstr "一台镶有钻石、镀金的机器人，配备了一对内置的9毫米枪械。这是一台奢华的豪华机器人，适合那些希望以时尚方式在末日中生存的人。"
+
+#: .\monsters.json
+msgid "robo-protector"
+msgid_plural "robo-protectors"
+msgstr[0] "机器人保护者"
+
+#. ~ Description for {'str': 'robo-protector'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with an integrated 5.56mm rifle.  The "
+"modified firearm is only capable of three round bursts, but range and "
+"accuracy are decent.  It makes for a solid combat ally."
+msgstr "一台经过改装的回收军用机器人，配备了一把内置的5.56毫米步枪。改装后的枪械只能进行三连发，但射程和精度尚可。它是一位可靠的战斗盟友。"
+
+#: .\monsters.json
+msgid "robo-defender"
+msgid_plural "robo-defenders"
+msgstr[0] "机器人防御者"
+
+#. ~ Description for {'str': 'robo-defender'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with an integrated 50bmg rifle.  Improved"
+" optics provide nightvision and excellent range, but glitchy targeting "
+"software requires an extended pause between shots.  It makes for a good long"
+" range sniper."
+msgstr ""
+"一台经过改装的回收军用机器人，配备了一把内置的.50 "
+"BMG步枪。改进的光学设备提供了夜视和极佳的射程，但故障的瞄准软件导致射击间隔较长。它是一位优秀的远程狙击手。"
+
+#: .\monsters.json
+msgid "glittering lady"
+msgid_plural "glittering ladies"
+msgstr[0] "闪耀女士"
+
+#. ~ Description for {'str': 'glittering lady', 'str_pl': 'glittering ladies'}
+#: .\monsters.json
+msgid ""
+"A salvaged advanced robot transformed into a luminous beacon of destruction."
+"  It has two integral lasers and emits a steady pulse of blinding flashes.  "
+"Due to mismatched focusing lenses, the lasers have limited range."
+msgstr "一台被改造成毁灭性发光信标的回收先进机器人。它拥有两门内置激光器，并持续发出致盲的脉冲闪光。由于聚焦镜片不匹配，激光器的射程有限。"
+
+#: .\monsters.json
+msgid "bitter spinster"
+msgid_plural "bitter spinsters"
+msgstr[0] "刻薄老处女"
+
+#. ~ Description for {'str': 'bitter spinster'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot transformed into a caustic monster.  An internal "
+"acid fermenter feeds a ranged glob spitter and sprayer.  The many tanks and "
+"pipes weaken the robot structurally, making it somewhat fragile."
+msgstr ""
+"一台被改造成腐蚀性怪物的回收军用机器人。一个内部酸液发酵器为远程球状喷射器和喷雾器提供原料。众多的罐体和管道削弱了机器人的结构，使其有些脆弱。"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monsters.json
+msgid ""
+"The Northrup ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"诺斯罗普 "
+"ATSV，一台巨大的、全副武装的重型机器人，依靠一对反关节腿行走。它配备了一门40毫米反车辆榴弹发射器、一把5.56毫米反人员枪械，并能对攻击者进行电击，是一款高效的自动哨兵，尽管由于法律纠纷，其生产数量有限。"
+
+#: .\monsters.json
+msgid "chainsaw horror"
+msgid_plural "chainsaw horrors"
+msgstr[0] "电锯惊魂"
+
+#. ~ Description for {'str': 'chainsaw horror'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"whirring chainsaws.  A speaker system has been installed to blast terrifying"
+" shrieks of distorted music.  No one in their right mind would craft such an"
+" awful creature."
+msgstr ""
+"一台被改装成恐怖怪物的回收鸡足机器人，装饰着骷髅与尖刺。它用远程武器换上了一套嗡嗡作响的链锯。安装了扬声器系统，用以播放扭曲音乐发出的骇人尖啸。任何神志清醒的人都不会制造出如此可怕的造物。"
+
+#: .\monsters.json
+msgid "screeching terror"
+msgid_plural "screeching terrors"
+msgstr[0] "尖啸恐惧"
+
+#. ~ Description for {'str': 'screeching terror'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"piston-driven lances.  A speaker system has been installed to blast "
+"terrifying shrieks of distorted music.  No one in their right mind would "
+"craft such a hellish beast."
+msgstr ""
+"一台被改装成恐怖怪物的回收鸡足机器人，装饰着骷髅与尖刺。它用远程武器换上了一套活塞驱动的长矛。安装了扬声器系统，用以播放扭曲音乐发出的骇人尖啸。任何神志清醒的人都不会制造出如此地狱般的野兽。"
+
+#: .\monsters.json
+msgid "hooked nightmare"
+msgid_plural "hooked nightmares"
+msgstr[0] "钩刺梦魇"
+
+#. ~ Description for {'str': 'hooked nightmare'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"spinning chains terminating in bloody hooks.  A speaker system has been "
+"installed to blast terrifying shrieks of distorted music.  No one in their "
+"right mind would craft such a twisted abomination."
+msgstr ""
+"一台被改装成恐怖怪物的回收鸡足机器人，装饰着骷髅与尖刺。它用远程武器换上了一套末端带有血淋淋钩子的旋转锁链。安装了扬声器系统，用以播放扭曲音乐发出的骇人尖啸。任何神志清醒的人都不会制造出如此扭曲的畸形造物。"
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monsters.json
+msgid ""
+"The Northrup Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr "诺斯罗普·比格犬是一台冰箱大小的城市战无人地面载具。配备反坦克导弹发射器、40毫米榴弹发射器和众多反步兵武器，专为高风险城市战斗设计。"
+
+#: .\monsters.json
+msgid "fist king"
+msgid_plural "fist kings"
+msgstr[0] "拳击之王"
+
+#. ~ Description for {'str': 'fist king'}
+#: .\monsters.json
+msgid ""
+"A salvaged tankbot refitted with a pair of powerful pneumatic hammers which "
+"it uses to crush anything in its way, including buildings.  Although lacking"
+" ranged weapons, its armor and strength make it a match for the even the "
+"biggest monsters.  Only a madman would dare build such a reckless behemoth."
+msgstr ""
+"一台回收的坦克机器人，改装了一对强大的气动锤，用以粉碎路径上的一切，包括建筑物。虽然缺乏远程武器，但其装甲和力量使其足以匹敌甚至最大的怪物。只有疯子才敢建造如此鲁莽的庞然大物。"
+
+#: .\monsters.json
+msgid "atomic sultan"
+msgid_plural "atomic sultans"
+msgstr[0] "原子苏丹"
+
+#. ~ Description for {'str': 'atomic sultan'}
+#: .\monsters.json
+msgid ""
+"A salvaged tankbot refitted with burning hot man-crushers.  Although lacking"
+" ranged weapons, its armor and strength make it a match for even the biggest"
+" foes.  Multiple fusion cores give the robot ample power but also cause "
+"radioactive gas leaks.  Only a lunatic would dare build such a reckless "
+"monster."
+msgstr ""
+"一台回收的坦克机器人，改装了灼热的人体粉碎器。虽然缺乏远程武器，但其装甲和力量使其足以匹敌甚至最大的敌人。多个聚变核心为机器人提供了充足动力，但也导致了放射性气体泄漏。只有疯子才敢建造如此鲁莽的怪物。"
+
+#: .\roboguns.json
+msgid "integral nailgun"
+msgid_plural "integral nailguns"
+msgstr[0] "一体式钉枪"
+
+#: .\roboguns.json
+msgid ""
+"This is a pseudo item for monster attacks. If you see this, it's a bug."
+msgstr "这是用于怪物攻击的伪物品。如果你看到这个，那是个错误。"
+
+#: .\roboguns.json
+msgid "auto"
+msgstr "自动"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "冲锋枪"
+
+#: .\roboguns.json
+msgid "mounted crossbow"
+msgid_plural "mounted crossbows"
+msgstr[0] "架设式十字弩"
+
+#: .\roboguns.json
+msgid "single"
+msgstr "单发"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "发射器"
+
+#: .\roboguns.json
+msgid "Vortical plasma beam"
+msgid_plural "Vortical plasma beams"
+msgstr[0] "涡旋等离子光束"
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\speech.json
+msgid "\"bzzzzzz.\""
+msgstr "\"滋滋滋滋滋。\""
+
+#: .\speech.json
+msgid "\"Beep.\""
+msgstr "\"哔。\""
+
+#: .\speech.json
+msgid "\"Beep?\""
+msgstr "\"哔？\""
+
+#: .\speech.json
+msgid "\"Beep!\""
+msgstr "\"哔！\""
+
+#: .\speech.json
+msgid "\"Beeeeep beep.\""
+msgstr "\"哔————哔哔。\""
+
+#: .\speech.json
+msgid "\"Bebebeeeep.\""
+msgstr "\"哔哔哔哔————。\""
+
+#: .\speech.json
+msgid "\"Beep boop beep?\""
+msgstr "\"哔 啵 哔？\""
+
+#: .\speech.json
+msgid "\"Beedoo-Beep.\""
+msgstr "\"哔嘟—哔。\""
+
+#: .\speech.json
+msgid "\"Beep Beep.  Whirr.\""
+msgstr "\"哔哔。 嗡——。\""
+
+#: .\speech.json
+msgid "\"Vrrrr Hrrrmmm.\""
+msgstr "\"嗡———— 哼嗯嗯。\""
+
+#: .\speech.json
+msgid "\"Whirrrrr-click click.\""
+msgstr "\"嗡————咔哒 咔哒。\""
+
+#: .\speech.json
+msgid "\"Boodoobeep beep beep.\""
+msgstr "\"嘟哔哔哔 哔哔 哔。\""
+
+#: .\speech.json
+msgid "\"Brannnnnnn Brzt Brmmmm.\""
+msgstr "\"布兰嗯嗯嗯嗯 布兹特 布嗯嗯嗯。\""
+
+#: .\speech.json
+msgid "\"Whshoooo.  Brzzzt.  Brzzzt.\""
+msgstr "\"呼咻——。 布兹兹特。 布兹兹特。\""
+
+#: .\speech.json
+msgid "\"Brrm Bum Brrm?\""
+msgstr "\"布嗯 砰 布嗯？\""
+
+#: .\speech.json
+msgid "\"Pwweeee Krsht.\""
+msgstr "\"噗咿———— 喀什特。\""
+
+#: .\speech.json
+msgid "\"Fshkt fshkt.  Booop.\""
+msgstr "\"咻咻特 咻咻特。 嘟————。\""
+
+#: .\speech.json
+msgid "\"Vzt.  Vzt.  Krshhhhhhhh.\""
+msgstr "\"Vzt.  Vzt.  Krshhhhhhhh.\""
+
+#: .\speech.json
+msgid "\"Whhheeee-oooo.  Bedeep.\""
+msgstr "\"Whhheeee-oooo.  Bedeep.\""
+
+#: .\speech.json
+msgid "\"Grrrnd clang whirrrr.\""
+msgstr "\"Grrrnd clang whirrrr.\""
+
+#: .\speech.json
+msgid "\"Grrrrrrrnd.  Grrrnd.\""
+msgstr "\"Grrrrrrrnd.  Grrrnd.\""
+
+#: .\speech.json
+msgid "\"Cla-clang cla-clang!\""
+msgstr "\"Cla-clang cla-clang!\""
+
+#: .\speech.json
+msgid "\"Klang!\""
+msgstr "\"Klang!\""
+
+#: .\speech.json
+msgid "\"Bzzzt.  Bzzzzt!\""
+msgstr "\"Bzzzt.  Bzzzzt!\""
+
+#: .\speech.json
+msgid "\"Bedeep.  Whurrrrrmmmm.\""
+msgstr "\"Bedeep.  Whurrrrrmmmm.\""
+
+#: .\speech.json
+msgid "\"Pwwowm.  Fsht fshrrrr.\""
+msgstr "\"Pwwowm.  Fsht fshrrrr.\""
+
+#: .\speech.json
+msgid "\"Click.  Clicliclick.  Vrnnnk.\""
+msgstr "\"Click.  Clicliclick.  Vrnnnk.\""
+
+#: .\speech.json
+msgid "\"Shwwwrrrrnnnzzz bzzt.\""
+msgstr "\"Shwwwrrrrnnnzzz bzzt.\""
+
+#: .\speech.json
+msgid "a high pitched alarm."
+msgstr "一阵尖锐的警报声。"
+
+#: .\speech.json
+msgid "a blaring siren."
+msgstr "一阵刺耳的警笛声。"
+
+#: .\speech.json
+msgid "\"CHUG chug chug.\""
+msgstr "\"CHUG chug chug.\""
+
+#: .\speech.json
+msgid "\"Creak!  Clang clang.\""
+msgstr "\"Creak!  Clang clang.\""
+
+#: .\speech.json
+msgid "\"Khr Khr Khr.\""
+msgstr "\"Khr Khr Khr.\""
+
+#: .\speech.json
+msgid "a mechanical groaning."
+msgstr "一阵机械的呻吟声。"
+
+#: .\speech.json
+msgid "grinding gears."
+msgstr "齿轮的摩擦声。"
+
+#: .\speech.json
+msgid "tortured machinery."
+msgstr "受折磨的机械声。"
+
+#: .\robot_additions\40mm.json
+msgid "40mm EMP grenade"
+msgid_plural "40mm EMP grenades"
+msgstr[0] "40毫米EMP手榴弹"
+
+#. ~ Description for {'str': '40mm EMP grenade'}
+#: .\robot_additions\40mm.json
+msgid ""
+"A 40mm grenade with an EMP charge.  It will release an electromagnetic pulse"
+" capable of damaging robots and some equipment."
+msgstr "一枚装有EMP装药的40毫米手榴弹。它会释放出能够损坏机器人和部分设备的电磁脉冲。"
+
+#: .\robot_additions\40mm.json
+msgid "active EMP grenade"
+msgid_plural "active EMP grenades"
+msgstr[0] "激活的EMP手榴弹"
+
+#. ~ Description for {'str': 'active EMP grenade'}
+#: .\robot_additions\40mm.json
+msgid ""
+"This EMP grenade is active, and will shortly detonate, creating a large EMP "
+"field that damages robots and drains bionic energy.  You may not want to be "
+"holding it much longer."
+msgstr "这枚EMP手榴弹已激活，即将爆炸，产生一个大型EMP场，损坏机器人并耗尽仿生能量。你或许不该再拿着它了。"
+
+#: .\robot_additions\items.json
+msgid "robot carrier"
+msgid_plural "robot carriers"
+msgstr[0] "机器人运载器"
+
+#. ~ Description for {'str': 'robot carrier'}
+#: .\robot_additions\items.json
+msgid ""
+"A heavy frame outfitted with tie-downs and attachment points for carrying "
+"cargo, with additional railings to keep a large machine in place.  It is "
+"meant to hold large drones and robots for transport.  Use it on a suitable "
+"robot to capture, use it on an empty tile to release."
+msgstr ""
+"一个重型框架，配有系紧点和附件点用于承载货物，并带有额外的栏杆以固定大型机器。它旨在运输大型无人机和机器人。对合适的机器人使用以捕获，对空地块使用以释放。"
+
+#: .\robot_additions\items.json
+msgid "active glowball"
+msgid_plural "active glowballs"
+msgstr[0] "激活的发光球"
+
+#. ~ Use action msg for {'str': 'active glowball'}.
+#: .\robot_additions\items.json
+msgid "The glowball goes dim."
+msgstr "发光球变暗了。"
+
+#. ~ Description for {'str': 'active glowball'}
+#: .\robot_additions\items.json
+msgid "A small plastic ball filled with glowing chemicals."
+msgstr "一个装满发光化学品的小塑料球。"
+
+#: .\robot_additions\overmap_terrain.json
+msgid "robot dispatch center"
+msgstr "机器人调度中心"
+
+#: .\robot_additions\paintball.json
+msgid "glowball"
+msgid_plural "glowballs"
+msgstr[0] "发光球"
+
+#. ~ Description for {'str': 'glowball'}
+#: .\robot_additions\paintball.json
+msgid ""
+"A tube of small glowballs taken off the market due to hazardous chemicals.  "
+"They deal virtually no damage, but light up on impact.  Useful for "
+"illuminating an area without lighting up yourself in the process."
+msgstr "一管因含有危险化学品而下市的小型发光球。它们几乎不造成伤害，但撞击时会发光。适用于照亮区域，同时避免在此过程中暴露自身。"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robo-Hacker"
+msgstr "机器人黑客"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robo-Hacker"
+msgstr "机器人黑客"
+
+#. ~ Profession (male Robo-Hacker) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the end, your hobby was illegally reprogramming and repurposing "
+"commercial robots, but you never thought your survival might depend on it."
+msgstr "在末日降临前，你的爱好是非法重编程和改造商用机器人，但你从未想过自己的生存会依赖于此。"
+
+#. ~ Profession (female Robo-Hacker) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the end, your hobby was illegally reprogramming and repurposing "
+"commercial robots, but you never thought your survival might depend on it."
+msgstr "在末日降临前，你的爱好是非法重编程和改造商用机器人，但你从未想过自己的生存会依赖于此。"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robotics Engineer"
+msgstr "机器人工程师"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robotics Engineer"
+msgstr "机器人工程师"
+
+#. ~ Profession (male Robotics Engineer) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a low-level engineer at a robotics manufacturer.  The management "
+"kept telling you putting flamethrowers on manhacks was 'unnecessary' and "
+"'too dangerous,' but there's nothing to stop you now."
+msgstr "你曾是机器人制造商的低级工程师。管理层一直告诉你，在追猎机器人上安装火焰喷射器是‘不必要的’且‘太危险’，但现在没什么能阻止你了。"
+
+#. ~ Profession (female Robotics Engineer) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a low-level engineer at a robotics manufacturer.  The management "
+"kept telling you putting flamethrowers on manhacks was 'unnecessary' and "
+"'too dangerous,' but there's nothing to stop you now."
+msgstr "你曾是机器人制造商的低级工程师。管理层一直告诉你，在追猎机器人上安装火焰喷射器是‘不必要的’且‘太危险’，但现在没什么能阻止你了。"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robotics Prodigy"
+msgstr "机器人天才"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robotics Prodigy"
+msgstr "机器人天才"
+
+#. ~ Profession (male Robotics Prodigy) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been building robots since you could hold a soldering iron, and you "
+"don't intend to let the end of the world stop that from continuing."
+msgstr "自从你能拿起烙铁起，你就一直在制造机器人，你不打算让世界末日阻止你继续下去。"
+
+#. ~ Profession (female Robotics Prodigy) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been building robots since you could hold a soldering iron, and you "
+"don't intend to let the end of the world stop that from continuing."
+msgstr "自从你能拿起烙铁起，你就一直在制造机器人，你不打算让世界末日阻止你继续下去。"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robot Adoptee"
+msgstr "机器人收养者"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robot Adoptee"
+msgstr "机器人收养者"
+
+#. ~ Profession (male Robot Adoptee) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"During the riots a military robot came out of nowhere to rescue you.  Maybe "
+"it thinks you're someone important, who knows."
+msgstr "在骚乱期间，一台军用机器人不知从何处出现并救了你。也许它认为你是什么重要人物，谁知道呢。"
+
+#. ~ Profession (female Robot Adoptee) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"During the riots a military robot came out of nowhere to rescue you.  Maybe "
+"it thinks you're someone important, who knows."
+msgstr "在骚乱期间，一台军用机器人不知从何处出现并救了你。也许它认为你是什么重要人物，谁知道呢。"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robo-hunter"
+msgstr "机器人猎手"
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robo-hunter"
+msgstr "机器人猎手"
+
+#. ~ Profession (male Robo-hunter) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You paid a local hacker to build you a robotic hunting dog.  It's almost as "
+"good as the real thing, but it doesn't respond well to being pet."
+msgstr "你花钱请当地黑客为你造了一只机器猎犬。它几乎和真的一样好，但对抚摸反应不佳。"
+
+#. ~ Profession (female Robo-hunter) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You paid a local hacker to build you a robotic hunting dog.  It's almost as "
+"good as the real thing, but it doesn't respond well to being pet."
+msgstr "你花钱请当地黑客为你造了一只机器猎犬。它几乎和真的一样好，但对抚摸反应不佳。"
+
+#. ~ Name for scenario 'Robots' for a male character
+#: .\robot_additions\scenarios.json
+msgctxt "scenario_male"
+msgid "Robots"
+msgstr "机器人"
+
+#. ~ Name for scenario 'Robots' for a female character
+#: .\robot_additions\scenarios.json
+msgctxt "scenario_female"
+msgid "Robots"
+msgstr "机器人"
+
+#. ~ Description for scenario 'Robots' for a male character.
+#: .\robot_additions\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"During the riots and chaos, you hid in a robot dispatch center hoping the "
+"robots would protect you, but they may prove more dangerous than the "
+"zombies."
+msgstr "在骚乱和混乱中，你躲进了一个机器人调度中心，希望机器人能保护你，但它们可能比僵尸更危险。"
+
+#. ~ Description for scenario 'Robots' for a female character.
+#: .\robot_additions\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"During the riots and chaos, you hid in a robot dispatch center hoping the "
+"robots would protect you, but they may prove more dangerous than the "
+"zombies."
+msgstr "在骚乱和混乱中，你躲进了一个机器人调度中心，希望机器人能保护你，但它们可能比僵尸更危险。"
+
+#. ~ Starting location for scenario 'Robots'.
+#: .\robot_additions\scenarios.json
+msgctxt "start_name"
+msgid "In Town"
+msgstr "在城镇中"
+
+#: .\robot_additions\start_locations.json
+msgid "Robot Dispatch Center"
+msgstr "机器人调度中心"
+
+#: .\robot_additions\vehicle_parts.json
+msgid "robot_carrier"
+msgstr "机器人运载器"
+
+#. ~ Description for {'str': 'robot_carrier'}
+#: .\robot_additions\vehicle_parts.json
+msgid ""
+"A cargo space for carrying robots.  'e'xamine it to capture a robot next to "
+"you, or to release the robot currently contained.  When selecting a robot to"
+" capture, choose its tile relative to you, not the part."
+msgstr "用于装载机器人的货舱。按'e'键检查以捕获你旁边的机器人，或释放当前装载的机器人。选择捕获机器人时，请选择相对于你的格子，而不是部件。"
+
+#: .\robot_additions\vehicles.json
+msgid "Robotic Taxi"
+msgstr "机器人出租车"
+
+#: .\robot_additions\vehicles.json
+msgid "Armored Robot Carrier"
+msgstr "装甲机器人运载车"
+
+#: .\robot_additions\vehicles.json
+msgid "Humvee"
+msgstr "悍马车"
+
+#: .\robot_workbench\furniture-surfaces.json .\robot_workbench\items.json
+msgid "Stationary CraftBuddy"
+msgid_plural "Stationary CraftBuddys"
+msgstr[0] "固定式工艺伙伴"
+
+#. ~ Description for Stationary CraftBuddy
+#: .\robot_workbench\furniture-surfaces.json
+msgid ""
+"A robot crafting assistant. Useable as stationary all-purpose craft station "
+"and as workbench with great boost to work speed, also help you butcher "
+"things near it. Unfolding it into stationary form produced some little "
+"AutoPack section you can use to create some auto-crafting packets with "
+"simple tasks. Can be dismantled retain it's portable form and functionality."
+msgstr ""
+"一个机器人制作助手。可用作固定的多功能制作站和工作台，大幅提升工作速度，还能帮助你处理附近的物品。展开为固定形态时，会产生一个小型自动包部分，可用于创建带有简单任务的自动制作包。可拆卸以保留其便携形态和功能。"
+
+#: .\robot_workbench\furniture-surfaces.json
+msgid "metal screeching!"
+msgstr "金属尖啸声！"
+
+#: .\robot_workbench\furniture-surfaces.json
+msgid "clang!"
+msgstr "哐当！"
+
+#. ~ Description for {'str': 'Stationary CraftBuddy'}
+#: .\robot_workbench\items.json
+msgid ""
+"This is a crafting_pseudo_item for craftbuddy bot functions and if you have "
+"it as an separate item, something is wrong, WATCH OUT."
+msgstr "这是用于工艺伙伴机器人功能的制作伪物品，如果你将其作为独立物品拥有，说明出了问题，请注意。"
+
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack: mending rope to thread"
+msgid_plural "AutoPack: mending rope to threads"
+msgstr[0] "自动包：将绳索修补成线"
+
+#. ~ Use action msg for {'str': 'AutoPack: mending rope to thread'}.
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack has finished it's production process."
+msgstr "自动包已完成其生产过程。"
+
+#. ~ Use action not_ready_msg for {'str': 'AutoPack: mending rope to thread'}.
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack didn't finished the task yet."
+msgstr "自动包尚未完成任务。"
+
+#. ~ Description for {'str': 'AutoPack: mending rope to thread'}
+#: .\robot_workbench\tailoring.json
+msgid ""
+"Packed automatic assembler that slowly but steadily produce many threads "
+"from single rope. Requires assembled and installed stationary CraftBuddy "
+"station nearby and some UPS to be packed. Activate it when it's done."
+msgstr "打包的自动组装器，能缓慢但稳定地从单根绳索生产大量线。需要附近有组装并安装好的固定式工艺伙伴站和一些UPS电源才能打包。完成后激活它。"
+
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack with threads from a single long rope"
+msgid_plural "AutoPack with threads from a single long ropes"
+msgstr[0] "自动包：从单根长绳索生产线"
+
+#. ~ Description for {'str': 'AutoPack with threads from a single long rope'}
+#: .\robot_workbench\tailoring.json
+msgid ""
+"A inactive AutoPack that finished it's work and disassembled single long "
+"rope into large units of thread."
+msgstr "一个已停用的自动包，完成了工作并将单根长绳索分解为大量线单位。"

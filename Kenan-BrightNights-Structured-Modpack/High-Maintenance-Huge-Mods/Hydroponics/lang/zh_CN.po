@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hydroponics\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\construction_group.json
+msgid "Build Hydroponics"
+msgstr "建造水培系统"
+
+#: .\construction_group.json
+msgid "Build Hydroponics Heater"
+msgstr "建造水培加热器"
+
+#: .\furniture.json
+msgid "hydroponics unit"
+msgstr "水培单元"
+
+#. ~ Description for hydroponics unit
+#: .\furniture.json
+msgid "This is a self-contained hydroponics unit used to grow crops indoors."
+msgstr "这是一个独立的水培单元，用于在室内种植作物。"
+
+#: .\furniture.json
+msgid "crunch."
+msgstr "嘎吱声。"
+
+#: .\furniture.json
+msgid "whish."
+msgstr "呼。"
+
+#: .\furniture.json
+msgid "hydroponics unit with seed"
+msgstr "带种子的水培单元"
+
+#. ~ Description for hydroponics unit with seed
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a planted seed"
+msgstr "这是一个独立的水培单元，用于在室内种植作物。此单元包含一颗已种植的种子。"
+
+#: .\furniture.json
+msgid "hydroponics unit with seedling"
+msgstr "带幼苗的水培单元"
+
+#. ~ Description for hydroponics unit with seedling
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a planted seedling"
+msgstr "这是一个独立的水培单元，用于在室内种植作物。此单元包含一株已种植的幼苗。"
+
+#: .\furniture.json
+msgid "hydroponics unit with mature plant"
+msgstr "带成熟植物的水培单元"
+
+#. ~ Description for hydroponics unit with mature plant
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a mature plant."
+msgstr "这是一个独立的水培单元，用于在室内种植作物。此单元包含一株成熟植物。"
+
+#: .\furniture.json
+msgid "hydroponics unit with harvestable plant"
+msgstr "带可收获植物的水培单元"
+
+#. ~ Description for hydroponics unit with harvestable plant
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a mature plant that is ready for harvest."
+msgstr "这是一个独立的水培单元，用于在室内种植作物。此单元包含一株已成熟、可供收获的植物。"
+
+#: .\furniture.json
+msgid "hydroponics heater"
+msgstr "水培加热器"
+
+#. ~ Description for hydroponics heater
+#: .\furniture.json
+msgid "This is a self-contained heater, used to warm hydroponics units."
+msgstr "这是一个独立的加热器，用于为水培单元提供温暖。"
+
+#: .\modinfo.json
+msgid "Hydroponics"
+msgstr "水培系统"
+
+#. ~ Description for Hydroponics
+#: .\modinfo.json
+msgid ""
+"Adds hydroponic units, a furniture which can have crops planted in it for "
+"increased yields.  Spawn occasionally in labs or basements.  Or build your "
+"own."
+msgstr "添加水培单元，一种可种植作物以提高产量的家具。偶尔在实验室或地下室生成。或自行建造。"
+
+#: .\terrain.json
+msgid "LEGACY hydroponics unit"
+msgstr "旧版水培单元"
+
+#. ~ Description for LEGACY hydroponics unit
+#: .\terrain.json
+msgid ""
+"This is a deprecated hydroponics unit.  Deconstruct it to receive your "
+"materials back."
+msgstr "这是一个已弃用的水培单元。解构它以回收材料。"
+
+#: .\terrain.json
+msgid "crunch!"
+msgstr "嘎吱！"
+
+#: .\terrain.json
+msgid "whack!"
+msgstr "啪！"
+
+#. ~ Computer name
+#: .\mapgen\lab_floorplans_1side.json
+msgid "Hydroponics Entrance"
+msgstr "水培系统入口"
+
+#. ~ Computer option
+#: .\mapgen\lab_floorplans_1side.json
+msgid "UNLOCK ENTRANCE"
+msgstr "解锁入口"

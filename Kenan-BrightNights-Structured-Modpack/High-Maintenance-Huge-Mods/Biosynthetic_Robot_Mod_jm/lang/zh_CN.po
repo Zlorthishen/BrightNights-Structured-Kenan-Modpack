@@ -1,0 +1,2770 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gekkobots\n"
+"POT-Creation-Date: 2026-03-14 05:22+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\android_ears.json
+msgid "Bio-Synthetic"
+msgstr "生物合成体"
+
+#. ~ Description for {'str': 'Bio-Synthetic'}
+#: .\android_ears.json
+msgid ""
+"You are a bio-synthetic android designed by Chi industries on the eve of the"
+" Cataclysm, very few were made."
+msgstr "你是大灾变前夕由奇工业设计的生物合成安卓机器人，产量极少。"
+
+#: .\gb_armor.json
+msgid "Chinese power armor"
+msgid_plural "Chinese power armors"
+msgstr[0] "中国动力装甲"
+
+#. ~ Use action msg for {'str': 'Chinese power armor'}.
+#. ~ Use action msg for {'str': 'Chi Industries power armor'}.
+#. ~ Use action msg for {'str': 'XEDRA excursion suit'}.
+#: .\gb_armor.json
+msgid "The %s engages."
+msgstr "%s启动。"
+
+#. ~ Description for {'str': 'Chinese power armor'}
+#: .\gb_armor.json
+msgid ""
+"Developed after the groundbreaking creation of power armor by the United "
+"States, the Type-13 combat exoskeleton was China's attempt at making an "
+"equivalent to the United States. Development of these suits of protection "
+"were significantly rushed though, and are often inferior to their American "
+"counterparts, if a bit lighter to wear."
+msgstr ""
+"在美国开创性地研发出动力装甲后，中国为打造与之匹敌的装备而开发了13型战斗外骨骼。然而这些防护服的研发进程极为仓促，虽穿戴稍轻便，但性能通常逊于美国同类产品。"
+
+#: .\gb_armor.json
+msgid "Chinese power armor (active)"
+msgid_plural "Chinese power armors (active)"
+msgstr[0] "中国动力装甲（已激活）"
+
+#. ~ Use action menu_text for {'str': 'Chinese power armor (active)',
+#. 'str_pl': 'Chinese power armors (active)'}.
+#. ~ Use action menu_text for {'str': 'Chinese power armor helmet (active)',
+#. 'str_pl': 'Chinese power armor helmets (active)'}.
+#. ~ Use action menu_text for {'str': 'Chi Industries combat headset
+#. (active)', 'str_pl': 'Chi Industries combat headsets (active)'}.
+#. ~ Use action menu_text for {'str': 'Chi Industries power armor (active)',
+#. 'str_pl': 'Chi Industries power armors (active)'}.
+#. ~ Use action menu_text for {'str': 'XEDRA excursion suit (active)',
+#. 'str_pl': 'XEDRA excursion suits (active)'}.
+#. ~ Use action menu_text for {'str': 'XEDRA excursion suit helmet (active)',
+#. 'str_pl': 'XEDRA excursion suit helmets (active)'}.
+#: .\gb_armor.json
+msgid "Turn off"
+msgstr "关闭"
+
+#. ~ Use action msg for {'str': 'Chinese power armor (active)', 'str_pl':
+#. 'Chinese power armors (active)'}.
+#. ~ Use action msg for {'str': 'Chi Industries power armor (active)',
+#. 'str_pl': 'Chi Industries power armors (active)'}.
+#. ~ Use action msg for {'str': 'XEDRA excursion suit (active)', 'str_pl':
+#. 'XEDRA excursion suits (active)'}.
+#: .\gb_armor.json
+msgid "The %s disengages."
+msgstr "%s关闭。"
+
+#. ~ Description for {'str': 'Chinese power armor (active)', 'str_pl':
+#. 'Chinese power armors (active)'}
+#: .\gb_armor.json
+msgid ""
+"Developed after the groundbreaking creation of power armor by the United "
+"States, the Type-13 combat exoskeleton was China's attempt at making an "
+"equivalent to the United States. Development of these suits of protection "
+"were significantly rushed though, and are often inferior to their American "
+"counterparts, if a bit lighter to wear.  It is currently turned on, activate"
+" it to turn it off."
+msgstr ""
+"在美国开创性地研发出动力装甲后，中国为打造与之匹敌的装备而开发了13型战斗外骨骼。然而这些防护服的研发进程极为仓促，虽穿戴稍轻便，但性能通常逊于美国同类产品。当前为开启状态，需手动激活以关闭。"
+
+#: .\gb_armor.json
+msgid "Chinese power armor helmet"
+msgid_plural "Chinese power armor helmets"
+msgstr[0] "中国动力装甲头盔"
+
+#. ~ Use action msg for {'str': 'Chinese power armor helmet'}.
+#. ~ Use action msg for {'str': 'Chi Industries combat headset'}.
+#. ~ Use action msg for {'str': 'XEDRA excursion suit helmet'}.
+#: .\gb_armor.json
+msgid "The %s seals shut and beeps once."
+msgstr "%s密封关闭并发出一次提示音。"
+
+#. ~ Description for {'str': 'Chinese power armor helmet'}
+#. ~ Description for {'str': 'Chinese power armor helmet (active)', 'str_pl':
+#. 'Chinese power armor helmets (active)'}
+#: .\gb_armor.json
+msgid ""
+"A fully enclosed combat helmet for hazardous environments and combat zones "
+"the Chinese military expected to find itself in, this was designed to fit "
+"with a powered exoskeleton, using cameras to expand visual range.  In "
+"practice, the cameras were unreliable and easily fouled.  The environmental "
+"controls function best with direct-skin contact."
+msgstr ""
+"这是为中国军队预期将进入的危险环境与战区设计的全封闭式战斗头盔，可与动力外骨骼配套使用，通过摄像头扩展视野范围。实际上，这些摄像头可靠性差且易受干扰。环境控制系统在直接接触皮肤时效果最佳。"
+
+#: .\gb_armor.json
+msgid "Chinese power armor helmet (active)"
+msgid_plural "Chinese power armor helmets (active)"
+msgstr[0] "中国动力装甲头盔（已激活）"
+
+#. ~ Use action msg for {'str': 'Chinese power armor helmet (active)',
+#. 'str_pl': 'Chinese power armor helmets (active)'}.
+#. ~ Use action msg for {'str': 'Chi Industries combat headset (active)',
+#. 'str_pl': 'Chi Industries combat headsets (active)'}.
+#. ~ Use action msg for {'str': 'XEDRA excursion suit helmet (active)',
+#. 'str_pl': 'XEDRA excursion suit helmets (active)'}.
+#: .\gb_armor.json
+msgid "The %s powers down."
+msgstr "%s 关闭了。"
+
+#: .\gb_armor.json
+msgid "Chi Industries combat headset"
+msgid_plural "Chi Industries combat headsets"
+msgstr[0] "奇工业战斗耳机"
+
+#. ~ Description for {'str': 'Chi Industries combat headset'}
+#. ~ Description for {'str': 'Chi Industries combat headset (active)',
+#. 'str_pl': 'Chi Industries combat headsets (active)'}
+#: .\gb_armor.json
+msgid ""
+"The Chi Industries combat headset is a target aquisition system designed for"
+" use with the Chi-93b gaiden power suit. Lacks a great deal of ballistic "
+"effectiveness due to lack of coverage around the head."
+msgstr "奇工业战斗耳机是一款目标捕获系统，专为搭配奇-93b外传动力装甲使用而设计。由于头部覆盖范围不足，其弹道防护效果较为有限。"
+
+#: .\gb_armor.json
+msgid "Chi Industries combat headset (active)"
+msgid_plural "Chi Industries combat headsets (active)"
+msgstr[0] "奇工业战斗耳机（已激活）"
+
+#: .\gb_armor.json
+msgid "Chi Industries power armor"
+msgid_plural "Chi Industries power armors"
+msgstr[0] "奇工业动力装甲"
+
+#. ~ Description for {'str': 'Chi Industries power armor'}
+#: .\gb_armor.json
+msgid ""
+"This rather unique variant of power armor was developed by the famed "
+"Japanese robot company, Chi Industries. Known as the Chi-93b Gaiden power "
+"suit, this armor sacrifices protection for increased manuevarability and "
+"decreased cost. Curiously, the armor comes in two sex-based variants: an "
+"armored anime-esque battledress for women, and a more conventional form of "
+"power armor for men."
+msgstr ""
+"这款相当独特的动力装甲变体由著名的日本机器人公司奇工业开发。它被称为奇-93b外传动力装甲，牺牲了部分防护以换取更高的机动性和更低的成本。有趣的是，该装甲提供两种基于性别的变体：为女性设计的装甲动漫风格战服，以及为男性设计的更传统形式的动力装甲。"
+
+#: .\gb_armor.json
+msgid "Chi Industries power armor (active)"
+msgid_plural "Chi Industries power armors (active)"
+msgstr[0] "奇工业动力装甲（已激活）"
+
+#. ~ Description for {'str': 'Chi Industries power armor (active)', 'str_pl':
+#. 'Chi Industries power armors (active)'}
+#: .\gb_armor.json
+msgid ""
+"This rather unique variant of power armor was developed by the famed "
+"Japanese robot company, Chi Industries. Known as the Chi-93b Gaiden power "
+"suit, this armor sacrifices protection for increased manuevarability and "
+"decreased cost. Curiously, the armor comes in two sex-based variants: an "
+"armored anime-esque battledress for women, and a more conventional form of "
+"power armor for men.  It is currently turned on, activate it to turn it off."
+msgstr ""
+"这款相当独特的动力装甲变体由著名的日本机器人公司奇工业开发。它被称为奇-93b外传动力装甲，牺牲了部分防护以换取更高的机动性和更低的成本。有趣的是，该装甲提供两种基于性别的变体：为女性设计的装甲动漫风格战服，以及为男性设计的更传统形式的动力装甲。当前已启动，激活可将其关闭。"
+
+#: .\gb_armor.json
+msgid "XEDRA excursion suit"
+msgid_plural "XEDRA excursion suits"
+msgstr[0] "XEDRA探险服"
+
+#. ~ Description for {'str': 'XEDRA excursion suit'}
+#: .\gb_armor.json
+msgid ""
+"Developed by XEDRA for use in the most hazardous environments, the excursion"
+" suit is a seldom seen, and even more seldom used power armor unit. Unlike "
+"most power armor units, the excursion suit features a relatively large "
+"internal storage area for jaunts across the New England exclusion zone, or "
+"perhaps areas more extra-terrestrial in nature."
+msgstr ""
+"由XEDRA开发，用于最危险的环境，探险服是一种罕见且更少使用的动力装甲单元。与大多数动力装甲单元不同，探险服配备了一个相对较大的内部存储区域，适合在新英格兰隔离区或可能更具外星性质的地带进行短途旅行。"
+
+#: .\gb_armor.json
+msgid "XEDRA excursion suit (active)"
+msgid_plural "XEDRA excursion suits (active)"
+msgstr[0] "XEDRA探险服（已激活）"
+
+#. ~ Description for {'str': 'XEDRA excursion suit (active)', 'str_pl': 'XEDRA
+#. excursion suits (active)'}
+#: .\gb_armor.json
+msgid ""
+"Developed by XEDRA for use in the most hazardous environments, the excursion"
+" suit is a seldom seen, and even more seldom used power armor unit. Unlike "
+"most power armor units, the excursion suit features a relatively large "
+"internal storage area for jaunts across the New England exclusion zone, or "
+"perhaps areas more extra-terrestrial in nature.  It is currently turned on, "
+"activate it to turn it off."
+msgstr ""
+"由XEDRA开发，用于最危险的环境，探险服是一种罕见且更少使用的动力装甲单元。与大多数动力装甲单元不同，探险服配备了一个相对较大的内部存储区域，适合在新英格兰隔离区或可能更具外星性质的地带进行短途旅行。当前已启动，激活可将其关闭。"
+
+#: .\gb_armor.json
+msgid "XEDRA excursion suit helmet"
+msgid_plural "XEDRA excursion suit helmets"
+msgstr[0] "XEDRA探险服头盔"
+
+#. ~ Description for {'str': 'XEDRA excursion suit helmet'}
+#. ~ Description for {'str': 'XEDRA excursion suit helmet (active)', 'str_pl':
+#. 'XEDRA excursion suit helmets (active)'}
+#: .\gb_armor.json
+msgid ""
+"A fully enclosed combat helmet for hazardous environments, features a large "
+"transparent superalloy visor similar to those found on spacesuits.  The "
+"environmental controls function best with direct-skin contact. It's target-"
+"acquisition visor slightly improves the user's perception."
+msgstr ""
+"一款为危险环境设计的全封闭式战斗头盔，配备类似宇航服的大型透明超级合金面罩。环境控制系统在直接皮肤接触时效果最佳。其目标捕获面罩略微提升了使用者的感知能力。"
+
+#: .\gb_armor.json
+msgid "XEDRA excursion suit helmet (active)"
+msgid_plural "XEDRA excursion suit helmets (active)"
+msgstr[0] "XEDRA探险服头盔（已激活）"
+
+#: .\gb_armor.json
+msgid "Chinese jumpsuit"
+msgid_plural "Chinese jumpsuits"
+msgstr[0] "中国连体服"
+
+#. ~ Description for {'str': 'Chinese jumpsuit'}
+#: .\gb_armor.json
+msgid ""
+"A kevlar-infused jumpsuit intended to be employed by members of the Chinese "
+"armed forces. Rather form-fitting."
+msgstr "一款注入凯夫拉纤维的连体服，旨在供中国武装部队成员使用。相当贴身。"
+
+#: .\gb_armor.json
+msgid "Chinese Stealth jumpsuit"
+msgid_plural "Chinese Stealth jumpsuits"
+msgstr[0] "中国隐形连体服"
+
+#. ~ Description for {'str': 'Chinese Stealth jumpsuit'}
+#: .\gb_armor.json
+msgid ""
+"A kevlar-infused stealth suit intended to be employed by members of the "
+"Chinese armed forces. Rather form-fitting. The suit distorts rays of light "
+"before they make contact with the suit, allowing the user to more easily "
+"evade attacks."
+msgstr "一款注入凯夫拉纤维的隐形服，旨在供中国武装部队成员使用。相当贴身。该服装在光线接触服装前将其扭曲，使使用者更容易躲避攻击。"
+
+#: .\gb_bots.json
+msgid "Newt Mk.I"
+msgid_plural "Newt Mk.Is"
+msgstr[0] "纽特Mk.I"
+
+#. ~ Description for {'str': 'Newt Mk.I'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs."
+msgstr ""
+"纽特最初设计为私人承包商的双足侦察机器人，后来在军事和民用领域发现了广泛的用途。其最著名的特点是构成其大部分质量的大型生物合成腿。这些腿不仅仅用于行走，纽特的一踢足以轻易折断人的肋骨。"
+
+#: .\gb_bots.json
+msgid "broken Newt Mk.I"
+msgid_plural "broken Newt Mk.Is"
+msgstr[0] "损坏的纽特Mk.I"
+
+#. ~ Description for {'str': 'broken Newt Mk.I'}
+#. ~ Description for {'str': 'broken Newt Mk.II'}
+#: .\gb_bots.json
+msgid ""
+"A broken Newt Mk.I, now wrecked and motionless. Synthetic blood still oozes "
+"from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的纽特Mk.I，现已残破且静止不动。合成血液仍从其肌肉发达的腿部渗出。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Newt Mk.I"
+msgid_plural "inactive Newt Mk.Is"
+msgstr[0] "未激活的纽特Mk.I"
+
+#. ~ Description for {'str': 'inactive Newt Mk.I'}
+#: .\gb_bots.json
+msgid "An inactive Newt Mk.I."
+msgstr "一台未激活的纽特Mk.I。"
+
+#: .\gb_bots.json
+msgid "Newt Mk.II"
+msgid_plural "Newt Mk.IIs"
+msgstr[0] "纽特Mk.II"
+
+#. ~ Description for {'str': 'Newt Mk.II'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs. This variant has "
+"received a suite of upgrades, slightly improving its speed and damage "
+"resistance."
+msgstr ""
+"纽特最初设计为私人承包商的双足侦察机器人，后来在军事和民用领域发现了广泛的用途。其最著名的特点是构成其大部分质量的大型生物合成腿。这些腿不仅仅用于行走，纽特的一踢足以轻易折断人的肋骨。此变体经过一系列升级，略微提升了速度和伤害抗性。"
+
+#: .\gb_bots.json
+msgid "broken Newt Mk.II"
+msgid_plural "broken Newt Mk.IIs"
+msgstr[0] "损坏的纽特Mk.II"
+
+#: .\gb_bots.json
+msgid "inactive Newt Mk.II"
+msgid_plural "inactive Newt Mk.IIs"
+msgstr[0] "未激活的纽特Mk.II"
+
+#. ~ Description for {'str': 'inactive Newt Mk.II'}
+#: .\gb_bots.json
+msgid "An inactive Newt Mk.II."
+msgstr "一台未激活的纽特Mk.II。"
+
+#: .\gb_bots.json
+msgid "Police Newt"
+msgid_plural "Police Newts"
+msgstr[0] "警用纽特"
+
+#. ~ Description for {'str': 'Police Newt'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs. This variant is "
+"designed for law enforcement purposes."
+msgstr ""
+"纽特最初是为私人承包商设计的双足侦察机器人，后来在军事和民用领域都找到了广泛的用途。它最著名的特征是其巨大的生物合成腿，占据了其大部分质量。这些腿不仅仅用于行走，纽特的一脚就能轻易踢断人的肋骨。此型号专为执法目的设计。"
+
+#: .\gb_bots.json
+msgid "broken Police Newt"
+msgid_plural "broken Police Newts"
+msgstr[0] "损坏的警用纽特"
+
+#. ~ Description for {'str': 'broken Police Newt'}
+#: .\gb_bots.json
+msgid ""
+"A broken police Newt, now wrecked and motionless. Synthetic blood still "
+"oozes from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的警用纽特，现已报废且静止不动。合成血液仍从其肌肉发达的腿部渗出。可将其拆解以获取零件。"
+
+#: .\gb_bots.json
+msgid "Newt Mk.III"
+msgid_plural "Newt Mk.IIIs"
+msgstr[0] "纽特 Mk.III"
+
+#. ~ Description for {'str': 'Newt Mk.III'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs. This variant is "
+"designed for military purposes and has a 9mm turret."
+msgstr ""
+"纽特最初是为私人承包商设计的双足侦察机器人，后来在军事和民用领域都找到了广泛的用途。它最著名的特征是其巨大的生物合成腿，占据了其大部分质量。这些腿不仅仅用于行走，纽特的一脚就能轻易踢断人的肋骨。此型号专为军事目的设计，并配备了一挺9毫米炮塔。"
+
+#: .\gb_bots.json
+msgid "the Newt fires its gun!"
+msgstr "纽特开火了！"
+
+#: .\gb_bots.json
+msgid "broken Newt Mk.III"
+msgid_plural "broken Newt Mk.IIIs"
+msgstr[0] "损坏的纽特 Mk.III"
+
+#. ~ Description for {'str': 'broken Newt Mk.III'}
+#: .\gb_bots.json
+msgid ""
+"A broken Newt Mk.III, now wrecked and motionless. Synthetic blood still "
+"oozes from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的纽特 Mk.III，现已报废且静止不动。合成血液仍从其肌肉发达的腿部渗出。可将其拆解以获取零件。"
+
+#: .\gb_bots.json
+msgid "Elite Newt"
+msgid_plural "Elite Newts"
+msgstr[0] "精英纽特"
+
+#. ~ Description for {'str': 'Elite Newt'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs. This variant is "
+"relatively rare, and uses a series of tentacles to subdue enemies."
+msgstr ""
+"纽特最初是为私人承包商设计的双足侦察机器人，后来在军事和民用领域都找到了广泛的用途。它最著名的特征是其巨大的生物合成腿，占据了其大部分质量。这些腿不仅仅用于行走，纽特的一脚就能轻易踢断人的肋骨。此型号相对罕见，并使用一系列触手来制服敌人。"
+
+#: .\gb_bots.json
+msgid "broken Elite Newt"
+msgid_plural "broken Elite Newts"
+msgstr[0] "损坏的精英纽特"
+
+#. ~ Description for {'str': 'broken Elite Newt'}
+#: .\gb_bots.json
+msgid ""
+"A broken elite Newt, now wrecked and motionless. Synthetic blood still oozes"
+" from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的精英纽特，现已报废且静止不动。合成血液仍从其肌肉发达的腿部渗出。可将其拆解以获取零件。"
+
+#: .\gb_bots.json
+msgid "police gynoid"
+msgid_plural "police gynoids"
+msgstr[0] "警用女性机器人"
+
+#. ~ Description for {'str': 'police gynoid'}
+#: .\gb_bots.json
+msgid ""
+"In a radical departure from form, New England Law enforcement decided to "
+"procure an overseas robotic frame with a far less disturbing appearance than"
+" their standard models. After seeking a variety of offers, The Chi "
+"Industries Model P-013 series service gynoid was chosen. Don't let their "
+"appearance fool you, these robots are no less dangerous than their less-"
+"humanoid counterparts. This one is equipped with a police baton."
+msgstr ""
+"新英格兰执法部门一反常态，决定采购一种海外机器人框架，其外观远比标准型号更不令人不安。在寻求多种方案后，奇工业 P-013 "
+"系列服务型女性机器人被选中。别被它们的外表欺骗，这些机器人的危险性丝毫不亚于那些不那么像人的同类。此型号配备了一支警棍。"
+
+#: .\gb_bots.json
+msgid "broken police gynoid"
+msgid_plural "broken police gynoids"
+msgstr[0] "损坏的警用女性机器人"
+
+#. ~ Description for {'str': 'broken police gynoid'}
+#: .\gb_bots.json
+msgid ""
+"A broken Police gynoid, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的警用女性机器人，现已报废且静止不动。可将其拆解以获取零件。"
+
+#: .\gb_bots.json
+msgid "inactive police gynoid"
+msgid_plural "inactive police gynoids"
+msgstr[0] "未激活的警用女性机器人"
+
+#. ~ Description for {'str': 'inactive police gynoid'}
+#: .\gb_bots.json
+msgid "An inactive Chi Industries police gynoid."
+msgstr "一台未激活的奇工业警用女性机器人。"
+
+#. ~ Description for {'str': 'police gynoid'}
+#: .\gb_bots.json
+msgid ""
+"In a radical departure from form, New England Law enforcement decided to "
+"procure an overseas robotic frame with a far less disturbing appearance than"
+" their standard models. After seeking a variety of offers, The Chi "
+"Industries Model P-013 series service gynoid was chosen. Don't let their "
+"appearance fool you, these robots are no less dangerous than their less-"
+"humanoid counterparts. This one is equipped with a pistol."
+msgstr ""
+"新英格兰执法部门一反常态，决定采购一种海外机器人框架，其外观远比标准型号更不令人不安。在寻求多种方案后，奇工业 P-013 "
+"系列服务型女性机器人被选中。别被它们的外表欺骗，这些机器人的危险性丝毫不亚于那些不那么像人的同类。此型号配备了一支手枪。"
+
+#: .\gb_bots.json
+msgid "The gynoid opens fire!"
+msgstr "女性机器人开火了！"
+
+#: .\gb_bots.json
+msgid "SWAT gynoid"
+msgid_plural "SWAT gynoids"
+msgstr[0] "特警女性机器人"
+
+#. ~ Description for {'str': 'SWAT gynoid'}
+#: .\gb_bots.json
+msgid ""
+"In a radical departure from form, New England Law enforcement decided to "
+"procure an overseas robotic frame with a far less disturbing appearance than"
+" their standard models. After seeking a variety of offers, The Chi "
+"Industries Model P-013 series service gynoid was chosen. Don't let their "
+"appearance fool you, these robots are no less dangerous than their less-"
+"humanoid counterparts. This one is equipped with a battering ram."
+msgstr ""
+"新英格兰执法部门一反常态，决定采购一种海外机器人框架，其外观远比标准型号更不令人不安。在寻求多种方案后，奇工业 P-013 "
+"系列服务型女性机器人被选中。别被它们的外表欺骗，这些机器人的危险性丝毫不亚于那些不那么像人的同类。此型号配备了一支破门锤。"
+
+#: .\gb_bots.json
+msgid "broken SWAT gynoid"
+msgid_plural "broken SWAT gynoids"
+msgstr[0] "损坏的特警女性机器人"
+
+#. ~ Description for {'str': 'broken SWAT gynoid'}
+#: .\gb_bots.json
+msgid ""
+"A broken SWAT gynoid, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的特警女性机器人，现已报废且静止不动。可将其拆解以获取零件。"
+
+#. ~ Description for {'str': 'SWAT gynoid'}
+#: .\gb_bots.json
+msgid ""
+"In a radical departure from form, New England Law enforcement decided to "
+"procure an overseas robotic frame with a far less disturbing appearance than"
+" their standard models. After seeking a variety of offers, The Chi "
+"Industries Model P-013 series service gynoid was chosen. Don't let their "
+"appearance fool you, these robots are no less dangerous than their less-"
+"humanoid counterparts. This one is equipped with a riot shotgun."
+msgstr ""
+"新英格兰执法部门一反常态，决定采购一种海外机器人框架，其外观远比标准型号更不令人不安。在寻求多种方案后，奇工业 P-013 "
+"系列服务型女性机器人被选中。别被它们的外表欺骗，这些机器人的危险性丝毫不亚于那些不那么像人的同类。此型号配备了一支防暴霰弹枪。"
+
+#: .\gb_bots.json
+msgid "BOOM!!"
+msgstr "砰！！"
+
+#: .\gb_bots.json
+msgid "surgical nurse gynoid"
+msgid_plural "surgical nurse gynoids"
+msgstr[0] "外科护士女性机器人"
+
+#. ~ Description for {'str': 'surgical nurse gynoid'}
+#: .\gb_bots.json
+msgid ""
+"The P-73.2 Model gynoid is perhaps the most famous of all Chi industry "
+"gynoids in American domestic life. Designed as humanoid helpers for more "
+"delicate tasks such as culinary preparation, entertaining and advertising, "
+"these models quickly found their place in the medical health industry. "
+"Something must have went wrong during the cataclysm though, as they now "
+"perceive most people as being potential intruders. This variant has a "
+"scalpel."
+msgstr ""
+"P-73.2 "
+"型号女性机器人可能是奇工业所有女性机器人在美国日常生活中最著名的一款。设计为用于更精细任务的人形助手，如烹饪准备、娱乐和广告，这些型号很快在医疗健康行业找到了自己的位置。然而，在灾变期间一定出了什么问题，因为它们现在将大多数人视为潜在入侵者。此型号配备了一把手术刀。"
+
+#: .\gb_bots.json
+msgid "broken nurse gynoid"
+msgid_plural "broken nurse gynoids"
+msgstr[0] "损坏的护士女性机器人"
+
+#. ~ Description for {'str': 'broken nurse gynoid'}
+#. ~ Description for {'str': 'broken auto nurse gynoid'}
+#. ~ Description for {'str': 'broken injector nurse gynoid'}
+#: .\gb_bots.json
+msgid ""
+"A broken nurse gynoid, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的护士女性机器人，现已报废且静止不动。可将其拆解以获取零件。"
+
+#: .\gb_bots.json
+msgid "inactive nurse gynoid"
+msgid_plural "inactive nurse gynoids"
+msgstr[0] "休眠护理人形机"
+
+#. ~ Description for {'str': 'inactive nurse gynoid'}
+#: .\gb_bots.json
+msgid "An inactive Chi Industries nurse gynoid."
+msgstr "一台休眠的奇工业护理人形机。"
+
+#: .\gb_bots.json
+msgid "injector nurse gynoid"
+msgid_plural "injector nurse gynoids"
+msgstr[0] "注射器护理人形机"
+
+#. ~ Description for {'str': 'injector nurse gynoid'}
+#: .\gb_bots.json
+msgid ""
+"The P-73.2 Model gynoid is perhaps the most famous of all Chi industry "
+"gynoids in American domestic life. Designed as humanoid helpers for more "
+"delicate tasks such as culinary preparation, entertaining and advertising, "
+"these models quickly found their place in the medical health industry. "
+"Something must have went wrong during the cataclysm though, as they now "
+"perceive most people as being potential intruders. This variant has an "
+"injector."
+msgstr ""
+"P-73.2型人形机或许是奇工业所有产品中，在美国家庭生活中最著名的一款。设计为类人助手，用于烹饪准备、娱乐和广告等更精细的任务，这些型号迅速在医疗健康行业找到了自己的位置。然而，大灾变期间一定出了什么问题，因为它们现在将大多数人视为潜在入侵者。此变体配备了一个注射器。"
+
+#: .\gb_bots.json
+msgid "auto nurse gynoid"
+msgid_plural "auto nurse gynoids"
+msgstr[0] "自动护理人形机"
+
+#. ~ Description for {'str': 'auto nurse gynoid'}
+#: .\gb_bots.json
+msgid ""
+"The P-73.2 Model gynoid is perhaps the most famous of all Chi industry "
+"gynoids in American domestic life. Designed as humanoid helpers for more "
+"delicate tasks such as culinary preparation, entertaining and advertising, "
+"these models quickly found their place in the medical health industry. "
+"Something must have went wrong during the cataclysm though, as they now "
+"perceive most people as being potential intruders. This variant has a "
+"powerful auto-doc arm to assist in surgery and hauling of medical items."
+msgstr ""
+"P-73.2型人形机或许是奇工业所有产品中，在美国家庭生活中最著名的一款。设计为类人助手，用于烹饪准备、娱乐和广告等更精细的任务，这些型号迅速在医疗健康行业找到了自己的位置。然而，大灾变期间一定出了什么问题，因为它们现在将大多数人视为潜在入侵者。此变体配备了一个强大的自动医疗臂，用于协助手术和搬运医疗物品。"
+
+#: .\gb_bots.json
+msgid "broken auto nurse gynoid"
+msgid_plural "broken auto nurse gynoids"
+msgstr[0] "损坏的自动护理人形机"
+
+#. ~ Description for {'str': 'injector nurse gynoid'}
+#: .\gb_bots.json
+msgid ""
+"The P-73.2 Model gynoid is perhaps the most famous of all Chi industry "
+"gynoids in American domestic life. Designed as humanoid helpers for more "
+"delicate tasks such as culinary preparation, entertaining and advertising, "
+"these models quickly found their place in the medical health industry. "
+"Something must have went wrong during the cataclysm though, as they now "
+"perceive most people as being potential intruders. This variant has a "
+"powerful chemical injector to assist in sanitizing toxic environments."
+msgstr ""
+"P-73.2型人形机或许是奇工业所有产品中，在美国家庭生活中最著名的一款。设计为类人助手，用于烹饪准备、娱乐和广告等更精细的任务，这些型号迅速在医疗健康行业找到了自己的位置。然而，大灾变期间一定出了什么问题，因为它们现在将大多数人视为潜在入侵者。此变体配备了一个强大的化学注射器，用于协助净化有毒环境。"
+
+#: .\gb_bots.json
+msgid "broken injector nurse gynoid"
+msgid_plural "broken injector nurse gynoids"
+msgstr[0] "损坏的注射器护理人形机"
+
+#: .\gb_bots.json
+msgid "Utili-Bot"
+msgid_plural "Utili-Bots"
+msgstr[0] "多功能机器人"
+
+#. ~ Description for {'str': 'Utili-Bot'}
+#: .\gb_bots.json
+msgid ""
+"The Chi Industries Utili-bot was designed as the famous consumer electronics"
+" company's first foray into consumer robotics. Around the size of a family "
+"dog, the Utilibot was intended as a general purpose platform for domestic "
+"duties, daily chores and even companionship (although that wasn't very "
+"likely). The Utili-bot was a product that divided people into two camps: "
+"either you saw the robot as a decadent pile of electronic trash, or as an "
+"invaluable and tireless servant."
+msgstr ""
+"奇工业多功能机器人是这家著名消费电子公司首次涉足消费机器人领域的尝试。大小约如家犬，多功能机器人旨在作为通用平台，用于家庭职责、日常杂务甚至陪伴（尽管这不太可能）。这款产品将人们分为两个阵营：要么视其为颓废的电子垃圾堆，要么视其为无价且不知疲倦的仆人。"
+
+#: .\gb_bots.json
+msgid "broken Utili-bot"
+msgid_plural "broken Utili-bots"
+msgstr[0] "损坏的多功能机器人"
+
+#. ~ Description for {'str': 'broken Utili-bot'}
+#. ~ Description for {'str': 'broken gun Utili-bot'}
+#: .\gb_bots.json
+msgid ""
+"A broken Utili-bot, now wrecked and motionless. Synthetic blood still oozes "
+"from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的多功能机器人，现已报废且静止不动。合成血液仍从其肌肉发达的腿部渗出。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Utili-bot"
+msgid_plural "inactive Utili-bots"
+msgstr[0] "休眠的多功能机器人"
+
+#. ~ Description for {'str': 'inactive Utili-bot'}
+#: .\gb_bots.json
+msgid "An inactive Utili-bot."
+msgstr "一台休眠的多功能机器人。"
+
+#: .\gb_bots.json
+msgid "Packaged Utili-bot"
+msgid_plural "Packaged Utili-bots"
+msgstr[0] "包装好的多功能机器人"
+
+#. ~ Description for {'str': 'Packaged Utili-bot'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi Industries Utili-bot."
+msgstr "一个与人等大的塑料箱，透明盖朝向用户。内含一台奇工业多功能机器人。"
+
+#: .\gb_bots.json
+msgid "Gun Utili-Bot"
+msgid_plural "Gun Utili-Bots"
+msgstr[0] "武装多功能机器人"
+
+#. ~ Description for {'str': 'Gun Utili-Bot'}
+#: .\gb_bots.json
+msgid ""
+"The Chi Industries Utili-bot was designed as the famous consumer electronics"
+" company's first foray into consumer robotics. Around the size of a family "
+"dog, the Utilibot was intended as a general purpose platform for domestic "
+"duties, daily chores and even companionship (although that wasn't very "
+"likely). The Utili-bot was a product that divided people into two camps: "
+"either you saw the robot as a decadent pile of electronic trash, or as an "
+"invaluable and tireless servant. This one is equipped with .45acp caliber "
+"gun turret."
+msgstr ""
+"奇工业多功能机器人是这家著名消费电子公司首次涉足消费机器人领域的尝试。大小约如家犬，多功能机器人旨在作为通用平台，用于家庭职责、日常杂务甚至陪伴（尽管这不太可能）。这款产品将人们分为两个阵营：要么视其为颓废的电子垃圾堆，要么视其为无价且不知疲倦的仆人。此型号配备了一个.45acp口径的炮塔。"
+
+#: .\gb_bots.json
+msgid "the Utili-bot fires its gun!"
+msgstr "多功能机器人开火了！"
+
+#: .\gb_bots.json
+msgid "broken gun Utili-bot"
+msgid_plural "broken gun Utili-bots"
+msgstr[0] "损坏的武装多功能机器人"
+
+#: .\gb_bots.json
+msgid "inactive gun Utili-bot"
+msgid_plural "inactive gun Utili-bots"
+msgstr[0] "休眠的武装多功能机器人"
+
+#. ~ Description for {'str': 'inactive gun Utili-bot'}
+#: .\gb_bots.json
+msgid "An inactive gun Utili-bot."
+msgstr "一台休眠的武装多功能机器人。"
+
+#: .\gb_bots.json
+msgid "melee Utili-Bot"
+msgid_plural "melee Utili-Bots"
+msgstr[0] "近战多功能机器人"
+
+#. ~ Description for {'str': 'melee Utili-Bot'}
+#: .\gb_bots.json
+msgid ""
+"The Chi Industries City Utili-bot was designed as the famous consumer "
+"electronics company's first foray into consumer robotics. Around the size of"
+" a family dog, the Utilibot was intended as a general purpose platform for "
+"domestic duties, daily chores and even companionship (although that wasn't "
+"very likely). The Utili-bot was a product that divided people into two "
+"camps: either you saw the robot as a decadent pile of electronic trash, or "
+"as an invaluable and tireless servant. This one is outfitted with a powerful"
+" arm for melee combat."
+msgstr ""
+"奇工业城市多功能机器人是这家著名消费电子公司首次涉足消费机器人领域的尝试。大小约如家犬，多功能机器人旨在作为通用平台，用于家庭职责、日常杂务甚至陪伴（尽管这不太可能）。这款产品将人们分为两个阵营：要么视其为颓废的电子垃圾堆，要么视其为无价且不知疲倦的仆人。此型号配备了一个强大的近战臂用于战斗。"
+
+#: .\gb_bots.json
+msgid "broken melee Utili-bot"
+msgid_plural "broken melee Utili-bots"
+msgstr[0] "损坏的近战多功能机器人"
+
+#. ~ Description for {'str': 'broken melee Utili-bot'}
+#: .\gb_bots.json
+msgid ""
+"A melee Utili-bot, now wrecked and motionless. Synthetic blood still oozes "
+"from its muscular legs. It could be gutted for spare parts."
+msgstr "一台近战多功能机器人，现已报废且静止不动。合成血液仍从其肌肉发达的腿部渗出。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive melee Utili-bot"
+msgid_plural "inactive melee Utili-bots"
+msgstr[0] "休眠的近战多功能机器人"
+
+#. ~ Description for {'str': 'inactive melee Utili-bot'}
+#: .\gb_bots.json
+msgid "An inactive melee Utili-bot."
+msgstr "一台休眠的近战多功能机器人。"
+
+#: .\gb_bots.json
+msgid "ZX-19"
+msgid_plural "ZX-19s"
+msgstr[0] "ZX-19"
+
+#. ~ Description for {'str': 'ZX-19'}
+#: .\gb_bots.json
+msgid ""
+"The ZX-19 is a chinese military drone designed for use as an automated "
+"platoon-level logistics and auxilliary support platform. Similar to its "
+"american counterpart, it took design cues from nature, and features four "
+"stout legs to help it trot around the field of battle. This particular "
+"variant is equipped with a 9mm gun turret. How it was deployed to New "
+"England, and exactly when, is unknown."
+msgstr ""
+"ZX-19是一款中国军用无人机，设计用作自动化排级后勤与辅助支援平台。与它的美国同类相似，其设计灵感源于自然，并配备四条粗壮的腿，以帮助它在战场上小跑移动。此特定型号装备有一挺9毫米机枪炮塔。它是如何以及何时被部署到新英格兰地区的，目前尚不清楚。"
+
+#: .\gb_bots.json
+msgid "the ZX=-19 fires its gun!"
+msgstr "ZX-19开火了！"
+
+#: .\gb_bots.json
+msgid "broken ZX-19"
+msgid_plural "broken ZX-19s"
+msgstr[0] "损坏的ZX-19"
+
+#. ~ Description for {'str': 'broken ZX-19'}
+#: .\gb_bots.json
+msgid ""
+"A broken Newt ZX-19, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的Newt ZX-19，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-1"
+msgid_plural "Zhuazi N-1s"
+msgstr[0] "爪子N-1"
+
+#. ~ Description for {'str': 'Zhuazi N-1'}
+#: .\gb_bots.json
+msgid ""
+"The Zhuazi N-1 is a unmanned ground vehicle that was rumored to exist on the"
+" dark corners of internet before the Cataclysm, confirmed to be very real "
+"only relatively recently. When they are not deployed, Zhuazi drones look "
+"similar to large ballistic shells, and only deploy their legs after they've "
+"impacted the ground after falling in a ballistic arc from beyond the "
+"horizon. The mechanical feet act as spades, and are also sufficiently sharp "
+"to damage any would-be assailant."
+msgstr ""
+"爪子N-1是一种无人地面载具，在大灾变前曾传闻存在于互联网的阴暗角落，直到相对近期才被证实确实存在。当它们未被部署时，爪子无人机看起来类似于大型弹道炮弹，只有在从地平线外以弹道弧线坠落撞击地面后才会展开腿部。其机械足充当铲子，同时也足够锋利，足以伤害任何潜在的袭击者。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-1"
+msgid_plural "broken Zhuazi N-1s"
+msgstr[0] "损坏的爪子N-1"
+
+#. ~ Description for {'str': 'broken Zhuazi N-1'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-1, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-1，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi N-1"
+msgid_plural "inactive Zhuazi N-1s"
+msgstr[0] "未激活的爪子N-1"
+
+#. ~ Description for {'str': 'inactive Zhuazi N-1'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi N-1."
+msgstr "一台未激活的爪子N-1。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-E"
+msgid_plural "Zhuazi N-Es"
+msgstr[0] "爪子N-E"
+
+#. ~ Description for {'str': 'Zhuazi N-E'}
+#: .\gb_bots.json
+msgid ""
+"The Zhuazi N-E is a unmanned suicide vehicle that was rumored to exist on "
+"the dark corners of internet before the Cataclysm, confirmed to be very real"
+" only relatively recently. When they are not deployed, Zhuazi drones look "
+"similar to large ballistic shells, and only deploy their legs after they've "
+"impacted the ground after falling in a ballistic arc from beyond the "
+"horizon. The mechanical feet act as spades, and are also sufficiently sharp "
+"to damage any would-be assailant. Beware! This variant is designed to "
+"explode upon contact with an enemy."
+msgstr ""
+"爪子N-"
+"E是一种无人自杀载具，在大灾变前曾传闻存在于互联网的阴暗角落，直到相对近期才被证实确实存在。当它们未被部署时，爪子无人机看起来类似于大型弹道炮弹，只有在从地平线外以弹道弧线坠落撞击地面后才会展开腿部。其机械足充当铲子，同时也足够锋利，足以伤害任何潜在的袭击者。注意！此型号设计为在接触敌人时爆炸。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-E"
+msgid_plural "broken Zhuazi N-Es"
+msgstr[0] "损坏的爪子N-E"
+
+#. ~ Description for {'str': 'broken Zhuazi N-E'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-E, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-E，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-2"
+msgid_plural "Zhuazi N-2s"
+msgstr[0] "爪子N-2"
+
+#. ~ Description for {'str': 'Zhuazi N-2'}
+#: .\gb_bots.json
+msgid ""
+"A special, rare variant of the Zhuazi designed for covert operations. Its "
+"exterior consists of a crude optical camouflage that obscures line of sight "
+"in low-light conditions."
+msgstr "爪子的一种特殊、稀有变体，专为隐蔽行动设计。其外部覆盖着一层粗糙的光学迷彩，可在低光条件下遮蔽视线。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-2"
+msgid_plural "broken Zhuazi N-2s"
+msgstr[0] "损坏的爪子N-2"
+
+#. ~ Description for {'str': 'broken Zhuazi N-2'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-2, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-2，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-3"
+msgid_plural "Zhuazi N-3s"
+msgstr[0] "爪子N-3"
+
+#. ~ Description for {'str': 'Zhuazi N-3'}
+#: .\gb_bots.json
+msgid ""
+"A special, electrostatic variant of the Zhuazi designed for covert "
+"operations. A section was removed from the top of the UGV to accomodate an "
+"electricity-projecting weapon."
+msgstr "爪子的一种特殊静电变体，专为隐蔽行动设计。无人地面载具的顶部被移除了一部分，以容纳一件电能投射武器。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-3"
+msgid_plural "broken Zhuazi N-3s"
+msgstr[0] "损坏的爪子N-3"
+
+#. ~ Description for {'str': 'broken Zhuazi N-3'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-3, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-3，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi N-3"
+msgid_plural "inactive Zhuazi N-3s"
+msgstr[0] "未激活的爪子N-3"
+
+#. ~ Description for {'str': 'inactive Zhuazi N-3'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi N-3."
+msgstr "一台未激活的爪子N-3。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-R"
+msgid_plural "Zhuazi N-Rs"
+msgstr[0] "爪子N-R"
+
+#. ~ Description for {'str': 'Zhuazi N-R'}
+#: .\gb_bots.json
+msgid ""
+"A ranged combat variant of the Zhuazi unmanned combat platform. Features a "
+"turret firing an intermediate cartridge."
+msgstr "爪子无人作战平台的一种远程战斗变体。配备一个发射中间威力弹药的炮塔。"
+
+#: .\gb_bots.json
+msgid "The Zhuazi fires its gun!"
+msgstr "爪子开火了！"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-R"
+msgid_plural "broken Zhuazi N-Rs"
+msgstr[0] "损坏的爪子N-R"
+
+#. ~ Description for {'str': 'broken Zhuazi N-R'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-R, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-R，现已报废且静止不动。可将其拆解以获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi N-R"
+msgid_plural "inactive Zhuazi N-Rs"
+msgstr[0] "未激活的爪子N-R"
+
+#. ~ Description for {'str': 'inactive Zhuazi N-R'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi N-R."
+msgstr "一台未激活的爪子N-R型。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-Ac"
+msgid_plural "Zhuazi N-Acs"
+msgstr[0] "爪子N-Ac型"
+
+#. ~ Description for {'str': 'Zhuazi N-Ac'}
+#: .\gb_bots.json
+msgid ""
+"A special, rare variant of the Zhuazi designed for biological warfare "
+"purposes. Features a large storage tank for caustic fluid to be shot out of "
+"a pressurized nozzle."
+msgstr "一种特殊且稀有的爪子型号变体，专为生物战目的设计。配备一个大型储存罐，用于储存腐蚀性液体，可通过加压喷嘴喷射。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-Ac"
+msgid_plural "broken Zhuazi N-Acs"
+msgstr[0] "损坏的爪子N-Ac型"
+
+#. ~ Description for {'str': 'broken Zhuazi N-Ac'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-Ac, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-Ac型，现已报废且静止不动。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi N-Ac"
+msgid_plural "inactive Zhuazi N-Acs"
+msgstr[0] "未激活的爪子N-Ac型"
+
+#. ~ Description for {'str': 'inactive Zhuazi N-Ac'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi N-Ac."
+msgstr "一台未激活的爪子N-Ac型。"
+
+#: .\gb_bots.json
+msgid "maid persobot"
+msgid_plural "maid persobots"
+msgstr[0] "女仆个人机器人"
+
+#. ~ Description for {'str': 'maid persobot'}
+#: .\gb_bots.json
+msgid ""
+"A domestic maid robot designed by the famous Japanese company, Chi "
+"Industries. Although these were held in high esteem before the cataclysm for"
+" their ability to do household chores, they were rather expensive and only "
+"sold at proprietary Chi Industries stores."
+msgstr ""
+"由日本知名公司Chi Industries设计的家用女仆机器人。尽管在灾变前因其处理家务的能力备受推崇，但价格相当昂贵，且仅在Chi "
+"Industries专卖店出售。"
+
+#: .\gb_bots.json
+msgid "broken maid persobot"
+msgid_plural "broken maid persobots"
+msgstr[0] "损坏的女仆个人机器人"
+
+#. ~ Description for {'str': 'broken maid persobot'}
+#: .\gb_bots.json
+msgid ""
+"A broken maid persobot, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的女仆个人机器人，现已报废且静止不动。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive maid persobot"
+msgid_plural "inactive maid persobots"
+msgstr[0] "未激活的女仆个人机器人"
+
+#. ~ Description for {'str': 'inactive maid persobot'}
+#. ~ Description for {'str': 'inactive persocom'}
+#: .\gb_bots.json
+msgid "An inactive maid persobot."
+msgstr "一台未激活的女仆个人机器人。"
+
+#: .\gb_bots.json
+msgid "persocom"
+msgid_plural "persocoms"
+msgstr[0] "个人伴侣机器人"
+
+#. ~ Description for {'str': 'persocom'}
+#: .\gb_bots.json
+msgid ""
+"A companion robot designed by the famous Japanese company, Chi Industries. "
+"Although these were held in high esteem before the cataclysm for their "
+"ability to act as a household companion, they were rather expensive and only"
+" sold at proprietary Chi Industries stores."
+msgstr ""
+"由日本知名公司Chi Industries设计的伴侣机器人。尽管在灾变前因其作为家庭伴侣的能力备受推崇，但价格相当昂贵，且仅在Chi "
+"Industries专卖店出售。"
+
+#: .\gb_bots.json
+msgid "broken persocom"
+msgid_plural "broken persocoms"
+msgstr[0] "损坏的个人伴侣机器人"
+
+#. ~ Description for {'str': 'broken persocom'}
+#. ~ Description for {'str': 'broken Dawson automatic waitress'}
+#: .\gb_bots.json
+msgid ""
+"A broken persocom, now wrecked and motionless. It could be gutted for spare "
+"parts."
+msgstr "一台损坏的个人伴侣机器人，现已报废且静止不动。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive persocom"
+msgid_plural "inactive persocoms"
+msgstr[0] "未激活的个人伴侣机器人"
+
+#: .\gb_bots.json
+msgid "knight reenactor bot"
+msgid_plural "knight reenactor bots"
+msgstr[0] "骑士重演机器人"
+
+#. ~ Description for {'str': 'knight reenactor bot'}
+#: .\gb_bots.json
+msgid ""
+"An android placed in a replica suit of medieval armor, equipped with a "
+"longsword as well. Once a well-loved attraction in museums across New "
+"England, these replicas of knights of yore have turned hostile."
+msgstr "一台放置在中世纪盔甲复制品中的仿生人，同样配备一把长剑。这些昔日骑士的复制品曾是新英格兰各地博物馆备受欢迎的景点，如今却变得充满敌意。"
+
+#: .\gb_bots.json
+msgid "broken knight reenactor bot"
+msgid_plural "broken knight reenactor bots"
+msgstr[0] "损坏的骑士重演机器人"
+
+#. ~ Description for {'str': 'broken knight reenactor bot'}
+#: .\gb_bots.json
+msgid ""
+"A broken knight reenactor bot, now wrecked and motionless. It could be "
+"gutted for spare parts."
+msgstr "一台损坏的骑士重演机器人，现已报废且静止不动。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "Dawson automatic waitress"
+msgid_plural "Dawson automatic waitresss"
+msgstr[0] "道森自动女服务员"
+
+#. ~ Description for {'str': 'Dawson automatic waitress'}
+#: .\gb_bots.json
+msgid ""
+"A Chi Industries gynoid designed for use as a waitress in the Dawson "
+"convienence store and family restaurant. Dawson, being a Japanese company "
+"that only recently opened up shop in America, decided to use these "
+"artificial gynoids to cut down on operating costs and differentiate "
+"themselves from standard American rest stops."
+msgstr ""
+"一款由Chi "
+"Industries设计的女性仿生人，用于在道森便利店和家庭餐厅担任女服务员。道森作为一家最近才在美国开业的日本公司，决定使用这些人工女性仿生人来降低运营成本，并与标准的美式休息站区分开来。"
+
+#: .\gb_bots.json
+msgid "broken Dawson automatic waitress"
+msgid_plural "broken Dawson automatic waitresss"
+msgstr[0] "损坏的道森自动女服务员"
+
+#: .\gb_bots.json
+msgid "store assistance bot"
+msgid_plural "store assistance bots"
+msgstr[0] "商店辅助机器人"
+
+#. ~ Description for {'str': 'store assistance bot'}
+#: .\gb_bots.json
+msgid ""
+"The Google Store Assistance Utility Platform, a robot designed for stocking "
+"shelves and identifying shoplifters in New England's larger store chains."
+msgstr "谷歌商店辅助实用平台，一款专为新英格兰大型连锁商店设计，用于货架补货和识别商店扒手的机器人。"
+
+#: .\gb_bots.json
+msgid "broken store assistance bot"
+msgid_plural "broken store assistance bots"
+msgstr[0] "损坏的商店辅助机器人"
+
+#. ~ Description for {'str': 'broken store assistance bot'}
+#: .\gb_bots.json
+msgid ""
+"A broken store assistance robot, now wrecked and motionless. It could be "
+"gutted for spare parts."
+msgstr "一台损坏的商店辅助机器人，现已报废且静止不动。可拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "XEDRA Newt Mk.I"
+msgid_plural "XEDRA Newt Mk.Is"
+msgstr[0] "XEDRA 纽特 Mk.I 型"
+
+#. ~ Description for {'str': 'XEDRA Newt Mk.I'}
+#: .\gb_bots.json
+msgid ""
+"Originally designed as a bipedal scout robot for private contractors, the "
+"Newt has found a wide variety of uses both within the military and the "
+"civilian world. It's most famous fixture is its large bio-synthetic legs "
+"that constitute most of its mass. Those legs are for more than just walking "
+"though, a kick from a Newt can easily break a man's ribs. This variant has "
+"been deployed by XEDRA, seemingly after the cataclysm was well underway. It "
+"is equipped with deployable blades on its mechanical feet, giving it extra "
+"cutting damage."
+msgstr ""
+"纽特最初被设计为私人承包商使用的双足侦察机器人，后来在军事和民用领域都找到了广泛的用途。它最著名的特点是其巨大的生物合成腿部，构成了其大部分质量。这些腿不仅仅用于行走，纽特的一脚轻易就能踢断人的肋骨。这个变体由XEDRA部署，似乎是在大灾变已经全面展开之后。它的机械脚上配备了可展开的刀刃，提供了额外的切割伤害。"
+
+#: .\gb_bots.json
+msgid "broken XEDRA Newt Mk.I"
+msgid_plural "broken XEDRA Newt Mk.Is"
+msgstr[0] "损坏的XEDRA纽特Mk.I"
+
+#. ~ Description for {'str': 'broken XEDRA Newt Mk.I'}
+#: .\gb_bots.json
+msgid ""
+"A broken XEDRA Newt Mk.I, now wrecked and motionless. Synthetic blood still "
+"oozes from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的XEDRA纽特Mk.I，现已残破且静止不动。合成血液仍从其肌肉腿部渗出。可以拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "packaged persobot"
+msgid_plural "packaged persobots"
+msgstr[0] "包装好的个人机器人"
+
+#. ~ Description for {'str': 'packaged persobot'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi-Industries persobot."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台奇工业的个人机器人。"
+
+#: .\gb_bots.json
+msgid "packaged police gynoid"
+msgid_plural "packaged police gynoids"
+msgstr[0] "包装好的警察女性机器人"
+
+#. ~ Description for {'str': 'packaged police gynoid'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi-Industries police gynoid."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台奇工业的警察女性机器人。"
+
+#: .\gb_bots.json
+msgid "packaged persocom"
+msgid_plural "packaged persocoms"
+msgstr[0] "包装好的个人电脑"
+
+#. ~ Description for {'str': 'packaged persocom'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi-Industries persocom."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台奇工业的个人电脑。"
+
+#: .\gb_bots.json
+msgid "combat persocom"
+msgid_plural "combat persocoms"
+msgstr[0] "战斗个人电脑"
+
+#. ~ Description for {'str': 'combat persocom'}
+#: .\gb_bots.json
+msgid ""
+"A persocom designed for private security and protection by Chi Industries. "
+"Carries a .45acp handgun."
+msgstr "一台由奇工业设计用于私人安保和防护的个人电脑。携带一把.45acp手枪。"
+
+#: .\gb_bots.json
+msgid "The combat persocom opens fire!"
+msgstr "战斗个人电脑开火了！"
+
+#: .\gb_bots.json
+msgid "broken combat persocom"
+msgid_plural "broken combat persocoms"
+msgstr[0] "损坏的战斗个人电脑"
+
+#. ~ Description for {'str': 'broken combat persocom'}
+#: .\gb_bots.json
+msgid ""
+"A broken combat persocom, now wrecked and motionless. It could be gutted for"
+" spare parts."
+msgstr "一台损坏的战斗个人电脑，现已残破且静止不动。可以拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "packaged combat persocom"
+msgid_plural "packaged combat persocoms"
+msgstr[0] "包装好的战斗个人电脑"
+
+#. ~ Description for {'str': 'packaged combat persocom'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi-Industries combat "
+"persocom."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台奇工业的战斗个人电脑。"
+
+#: .\gb_bots.json
+msgid "inactive combat persocom"
+msgid_plural "inactive combat persocoms"
+msgstr[0] "未激活的战斗个人电脑"
+
+#. ~ Description for {'str': 'inactive combat persocom'}
+#: .\gb_bots.json
+msgid "An inactive combat persocom"
+msgstr "一台未激活的战斗个人电脑"
+
+#: .\gb_bots.json
+msgid "packaged newt"
+msgid_plural "packaged newts"
+msgstr[0] "包装好的纽特"
+
+#. ~ Description for {'str': 'packaged newt'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Newt Mk.I ."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台纽特Mk.I。"
+
+#: .\gb_bots.json
+msgid "packaged nursebot"
+msgid_plural "packaged nursebots"
+msgstr[0] "包装好的护士机器人"
+
+#. ~ Description for {'str': 'packaged nursebot'}
+#: .\gb_bots.json
+msgid ""
+"A large plastic box the size of a human with a transparent lid facing "
+"towards the user. Contained within is a single Chi-Industries nursebot."
+msgstr "一个与人等大的大型塑料箱，透明盖子朝向用户。内部装有一台奇工业的护士机器人。"
+
+#: .\gb_bots.json
+msgid "Zhuazi N-1b"
+msgid_plural "Zhuazi N-1bs"
+msgstr[0] "爪子N-1b"
+
+#. ~ Description for {'str': 'Zhuazi N-1b'}
+#: .\gb_bots.json
+msgid ""
+"The Zhuazi N-1 is a unmanned ground vehicle that was rumored to exist on the"
+" dark corners of internet before the Cataclysm, confirmed to be very real "
+"only relatively recently. When they are not deployed, Zhuazi drones look "
+"similar to large ballistic shells, and only deploy their legs after they've "
+"impacted the ground after falling in a ballistic arc from beyond the "
+"horizon. The mechanical feet act as spades, and are also sufficiently sharp "
+"to damage any would-be assailant. The N-1b variant was designed to be more "
+"versatile than its cheaper cousin, allowing it to be upgraded into a wide "
+"variety of forms at Chinese drop pods."
+msgstr ""
+"爪子N-1是一种无人地面载具，在大灾变前就传闻存在于互联网的黑暗角落，直到最近才被证实确实存在。当它们未部署时，爪子无人机看起来像大型弹道炮弹，只有在从地平线外以弹道弧线坠落撞击地面后才会展开腿部。机械脚起到铲子的作用，也足够锋利以伤害任何潜在攻击者。N-1b变体设计得比其更便宜的同类更加多功能，允许其在中国空投舱中升级成多种形态。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi N-1a"
+msgid_plural "broken Zhuazi N-1as"
+msgstr[0] "损坏的爪子N-1a"
+
+#. ~ Description for {'str': 'broken Zhuazi N-1a'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi N-1a, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子N-1a，现已残破且静止不动。可以拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi N-1a"
+msgid_plural "inactive Zhuazi N-1as"
+msgstr[0] "未激活的爪子N-1a"
+
+#. ~ Description for {'str': 'inactive Zhuazi N-1a'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi N-1a."
+msgstr "一台未激活的爪子N-1a。"
+
+#: .\gb_bots.json
+msgid "Zhuazi M-1"
+msgid_plural "Zhuazi M-1s"
+msgstr[0] "爪子M-1"
+
+#. ~ Description for {'str': 'Zhuazi M-1'}
+#: .\gb_bots.json
+msgid ""
+"The Zhuazi M-1 is a unmanned ground vehicle that was rumored to exist on the"
+" dark corners of internet before the Cataclysm, confirmed to be very real "
+"only relatively recently. When they are not deployed, Zhuazi drones look "
+"similar to large ballistic shells, and only deploy their legs after they've "
+"impacted the ground after falling in a ballistic arc from beyond the "
+"horizon. The mechanical feet act as spades, and are also sufficiently sharp "
+"to damage any would-be assailant. The M-1 variant was designed to be an "
+"upgraded version of the N-1, with increased armor plating and structural "
+"redundancies."
+msgstr ""
+"爪子M-1是一种无人地面载具，在大灾变前就传闻存在于互联网的黑暗角落，直到最近才被证实确实存在。当它们未部署时，爪子无人机看起来像大型弹道炮弹，只有在从地平线外以弹道弧线坠落撞击地面后才会展开腿部。机械脚起到铲子的作用，也足够锋利以伤害任何潜在攻击者。M-1变体设计为N-1的升级版本，增加了装甲板和结构冗余。"
+
+#: .\gb_bots.json
+msgid "broken Zhuazi M-1"
+msgid_plural "broken Zhuazi M-1s"
+msgstr[0] "损坏的爪子 M-1"
+
+#. ~ Description for {'str': 'broken Zhuazi M-1'}
+#: .\gb_bots.json
+msgid ""
+"A broken Zhuazi M-1, now wrecked and motionless. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的爪子 M-1，现已报废且静止不动。可以拆解获取备用零件。"
+
+#: .\gb_bots.json
+msgid "inactive Zhuazi M-1"
+msgid_plural "inactive Zhuazi M-1s"
+msgstr[0] "未激活的爪子 M-1"
+
+#. ~ Description for {'str': 'inactive Zhuazi M-1'}
+#: .\gb_bots.json
+msgid "An inactive Zhuazi M-1."
+msgstr "一台未激活的爪子 M-1。"
+
+#: .\gb_food.json
+msgid "bento box"
+msgid_plural "bento boxs"
+msgstr[0] "便当盒"
+
+#. ~ Description for {'str': 'bento box'}
+#: .\gb_food.json
+msgid "An empty bento box.  Essentially trash."
+msgstr "一个空的便当盒。本质上就是垃圾。"
+
+#: .\gb_food.json
+msgid "simple bento"
+msgid_plural "simple bento"
+msgstr[0] "简易便当"
+
+#. ~ Description for {'str_sp': 'simple bento'}
+#: .\gb_food.json
+msgid ""
+"A simple bento box containing only cooked rice and a single plum, forming "
+"the famous Hinomaru of Japan."
+msgstr "一个简易便当盒，仅包含米饭和一颗梅子，构成了日本著名的日之丸图案。"
+
+#: .\gb_food.json
+msgid "bento"
+msgid_plural "bento"
+msgstr[0] "便当"
+
+#. ~ Description for {'str_sp': 'bento'}
+#: .\gb_food.json
+msgid ""
+"A bento box containing only cooked rice and a side of meat, commonly eaten "
+"by Japanese citizens on the go."
+msgstr "一个便当盒，包含米饭和一份肉类配菜，是日本市民外出时常吃的食物。"
+
+#: .\gb_food.json
+msgid "deluxe bento"
+msgid_plural "deluxe bento"
+msgstr[0] "豪华便当"
+
+#. ~ Description for {'str_sp': 'deluxe bento'}
+#: .\gb_food.json
+msgid ""
+"A bento box containing cooked rice, and multiple sides of meat and noodles, "
+"commonly eaten by Japanese citizens on the go."
+msgstr "一个便当盒，包含米饭以及多份肉类和面条配菜，是日本市民外出时常吃的食物。"
+
+#: .\gb_food.json
+msgid "meat bento"
+msgid_plural "meat bento"
+msgstr[0] "肉类便当"
+
+#. ~ Description for {'str_sp': 'meat bento'}
+#: .\gb_food.json
+msgid ""
+"A bento box containing containing only various pieces of fried meat, "
+"commonly eaten by Japanese citizens on the go."
+msgstr "一个便当盒，仅包含各种炸肉块，是日本市民外出时常吃的食物。"
+
+#: .\gb_items.json
+msgid "Type 23 Digisword"
+msgid_plural "Type 23 Digiswords"
+msgstr[0] "23型数字剑"
+
+#. ~ Use action menu_text for {'str': 'Type 23 Digisword'}.
+#. ~ Use action menu_text for {'str': 'Type 23 Digisword (active)', 'str_pl':
+#. 'Type 23 Digiswords (active)'}.
+#: .\gb_items.json
+msgid "Activate"
+msgstr "激活"
+
+#. ~ Use action msg for {'str': 'Type 23 Digisword'}.
+#: .\gb_items.json
+msgid "The Digisword is activated!"
+msgstr "数字剑已激活！"
+
+#. ~ Use action need_charges_msg for {'str': 'Type 23 Digisword'}.
+#: .\gb_items.json
+msgid "The Digisword's beam-edge sputters out due to lack of charge."
+msgstr "数字剑的光束刃因电量不足而熄灭。"
+
+#. ~ Description for {'str': 'Type 23 Digisword'}
+#: .\gb_items.json
+msgid ""
+"A large sword seemingly made out of an exotic composite and oddly cheap "
+"plastic. Runs off of medium batteries. Activate the Digisword to increase "
+"damage outpout."
+msgstr "一把看似由奇异复合材料与廉价塑料制成的大剑。使用中型电池供电。激活数字剑可提升伤害输出。"
+
+#: .\gb_items.json
+msgid "Type 23 Digisword (active)"
+msgid_plural "Type 23 Digiswords (active)"
+msgstr[0] "23型数字剑（激活状态）"
+
+#. ~ Use action msg for {'str': 'Type 23 Digisword (active)', 'str_pl': 'Type
+#. 23 Digiswords (active)'}.
+#: .\gb_items.json
+msgid "The Digisword's beam-edge deactivates."
+msgstr "数字剑的光束刃已关闭。"
+
+#. ~ Description for {'str': 'Type 23 Digisword (active)', 'str_pl': 'Type 23
+#. Digiswords (active)'}
+#: .\gb_items.json
+msgid ""
+"A large sword seemingly made out of an exotic composite and oddly cheap "
+"plastic. Runs off of medium batteries. Activate the Digisword to increase "
+"damage outpout. A lime-colored beam of energy hums faintly across the edge "
+"of the blade."
+msgstr "一把看似由奇异复合材料与廉价塑料制成的大剑。使用中型电池供电。激活数字剑可提升伤害输出。剑刃边缘隐约闪烁着淡绿色的能量光束。"
+
+#: .\gb_items.json
+msgid "Type 26 Chargelance"
+msgid_plural "Type 26 Chargelances"
+msgstr[0] "26型充能长枪"
+
+#: .\gb_items.json
+msgid ""
+"A state-of-the-art direct energy weapon developed by famed Japanese Robotics"
+" company, Chi-Industries. The Type 26 Chargelance is a curious mixture of "
+"21st century technological prowess and medieval craftsmanship. Despite "
+"sporting a thermal charge cannon, the chargelance was also designed to use "
+"its ponderous mass effectively in melee combat. The front of the weapon is "
+"honed to a fine, cutting edge. Uses UPS charge to operate."
+msgstr ""
+"由日本著名机器人公司Chi-"
+"Industries开发的尖端定向能量武器。26型充能长枪是21世纪科技实力与中世纪工艺的奇妙结合。尽管配备了热充能炮，该武器也设计用于在近战中以沉重质量有效作战。武器前端被磨成锋利的切割刃。使用UPS充电运作。"
+
+#: .\gb_items.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\gb_items.json
+msgid "auto"
+msgstr "自动"
+
+#: .\gb_items.json
+msgid "Type 13 DigiBow"
+msgid_plural "Type 13 DigiBows"
+msgstr[0] "13型数字弓"
+
+#: .\gb_items.json
+msgid ""
+"A modern bow designed by Chi-Industries, this weapon is an eclectic mixture "
+"of modern forays into direct energy warfare and the ancient Japanese "
+"tradition of Kyudo: The art of the bow. It's sleek white exterior hides an "
+"immense array of laser projectors, that create a complex arrangement of "
+"light to act not only as the bowstring, but the arrow as well. Uses medium "
+"batteries."
+msgstr ""
+"由Chi-"
+"Industries设计的现代弓，这件武器是现代定向能量战探索与日本古老弓道传统的折衷结合。其光滑的白色外壳下隐藏着大量激光投影器，能产生复杂的光线排列，不仅作为弓弦，也充当箭矢。使用中型电池。"
+
+#: .\gb_items.json
+msgid "XEDRA Pattern AR"
+msgid_plural "XEDRA Pattern ARs"
+msgstr[0] "XEDRA制式突击步枪"
+
+#: .\gb_items.json
+msgid ""
+"A rare laser-based firearm employed by XEDRA at some point after the "
+"cataclysm. Unlike most laser weapons, this firearm uses commonly-found "
+"medium batteries in place of a standard magazine. The rifle seems to be "
+"deliberately modelled after a M4 Carbine."
+msgstr ""
+"XEDRA在灾变后某个时期使用的稀有激光枪械。与大多数激光武器不同，这把枪使用常见的中型电池替代标准弹匣。步枪似乎刻意模仿了M4卡宾枪的设计。"
+
+#: .\gb_items.json
+msgid "3 rd."
+msgstr "3 发"
+
+#: .\gb_items.json
+msgid "XEDRA pattern thermal magnum"
+msgid_plural "XEDRA pattern thermal magnums"
+msgstr[0] "XEDRA制式热能手枪"
+
+#: .\gb_items.json
+msgid ""
+"A rare laser-based firearm employed by XEDRA at some point after the "
+"cataclysm. Unlike most laser weapons, this firearm uses commonly-found light"
+" batteries in place of a standard magazine. The pistol seems to be "
+"deliberately modelled after a large caliber revolver."
+msgstr ""
+"XEDRA在灾变后某个时期使用的稀有激光枪械。与大多数激光武器不同，这把枪使用常见的轻型电池替代标准弹匣。手枪似乎刻意模仿了大口径左轮手枪的设计。"
+
+#: .\gb_items.json
+msgid "esoteric electronic device"
+msgid_plural "esoteric electronic devices"
+msgstr[0] "深奥的电子设备"
+
+#. ~ Description for {'str': 'esoteric electronic device'}
+#: .\gb_items.json
+msgid ""
+"This is a rare electronic device of an unknown purpose, it seems valuable."
+msgstr "这是一种用途不明的稀有电子设备，看起来很有价值。"
+
+#: .\gb_items.json
+msgid "synthetic bio-flesh"
+msgid_plural "synthetic bio-fleshs"
+msgstr[0] "合成生物肉"
+
+#. ~ Description for {'str': 'synthetic bio-flesh'}
+#: .\gb_items.json
+msgid ""
+"This is a scrap of synthetic bio-flesh. These were cultured in labs on an "
+"industrial scale before the cataclysm for use in bio-synth robots. Even the "
+"slightly electrical impusle can make this scrap of black, rubbery biomass "
+"twitch and dance in your hands."
+msgstr ""
+"这是一块合成生物肉。在灾变前，这些肉曾在实验室中大规模培养，用于生物合成机器人。即使是微弱的电脉冲，也能让这块黑色、橡胶般的生物质在你手中抽搐舞动。"
+
+#: .\gb_mobs.json
+msgid "Salamander Mk.1"
+msgid_plural "Salamander Mk.1s"
+msgstr[0] "蝾螈 Mk.1"
+
+#. ~ Description for {'str': 'Salamander Mk.1'}
+#: .\gb_mobs.json
+msgid ""
+"For years, various defense contractors and roboticists puzzled over one "
+"simple question: what is the best form of locomotion for large robotic "
+"vehicle? Various methods of movement were suggested until one Boston "
+"Dynamics engineer suggested eschewing electro-mechanical treads or wheels in"
+" favor of bio-synethic legs. The Salamander Mk.I was his brainchild: large "
+"bipedal hybrid robots used as a form of riot control by law enforcement."
+msgstr ""
+"多年来，各种国防承包商和机器人专家一直为一个简单问题所困扰：大型机器人载具的最佳移动形式是什么？人们提出了多种移动方式，直到一位波士顿动力公司的工程师建议摒弃机电履带或车轮，转而采用生物合成腿。蝾螈"
+" Mk.I 便是他的创意：一种大型双足混合机器人，被执法部门用于防暴控制。"
+
+#: .\gb_mobs.json
+msgid "broken Salamander Mk.1"
+msgid_plural "broken Salamander Mk.1s"
+msgstr[0] "损坏的蝾螈 Mk.1"
+
+#. ~ Description for {'str': 'broken Salamander Mk.1'}
+#. ~ Description for {'str': 'broken Salamander Mk.2'}
+#. ~ Description for {'str': 'broken Salamander Mk.3'}
+#: .\gb_mobs.json
+msgid ""
+"A broken Salamander, now wrecked and motionless. Synthetic blood still oozes"
+" from its muscular legs. It could be gutted for spare parts."
+msgstr "一台损坏的蝾螈，现已残破且静止不动。合成血液仍从其肌肉发达的双腿中渗出。可以将其拆解以获取零件。"
+
+#: .\gb_mobs.json
+msgid "Salamander Mk.2"
+msgid_plural "Salamander Mk.2s"
+msgstr[0] "蝾螈 Mk.2"
+
+#. ~ Description for {'str': 'Salamander Mk.2'}
+#: .\gb_mobs.json
+msgid ""
+"After the Salamander Mk.1's success in law enforcement and riot suppression "
+"trials, the bio-synthetic design piqued the interest of the US military. "
+"This variant of the Salamander was originally designed for use in Middle "
+"Eastern combat zones, but soon saw heavy use in America."
+msgstr ""
+"在蝾螈 Mk.1 于执法和防暴镇压试验中取得成功后，这种生物合成设计引起了美国军方的兴趣。这款蝾螈变体最初设计用于中东战区，但很快在美国得到了广泛应用。"
+
+#: .\gb_mobs.json
+msgid "broken Salamander Mk.2"
+msgid_plural "broken Salamander Mk.2s"
+msgstr[0] "损坏的蝾螈 Mk.2"
+
+#: .\gb_mobs.json
+msgid "Salamander Mk.3"
+msgid_plural "Salamander Mk.3s"
+msgstr[0] "蝾螈 Mk.3"
+
+#. ~ Description for {'str': 'Salamander Mk.3'}
+#: .\gb_mobs.json
+msgid ""
+"After the Salamander Mk.1's success in law enforcement and riot suppression "
+"trials, the bio-synthetic design piqued the interest of the US military. "
+"This variant of the Salamander was originally designed for use in Middle "
+"Eastern combat zones, but soon saw heavy use in America. This variant has "
+"received in upgrade in the form of a CROWS turret armed with a 5.56x45mm "
+"caliber machinegun."
+msgstr ""
+"在蝾螈 Mk.1 "
+"于执法和防暴镇压试验中取得成功后，这种生物合成设计引起了美国军方的兴趣。这款蝾螈变体最初设计用于中东战区，但很快在美国得到了广泛应用。此型号已升级，配备了一挺"
+" 5.56x45mm 口径机枪的 CROWS 炮塔。"
+
+#: .\gb_mobs.json
+msgid "CRACK!!"
+msgstr "咔嚓！！"
+
+#: .\gb_mobs.json
+msgid "broken Salamander Mk.3"
+msgid_plural "broken Salamander Mk.3s"
+msgstr[0] "损坏的蝾螈 Mk.3"
+
+#: .\gb_mobs.json
+msgid "Wraitheon PDW"
+msgid_plural "Wraitheon PDWs"
+msgstr[0] "雷神心理防御武器"
+
+#. ~ Description for {'str': 'Wraitheon PDW'}
+#: .\gb_mobs.json
+msgid ""
+"Designed and produced in the months leading up to mass unrest in New "
+"England, the Wraitheon Psychological Defense Weapon is perhaps one of the "
+"stranger weapons in the employ of the United States Military. A derivative "
+"of the more famous microwave Active Denial System, the Wraitheon "
+"Psychological Defense System uses a complex series of audio-visual signals "
+"to induce a state of extreme discomfort in the wearer. How effective these "
+"weapon platforms were remains unknown."
+msgstr ""
+"在新英格兰大规模骚乱爆发前的几个月里设计和生产的雷神心理防御武器，或许是美军装备中较为奇特的武器之一。作为更著名的微波主动拒止系统的衍生品，雷神心理防御系统使用一系列复杂的视听信号，诱导穿戴者进入极度不适的状态。这些武器平台的实际效果如何，至今仍是个谜。"
+
+#: .\gb_mobs.json
+msgid "broken Wraitheon PDW"
+msgid_plural "broken Wraitheon PDWs"
+msgstr[0] "损坏的雷神心理防御武器"
+
+#. ~ Description for {'str': 'broken Wraitheon PDW'}
+#: .\gb_mobs.json
+msgid ""
+"A broken Wraitheon Psychological Defense Weapon. It could be gutted for "
+"spare parts."
+msgstr "一台损坏的雷神心理防御武器。可以将其拆解以获取零件。"
+
+#: .\gb_mobs.json
+msgid "Bullfrog Relief System"
+msgid_plural "Bullfrog Relief Systems"
+msgstr[0] "牛蛙救援系统"
+
+#. ~ Description for {'str': 'Bullfrog Relief System'}
+#: .\gb_mobs.json
+msgid ""
+"Originally designed for use in disaster relief zones with uneven terrain "
+"that normal vehicles couldn't even hope to negotiate. The Bullfrog relief "
+"system is a curious sight in contemporary New England. They were not "
+"designed with any hostile intent in mind, and the military had no use for a "
+"three-legged robot that would do little more than haul away rubble from a "
+"collapsed building. Why exactly these once-docile machines are hostile is "
+"anyone's guess."
+msgstr ""
+"最初设计用于地形崎岖、普通车辆难以通行的救灾区域。牛蛙救援系统在当代新英格兰是一道奇特的风景。它们的设计初衷并非敌对，军方也对这种除了从倒塌建筑中拖走瓦砾外几乎别无他用的三足机器人不感兴趣。这些曾经温顺的机器为何变得具有敌意，谁也说不清。"
+
+#: .\gb_mobs.json
+msgid "broken Bullfrog Relief System"
+msgid_plural "broken Bullfrog Relief Systems"
+msgstr[0] "损坏的牛蛙救援系统"
+
+#. ~ Description for {'str': 'broken Bullfrog Relief System'}
+#: .\gb_mobs.json
+msgid ""
+"A broken Bullfrog Reliev System, now wrecked and motionless. It could be "
+"gutted for spare parts."
+msgstr "一台损坏的牛蛙救援系统，现已残破且静止不动。可以将其拆解以获取零件。"
+
+#: .\gb_mobs.json
+msgid "Incidi-tank"
+msgid_plural "Incidi-tanks"
+msgstr[0] "焚化坦克"
+
+#. ~ Description for {'str': 'Incidi-tank'}
+#: .\gb_mobs.json
+msgid ""
+"A post cataclysm tank design made by a seemingly unknown group of people "
+"with immense technical knowledge, this design is made for one purpose only: "
+"purging what lies in its front with burning gasoline. Might explode when "
+"killed."
+msgstr "一种由一群似乎身份不明但拥有深厚技术知识的人在灾变后设计的坦克，其设计目的只有一个：用燃烧的汽油净化前方的一切。被摧毁时可能会爆炸。"
+
+#: .\gb_mobs.json
+msgid "Broken Incidi-tank"
+msgid_plural "Broken Incidi-tanks"
+msgstr[0] "损坏的焚化坦克"
+
+#. ~ Description for {'str': 'Broken Incidi-tank'}
+#. ~ Description for {'str': 'Broken Police Compliance Drone'}
+#: .\gb_mobs.json
+msgid "A broken Incindi-Tank. It could be gutted for spare parts."
+msgstr "一台损坏的焚化坦克。可以将其拆解以获取零件。"
+
+#: .\gb_mobs.json
+msgid "Police Compliance Drone"
+msgid_plural "Police Compliance Drones"
+msgstr[0] "警方合规无人机"
+
+#. ~ Description for {'str': 'Police Compliance Drone'}
+#: .\gb_mobs.json
+msgid ""
+"The larger cousin of the pestersome eyebot, the Western Dynamics Police "
+"Compliance Drone is a far more serious threat. Approximately the size of a "
+"large couch, this flying vessel seeks to retain law and order as specified "
+"by New England Police before the Cataclysm."
+msgstr ""
+"作为恼人的眼球机器人的大型近亲，西部动力警方合规无人机是一个更为严重的威胁。这架飞行器大约有一个大沙发那么大，旨在按照灾变前新英格兰警方的规定维持法律与秩序。"
+
+#: .\gb_mobs.json
+msgid "Broken Police Compliance Drone"
+msgid_plural "Broken Police Compliance Drones"
+msgstr[0] "损坏的警方合规无人机"
+
+#: .\gb_mobs.json
+msgid "ZTK-34"
+msgid_plural "ZTK-34s"
+msgstr[0] "ZTK-34"
+
+#. ~ Description for {'str': 'ZTK-34'}
+#: .\gb_mobs.json
+msgid ""
+"The ZTK-34 is considered the pinnacle of unmanned Chinese military "
+"technology before the Cataclysm. Originally, it was intended for use along "
+"the long and often uninhabted frontier between China and Russia along the "
+"Manchurian plane, this variant somehow found its way to New England in "
+"recent times. It is extremely heavily armored, and features a 120mm "
+"Autocannon capable of defeating virtually any threat."
+msgstr ""
+"ZTK-34被视为大灾变前中国无人军事技术的巅峰之作。原本设计用于中俄边境满洲平原漫长且人烟稀少的防线，但这一型号不知何故在近期流落到了新英格兰地区。它拥有极其厚重的装甲，并配备一门120毫米自动炮，足以击溃几乎任何威胁。"
+
+#: .\gb_mobs.json
+msgid "broken ZTK-34"
+msgid_plural "broken ZTK-34s"
+msgstr[0] "损坏的ZTK-34"
+
+#. ~ Description for {'str': 'broken ZTK-34'}
+#: .\gb_mobs.json
+msgid "A broken ZTK-34. It could be gutted for spare parts."
+msgstr "一台损坏的ZTK-34。可以拆解获取备用零件。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Chi Industries Salesman"
+msgstr "奇工业销售员"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Chi Industries Saleswoman"
+msgstr "奇工业女销售员"
+
+#. ~ Profession (male Chi Industries Salesman) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the cataclysm you were a sales representaive for the Japanese "
+"robotics company, Chi industries. Working in the sales division of a Chi "
+"Industries office outside of Boston was of great interest to you, but any "
+"communication from the corporate leadership went mysteriously silent in "
+"Tokyo days before civil order collapsed."
+msgstr ""
+"大灾变前，你曾是日本机器人公司奇工业的销售代表。在波士顿郊外的奇工业办事处销售部门工作让你充满热情，但就在社会秩序崩溃前几天，东京总部的所有联络却神秘地中断了。"
+
+#. ~ Profession (female Chi Industries Saleswoman) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the cataclysm you were a sales representaive for the Japanese "
+"robotics company, Chi industries. Working in the sales division of a Chi "
+"Industries office outside of Boston was of great interest to you, but any "
+"communication from the corporate leadership went mysteriously silent in "
+"Tokyo days before civil order collapsed."
+msgstr ""
+"大灾变前，你曾是日本机器人公司奇工业的销售代表。在波士顿郊外的奇工业办事处销售部门工作让你充满热情，但就在社会秩序崩溃前几天，东京总部的所有联络却神秘地中断了。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Chi Industries Employee"
+msgstr "奇工业员工"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Chi Industries Employee"
+msgstr "奇工业员工"
+
+#. ~ Profession (male Chi Industries Employee) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the cataclysm you were a low level employee for the Japanese robotics"
+" company, Chi industries. Working as an employee at a local branch allowed "
+"you to learn a bit about the inner workings of the famed company's consumer "
+"products and gynoids. Hopefully it comes in handy during the cataclysm."
+msgstr ""
+"大灾变前，你是日本机器人公司奇工业的一名基层员工。在当地分支机构的工作让你对这家知名公司的消费产品和女性机器人有了一些了解。希望这些知识能在大灾变中派上用场。"
+
+#. ~ Profession (female Chi Industries Employee) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the cataclysm you were a low level employee for the Japanese robotics"
+" company, Chi industries. Working as an employee at a local branch allowed "
+"you to learn a bit about the inner workings of the famed company's consumer "
+"products and gynoids. Hopefully it comes in handy during the cataclysm."
+msgstr ""
+"大灾变前，你是日本机器人公司奇工业的一名基层员工。在当地分支机构的工作让你对这家知名公司的消费产品和女性机器人有了一些了解。希望这些知识能在大灾变中派上用场。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Chi Industries Enthusiast"
+msgstr "奇工业爱好者"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Chi Industries Enthusiast"
+msgstr "奇工业爱好者"
+
+#. ~ Profession (male Chi Industries Enthusiast) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the cataclysm you were a fan of the products of Chi Industries, the "
+"famed Japanese robotics company. You acquired a great deal of their products"
+" before the cataclysm."
+msgstr "大灾变前，你是知名日本机器人公司奇工业产品的粉丝。你在灾变前收集了大量他们的产品。"
+
+#. ~ Profession (female Chi Industries Enthusiast) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the cataclysm you were a fan of the products of Chi Industries, the "
+"famed Japanese robotics company. You acquired a great deal of their products"
+" before the cataclysm."
+msgstr "大灾变前，你是知名日本机器人公司奇工业产品的粉丝。你在灾变前收集了大量他们的产品。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Augmented Chi Industries Enthusiast"
+msgstr "强化型奇工业爱好者"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Augmented Chi Industries Enthusiast"
+msgstr "强化型奇工业爱好者"
+
+#. ~ Profession (male Augmented Chi Industries Enthusiast) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the cataclysm you were a fan of the products of Chi Industries, the "
+"famed Japanese robotics company. You acquired a great deal of their products"
+" before the cataclysm, and even augmented yourself somewhat to mirror the "
+"androids you held in high esteem."
+msgstr "大灾变前，你是知名日本机器人公司奇工业产品的粉丝。你在灾变前收集了大量他们的产品，甚至对自己进行了一些改造，以模仿你所推崇的机器人。"
+
+#. ~ Profession (female Augmented Chi Industries Enthusiast) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the cataclysm you were a fan of the products of Chi Industries, the "
+"famed Japanese robotics company. You acquired a great deal of their products"
+" before the cataclysm, and even augmented yourself somewhat to mirror the "
+"androids you held in high esteem."
+msgstr "大灾变前，你是知名日本机器人公司奇工业产品的粉丝。你在灾变前收集了大量他们的产品，甚至对自己进行了一些改造，以模仿你所推崇的机器人。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Chi Industries Operative"
+msgstr "奇工业特工"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Chi Industries Operative"
+msgstr "奇工业特工"
+
+#. ~ Profession (male Chi Industries Operative) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You used your background in the security industry to get a job as a high-"
+"level security operative working for the more shadowy interests of famed "
+"Japanese android concern, Chi Industries. You were given a somewhat "
+"extensive suite of augmentations, hopefully those can help you against the "
+"new threats that this world has to offer."
+msgstr ""
+"你利用安保行业的背景，在知名日本机器人企业奇工业的隐秘部门担任高级安全特工。你获得了一套相当全面的强化改造，希望这些能帮助你应对这个世界涌现的新威胁。"
+
+#. ~ Profession (female Chi Industries Operative) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You used your background in the security industry to get a job as a high-"
+"level security operative working for the more shadowy interests of famed "
+"Japanese android concern, Chi Industries. You were given a somewhat "
+"extensive suite of augmentations, hopefully those can help you against the "
+"new threats that this world has to offer."
+msgstr ""
+"你利用安保行业的背景，在知名日本机器人企业奇工业的隐秘部门担任高级安全特工。你获得了一套相当全面的强化改造，希望这些能帮助你应对这个世界涌现的新威胁。"
+
+#: .\gkb_professions.json
+msgctxt "profession_male"
+msgid "Scrapper Scav"
+msgstr "拾荒者"
+
+#: .\gkb_professions.json
+msgctxt "profession_female"
+msgid "Scrapper Scav"
+msgstr "拾荒者"
+
+#. ~ Profession (male Scrapper Scav) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a pretty normal person before the cataclysm, but all that changed "
+"when your basic hiearchy of needs changed from dealing with paychecks and "
+"internet to scrounging for food. You began to learn the ropes of foraging "
+"through the unsafe wilds of what were once nice neighboorhods, and "
+"eventually came within the protective aegis of a scrapper community."
+msgstr ""
+"大灾变前，你本是个普通人，但当你的基本需求从应付工资和网络变成搜寻食物时，一切都变了。你开始在曾是宜人社区的危险荒野中学习觅食之道，最终受到一个拾荒者社区的庇护。"
+
+#. ~ Profession (female Scrapper Scav) description
+#: .\gkb_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a pretty normal person before the cataclysm, but all that changed "
+"when your basic hiearchy of needs changed from dealing with paychecks and "
+"internet to scrounging for food. You began to learn the ropes of foraging "
+"through the unsafe wilds of what were once nice neighboorhods, and "
+"eventually came within the protective aegis of a scrapper community."
+msgstr ""
+"大灾变前，你本是个普通人，但当你的基本需求从应付工资和网络变成搜寻食物时，一切都变了。你开始在曾是宜人社区的危险荒野中学习觅食之道，最终受到一个拾荒者社区的庇护。"
+
+#: .\gkb_recipes.json
+msgid "Sticky Rice Hedgerows"
+msgstr "糯米树篱"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Automated Compliance Center"
+msgid_plural "Hologram Projector - Locator of Automated Compliance Centers"
+msgstr[0] "全息投影仪 - 自动化合规中心定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Automated
+#. Compliance Center'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Automated Compliance Center"
+msgstr "这是一台全息投影仪，激活时会生成交互式全息影像。全息影像可以与你交谈，回答一些问题，但最重要的是，它能定位自动化合规中心。"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of XEDRA Black Site"
+msgid_plural "Hologram Projector - Locator of XEDRA Black Sites"
+msgstr[0] "全息投影仪 - XEDRA黑站点定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of XEDRA Black
+#. Site'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate XEDRA Black Site"
+msgstr "这是一台全息投影仪，激活时会生成交互式全息影像。全息影像可以与你交谈，回答一些问题，但最重要的是，它能定位XEDRA黑站点。"
+
+#: .\modinfo.json
+msgid "Bio-Synth Robot expansion"
+msgstr "生物合成机器人扩展"
+
+#. ~ Description for Bio-Synth Robot expansion
+#: .\modinfo.json
+msgid ""
+"Adds electronic and biosynthetic robot enemies along with new robots related"
+" locations along with some new gear to the game."
+msgstr "为游戏添加电子与生物合成机器人敌人、新的机器人相关地点以及一些新装备。"
+
+#. ~ Name for scenario 'Scrapper Base Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Scrapper Base Resident"
+msgstr "拾荒者基地居民"
+
+#. ~ Name for scenario 'Scrapper Base Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Scrapper Base Resident"
+msgstr "拾荒者基地居民"
+
+#. ~ Description for scenario 'Scrapper Base Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Somehow, you stumbled upon a base for the Scrapers, a safe haven for "
+"scavengers in New England."
+msgstr "不知怎的，你偶然发现了拾荒者的一个基地，这是新英格兰地区拾荒者的安全避风港。"
+
+#. ~ Description for scenario 'Scrapper Base Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Somehow, you stumbled upon a base for the Scrapers, a safe haven for "
+"scavengers in New England."
+msgstr "不知怎的，你偶然发现了拾荒者的一个基地，这是新英格兰地区拾荒者的安全避风港。"
+
+#. ~ Starting location for scenario 'Scrapper Base Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Scrapper Base"
+msgstr "拾荒者基地"
+
+#: .\startlocation.json .\Map\overmap_terrain.json
+msgid "Scrapper Base"
+msgstr "拾荒者基地"
+
+#: .\Map\overmap_terrain.json
+msgid "Automated Compliance Center"
+msgstr "自动化合规中心"
+
+#: .\Map\overmap_terrain.json
+msgid "Automated Compliance Center roof"
+msgstr "自动化合规中心屋顶"
+
+#: .\Map\overmap_terrain.json
+msgid "Chi Industries Store"
+msgstr "奇工业商店"
+
+#: .\Map\overmap_terrain.json
+msgid "Chi Industries Store roof"
+msgstr "Chi工业商店屋顶"
+
+#: .\Map\overmap_terrain.json
+msgid "Chinese Drone Pod"
+msgstr "中国无人机舱"
+
+#: .\Map\overmap_terrain.json
+msgid "Chinese Drone Pod roof"
+msgstr "中国无人机舱屋顶"
+
+#: .\Map\overmap_terrain.json
+msgid "Dawson Store"
+msgstr "道森商店"
+
+#: .\Map\overmap_terrain.json
+msgid "Dawson Store roof"
+msgstr "道森商店屋顶"
+
+#: .\Map\overmap_terrain.json
+msgid "Scrapper Base roof"
+msgstr "废料回收者基地屋顶"
+
+#: .\Map\overmap_terrain.json
+msgid "XEDRA Black Site"
+msgstr "XEDRA黑色站点"
+
+#. ~ Computer name
+#: .\Map\Automated Compliance Center\gkb_compcenter.json
+msgid "Secure Compliance Storage Access"
+msgstr "安全合规存储访问"
+
+#. ~ Computer option
+#: .\Map\Automated Compliance Center\gkb_compcenter.json .\Map\Chi Industries
+#: Store\gkb_chi_store.json .\Map\XEDRA Black Site\xedra_blacksite.json
+msgid "Unlock Door"
+msgstr "解锁门"
+
+#. ~ Computer name
+#: .\Map\Chi Industries Store\gkb_chi_store.json
+msgid "Chi Industries Special Storage Access >//<"
+msgstr "Chi工业特殊存储访问 >//<"
+
+#. ~ Computer name
+#: .\Map\XEDRA Black Site\xedra_blacksite.json
+msgid "Biological Storage Access"
+msgstr "生物存储访问"
+
+#: .\NPCs\NPC_missions.json
+msgid "Biosynthetic Robots Locator Hologram"
+msgstr "生物合成机器人定位器全息图"
+
+#: .\NPCs\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "全息影像防护"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\NPCs\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"我的程序设定为不与游荡怪物交战。\""
+
+#: .\NPCs\NPC_missions.json
+msgid "Biosynthetic Robots Automated Compliance Center Locator Hologram"
+msgstr "生物合成机器人自动化合规中心定位器全息图"
+
+#: .\NPCs\NPC_missions.json
+msgid "Biosynthetic Robots XEDRA Black Site Locator Hologram"
+msgstr "生物合成机器人XEDRA黑色站点定位器全息图"
+
+#. ~ Description for mission '{'str': 'Go to Automated Compliance Center'}'
+#: .\NPCs\NPC_missions.json
+msgid "Go to Automated Compliance Center"
+msgstr "前往自动化合规中心"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr "要我为你定位探索地点？没问题，只需等我用网络系统查找几分钟或更短时间"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr "你想让我现在为你定位那个地点以便探索吗？当然，告诉我吧，你只需要等几分钟或更短时间，我就能通过网络系统找到它。"
+
+#: .\NPCs\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "祝你好运！"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr "对新地点的探索不感兴趣吗？别急，希望如此。你可以稍后再来找我。我相信你会的，因为我觉得你不是个无聊的人。"
+
+#: .\NPCs\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "也希望你运用智慧确保自身安全。"
+
+#: .\NPCs\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "你去过我为你找到的那个探索地点了吗？"
+
+#: .\NPCs\NPC_missions.json
+msgid "Good work!"
+msgstr "干得好！"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"对我撒谎有什么意义？你以为我会奖励你吗？这次任务的奖励就是你在那个地点找到的对你来说有价值的物品、生物或其他幸存者，那是我为你找到的探索地点。"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr "说实话，你是个无聊又懒惰的人。我想懒惰这一点我们俩都适用。"
+
+#. ~ Description for mission '{'str': 'Go to XEDRA Black Site'}'
+#: .\NPCs\NPC_missions.json
+msgid "Go to XEDRA Black Site"
+msgstr "前往XEDRA黑色站点"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"系统在线。启动对话模式。看啊，幸存者轻松激活了全息投影仪！没错，我的创造者了解很多像你这样的人，说实话他们甚至不读物品上的说明。幸好你看起来是个相当聪明的人，希望如此。那么，你想让我通过网络系统为你显示这个地点的位置吗？我可以授予你访问存档全球网络系统的权限，那是我的创造者设法恢复的。不过，使用后我需要稍微充能，这意味着你需要等待才能再次使用这个功能，希望如此。"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr "[任务] 我希望你通过你的网络系统为我找到这个地点以便探索，希望如此。"
+
+#: .\NPCs\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "你是谁或是什么东西？"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "你的创造者是谁？制造这些投影仪的目的是什么？"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr "[改善心情] 我希望你授予我访问存档全球网络系统的权限。"
+
+#: .\NPCs\NPC_missions.json
+msgid "About that mission..."
+msgstr "关于那个任务……"
+
+#: .\NPCs\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[告别]"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"启动搜索模式。请等待几分钟或更短时间。你听清楚了。不过，我们的定位工具有所限制。如果定位器无法找到这个地点，那就简单地创建另一个能成功找到该地点的全息定位器。"
+
+#: .\NPCs\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "我能和你谈谈别的吗？"
+
+#: .\NPCs\NPC_missions.json
+msgid "Thanks"
+msgstr "谢谢。"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+"我是魔法相机里的魔法精灵。不，开个玩笑。这是什么问题？你不喜欢探索，还是对自己的世界了解不多？你没在实验室里见过东西吗？军事设施？绝密物品？外星人或那些生物？你以为你们自己人没有能制造全息影像的技术吗？我是个全息影像，是带有附加技术的软件，就这么简单。"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"这个问题比上一个聪明多了。我的创造者可以说是一群高科技极客，说实话其中大多数是人类。他们既没有太多战斗技能，也显然不愿让自己的生命承受不必要的风险。他们只会在基本生存需要时与敌对生物交战。他们试图依靠自给自足，并凭借应用智慧和自行发现或设计的技术取得相对成功。他们制造这些投影仪是为了我们能互相帮助。我们为你提供有危险生物的地点，以及有价值的物品或被囚禁的幸存者。你清理这些地点，从中获取你想要的任何有价值物品或幸存者，使这些地点成为安全的庇护所，希望我们包括你也能在那里生活。"
+
+#: .\NPCs\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+"你想做什么？玩存档游戏？浏览存档社交媒体？看存档视频？听存档音乐？阅读存档文件和存档书籍？找点东西玩、读、听、看，为了乐趣、提升智力、精神提升、心智改善？"
+
+#: .\NPCs\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "说实话，我很喜欢其中一些。健康的东西。"
+
+#: .\NPCs\Talk_gkb_guardnpc.json
+msgid "What are you doing around here, what do you want from me?"
+msgstr "你在这附近做什么，想从我这里得到什么？"
+
+#: .\NPCs\Talk_gkb_guardnpc.json
+msgid "So you're a scrapper, what's this place about anyway?"
+msgstr "那么你是个废料回收者，这地方到底是干什么的？"
+
+#: .\NPCs\Talk_gkb_guardnpc.json
+msgid "Goodbye."
+msgstr "再见。"
+
+#: .\NPCs\Talk_gkb_guardnpc.json
+msgid ""
+"It's a mixed bag, really. Sure, it's a lot easier to procure supplies and "
+"precious tech, but at the same time I'd much rather deal with regular people"
+" than whatever exist out there now."
+msgstr "这真是好坏参半。确实，获取物资和珍贵技术容易多了，但与此同时，我宁愿和普通人打交道，而不是现在外面存在的那些东西。"
+
+#: .\NPCs\Talk_gkb_guardnpc.json
+msgid "Thanks for the info."
+msgstr "谢谢你的信息。"
+
+#: .\NPCs\gekko_factions.json
+msgid "Scrappers"
+msgstr "废料回收者"
+
+#. ~ Description for Scrappers
+#: .\NPCs\gekko_factions.json
+msgid ""
+"The scrappers are a robot-oriented faction that was founded shortly before "
+"the Cataclysm. What was once a group of squatters and hobbyists who "
+"inhabited a small trailer park to use in robot experimentation has blossomed"
+" into a series of small wasteland fort-towns."
+msgstr ""
+"废料回收者是一个以机器人为导向的派系，成立于大灾变前不久。他们最初是一群占用者和爱好者，居住在一个小型拖车公园进行机器人实验，现已发展成一系列小型废土堡垒城镇。"
+
+#: .\NPCs\gkb_cook.json
+msgid "Scrapper Cook"
+msgstr "废料回收者厨师"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "I'm a local shopkeeper."
+msgstr "我是本地店主。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json
+msgid "Do you want anything from me? I'm a bit busy being at the moment."
+msgstr "你想从我这里得到什么吗？我现在有点忙。"
+
+#: .\NPCs\gkb_cook.json
+msgid "What is it like being a cook in this station?"
+msgstr "在这个站点当厨师感觉如何？"
+
+#: .\NPCs\gkb_cook.json
+msgid "Could I get any food?"
+msgstr "我能弄点吃的吗？"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Do you have a task for me?"
+msgstr "你有任务给我吗？"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json
+msgid "Goodbye, thank you for your time."
+msgstr "再见，谢谢你的时间。"
+
+#: .\NPCs\gkb_cook.json
+msgid ""
+"It's awful, I was the one stuck with kitchen duty around here when I barely "
+"even know how to cook. I guess that's what a lack of seniority gets you, "
+"even after the cataclysm."
+msgstr "太糟了，我几乎不会做饭，却偏偏被安排在这里负责厨房杂务。我想这就是资历浅的下场吧，即便大灾变之后也一样。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Got it."
+msgstr "明白了。"
+
+#. ~ Description for mission '{'str': 'Retrieve the water purifier.'}'
+#: .\NPCs\gkb_cook.json
+msgid "Retrieve the water purifier."
+msgstr "取回净水器。"
+
+#: .\NPCs\gkb_cook.json
+msgid ""
+"So, it's a bit of a funny story. Our little base uses a set of water "
+"purifiers in order to get potable water. There's an order we were always "
+"given, NEVER bring the purifiers outside the base. Unfortuantely, I was a "
+"bit lazy and decided to bring the purifier to a local pond rather than bear "
+"the brunt of hauling water back and forth. Needless to say, I was attacked "
+"on the way back to our base. Can you get the purifier back for me?"
+msgstr ""
+"说起来有点好笑。我们的小基地用一套净水器来获取饮用水。上头一直有命令，绝对不要把净水器带出基地。不幸的是，我有点偷懒，决定把净水器带到附近的池塘去，而不是忍受来回运水的辛苦。不用说，我在回基地的路上遭到了袭击。你能帮我把净水器拿回来吗？"
+
+#: .\NPCs\gkb_cook.json
+msgid "Thanks for accepting my offer, but can you please lay low about it?"
+msgstr "感谢你接受我的提议，但能请你对此保持低调吗？"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_scrap_merchant.json
+msgid "Why ask about a task and then reject it?"
+msgstr "为什么问了任务又拒绝？"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Be careful, Newts can be pretty hard to shoot, don't underestimate them."
+msgstr "小心点，纽特人可不好打中，别小看它们。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Have you found the part yet?"
+msgstr "你找到那个零件了吗？"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Great work, I might have more tasks for you in the future"
+msgstr "干得好，以后我可能还有更多任务给你。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "That's odd, I don't really know what to say."
+msgstr "真奇怪，我都不知道该说什么了。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json .\NPCs\gkb_gun_merchant.json
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Oh well, at least you tried. That's more than what most people do around "
+"here."
+msgstr "唉，至少你尝试过了。这比这里大多数人做的都要多。"
+
+#. ~ Description for mission '{'str': 'Defeat the Dawson robots.'}'
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json
+msgid "Defeat the Dawson robots."
+msgstr "击败道森机器人。"
+
+#: .\NPCs\gkb_cook.json
+msgid ""
+"I have some bad news, I was trying to scavenge some food from a nearby "
+"Dawson family restaurant. Of course, being me, I made another terrible "
+"mistake. Suffice it to say that there's now a group of angry robots moving "
+"to our base. Deal with them for me and I'll give you some good grub to eat."
+msgstr ""
+"我有个坏消息。我本来想从附近一家道森家庭餐厅搜刮点食物。当然，以我的作风，我又犯了个可怕的错误。简而言之，现在有一群愤怒的机器人正朝我们基地移动。帮我处理掉它们，我会给你些好吃的。"
+
+#: .\NPCs\gkb_cook.json .\NPCs\gkb_doctor.json
+msgid "Thanks for accepting my offer, what a strange turn of events."
+msgstr "感谢你接受我的提议，事情的发展真是出人意料。"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Scrapper Doctor"
+msgstr "废品医生"
+
+#: .\NPCs\gkb_doctor.json
+msgid "What is it like being a doctor in this station?"
+msgstr "在这个站点当医生感觉如何？"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Do you have any medical items for me?"
+msgstr "你有什么医疗物品给我吗？"
+
+#: .\NPCs\gkb_doctor.json
+msgid ""
+"Truth be told, I'm not really a doctor! I wasn't done with my residency down"
+" in Boston before the cataclysm happened. I don't think most people mind my "
+"lack of credentials anymore, though."
+msgstr "说实话，我算不上真正的医生！大灾变发生前，我在波士顿的住院医师培训还没完成。不过我觉得现在大多数人也不在乎我有没有行医资格了。"
+
+#. ~ Description for mission '{'str': 'Retrieve an anesthesia kit.'}'
+#: .\NPCs\gkb_doctor.json
+msgid "Retrieve an anesthesia kit."
+msgstr "取回一个麻醉包。"
+
+#: .\NPCs\gkb_doctor.json
+msgid ""
+"I would like you to find an anesthesia kit for me. In the event that I have "
+"to do any invasive surgeries on people, perhaps even you, it would better "
+"for everyone if you weren't awake when I was doing it."
+msgstr "我想请你帮我找一个麻醉包。万一我需要给人做侵入性手术，甚至可能是给你做，在我操作时你如果处于麻醉状态对大家都好。"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Thanks for accepting my offer."
+msgstr "感谢你接受我的提议。"
+
+#: .\NPCs\gkb_doctor.json
+msgid "That's unfortunate."
+msgstr "真遗憾。"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Anesthesia kits can be found in hospitals, I think."
+msgstr "麻醉包应该能在医院里找到。"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Have you found what I requested yet?"
+msgstr "你找到我要的东西了吗？"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Great work, I'll become a master chef in no time."
+msgstr "干得好，我很快就能成为大厨了。"
+
+#: .\NPCs\gkb_doctor.json
+msgid ""
+"Well, you did what you could. It's just that food will be as bland as ever."
+msgstr "好吧，你尽力了。只是食物还是会像以前一样寡淡无味。"
+
+#: .\NPCs\gkb_doctor.json
+msgid ""
+"Even worse news, some of the bionics that we scavenged from a nearby "
+"hospital were apparently outfitted with transponders. I'm sure you can guess"
+" what you have to do now. Just go and kill the robots for me before they "
+"come here, will you?"
+msgstr "更糟的是，我们从附近医院搜刮来的一些仿生器官显然装有追踪器。我想你该知道现在要做什么。在它们找上门之前，去帮我干掉那些机器人，好吗？"
+
+#: .\NPCs\gkb_doctor.json
+msgid "Be careful, those nurse gynoids can cut you to ribbons very quickly."
+msgstr "小心点，那些护士机器人能很快把你切成碎片。"
+
+#: .\NPCs\gkb_guard.json
+msgid "Scrapper"
+msgstr "废品客"
+
+#: .\NPCs\gkb_guard.json
+msgid "Is a member of the Scrappers."
+msgstr "是废品客的一员。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Scrapper Gun Merchant"
+msgstr "废品枪械商人"
+
+#: .\NPCs\gkb_gun_merchant.json .\NPCs\gkb_scrap_merchant.json
+msgid "What are you buying, what are you selling?"
+msgstr "你想买什么，卖什么？"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid "What is it like being a gun merchant around here?"
+msgstr "在这附近当枪械商人感觉如何？"
+
+#: .\NPCs\gkb_gun_merchant.json .\NPCs\gkb_scrap_merchant.json
+msgid "Would you be willing to let me buy anything?"
+msgstr "你愿意让我买点东西吗？"
+
+#: .\NPCs\gkb_gun_merchant.json .\NPCs\gkb_scrap_merchant.json
+msgid "See you later."
+msgstr "回头见。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid ""
+"It's alright, It's a constant problem you know, deciding between whether or "
+"not you want to hoard ammo or use it on enemies in front of you."
+msgstr "没关系，这确实是个常见问题——你得决定是囤积弹药，还是用在眼前的敌人身上。"
+
+#. ~ Description for mission '{'str': 'Retrieve the esoteric electronic
+#. device.'}'
+#: .\NPCs\gkb_gun_merchant.json .\NPCs\gkb_scrap_merchant.json
+msgid "Retrieve the esoteric electronic device."
+msgstr "取回那台深奥的电子设备。"
+
+#. ~ Description for mission '{'str': 'Retrieve the esoteric electronic
+#. device.'}'
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Retrieve the esoteric electronic device from the bandit."
+msgstr "从强盗那里取回深奥的电子设备。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid ""
+"I'm glad you were willing to help on such short notice. A few days ago, a "
+"thief managed to get into our storage and take a rare electronic device. I "
+"don't want to bore you with the details, but I need you to get it back. You "
+"don't necessarily need to kill the guy that took it."
+msgstr ""
+"我很高兴你愿意这么快帮忙。几天前，一个小偷溜进我们的仓库，偷走了一台稀有的电子设备。细节我就不多说了，但我需要你把它拿回来。不一定非要杀掉那个偷东西的人。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Please come back quickly."
+msgstr "请快点回来。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Fair enough, don't come back asking for missions then."
+msgstr "好吧，那以后别回来找任务了。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid ""
+"Never underestimate fighting other people, they always have more health than"
+" you realize."
+msgstr "千万别小看和其他人战斗，他们的生命值总是比你想象的要高。"
+
+#. ~ Description for mission '{'str': 'Kill the road bandits.'}'
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Kill the road bandits."
+msgstr "消灭道路强盗。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid ""
+"The local bandits have gotten ornery since you retrieve the device for us, "
+"and they're spoiling for a fight. Make an example of these people so they "
+"don't harass us again."
+msgstr "自从你为我们取回设备后，本地的强盗就变得暴躁起来，正蠢蠢欲动想找茬。给这些人点颜色看看，免得他们再来骚扰我们。"
+
+#: .\NPCs\gkb_gun_merchant.json
+msgid "Make sure to kill them quickly and without incident."
+msgstr "务必迅速且不出意外地解决他们。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Scrapper Parts Merchant"
+msgstr "废品零件商人"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "What is it like being a scrap merchant around here?"
+msgstr "在这附近当废品商人感觉如何？"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"It's a veritable scavenger's paradise out there! Seemingly any house you can"
+" go to is a surprise of riches, you never know what you can find even from "
+"the most basic consumer electronic."
+msgstr "外面简直是拾荒者的天堂！似乎随便进一栋房子都能发现惊喜，哪怕是最普通的消费电子产品，你永远不知道能找到什么。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"I'm not really sure if I trust you or not yet, how about you find an object "
+"for me? Some scouts have found a rare electronic device, unfortunately it's "
+"been surrounded by harmful robots. Would you consider getting it for me?"
+msgstr "我还不太确定是否信任你，不如你先帮我找件东西？一些侦察员发现了一台稀有电子设备，可惜它被有害机器人包围了。你愿意帮我把它拿回来吗？"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Thanks for accepting my offer, now go out there and get it!"
+msgstr "感谢你接受我的提议，现在就去把它拿回来吧！"
+
+#. ~ Description for mission '{'str': 'Eliminate the Chinese Robots.'}'
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Eliminate the Chinese Robots."
+msgstr "消灭中国机器人。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Alright, this one's a bit more difficult, We've caught wind of a group of "
+"robots that have appeared near our little town. We think they're Chinese, I "
+"guess they were launched over during the cataclysm or something. Would you "
+"kill them for us?"
+msgstr ""
+"好吧，这个任务有点难度。我们听说有一群机器人出现在我们小镇附近。我们觉得它们是中国制造的，估计是在大灾变期间发射过来的。你能帮我们干掉它们吗？"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Be careful, some of the Zhuazi drones can shoot out bolts of lightning."
+msgstr "小心点，有些爪子无人机能发射闪电箭。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Are the drones gone yet?"
+msgstr "无人机清理完了吗？"
+
+#. ~ Description for mission '{'str': 'Eliminate the Salamanders.'}'
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Eliminate the Salamanders."
+msgstr "消灭火蜥蜴。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"You have proven your worth as a fighter, so I request an even more difficult"
+" task from you now. A few Salamanders have been stalking us from a nearby "
+"forest. Their movements are a bit unnatural, usually Salamanders just stand "
+"in the open as a form of intimidation. I feel like somebody, or something, "
+"is compelling them to do this. Please kill these horrid synthetics for us."
+msgstr ""
+"你已经证明了自己的战斗价值，所以我现在要交给你一个更困难的任务。几只火蜥蜴一直在附近森林里跟踪我们。它们的行动有点反常，通常火蜥蜴只会站在开阔处进行威慑。我感觉有什么人或东西在驱使它们这么做。请帮我们消灭这些可怕的合成体。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Let's hope you make it back alive."
+msgstr "希望你活着回来。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Pretty understandable, I wouldn't want to stare down a few Salamanders "
+"myself either."
+msgstr "完全可以理解，我自己也不想面对几只火蜥蜴。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Try to avoid getting within melee range of those Salamanders, their legs can"
+" send you flying."
+msgstr "尽量避免进入那些火蜥蜴的近战范围，它们的腿能把你踢飞。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Are the Salamanders dead yet?"
+msgstr "火蜥蜴干掉了吗？"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"To be frank, I thought you would die, thanks for killing those beasts for "
+"us."
+msgstr "说实话，我以为你会死，谢谢你为我们消灭了那些野兽。"
+
+#. ~ Description for mission '{'str': 'Eliminate the military patrol.'}'
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Eliminate the military patrol."
+msgstr "消灭军方巡逻队。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"Okay, I think this will be the last task I entrust you with, not because I "
+"doubt you, it's just that I think nothing can really top this. A scout has "
+"detected a patrol of military bio-synthetics moving towards our base. It's "
+"imperative that you take them out for us."
+msgstr ""
+"好吧，我想这是我委托给你的最后一个任务了，不是因为我怀疑你，只是我觉得没什么能比这更重要了。一名侦察兵发现一支军方生物合成体巡逻队正朝我们的基地移动。你必须为我们干掉他们。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "I entrust our safety to you, and you alone. Good luck!"
+msgstr "我把我们的安全托付给你，只有你。祝你好运！"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "That's unfortunate, but so be it."
+msgstr "那真不幸，但就这样吧。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"The military variants of the Newts and Salamanders often come equipped with "
+"firearms, try to close the distance as soon as possible or snipe them from a"
+" long distance."
+msgstr "军用型蝾螈和火蜥蜴通常配备火器，尽量尽快拉近距离或从远处狙击它们。"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid "Are they dead dead yet?"
+msgstr "它们死透了吗？"
+
+#: .\NPCs\gkb_scrap_merchant.json
+msgid ""
+"This is amazing news! I think I owe you a particular gift. We found it at a "
+"Chi Industries store some time ago, and never knew what to do with it."
+msgstr "这消息太棒了！我想我欠你一份特别的礼物。我们之前在奇工业商店找到了它，一直不知道该怎么处理。"
+
+#: .\NPCs\Artificial Gynoid\gkb_automaid_npc.json
+msgid "Synthetic Maid"
+msgstr "合成女仆"
+
+#: .\NPCs\Artificial Gynoid\gkb_automaid_npc.json
+msgid "A bio-synthetic maid."
+msgstr "一个生物合成女仆。"
+
+#: .\NPCs\Artificial Gynoid\gkb_automaid_npc.json
+msgid "Chi Industries Synthetic Maid"
+msgid_plural "Chi Industries Synthetic Maids"
+msgstr[0] "奇工业合成女仆"
+
+#. ~ Description for {'str': 'Chi Industries Synthetic Maid'}
+#: .\NPCs\Artificial Gynoid\gkb_automaid_npc.json
+msgid "A single-use item containing a synthetic maid for the user."
+msgstr "一个一次性物品，内含一个供用户使用的合成女仆。"
+
+#: .\NPCs\Artificial Gynoid\talk_automaid.json
+msgid ""
+"Hello, you are now the proud owner of a Chi Industries bio-synthetic unit, "
+"please activate me at the soonest possible convenience."
+msgstr "你好，你现在是奇工业生物合成单元的骄傲拥有者，请尽快激活我。"
+
+#: .\NPCs\Artificial Gynoid\talk_automaid.json
+msgid "please travel with me?"
+msgstr "请和我一起旅行好吗？"

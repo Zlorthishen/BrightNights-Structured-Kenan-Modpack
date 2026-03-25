@@ -1,0 +1,411 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: futurearmory\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\ammo.json .\ammo_types.json
+msgid "550 Arlov"
+msgid_plural "550 Arlovs"
+msgstr[0] "550阿洛夫"
+
+#. ~ Description for {'str': '550 Arlov'}
+#: .\ammo.json
+msgid ""
+"unique bullet for Vitrovski V-85 sniper rifle, it looks like .50 BMG but "
+"much more slim and stronger."
+msgstr "维特罗夫斯基V-85狙击步枪专用子弹，外观类似.50 BMG，但更纤细且威力更强。"
+
+#: .\ammo.json
+msgid "550 Arlov Incendiary"
+msgid_plural "550 Arlov Incendiarys"
+msgstr[0] "550阿洛夫燃烧弹"
+
+#. ~ Description for {'str': '550 Arlov Incendiary'}
+#: .\ammo.json
+msgid ""
+"Incendiary variant of 550 Arlov, this one has red tip that explode and "
+"burning target on hit."
+msgstr "550阿洛夫的燃烧弹变种，弹头为红色，命中时爆炸并引燃目标。"
+
+#: .\ammo.json
+msgid "550 Arlov AP"
+msgid_plural "550 Arlov APs"
+msgstr[0] "550阿洛夫穿甲弹"
+
+#. ~ Description for {'str': '550 Arlov AP'}
+#: .\ammo.json
+msgid ""
+"Variant of 550 Arlov that uses reinforced material to increase penetration "
+"ability at cost of damage reduction."
+msgstr "550阿洛夫的变种，使用强化材料提高穿透能力，但会降低伤害。"
+
+#: .\ammo.json
+msgid "550 Arlov Explosive"
+msgid_plural "550 Arlov Explosives"
+msgstr[0] "550阿洛夫爆炸弹"
+
+#. ~ Description for {'str': '550 Arlov Explosive'}
+#: .\ammo.json
+msgid ""
+"Variant of 550 Arlov that uses explosive tip, a bit overkill for killing "
+"zombies but enough to give damage to hard targets."
+msgstr "550阿洛夫的变种，使用爆炸弹头，对击杀僵尸可能有些过度杀伤，但足以对坚硬目标造成伤害。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "20mm Vulcan"
+msgid_plural "20mm Vulcans"
+msgstr[0] "20毫米火神"
+
+#. ~ Description for {'str': '20mm Vulcan'}
+#: .\ammo.json
+msgid ""
+"bigger than .50 BMG, this 20mm bullet packs a powerful punch against "
+"everything. and maybe an overkill for killing some undeads and humans."
+msgstr "比.50 BMG更大，这种20毫米子弹对一切目标都威力强大，对某些不死生物和人类可能过度杀伤。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "9x39mm"
+msgid_plural "9x39mms"
+msgstr[0] "9x39毫米"
+
+#. ~ Description for {'str': '9x39mm'}
+#: .\ammo.json
+msgid ""
+"Soviet rifle cartridge designed for good armor penetration and power, almost"
+" similar to 7.62 used by AK-47, this one is unique for VSS Vintorez."
+msgstr "苏联步枪弹，设计用于良好的穿甲能力和威力，几乎类似于AK-47使用的7.62毫米，这是VSS Vintorez的专用子弹。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "Cannon Ball"
+msgid_plural "Cannon Balls"
+msgstr[0] "炮弹"
+
+#. ~ Description for {'str': 'Cannon Ball'}
+#: .\ammo.json
+msgid ""
+"huge ball of steel, specially designed to be fired from cannon of a boat or "
+"portable cannon. you can imagine crushing some zombies with this."
+msgstr "巨大的钢球，专为舰载炮或便携式火炮发射而设计。你可以想象用它来碾压僵尸的场景。"
+
+#: .\gun.json
+msgid "XS-500"
+msgid_plural "XS-500s"
+msgstr[0] "XS-500"
+
+#: .\gun.json
+msgid ""
+"Powerful handcannon with built-in red dot sight and unique firing mechanism,"
+" capable of delivering great damage for long-range target."
+msgstr "威力强大的手持火炮，内置红点瞄准镜和独特的击发机制，能够对远程目标造成巨大伤害。"
+
+#: .\gun.json
+msgid "Vitrovski V-85"
+msgid_plural "Vitrovski V-85s"
+msgstr[0] "维特罗夫斯基 V-85"
+
+#: .\gun.json
+msgid ""
+"Russian's manufactured sniper rifle capable of piercing a thick steel wall "
+"thanks to its unique 550 Arlov bullet, it also has built-in muzzle brake and"
+" rifle scope."
+msgstr "俄罗斯制造的狙击步枪，凭借其独特的550阿尔洛夫子弹能够穿透厚钢板，还内置了枪口制退器和步枪瞄准镜。"
+
+#: .\gun.json
+msgid "Eliminator"
+msgid_plural "Eliminators"
+msgstr[0] "歼灭者"
+
+#: .\gun.json
+msgid ""
+"Highly-classified, futuristic laser cannon made by US government. meant for "
+"last resort against the Cataclysm, seeing this weapon makes you believe they"
+" never had a chance to use it properly."
+msgstr "美国政府制造的高度机密、未来主义的激光炮，旨在作为对抗灾变的最后手段。看到这件武器会让你相信他们从未有机会妥善使用它。"
+
+#: .\gun.json
+msgid "VA-989"
+msgid_plural "VA-989s"
+msgstr[0] "VA-989"
+
+#: .\gun.json
+msgid ""
+"Before Cataclysm happened, a lot of elite military uses this laser rifle as "
+"their main weapon, due to efficient energy consumption and deadly power. but"
+" now it becomes scavenger's best friend in times of danger."
+msgstr "在灾变发生前，许多精英部队因其高效的能耗和致命威力而将此激光步枪作为主要武器。如今，它已成为拾荒者在危险时刻的最佳伙伴。"
+
+#: .\gun.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\gun.json
+msgid "3-shot"
+msgstr "三连发"
+
+#: .\gun.json
+msgid "Extrella XS-3"
+msgid_plural "Extrella XS-3s"
+msgstr[0] "埃克斯特雷拉 XS-3"
+
+#: .\gun.json
+msgid ""
+"Made by Extrella Company, this handgun is famous for its firing mechanism "
+"that result in almost no recoil and perfect accuracy. it also has built-in "
+"scope for ease in aiming "
+msgstr "由埃克斯特雷拉公司制造，这款手枪以其几乎无后坐力和完美精准度的击发机制而闻名。它还内置了瞄准镜，便于瞄准。"
+
+#: .\gun.json
+msgid "Anzio 20mm"
+msgid_plural "Anzio 20mms"
+msgstr[0] "安齐奥 20毫米"
+
+#: .\gun.json
+msgid ""
+"Designed by Anzio Ironworks, this large anti-material rifle uses 20mm Vulcan"
+" bullet, delivering destructive power to anything it shoots, has built-in "
+"scope and muzzle brake."
+msgstr "由安齐奥铁工厂设计，这款大型反器材步枪使用20毫米火神子弹，对所射击的任何目标都具备毁灭性威力，内置瞄准镜和枪口制退器。"
+
+#: .\gun.json
+msgid "Pancor Jackhammer"
+msgid_plural "Pancor Jackhammers"
+msgstr[0] "潘科 碎颅者"
+
+#: .\gun.json
+msgid ""
+"Designed by Pancor Corporation, this 12-gauge, blow-forward, gas-operated "
+"bullpup automatic shotgun is what weapon's collector is looking before "
+"Cataclysm. And only few of this exist in the world so you're on high luck if"
+" you find this weapon."
+msgstr ""
+"由潘科公司设计，这款12号口径、前冲式、气动操作的牛头犬自动霰弹枪是灾变前武器收藏家梦寐以求的珍品。世界上仅存少数几把，若能找到此武器，你可谓运气极佳。"
+
+#: .\gun.json
+msgid "semi auto"
+msgstr "半自动"
+
+#: .\gun.json
+msgid "auto"
+msgstr "自动"
+
+#: .\gun.json
+msgid "Mk-1 Arm Gun"
+msgid_plural "Mk-1 Arm Guns"
+msgstr[0] "Mk-1 臂载枪"
+
+#: .\gun.json
+msgid ""
+"Prototype Arm-mounted gun, chambered in 9mm and uses muscle sensor as "
+"trigger, this weapon is designed by somebody who thinks why punch zombies "
+"when you can shoot a bullet from your arm."
+msgstr "原型臂载枪，使用9毫米弹药并以肌肉传感器作为扳机，此武器由一位认为“既然能从手臂射出子弹，何必拳打僵尸”的人设计。"
+
+#: .\gun.json
+msgid "VSS Vintorez"
+msgid_plural "VSS Vintorezs"
+msgstr[0] "VSS 微声狙击步枪"
+
+#: .\gun.json
+msgid ""
+"Russian's special sniper rifle. uses Subsonic 9x39mm bullet and has built-in"
+" scope and suppresor, this weapon is specially designed for undercover or "
+"clandestine operation, or picking zombies silently."
+msgstr "俄罗斯特种狙击步枪。使用亚音速9x39毫米子弹，内置瞄准镜和消音器，此武器专为卧底或秘密行动设计，也可用于悄无声息地清除僵尸。"
+
+#: .\gun.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\gun.json
+msgid "Portable Cannon"
+msgid_plural "Portable Cannons"
+msgstr[0] "便携式火炮"
+
+#: .\gun.json
+msgid ""
+"Designed and produced by former pirate, this weapon almost looks like "
+"pirate's boat cannon although its smaller and enough to be carried like "
+"normal weapons. heavy, but has enough power to deliver a big oof to "
+"everything thanks to its special cannonball bullet."
+msgstr "由前海盗设计和生产，此武器外观酷似海盗船炮，但更小巧，足以像普通武器一样携带。虽然沉重，但凭借其特殊的炮弹，足以对一切目标造成重创。"
+
+#: .\gun.json
+msgid "Winchester Liberator"
+msgid_plural "Winchester Liberators"
+msgstr[0] "温彻斯特 解放者"
+
+#: .\gun.json
+msgid ""
+"Made by Winchester Company, this 4-barrel prototype shotgun was failed "
+"attempt at making cheap but effective shotgun. but somehow resurfaced and "
+"become military choice sometimes before Cataclysm."
+msgstr "由温彻斯特公司制造，这款四管原型霰弹枪是制造廉价而有效霰弹枪的失败尝试。但不知何故重新出现，并在灾变前一度成为军方的选择。"
+
+#: .\gun.json
+msgid "MTs255"
+msgid_plural "MTs255s"
+msgstr[0] "MTs255"
+
+#: .\gun.json
+msgid ""
+"Russian-made shotgun with 5-shell internal revolving cylinder, combining "
+"revolver mechanism with shotgun apparently is a good combo for russians. it "
+"also has picattiny rail for sight device."
+msgstr "俄罗斯制造的霰弹枪，配备5发内置转轮弹巢，将左轮手枪机制与霰弹枪结合对俄罗斯人来说显然是个好组合。它还配有皮卡汀尼导轨，可安装瞄准装置。"
+
+#: .\magazine.json
+msgid "Vitrovski V-85 Magazine"
+msgid_plural "Vitrovski V-85 Magazines"
+msgstr[0] "维特罗夫斯基 V-85 弹匣"
+
+#. ~ Description for {'str': 'Vitrovski V-85 Magazine'}
+#: .\magazine.json
+msgid "10-round box magazine for Vitrovski V-85 sniper rifle."
+msgstr "维特罗夫斯基 V-85 狙击步枪的10发盒式弹匣。"
+
+#: .\magazine.json
+msgid "XS-3 magazine"
+msgid_plural "XS-3 magazines"
+msgstr[0] "XS-3 弹匣"
+
+#. ~ Description for {'str': 'XS-3 magazine'}
+#: .\magazine.json
+msgid "12-round magazine for Extrella XS-3 handgun."
+msgstr "Extrella XS-3手枪的12发弹匣。"
+
+#: .\magazine.json
+msgid "Anzio magazine"
+msgid_plural "Anzio magazines"
+msgstr[0] "安齐奥弹匣"
+
+#. ~ Description for {'str': 'Anzio magazine'}
+#: .\magazine.json
+msgid "3-round magazine for Anzio 20mm"
+msgstr "安齐奥20毫米口径的3发弹匣"
+
+#: .\magazine.json
+msgid "Jackhammer magazine"
+msgid_plural "Jackhammer magazines"
+msgstr[0] "杰克锤弹匣"
+
+#. ~ Description for {'str': 'Jackhammer magazine'}
+#: .\magazine.json
+msgid "10-shot cylinder magazine for Pancor Jackhammer."
+msgstr "潘科杰克锤的10发弹鼓。"
+
+#: .\magazine.json
+msgid "Arm-Gun Magazine"
+msgid_plural "Arm-Gun Magazines"
+msgstr[0] "臂枪弹匣"
+
+#. ~ Description for {'str': 'Arm-Gun Magazine'}
+#: .\magazine.json
+msgid "100 rounds magazine for Mk-1 Arm-Gun"
+msgstr "Mk-1臂枪的100发弹匣"
+
+#: .\magazine.json
+msgid "VSS Magazine"
+msgid_plural "VSS Magazines"
+msgstr[0] "VSS弹匣"
+
+#. ~ Description for {'str': 'VSS Magazine'}
+#: .\magazine.json
+msgid "20-round magazine for VSS Vintorez sniper rifle"
+msgstr "VSS Vintorez狙击步枪的20发弹匣"
+
+#: .\melee.json
+msgid "Katar"
+msgid_plural "Katars"
+msgstr[0] "卡塔尔匕首"
+
+#. ~ Description for {'str': 'Katar', 'str_pl': 'Katars'}
+#: .\melee.json
+msgid ""
+"originated from Indian subcontinent, this handheld dagger is known for "
+"ceremonial use. but also has potential to kill some zombies."
+msgstr "起源于印度次大陆，这种手持匕首以仪式用途闻名，但也有潜力杀死一些僵尸。"
+
+#: .\melee.json
+msgid "Chakram"
+msgid_plural "Chakrams"
+msgstr[0] "查克拉姆"
+
+#. ~ Description for {'str': 'Chakram', 'str_pl': 'Chakrams'}
+#: .\melee.json
+msgid ""
+"originated from Indian subcontinent, this circular blade is sharp enough to "
+"cut down zombies and humans. can be thrown or used as melee weapon."
+msgstr "起源于印度次大陆，这种圆形刀刃锋利到足以砍倒僵尸和人类。可以投掷或用作近战武器。"
+
+#: .\melee.json
+msgid "Razor Sword"
+msgid_plural "Razor Swords"
+msgstr[0] "剃刀剑"
+
+#. ~ Use action menu_text for {'str': 'Razor Sword'}.
+#: .\melee.json
+msgid "Activate"
+msgstr "激活"
+
+#. ~ Use action msg for {'str': 'Razor Sword'}.
+#: .\melee.json
+msgid "Whip Mode activated."
+msgstr "鞭模式已激活。"
+
+#. ~ Description for {'str': 'Razor Sword'}
+#: .\melee.json
+msgid ""
+"sword with razor-like blade, it has a button on its grip that will transform"
+" the blade into whip-like mode. and in case if you think this weapon is "
+"excessive, there is nothing excessive in this apocalypse."
+msgstr "一把拥有剃刀般锋利刀刃的剑，其握柄上有一个按钮，可将刀刃转变为鞭状模式。如果你觉得这武器过于夸张，那么在这场末日中，没有什么会是过分的。"
+
+#: .\melee.json
+msgid "Razor Whip"
+msgid_plural "Razor Whips"
+msgstr[0] "剃刀鞭"
+
+#. ~ Use action menu_text for {'str': 'Razor Whip'}.
+#: .\melee.json
+msgid "Deactivate"
+msgstr "停用"
+
+#. ~ Use action msg for {'str': 'Razor Whip'}.
+#: .\melee.json
+msgid "Sword Mode activated."
+msgstr "剑模式已激活。"
+
+#. ~ Description for {'str': 'Razor Whip'}
+#: .\melee.json
+msgid ""
+"whip with razor-like blades, pressing the button will transform it back to "
+"sword mode. whip and slash the zombies like no tommorow."
+msgstr "一把带有剃刀般锋利刀刃的鞭子，按下按钮会将其变回剑模式。尽情地鞭打和劈砍僵尸吧。"
+
+#: .\melee.json
+msgid "Boomerang"
+msgid_plural "Boomerangs"
+msgstr[0] "回旋镖"
+
+#. ~ Description for {'str': 'Boomerang'}
+#: .\melee.json
+msgid ""
+"Ancient weapon of Australia, normally used for hunting, now its used to hunt"
+" zombies and crack their skull."
+msgstr "澳大利亚的古老武器，通常用于狩猎，现在则用来猎杀僵尸并敲碎它们的头骨。"
+
+#: .\modinfo.json
+msgid "Ricky's Future Armory"
+msgstr "里奇的未来军械库"
+
+#. ~ Description for Ricky's Future Armory
+#: .\modinfo.json
+msgid "Experience the future of weaponry with this mod."
+msgstr "通过此模组体验武器的未来。"

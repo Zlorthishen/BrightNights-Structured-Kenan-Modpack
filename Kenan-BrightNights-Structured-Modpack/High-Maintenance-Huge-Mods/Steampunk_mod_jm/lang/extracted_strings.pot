@@ -1,0 +1,2015 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: steampunk_arcanum\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Scientist Compound"
+msgid_plural "Hologram Projector - Locator of Scientist Compounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Scientist
+#. Compound'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Scientist Compound"
+msgstr ""
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Shady Warehouse"
+msgid_plural "Hologram Projector - Locator of Shady Warehouses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Shady
+#. Warehouse'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Shady Warehouse"
+msgstr ""
+
+#: .\modinfo.json
+msgid "Steampunk Mod"
+msgstr ""
+
+#. ~ Description for Steampunk Mod
+#: .\modinfo.json
+msgid ""
+"Adds a variety of steampunk items, enemies and locations inspired by the "
+"Arcanum crpg."
+msgstr ""
+
+#. ~ Name for scenario 'Town Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Town Resident"
+msgstr ""
+
+#. ~ Name for scenario 'Town Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Town Resident"
+msgstr ""
+
+#. ~ Description for scenario 'Town Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Whether through birth or passing by on your travels, you have stumbled upon "
+"a quaint little town, seemingly stuck in an odd version of the 19th century."
+msgstr ""
+
+#. ~ Description for scenario 'Town Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Whether through birth or passing by on your travels, you have stumbled upon "
+"a quaint little town, seemingly stuck in an odd version of the 19th century."
+msgstr ""
+
+#. ~ Starting location for scenario 'Town Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "local town"
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bore cartridge"
+msgid_plural "large bore cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bore shot cartridge"
+msgid_plural "large bore shot cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bore shot cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and metallic shot.  Historically "
+"used to reload muzzleloaders in a more reasonable time. The cartridge is "
+"larger than most of its type."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bore shell"
+msgid_plural "large bore shells"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bore shell'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type. Carries an explosive charge."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bean bore cartridge"
+msgid_plural "large bean bore cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bean bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a large beanbag to "
+"heavily stun enemies."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large acid bore cartridge"
+msgid_plural "large acid bore cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large acid bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains an acid bomb to "
+"create caustic area denial."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bore net cartridge"
+msgid_plural "large bore net cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bore net cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a net to entangle "
+"enemies."
+msgstr ""
+
+#: .\sp_ammo.json
+msgid "large bore flame cartridge"
+msgid_plural "large bore flame cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large bore flame cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a flammable charge to"
+" ignite terrain and enemies."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "bowler hat of kinetic diversion"
+msgid_plural "bowler hat of kinetic diversions"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'bowler hat of kinetic diversion'}.
+#: .\sp_armor.json
+msgid "You turn the bowler hat on."
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'bowler hat of kinetic
+#. diversion'}.
+#: .\sp_armor.json
+msgid "The hat of kinetid diversion's batteries are dead."
+msgstr ""
+
+#. ~ Description for {'str': 'bowler hat of kinetic diversion'}
+#. ~ Description for {'str': 'activated bowler hat of kinetic diversion'}
+#: .\sp_armor.json
+msgid ""
+"A bowler hat with an array of magnetic coils on its perimeter.  The hat can "
+"admit an electric field to protect the user when activated, running off of "
+"batteries."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "activated bowler hat of kinetic diversion"
+msgid_plural "activated bowler hat of kinetic diversions"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'activated bowler hat of kinetic
+#. diversion'}.
+#. ~ Use action menu_text for {'str': 'activated galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "Turn off"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'activated bowler hat of kinetic diversion'}.
+#. ~ Use action msg for {'str': 'activated galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "The %s flicks off."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "eye gear"
+msgid_plural "eye gears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'eye gear'}
+#: .\sp_armor.json
+msgid ""
+"An armored pair of lenses for sight magnification for those who are both "
+"near-sighted and far-sighted.  You can use them to focus sunlight. Increases"
+" perception by +1"
+msgstr ""
+
+#: .\sp_armor.json
+msgid "goggled helmet"
+msgid_plural "goggled helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'goggled helmet'}
+#: .\sp_armor.json
+msgid ""
+"An armored helmet with goggles affixed to its front. Boosts the user's "
+"vision while providing all around protection. Increases perception by +1"
+msgstr ""
+
+#: .\sp_armor.json
+msgid "vision helmet"
+msgid_plural "vision helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'vision helmet'}
+#: .\sp_armor.json
+msgid ""
+"An armored helmet with a meshed visor affixed to its front. Boosts the "
+"user's vision while providing all around protection. Increases perception by"
+" +1"
+msgstr ""
+
+#: .\sp_armor.json
+msgid "charged vambrace"
+msgid_plural "charged vambraces"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'charged vambrace'}
+#: .\sp_armor.json
+msgid ""
+"A vambrace imbued with a constant electrostatic charge. Gives the wearer "
+"minor boosts to speed and dexterity while worn."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "wool jacket"
+msgid_plural "wool jackets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'wool jacket'}
+#: .\sp_armor.json
+msgid ""
+"A professional-looking wool jacket.  Commonly worn by men in town guards. "
+"Features thick wool padding, but is still fairly easy to move in."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "smoking jacket"
+msgid_plural "smoking jackets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'smoking jacket'}
+#: .\sp_armor.json
+msgid ""
+"A professional-looking smoking jacket.  Only for the most debonair of men."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "elegant dress"
+msgid_plural "elegant dress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'elegant dress'}
+#: .\sp_armor.json
+msgid "An elegant-looking dress, fit only for women of the upper class."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "plain dress"
+msgid_plural "plain dress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'plain dress'}
+#: .\sp_armor.json
+msgid "A fine-looking dress, fit for women of all social classes"
+msgstr ""
+
+#: .\sp_armor.json
+msgid "rustic dress"
+msgid_plural "rustic dress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'rustic dress'}
+#: .\sp_armor.json
+msgid ""
+"A somewhat rough but sturdy dress, equally suited for work on a farm or in a"
+" factory."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "machined combat plate"
+msgid_plural "machined combat plates"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'machined combat plate'}
+#: .\sp_armor.json
+msgid ""
+"Powered by the finest in minute steam engine technology and mechanical "
+"computing, this set of machined combat plate is head and shoulders above its"
+" peers on the field of battle.."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "machined combat helmet"
+msgid_plural "machined combat helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'machined combat helmet'}
+#: .\sp_armor.json
+msgid ""
+"A fully enclosed helmet to work in conjunction with the machined combat "
+"plate power armor."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "outdoor dress"
+msgid_plural "outdoor dress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'outdoor dress'}
+#: .\sp_armor.json
+msgid ""
+"A dress that has been made seemingly for use outdoors, fortified beyond "
+"usual feminine work. Includes pockets!"
+msgstr ""
+
+#: .\sp_armor.json
+msgid "mechanical dress"
+msgid_plural "mechanical dress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'mechanical dress'}
+#: .\sp_armor.json
+msgid ""
+"A dress that has been made seemingly for use outdoors, fortified beyond "
+"usual feminine work. Includes pockets! With the addition of a miniature "
+"steam engine and motors, this dress's capabilties are boosted far beyond "
+"normal levels."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "galvanic motor shoes"
+msgid_plural "galvanic motor shoess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "You turn the motor shoes."
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "The motor shoes batteries are drained."
+msgstr ""
+
+#. ~ Description for {'str': 'galvanic motor shoes'}
+#: .\sp_armor.json
+msgid ""
+"A pair of shoes with attached electric motors near the heels. When "
+"activated, the user can accelerate far beyond normal speeds. Run on battery "
+"charge."
+msgstr ""
+
+#: .\sp_armor.json
+msgid "activated galvanic motor shoes"
+msgid_plural "activated galvanic motor shoess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'activated galvanic motor shoes'}
+#: .\sp_armor.json
+msgid ""
+"A pair of shoes with attached electric motors near the heels. When "
+"activated, the user can accelerate far beyond normal speeds. The motor shoes"
+" are currently active, and running off battery charge."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "physical prowess enhanced"
+msgstr ""
+
+#. ~ Description of effect 'physical prowess enhanced'.
+#: .\sp_drugs.json
+msgid ""
+"Your strength and intelligence have been boosted by the elixir of physical "
+"prowess"
+msgstr ""
+
+#. ~ Apply message for effect(s) 'physical prowess enhanced'.
+#. ~ Apply message for effect(s) 'perception enhanced'.
+#. ~ Apply message for effect(s) 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "You inhale the elixir."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'physical prowess enhanced'.
+#. ~ Remove message for effect(s) 'perception enhanced'.
+#. ~ Remove message for effect(s) 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "The elixir's effect wears off."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "perception enhanced"
+msgstr ""
+
+#. ~ Description of effect 'perception enhanced'.
+#: .\sp_drugs.json
+msgid "Your perception have been boosted by the tonic of awareness"
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "dexterity enhanced"
+msgstr ""
+
+#. ~ Description of effect 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "Your dexterity have been boosted by the tonic of increased reflexes"
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "intelligence enhanced"
+msgstr ""
+
+#. ~ Description of effect 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "Your intelligence have been boosted by the mind boosting lozenge"
+msgstr ""
+
+#. ~ Apply message for effect(s) 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "You eat the lozenge."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "The lozenge's effect wears off."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "speed enhanced"
+msgstr ""
+
+#. ~ Description of effect 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "Your speed have been boosted by quickdash powder"
+msgstr ""
+
+#. ~ Apply message for effect(s) 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "You eat the powder."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "The powder's effect wears off."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "physical prowess elixir"
+msgid_plural "physical prowess elixir"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': 'physical prowess elixir'}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your muscles tension and your synapses activate as you drink the "
+"elixir."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'physical prowess elixir'}
+#: .\sp_drugs.json
+msgid ""
+"A strong elixir designed to boost one's strength and intelligence for a "
+"short period of time."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "Addison's tonic of awareness"
+msgid_plural "Addison's tonic of awareness"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': "Addison's tonic of
+#. awareness"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your eyes dilate, and suddenly the world around you becomes more "
+"clear."
+msgstr ""
+
+#. ~ Description for {'str_sp': "Addison's tonic of awareness"}
+#: .\sp_drugs.json
+msgid ""
+"A strong tonic developed by the frenetic doctor Sneed Addison. A drug "
+"designed to boost one's perception for a short period of time."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "Alfred's tonic of increased reflexes"
+msgid_plural "Alfred's tonic of increased reflexes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': "Alfred's tonic of increased
+#. reflexes"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your nerves calm down considerably, as if your dexterity was now "
+"heightened beyond normal levels."
+msgstr ""
+
+#. ~ Description for {'str_sp': "Alfred's tonic of increased reflexes"}
+#: .\sp_drugs.json
+msgid ""
+"After imbibing the tonic of Alfred Mogus, the user will soon see marked "
+"increase in their dexterity for a period of time."
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "Boyce's patented mind boosting lozenge"
+msgid_plural "Boyce's patented mind boosting lozenge"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': "Boyce's patented mind
+#. boosting lozenge"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your thoughts appear more rapidly and with far more clarity, as if "
+"your intelligence was now heightened beyond normal levels."
+msgstr ""
+
+#. ~ Description for {'str_sp': "Boyce's patented mind boosting lozenge"}
+#: .\sp_drugs.json
+msgid ""
+"A drug purported to increase the intelligence of the user beyond normal "
+"levels, beware though, as repeated use can cause health problems!"
+msgstr ""
+
+#: .\sp_drugs.json
+msgid "Thorpe's certified quick-dash powder"
+msgid_plural "Thorpe's certified quick-dash powder"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': "Thorpe's certified quick-
+#. dash powder"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your muscles fill with energy, every tendon tensions up with power!"
+msgstr ""
+
+#. ~ Description for {'str_sp': "Thorpe's certified quick-dash powder"}
+#: .\sp_drugs.json
+msgid ""
+"A blueish-white powder that when ingested, drastically increases a user's "
+"mobility! Be warned, as continued use can be detrimental to one's health."
+msgstr ""
+
+#: .\sp_items.json
+msgid "auto skeleton key"
+msgid_plural "auto skeleton keys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'auto skeleton key'}
+#: .\sp_items.json
+msgid ""
+"This is an artisan-crafted set of picks and torsion wrenches made from fine "
+"steel. Equipped with spring-tensioned tumbler mechanisms to ease "
+"lockpicking."
+msgstr ""
+
+#: .\sp_items.json
+msgid "Guide on Mechanical Knowledge"
+msgid_plural "copies ofGuide on Mechanical Knowledge"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Guide on Mechanical Knowledge', 'str_pl':
+#. 'copies ofGuide on Mechanical Knowledge'}
+#: .\sp_items.json
+msgid ""
+"An advanced guide on topics that seem relevant to mechanical engineering, "
+"electrical engineering and chemistry. Often written in somewhat stilted 19th"
+" century prose."
+msgstr ""
+
+#: .\sp_items.json
+msgid "auto safecracker device"
+msgid_plural "auto safecracker devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'auto safecracker device'}
+#: .\sp_items.json
+msgid ""
+"This is an mechanical diaphragm assisted safecracking device. Place on the "
+"safe and use to your heart's content! For legal usage only"
+msgstr ""
+
+#: .\sp_items.json
+msgid "miniaturized steam engine"
+msgid_plural "miniaturized steam engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'miniaturized steam engine'}
+#: .\sp_items.json
+msgid ""
+"A miniature, steam engine.  An integrated boiler burns coal to heat water "
+"into steam, driving a reciprocating shaft.  A condenser recaptures the "
+"water, making this a closed cycle system. Commonly used in machined power "
+"armor or mechanized automatons."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "melee gangster"
+msgid_plural "melee gangsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'melee gangster'}
+#: .\sp_mobs.json
+msgid ""
+"A criminal who has been hardened by years of conflict in the slums of "
+"industrial districts. This one is sporting a pistol of some kind."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "ranged gangster"
+msgid_plural "ranged gangsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ranged gangster'}
+#: .\sp_mobs.json
+msgid ""
+"A criminal who has been hardened by years of conflict in the slums of "
+"industrial districts. This one is sporting a knife of some kind."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "The pistol fires with a loud pop!"
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "Mad Scientist"
+msgid_plural "Mad Scientists"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mad Scientist'}
+#: .\sp_mobs.json
+msgid ""
+"A scientist who has honed their craft through study over decades. They've "
+"gone a bit mad though, and will have no qualms with killing you."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "mechanical arachnid"
+msgid_plural "mechanical arachnids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mechanical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two large steel incisors, it can clatter across the ground with "
+"great speed."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "broken mechnical arachnid"
+msgid_plural "broken mechnical arachnids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken mechnical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"A broken mechnaical arachnid, now wrecked and motionless.  It could be "
+"gutted for spare parts."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "inactive mechanical arachnid"
+msgid_plural "inactive mechanical arachnids"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive mechanical arachnid'}
+#. ~ Description for {'str': 'fixed inactive mechanical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two large steel incisors, it can clatter across the ground with "
+"great speed. It's currently inactive but ready to be deployed."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "fixed inactive mechanical arachnid"
+msgid_plural "fixed inactive mechanical arachnids"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_mobs.json
+msgid "mechanical automaton"
+msgid_plural "mechanical automatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"Among the fiercest designs to be borne from the mechanical computing "
+"revolution, the automaton is a fearsome weapon of war. Watch out for its "
+"scythe blades!"
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "broken mechanical automaton"
+msgid_plural "broken mechanical automatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"A broken automaton, now wrecked and motionless.  It could be gutted for "
+"spare parts."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "inactive mechanical automaton"
+msgid_plural "inactive mechanical automatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive mechanical automaton'}
+#. ~ Description for {'str': 'fixed inactive mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"Among the fiercest designs to be borne from the mechanical computing "
+"revolution, the automaton is a fearsome weapon of war. Watch out for its "
+"scythe blades! The automaton is currently inactive."
+msgstr ""
+
+#: .\sp_mobs.json
+msgid "fixed inactive mechanical automaton"
+msgid_plural "fixed inactive mechanical automatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Engineer of Mechanics"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Engineer of Mechanics"
+msgstr ""
+
+#. ~ Profession (male Engineer of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences."
+msgstr ""
+
+#. ~ Profession (female Engineer of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Chemistry Practitioner"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Chemistry Practitioner"
+msgstr ""
+
+#. ~ Profession (male Chemistry Practitioner) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Whether you were from a working class neighborhood or the halls of high "
+"society, people around you had more than a passing interest in various "
+"substances. You on the other hand, were far more interested in the science "
+"of chemisty than imbibing various spirits and drugs."
+msgstr ""
+
+#. ~ Profession (female Chemistry Practitioner) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Whether you were from a working class neighborhood or the halls of high "
+"society, people around you had more than a passing interest in various "
+"substances. You on the other hand, were far more interested in the science "
+"of chemisty than imbibing various spirits and drugs."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Engineer of Electricity"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Engineer of Electricity"
+msgstr ""
+
+#. ~ Profession (male Engineer of Electricity) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Most people around you were content to enjoy the glow of the new electric "
+"streetlamps, but you always yearned for more knowledge about this marvelous "
+"spark. After years of hard work, you have finally become well versed in the "
+"study of electricity and its myriad concepts."
+msgstr ""
+
+#. ~ Profession (female Engineer of Electricity) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Most people around you were content to enjoy the glow of the new electric "
+"streetlamps, but you always yearned for more knowledge about this marvelous "
+"spark. After years of hard work, you have finally become well versed in the "
+"study of electricity and its myriad concepts."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Soldier"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Soldier"
+msgstr ""
+
+#. ~ Profession (male Town Soldier) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With a few years of "
+"experience under your belt, you've become quite an accomplished soldier."
+msgstr ""
+
+#. ~ Profession (female Town Soldier) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With a few years of "
+"experience under your belt, you've become quite an accomplished soldier."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Guard"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Guardswoman"
+msgstr ""
+
+#. ~ Profession (male Town Guard) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With only a few months of "
+"training, you don't know much about the art of warfare yet."
+msgstr ""
+
+#. ~ Profession (female Town Guardswoman) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With only a few months of "
+"training, you don't know much about the art of warfare yet."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Elite"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Elite"
+msgstr ""
+
+#. ~ Profession (male Town Elite) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. You are one of the select "
+"few deemed skilled enough to use machined plate armor."
+msgstr ""
+
+#. ~ Profession (female Town Elite) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. You are one of the select "
+"few deemed skilled enough to use machined plate armor."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Professor of Mechanics"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Professor of Mechanics"
+msgstr ""
+
+#. ~ Profession (male Professor of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences. Comes"
+" equipped with your own personal mechanical arachnids."
+msgstr ""
+
+#. ~ Profession (female Professor of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences. Comes"
+" equipped with your own personal mechanical arachnids."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Unhinged Scientist"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Unhinged Scientist"
+msgstr ""
+
+#. ~ Profession (male Unhinged Scientist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Despite all your talent, despite all your intellect, nobody has EVER "
+"respected your genius! Well now, they'll all see, when your machines and "
+"weapons of war are unleashed upon polite society."
+msgstr ""
+
+#. ~ Profession (female Unhinged Scientist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Despite all your talent, despite all your intellect, nobody has EVER "
+"respected your genius! Well now, they'll all see, when your machines and "
+"weapons of war are unleashed upon polite society."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Steam Adventurer"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Steam Adventurer"
+msgstr ""
+
+#. ~ Profession (male Steam Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam autocarriage, "
+"you drive off into another adventure into the unknown."
+msgstr ""
+
+#. ~ Profession (female Steam Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam autocarriage, "
+"you drive off into another adventure into the unknown."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Man of Leisure"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Upper Class Woman"
+msgstr ""
+
+#. ~ Profession (male Man of Leisure) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were born with a silver spoon firmly in your mouth. While the other "
+"classes of society labored and toiled, you were fit to rule, and learned the"
+" finer aspects of high society."
+msgstr ""
+
+#. ~ Profession (female Upper Class Woman) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were born with a silver spoon firmly in your mouth. While the other "
+"classes of society labored and toiled, you were fit to rule, and learned the"
+" finer aspects of high society."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Aero Adventurer"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Aero Adventurer"
+msgstr ""
+
+#. ~ Profession (male Aero Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in naptha and hydrocarbon powered vehicles soon blossomed"
+" into a deep love of travel. With tremendous effort, you have managed to "
+"make a flying aero carriage. Who knows where it shall take you?"
+msgstr ""
+
+#. ~ Profession (female Aero Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in naptha and hydrocarbon powered vehicles soon blossomed"
+" into a deep love of travel. With tremendous effort, you have managed to "
+"make a flying aero carriage. Who knows where it shall take you?"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Steam Motorcyclist"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Steam Motorcyclist"
+msgstr ""
+
+#. ~ Profession (male Steam Motorcyclist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam motorcycle, "
+"you drive off into another adventure into the unknown."
+msgstr ""
+
+#. ~ Profession (female Steam Motorcyclist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam motorcycle, "
+"you drive off into another adventure into the unknown."
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Thief"
+msgstr ""
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Thief"
+msgstr ""
+
+#. ~ Profession (male Town Thief) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Stealing always came easy to you, even from a young age. This talent took "
+"you far in life, and now that New England has seemingly gone to the dogs, "
+"you've found an entire new kind of heist."
+msgstr ""
+
+#. ~ Profession (female Town Thief) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Stealing always came easy to you, even from a young age. This talent took "
+"you far in life, and now that New England has seemingly gone to the dogs, "
+"you've found an entire new kind of heist."
+msgstr ""
+
+#: .\sp_terrain.json
+msgid "gaslight"
+msgstr ""
+
+#. ~ Description for gaslight
+#: .\sp_terrain.json
+msgid ""
+"A large lamp that combusts gas to light its surroundings.  Smashing it "
+"doesn't seem like it'd produce any worthwhile salvage."
+msgstr ""
+
+#: .\sp_terrain.json
+msgid "SMASH!"
+msgstr ""
+
+#. ~ Description for gaslight
+#: .\sp_terrain.json
+msgid ""
+"A lamp that combusts gas to light its surroundings.  Smashing it doesn't "
+"seem like it'd produce any worthwhile salvage."
+msgstr ""
+
+#: .\sp_vehicles.json
+msgid "Steam Autocarriage"
+msgstr ""
+
+#: .\sp_vehicles.json
+msgid "Aero Carriage"
+msgstr ""
+
+#: .\sp_vehicles.json
+msgid "1000 KW aero turbine engine"
+msgid_plural "1000 KW aero turbine engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '1000 KW aero turbine engine'}
+#: .\sp_vehicles.json
+msgid ""
+"An aero turbine engine, usually used for military vehicles.  Known for its "
+"high rate of fuel consumption. Can use a variety of fuels"
+msgstr ""
+
+#: .\sp_vehicles.json
+msgid "Steam Motorcycle"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "crank machine rifle"
+msgid_plural "crank machine rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"This is a compact hand-cycled gun capable of firing through paper cartidges "
+"with a rapidity once only seen in crew-served gatling guns!"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "auto"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "plunkett's long range pistol"
+msgid_plural "plunkett's long range pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A beautifully decorated pistol.  Developed specifally for usage at long "
+"ranges beyond the range where most black powder pistols are useful."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Mk.I High Velocity Pistol"
+msgid_plural "Mk.I High Velocity Pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A somewhat ugly, but entirely serviceable pistol.  Developed specifally for "
+"acclerating cartridge shot to a high velocity, thus increasing the lethality"
+" of the pistol."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Springfield Hand Cannon"
+msgid_plural "Springfield Hand Cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"An ornately-made and very large pistol.  Fires high-bore rounds made "
+"specifically for usage in rare firearms, this pistol's power is nearly "
+"unmatched."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Armstrong rifled Cannon"
+msgid_plural "Armstrong rifled Cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"An ferocious firearm capable of firing high-bore ammunition. This rifle's "
+"power is nearly unmatched."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "westinghouse electricity projector"
+msgid_plural "westinghouse electricity projectors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A powerful electricity projector developed by the famed inventor \"C.H. "
+"Westinghouse\".  Especially effective against electronic targets."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Zalinski pyrotechnic gun"
+msgid_plural "Zalinski pyrotechnic guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A compound gun that uses a small charge of fuel to superheat lead shot to "
+"near-incandescent temperatures. Does damage mainly via extreme heating of "
+"the target."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Foch's Warbringer"
+msgid_plural "Foch's Warbringer"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A very powerful five-round revolver.  Crafted by the powerful artisans of "
+"years long past, this weapon is exceedingly rare and hard to replicate."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "shocking staff"
+msgid_plural "shocking staffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'shocking staff'}.
+#. ~ Use action menu_text for {'str': 'shocking staff (active)'}.
+#: .\sp_weapon.json
+msgid "Activate"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'shocking staff'}.
+#: .\sp_weapon.json
+msgid "Staff starts to crackle with energy provided by current!"
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'shocking staff'}.
+#: .\sp_weapon.json
+msgid "The staff remains the same. It needs more energy to function."
+msgstr ""
+
+#. ~ Description for {'str': 'shocking staff'}
+#: .\sp_weapon.json
+msgid ""
+"A steel staff with an array of electrodes on its offensive end.  Activate to"
+" produce a current on the weapon, running off of batteries."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "shocking staff (active)"
+msgid_plural "shocking staff (active)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'shocking staff (active)'}.
+#: .\sp_weapon.json
+msgid "Current disappears from the staff."
+msgstr ""
+
+#. ~ Description for {'str': 'shocking staff (active)'}
+#: .\sp_weapon.json
+msgid ""
+"A steel staff with an array of electrodes on its offensive end.  The staff "
+"currently crackles with energy, running off of batteries."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Paterson mechanized gun"
+msgid_plural "Paterson mechanized guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"This is a compact recoil-cycled gun capable of firing through paper "
+"cartidges with a rapidity equivalent to that of five soldiers!"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "3 rd."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "Faraday staff"
+msgid_plural "Faraday staffs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"An upgraded version of the shocking staff, allows one to fire bolts of "
+"electricity directly."
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "westinghouse charged accelerator"
+msgid_plural "westinghouse charged accelerators"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\sp_weapon.json
+msgid ""
+"A powerful charged accelerator developed by the famed inventor \"C.H. "
+"Westinghouse\".  Uses a magnetic accelerator to propel minute charges to a "
+"very, very high velocity. Kill your enemies with a jolt of lightning!"
+msgstr ""
+
+#: .\sp_weapon.json
+msgid "spring spear"
+msgid_plural "spring spears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spring spear'}
+#: .\sp_weapon.json
+msgid "A stout wooden pole with a spring-tensioned metal spearhead."
+msgstr ""
+
+#: .\startlocation.json .\map\steam_town\overmap_terrain.json
+msgid "local town"
+msgstr ""
+
+#: .\map\automaton_base\overmap_terrain.json
+msgid "scientist compound"
+msgstr ""
+
+#: .\map\automaton_base\overmap_terrain.json
+msgid "scientist compound roof"
+msgstr ""
+
+#: .\map\crimhouse\overmap_terrain.json
+msgid "Shady Warehouse"
+msgstr ""
+
+#: .\map\crimhouse\overmap_terrain.json
+msgid "Shady Warehouse roof"
+msgstr ""
+
+#: .\map\steam_town\overmap_terrain.json
+msgid "local town roof"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Locator Hologram"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Hologram Protection"
+msgstr ""
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\npcs\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Scientist Compound Locator Hologram"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Shady Warehouse Locator Hologram"
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to Scientist Compound'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Scientist Compound"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Good luck to you!"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Good work!"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to Shady Warehouse'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Shady Warehouse"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Who or what are you?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "About that mission..."
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Thanks"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Hello, Madam."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Hello, Sir."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Thank you, Do you know where I am?"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid ""
+"You've stumbled upon our little town, a bit of an oasis in these troubled "
+"times, if I do say so myself! Make yourself at home, but don't overstay your"
+" welcome."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Got it. Thanks."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "I shall return."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"Welcome, dear madam, to our little village. Please make yourself "
+"comfortable, I think a woman of your stature is safer here than in the "
+"outside world."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"Another wayfarer has found our oasis in the abyss of violence that surrounds"
+" us! Good sir, I think you'll have a fine time here, plenty of friendly men "
+"and women. Although sometimes the women can be a little too friendly, if you"
+" ask me!"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"So you're a man in this town? What does someone of your status do in these "
+"parts?"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json .\npcs\Talk_sp_town_womnpc.json
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Goodbye, thank you for your time."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"A woman like you should get the grasp of it, I act as the head of my "
+"household, work in the mill, and defend the town in times of trouble. Sure, "
+"it might not be fit for a woman, but what more could a man ask for in this "
+"life?"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"A fellow gentleman like you should understand well enough, I act as the head"
+" of my household, work in the mill, and defend the town in times of trouble."
+" What more could a man ask for in this life?"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_mannpc.json .\npcs\Talk_sp_town_womnpc.json
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Got it."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Ah, I see another fine woman has come to visit our community. Please, do "
+"make yourself comfortable. We're very welcoming around here."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Hello, fine gentleman, to our humble town. This is a quite a nice town, is "
+"it not? Perhaps a fine place to settle down in during these troubled times.."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid "So you're a woman in this town? What do you do around here?"
+msgstr ""
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Oh the usual: cooking, cleaning, gardening and so on. It seems tedious at "
+"first, but you eventually get used to it. Seeing as how you're a woman, too,"
+" I imagine you have the same understanding."
+msgstr ""
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Oh the usual: cooking, cleaning, gardening and so on. It seems tedious at "
+"first, but you eventually get used to it. You're a man though, so I imagine "
+"you're more suited to the more authoritative parts of life."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"Hello, Sir. Do you perhaps have any interest in my wares? A firearm or tonic"
+" for your health perhaps?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"Hello, Madam. Do you perhaps have any interests in my wares? Perhaps a nice "
+"dress or some cookware to help you in your domestic pursuits."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "So you're a merchant in this town? What can you tell me about it?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Let me browse your wares."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"That's a good question, sir. This town has been around for some time, I "
+"don't really remember how long, but we first placed roots down here in the "
+"19th century. This is a place where an enterprising man such as yourself "
+"could become famous."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"That's a good question, miss. This town has been around for some time, I "
+"don't really remember how long, but we first placed roots down here in the "
+"19th century. There's a lot of fine domestic pursuits here for a member of "
+"the fairer sex such as yourself."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Retrieve three mechanics related books"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Retrieve three mechanics related
+#. books'}'
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Retrieve three copies of the guide on Mechanical Knowledge the Steamtown "
+"Merchant."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"I need you to prove your worth to me first. Find three copies of the Guide "
+"on Mechanical Knowledge, then I might trust you some more."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"The Guide on Mechanical Knowledge is the absolute foundation of our network "
+"of towns. Without it, we would still be woefully primitive. Get me three "
+"copies of it."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Great news, now go out and find some for me, okay?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Why ask about a task and then reject it?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Look around at a shady warehouse or a scientist compound for them. Beware of"
+" the thugs and automatons that hang out around those parts, though."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Have you found the books yet?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Superlative work, I might have more tasks for you in the future"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "That's odd, I don't really know what to say."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Oh well, at least you tried. That's more than what most people do around "
+"here."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Kill the gangsters"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You seem to know a lot about the area around our little town, but the thugs "
+"do as well"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You seem to have no small amount of grit and determination. How about this, "
+"you go out and kill a few criminals that have been plaguing us as of late. "
+"About seven should suffice."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Thank you for accepting, you'll be reimbursed handsomely if you kill those "
+"ruffians for us."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"It's shame that you would reject my offer, but I understand the risk. "
+"Getting stabbed to death by some criminal's shiv isn't a very tempting "
+"propect!"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"The criminals hide out at shady warehouses, and shady warehouses alone."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Have the ruffians been dispatched yet?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Astounding work! Our town will be a little bit safer now, as will all of New"
+" England."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "I'm not entirely sure if you're telling the truth, but alright."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "So you've decided to give up already?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Kill Mad Scientist"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You've done more than enough to gain our trust, but I have another task for "
+"you."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"There are these people that have been causing massive problems recently. "
+"People of eccentric natures, poisoned with an awful intelligence. Them and "
+"their handiwork have terrorized our communities for a long while, and I "
+"think you should handle it what do you think?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"I appreciate your willingness to go after these wayward scientist, but do be"
+" careful."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "While I am disheartened by your reply, I understand entirely."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Mad scientists can be found in the scientist compounds that dot the "
+"landscape. Be careful, as they are very skilled with electricity and the "
+"creation of automatons."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Are they dead yet?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"To be honest, I didn't think you would make it back alive. Here is a reward "
+"for your immense efforts."
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Are you sure you're telling the truth about these scientists you have "
+"killed?"
+msgstr ""
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "What a shame, but I guess you weren't as strong as we expected."
+msgstr ""
+
+#: .\npcs\sp_factions.json
+msgid "Secluded Towns"
+msgstr ""
+
+#. ~ Description for Secluded Towns
+#: .\npcs\sp_factions.json
+msgid ""
+"A collection of small industrial towns that dot the landscape. Curiously "
+"retrogade and retrofuturist in many of their characterstics."
+msgstr ""
+
+#: .\npcs\sp_merchants.json
+msgid "Steam Merchant"
+msgstr ""
+
+#: .\npcs\sp_merchants.json .\npcs\sp_npc_classes.json
+msgid "I'm a local shopkeeper."
+msgstr ""
+
+#: .\npcs\sp_merchants.json
+msgid "Do you have a task for me?"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "Town Guard"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "town guard"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "Protects the town from assailants"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "Townswoman"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "townswoman"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "A woman who lives in a local town"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "Townsman"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "townsman"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "A man who lives in a local town"
+msgstr ""
+
+#: .\npcs\sp_npc_classes.json
+msgid "Steamtown Merchant"
+msgstr ""

@@ -1,0 +1,162 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: crazypets\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Crazy Pets!"
+msgstr "疯狂宠物！"
+
+#. ~ Description for Crazy Pets!
+#: .\modinfo.json
+msgid "Adds new, crazier pet starts!  WARNING: Breaks intended balance."
+msgstr "添加更疯狂的新宠物开局！警告：会破坏游戏平衡性。"
+
+#: .\monstermount.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] "鸡足步行机"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monstermount.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"诺斯罗普 ATSV，一种庞大、重武装且装甲厚重的机器人，以一对反关节腿行走。装备有 40 毫米反车辆榴弹发射器、5.56 "
+"毫米反人员机枪，并能对攻击者释放电击，是一种高效的自动哨兵，但因法律纠纷产量有限。"
+
+#: .\monstermount.json
+msgid "Beagle Mini-Tank UGV"
+msgid_plural "Beagle Mini-Tank UGVs"
+msgstr[0] "比格微型坦克无人地面载具"
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monstermount.json
+msgid ""
+"The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr "诺斯罗普比格是一种冰箱大小的城市战无人地面载具。配备反坦克导弹发射器、40 毫米榴弹发射器和多种反步兵武器，专为高风险城市战斗设计。"
+
+#: .\monstermount.json
+msgid "shoggoth"
+msgid_plural "shoggoths"
+msgstr[0] "修格斯"
+
+#. ~ Description for {'str': 'shoggoth'}
+#: .\monstermount.json
+msgid ""
+"A gargantuan protoplasmic blob, constantly reshaping, forming new pseudopods"
+" seemingly at will.  All over its body are eyes that form and disappear.  It"
+" looks at you with malice."
+msgstr "一个巨大的原生质团块，不断重塑形态，仿佛随意地形成新的伪足。其全身遍布着形成又消失的眼睛。它带着恶意注视着你。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Crazy Mech Man"
+msgstr "疯狂机甲男"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Crazy Robot Lady"
+msgstr "疯狂机器人女"
+
+#. ~ Profession (male Crazy Mech Man) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Everyone is dead?  Well, it doesn't matter... your M E C H A are all the "
+"friends you'll E V E R need!"
+msgstr "所有人都死了？好吧，没关系……你的机甲就是你唯一需要的朋友！"
+
+#. ~ Profession (female Crazy Robot Lady) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Everyone is dead?  Well, it doesn't matter... your M E C H A are all the "
+"friends you'll E V E R need!"
+msgstr "所有人都死了？好吧，没关系……你的机甲就是你唯一需要的朋友！"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Crazy Tank... Trial?"
+msgstr "疯狂坦克……试炼？"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Crazy Tankette!"
+msgstr "疯狂小坦克！"
+
+#. ~ Profession (male Crazy Tank... Trial?) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Everyone is dead?  Well, it doesn't matter... D A K K A is on your side now!"
+" Starting at the price of a demon."
+msgstr "所有人都死了？好吧，没关系……火力现在站在你这边！以恶魔的价格起步。"
+
+#. ~ Profession (female Crazy Tankette!) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Everyone is dead?  Well, it doesn't matter... D A K K A is on your side now!"
+" Starting at the price of a demon."
+msgstr "所有人都死了？好吧，没关系……火力现在站在你这边！以恶魔的价格起步。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Crazy Wizard"
+msgstr "疯狂巫师"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Crazy Witch Bitch"
+msgstr "疯狂女巫婊子"
+
+#. ~ Profession (male Crazy Wizard) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A feat worthy of praise from the gods above has lead to you owning the "
+"world's first pet shoggoth. Congrats, dumbass."
+msgstr "一项值得神明赞颂的壮举让你拥有了世界上第一只宠物修格斯。恭喜，蠢货。"
+
+#. ~ Profession (female Crazy Witch Bitch) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A feat worthy of praise from the gods above has lead to you owning the "
+"world's first pet shoggoth. Congrats, dumbass."
+msgstr "一项值得神明赞颂的壮举让你拥有了世界上第一只宠物修格斯。恭喜，蠢货。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Super Strigolactone Synthesizer"
+msgstr "超级独脚金内酯合成器"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Funny Florist Friend"
+msgstr "有趣的花匠朋友"
+
+#. ~ Profession (male Super Strigolactone Synthesizer) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid "A triffid followed you home."
+msgstr "一只三裂植物跟着你回家了。"
+
+#. ~ Profession (female Funny Florist Friend) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid "A triffid followed you home."
+msgstr "一只三裂植物跟着你回家了。"

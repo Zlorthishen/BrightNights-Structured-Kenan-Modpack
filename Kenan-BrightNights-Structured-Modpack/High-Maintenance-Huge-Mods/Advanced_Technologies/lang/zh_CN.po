@@ -1,0 +1,2172 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: advtech\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\at_ammo.json
+msgid "6x36mm"
+msgid_plural "6x36mms"
+msgstr[0] "6x36毫米"
+
+#. ~ Description for {'str': '6x36mm'}
+#: .\at_ammo.json
+msgid ""
+"A small prototype round for the military's 'low-power, high-capacity' "
+"applications, this particular round was designed for testing in weapons "
+"primarily used while mounted."
+msgstr "一种为军方'低威力、高容量'应用设计的小型原型弹药，这种特殊弹药主要用于测试安装在载具上的武器。"
+
+#: .\at_ammo.json .\at_ammo_types.json
+msgid "11mm"
+msgid_plural "11mms"
+msgstr[0] "11毫米"
+
+#. ~ Description for {'str': '11mm'}
+#: .\at_ammo.json
+msgid ""
+"A large rifle round almost as large as .50bmg though not nearly as long or "
+"heavy it is still a massive round, uses a steel case to help deal with high "
+"pressures."
+msgstr "一种大型步枪弹，尺寸几乎与.50 BMG相当，虽然长度和重量不及，但仍属巨型弹药，采用钢制弹壳以应对高压。"
+
+#: .\at_ammo.json .\at_ammo_types.json
+msgid "12.7x108mm"
+msgid_plural "12.7x108mms"
+msgstr[0] "12.7x108毫米"
+
+#. ~ Description for {'str': '12.7x108mm'}
+#: .\at_ammo.json
+msgid ""
+"to simplify it is the ruski counterpart to .50 bmg a bit longer but the size"
+" is identicle otherwise."
+msgstr "简而言之，这是.50 BMG的俄式对应版本，稍长一些，但其他尺寸基本相同。"
+
+#. ~ Description for {'str': '12.7x108mm'}
+#: .\at_ammo.json
+msgid "fmj variant of the 12.7x108mm round."
+msgstr "12.7x108毫米弹的全金属被甲型号。"
+
+#: .\at_ammo.json
+msgid ".660 supermagnum"
+msgid_plural ".660 supermagnums"
+msgstr[0] ".660超级马格南"
+
+#. ~ Description for {'str': '.660 supermagnum'}
+#. ~ Description for {'str': '.660 supermagnum H.E.'}
+#: .\at_ammo.json
+msgid "A large ...handgun? round for killing everything short of a mammoth."
+msgstr "一种大型...手枪弹？用于猎杀除猛犸象外的一切目标。"
+
+#: .\at_ammo.json
+msgid ".660 supermagnum H.E."
+msgid_plural ".660 supermagnum H.E.s"
+msgstr[0] ".660超级马格南高爆弹"
+
+#: .\at_ammo.json
+msgid ".666 supermagnum +p penatrator"
+msgid_plural ".666 supermagnum +p penatrators"
+msgstr[0] ".666超级马格南+P穿甲弹"
+
+#. ~ Description for {'str': '.666 supermagnum +p penatrator'}
+#: .\at_ammo.json
+msgid "A large ...handgun? round for killing everything including a mammoth."
+msgstr "一种大型...手枪弹？用于猎杀包括猛犸象在内的一切目标。"
+
+#: .\at_ammo.json
+msgid "14.5x46mm ball"
+msgid_plural "14.5x46mm balls"
+msgstr[0] "14.5x46毫米普通弹"
+
+#. ~ Description for {'str': '14.5x46mm ball'}
+#: .\at_ammo.json
+msgid ""
+"A medium low-velocity shell still very large compared to other ammunition."
+msgstr "一种中低速炮弹，与其他弹药相比仍属非常大型。"
+
+#: .\at_ammo.json
+msgid "14.5x46mm +p"
+msgid_plural "14.5x46mm +ps"
+msgstr[0] "14.5x46毫米+P弹"
+
+#. ~ Description for {'str': '14.5x46mm +p'}
+#: .\at_ammo.json
+msgid ""
+"A medium low-velocity shell still very large compared to other ammunition, "
+"this one has a increased powder load."
+msgstr "一种中低速炮弹，与其他弹药相比仍属非常大型，这种型号增加了装药量。"
+
+#: .\at_ammo.json
+msgid "14.5x46mm incendiary"
+msgid_plural "14.5x46mm incendiarys"
+msgstr[0] "14.5x46毫米燃烧弹"
+
+#. ~ Description for {'str': '14.5x46mm incendiary'}
+#: .\at_ammo.json
+msgid ""
+"A medium low-velocity shell still very large compared to other ammunition "
+"this one lights a small area on fire."
+msgstr "一种中低速炮弹，与其他弹药相比仍属非常大型，这种型号能点燃小片区域。"
+
+#: .\at_ammo.json
+msgid "14.5x46mm frag"
+msgid_plural "14.5x46mm frags"
+msgstr[0] "14.5x46毫米破片弹"
+
+#. ~ Description for {'str': '14.5x46mm frag'}
+#: .\at_ammo.json
+msgid ""
+"A low-velocity shell still very large compared to other ammunition, this one"
+" causes fragmentation."
+msgstr "与其他弹药相比，这种低速炮弹仍然非常巨大，会造成破片杀伤。"
+
+#: .\at_ammo.json
+msgid "33x308mm ball"
+msgid_plural "33x308mm balls"
+msgstr[0] "33x308毫米普通弹"
+
+#. ~ Description for {'str': '33x308mm ball'}
+#: .\at_ammo.json
+msgid ""
+"A large hypervelocity-shell over twice the size of a .50 browning machinegun"
+" round and many times as heavy."
+msgstr "一种大型超高速炮弹，尺寸是.50勃朗宁机枪弹的两倍多，重量更是数倍。"
+
+#: .\at_ammo.json
+msgid "33x308mm tracer"
+msgid_plural "33x308mm tracers"
+msgstr[0] "33x308毫米曳光弹"
+
+#. ~ Description for {'str': '33x308mm tracer'}
+#: .\at_ammo.json
+msgid ""
+"A large hypervelocity-shell this one wont emit any smoke and might light "
+"things on fire."
+msgstr "一种大型超高速炮弹，这种不会产生烟雾，并可能引燃物体。"
+
+#: .\at_ammo.json
+msgid "33x308mm high velocity explosive"
+msgid_plural "33x308mm high velocity explosives"
+msgstr[0] "33x308毫米高速爆破弹"
+
+#. ~ Description for {'str': '33x308mm high velocity explosive'}
+#: .\at_ammo.json
+msgid "A large hypervelocity-shell this one is made for extreme penatration."
+msgstr "一种大型超高速炮弹，专为极端穿透力而设计。"
+
+#: .\at_ammo.json
+msgid "33x308mm high explosive"
+msgid_plural "33x308mm high explosives"
+msgstr[0] "33x308毫米高爆弹"
+
+#. ~ Description for {'str': '33x308mm high explosive'}
+#: .\at_ammo.json
+msgid ""
+"A large explosive-shell about twice the size of a .50 browning machinegun "
+"round and many times as heavy."
+msgstr "一种大型爆破弹，尺寸约为.50勃朗宁机枪弹的两倍，重量更是数倍。"
+
+#: .\at_ammo.json
+msgid "33x308mm IHEAT"
+msgid_plural "33x308mm IHEATs"
+msgstr[0] "33x308毫米IHEAT弹"
+
+#. ~ Description for {'str': '33x308mm IHEAT'}
+#: .\at_ammo.json
+msgid ""
+"A large shell with a label near the bottom of the casing; WARNING DO NOT "
+"FIRE WITHIN 80FT OF FREINDLY UNITS. this is probably very explosive."
+msgstr "一种大型炮弹，弹壳底部附近有标签：警告，不要在80英尺内对友军单位开火。这可能极具爆炸性。"
+
+#: .\at_ammo.json
+msgid "65x465mm shell"
+msgid_plural "65x465mm shells"
+msgstr[0] "65x465毫米炮弹"
+
+#. ~ Description for {'str': '65x465mm shell'}
+#: .\at_ammo.json
+msgid "A huge shell this and uh yeah this kills shit dead."
+msgstr "一种巨型炮弹，嗯，是的，这玩意儿能把东西彻底干掉。"
+
+#: .\at_ammo.json
+msgid "65x465mm shell NUCLEAR."
+msgid_plural "65x465mm shell NUCLEAR.s"
+msgstr[0] "65x465毫米炮弹 核弹头。"
+
+#. ~ Description for {'str': '65x465mm shell NUCLEAR.'}
+#: .\at_ammo.json
+msgid "A huge shell this and uh yeah this kills shit extra-dead."
+msgstr "一种巨型炮弹，嗯，是的，这玩意儿能把东西炸得连渣都不剩。"
+
+#: .\at_ammo.json
+msgid "6x36mm casing"
+msgid_plural "6x36mm casings"
+msgstr[0] "6x36毫米弹壳"
+
+#. ~ Description for {'str': '6x36mm casing'}
+#: .\at_ammo.json
+msgid "An empty casing from a 6x36mm round."
+msgstr "6x36毫米子弹的空弹壳。"
+
+#: .\at_ammo.json .\at_ammo_types.json
+msgid "20mm slugs"
+msgid_plural "20mm slugss"
+msgstr[0] "20毫米弹丸"
+
+#. ~ Description for {'str': '20mm slugs'}
+#: .\at_ammo.json
+msgid ""
+"Ammunition for a prototype railgun in development by the military. Since the"
+" weapon was never offically approved, this ammo will probably be somewhat "
+"scarce."
+msgstr "军方正在开发的原型电磁炮的弹药。由于该武器从未正式获批，这种弹药可能较为稀缺。"
+
+#: .\at_ammo_linkages.json
+msgid ".660 supermag casing"
+msgid_plural ".660 supermag casings"
+msgstr[0] ".660超级马格南弹壳"
+
+#. ~ Description for {'str': '.660 supermag casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a .660 supermag round."
+msgstr ".660超级马格南子弹的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "11mm casing"
+msgid_plural "11mm casings"
+msgstr[0] "11毫米弹壳"
+
+#. ~ Description for {'str': '11mm casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a 11mm round."
+msgstr "11毫米子弹的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "12.7x108mm casing"
+msgid_plural "12.7x108mm casings"
+msgstr[0] "12.7x108毫米弹壳"
+
+#. ~ Description for {'str': '12.7x108mm casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a 12.7x108mm round."
+msgstr "12.7x108毫米子弹的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "14.5x46mm casing"
+msgid_plural "14.5x46mm casings"
+msgstr[0] "14.5x46毫米弹壳"
+
+#. ~ Description for {'str': '14.5x46mm casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a 14.5x46mm round."
+msgstr "14.5x46毫米子弹的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "33x308mm casing"
+msgid_plural "33x308mm casings"
+msgstr[0] "33x308毫米弹壳"
+
+#. ~ Description for {'str': '33x308mm casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a 33x308mm round."
+msgstr "33x308毫米子弹的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "65x465mm casing"
+msgid_plural "65x465mm casings"
+msgstr[0] "65x465毫米弹壳"
+
+#. ~ Description for {'str': '65x465mm casing'}
+#: .\at_ammo_linkages.json
+msgid "An empty casing from a 65x465mm round."
+msgstr "一枚65x465毫米弹药的空弹壳。"
+
+#: .\at_ammo_linkages.json
+msgid "ammo belt linkage"
+msgid_plural "ammo belt linkages"
+msgstr[0] "弹链连接件"
+
+#. ~ Description for {'str': 'ammo belt linkage'}
+#: .\at_ammo_linkages.json
+msgid "A small metal linkage from a disintegrating ammo belt."
+msgstr "从可散弹链上拆下的一个小金属连接件。"
+
+#: .\at_ammo_linkages.json
+msgid "33x308mm belt linkage"
+msgid_plural "33x308mm belt linkages"
+msgstr[0] "33x308毫米弹链连接件"
+
+#: .\at_ammo_linkages.json
+msgid "14.5x46mm belt linkage"
+msgid_plural "14.5x46mm belt linkages"
+msgstr[0] "14.5x46毫米弹链连接件"
+
+#: .\at_ammo_types.json
+msgid "6mm"
+msgstr "6毫米"
+
+#: .\at_ammo_types.json
+msgid ".660 supermag"
+msgstr ".660超级马格南"
+
+#: .\at_ammo_types.json
+msgid "33x308mm"
+msgstr "33x308毫米"
+
+#: .\at_ammo_types.json
+msgid "14.5x46mm"
+msgstr "14.5x46毫米"
+
+#: .\at_ammo_types.json
+msgid "65x465mm"
+msgstr "65x465毫米"
+
+#: .\at_armor.json
+msgid "advanced power armor"
+msgid_plural "advanced power armors"
+msgstr[0] "先进动力装甲"
+
+#. ~ Use action holster_msg for {'str': 'advanced power armor'}.
+#: .\at_armor.json
+msgid "You sheath your %s"
+msgstr "你将你的%s收鞘。"
+
+#. ~ Use action holster_prompt for {'str': 'advanced power armor'}.
+#: .\at_armor.json
+msgid "Sheath knife"
+msgstr "收鞘刀"
+
+#. ~ Description for {'str': 'advanced power armor'}
+#: .\at_armor.json
+msgid ""
+"A jet black suit of very lightweight powered armor, designed to be used by "
+"specialist shock troopers. Known only by the military designation 'Power "
+"Armor, Advanced', it appears to have been constructed in limited quantities."
+msgstr "一套乌黑、非常轻便的动力装甲，专为特种突击部队设计。仅以军用代号“先进动力装甲”为人所知，似乎产量有限。"
+
+#: .\at_armor.json
+msgid "advanced power armor helmet"
+msgid_plural "advanced power armor helmets"
+msgstr[0] "先进动力装甲头盔"
+
+#. ~ Description for {'str': 'advanced power armor helmet'}
+#: .\at_armor.json
+msgid ""
+"A jet black power armor helmet designed for use with the matching suit, "
+"constructed from lightweight materials, but still very protective."
+msgstr "一顶乌黑的动力装甲头盔，专为配套装甲设计，采用轻质材料制成，但仍提供极佳防护。"
+
+#: .\at_armor.json
+msgid "robot helmet"
+msgid_plural "robot helmets"
+msgstr[0] "机器人头盔"
+
+#. ~ Description for {'str': 'robot helmet'}
+#: .\at_armor.json
+msgid ""
+"A tough green helmet built from durable materials, designed as armor for "
+"combat robots, but suitable for humans."
+msgstr "一顶坚固的绿色头盔，由耐用材料制成，原为战斗机器人设计的护甲，但也适合人类使用。"
+
+#: .\at_armor.json
+msgid "steel helmet"
+msgid_plural "steel helmets"
+msgstr[0] "钢盔"
+
+#. ~ Description for {'str': 'steel helmet'}
+#: .\at_armor.json
+msgid ""
+"A dull gray steel helmet with a skirt on the rear to protect against "
+"shrapnel and provide extra coverage."
+msgstr "一顶暗灰色钢盔，后部带有护裙，用于防御弹片并提供额外覆盖。"
+
+#: .\at_armor.json
+msgid "pilot helmet"
+msgid_plural "pilot helmets"
+msgstr[0] "飞行员头盔"
+
+#. ~ Description for {'str': 'pilot helmet'}
+#: .\at_armor.json
+msgid ""
+"A thick helmet, encasing the entire head, with a large reflective visor, "
+"allowing a wide field of vision."
+msgstr "一顶厚重的头盔，完全包裹头部，配有大型反光面罩，提供宽阔视野。"
+
+#: .\at_armor.json
+msgid "hellfire power armor"
+msgid_plural "hellfire power armors"
+msgstr[0] "地狱火动力装甲"
+
+#. ~ Description for {'str': 'hellfire power armor'}
+#: .\at_armor.json
+msgid "A large power armor suit. It seems to be very heavily insultated."
+msgstr "一套大型动力装甲。似乎具有极强的绝缘性。"
+
+#: .\at_armor.json
+msgid "hellfire power armor helmet"
+msgid_plural "hellfire power armor helmets"
+msgstr[0] "地狱火动力装甲头盔"
+
+#. ~ Description for {'str': 'hellfire power armor helmet'}
+#: .\at_armor.json
+msgid "A large power armor helmet. It seems to be very heavily insultated."
+msgstr "一顶大型动力装甲头盔。似乎具有极强的绝缘性。"
+
+#: .\at_books.json
+msgid "Man or Machine"
+msgid_plural "Man or Machines"
+msgstr[0] "人还是机器"
+
+#. ~ Description for {'str': 'Man or Machine'}
+#: .\at_books.json
+msgid ""
+"The first book of the \"Man or Machine\" series, focused on the electronics "
+"component of robots and cyborgs. While very complex and certainly not an "
+"entry-level text, it does offer many pointers and tips to even the veteran "
+"programmer. Contains a few diagrams and ideas for programs that you could "
+"apply to your own garage-level projects."
+msgstr ""
+"“人还是机器”系列的第一本书，专注于机器人与半机械人的电子元件。内容非常复杂，绝非入门读物，但即使对资深程序员也提供了许多提示与技巧。包含一些图表和程序构想，可应用于你自己的车库级项目。"
+
+#: .\at_books.json
+msgid "Man or Machine: Book Two"
+msgid_plural "Man or Machine: Book Twos"
+msgstr[0] "人还是机器：第二册"
+
+#. ~ Description for {'str': 'Man or Machine: Book Two'}
+#: .\at_books.json
+msgid ""
+"The second entry in an extensively detailed series documenting the "
+"construction of advanced robots and cyborgs. This book is centered on the "
+"more \"hands on\" aspect of biomechanics and robots. It features many "
+"different recipes, that with some enginuity, could possibly be used even in "
+"a post-cataclysm enviroment."
+msgstr ""
+"这是一本详尽记录高级机器人与生化人建造过程的系列丛书中的第二册。本书侧重于生物力学与机器人领域中更为“实践操作”的方面。书中包含多种不同的配方，凭借一定的巧思，甚至可在灾后环境中加以运用。"
+
+#: .\at_books.json
+msgid "Man or Machine, Book Three"
+msgid_plural "Man or Machine, Book Threes"
+msgstr[0] "《人与机器，第三册》"
+
+#. ~ Description for {'str': 'Man or Machine, Book Three'}
+#: .\at_books.json
+msgid ""
+"The third book in a three book series on robotics and cyborgs. This book "
+"covers the biomechanic aspects, with some rather gruesome photos and "
+"detailed descriptions, however, it has a wealth of knowledge, and even some "
+"rudimentary designs. With some adaptations, most of the documents within "
+"could be applied to your own works."
+msgstr ""
+"这是关于机器人学与生化人的三卷系列丛书中的第三册。本书涵盖了生物力学方面的内容，附有一些相当骇人的照片和详细描述，然而其中蕴含丰富的知识，甚至包括一些基础设计。经过适当调整，书内大部分文档均可应用于您自己的作品中。"
+
+#: .\at_books.json
+msgid "Heavy Mech Machinery"
+msgid_plural "Heavy Mech Machinerys"
+msgstr[0] "重型机甲机械"
+
+#. ~ Description for {'str': 'Heavy Mech Machinery'}
+#: .\at_books.json
+msgid ""
+"A thick binder detailing the operation, maintenance and construction of "
+"mechs, with much insight into the internal mechanisms."
+msgstr "一本厚重的活页夹，详细阐述了机甲的操作、维护与建造，并对内部机制提供了深入见解。"
+
+#: .\at_combustion.json
+msgid "A combustion engine.  Burns fuel from a tank in the vehicle."
+msgstr "一台内燃机。燃烧车辆油箱中的燃料。"
+
+#: .\at_combustion.json
+msgid ""
+"A combustion engine.  Burns diesel fuel from a tank in the vehicle.  Can "
+"also burn biodiesel or lamp oil, though somewhat less efficiently."
+msgstr "一台内燃机。燃烧车辆油箱中的柴油燃料。也可燃烧生物柴油或灯油，但效率稍低。"
+
+#: .\at_combustion.json
+msgid ""
+"An advanced combustion engine.  Burns gasoline or diesel or aviation fuel "
+"from a tank in the vehicle.  Can also burn lamp oil, though somewhat less "
+"efficiently.  Better power-to-weight ratio than a traditional engine, but "
+"consumes more fuel."
+msgstr "一台先进的内燃机。燃烧车辆油箱中的汽油、柴油或航空燃料。也可燃烧灯油，但效率稍低。相比传统发动机具有更好的功率重量比，但消耗更多燃料。"
+
+#: .\at_containers.json
+msgid "large auxilliary fuel pod"
+msgid_plural "large auxilliary fuel pods"
+msgstr[0] "大型辅助燃料舱"
+
+#. ~ Description for {'str': 'large auxilliary fuel pod'}
+#: .\at_containers.json
+msgid "A gigantic steel pod designed to carry mass amounts of gasoline."
+msgstr "一个巨大的钢制舱体，设计用于携带大量汽油。"
+
+#: .\at_containers.json
+msgid "small auxilliary fuel pod"
+msgid_plural "small auxilliary fuel pods"
+msgstr[0] "小型辅助燃料舱"
+
+#. ~ Description for {'str': 'small auxilliary fuel pod'}
+#: .\at_containers.json
+msgid "A small fuel pod designed to hold large amounts of gasoline."
+msgstr "一个小型燃料舱，设计用于容纳大量汽油。"
+
+#. ~ Description for robotics assembly bench
+#: .\at_furniture.json
+msgid "robotics assembly bench"
+msgstr "机器人装配工作台"
+
+#: .\at_magazines.json
+msgid "M9887 magazine"
+msgid_plural "M9887 magazines"
+msgstr[0] "M9887弹匣"
+
+#. ~ Description for {'str': 'M9887 magazine'}
+#: .\at_magazines.json
+msgid "a magazine for the M9887 battle rifle."
+msgstr "M9887战斗步枪的弹匣。"
+
+#: .\at_magazines.json
+msgid "USAS-20 box magazine"
+msgid_plural "USAS-20 box magazines"
+msgstr[0] "USAS-20弹匣"
+
+#. ~ Description for {'str': 'USAS-20 box magazine'}
+#: .\at_magazines.json
+msgid ""
+"A removable plastic magazine for the USAS-20 shotgun.  Holds 10 rounds."
+msgstr "USAS-20霰弹枪的可拆卸塑料弹匣。可容纳10发子弹。"
+
+#: .\at_magazines.json
+msgid "Desert Eagle magazine"
+msgid_plural "Desert Eagle magazines"
+msgstr[0] "沙漠之鹰弹匣"
+
+#. ~ Description for {'str': 'Desert Eagle magazine'}
+#: .\at_magazines.json
+msgid ""
+"A standard 7-round steel box magazine for use with the B.A.G Desert Eagle."
+msgstr "一个标准的7发钢制盒式弹匣，适用于B.A.G沙漠之鹰手枪。"
+
+#: .\at_magazines.json
+msgid "USAS-20 drum magazine"
+msgid_plural "USAS-20 drum magazines"
+msgstr[0] "USAS-20弹鼓"
+
+#. ~ Description for {'str': 'USAS-20 drum magazine'}
+#: .\at_magazines.json
+msgid ""
+"A removable plastic magazine for the USAS-20 shotgun.  Holds 20 rounds."
+msgstr "USAS-20霰弹枪的可拆卸塑料弹匣。可容纳20发子弹。"
+
+#: .\at_magazines.json
+msgid "12.7x108mm ammo belt"
+msgid_plural "12.7x108mm ammo belts"
+msgstr[0] "12.7x108mm弹药带"
+
+#: .\at_magazines.json
+msgid "ak50 magazine"
+msgid_plural "ak50 magazines"
+msgstr[0] "ak50弹匣"
+
+#. ~ Description for {'str': 'ak50 magazine'}
+#: .\at_magazines.json
+msgid "a magazine for the ak50."
+msgstr "ak50的弹匣。"
+
+#: .\at_magazines.json
+msgid "12.7x108 boxmag"
+msgid_plural "12.7x108 boxmags"
+msgstr[0] "12.7x108弹箱"
+
+#. ~ Description for {'str': '12.7x108 boxmag'}
+#: .\at_magazines.json
+msgid "a kord box magazine witha ammo belt inside."
+msgstr "一个科尔德弹箱，内部装有弹药带。"
+
+#: .\at_magazines.json
+msgid "anti power-armor rifle stick-mag"
+msgid_plural "anti power-armor rifle stick-mags"
+msgstr[0] "反动力装甲步枪直弹匣"
+
+#. ~ Description for {'str': 'anti power-armor rifle stick-mag'}
+#. ~ Description for {'str': 'anti power-armor rifle drum-mag'}
+#: .\at_magazines.json
+msgid "a large magazine for some incredibly large round."
+msgstr "一个用于某种极其巨大子弹的大型弹匣。"
+
+#: .\at_magazines.json
+msgid "anti power-armor rifle drum-mag"
+msgid_plural "anti power-armor rifle drum-mags"
+msgstr[0] "反动力装甲步枪弹鼓"
+
+#: .\at_magazines.json
+msgid "anti power-armor rifle box-mag"
+msgid_plural "anti power-armor rifle box-mags"
+msgstr[0] "反动力装甲步枪弹箱"
+
+#. ~ Description for {'str': 'anti power-armor rifle box-mag'}
+#: .\at_magazines.json
+msgid ""
+"a large magazine for some incredibly large round impractically heavy for "
+"normal use."
+msgstr "一个大型弹匣，用于装填某些极其巨大、沉重且不适用于常规用途的圆弹。"
+
+#: .\at_magazines.json
+msgid "12.7x108mm boxmag"
+msgid_plural "12.7x108mm boxmags"
+msgstr[0] "12.7x108毫米弹箱"
+
+#. ~ Description for {'str': '12.7x108mm boxmag'}
+#: .\at_magazines.json
+msgid "a container with a 12.7x108mm belt for feeding into a machine gun."
+msgstr "一个装有12.7x108毫米弹链的容器，用于向机枪供弹。"
+
+#: .\at_magazines.json
+msgid "33x308mm belt"
+msgid_plural "33x308mm belts"
+msgstr[0] "33x308毫米弹链"
+
+#: .\at_magazines.json
+msgid ".500 5-round speedloader"
+msgid_plural ".500 5-round speedloaders"
+msgstr[0] ".500口径5发快速装弹器"
+
+#. ~ Description for {'str': '.500 5-round speedloader'}
+#: .\at_magazines.json
+msgid ""
+"This speedloader can hold 5 rounds of .660 and quickly reload a compatible "
+"revolver."
+msgstr "这个快速装弹器可容纳5发.660口径子弹，并能快速为兼容的左轮手枪装弹。"
+
+#: .\at_magazines.json
+msgid "back mounted ammo box/w chainfeed"
+msgid_plural "back mounted ammo box/w chainfeeds"
+msgstr[0] "背部弹药箱/带链式供弹"
+
+#. ~ Description for {'str': 'back mounted ammo box/w chainfeed'}
+#: .\at_magazines.json
+msgid ""
+"a huge ammo box mounted on your back similar to a backpack with thousands of"
+" rounds of ammunition, the ammo feeds to the respective weapon via a link "
+"with rounds on a belt,when fired you can see the rounds zipping through the "
+"chain-feed."
+msgstr "一个巨大的弹药箱，类似背包般背在背上，装有数千发弹药。弹药通过弹链连接输送至相应武器，开火时你能看到子弹在链式供弹系统中飞速穿行。"
+
+#: .\at_magazines.json
+msgid "14.5x46mm belt"
+msgid_plural "14.5x46mm belts"
+msgstr[0] "14.5x46毫米弹链"
+
+#: .\at_magazines.json
+msgid "m220022a1 clip"
+msgid_plural "m220022a1 clips"
+msgstr[0] "m220022a1弹夹"
+
+#. ~ Description for {'str': 'm220022a1 clip'}
+#: .\at_magazines.json
+msgid ""
+"A large metal object not dissimilar to those plastic things you find on "
+"aluminum cans you know those things you see fish get stuck in."
+msgstr "一个巨大的金属物体，与你在铝罐上找到的那些塑料环颇为相似——就是那种常看到鱼被卡住的东西。"
+
+#: .\at_materials.json
+msgid "Insulex"
+msgstr "绝缘材料"
+
+#: .\at_materials.json
+msgid "ripped"
+msgstr "撕裂"
+
+#: .\at_materials.json
+msgid "cut"
+msgstr "割破"
+
+#: .\at_materials.json
+msgid "torn"
+msgstr "扯破"
+
+#: .\at_materials.json
+msgid "shredded"
+msgstr "粉碎"
+
+#: .\at_materials.json
+msgid "tattered"
+msgstr "破烂"
+
+#: .\at_materials.json
+msgid "Insulated Hard Steel"
+msgstr "绝缘硬钢"
+
+#: .\at_materials.json
+msgid "dented"
+msgstr "凹陷"
+
+#: .\at_materials.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\at_materials.json
+msgid "marked"
+msgstr "标记"
+
+#: .\at_materials.json
+msgid "smashed"
+msgstr "粉碎"
+
+#: .\at_materials.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\at_melee.json
+msgid "broken sniper joe"
+msgid_plural "broken sniper joes"
+msgstr[0] "损坏的狙击乔"
+
+#. ~ Description for {'str': 'broken sniper joe'}
+#: .\at_melee.json
+msgid ""
+"A broken sniper joe. Much less threatening now that it lies limp on solid "
+"ground. Could be gutted for parts."
+msgstr "一个损坏的狙击乔。如今它瘫软在地面上，威胁性已大大降低。或许可以拆解零件。"
+
+#: .\at_melee.json
+msgid "broken met"
+msgid_plural "broken mets"
+msgstr[0] "损坏的机甲"
+
+#. ~ Description for {'str': 'broken met'}
+#: .\at_melee.json
+msgid ""
+"A broken met. Much less threatening now that it lies limp on solid ground. "
+"Could be gutted for parts."
+msgstr "一个损坏的机甲。如今它瘫软在地面上，威胁性已大大降低。或许可以拆解零件。"
+
+#: .\at_melee.json
+msgid "destroyed cyborg"
+msgid_plural "destroyed cyborgs"
+msgstr[0] "被摧毁的生化人"
+
+#. ~ Description for {'str': 'destroyed cyborg'}
+#: .\at_melee.json
+msgid ""
+"This is a heavily damaged cyborg, composed of a previously dead human, "
+"several bionic upgrades, and some limiters and control systems."
+msgstr "这是一个严重受损的生化人，由一具先前已死亡的人类躯体、若干生化改造部件以及一些限制器和控制系统构成。"
+
+#: .\at_melee.json
+msgid "destroyed heavy cyborg"
+msgid_plural "destroyed heavy cyborgs"
+msgstr[0] "被摧毁的重型生化人"
+
+#. ~ Description for {'str': 'destroyed heavy cyborg'}
+#: .\at_melee.json
+msgid ""
+"This is a heavily damaged cyborg, sturdy in it's construction, with many "
+"pieces of extra hardware attached, and a thick steel skin, covering it's "
+"advanced electronics and life sustaining systems. It it's current state, "
+"this cyborg is probably less man than machine."
+msgstr ""
+"这是一个严重受损的生化人，结构坚固，附有许多额外硬件，并覆盖着厚实的钢皮，保护其先进的电子设备和生命维持系统。以目前状态而言，这台生化人恐怕已非人类，更像是机器。"
+
+#: .\at_melee.json
+msgid "destroyed advanced cyborg"
+msgid_plural "destroyed advanced cyborgs"
+msgstr[0] "被摧毁的先进生化人"
+
+#. ~ Description for {'str': 'destroyed advanced cyborg'}
+#: .\at_melee.json
+msgid ""
+"A sturdy mechanical body, with little in the way of organic matter visible. "
+"It has what appears to be segments of power armor grafted to its skin and "
+"steel frame, with cybernetic augmentations protruding."
+msgstr "一具坚固的机械躯体，几乎看不到有机物质。其钢制骨架和外皮上似乎熔接了动力装甲的片段，并有生化增强部件突出在外。"
+
+#: .\at_monster_drops.json
+msgid "broken tribot"
+msgid_plural "broken tribots"
+msgstr[0] "损坏的三足机器人"
+
+#. ~ Description for {'str': 'broken tribot'}
+#: .\at_monster_drops.json
+msgid ""
+"A broken tribot.  Now that its legs lie broken and immobile, the world seems"
+" a little less threatening.  Could be gutted for parts."
+msgstr "一个损坏的三足机器人。如今它的腿部断裂无法移动，世界似乎变得不那么可怕了。或许可以拆解零件。"
+
+#: .\at_monster_drops.json
+msgid "broken chickenbot"
+msgid_plural "broken chickenbots"
+msgstr[0] "损坏的鸡形机器人"
+
+#. ~ Description for {'str': 'broken chickenbot'}
+#: .\at_monster_drops.json
+msgid ""
+"A broken chicken walker.  Still looks intimidating despite being permanently"
+" inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr "一台损坏的鸡形步行机。尽管已永久失效，但其庞大的体型和质量仍令人望而生畏。可拆解获取零件。"
+
+#: .\at_monster_drops.json
+msgid "broken tank drone"
+msgid_plural "broken tank drones"
+msgstr[0] "损坏的坦克无人机"
+
+#. ~ Description for {'str': 'broken tank drone'}
+#: .\at_monster_drops.json
+msgid ""
+"A broken tank drone.  Still looks intimidating despite being permanently "
+"inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr "一台损坏的坦克无人机。尽管已永久失效，但其庞大的体型和质量仍令人望而生畏。可拆解获取零件。"
+
+#: .\at_monster_drops.json
+msgid "inactive tripod"
+msgid_plural "inactive tripods"
+msgstr[0] "未激活的三足机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive tripod'}.
+#: .\at_monster_drops.json
+msgid "The tribot rises to its feet and scans the area for contaminants."
+msgstr "三足机器人起身并扫描区域内的污染物。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive tripod'}.
+#: .\at_monster_drops.json
+msgid ""
+"The tribot glowers down at you and ignites its flamethrower.  Turns out you "
+"hate the smell of napalm."
+msgstr "三足机器人俯视着你并点燃了火焰喷射器。看来你讨厌凝固汽油的气味。"
+
+#. ~ Description for {'str': 'inactive tripod'}
+#: .\at_monster_drops.json
+msgid ""
+"This is an inactive Honda Regnal.  Using this item involves placing it on "
+"the ground, wondering how it fuels its flamethrower and turning it on.  If "
+"reprogrammed and rewired successfully the tribot will then identify you as "
+"an ally, roam around or follow you, and impale hostiles with its spiked "
+"cable weapons."
+msgstr ""
+"这是一台未激活的本田Regnal。使用此物品需将其放置在地面，疑惑其火焰喷射器的燃料来源，然后启动。若成功重编程并重新接线，三足机器人会将你识别为盟友，四处巡逻或跟随你，并用其尖刺电缆武器刺穿敌人。"
+
+#: .\at_monster_drops.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] "未激活的鸡形步行机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\at_monster_drops.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr "鸡形机器人出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\at_monster_drops.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr "鸡形机器人旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\at_monster_drops.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的鸡形步行机。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\at_monster_drops.json
+msgid "inactive tank drone"
+msgid_plural "inactive tank drones"
+msgstr[0] "未激活的坦克无人机"
+
+#. ~ Use action friendly_msg for {'str': 'inactive tank drone'}.
+#: .\at_monster_drops.json
+msgid "The tank drone rolls out and begins acquiring targets."
+msgstr "坦克无人机出动并开始锁定目标。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive tank drone'}.
+#: .\at_monster_drops.json
+msgid ""
+"The tank drone swivels its turret and aims directly at you.  Don your brown "
+"pants!"
+msgstr "坦克无人机旋转炮塔并直接瞄准你。快穿上你的棕色裤子！"
+
+#. ~ Description for {'str': 'inactive tank drone'}
+#: .\at_monster_drops.json
+msgid ""
+"This is an inactive Beagle Mini-Tank UGV.  Using this item involves placing "
+"it on the ground, loading the unit with the factory-loaded 5.56 rounds and "
+"40mm cartridge grenades in your inventory (if you wish to divide your "
+"ammunition, set aside whatever ammunition you do NOT want to give the robot)"
+" and turning it on.  If reprogrammed and rewired successfully the tank drone"
+" will then identify you as a friendly, roam around or follow you, and attack"
+" all enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"这是一台未激活的Beagle迷你坦克UGV。使用此物品需将其放置在地面，从库存中为它装载出厂预装的5.56毫米子弹和40毫米榴弹（若想分配弹药，请先预留你不想给机器人的部分），然后启动。若成功重编程并重新接线，坦克无人机会将你识别为友方，四处巡逻或跟随你，并用内置枪械与榴弹发射器攻击所有敌人。"
+
+#: .\at_monster_drops.json
+msgid "set of spidery legs"
+msgid_plural "sets of spidery legs"
+msgstr[0] "一组蜘蛛腿"
+
+#. ~ Description for {'str': 'set of spidery legs', 'str_pl': 'sets of spidery
+#. legs'}
+#: .\at_monster_drops.json
+msgid "A set of big pointy legs, like the ones found under a tripod."
+msgstr "一组巨大尖利的腿，类似三足机器人底部的部件。"
+
+#: .\at_monster_drops.json
+msgid "tripod chassis"
+msgid_plural "tripod chassis"
+msgstr[0] "三足机底盘"
+
+#. ~ Description for {'str_sp': 'tripod chassis'}
+#: .\at_monster_drops.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the tripod."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是三足机器人的骨架与装甲。"
+
+#: .\at_monster_drops.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] "探路者底盘"
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\at_monster_drops.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是探路者的骨架与装甲。"
+
+#: .\at_monster_drops.json
+msgid "Regulator chassis"
+msgid_plural "Regulator chassis"
+msgstr[0] "调节者底盘"
+
+#. ~ Description for {'str_sp': 'Regulator chassis'}
+#: .\at_monster_drops.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the Regulator tank."
+msgstr "移除所有活动部件和电子设备后的剩余部分。这是调节者坦克的骨架与装甲。"
+
+#: .\at_monsters.json
+msgid "sniper joe"
+msgid_plural "sniper joes"
+msgstr[0] "狙击乔"
+
+#. ~ Description for {'str': 'sniper joe'}
+#: .\at_monsters.json
+msgid ""
+"A humanoid robot, designed for combat and stealth, it is fairly well "
+"armored, and quite intimidating. Rumored to be named for a young "
+"revolutionary."
+msgstr "一种人形机器人，专为战斗与潜行设计，装甲精良且颇具威慑力。传闻其命名源自一位年轻的革命者。"
+
+#: .\at_monsters.json
+msgid "tripod"
+msgid_plural "tripods"
+msgstr[0] "三足机"
+
+#. ~ Description for {'str': 'tripod'}
+#: .\at_monsters.json
+msgid ""
+"The Honda Crop King.  Originally designed for agriculture, it has a trio of "
+"spiked retractable cables and where it used to mount pesticide sprayer the "
+"PrepNet Phyle have modified it to have a flamethrower for their war against "
+"the Mycus."
+msgstr ""
+"本田Crop King。最初设计用于农业，配备三根尖刺可伸缩电缆，而PrepNet宗族将其原有的农药喷洒器改装为火焰喷射器，用于对抗真菌族。"
+
+#: .\at_monsters.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] "鸡形步行机"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\at_monsters.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"诺斯罗普ATSV，一种庞大、重武装且重装甲的机器人，以一对反关节腿行走。配备40毫米反车辆榴弹发射器、5.56毫米反人员枪械，并能对攻击者释放电击，是一种高效的自动哨兵，但因法律纠纷生产受限。"
+
+#: .\at_monsters.json
+msgid "Beagle Mini-Tank UGV"
+msgid_plural "Beagle Mini-Tank UGVs"
+msgstr[0] "比格微型坦克无人地面载具"
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\at_monsters.json
+msgid ""
+"The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr "诺斯罗普·比格是一款冰箱大小的城市战无人地面载具。配备反坦克导弹发射器、40毫米榴弹发射器和多种反步兵武器，专为高风险城市战斗设计。"
+
+#: .\at_monsters.json
+msgid "met"
+msgid_plural "mets"
+msgstr[0] "都市执法机器人"
+
+#. ~ Description for {'str': 'met'}
+#: .\at_monsters.json
+msgid ""
+"A human shaped robot with an empty expression on it's immobile steel face. "
+"Deployed as city watchmen and riot troopers."
+msgstr "人形机器人，僵硬的钢铁面孔上表情空洞。被部署为城市巡警和防暴部队。"
+
+#: .\at_monsters.json
+msgid "blob cyborg"
+msgid_plural "blob cyborgs"
+msgstr[0] "原生质生化人"
+
+#. ~ Description for {'str': 'blob cyborg'}
+#: .\at_monsters.json
+msgid ""
+"An artifically made blob human, now twisted with mechanical and electronic "
+"components."
+msgstr "人工制造的原生质人类，现已与机械电子组件扭曲结合。"
+
+#: .\at_monsters.json
+msgid "The turret fires its smg!"
+msgstr "炮塔开火了！"
+
+#: .\at_monsters.json
+msgid "heavy blob cyborg"
+msgid_plural "heavy blob cyborgs"
+msgstr[0] "重型原生质生化人"
+
+#. ~ Description for {'str': 'heavy blob cyborg'}
+#: .\at_monsters.json
+msgid ""
+"An upgraded cyborg, with a better frame and more armor, it is also a cleaner"
+" construction, the areas where artificial blob flesh and metal meet are less"
+" patchwork, and a submachine gun mounted inside one of it's arms."
+msgstr "升级版生化人，拥有更优的框架和更多装甲，结构也更精良，人造原生质肉体与金属结合处不再那么拼凑，且一只手臂内安装了冲锋枪。"
+
+#: .\at_monsters.json
+msgid "advanced blob cyborg"
+msgid_plural "advanced blob cyborgs"
+msgstr[0] "高级原生质生化人"
+
+#. ~ Description for {'str': 'advanced blob cyborg'}
+#: .\at_monsters.json
+msgid ""
+"A walking mass of hardened steel, the likeness of a human ends with it's "
+"face and silhouette. It's body is mostly composed of metal, with the "
+"delicate artificial blob flesh components protected inside. What appears to "
+"be sections of power armor are welded onto it, and a state-of-the-art "
+"cerberus laser mounted on one of the arms."
+msgstr ""
+"行走的硬化钢块，仅面部和轮廓保留人形。身体主要由金属构成，精密的人造原生质组件被保护在内。看似动力装甲的部分焊接其上，一只手臂装备了先进的塞伯鲁斯激光器。"
+
+#: .\at_power_armor.json
+msgid "modern crusader power armor"
+msgid_plural "modern crusader power armors"
+msgstr[0] "现代十字军动力装甲"
+
+#. ~ Use action msg for {'str': 'modern crusader power armor'}.
+#: .\at_power_armor.json
+msgid "The crusade BEGINS AGAIN."
+msgstr "十字军东征再次开始。"
+
+#. ~ Description for {'str': 'modern crusader power armor'}
+#: .\at_power_armor.json
+msgid ""
+"This armor was manufactured and was owned by a cult of basically super "
+"christians and if you couldnt tell they wanted another crusade."
+msgstr "这套装甲由一群基本算是超级基督徒的邪教制造并拥有，如果你没看出来，他们想要再来一次十字军东征。"
+
+#: .\at_power_armor.json
+msgid "modern crusader power armor (active)"
+msgid_plural "modern crusader power armors (active)"
+msgstr[0] "现代十字军动力装甲（激活）"
+
+#. ~ Use action menu_text for {'str': 'modern crusader power armor (active)',
+#. 'str_pl': 'modern crusader power armors (active)'}.
+#. ~ Use action menu_text for {'str': 'modern crusader power armor helm
+#. (active)', 'str_pl': 'modern crusader power armor helms (active)'}.
+#: .\at_power_armor.json
+msgid "Turn off"
+msgstr "关闭"
+
+#. ~ Use action msg for {'str': 'modern crusader power armor (active)',
+#. 'str_pl': 'modern crusader power armors (active)'}.
+#: .\at_power_armor.json
+msgid "The crusade is put on hold, for now..."
+msgstr "十字军东征暂时搁置……"
+
+#. ~ Description for {'str': 'modern crusader power armor (active)', 'str_pl':
+#. 'modern crusader power armors (active)'}
+#: .\at_power_armor.json
+msgid ""
+"This armor was manufactured and was owned by a cult of basically super "
+"christians and if you couldnt tell they wanted another crusade.  It is "
+"turned on and continually drawing power.  Use it to turn it off."
+msgstr "这套装甲由一群基本算是超级基督徒的邪教制造并拥有，如果你没看出来，他们想要再来一次十字军东征。它已启动并持续消耗能量。使用以关闭。"
+
+#: .\at_power_armor.json
+msgid "modern crusader power armor helm"
+msgid_plural "modern crusader power armor helms"
+msgstr[0] "现代十字军动力装甲头盔"
+
+#. ~ Description for {'str': 'modern crusader power armor helm'}
+#. ~ Description for {'str': 'modern crusader power armor helm (active)',
+#. 'str_pl': 'modern crusader power armor helms (active)'}
+#: .\at_power_armor.json
+msgid ""
+"While it may look like an old crusader helm complete with the cross shaped "
+"opening in the front the lights in the darkness tells it is not just any "
+"helm."
+msgstr "虽然它看起来像一顶古老的十字军头盔，正面有十字形开口，但黑暗中闪烁的光芒表明这并非普通头盔。"
+
+#: .\at_power_armor.json
+msgid "modern crusader power armor helm (active)"
+msgid_plural "modern crusader power armor helms (active)"
+msgstr[0] "现代十字军动力装甲头盔（激活）"
+
+#. ~ Use action msg for {'str': 'modern crusader power armor helm (active)',
+#. 'str_pl': 'modern crusader power armor helms (active)'}.
+#: .\at_power_armor.json
+msgid "The %s powers down."
+msgstr "%s 关闭了。"
+
+#: .\at_professions.json
+msgctxt "profession_male"
+msgid "Roboticist"
+msgstr "机器人专家"
+
+#: .\at_professions.json
+msgctxt "profession_female"
+msgid "Roboticist"
+msgstr "机器人专家"
+
+#. ~ Profession (male Roboticist) description
+#: .\at_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Fascinated with robots and machines since you were a child, you started a "
+"small workshop, building robots for government contracts and neighborhood "
+"children alike."
+msgstr "自幼痴迷于机器人与机械，你开设了一家小型工作室，为政府合同和邻里孩童制造机器人。"
+
+#. ~ Profession (female Roboticist) description
+#: .\at_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Fascinated with robots and machines since you were a child, you started a "
+"small workshop, building robots for government contracts and neighborhood "
+"children alike."
+msgstr "自幼痴迷于机器人与机械，你开设了一家小型工作室，为政府合同和邻里孩童制造机器人。"
+
+#: .\at_professions.json
+msgctxt "profession_male"
+msgid "Biomechanist"
+msgstr "生物机械师"
+
+#: .\at_professions.json
+msgctxt "profession_female"
+msgid "Biomechanist"
+msgstr "生物机械师"
+
+#. ~ Profession (male Biomechanist) description
+#: .\at_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've always wondered what made things work, and people were no different. "
+"Once you had figured out what made it tick, you wanted to improve them, and "
+"what is better than sophisticated upgrades for people like strapping on a "
+"fusion blaster, or implanting a cerebral booster?"
+msgstr ""
+"你一直好奇事物运作的原理，人类也不例外。一旦弄清了机制，你就想改进他们，还有什么比给人装上精密的升级更好呢？比如加装聚变冲击炮，或植入大脑增强器。"
+
+#. ~ Profession (female Biomechanist) description
+#: .\at_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've always wondered what made things work, and people were no different. "
+"Once you had figured out what made it tick, you wanted to improve them, and "
+"what is better than sophisticated upgrades for people like strapping on a "
+"fusion blaster, or implanting a cerebral booster?"
+msgstr ""
+"你一直好奇事物运作的原理，人类也不例外。一旦弄清了机制，你就想改进他们，还有什么比给人装上精密的升级更好呢？比如加装聚变冲击炮，或植入大脑增强器。"
+
+#: .\at_professions.json
+msgctxt "profession_male"
+msgid "Mech Pilot"
+msgstr "机甲驾驶员"
+
+#: .\at_professions.json
+msgctxt "profession_female"
+msgid "Mech Pilot"
+msgstr "机甲驾驶员"
+
+#. ~ Profession (male Mech Pilot) description
+#: .\at_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were trained as an elite pilot, to operate the newly prototyped combat "
+"mech suits, the government's response to captured Chinese intel."
+msgstr "你受过精英飞行员训练，操作新原型战斗机甲套装，这是政府对获取的中国情报的回应。"
+
+#. ~ Profession (female Mech Pilot) description
+#: .\at_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were trained as an elite pilot, to operate the newly prototyped combat "
+"mech suits, the government's response to captured Chinese intel."
+msgstr "你受过精英飞行员训练，操作新原型战斗机甲套装，这是政府对获取的中国情报的回应。"
+
+#: .\at_rams.json
+msgid ""
+"A reinforced ram.  Place at the edge of vehicle to reduce damage taken in "
+"collisions, and to increase damaged delivered in collisions, if the ram is "
+"the first vehicle part to collide."
+msgstr "加固冲撞杆。安装在车辆边缘，减少碰撞时受到的伤害，并在冲撞杆作为首个碰撞部件时增加造成的伤害。"
+
+#: .\at_rams.json
+msgid "military bullbar"
+msgstr "军用防撞杆"
+
+#: .\at_rams.json
+msgid "military rambar"
+msgstr "军用防撞杆"
+
+#: .\at_ranged.json
+msgid "M35-H railgun"
+msgid_plural "M35-H railguns"
+msgstr[0] "M35-H 轨道炮"
+
+#: .\at_ranged.json
+msgid ""
+"A military developed railgun prototype, designed for mounted applications. "
+"Built in decent numbers for extensive field testing. Although it was never "
+"offically deployed before the cataclysm struck, it was in the process of "
+"being approved. Due to high recoil, and unwieldly size, this weapon is only "
+"possible to use deployed or in mounted applications."
+msgstr ""
+"一款军方开发的轨道炮原型，专为车载或固定式应用设计。为进行广泛的实地测试而生产了相当数量。尽管在大灾变爆发前从未正式部署，但已处于审批阶段。由于后坐力巨大且体积笨重，此武器仅能在部署或固定式应用中使用。"
+
+#: .\at_ranged.json
+msgid "USAS 20"
+msgid_plural "USAS 20s"
+msgstr[0] "USAS 20"
+
+#: .\at_ranged.json
+msgid ""
+"The USAS 20 looks like a boxy upsized caricature of the M16A2.  Like its "
+"Auto Assault-12 predecessor, it is a select-fire shotgun fed from large box "
+"or drum magazines.  The in-line recoil system and sheer weight make for "
+"pleasant shooting."
+msgstr ""
+"USAS 20 看起来像是 M16A2 的放大版方块状夸张造型。与其前身 Auto Assault-12 "
+"类似，它是一款可选择射击模式的霰弹枪，使用大型弹匣或弹鼓供弹。其直列式后坐系统和巨大重量使得射击体验相当舒适。"
+
+#: .\at_ranged.json
+msgid "Desert Eagle .660"
+msgid_plural "Desert Eagle .660"
+msgstr[0] "沙漠之鹰 .660"
+
+#: .\at_ranged.json
+msgid ""
+"One of the most recognizable handguns due to its popularity in movies and "
+"video games, the Desert Eagle is better known for its menacing appearance "
+"than its performance.  It's a large pistol, but its heavy weight reduces "
+"recoil. This one has been manufactured and upsized to use .660 supermag."
+msgstr ""
+"作为电影和电子游戏中的常客，沙漠之鹰是最具辨识度的手枪之一，其威猛外观比实际性能更为出名。这是一款大型手枪，但沉重的重量有助于减少后坐力。此型号经过制造和放大，可使用"
+" .660 超级马格南弹药。"
+
+#: .\at_ranged.json
+msgid "M9887"
+msgid_plural "M9887s"
+msgstr[0] "M9887"
+
+#: .\at_ranged.json
+msgid "What looks to be a AR-15 scaled up and bored out to use 11mm rounds."
+msgstr "看起来像是 AR-15 的放大版，并扩膛以使用 11 毫米弹药。"
+
+#: .\at_ranged.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\at_ranged.json
+msgid "burst"
+msgstr "连发"
+
+#: .\at_ranged.json
+msgid "auto"
+msgstr "自动"
+
+#: .\at_ranged.json
+msgid "AK50"
+msgid_plural "AK50s"
+msgstr[0] "AK50"
+
+#: .\at_ranged.json
+msgid ""
+"One of the most recognizable assault rifles ever made, converted by some "
+"youtuber to use .50 BMG."
+msgstr "史上最具辨识度的突击步枪之一，被某位 YouTube 博主改装以使用 .50 BMG 弹药。"
+
+#: .\at_ranged.json
+msgid "K.O.R.D HMG"
+msgid_plural "K.O.R.D HMG"
+msgstr[0] "K.O.R.D 重机枪"
+
+#: .\at_ranged.json
+msgid ""
+"A heavy machine gun used by the Russian military. Tends to be mounted on "
+"vehicles due to its massive recoil and size. However it has a fairly low "
+"weight, and given a strong enough person it could be wielded effectively "
+"(unlike the M2 Browning.)"
+msgstr ""
+"俄罗斯军队使用的一款重机枪。由于其巨大的后坐力和尺寸，通常安装在车辆上。然而，它的重量相对较轻，若使用者足够强壮，也能有效手持使用（与 M2 "
+"勃朗宁不同）。"
+
+#: .\at_ranged.json
+msgid "S M85-V1.1"
+msgid_plural "S M85-V1.1"
+msgstr[0] "S M85-V1.1"
+
+#: .\at_ranged.json
+msgid ""
+"A hulking mass of a revolver even dwarfing the Model 500. Extremely heavy."
+msgstr "一款庞大的转轮手枪，甚至比 Model 500 还要巨大。极其沉重。"
+
+#: .\at_ranged.json
+msgid "M220022a2 SPLASH"
+msgid_plural "M220022a2 SPLASH"
+msgstr[0] "M220022a2 溅射"
+
+#: .\at_ranged.json
+msgid ""
+"A shoulder mounted ATGM system designed to replace the old disposable rocket"
+" launchers, intended for use with power armor.  It has four barrels for ATGM"
+" rockets."
+msgstr "一款肩扛式反坦克导弹系统，旨在取代旧式一次性火箭筒，设计用于动力装甲。它配备四个反坦克导弹发射管。"
+
+#: .\at_ranged.json
+msgid "single shot"
+msgstr "单发"
+
+#: .\at_ranged.json
+msgid "all barrels"
+msgstr "全管齐射"
+
+#: .\at_ranged.json
+msgid "M14070a1 Bolt"
+msgid_plural "M14070a1 Bolts"
+msgstr[0] "M14070a1 螺栓"
+
+#: .\at_ranged.json
+msgid ""
+"A military developed anti-power armor weapon mounted on the shoulder, "
+"similarly to a rocket launcher. Designed for use by power armour against "
+"power armour, only a few exist numbering in the hundreds. Never deployed, "
+"and in perfect condition."
+msgstr "一款军方开发的反动力装甲武器，类似于火箭筒，安装在肩部。设计用于动力装甲对抗动力装甲，仅存数百件，数量稀少。从未部署，且状态完美。"
+
+#: .\at_ranged.json
+msgid "duo"
+msgstr "双发"
+
+#: .\at_ranged.json
+msgid "high-auto"
+msgstr "高速自动"
+
+#: .\at_ranged.json
+msgid "M14083 Storm"
+msgid_plural "M14083 Storms"
+msgstr[0] "M14083 风暴"
+
+#: .\at_ranged.json
+msgid ""
+"A military developed anti-power armor autocannon wielded only by soldiers "
+"with power armor, made for shredding vehicles and people alike. Only a few "
+"exist numbering in the low hundreds. Never deployed, and in perfect "
+"condition."
+msgstr "一款军方开发的反动力装甲自动炮，仅由穿戴动力装甲的士兵使用，用于撕裂车辆和人员。仅存数百件，数量稀少。从未部署，且状态完美。"
+
+#: .\at_ranged.json
+msgid "trio"
+msgstr "三连发"
+
+#: .\at_ranged.json
+msgid "full auto"
+msgstr "全自动"
+
+#: .\at_ranged.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\at_ranged.json
+msgid "M14024a4 Hail"
+msgid_plural "M14024a4 Hails"
+msgstr[0] "M14024a4 冰雹"
+
+#: .\at_ranged.json
+msgid ""
+"A military developed anti-infantry superheavy machine gun wielded by only "
+"those with power armor, made for shredding enemy infantry en masse."
+msgstr "一款军方开发的反步兵超重型机枪，仅由穿戴动力装甲者使用，用于大规模撕裂敌方步兵。"
+
+#: .\at_ranged.json
+msgid "semi"
+msgstr "半自动"
+
+#: .\at_ranged.json
+msgid "low-auto"
+msgstr "低自动"
+
+#: .\at_ranged.json
+msgid "M14026a1 Rend"
+msgid_plural "M14026a1 Rends"
+msgstr[0] "M14026a1 撕裂者"
+
+#: .\at_ranged.json
+msgid ""
+"The apex of anti-infantry weapons, no ground weapon can compare to its anti-"
+"infantry shredding power."
+msgstr "反步兵武器的巅峰，没有任何地面武器能与之匹敌其撕裂步兵的威力。"
+
+#: .\at_ranged.json
+msgid "over-auto"
+msgstr "超自动"
+
+#: .\at_ranged.json
+msgid "M14092"
+msgid_plural "M14092s"
+msgstr[0] "M14092"
+
+#: .\at_ranged.json
+msgid ""
+"A bigass shoulder mounted cannon for mobile bunker busting. But seriously, "
+"this thing is huge."
+msgstr "一门巨大的肩扛式火炮，用于机动摧毁碉堡。但说真的，这东西太大了。"
+
+#: .\at_ranged.json
+msgid "M34-L railgun"
+msgid_plural "M34-L railguns"
+msgstr[0] "M34-L 轨道炮"
+
+#: .\at_ranged.json
+msgid ""
+"A military developed railgun prototype, designed for use by infantry. Has a "
+"rotating cylinder, holding twelve H&K 12mm ferromagnetic slugs."
+msgstr "一款军方开发的轨道炮原型，设计供步兵使用。配备旋转弹巢，可容纳十二发H&K 12毫米铁磁弹丸。"
+
+#: .\at_ranged.json
+msgid "M26-b Gatling"
+msgid_plural "M26-b Gatlings"
+msgstr[0] "M26-b 加特林"
+
+#: .\at_ranged.json
+msgid ""
+"A large cannon consisting of a large motor, belt feed system, and firing "
+"mechanism, employing eight long barrels mounted on a rotating disc. The use "
+"of eight barrels allows for high rates of fire and increased heat "
+"dissipation. Firing this weapon is impossible without a mount, due to the "
+"sheer size and weight."
+msgstr ""
+"一门大型火炮，由大型电机、弹链供弹系统和击发机构组成，采用八根长枪管安装在旋转盘上。八根枪管的使用允许高射速和增强散热。由于尺寸和重量巨大，没有支架无法发射此武器。"
+
+#: .\at_ranged.json
+msgid "semi auto"
+msgstr "半自动"
+
+#: .\at_snippets.json
+msgid ""
+"This is an advertisement for Wily Industries's Geologically Unstable Terrain"
+" Surveyor.  It shows large robot wearing a construction hardhat preventing a"
+" fallen boulder from crushing a worker."
+msgstr "这是威利工业公司地质不稳定地形勘测器的广告。展示了一个戴着建筑安全帽的大型机器人，防止落石压垮工人。"
+
+#: .\at_snippets.json
+msgid ""
+"This is one of the many posters printed by Wily Industries, before the "
+"cataclysm. This poster features a sniper robot's green helmet, with the "
+"trademark eerily glowing eye. The caption reads, in bold  \"KEEP QUIET, "
+"CARELESS TALK COSTS LIVES.\""
+msgstr ""
+"这是威利工业公司在灾变前印制的众多海报之一。这张海报以狙击机器人的绿色头盔为特色，带有标志性的诡异发光眼睛。标题用粗体写着：“保持安静，闲谈危及生命。”"
+
+#: .\at_snippets.json
+msgid ""
+"This is a poster printed by Wily Industries. This poster depicts a Met Civil"
+" Protector robot, in black, red and white. The caption reads, in bold  \"WE "
+"WILL KEEP YOU SAFE.\""
+msgstr "这是威利工业公司印制的一张海报。这张海报描绘了一个Met民用保护者机器人，采用黑、红、白三色。标题用粗体写着：“我们将保障您的安全。”"
+
+#: .\at_snippets.json
+msgid ""
+"This is a poster printed by Wily Industries. This poster depicts a Met Civil"
+" Protector robot, in black, red and white. The caption reads, in bold  \"DO "
+"NOT COMPROMISE YOUR SAFETY.\""
+msgstr "这是威利工业公司印制的一张海报。这张海报描绘了一个Met民用保护者机器人，采用黑、红、白三色。标题用粗体写着：“切勿妥协您的安全。”"
+
+#: .\at_snippets.json
+msgid ""
+"\"Those creepy-ass mets aren't as tough as the helmet robots, but they don't"
+" seem to do much anyways.\""
+msgstr "“那些该死的Met机器人没有头盔机器人那么硬，但它们似乎也没啥大用。”"
+
+#: .\at_snippets.json
+msgid ""
+"\"I met this cyborg, pretty friendly, unlike the majority. I chatted with "
+"him about various things, pretty decent, but man, what kind of messed up "
+"stories he was telling me. That he saw some shit they were doing in these "
+"labs long before all this mess. Creatures, not even humans, compared to him,"
+" made out of blob. Yeah, artificial blob humans that just like him were "
+"turned into cyborgs. What kind of shit is this? Did they know about all this"
+" long before it happened? Man, it's messed up. I don't know.\""
+msgstr ""
+"“我遇到了一个赛博格，挺友好的，不像大多数。我和他聊了各种事情，人还不错，但天哪，他给我讲的那些破事。他说早在这一切混乱之前，就看到他们在这些实验室里搞的一些勾当。那些生物，甚至不是人类，和他相比，是用粘液造出来的。是啊，人工粘液人类，就像他一样被改造成了赛博格。这算什么事？他们是不是早就知道这一切会发生？伙计，这太乱了。我不知道。”"
+
+#: .\at_species.json
+msgid "cyborg"
+msgid_plural "cyborgs"
+msgstr[0] "赛博格"
+
+#: .\at_speech.json
+msgid "\"I never asked for this!\""
+msgstr "“我从未要求过这个！”"
+
+#: .\at_speech.json
+msgid "\"What am I?\""
+msgstr "“我是什么？”"
+
+#: .\at_speech.json
+msgid "\"Am I a human?\""
+msgstr "“我是人类吗？”"
+
+#: .\at_speech.json
+msgid "\"I will serve! Oh, God!\""
+msgstr "“我将效劳！哦，天哪！”"
+
+#: .\at_speech.json
+msgid "\"I was made to serve!\""
+msgstr "“我被制造出来就是为了效劳！”"
+
+#: .\at_speech.json
+msgid "\"All of my systems are online.\""
+msgstr "“我所有系统都在线。”"
+
+#: .\at_speech.json
+msgid "\"I'm... alive as a human?\""
+msgstr "“我……像人类一样活着？”"
+
+#: .\at_speech.json
+msgid "\"Ready for combat!\""
+msgstr "“准备战斗！”"
+
+#: .\at_speech.json
+msgid "\"All systems operational.\""
+msgstr "“所有系统运作正常。”"
+
+#: .\at_speech.json
+msgid "\"Selective cognitive suppressant unit running at maximal efficiency.\""
+msgstr "“选择性认知抑制单元以最高效率运行。”"
+
+#: .\at_speech.json
+msgid "\"Combat systems nominal.\""
+msgstr "“战斗系统正常。”"
+
+#: .\at_speech.json
+msgid "\"Security program functional.\""
+msgstr "“安全程序功能正常。”"
+
+#: .\at_speech.json
+msgid "\"Unit transmitter online.\""
+msgstr "\"单位发射器已上线。\""
+
+#: .\at_tools.json
+msgid "robotics toolkit"
+msgid_plural "robotics toolkits"
+msgstr[0] "机器人工具包"
+
+#. ~ Description for {'str': 'robotics toolkit'}
+#: .\at_tools.json
+msgid ""
+"This is a cutting-edge piece of technology: a portable, laser precision, "
+"computer assisted, miniature robotics work shop. Designed to construct small"
+" electronics and similar devices, it features an easy to use GUI and is "
+"capable of creating sophisticated electronics and high grade robotics. May "
+"also be suitable for gunsmithing."
+msgstr ""
+"这是一件尖端科技产品：一个便携式、激光精密、计算机辅助的微型机器人工作坊。专为制造小型电子设备及类似装置而设计，它配备了易于使用的图形用户界面，能够制造精密的电子元件和高品质的机器人。或许也适用于枪械制造。"
+
+#: .\at_tools.json
+msgid "monomolecular machete"
+msgid_plural "monomolecular machetes"
+msgstr[0] "单分子砍刀"
+
+#. ~ Description for {'str': 'monomolecular machete'}
+#: .\at_tools.json
+msgid ""
+"A foot-long blade made from high-tech alloy and edged with bonded "
+"nanocrystals, removed from a cyborg, and converted into a machete."
+msgstr "一把一英尺长的刀刃，由高科技合金制成，边缘镶有结合纳米晶体，从赛博格身上取下，并改造成砍刀。"
+
+#: .\at_var_vehicle_parts.json .\at_vehicle_parts.json
+msgid "heavy mech leg"
+msgid_plural "heavy mech legs"
+msgstr[0] "重型机甲腿"
+
+#. ~ Description for {'str': 'heavy mech leg'}
+#: .\at_var_vehicle_parts.json
+msgid ""
+"This is a heavy duty mech leg, with thick armor plating ready for the most "
+"dangerous mech operations."
+msgstr "这是一条重型机甲腿，配有厚重的装甲板，为最危险的机甲行动做好准备。"
+
+#: .\at_var_vehicle_parts.json .\at_vehicle_parts.json
+msgid "experimental jumbo mech leg"
+msgid_plural "experimental jumbo mech legs"
+msgstr[0] "实验型巨型机甲腿"
+
+#. ~ Description for {'str': 'experimental jumbo mech leg'}
+#: .\at_var_vehicle_parts.json
+msgid ""
+"This is a impractical monstrosity that could never ever be worth its cost. "
+"but thats not gonna stop you from using it."
+msgstr "这是一个不切实际的怪物，其成本永远无法值回票价。但这不会阻止你使用它。"
+
+#: .\at_var_vehicle_parts.json .\at_vehicle_parts.json
+msgid "medium mech leg"
+msgid_plural "medium mech legs"
+msgstr[0] "中型机甲腿"
+
+#. ~ Description for {'str': 'medium mech leg'}
+#: .\at_var_vehicle_parts.json
+msgid ""
+"This is a standard-armored mech leg, suitable for most operations not "
+"requiring heavy combat armor, or a lightweight chassis."
+msgstr "这是一条标准装甲的机甲腿，适用于大多数不需要重型战斗装甲或轻型底盘的操作。"
+
+#: .\at_var_vehicle_parts.json .\at_vehicle_parts.json
+msgid "light mech leg"
+msgid_plural "light mech legs"
+msgstr[0] "轻型机甲腿"
+
+#. ~ Description for {'str': 'light mech leg'}
+#: .\at_var_vehicle_parts.json
+msgid ""
+"This a lightweight mech leg. While still quite tough, it is lighter and less"
+" armored than the bulkier variants."
+msgstr "这是一条轻型机甲腿。虽然仍然相当坚固，但比更笨重的型号更轻且装甲较少。"
+
+#: .\at_var_vehicle_parts.json .\at_vehicle_parts.json
+msgid "buggy wheel"
+msgid_plural "buggy wheels"
+msgstr[0] "越野车轮胎"
+
+#. ~ Description for {'str': 'buggy wheel'}
+#: .\at_var_vehicle_parts.json
+msgid "A tough tire with a square knob tread."
+msgstr "一个带有方形凸块胎面的坚固轮胎。"
+
+#: .\at_vehicle_frames_expanded.json .\at_vehicle_parts_items.json
+msgid "super duty frame"
+msgid_plural "super duty frames"
+msgstr[0] "超级重型框架"
+
+#: .\at_vehicle_frames_expanded.json
+msgid "super duty core"
+msgstr "超级重型核心"
+
+#: .\at_vehicle_frames_expanded.json
+msgid "bulk head"
+msgstr "舱壁"
+
+#: .\at_vehicle_frames_expanded.json
+msgid "heavy duty blast shutters"
+msgstr "重型防爆百叶窗"
+
+#: .\at_vehicle_parts.json .\at_vehicle_parts_items.json
+msgid "light mech leg mount"
+msgid_plural "light mech leg mounts"
+msgstr[0] "轻型机甲腿支架"
+
+#. ~ Description for {'str': 'light mech leg mount'}
+#: .\at_vehicle_parts.json
+msgid "A piece of metal with holes suitable for a specialized mech leg."
+msgstr "一块带有适合专用机甲腿孔洞的金属件。"
+
+#: .\at_vehicle_parts.json
+msgid "light mech leg mount (steerable)"
+msgstr "轻型机甲腿支架（可转向）"
+
+#: .\at_vehicle_parts.json
+msgid "mech leg hub assembly"
+msgstr "机甲腿轮毂总成"
+
+#. ~ Description for {'str': 'mech leg hub assembly'}
+#: .\at_vehicle_parts.json
+msgid ""
+"Connection where mech legs can be connected on.  This particular one is fit "
+"for regular mech legs."
+msgstr "机甲腿可以连接的位置。这个特定的总成适合常规机甲腿。"
+
+#: .\at_vehicle_parts.json
+msgid "mech leg hub assembly (steerable)"
+msgstr "机甲腿轮毂总成（可转向）"
+
+#: .\at_vehicle_parts.json .\at_vehicle_parts_items.json
+msgid "heavy mech leg hub assembly"
+msgid_plural "heavy mech leg hub assemblies"
+msgstr[0] "重型机甲腿轮毂总成"
+
+#. ~ Description for {'str': 'heavy mech leg hub assembly'}
+#: .\at_vehicle_parts.json
+msgid ""
+"Connection where mech legs can be connected on.  This particular one is fit "
+"for large mech legs."
+msgstr "机甲腿可以连接的位置。这个特定的总成适合大型机甲腿。"
+
+#: .\at_vehicle_parts.json
+msgid "heavy mech leg hub assembly (steerable)"
+msgstr "重型机甲腿轮毂总成（可转向）"
+
+#: .\at_vehicle_parts.json
+msgid "jumbo leg hub assembly"
+msgstr "巨型腿轮毂总成"
+
+#. ~ Description for {'str': 'jumbo leg hub assembly'}
+#: .\at_vehicle_parts.json
+msgid ""
+"Connection where mech legs can be connected on.  This particular one is fit "
+"for oversized mech legs."
+msgstr "机甲腿可以连接的位置。这个特定的总成适合超大型机甲腿。"
+
+#: .\at_vehicle_parts.json
+msgid "jumbo leg hub assembly (steerable)"
+msgstr "巨型腿部枢纽组件（可转向）"
+
+#: .\at_vehicle_parts.json
+msgid "mounted railgun"
+msgstr "车载轨道炮"
+
+#: .\at_vehicle_parts.json
+msgid "mounted gatling gun"
+msgstr "车载加特林机枪"
+
+#: .\at_vehicle_parts.json
+msgid "33mm autocannon"
+msgstr "33毫米自动炮"
+
+#: .\at_vehicle_parts.json .\at_vehicle_parts_items.json
+msgid "apc wheel"
+msgid_plural "apc wheels"
+msgstr[0] "装甲运兵车车轮"
+
+#. ~ Description for {'str': 'apc wheel'}
+#: .\at_vehicle_parts.json
+msgid "A very strong, armored personnel carrier wheel."
+msgstr "一种非常坚固的装甲运兵车车轮。"
+
+#: .\at_vehicle_parts.json
+msgid "thick composite armor"
+msgstr "厚复合装甲"
+
+#: .\at_vehicle_parts.json
+msgid "extra heavy duty roof with rollcage"
+msgstr "带防滚架的超级重型车顶"
+
+#. ~ Description for {'str': 'extra heavy duty roof with rollcage'}
+#: .\at_vehicle_parts.json
+msgid "A incredibly thick metal roof with a rollcage installed."
+msgstr "一个极其厚重的金属车顶，安装了防滚架。"
+
+#: .\at_vehicle_parts.json .\at_vehicle_parts_items.json
+msgid "extra heavy duty frame"
+msgid_plural "extra heavy duty frames"
+msgstr[0] "超级重型车架"
+
+#: .\at_vehicle_parts.json
+msgid "extra heavy duty core"
+msgstr "超级重型核心"
+
+#: .\at_vehicle_parts.json
+msgid "mech hatch"
+msgstr "机甲舱口"
+
+#: .\at_vehicle_parts.json
+msgid "viewport"
+msgstr "观察窗"
+
+#: .\at_vehicle_parts.json
+msgid "blast shutters"
+msgstr "防爆百叶窗"
+
+#: .\at_vehicle_parts_items.json
+msgid "thick composite plating"
+msgid_plural "thick composite platings"
+msgstr[0] "厚复合装甲板"
+
+#. ~ Description for {'str': 'thick composite plating'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A doubled up slab of military composite armor. If this doesn't protect you, "
+"nothing will."
+msgstr "一块加厚的军用复合装甲板。如果这都保护不了你，那就没什么能保护你了。"
+
+#: .\at_vehicle_parts_items.json
+msgid "a heavy duty metal roof usually used on mining vehicles with rollcage"
+msgid_plural ""
+"a heavy duty metal roof usually used on mining vehicles with rollcages"
+msgstr[0] "一种重型金属车顶，通常用于带防滚架的采矿车辆"
+
+#. ~ Description for {'str': 'a heavy duty metal roof usually used on mining
+#. vehicles with rollcage'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A thick and incredibly tough roof with a bult in rollcage, this will pretty "
+"much make sure nothing crushes you in your car."
+msgstr "一个厚重且极其坚固的车顶，内置防滚架，这几乎能确保你在车里不会被任何东西压扁。"
+
+#: .\at_vehicle_parts_items.json
+msgid "rubber patch"
+msgid_plural "rubber patchs"
+msgstr[0] "橡胶补片"
+
+#. ~ Description for {'str': 'rubber patch'}
+#: .\at_vehicle_parts_items.json
+msgid "its rubber specifically a patch made for repairing wheels."
+msgstr "这是橡胶，具体来说是用于修补车轮的补片。"
+
+#: .\at_vehicle_parts_items.json
+msgid "Military Rambar"
+msgid_plural "Military Rambars"
+msgstr[0] "军用防撞杠"
+
+#. ~ Description for {'str': 'Military Rambar'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A massive super duty ram designed to plow through tanks. if this doesnt get "
+"your through, nothing will."
+msgstr "一个巨大的超级重型防撞杠，设计用于冲撞坦克。如果这个都冲不过去，那就没什么能冲过去了。"
+
+#: .\at_vehicle_parts_items.json
+msgid "vehicle viewport"
+msgid_plural "vehicle viewports"
+msgstr[0] "车辆观察窗"
+
+#. ~ Description for {'str': 'vehicle viewport'}
+#: .\at_vehicle_parts_items.json
+msgid "a viewport for heavily armored vehicles usually used by the military."
+msgstr "用于重型装甲车辆的观察窗，通常为军用。"
+
+#. ~ Description for {'str': 'apc wheel'}
+#: .\at_vehicle_parts_items.json
+msgid "A Huge military grade wheel."
+msgstr "一个巨大的军用级车轮。"
+
+#: .\at_vehicle_parts_items.json
+msgid "Military Bullbar"
+msgid_plural "Military Bullbars"
+msgstr[0] "军用牛栏"
+
+#. ~ Description for {'str': 'Military Bullbar'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A huge extra heavy duty bullbar for pushing cars and clearing brush. If this"
+" cant clear the path, nothing will."
+msgstr "一个巨大的超级重型牛栏，用于推车和清理灌木。如果这个都清不出路来，那就没什么能清出来了。"
+
+#. ~ Description for {'str': 'extra heavy duty frame'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A large, sturdy frame that appears to be two heavy duty frames combined, "
+"this is twice the strength, and twice the weight."
+msgstr "一个大型、坚固的车架，看起来像是两个重型车架组合而成，强度加倍，重量也加倍。"
+
+#. ~ Description for {'str': 'super duty frame'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A large, sturdy frame that appears to be a extra heavy duty frame combined "
+"with thick armor, this is much stronger, and much heavier."
+msgstr "一个大型、坚固的车架，看起来像是超级重型车架与厚装甲的结合，强度更高，重量也更大。"
+
+#. ~ Description for {'str': 'light mech leg mount'}
+#: .\at_vehicle_parts_items.json
+msgid "A piece of metal with holes suitable for a mech leg."
+msgstr "一块带有适合机甲腿部孔洞的金属板。"
+
+#: .\at_vehicle_parts_items.json
+msgid "medium mech leg hub assembly"
+msgid_plural "medium mech leg hub assemblies"
+msgstr[0] "中型机甲腿部枢纽组件"
+
+#. ~ Description for {'str': 'medium mech leg hub assembly', 'str_pl': 'medium
+#. mech leg hub assemblies'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A metal assembly that allows bolting a mech leg on a car.  Fit for a regular"
+" mech leg."
+msgstr "一种金属组件，允许将机甲腿部螺栓固定在车辆上。适用于常规机甲腿部。"
+
+#. ~ Description for {'str': 'heavy mech leg hub assembly', 'str_pl': 'heavy
+#. mech leg hub assemblies'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A heavy metal assembly that allows bolting a mech leg on a car.  Fit for a "
+"large mech leg."
+msgstr "一种重型金属组件，允许将机甲腿部螺栓固定在车辆上。适用于大型机甲腿部。"
+
+#: .\at_vehicle_parts_items.json
+msgid "V8 military diesel engine"
+msgid_plural "V8 military diesel engines"
+msgstr[0] "V8军用柴油发动机"
+
+#. ~ Description for {'str': 'V8 military diesel engine'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A fucking ginormous and extremely heavy V8 engine, usually built into the "
+"Oshkosh M1070 for hauling or towing TANKS."
+msgstr "一个他妈巨大且极重的V8发动机，通常内置在奥什科什M1070中用于拖运或牵引坦克。"
+
+#: .\at_vehicle_parts_items.json
+msgid "W32 diesel engine"
+msgid_plural "W32 diesel engines"
+msgstr[0] "W32柴油发动机"
+
+#. ~ Description for {'str': 'W32 diesel engine'}
+#: .\at_vehicle_parts_items.json
+msgid ""
+"A titanic W32 engine, sometimes found in medium sized ships usually in "
+"groups of 4."
+msgstr "一个庞大的W32发动机，有时在中型船舶上发现，通常以4台为一组。"
+
+#: .\at_vehicles.json
+msgid "Wolverine Mech"
+msgstr "金刚狼机甲"
+
+#: .\at_vehicles.json
+msgid "Prototype Cerberus Mech"
+msgstr "原型刻耳柏洛斯机甲"
+
+#: .\at_vehicles.json
+msgid "Advanced Wolverine Mech"
+msgstr "高级金刚狼机甲"
+
+#: .\boards_&_quarterpanels.json
+msgid "extra heavy duty board"
+msgstr "超重型板件"
+
+#. ~ Description for {'str': 'extra heavy duty board'}
+#: .\boards_&_quarterpanels.json
+msgid ""
+"A strong metal wall.  Keeps zombies outside the vehicle and prevents people "
+"from seeing through it."
+msgstr "一面坚固的金属墙。能将僵尸挡在车外，并防止他人看透。"
+
+#: .\boards_&_quarterpanels.json
+msgid "extra heavy duty quarterpanel"
+msgstr "超重型侧围板"
+
+#. ~ Description for {'str': 'extra heavy duty quarterpanel'}
+#: .\boards_&_quarterpanels.json
+msgid ""
+"A half-height strong metal wall.  Keeps zombies outside the vehicle but "
+"allows people to see over it."
+msgstr "一种半高的坚固金属墙。能将僵尸挡在车外，同时允许人们从上方观察。"
+
+#: .\modinfo.json
+msgid "Advanced Technologies"
+msgstr "先进技术"
+
+#. ~ Description for Advanced Technologies
+#: .\modinfo.json
+msgid ""
+"Adds advanced craftable vehicle parts, mech parts to craft vehicle mechs, "
+"craftable blob cyborgs, some new robots, some new armors, weapons and "
+"crafting."
+msgstr "添加可制作的先进车辆部件、用于制造车辆机甲的机甲部件、可制作的粘液生化人、一些新机器人、新装甲、武器和制作内容。"
+
+#: .\vehicles_at.json
+msgid "M1070 Oshkosh placeholder"
+msgstr "M1070奥什科什占位符"
+
+#: .\cyborg\at_activateable_cyborgs.json
+msgid "hibernating blob cyborg"
+msgid_plural "hibernating blob cyborgs"
+msgstr[0] "休眠中的粘液生化人"
+
+#. ~ Use action friendly_msg for {'str': 'hibernating blob cyborg'}.
+#. ~ Use action friendly_msg for {'str': 'hibernating heavy blob cyborg'}.
+#. ~ Use action friendly_msg for {'str': 'hibernating advanced blob cyborg'}.
+#: .\cyborg\at_activateable_cyborgs.json
+msgid "The blob cyborg activates, and raises to it's feet."
+msgstr "粘液生化人激活，并站立起来。"
+
+#. ~ Use action hostile_msg for {'str': 'hibernating blob cyborg'}.
+#. ~ Use action hostile_msg for {'str': 'hibernating heavy blob cyborg'}.
+#. ~ Use action hostile_msg for {'str': 'hibernating advanced blob cyborg'}.
+#: .\cyborg\at_activateable_cyborgs.json
+msgid "You've activated the blob cyborg improperly, and it attacks!"
+msgstr "你错误地激活了粘液生化人，它发起了攻击！"
+
+#. ~ Description for {'str': 'hibernating blob cyborg'}
+#: .\cyborg\at_activateable_cyborgs.json
+msgid ""
+"This is an inactive blob cyborg, composed of an artificial blob human, "
+"several bionic upgrades, and some limiters and control systems."
+msgstr "这是一个非活跃的粘液生化人，由人工粘液人类、若干仿生升级部件以及一些限制器和控制系统组成。"
+
+#: .\cyborg\at_activateable_cyborgs.json
+msgid "hibernating heavy blob cyborg"
+msgid_plural "hibernating heavy blob cyborgs"
+msgstr[0] "休眠中的重型粘液生化人"
+
+#. ~ Description for {'str': 'hibernating heavy blob cyborg'}
+#: .\cyborg\at_activateable_cyborgs.json
+msgid ""
+"This is an inactive blob cyborg, sturdy in it's construction, with many "
+"pieces of extra hardware attached, and a thick steel skin, covering it's "
+"advanced electronics and life sustaining systems. It it's current state, "
+"this cyborg is probably less blob man than machine."
+msgstr ""
+"这是一个非活跃的粘液生化人，结构坚固，附有许多额外硬件，并覆盖着厚实的钢皮，保护其先进的电子设备和生命维持系统。在目前状态下，这个生化人可能更像机器而非粘液人。"
+
+#: .\cyborg\at_activateable_cyborgs.json
+msgid "hibernating advanced blob cyborg"
+msgid_plural "hibernating advanced blob cyborgs"
+msgstr[0] "休眠中的高级粘液生化人"
+
+#. ~ Description for {'str': 'hibernating advanced blob cyborg'}
+#: .\cyborg\at_activateable_cyborgs.json
+msgid ""
+"A sturdy mechanical body, with little in the way of artificial organic "
+"matter visible. It has what appears to be segments of power armor grafted to"
+" its skin and steel frame, with cybernetic augmentations protruding."
+msgstr "一个坚固的机械躯体，几乎看不到人工有机物质。其表面和钢架上似乎移植了动力装甲的片段，并有赛博格增强部件突出。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "advanced organic-interfacing processor unit"
+msgid_plural "advanced organic-interfacing processor units"
+msgstr[0] "高级有机接口处理器单元"
+
+#. ~ Description for {'str': 'advanced organic-interfacing processor unit'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"A large mass of wiring, chips, and circuits encased in plastic, all running "
+"in parallel to operate a cyborg's motor skills and life support systems. Can"
+" attach to an artificial blob version of a human brain to add additional "
+"functionalities."
+msgstr "一大团电线、芯片和电路封装在塑料中，并行运行以控制生化人的运动技能和生命维持系统。可连接到人工粘液版本的人类大脑以增加额外功能。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "augmented heart"
+msgid_plural "augmented hearts"
+msgstr[0] "增强心脏"
+
+#. ~ Description for {'str': 'augmented heart'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"An artificial blob heart encapsulated in a protective plastic case, guarding"
+" against both decay and damage. Many wires and sensors protrude from the "
+"artificial blob flesh, with several cables and hoses extending from the "
+"exterior of the case."
+msgstr "一个人工粘液心脏封装在保护性塑料壳中，防止腐烂和损坏。许多电线和传感器从人工粘液组织中伸出，壳体外侧延伸出数条电缆和软管。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "synthetic eye"
+msgid_plural "synthetic eyes"
+msgstr[0] "合成眼"
+
+#. ~ Description for {'str': 'synthetic eye'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"A spherical steel object, comprised of high quality lenses, a camera, and "
+"circuitry designed to be able to send readable data to either a human brain,"
+" artificial blob version of a human brain or an electronic system."
+msgstr "一个球形钢制物体，由高质量透镜、摄像头和电路组成，设计用于向人类大脑、人工粘液版本的人类大脑或电子系统发送可读数据。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "cybernetic lung"
+msgid_plural "cybernetic lungs"
+msgstr[0] "赛博格肺"
+
+#. ~ Description for {'str': 'cybernetic lung'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"A chunk of plastic barely resembling a lung. Only the outer piece is totally"
+" inorganic, with a silver-platinum alloy used as a antimicrobal and air "
+"filtration agent inside the artificial organic interior."
+msgstr "一块勉强像肺的塑料块。只有外层完全是无机物，人工有机内部使用了银铂合金作为抗菌和空气过滤剂。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "artificial blood purifier"
+msgid_plural "artificial blood purifiers"
+msgstr[0] "人工血液净化器"
+
+#. ~ Description for {'str': 'artificial blood purifier'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"A completely artificial organ designed to keep a cyborg's blood clean and "
+"free from parasites and infections. Functionally similar to a human kidney."
+msgstr "一个完全人造的器官，旨在保持生化人的血液清洁，免受寄生虫和感染。功能上类似于人类肾脏。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "cyborg frame"
+msgid_plural "cyborg frames"
+msgstr[0] "生化人框架"
+
+#. ~ Description for {'str': 'cyborg frame'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"An artificial blob human body that has been thoroughly dissected, and is now"
+" covered with incisions of various sizes, allowing the many modifications to"
+" the skeletal structure."
+msgstr "一个被彻底解剖的人工人体团块，现在覆盖着各种大小的切口，允许对骨骼结构进行大量改造。"
+
+#: .\cyborg\at_cyborg_components.json
+msgid "heavy cyborg frame"
+msgid_plural "heavy cyborg frames"
+msgstr[0] "重型生化人框架"
+
+#. ~ Description for {'str': 'heavy cyborg frame'}
+#: .\cyborg\at_cyborg_components.json
+msgid ""
+"An artificial blob human body that has been dissected and augmented to a "
+"high degree. Little of the original skeleton is present, having been mostly "
+"replaced with hardened steel, and has sections of armor plating grafted to "
+"it's skin."
+msgstr "一个被解剖并高度增强的人工人体团块。原始骨架所剩无几，大部分已被硬化钢取代，并有装甲板部分移植到其皮肤上。"
+
+#: .\robot\at_activateable_robots.json
+msgid "inactive sniper joe"
+msgid_plural "inactive sniper joes"
+msgstr[0] "休眠的狙击乔"
+
+#. ~ Use action friendly_msg for {'str': 'inactive sniper joe'}.
+#: .\robot\at_activateable_robots.json
+msgid "The sniper joe activates and it's visor glows eerily."
+msgstr "狙击乔激活了，它的面罩发出诡异的微光。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive sniper joe'}.
+#: .\robot\at_activateable_robots.json
+msgid "You've made a mistake, and the sniper joe turns on you!"
+msgstr "你犯了个错误，狙击乔转而攻击你！"
+
+#. ~ Description for {'str': 'inactive sniper joe'}
+#: .\robot\at_activateable_robots.json
+msgid ""
+"This is an inactive Sniper Joe. Sniper Joes are advanced robots capable of "
+"combat and have substantial armor."
+msgstr "这是一个休眠的狙击乔。狙击乔是能够战斗并拥有坚固装甲的先进机器人。"

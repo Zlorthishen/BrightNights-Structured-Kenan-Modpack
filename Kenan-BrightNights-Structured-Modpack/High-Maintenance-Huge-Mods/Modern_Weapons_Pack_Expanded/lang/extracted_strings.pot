@@ -1,0 +1,1674 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: modern_weapon\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Modern Weapon Pack Expanded"
+msgstr ""
+
+#. ~ Description for Modern Weapon Pack Expanded
+#: .\modinfo.json
+msgid ""
+"This mod adds more real world firearms to the game. It was derived from "
+"Modern Weapons Pack by crom. It also overrides most of core game guns to use"
+" more calibers. INCLUDES PATCH OPTION in modern_extras folder to disable "
+"overriding of core game guns."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo.json
+msgid ".30-30 Winchester"
+msgid_plural ".30-30 Winchester"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.30-30 Winchester', 'str_pl': '.30-30
+#. Winchester'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"At short-range, with considerably lower recoil than a .3006, the .30-30 "
+"Winchester is very popular with hunters of deer, black bear, and even moose."
+"  Its 150gr round-nose cartridge is well suited for the tubular magazines of"
+" lever-action rifles."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo.json
+msgid "reloaded .30-30 Winchester"
+msgid_plural "reloaded .30-30 Winchester"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reloaded .30-30 Winchester', 'str_pl': 'reloaded
+#. .30-30 Winchester'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"At short-range, with considerably lower recoil than a .3006, the .30-30 "
+"Winchester is very popular with hunters of deer, black bear, and even moose."
+"  Its 150gr round-nose cartridge is well suited for the tubular magazines of"
+" lever-action rifles.  This one has been hand-reloaded."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo.json
+msgid ".357 Magnum"
+msgid_plural ".357 Magnum"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.357 Magnum', 'str_pl': '.357 Magnum'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"The high velocity and high energy .357 Magnum, with 158gr JHP in an "
+"elongated .38 Special cartridge, was developed in the 1930s.  Renowned for "
+"its stopping power, the .357 is easily capable of bringing down medium to "
+"large game."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo.json
+msgid "reloaded .357 Magnum"
+msgid_plural "reloaded .357 Magnum"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reloaded .357 Magnum', 'str_pl': 'reloaded .357
+#. Magnum'}
+#: .\modern_ammo\modern_ammo.json
+msgid ""
+"The high velocity and high energy .357 Magnum, with 125gr JHP in an "
+"elongated .38 Special cartridge, was developed in the 1930s.  Renowned for "
+"its stopping power, the .357 is easily capable of bringing down medium to "
+"large game.  This one has been hand-reloaded."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo_items.json
+msgid ".30-30 casing"
+msgid_plural ".30-30 casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.30-30 casing'}
+#: .\modern_ammo\modern_ammo_items.json
+msgid "An empty casing from a .30-30 round."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo_items.json
+msgid ".357 Magnum casing"
+msgid_plural ".357 Magnum casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.357 Magnum casing'}
+#: .\modern_ammo\modern_ammo_items.json
+msgid "An empty casing from a .357 Magnum round."
+msgstr ""
+
+#: .\modern_ammo\modern_ammo_types.json
+msgid ".30-30"
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "AutoMag Pack"
+msgid_plural "AutoMag Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AutoMag Pack', 'str_pl': 'AutoMag Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box AutoMag with extra mags, manual, holster,"
+" and firearm repair kit."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "Coonan .357 Pack"
+msgid_plural "Coonan .357 Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Coonan .357 Pack', 'str_pl': 'Coonan .357
+#. Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Coonan .357 with extra mags, manual, and "
+"improved iron sights."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "R93 Tactical Pack"
+msgid_plural "R93 Tactical Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'R93 Tactical Pack', 'str_pl': 'R93 Tactical
+#. Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box R93 Tactical 2 with assorted mags, "
+"manual, retool kits, and firearm repair kit."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "Colt USMC M45A1 CQBP Pack"
+msgid_plural "Colt USMC M45A1 CQBP Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Colt USMC M45A1 CQBP Pack', 'str_pl': 'Colt USMC
+#. M45A1 CQBP Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Colt USMC M45A1 CQBP with extra mags, "
+"manual, and firearm repair kit."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "Strike One Pack"
+msgid_plural "Strike One Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strike One Pack', 'str_pl': 'Strike One Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Strike One with extra mags, manual, and "
+"firearm repair kit."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "Saab Bofors Dynamics CBJ-MS Pack"
+msgid_plural "Saab Bofors Dynamics CBJ-MS Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Saab Bofors Dynamics CBJ-MS Pack', 'str_pl':
+#. 'Saab Bofors Dynamics CBJ-MS Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Saab Bofors Dynamics CBJ-MS with extra "
+"mags and a bipod."
+msgstr ""
+
+#: .\modern_extras\modern_items.json
+msgid "Varos-Danuvia VD-01 Pack"
+msgid_plural "Varos-Danuvia VD-01 Packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Varos-Danuvia VD-01 Pack', 'str_pl': 'Varos-
+#. Danuvia VD-01 Packs'}
+#: .\modern_extras\modern_items.json
+msgid ""
+"This is a brand new out-of-the-box Vörös-Danuvia VD-01 with extra mags, and "
+"extra goodies."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "folding and adjustable stock"
+msgid_plural "folding and adjustable stocks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"This mod improves recoil and accuracy but needs unfolding before use.  It "
+"increases the time needed to wield the weapon."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "stock"
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "lightweight bipod"
+msgid_plural "lightweight bipods"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A makeshift metal bipod looped around the barrel and used to provide a "
+"forward rest to reduce motion.  Aside from a very slight increase in weight "
+"there are no drawbacks."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "underbarrel"
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "neck strap"
+msgid_plural "neck straps"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A neck strap allows a pistol to be worn like a piece of clothing.  It offers"
+" no protection, but improves accuracy when held taught."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "sling"
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "peep sight"
+msgid_plural "peep sights"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A rear sight aperture that can adjust for windage and elevation allowing for"
+" very accurate aiming through a small, framed circle. Also known as a "
+"diopter sight."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "sights"
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "SUSAT scope"
+msgid_plural "SUSAT scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A 4x telescopic sight aperture with a red illuminated, German Post type "
+"reticle."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "Six12 integral shotgun suppressor"
+msgid_plural "Six12 integral shotgun suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid "An integral shot suppressor designed to work with Crye Six12."
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "muzzle"
+msgstr ""
+
+#: .\modern_extras\modern_mod.json
+msgid "Crye Six12 underbarrel shotgun"
+msgid_plural "Crye Six12 underbarrel shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod.json
+msgid ""
+"A double action, bullpup, semi-automatic shotgun with a removable revolver "
+"cylinder."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "auto-fire rifle assembly"
+msgid_plural "auto-fire rifle assemblys"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"Fabricated parts necessary to convert a valid semi-automatic rifle to a "
+"selective fire weapon with a burst size of 15 rounds.  However it reduces "
+"accuracy while increasing recoil."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json .\modern_extras\overrides_gun.json
+#: .\modern_handgun\modern_handgun.json .\modern_rifle\modern_rifle.json
+#: .\modern_smg\modern_smg.json
+msgid "auto"
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "receiver"
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "select auto-fire assembly"
+msgid_plural "select auto-fire assemblys"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"A fabricated cam and sear, combined with an auto-fire rifle assembly, used "
+"to convert a valid semi-automatic rifle to a selective fire weapon with a "
+"burst sizes of 3 and 10 rounds.  However it reduces accuracy while "
+"increasing recoil."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "3 rd."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "shotgun auto-fire assembly"
+msgid_plural "shotgun auto-fire assemblys"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"Fabricated parts necessary to convert a valid semi-automatic shotgun to a "
+"selective fire weapon with a burst size of 5 rounds.  However it reduces "
+"accuracy while increasing recoil."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".38 caliber conversion kit"
+msgid_plural ".38 caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .38 firearm.  The conversion results in reduced accuracy."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "bore"
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".357 caliber conversion kit"
+msgid_plural ".357 caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .357 firearm.  The conversion results in reduced accuracy."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ".40 caliber conversion kit"
+msgid_plural ".40 caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a .40 firearm.  The conversion results in reduced accuracy."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "7.62x39mm caliber conversion kit"
+msgid_plural "7.62x39mm caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a 7.62x39mm firearm.  The conversion results in reduced accuracy."
+msgstr ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid "5.45x39mm caliber conversion kit"
+msgid_plural "5.45x39mm caliber conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\modern_mod_obsolete.json
+msgid ""
+"This kit replaces several key parts of an applicable firearm and converts it"
+" to a 5.45x39mm firearm.  The conversion results in reduced accuracy."
+msgstr ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M134D-H"
+msgid_plural "M134D-Hs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M249"
+msgid_plural "M249s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M240"
+msgid_plural "M240s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M60"
+msgid_plural "M60s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M72 LAW"
+msgid_plural "M72 LAWs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "66mm HEAT"
+msgid_plural "66mm HEATs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "S&W 22A"
+msgid_plural "S&W 22As"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Ruger 10/22"
+msgid_plural "Ruger 10/22s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Desert Eagle .44"
+msgid_plural "Desert Eagle .44s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Bushmaster ACR"
+msgid_plural "Bushmaster ACRs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "AR-15"
+msgid_plural "AR-15s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K 416A5"
+msgid_plural "H&K 416A5s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K G36"
+msgid_plural "H&K G36s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json .\modern_handgun\modern_handgun.json
+#: .\modern_smg\modern_smg.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "2 rd."
+msgstr ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M27 IAR"
+msgid_plural "M27 IARs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M4A1"
+msgid_plural "M4A1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Ruger Mini-14"
+msgid_plural "Ruger Mini-14s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN SCAR-L"
+msgid_plural "FN SCAR-Ls"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "SIG 552"
+msgid_plural "SIG 552s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Steyr AUG"
+msgid_plural "Steyr AUGs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN FAL"
+msgid_plural "FN FALs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K G3"
+msgid_plural "H&K G3s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M1A"
+msgid_plural "M1As"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "M14 EBR-RI"
+msgid_plural "M14 EBR-RIs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "FN SCAR-H"
+msgid_plural "FN SCAR-Hs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "AKM"
+msgid_plural "AKMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Beretta ARX-160"
+msgid_plural "Beretta ARX-160s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Cx4 Storm"
+msgid_plural "Cx4 Storms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "H&K MP5"
+msgid_plural "H&K MP5s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Kel-Tec SUB-2000"
+msgid_plural "Kel-Tec SUB-2000s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid ""
+"A uniquely designed pistol caliber carbine with an integral folding stock "
+"and that makes use of a large variety of 9mm magazines."
+msgstr ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Uzi 9mm"
+msgid_plural "Uzi 9mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_extras\overrides_gun.json
+msgid "Saiga-12"
+msgid_plural "Saiga-12s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "AMT Longslide Hardballer"
+msgid_plural "AMT Longslide Hardballers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A brushed stainless steel .45 patterned after the Colt M1911 with a seven "
+"inch barrel."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "APB Stechkin"
+msgid_plural "APB Stechkins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Russian, APB Stechkin, or Avtomaticheskij Pistolet Besshumnyj, is a Cold"
+" War era, double action, automatic machine pistol used by Spetsnaz special "
+"forces."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json .\modern_rifle\modern_rifle.json
+#: .\modern_smg\modern_smg.json
+msgid "semi auto"
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Strike One"
+msgid_plural "Strike Ones"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"Of Italian design, the Arsenal Firearms Strike One is a short recoil "
+"operated, hammerless striker-fired, semi-automatic pistol."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "AutoMag"
+msgid_plural "AutoMags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The AutoMag is easily recognizable because of a distinctive vented rib along"
+" its barrel.  It has a recoil operated, locking rotary bolt similar to many "
+"rifles, and is a highly regarded semi-automatic pistol."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Beretta 93R"
+msgid_plural "Beretta 93Rs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Beretta 93 Raffica machine pistol used by Italian counter-terrorism "
+"police and military forces."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Browning HP"
+msgid_plural "Browning HPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Browning Hi Power, introduced in 1935, has been a widely used military "
+"service sidearm for many countries.  It is a single action, recoil operated "
+"pistol."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Colt USMC M45A1 CQBP"
+msgid_plural "Colt USMC M45A1 CQBPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The US Marine Corp standard-issue side arm, this single action, recoil "
+"operated, semi-automatic Close Quarter Battle Pistol is a M1911-style "
+"handgun with a sand-tan finish."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Coonan .357 Magnum Automatic"
+msgid_plural "Coonan .357 Magnum Automatics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Coonan Compensated .357 Magnum is a recoil operated, m1911-style "
+"automatic pistol of high quality."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "H&K 45T"
+msgid_plural "H&K 45Ts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Heckler & Koch 45 Tactical was intended to replace the Berreta M9 as the"
+" standard US Military service weapon in the Joint Combat Pistol program "
+"which was suspended due to budgetary contraints.  It is a double-action "
+"pistol, short-recoil operated, using modified Browning-type locking system "
+"and tilting barrel."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "H&K 45CT"
+msgid_plural "H&K 45CTs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Heckler & Koch 45 Compact Tactical is a double-action pistol, short-"
+"recoil operated, using modified Browning-type locking system and tilting "
+"barrel."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Mare's Leg"
+msgid_plural "Mare's Legs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Henry Lever Action Mare's Leg has an octogon barrel with brass barrel "
+"bands and a brass receiver plate.  Classified as a pistol in the US, this is"
+" a cut-down version of a full sized rifle."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard Semi-Automatic"
+msgid_plural "High Standard Semi-Automatics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "A US Military, WWII era, target pistol for competition."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard HDM"
+msgid_plural "High Standard HDMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"An OSS, US Special Operations Forces, and CIA pistol common between "
+"1942-1951.  It is still found, today, in United States inventories."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "High Standard Deluxe"
+msgid_plural "High Standard Deluxes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A common 9mm revolver loved for its dependability and comfortable grip."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Kahr K9"
+msgid_plural "Kahr K9s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A popular concealed carry option for law enforcement officers, the Kahr K9 "
+"is a double action only, compact semi-automatic of solid steel construction "
+"with polymer grips."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Korth Nibelungen"
+msgid_plural "Korth Nibelungens"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"Made with cold forged Damascus steel, the Korth Nibelungen is at the "
+"pinnacle of German precision engineering."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Korth Combat"
+msgid_plural "Korth Combats"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"This wheelgun is hand crafted with German precision engineering.  The Korth "
+"Combat is a double action work of art machined from the finest billet steel."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Manurhin MR 73"
+msgid_plural "Manurhin MR 73s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A double-action revolver from France, the Manurhin MR 73 was a standard "
+"issue firearm for the French Police Nationale and Gendarmerie Nationale.  "
+"Its performance, durability, and accuracy have reached a legendary status."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Rohrbaugh R9s"
+msgid_plural "Rohrbaugh R9ss"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The Rohrbaugh R9s is a hammerless, compact semi-automatic.  Lightweight, "
+"double action, it is operated with a short recoil and a locking breech."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "S&W 59"
+msgid_plural "S&W 59s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "The Smith & Wesson Model 59 double-action, semi-automatic pistol."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "S&W 686"
+msgid_plural "S&W 686s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"The stainless steel Smith & Wesson Model 686 double-action revolver is a "
+"popular sidearm among several US law enforcement agencies and police."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid "Vörös-Danuvia VD-01"
+msgid_plural "Vörös-Danuvia VD-01s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun.json
+msgid ""
+"A Hungarian weapon, the Vörös-Danuvia Machine-Pistol VD-01 features a "
+"distinctive under-barrel cylindrical magazine forward the trigger guard."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ".22 magazine"
+msgid_plural ".22 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "A standard 10 round capacity magazine for a .22 pistol."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ".357 magazine"
+msgid_plural ".357 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.357 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for a .357 semi-automatic, holds 7 rounds."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Strike One 9mm magazine"
+msgid_plural "Strike One 9mm magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strike One 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for the Browning HP, holds 17 rounds staggered."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "S&W 9mm magazine"
+msgid_plural "S&W 9mm magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'S&W 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The S&W 9mm magazine, holds 14 rounds double column."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Browning HP 9mm magazine"
+msgid_plural "Browning HP 9mm magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Browning HP 9mm magazine'}
+#. ~ Description for {'str': 'Strike One .40 magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "The standard magazine for the Browning HP, holds 13 rounds staggered."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "compact concealed carry 9mm magazine"
+msgid_plural "compact concealed carry 9mm magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'compact concealed carry 9mm magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "The standard magazine for a compact handgun, holds 7 rounds."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "Stechkin magazine"
+msgid_plural "Stechkin magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Stechkin magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ""
+"The standard magazine for the APB Stechkin, holds 20 rounds double-stacked "
+"with a double feed."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid "VD-01 cylindrical magazine"
+msgid_plural "VD-01 cylindrical magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'VD-01 cylindrical magazine'}
+#: .\modern_handgun\modern_handgun_magazines.json
+msgid ""
+"An under-barrel, 33-round, helical loading, cylindrical magazine made for "
+"the Voros-Danuvia VD-01."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "Strike One .40 magazine"
+msgid_plural "Strike One .40 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "Browning HP .40 magazine"
+msgid_plural "Browning HP .40 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Browning HP .40 magazine'}
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid ""
+"The .40 magazine for the Browning HP, holds 10 rounds double-stacked with a "
+"staggered feed."
+msgstr ""
+
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "compact concealed carry .40 magazine"
+msgid_plural "compact concealed carry .40 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'compact concealed carry .40 magazine'}
+#: .\modern_handgun\modern_handgun_obsolete.json
+msgid "The standard magazine for a compact handgun, holds 6 rounds."
+msgstr ""
+
+#: .\modern_launcher\modern_launcher.json
+msgid "GL06 stand alone launcher"
+msgid_plural "GL06 stand alone launchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_launcher\modern_launcher.json
+msgid ""
+"The Brügger & Thomet GL06 grenade launcher is one of the most accurate "
+"launchers available.  It features vertical loading with a folding buttstock "
+"and detachable forward grip."
+msgstr ""
+
+#: .\modern_launcher\modern_launcher.json
+msgid "RGM-40 Kastet"
+msgid_plural "RGM-40 Kastets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_launcher\modern_launcher.json
+msgid ""
+"The RGM-40 Kastet light grenade launcher is intended to be used by law "
+"enforcement agencies for anti-riot control but can also be used to engage "
+"other targets.  It is muzzle-loaded, has a self-cocking trigger mechanism, "
+"an AK style pistol grip, and extendable buttstock."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "AR57 LEM"
+msgid_plural "AR57 LEMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"This short barrel rifle (6in Fluted Barrel) is a familiar AR style personal "
+"defense weapon.  It fires 5.7x28mm ammunition and takes a FN P90 magazine.  "
+"This one is a semi automatic Law Enforcement Model."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "R93 Tactical 2"
+msgid_plural "R93 Tactical 2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Blaser R93 Tactical 2 is a straight pull, bolt action sniper rifle. "
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "CETME Ameli"
+msgid_plural "CETME Amelis"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The CETME Ameli light machine gun used by the Spanish military resembles the"
+" German MG3 but uses a roller delayed blowback action to reduce recoil as "
+"the bolt body travels back on the bolt spring."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Chiappa M1-9"
+msgid_plural "Chiappa M1-9s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A replica of the standard M1 Carbine of WWII, the Italian semi-automatic, "
+"the Chiappa M1-9, is a blowback operated plinker and small game hunting "
+"rifle."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Desert Tech MDR"
+msgid_plural "Desert Tech MDRs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"With a bullpup design, the Desert Tech Micro Dynamic Rifle is a gas "
+"operated, ambidextrous assault rifle."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Enfield L85A2"
+msgid_plural "Enfield L85A2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A bullpup assault rifle, the standard issue service rifle of the British "
+"Armed Forces, the Enfield L85A2, uses a short-stroke gas piston system and a"
+" rotating bolt."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "FAD assault rifle"
+msgid_plural "FAD assault rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"From Peru, the FAD assault rifle, (or Fusil Automático Doble,) is a compact "
+"infantry support weapon used by vehicle crews as back-up weapon.  It "
+"features a bullpup design with an integrated grenade launcher."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "FX-05 Xiuhcoatl"
+msgid_plural "FX-05 Xiuhcoatls"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Fire Serpent, a modern assault rifle of the Mexican Armed Forces, "
+"Fuerzas Armadas de Mexico.  Closely patterned after the German made HK G36."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Henry Lever Action"
+msgid_plural "Henry Lever Actions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Henry Lever Action has an octogon barrel with brass barrel bands and a "
+"brass receiver plate.  This beloved repeater has a home with many a hunter "
+"of venison."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Galil assault rifle"
+msgid_plural "Galil assault rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Built by Israel Military Industries, the Galil is a gas operated/rotating "
+"bolt assault rifle whose design was greatly influenced by the Valmet Rk.62 "
+"and the AK-47.  It features an aluminum side folding stock and a diopter "
+"sight."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 1894"
+msgid_plural "Marlin 1894s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A lever action hunting rifle, the .44 Magnum caliber Marlin 1894 repeater is"
+" a perfect companion piece for your .44 Magnum sidearm."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 1894C"
+msgid_plural "Marlin 1894Cs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A lever action hunting rifle, the .357 Magnum caliber Marlin 1894C repeater "
+"is a perfect companion piece for your .357 Magnum sidearm."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Marlin 336"
+msgid_plural "Marlin 336s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Combined with a pistol grip-type buttstock and a responsive trigger, the "
+"Marlin 336 is a very popular lever action rifle."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Mossberg 464 SPX"
+msgid_plural "Mossberg 464 SPXs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A centerfire repeating rifle, the Mossberg 464 SPX is a modern take on the "
+"classic lever-action rifle."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Norinco Type 56-1"
+msgid_plural "Norinco Type 56-1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Manufactured by China North Industries Corporation, this assault rifle is a "
+"near copy of the Russian AKM.  This model has an integrated pig sticker "
+"bayonet, and a foldable stock."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Norinco Type 56-2"
+msgid_plural "Norinco Type 56-2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"Manufactured by China North Industries Corporation, this assault rifle is a "
+"near copy of the Russian AKM.  This model has a foldable stock."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Ruger M77"
+msgid_plural "Ruger M77s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A popular hunting rifle, the Ruger M77 features a Mauser-type controlled "
+"round feed extractor and an angled large screw which moves the action into "
+"the stock."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Saiga Mk3 carbine"
+msgid_plural "Saiga Mk3 carbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"This AK-74 style, semi-automatic carbine is gas operated with a dual lug "
+"rotary bolt.  Used for hunting, target shooting, and self-defence, it is "
+"noted for its reliability and accuracy."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Serbu BFG-50 carbine"
+msgid_plural "Serbu BFG-50 carbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A single shot bolt action sniper/anti-materiel rifle with dual locking lugs."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Serbu BFG-50A"
+msgid_plural "Serbu BFG-50As"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"A semi-automatic sniper/anti-materiel rifle using a gas-operated rotary "
+"locking bolt with triangular head."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Steyr SSG 69"
+msgid_plural "Steyr SSG 69s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Steyr Scharfschützengewehr 69 is regarded as one of the most accurate "
+"sniper rifle in the world.  It is a bolt action with rear locking lugs."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Tavor MTAR-21"
+msgid_plural "Tavor MTAR-21s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Israeli, Tavor MTAR-21 bullpup assault rifle has a long-stroke, gas "
+"operated piston system like that of an AK-47.  A reliable weapon, it has "
+"replaced the M-16 by Israeli Defence Forces and is used by military and "
+"police forces around the world."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid "Walther WA 2000"
+msgid_plural "Walther WA 2000s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle.json
+msgid ""
+"The Walther WA 2000 is a semi-automatic bullpup sniper rifle operated with a"
+" short stroke gas piston and a rotating locking bolt."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  AK74 10 rd magazine"
+msgid_plural "5.56x45mm  AK74 10 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm  AK74 10 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A AK74 style magazine designed for 5.56x45mm ammunition, made of steel-"
+"reinforced polymer.  Holds 10 rounds."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  AK74 30 rd magazine"
+msgid_plural "5.56x45mm  AK74 30 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm  AK74 30 rd magazine'}
+#. ~ Description for {'str': '5.56x45mm  Galil 35 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A AK74 style magazine designed for 5.56x45mm ammunition, made of steel-"
+"reinforced polymer.  Holds 30 rounds."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  Galil 35 rd magazine"
+msgid_plural "5.56x45mm  Galil 35 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ".300 tactical magazine"
+msgid_plural ".300 tactical magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.300 tactical magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "A 4-round box magazine typically used by sniper rifles"
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Beta-C dual drum magazine"
+msgid_plural "7.62x51mm Beta-C dual drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm Beta-C dual drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 100 round magazine for assault rifles that utilize the 7.62x51mm round or "
+"similar ammunition."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Steyr 5 rd magazine"
+msgid_plural "7.62x51mm Steyr 5 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm Steyr 5 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A Steyr, 5 rd, rotary magazine, made for 7.62x51mm ammunition, with a "
+"transparent back."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm Steyr 10 rd magazine"
+msgid_plural "7.62x51mm Steyr 10 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm Steyr 10 rd magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A Steyr, 5 rd, staggered magazine, made for 7.62x51mm ammunition, with a "
+"transparent back."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "Translucent STANAG magazine"
+msgid_plural "Translucent STANAG magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Translucent STANAG magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 30 round STANAG-compliant magazine for rifles that utilize 5.56x45mm or "
+"5.56x45mm ammunition."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "5.56x45mm  Beta-C dual drum magazine"
+msgid_plural "5.56x45mm  Beta-C dual drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm  Beta-C dual drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 100 round STANAG-compliant magazine for assault rifles that utilize the "
+"5.56x45mm round or similar ammunition."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid "7.62x51mm X-14 50 rd drum magazine"
+msgid_plural "7.62x51mm X-14 50 rd drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm X-14 50 rd drum magazine'}
+#: .\modern_rifle\modern_rifle_magazines.json
+msgid ""
+"A 50 round drum magazine designed for 7.62x51mm ammunition, made of steel-"
+"reinforced polymer.  Compatible with M1A and M14 rifles."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "7.62x51mm AK74 25 rd magazine"
+msgid_plural "7.62x51mm AK74 25 rd magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm AK74 25 rd magazine'}
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid ""
+"A AK74 style magazine designed for 7.62x51mm ammuntion, made of steel-"
+"reinforced polymer.  Holds 25 rounds."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "5.56x45mm tactical magazine"
+msgid_plural "5.56x45mm tactical magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm tactical magazine'}
+#. ~ Description for {'str': '7.62x51mm tactical magazine'}
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "A 5-round box magazine typically used by sniper rifles."
+msgstr ""
+
+#: .\modern_rifle\modern_rifle_obsolete.json
+msgid "7.62x51mm tactical magazine"
+msgid_plural "7.62x51mm tactical magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Crye Six12"
+msgid_plural "Crye Six12s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A double action, bullpup, shotgun semi-automatic with a removable revolver "
+"cylinder."
+msgstr ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Crye Six12 suppressed"
+msgid_plural "Crye Six12 suppresseds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A double action, bullpup, shotgun semi-automatic with a removable revolver "
+"cylinder and integral shot suppressor."
+msgstr ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "Taurus ST 12"
+msgid_plural "Taurus ST 12s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A light weight, tactical pump action shotgun for law enforcement and "
+"military users."
+msgstr ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid "UTAS UTS-15"
+msgid_plural "UTAS UTS-15s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_shotgun\modern_shotgun.json
+msgid ""
+"A weapon built in Turkey, the UTAS Urban Tactical Shotgun is a bullpup, pump"
+" action shotgun with dual tube magazines similar to the Kel-Tec KSG."
+msgstr ""
+
+#: .\modern_shotgun\modern_shotgun_magazines.json
+msgid "Six12 magazine"
+msgid_plural "Six12 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Six12 magazine'}
+#: .\modern_shotgun\modern_shotgun_magazines.json
+msgid "A 6 round cylinder magazine for the Crye Six12 shotgun."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "APC-9"
+msgid_plural "APC-9s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Brügger & Thomet Advanced Police Carbine 9 has a square closed bolt and "
+"is a low recoil straight blowback operated submachine gun."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "M635"
+msgid_plural "M635s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Colt SMG has a closed bolt action that is blowback operated.  "
+"Essentially, it is a M16 factory modified submachine gun."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "CBJ-MS"
+msgid_plural "CBJ-MSs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"From Sweden, the Saab Bofors Dynamics CBJ-MS is a personal defense weapon, "
+"blowback-operated, with a retractable wire frame buttstock."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "4 rd."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "STK CPW"
+msgid_plural "STK CPWs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"From Singapore Technologies Kinetics, the Compact Personal Weapon is lever "
+"delayed blowback operated, and was developed to be carried by support troops"
+" and security personnel."
+msgstr ""
+
+#: .\modern_smg\modern_smg.json
+msgid "Sterling Mk.4"
+msgid_plural "Sterling Mk.4s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modern_smg\modern_smg.json
+msgid ""
+"The Sterling L2A3 (Mk.4) is a open bolt, blowback operated submachine gun "
+"with a side-loading magazine."
+msgstr ""
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "Beta-C dual drum 9x19mm 100 round magazine"
+msgid_plural "Beta-C dual drum 9x19mm 100 round magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Beta-C dual drum 9x19mm 100 round magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A 100 round magazine for assault rifles that utilize the 19mm round or "
+"similar ammunition."
+msgstr ""
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "CBJ-MS 9x19mm 100 round drum"
+msgid_plural "CBJ-MS 9x19mm 100 round drums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CBJ-MS 9x19mm 100 round drum'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid "A single drum 100 round magazine for the CBJ_MS PDW."
+msgstr ""
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "9mm NATO magazine"
+msgid_plural "9mm NATO magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9mm NATO magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A standard 30-round, translucent plastic, box magazine for submachine guns."
+msgstr ""
+
+#: .\modern_smg\modern_smg_magazines.json
+msgid "Sterling L2A3 magazine"
+msgid_plural "Sterling L2A3 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sterling L2A3 magazine'}
+#: .\modern_smg\modern_smg_magazines.json
+msgid ""
+"A 34 round capacity mag for the Sterling submachine gun. It is slightly "
+"curved, double-stacked, with twin rollers for positive feeding."
+msgstr ""

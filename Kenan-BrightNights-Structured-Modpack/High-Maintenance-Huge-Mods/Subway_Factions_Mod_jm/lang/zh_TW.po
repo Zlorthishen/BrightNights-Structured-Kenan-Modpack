@@ -1,0 +1,2253 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: underrailmetro_mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "UnderrailMetro Mod"
+msgstr "地鐵深淵模組"
+
+#. ~ Description for UnderrailMetro Mod
+#: .\modinfo.json
+msgid ""
+"Adds a variety of items, enemies and locations inspired by the games Metro "
+"series and Underrail."
+msgstr "添加了多種受《地鐵》系列和《Underrail》遊戲啟發的物品、敵人與地點。"
+
+#. ~ Name for scenario 'South Gate Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "South Gate Resident"
+msgstr "南門居民"
+
+#. ~ Name for scenario 'South Gate Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "South Gate Resident"
+msgstr "南門居民"
+
+#. ~ Description for scenario 'South Gate Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail"
+" beneath New England."
+msgstr "不知何故，你偶然發現了南門站，這是新英格蘭地下鐵路中的一個安全避難所。"
+
+#. ~ Description for scenario 'South Gate Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail"
+" beneath New England."
+msgstr "不知何故，你偶然發現了南門站，這是新英格蘭地下鐵路中的一個安全避難所。"
+
+#. ~ Starting location for scenario 'South Gate Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "South Gate Station"
+msgstr "南門站"
+
+#. ~ Name for scenario 'Red Line Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Red Line Resident"
+msgstr "紅線居民"
+
+#. ~ Name for scenario 'Red Line Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Red Line Resident"
+msgstr "紅線居民"
+
+#. ~ Description for scenario 'Red Line Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You managed to find a Red Line station in the New England subway system."
+msgstr "你設法在新英格蘭地鐵系統中找到了一個紅線車站。"
+
+#. ~ Description for scenario 'Red Line Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You managed to find a Red Line station in the New England subway system."
+msgstr "你設法在新英格蘭地鐵系統中找到了一個紅線車站。"
+
+#. ~ Starting location for scenario 'Red Line Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Red Line Station"
+msgstr "紅線車站"
+
+#. ~ Name for scenario '4th Reich Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "4th Reich Resident"
+msgstr "第四帝國居民"
+
+#. ~ Name for scenario '4th Reich Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "4th Reich Resident"
+msgstr "第四帝國居民"
+
+#. ~ Description for scenario '4th Reich Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You managed to find a 4th Reich station in the New England subway system."
+msgstr "你設法在新英格蘭地鐵系統中找到了一個第四帝國車站。"
+
+#. ~ Description for scenario '4th Reich Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You managed to find a 4th Reich station in the New England subway system."
+msgstr "你設法在新英格蘭地鐵系統中找到了一個第四帝國車站。"
+
+#. ~ Starting location for scenario '4th Reich Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "4th Reich Station"
+msgstr "第四帝國車站"
+
+#: .\startlocation.json .\subway_factions.json
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "South Gate Station"
+msgstr "南門站"
+
+#: .\startlocation.json
+msgid "Red Line Station"
+msgstr "紅線車站"
+
+#: .\startlocation.json
+msgid "4th Reich Station"
+msgstr "第四帝國車站"
+
+#. ~ Description for South Gate Station
+#: .\subway_factions.json
+msgid ""
+"South Gate is an autonomous community and not a member of United Stations, "
+"but could become its first member in south Underrail. It is the most "
+"powerful station in the entire south Lower Underrail."
+msgstr "南門是一個自治社區，並非聯合車站的成員，但可能成為南方地下鐵路中的首個成員。它是整個南方下層地下鐵路中最強大的車站。"
+
+#: .\subway_factions.json
+msgid "Underrail Malcontents"
+msgstr "地下鐵路不滿者"
+
+#. ~ Description for Underrail Malcontents
+#: .\subway_factions.json
+msgid ""
+"Whether they're driven by wanderlust, greed or just a savage bloodlust, the "
+"underrail has always generated an underclass of degenerate criminals. These "
+"vandals prey upon the weak, and are generally without redemption."
+msgstr "無論他們是受漫遊欲、貪婪還是野蠻嗜血的驅使，地下鐵路始終滋生著一群墮落的罪犯階層。這些破壞者欺凌弱者，通常無可救藥。"
+
+#: .\subway_factions.json
+msgid "Red Line"
+msgstr "紅線"
+
+#. ~ Description for Red Line
+#: .\subway_factions.json
+msgid ""
+"With one of the largest populations in the Underrail, an unparalleled "
+"capacity for mass conscription, and a number of stations and metres of track"
+" surpassed only by South Gate Station, the Red Line is one of the most "
+"formidable factions in the cataclysm world."
+msgstr "作為地下鐵路中人口最多的勢力之一，擁有無與倫比的大規模徵兵能力，其車站數量和軌道長度僅次於南門站，紅線是災變世界中最強大的派系之一。"
+
+#: .\subway_factions.json
+msgid "4th Reich"
+msgstr "第四帝國"
+
+#. ~ Description for 4th Reich
+#: .\subway_factions.json
+msgid ""
+"The Nazis are a fascist faction in the Metro centred around several stations"
+" which they dub The Reich. However, they maintain numerous outposts and a "
+"military presence in several outlying stations, possibly in an attempt at "
+"expansion since the Nazis are an imperialist faction."
+msgstr ""
+"納粹是地鐵中的一個法西斯派系，圍繞數個他們稱為“帝國”的車站建立。然而，他們在多個邊遠車站維持著眾多前哨和軍事存在，可能是在嘗試擴張，因為納粹是一個帝國主義派系。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Civilian"
+msgstr "南門平民"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Civilian"
+msgstr "南門平民"
+
+#. ~ Profession (male South Gate Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。"
+
+#. ~ Profession (female South Gate Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Civilian"
+msgstr "紅線平民"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Civilian"
+msgstr "紅線平民"
+
+#. ~ Profession (male Red Line Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the citizens of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的公民之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#. ~ Profession (female Red Line Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the citizens of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的公民之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Civilian"
+msgstr "帝國平民"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Civilian"
+msgstr "帝國平民"
+
+#. ~ Profession (male Reich Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the citizens of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的公民之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#. ~ Profession (female Reich Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the citizens of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的公民之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Guard"
+msgstr "南門站守衛"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Guard"
+msgstr "南門站守衛"
+
+#. ~ Profession (male South Gate Guard) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you, and you soon enlisted as a "
+"guard defending the frontiers of SGS against the hidden terrors of the "
+"Underrail."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你，並且你很快應徵成為一名守衛，負責保衛SGS的邊境，抵禦地下鐵路的隱秘恐怖。"
+
+#. ~ Profession (female South Gate Guard) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you, and you soon enlisted as a "
+"guard defending the frontiers of SGS against the hidden terrors of the "
+"Underrail."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你，並且你很快應徵成為一名守衛，負責保衛SGS的邊境，抵禦地下鐵路的隱秘恐怖。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Soldier"
+msgstr "南門站士兵"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Soldier"
+msgstr "南門站士兵"
+
+#. ~ Profession (male South Gate Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a soldier."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。成為一名守衛後，你在SGS的軍階中不斷晉升，最終成為了一名士兵。"
+
+#. ~ Profession (female South Gate Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a soldier."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。成為一名守衛後，你在SGS的軍階中不斷晉升，最終成為了一名士兵。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Heavy Soldier"
+msgstr "南門站重裝士兵"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Heavy Soldier"
+msgstr "南門站重裝士兵"
+
+#. ~ Profession (male South Gate Heavy Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a heavy trooper."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。成為一名守衛後，你在SGS的軍階中不斷晉升，最終成為了一名重裝步兵。"
+
+#. ~ Profession (female South Gate Heavy Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a heavy trooper."
+msgstr "為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。成為一名守衛後，你在SGS的軍階中不斷晉升，最終成為了一名重裝步兵。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Junker"
+msgstr "南門站拾荒者"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Junker"
+msgstr "南門站拾荒者"
+
+#. ~ Profession (male South Gate Junker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You decided to buck their trend, traipsing throughout the underrail to make "
+"a name for yourself."
+msgstr "你從不滿足於僅僅待在南門站的保護之下。你認為其他公民太過懦弱、恐懼和軟弱。你決定逆流而行，在地下鐵路各處遊蕩，為自己闖出一番名聲。"
+
+#. ~ Profession (female South Gate Junker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You decided to buck their trend, traipsing throughout the underrail to make "
+"a name for yourself."
+msgstr "你從不滿足於僅僅待在南門站的保護之下。你認為其他公民太過懦弱、恐懼和軟弱。你決定逆流而行，在地下鐵路各處遊蕩，為自己闖出一番名聲。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Stalker"
+msgstr "南門站潛行者"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Stalker"
+msgstr "南門站潛行者"
+
+#. ~ Profession (male South Gate Stalker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You were uniquely talented as a stalker, finding rare and valuable equipment"
+" in the Underrail."
+msgstr ""
+"你從不滿足於僅僅待在南門站的保護之下。你認為其他公民太過懦弱、恐懼和軟弱。你作為潛行者擁有獨特的天賦，能夠在地下鐵路中找到稀有且珍貴的裝備。"
+
+#. ~ Profession (female South Gate Stalker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You were uniquely talented as a stalker, finding rare and valuable equipment"
+" in the Underrail."
+msgstr ""
+"你從不滿足於僅僅待在南門站的保護之下。你認為其他公民太過懦弱、恐懼和軟弱。你作為潛行者擁有獨特的天賦，能夠在地下鐵路中找到稀有且珍貴的裝備。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Technician"
+msgstr "南門站技術員"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Technician"
+msgstr "南門站技術員"
+
+#. ~ Profession (male South Gate Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. You had a natural aptitude "
+"for various mechanical and life support systems for South Gate Station, and "
+"took up training as a technician."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。你對南門站的各種機械和生命維持系統有著天生的才能，並接受了技術員的培訓。"
+
+#. ~ Profession (female South Gate Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. You had a natural aptitude "
+"for various mechanical and life support systems for South Gate Station, and "
+"took up training as a technician."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。你對南門站的各種機械和生命維持系統有著天生的才能，並接受了技術員的培訓。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Computer Technician"
+msgstr "南門站計算機技術員"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Computer Technician"
+msgstr "南門站計算機技術員"
+
+#. ~ Profession (male South Gate Computer Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. After witnessing line upon "
+"line of code in the various consoles of SGS, you began to see a rythm to the"
+" apparently madness of programming. You became a well-respected member of "
+"South Gate Station's IT department."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。在目睹了SGS各種控制檯上一行又一行的代碼後，你開始從看似瘋狂的編程中看到了某種節奏。你成為了南門站IT部門中備受尊敬的成員。"
+
+#. ~ Profession (female South Gate Computer Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. After witnessing line upon "
+"line of code in the various consoles of SGS, you began to see a rythm to the"
+" apparently madness of programming. You became a well-respected member of "
+"South Gate Station's IT department."
+msgstr ""
+"為了遠離新英格蘭地表世界的痛苦漩渦，你決定成為南門站的公民以尋求庇護。令人驚訝的是，他們竟然接納了你。在目睹了SGS各種控制檯上一行又一行的代碼後，你開始從看似瘋狂的編程中看到了某種節奏。你成為了南門站IT部門中備受尊敬的成員。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Soldier"
+msgstr "紅線士兵"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Soldier"
+msgstr "紅線士兵"
+
+#. ~ Profession (male Red Line Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the soldiers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的士兵之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#. ~ Profession (female Red Line Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the soldiers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的士兵之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Soldier"
+msgstr "帝國士兵"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Soldier"
+msgstr "帝國士兵"
+
+#. ~ Profession (male Reich Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the soldiers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的士兵之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#. ~ Profession (female Reich Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the soldiers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的士兵之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Officer"
+msgstr "帝國軍官"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Officer"
+msgstr "帝國軍官"
+
+#. ~ Profession (male Reich Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the officers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的軍官之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#. ~ Profession (female Reich Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the officers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr "你是第四帝國的軍官之一，第四帝國是新英格蘭地鐵系統中一系列國家社會主義陣營的車站網絡。"
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Officer"
+msgstr "紅線軍官"
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Officer"
+msgstr "紅線軍官"
+
+#. ~ Profession (male Red Line Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the officers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的軍官之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#. ~ Profession (female Red Line Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the officers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr "你是紅線的軍官之一，紅線是新英格蘭地鐵系統中一系列共產主義陣營的車站網絡。"
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Contested Station"
+msgstr "爭議車站"
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Red Line station"
+msgstr "紅線車站"
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Reich Station"
+msgstr "帝國車站"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid "Hello, What do you want from me?"
+msgstr "你好，你想從我這裡得到什麼？"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_civ.json .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Hello, what do you want from me?"
+msgstr "你好，你想從我這裡得到什麼？"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+msgid "What's it like living as member of the Red Line?"
+msgstr "作為紅線的一員生活是怎樣的？"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\Talk_sgs_civ.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Goodbye."
+msgstr "再見。"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+msgid ""
+"Things can get pretty rough at times. I don't know what's worse, the "
+"nosalises that threaten us outside the metro, or the commissars breathing "
+"down our necks. I guess it's better than being dead, though."
+msgstr "有時情況會變得相當艱難。我不知道什麼更糟，是地鐵外威脅我們的諾薩利斯，還是那些對我們虎視眈眈的政委。不過，我想這總比死了強。"
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\Talk_sgs_civ.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Thanks for the info."
+msgstr "謝謝你的信息。"
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Hello, Miss, What do you want from me?"
+msgstr "你好，女士，你想從我這裡得到什麼？"
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+msgid "How do you serve as a soldier of the Red line?"
+msgstr "你如何作為一名紅線士兵服役？"
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+msgid ""
+"It's a duty I take with the utmost importance, there is no duty as solemn or"
+" as important as being a standard bearer of the proletarian revolution. "
+"Those Reich fascists and South Gate dogs will soon be welcomed into our "
+"fold, with blood if need be!"
+msgstr ""
+"這是我肩負的最重要的職責，沒有比作為無產階級革命的旗手更莊嚴或更重要的職責了。那些帝國法西斯和南門走狗很快就會加入我們的行列，如果需要的話，就用鮮血來迎接他們！"
+
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+msgid "What's it like living in the Reich?"
+msgstr "在帝國生活是怎樣的？"
+
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+msgid ""
+"Unlike most of the metro, things are pretty clean here. The rules are a bit "
+"too harsh at times though, and I'm often a bit fearful of the officers "
+"around here. It's hard to parse fact from fiction when it comes to this war "
+"with the reds."
+msgstr ""
+"與地鐵的大部分地方不同，這裡相當乾淨。不過規則有時有點太嚴厲了，我經常對這裡的軍官感到有點害怕。當涉及到與紅軍的這場戰爭時，很難分辨事實與虛構。"
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "Hello, Why do you think you're important enough to talk to me, woman?"
+msgstr "你好，女人，你為什麼覺得自己有資格跟我說話？"
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "Hello, Why do you think you're important enough to talk to me."
+msgstr "你好，你為什麼覺得自己有資格跟我說話。"
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "So you're an officer in the Reich? What's that like"
+msgstr "所以你是帝國的一名軍官？那感覺如何"
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid ""
+"My task weighs heavily upon me at all times, the war with the Reds, that is."
+" Managing the stations and the war at the same time can be taxing, even for "
+"us Reich specimens. But I trust that we will win this war in the end."
+msgstr ""
+"我的任務始終沉重地壓在我身上，那就是與紅軍的戰爭。同時管理車站和戰爭可能很累人，即使對我們帝國精英來說也是如此。但我相信我們最終會贏得這場戰爭。"
+
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+msgid "How do you serve as a soldier of the Reich?"
+msgstr "你如何作為一名帝國士兵服役？"
+
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+msgid ""
+"There is no higher honor than to serve as a soldier of the Reich against the"
+" hated reds. Our enemies are many, but they are all beneath us. Soon, all "
+"the stations of the metro will be within our grasp, just you wait!"
+msgstr "沒有比作為一名帝國士兵對抗可恨的紅軍更高的榮譽了。我們的敵人很多，但他們都低於我們。很快，地鐵的所有車站都將落入我們手中，你就等著瞧吧！"
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid "Reich Doctor"
+msgstr "帝國醫生"
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid "I'm a doctor."
+msgstr "我是一名醫生。"
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Do you want anything from me? I'm a bit busy being at the moment."
+msgstr "你想從我這裡得到什麼嗎？我現在有點忙。"
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid "What is it like being a doctor in this metro?"
+msgstr "在這個地鐵裡當醫生是怎樣的？"
+
+#: .\Metro\NPCs\metro_doctor.json .\UnderRail\NPCs\sgs_doctor.json
+msgid "Do you have any medical items for me?"
+msgstr "你有什麼醫療物品給我嗎？"
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Goodbye, thank you for your time."
+msgstr "再見，謝謝你的時間。"
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid ""
+"Serving the Reich can be tedious at times, very, very, very tedious. "
+"Sometimes I really do doubt myself, but the prospect of giving up when those"
+" red bastards are still out there is too much to bear."
+msgstr "為帝國服務有時可能很乏味，非常、非常、非常乏味。有時我真的懷疑自己，但當那些紅色混蛋還在外面時，放棄的前景實在難以承受。"
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Got it."
+msgstr "明白了。"
+
+#: .\Metro\NPCs\metro_redcivilian.json
+msgid "Red Line Civilian"
+msgstr "紅線平民"
+
+#: .\Metro\NPCs\metro_redcivilian.json
+msgid "A typical citizen of the Red Line."
+msgstr "一個典型的紅線公民。"
+
+#: .\Metro\NPCs\metro_redguard.json .\ticketcards\red_spawncard.json
+msgid "Red Line Soldier"
+msgstr "紅線士兵"
+
+#: .\Metro\NPCs\metro_redguard.json .\Metro\NPCs\metro_reichheavy.json
+#: .\Metro\NPCs\metro_reichsoldier.json .\UnderRail\NPCs\sgs_guard.json
+#: .\UnderRail\NPCs\sgs_heavy_guard.json .\ticketcards\red_spawncard.json
+#: .\ticketcards\reich_spawncard.json
+msgid "Protects the station from assailants"
+msgstr "保護車站免受襲擊者侵害"
+
+#: .\Metro\NPCs\metro_redmerchant.json
+msgid "Red Line Merchant"
+msgstr "紅線商人"
+
+#: .\Metro\NPCs\metro_redmerchant.json .\Metro\NPCs\metro_reichmerchant.json
+msgid "I'm a merchant."
+msgstr "我是一名商人。"
+
+#: .\Metro\NPCs\metro_redmerchant.json .\Metro\NPCs\metro_reichmerchant.json
+msgid "Do you have anything for me to buy?"
+msgstr "你有什麼東西可以賣給我嗎？"
+
+#: .\Metro\NPCs\metro_redmerchant.json
+msgid ""
+"Resources are tight, but we have more stuff than the reich. That much I can "
+"say with certainty."
+msgstr "資源緊張，但我們的東西比帝國多。這一點我可以肯定地說。"
+
+#: .\Metro\NPCs\metro_reichciv.json
+msgid "Reich Civilian"
+msgstr "帝國平民"
+
+#: .\Metro\NPCs\metro_reichciv.json
+msgid "A typical citizen of the 4th Reich."
+msgstr "一個典型的第四帝國公民。"
+
+#: .\Metro\NPCs\metro_reichheavy.json
+msgid "Reich Heavy Soldier"
+msgstr "帝國重裝士兵"
+
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid "Reich Merchant"
+msgstr "帝國商人"
+
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid ""
+"Resources are tight, but we're better equipped than the reds. That much I "
+"can say with certainty."
+msgstr "資源緊張，但我們的裝備比紅軍好。這一點我可以肯定地說。"
+
+#: .\Metro\NPCs\metro_reichoff.json
+msgid "Reich Officer"
+msgstr "帝國軍官"
+
+#: .\Metro\NPCs\metro_reichoff.json
+msgid "An officer of the 4th Reich."
+msgstr "第四帝國的一名軍官。"
+
+#: .\Metro\NPCs\metro_reichsoldier.json .\ticketcards\reich_spawncard.json
+msgid "Reich Soldier"
+msgstr "帝國士兵"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "communist officer's hat"
+msgid_plural "communist officer's hats"
+msgstr[0] "共產主義軍官帽"
+
+#. ~ Description for {'str': "communist officer's hat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"The only hat for a man of the proletarian revolution. Shoot dissidents, "
+"reich fascists, dissidents and fascist dissidents disguised as civilians, "
+"and look great doing it!"
+msgstr "無產階級革命者的專屬帽子。用它來射殺異見分子、帝國法西斯分子、偽裝成平民的異見分子和法西斯異見分子，同時保持帥氣風範！"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "communist officer's coat"
+msgid_plural "communist officer's coats"
+msgstr[0] "共產主義軍官外套"
+
+#. ~ Description for {'str': "communist officer's coat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A thick leather jacket.  Protects against the cold of the metro when the "
+"warmth of the revolutionary spirit isn't enough."
+msgstr "一件厚實的皮夾克。當革命精神的熱忱不足以抵禦地鐵的嚴寒時，它能提供保護。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Red Line combat vest"
+msgid_plural "Red Line combat vest"
+msgstr[0] "紅線戰鬥背心"
+
+#. ~ Use action holster_msg for {'str_sp': 'Red Line combat vest'}.
+#. ~ Use action holster_msg for {'str_sp': '4th Reich combat vest'}.
+#. ~ Use action holster_msg for {'str_sp': 'South Gate Station security
+#. vest'}.
+#: .\Metro\metro_armor\metro_armor.json
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "You stash your %s."
+msgstr "你藏起了你的%s。"
+
+#. ~ Use action holster_prompt for {'str_sp': 'Red Line combat vest'}.
+#. ~ Use action holster_prompt for {'str_sp': '4th Reich combat vest'}.
+#. ~ Use action holster_prompt for {'str_sp': 'South Gate Station security
+#. vest'}.
+#: .\Metro\metro_armor\metro_armor.json
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Stash ammo"
+msgstr "藏匿彈藥"
+
+#. ~ Description for {'str_sp': 'Red Line combat vest'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A combat vest found in common use amongst the many soldiers of the red line."
+" Relatively cheap to make, its low encumberance comes at the cost of having "
+"relatively little ballistic protection."
+msgstr "紅線眾多士兵中普遍使用的戰鬥背心。製作相對廉價，其低負重性以較弱的彈道防護為代價。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Soviet flag"
+msgid_plural "Soviet flags"
+msgstr[0] "蘇聯國旗"
+
+#. ~ Description for {'str': 'Soviet flag'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid "A large Soviet flag made to fly in even the worst conditions."
+msgstr "一面大型蘇聯國旗，即使在最惡劣的條件下也能飄揚。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Red Line Ushanka"
+msgid_plural "Red Line Ushankas"
+msgstr[0] "紅線烏沙帽"
+
+#. ~ Description for {'str': 'Red Line Ushanka'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A hat made from the pelts of animals.  Extremely warm. Often worn by the "
+"citizens of the Red Line."
+msgstr "用動物毛皮製成的帽子。極其保暖。常被紅線公民佩戴。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich officer's hat"
+msgid_plural "4th Reich officer's hats"
+msgstr[0] "第四帝國軍官帽"
+
+#. ~ Description for {'str': "4th Reich officer's hat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"Few can be deemed pure enough to be allowed entry into the Reich Stations. "
+"Even fewer can become officers with an inflated sense of self importance."
+msgstr "很少有人能被認定足夠純潔以獲准進入帝國車站。更少人能成為軍官，並懷有膨脹的自我重要感。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich Formal Jacket"
+msgid_plural "4th Reich Formal Jackets"
+msgstr[0] "第四帝國正式夾克"
+
+#. ~ Description for {'str': '4th Reich Formal Jacket'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"An authoritative-looking jacket outfitted with a 4th Reich Armband. Common "
+"amongst the higher ranking members of the 4th Reich stations."
+msgstr "一件外觀威嚴的夾克，配有第四帝國臂章。常見於第四帝國車站的高級成員中。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich combat vest"
+msgid_plural "4th Reich combat vest"
+msgstr[0] "第四帝國戰鬥背心"
+
+#. ~ Description for {'str_sp': '4th Reich combat vest'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A combat vest found in common use amongst the well-trained, but somewhat "
+"rare, members of the 4th Reich stations. Offers a relatively decent amount "
+"of protection, at the cost of increased encumbrance."
+msgstr "第四帝國車站訓練有素但較為稀少的成員中普遍使用的戰鬥背心。提供相對不錯的防護，代價是增加負重。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich flag"
+msgid_plural "4th Reich flags"
+msgstr[0] "第四帝國國旗"
+
+#. ~ Description for {'str': '4th Reich flag'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid "A large Reich flag made to fly in even the worst conditions."
+msgstr "一面大型帝國國旗，即使在最惡劣的條件下也能飄揚。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich Heavy Armor"
+msgid_plural "4th Reich Heavy Armors"
+msgstr[0] "第四帝國重型護甲"
+
+#. ~ Description for {'str': '4th Reich Heavy Armor'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"Found only amongst the rarest of the rare Reich troops, this armor portends "
+"doom for those of the Red Line who come across it. Outfitted with thick "
+"metal plates, this armor is rather heavy."
+msgstr "僅在極罕見的帝國部隊中發現，這件護甲預示著紅線成員遭遇它時的厄運。配備厚金屬板，相當沉重。"
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Reich Stahlhelm"
+msgid_plural "Reich Stahlhelms"
+msgstr[0] "帝國鋼盔"
+
+#. ~ Description for {'str': 'Reich Stahlhelm'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A heavy steel helmet that provides excellent protection from all sorts of "
+"damage.  How exactly people forced to live in the New England Metro got a "
+"hold of these seemingly geniune articles is one of the great many mysteries "
+"of the Cataclysm."
+msgstr "一頂重型鋼盔，提供出色的全方位傷害防護。被迫生活在新英格蘭地鐵的人們如何獲得這些看似真品的頭盔，是大災變的眾多謎團之一。"
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "lolife magazine"
+msgid_plural "lolife magazines"
+msgstr[0] "洛萊夫彈匣"
+
+#. ~ Description for {'str': 'lolife magazine'}
+#. ~ Description for {'str': 'lolife extended magazine'}
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid ""
+"A somehwat crude metal magazine for use with the common lolife pistol of the"
+" metro."
+msgstr "一個略顯粗糙的金屬彈匣，用於地鐵常見的洛萊夫手槍。"
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "lolife extended magazine"
+msgid_plural "lolife extended magazines"
+msgstr[0] "洛萊夫擴容彈匣"
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "Lolife"
+msgid_plural "Lolife"
+msgstr[0] "洛萊夫"
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid ""
+"The Lolife is a metro-made semi-automatic handgun with a standard eight-"
+"round magazine chambered in .44 Magnum. As the Lolife is a metro-made "
+"weapon, it has very little known history. It appears that Lolife has been "
+"produced since at least 2023."
+msgstr ""
+"洛萊夫是一款地鐵製造的半自動手槍，標準八發彈匣，口徑為.44馬格南。由於是地鐵製造的武器，其歷史鮮為人知。似乎至少從2023年起就開始生產洛萊夫。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Bastard magazine"
+msgid_plural "Bastard magazines"
+msgstr[0] "雜種卡賓槍彈匣"
+
+#. ~ Description for {'str': 'Bastard magazine'}
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "A crude magazine for the bastard carbine.  Holds 30 rounds."
+msgstr "雜種卡賓槍的粗糙彈匣，可容納30發子彈。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Kalash 2012 magazine"
+msgid_plural "Kalash 2012 magazines"
+msgstr[0] "卡拉什2012彈匣"
+
+#. ~ Description for {'str': 'Kalash 2012 magazine'}
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"A standard magazine made for the Kalash 2012 rifle, made entirely of a "
+"complex polymer.  Holds 40 rounds."
+msgstr "為卡拉什2012步槍製造的標準彈匣，完全由複雜聚合物製成，可容納40發子彈。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Bastard"
+msgid_plural "Bastards"
+msgstr[0] "雜種卡賓槍"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"The Bastard was one of the first Metro-made weapons. It is considerably "
+"cheaper to make and maintain than other guns, needing relatively few parts "
+"to create, making it ideal for weaponsmiths with few resources. This gun, "
+"like most, has its ups and downs. It has a high rate of fire and holds 30 "
+"rounds of ammunition, but fares poorly for sniping due to very poor accuracy"
+" beyond a few yards."
+msgstr ""
+"雜種卡賓槍是地鐵最早製造的武器之一。與其他槍支相比，它的製造和維護成本要低得多，只需相對較少的零件即可製造，因此非常適合資源有限的武器匠。這把槍像大多數武器一樣，有其優缺點。它射速高，可容納30發彈藥，但由於幾碼外的精度極差，不適合狙擊。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "auto"
+msgstr "自動"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Kalash 2012"
+msgid_plural "Kalash 2012s"
+msgstr[0] "卡拉什2012"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"Kalash 2012 is one of the weapons in the Metro that predates the war and it "
+"is highly prized. It's advanced polymer frame is rather unusual for Russian "
+"weapons, but it seems to make a good account of itself."
+msgstr "卡拉什2012是地鐵中戰前就存在的武器之一，備受珍視。其先進的聚合物槍身對於俄羅斯武器來說相當不尋常，但似乎表現不俗。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "2 rd."
+msgstr "2發。"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "shambler"
+msgid_plural "shamblers"
+msgstr[0] "蹣跚者"
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"A shotgun modified to use a revolver cylinder mechanism, it can hold 6 "
+"cartridges. Common among the denizens of the metro, and packs quite a punch."
+msgstr "一種改裝為使用轉輪彈巢機構的霰彈槍，可容納6發彈藥。在地鐵居民中很常見，威力十足。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round"
+msgid_plural "5mm Standard Rounds"
+msgstr[0] "5毫米標準彈"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round"
+msgid_plural "8.6mm Standard Rounds"
+msgstr[0] "8.6毫米標準彈"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "Standard acid charge"
+msgstr "標準酸液裝藥"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "Acid vial"
+msgid_plural "Acid vials"
+msgstr[0] "酸液瓶"
+
+#. ~ Description for {'str': 'Acid vial'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A small glass vial containing a pre-measured charge of caustic acid. Be "
+"careful!"
+msgstr "一個小玻璃瓶，內含預先測量好的腐蝕性酸液。小心！"
+
+#. ~ Description for {'str': '5mm Standard Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail."
+msgstr "一種5毫米彈藥，常見於地鐵下層軌道普遍使用的低威力槍械。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round, reloaded"
+msgid_plural "5mm Standard Round, reloadeds"
+msgstr[0] "5毫米標準彈，復裝"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round, black powder"
+msgid_plural "5mm Standard Round, black powders"
+msgstr[0] "5毫米標準彈，黑火藥"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round JHP"
+msgid_plural "5mm Standard Round JHPs"
+msgstr[0] "5毫米標準彈JHP"
+
+#. ~ Description for {'str': '5mm Standard Round JHP'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail. This variant features jacketed hollow point bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr "一種5毫米彈藥，常見於地鐵下層軌道普遍使用的低威力槍械。此變種採用被甲空尖彈代替常規子彈，增加了停止力。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm W2C Round"
+msgid_plural "5mm W2C Rounds"
+msgstr[0] "5毫米W2C彈"
+
+#. ~ Description for {'str': '5mm W2C Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail. This variant features tungsten carbide bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr "一種5毫米彈藥，常見於地鐵下層軌道普遍使用的低威力槍械。此變種採用碳化鎢彈代替常規子彈，增加了停止力。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm standard round casing"
+msgid_plural "5mm standard round casings"
+msgstr[0] "5毫米標準彈彈殼"
+
+#. ~ Description for {'str': '5mm standard round casing'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty casing from a 5mm standard round."
+msgstr "5毫米標準彈的空彈殼。"
+
+#. ~ Description for {'str': '8.6mm Standard Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"An 8.6mm cartridge commonly seen in usage with high-power firearms common in"
+" the underrail."
+msgstr "一種8.6毫米彈藥，常見於地鐵下層軌道普遍使用的高威力槍械。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round, reloaded"
+msgid_plural "8.6mm Standard Round, reloadeds"
+msgstr[0] "8.6毫米標準彈，復裝"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round, black powder"
+msgid_plural "8.6mm Standard Round, black powders"
+msgstr[0] "8.6毫米標準彈，黑火藥"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round JHP"
+msgid_plural "8.6mm Standard Round JHPs"
+msgstr[0] "8.6毫米標準彈JHP"
+
+#. ~ Description for {'str': '8.6mm Standard Round JHP'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 8.6mm cartridge commonly seen in usage with high-power firearms common in "
+"the underrail. This variant features jacketed hollow point bullet in-lieu of"
+" a conventional bullet, increasing stopping power."
+msgstr "一種8.6毫米彈藥，常見於地鐵下層軌道普遍使用的高威力槍械。此變種採用被甲空尖彈代替常規子彈，增加了停止力。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm W2C Round"
+msgid_plural "8.6mm W2C Rounds"
+msgstr[0] "8.6毫米W2C彈"
+
+#. ~ Description for {'str': '8.6mm W2C Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"An 8.6mm cartridge commonly seen in usage with high-power firearms common in"
+" the underrail. This variant features tungsten carbide bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr "一種8.6毫米彈藥，常見於地下鐵路中高威力火器的使用。此型號採用碳化鎢彈頭替代常規子彈，增強了制止力。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm standard round casing"
+msgid_plural "8.6mm standard round casings"
+msgstr[0] "8.6毫米標準彈殼"
+
+#. ~ Description for {'str': '8.6mm standard round casing'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty casing from a 8.6mm standard round."
+msgstr "一枚8.6毫米標準彈的空彈殼。"
+
+#: .\UnderRail\sgs_ammo.json
+msgid "empty acid vial"
+msgid_plural "empty acid vials"
+msgstr[0] "空酸液瓶"
+
+#. ~ Description for {'str': 'empty acid vial'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty vial from an acid pistol."
+msgstr "來自酸液手槍的空瓶。"
+
+#: .\UnderRail\sgs_items.json
+msgid "South Gate Station credit chit"
+msgid_plural "South Gate Station credit chits"
+msgstr[0] "南門站信用芯片"
+
+#. ~ Description for {'str': 'South Gate Station credit chit'}
+#: .\UnderRail\sgs_items.json
+msgid ""
+"A small stamped circuit containing a pre-set amount of South Gate credits, "
+"popular in the underrail and quite valuable."
+msgstr "一種小型壓印電路，內含預設數量的南門站信用點，在地下鐵路中很受歡迎且價值不菲。"
+
+#: .\UnderRail\sgs_mobs.json
+msgid "psi beetle"
+msgid_plural "psi beetles"
+msgstr[0] "靈能甲蟲"
+
+#. ~ Description for {'str': 'psi beetle'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Azuridae are mutated and enlarged insects that resemble Rhinoceros beetles, "
+"instead of horns though, they have massive brains that they use to power "
+"their psionic abilities. Azuridae are so called due to the azure hue on "
+"their carapace. Their psionic powers have granted them nicknames such as psi"
+" beetle and psi bug by residents of the Underrail."
+msgstr ""
+"藍甲蟲是變異並放大的昆蟲，形似犀牛甲蟲，但它們沒有角，而是擁有巨大的大腦，用以驅動其靈能能力。因其甲殼上的天藍色調而得名。它們的靈能力量使地下鐵路居民給它們起了諸如“靈能甲蟲”和“靈能蟲”的綽號。"
+
+#: .\UnderRail\sgs_mobs.json
+msgid "underrail crawler"
+msgid_plural "underrail crawlers"
+msgstr[0] "地下鐵路爬行者"
+
+#. ~ Description for {'str': 'underrail crawler'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Crawlers live in dark places, both ruins and caves and haunt the nightmares "
+"of Underrail and metro denizens alike. They look like pony-sized black "
+"scorpions. Beware if you find one, for the few moments of your life left to "
+"you might be brief."
+msgstr ""
+"爬行者棲息在黑暗之處，無論是廢墟還是洞穴，它們縈繞在地下鐵路和地鐵居民的噩夢中。它們看起來像小馬大小的黑色蠍子。如果你發現一隻，請小心，因為你剩下的生命可能很短暫。"
+
+#: .\UnderRail\sgs_mobs.json
+msgid "nosalis"
+msgid_plural "nosaliss"
+msgstr[0] "諾薩利斯"
+
+#. ~ Description for {'str': 'nosalis'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Nosalises are the standard enemy of the metro. They are fierce predators, "
+"extremely territorial, and can easily overwhelm fortified positions in large"
+" numbers. Common between all types however, is a bipedal and humanoid shape "
+"with two arms and legs, arched spines, and large round heads that "
+"prominently display big noses, gaping jaws, and huge teeth. Their nests are "
+"seemingly everywhere in the metro, but the creatures are less frequently "
+"seen on the surface."
+msgstr ""
+"諾薩利斯是地鐵中的標準敵人。它們是兇猛的掠食者，極具領地意識，數量眾多時能輕易壓倒防禦陣地。所有類型的共同特徵是雙足人形，擁有雙臂雙腿、拱起的脊柱，以及突出顯示大鼻子、張開的下顎和巨大牙齒的大圓頭。它們的巢穴似乎遍佈地鐵各處，但在地表較少見到這些生物。"
+
+#: .\UnderRail\sgs_terrain.json
+msgid "glow wort"
+msgstr "發光苔蘚"
+
+#. ~ Description for glow wort
+#: .\UnderRail\sgs_terrain.json
+msgid ""
+"A bio-lumiscent mushroom that emits a low level of light as part of its "
+"biological process."
+msgstr "一種生物發光蘑菇，作為其生物過程的一部分，會發出低水平的光。"
+
+#: .\UnderRail\sgs_terrain.json
+msgid "SMASH!"
+msgstr "砰！"
+
+#: .\UnderRail\sgs_terrain.json
+msgid "flaming barrel"
+msgstr "燃燒桶"
+
+#. ~ Description for flaming barrel
+#: .\UnderRail\sgs_terrain.json
+msgid ""
+"A perforated barrel filled with some kind of combusting fuel to give light "
+"to people around it."
+msgstr "一個穿孔的桶，裝滿某種燃燒燃料，為周圍的人們提供光亮。"
+
+#: .\UnderRail\sgs_terrain.json
+msgid "electric lamp"
+msgstr "電燈"
+
+#. ~ Description for electric lamp
+#: .\UnderRail\sgs_terrain.json
+msgid "A simple electric lamp that emits energy via an electric current."
+msgstr "一個簡單的電燈，通過電流釋放能量。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Can't you see that I'm busy? whatever you wan't make sure it's important."
+msgstr "沒看見我正忙著嗎？不管你想要什麼，確保它很重要。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"How do you perform the job of being a councilor for South Gate station??"
+msgstr "你如何履行南門站議員的職責？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Do you have a task for me?"
+msgstr "你有任務給我嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"South Gate Station is led primarily by councilors. We are a small number of "
+"people that comprise the ruling council of South Gate Station. Without our "
+"guidance, the administration, engineering, life support, trade and security "
+"of the entire SGS complex would probably fall into disarray."
+msgstr ""
+"南門站主要由議員領導。我們是一小群人，組成了南門站的統治議會。沒有我們的指導，整個南門站綜合體的行政、工程、生命支持、貿易和安全可能會陷入混亂。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Deal with the infestation"
+msgstr "處理蟲害"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"I know you're a bit new to the Underrail, but an infestation has come to our"
+" attention near South Gate Station, and I want you to deal with it."
+msgstr "我知道你對地下鐵路還不太熟悉，但我們注意到南門站附近出現了蟲害，我希望你去處理它。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Get to it, you know how infestations can get if we don't act quickly."
+msgstr "快去處理，你知道如果我們不迅速行動，蟲害會變得多嚴重。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Hm, I guess I'll just get one of the guards to deal with them!"
+msgstr "嗯，我想我還是讓一個守衛去處理它們吧！"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Remember, Psibugs can induce a state of fear in their targets, please be "
+"careful."
+msgstr "記住，靈能蟲能在目標身上誘發恐懼狀態，請小心。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Has the infestation been dealt with?"
+msgstr "蟲害處理好了嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Great work, you've done South Great Station a great service."
+msgstr "幹得好，你為南門站立了大功。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "I'm not entirely sure if you're telling the truth, but alright."
+msgstr "我不完全確定你說的是真話，但好吧。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "So the infestation isn't being dealt with?"
+msgstr "那麼蟲害還沒有被處理嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Kill Underrail Bandits"
+msgstr "消滅地下鐵路強盜"
+
+#. ~ Description for mission '{'str': 'Kill Underrail Bandits'}'
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"A group of bandits have taken up a position near South Gate Station, find "
+"them and kill them for us."
+msgstr "一夥強盜在南門車站附近佔據了據點，找到他們並替我們幹掉他們。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"I need your help again, some bandits have set up camp near our station, and "
+"extoring local travellers for their property. We need you to deal with it."
+msgstr "我又需要你的幫助了，一些強盜在我們的車站附近紮營，向當地旅客勒索財物。我們需要你去處理一下。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Be sure to kill those people as soon as possible."
+msgstr "務必儘快幹掉那些人。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Laziness of your caliber is rare, perhaps you're no better than the scum out"
+" on the Underrail."
+msgstr "像你這種程度的懶惰可不多見，也許你跟地鐵裡的那些渣滓沒什麼兩樣。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Don't underestimate these people, they're more robust than you think."
+msgstr "別小看這些人，他們比你想象的要強悍得多。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Are they dead yet?"
+msgstr "他們死了嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"South Gate Station is made safer by your efforts. Here, take these items as "
+"a reward"
+msgstr "多虧了你的努力，南門車站變得更安全了。來，把這些東西當作獎勵拿去吧。"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "What good does this do us?"
+msgstr "這對我們有什麼好處？"
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Alright, at least you tried."
+msgstr "好吧，至少你嘗試過了。"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "What do you want, why are you speaking to me anyway, girl?"
+msgstr "你想幹嘛，小姑娘，你到底為什麼要跟我說話？"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "What do you want, why are you speaking to me anyway?"
+msgstr "你想幹嘛，你到底為什麼要跟我說話？"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid ""
+"What's it like being a ruthless bandit, do you get the kill people often?"
+msgstr "當個冷酷無情的強盜是什麼感覺，你經常殺人嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "See you later."
+msgstr "回頭見。"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid ""
+"Killing people? Have you been watching too many video tapes or something? "
+"The criminal life isn't easy, friend, most of us barely get by. Sure, "
+"assaulting random people for their stuff can be fun, but we're more than "
+"just that."
+msgstr ""
+"殺人？你是不是錄像帶看多了還是怎麼的？犯罪生活可不容易，朋友，我們大多數人勉強餬口而已。當然，隨機襲擊路人搶東西可能挺有趣，但我們不止幹這個。"
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "I see."
+msgstr "我明白了。"
+
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid "What's it like living as member of South Gate Station?"
+msgstr "作為南門車站的一員生活是怎樣的？"
+
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid ""
+"What is there to say really? It's far better than getting mauled to death by"
+" whatever exists outside or on the surface world. Food is somewhat "
+"plentiful, and things are clean."
+msgstr "這有什麼好說的呢？總比在外面或地表世界被什麼東西撕成碎片強多了。食物還算充足，環境也乾淨。"
+
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "How do you serve as a soldier for South Gate Station?"
+msgstr "你是如何為南門車站當兵的？"
+
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid ""
+"It can be difficult at times, but it's better than being some pipe-worker "
+"who gets stabbed by a nightstalker out of nowhere.."
+msgstr "有時可能挺難的，但總比當個管道工，莫名其妙被夜行者捅死強。"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Heya, Missy what's a girl like you doing around here? *burps*"
+msgstr "嘿，小姐，像你這樣的姑娘在這兒幹嘛呢？*打嗝*"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Howdy partner, what are you doing moseying?"
+msgstr "你好啊夥計，你在這兒溜達什麼呢？"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "What's your deal anyway, buddy?"
+msgstr "你到底想幹嘛，老兄？"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json .\ticketcards\red_talk_spawncard.json
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Want to travel with me?"
+msgstr "想跟我一起旅行嗎？"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid ""
+"MY deal? What's YOUR deal? You walk up to me and start asking inane "
+"questions to every person you meet and you think we're always going to be "
+"kind to you? How about some manners you cave hopper-brained imbecile."
+msgstr "我想幹嘛？你想幹嘛？你走過來，見人就問些無聊的問題，還以為我們總會對你客客氣氣？懂點禮貌行嗎，你這個洞穴跳鼠腦子的白痴。"
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Okay, jeez."
+msgstr "好吧，天哪。"
+
+#: .\UnderRail\NPCs\sgs_administrator.json
+msgid "South Gate Councilor"
+msgstr "南門車站議員"
+
+#: .\UnderRail\NPCs\sgs_administrator.json
+msgid "A councilor of South gate station."
+msgstr "南門車站的一位議員。"
+
+#: .\UnderRail\NPCs\sgs_bandit.json
+msgid "Underrail bandit"
+msgstr "地鐵強盜"
+
+#: .\UnderRail\NPCs\sgs_bandit.json
+msgid "Assaults denizens of the underrail and nabs their loot."
+msgstr "襲擊地鐵居民並搶奪他們的戰利品。"
+
+#: .\UnderRail\NPCs\sgs_civilian.json
+msgid "South Gate Civilian"
+msgstr "南門平民"
+
+#: .\UnderRail\NPCs\sgs_civilian.json
+msgid "A typical citizen of South Gate Station."
+msgstr "南門車站的一位典型居民。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "South Gate Cook"
+msgstr "南門車站廚師"
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "I'm a local shopkeeper."
+msgstr "我是本地店主。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "What is it like being a cook in this station?"
+msgstr "在這個站點當廚師感覺如何？"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Could I get any food?"
+msgstr "我能弄點吃的嗎？"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"I truly love my job around here. Sure the food might be pretty basic: a few "
+"selections of cavehopper meat and farmed potatoes, but it never gets old "
+"seeing the look on people's faces when they eat this slop."
+msgstr "我真的很喜歡我在這兒的工作。當然，食物可能很簡單：幾種洞穴跳鼠肉和種植的土豆，但看到人們吃這玩意兒時的表情，這種感覺永遠不會過時。"
+
+#. ~ Description for mission '{'str': 'Retrieve a copy of Cooking on a
+#. Budget.'}'
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Retrieve a copy of Cooking on a Budget."
+msgstr "取回一本《預算烹飪》的副本。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"I'll let you in on a little secret, well perhaps it's not very little. I'm "
+"not a very good cook and I think people are starting to become aware of "
+"that, could you help me out by finding me a cookbook, it would be a great "
+"help."
+msgstr "我告訴你一個小秘密，嗯，也許這秘密不算小。我廚藝不精，而且我覺得大家開始察覺到了，你能幫我找本烹飪書嗎？那會幫上大忙的。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Help me find a copy of the book 'Cooking on a Budget'. I'm not a very good "
+"cook, and I could use the knowledge contained within that text."
+msgstr "幫我找一本《預算烹飪》的書。我廚藝不太好，那本書裡的知識應該能派上用場。"
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+msgid "Thanks for accepting my offer."
+msgstr "感謝你接受我的提議。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Ouch, I guess people are gonna have to get used to cave hopper burgers for a"
+" long while."
+msgstr "哎喲，看來大家得習慣洞穴跳鼠漢堡很長一段時間了。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Libraries, Schools and Homes might have a cookbook or two, see what you can "
+"find."
+msgstr "圖書館、學校和住宅裡可能有一兩本烹飪書，看看你能找到什麼。"
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Have you found what I requested yet?"
+msgstr "你找到我要的東西了嗎？"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Great work, I'll become a master chef in no time."
+msgstr "幹得好，我很快就能成為大廚了。"
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "That's odd, I don't really know what to say."
+msgstr "真奇怪，我都不知道該說什麼了。"
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Well, you did what you could. It's just that food will be as bland as ever."
+msgstr "好吧，你盡力了。只是食物還是會像以前一樣寡淡無味。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "South Gate Doctor"
+msgstr "南門醫生"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "What is it like being a doctor in this station?"
+msgstr "在這個站點當醫生感覺如何？"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"It's actually pretty easy, all things considered. Most of the time people "
+"come back with little more than a few cave hopper scratches. Watch out for "
+"nighstalkers though, they can be pretty nasty."
+msgstr "說實話，考慮到所有情況，這其實挺簡單的。大多數時候人們回來時都只帶著幾道洞穴跳鼠的抓痕。不過要小心夜行者，它們可能相當棘手。"
+
+#. ~ Description for mission '{'str': 'Retrieve a syringe of adrenaline.'}'
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Retrieve a syringe of adrenaline."
+msgstr "取回一支腎上腺素注射器。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Look, I'm a bit busy here, but I think you could help me out here. I fear "
+"that more skirmishes with other stations are on the horizon, and its "
+"imperative that we prepare for any eventuality. Would you be willing to get "
+"me an adrenaline syringe?"
+msgstr ""
+"聽著，我這兒有點忙，但我覺得你能幫上忙。我擔心與其他站點的衝突即將爆發，我們必須為任何可能發生的情況做好準備。你願意幫我弄一支腎上腺素注射器嗎？"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Would you be willing to get me an adrenaline syringe? I think the troops out"
+" in the Underrail would greatly appreciate it."
+msgstr "你願意幫我弄一支腎上腺素注射器嗎？我想地下鐵路的士兵們會非常感激的。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "That's unfortunate."
+msgstr "真遺憾。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Look for doctor's officers and hospitals on the surface, you'll probably "
+"find some there."
+msgstr "去地面的醫生辦公室和醫院找找，那裡可能有一些。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Great work, this adrenaline will be useful."
+msgstr "幹得好，這腎上腺素會很有用的。"
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Well, you did what you could. but it's unfortunate that we'll be lacking "
+"adrenaline."
+msgstr "好吧，你已經盡力了。但遺憾的是，我們將缺少腎上腺素了。"
+
+#: .\UnderRail\NPCs\sgs_guard.json
+msgid "South Gate Guard"
+msgstr "南門站守衛"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "South Gate Gun Merchant"
+msgstr "南門槍械商人"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "South Gate Gun merchant"
+msgstr "南門槍械商人"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "What are you buying, what are you selling?"
+msgstr "你想買什麼，賣什麼？"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "What is it like being a gun merchant around here?"
+msgstr "在這附近當槍械商人感覺如何？"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Would you be willing to let me buy anything?"
+msgstr "你願意讓我買點東西嗎？"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"You would be surprised at the amount of business we get, even all the way "
+"down here in a subway. I guess it pays to be a safe-haven in an unsafe "
+"world. A lot of people are pretty confused by our guns though, it's like "
+"they've never seen them before."
+msgstr ""
+"你會驚訝於我們這裡的生意有多好，即使是在地鐵這麼深的地方。我想，在一個不安全的世界裡，成為一個安全港是值得的。不過很多人對我們的槍感到困惑，就好像他們以前從未見過似的。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Retrieve two firearm repair kits"
+msgstr "取回兩個槍械維修工具包"
+
+#. ~ Description for mission '{'str': 'Retrieve two firearm repair kits'}'
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Retrieve two firearm repair kits for the Gun Merchant."
+msgstr "為槍械商人取回兩個槍械維修工具包。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I've been running low on gun repair kits. It seems like conflict with other "
+"stations has flared up again recently, and we're quickly running through "
+"supplies. We'll reach a maintenance bottleneck soon, and we can't afford to "
+"have that happen."
+msgstr "我的槍械維修工具包快用完了。最近似乎與其他站點的衝突又激化了，我們的物資消耗得很快。很快我們就會面臨維護瓶頸，我們可承擔不起這種情況。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I would appreciate it greatly if you could get me two firearm repair kits, "
+"if that's not too much to ask."
+msgstr "如果你能給我弄兩個槍械維修工具包，我將不勝感激，如果這要求不算太過分的話。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I thank you for accepting this, now make it quick, we don't have time to "
+"spare."
+msgstr "感謝你接受這個任務，現在動作快點，我們沒有多餘的時間了。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"That's unfortunate, but I guess I'll have to find some way to make things "
+"work out."
+msgstr "那真遺憾，但我想我得想辦法解決這個問題。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Gun stores on the surface probably have firearm repair kits, perhaps you "
+"could even make one yourself if you know enough."
+msgstr "地面的槍店可能有槍械維修工具包，如果你懂得足夠多，或許甚至可以自己做一個。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Great work, things in South Gate just got a little safer thanks to you."
+msgstr "幹得好，多虧了你，南門的情況稍微安全了一些。"
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Well, you did what you could. It's just that things will get more difficult "
+"fron now on."
+msgstr "好吧，你已經盡力了。只是從現在開始，事情會變得更困難。"
+
+#: .\UnderRail\NPCs\sgs_heavy_guard.json
+msgid "South Gate Heavy Guard"
+msgstr "南門重裝守衛"
+
+#: .\UnderRail\NPCs\sgs_pipeworker.json
+msgid "Pipeworker"
+msgstr "管道工"
+
+#: .\UnderRail\NPCs\sgs_pipeworker.json
+msgid "A pipeworker."
+msgstr "一名管道工。"
+
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "South Gate Outpost"
+msgstr "南門前哨站"
+
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "Underrail Cave"
+msgstr "地下鐵路洞穴"
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "South Gate Station Security Uniform"
+msgid_plural "South Gate Station Security Uniform"
+msgstr[0] "南門站安保制服"
+
+#. ~ Description for {'str_sp': 'South Gate Station Security Uniform'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"The standard and uniformly dull blue uniform worn by most members of the "
+"South Gate Station security detail. Often associated with bravery, or a "
+"quick death."
+msgstr "南門站安保人員普遍穿著的標準且單調的藍色制服。常與英勇或快速死亡聯繫在一起。"
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Cave Hopper Leather Armor"
+msgid_plural "Cave Hopper Leather Armor"
+msgstr[0] "洞穴跳躍者皮甲"
+
+#. ~ Description for {'str_sp': 'Cave Hopper Leather Armor'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A rather lightweight armor protecting user's vital torso area, in addition "
+"to some arm protection. This armor is made of cave hopper leather. ."
+msgstr "一種相當輕便的護甲，保護使用者軀幹要害區域，並提供部分手臂防護。此護甲由洞穴跳躍者皮革製成。"
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "South Gate Station security vest"
+msgid_plural "South Gate Station security vest"
+msgstr[0] "南門站安保背心"
+
+#. ~ Description for {'str_sp': 'South Gate Station security vest'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A nylon vest equipped with several pouches for magazine and ammunition "
+"storage. Comes pre-equipped with several light ballistic plates that provide"
+" a small modicum of protection."
+msgstr "一件尼龍背心，配備多個用於存放彈匣和彈藥的袋子。預裝數塊輕型防彈板，提供少量防護。"
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Underrail Metal Armor"
+msgid_plural "Underrail Metal Armors"
+msgstr[0] "地下鐵路金屬護甲"
+
+#. ~ Description for {'str': 'Underrail Metal Armor'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"Near all-encompasing suit of metal armor. Outfitted with enough steel plates"
+" to cover the overwhelming majority of the user's body. Its immense "
+"protection comes with a drawback: its immense weight and incumberence for "
+"all but strong users."
+msgstr "幾乎覆蓋全身的金屬護甲。配備足夠鋼板以覆蓋使用者絕大部分身體。其強大的防護力伴隨缺點：極重，除強壯者外均感笨重。"
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Underrail metal helmet"
+msgid_plural "Underrail metal helmets"
+msgstr[0] "地下鐵路金屬頭盔"
+
+#. ~ Description for {'str': 'Underrail metal helmet'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A helmet made from plates of steel with a visor of ballistic glass. Made for"
+" use in tandem with underrail metal armor."
+msgstr "由鋼板製成、配有防彈玻璃面罩的頭盔。設計用於與地下鐵路金屬護甲搭配使用。"
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid "Zephyr crossbow"
+msgid_plural "Zephyr crossbows"
+msgstr[0] "西風弩"
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid ""
+"A light crossbow common amongst the more poor denizens of the underrail.  "
+"Stronger people can reload it much faster.  Bolts fired from this weapon "
+"have a good chance of remaining intact for re-use. Why one would use these "
+"instead of firearms is unknown, but many swear by them."
+msgstr ""
+"地下鐵路較貧困居民中常見的輕型弩。強壯者能更快裝填。此武器發射的弩箭有很大幾率保持完好以供重複使用。為何有人選擇它而非槍械原因不明，但許多人對其深信不疑。"
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid "Cyclon crossbow"
+msgid_plural "Cyclon crossbows"
+msgstr[0] "旋風弩"
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid ""
+"A high-power crossbow with with an intricate 4-bar mechanism to reduce felt "
+"load when tensing the crossbow.  Takes less time to reload due to a modern "
+"string-pulling system, but comes at the expense of stopping power."
+msgstr "一種高威力弩，採用精密的四杆機構以減少張弩時的負荷感。因現代拉弦系統裝填時間更短，但以停止力為代價。"
+
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid "shock steel sledge hammer"
+msgid_plural "shock steel sledge hammers"
+msgstr[0] "電擊鋼製大錘"
+
+#. ~ Description for {'str': 'shock steel sledge hammer'}
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid ""
+"A large, heavy hammer.  Makes an acceptable melee weapon for the very "
+"strong, but is nearly useless in the hands of the weak. This variant has "
+"been outfitted with electrodes, making it useful to shock people with."
+msgstr "一把沉重的大錘。對極強者而言是合格的近戰武器，但在弱者手中幾乎無用。此版本配備電極，可用於電擊目標。"
+
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid "shock dagger"
+msgid_plural "shock daggerss"
+msgstr[0] "電擊匕首"
+
+#. ~ Description for {'str': 'shock dagger', 'str_pl': 'shock daggerss'}
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid ""
+"This is a combat knife common to the underrail.  It is light and extremely "
+"sharp, and could be deadly in either the right hands or when attached as a "
+"bayonet. This version has been outfitted with electrodes, allowing the user "
+"to shock their target before going in for a stab."
+msgstr "這是地下鐵路常見的戰鬥刀。輕便且極其鋒利，在合適者手中或作為刺刀時可致命。此版本配備電極，允許使用者在刺擊前電擊目標。"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker extended magazine"
+msgid_plural "Hawker extended magazines"
+msgstr[0] "霍克擴展彈匣"
+
+#. ~ Description for {'str': 'Hawker extended magazine'}
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"An extended 28-round polymer magazine for use with standard round compatible"
+" firearms."
+msgstr "一種28發聚合物擴展彈匣，適用於兼容標準彈藥的槍械。"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker magazine"
+msgid_plural "Hawker magazines"
+msgstr[0] "霍克彈匣"
+
+#. ~ Description for {'str': 'Hawker magazine'}
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A compact light-weight polymer magazine for use with 5mm standard round "
+"compatible firearms."
+msgstr "一種緊湊輕量聚合物彈匣，適用於兼容5毫米標準彈藥的槍械。"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker pistol"
+msgid_plural "Hawker pistols"
+msgstr[0] "霍克手槍"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A weak pistol common amongst all strata of the underrail, from the lowest "
+"junkyard mutant to the highest protectorate officer. Prized by all for its "
+"ease of use, low production costs, and relatively common ammunition."
+msgstr "一種弱效手槍，在地下鐵路各階層中普遍使用，從最低等的垃圾場變種人到最高級的保護國軍官。因其易用性、低生產成本和相對常見的彈藥而備受珍視。"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "South Gate laser pistol"
+msgid_plural "South Gate laser pistols"
+msgstr[0] "南門激光手槍"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"This model of laser pistol is one of a rare type in the underail. Most "
+"denizens of the underrail are more than content to meet their death at the "
+"hands of a firearm, but few are ready for a laser weapon!"
+msgstr "這款激光手槍是地下鐵路中罕見的類型。大多數居民滿足於死於槍械，但很少有人準備好面對激光武器！"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Acid Pistol"
+msgid_plural "Acid Pistols"
+msgstr[0] "酸液手槍"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A curious and rare pistol in the underrail. What's not so curious is what "
+"its acid vials do to your skin when they want to dissolve it into its base "
+"components."
+msgstr "地下鐵路中一種奇特而罕見的手槍。其酸液瓶欲將皮膚溶解成基本成分時的效果並不令人好奇。"
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Hornet 30-round magazine"
+msgid_plural "Hornet 30-round magazines"
+msgstr[0] "黃蜂30發彈匣"
+
+#. ~ Description for {'str': 'Hornet 30-round magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A standard capacity 30-round box magazine for use with the Hornet 7.62mm "
+"assault rifles."
+msgstr "標準容量30發盒式彈匣，適用於黃蜂7.62毫米突擊步槍。"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Marauder 25-round magazine"
+msgid_plural "Marauder 25-round magazines"
+msgstr[0] "掠奪者25發彈匣"
+
+#. ~ Description for {'str': 'Marauder 25-round magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A standard capacity 25-round box magazine for use with Marauder 8.6mm "
+"compatible rifles."
+msgstr "一種標準容量的25發盒式彈匣，適用於兼容掠奪者8.6毫米口徑的步槍。"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "spearhead magazine"
+msgid_plural "spearhead magazines"
+msgstr[0] "矛頭彈匣"
+
+#. ~ Description for {'str': 'spearhead magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A stadard 10-round steel box magazine compatible with 7.62 Spearhead rifle."
+msgstr "一種標準的10發鋼製盒式彈匣，兼容7.62毫米矛頭步槍。"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Hornet 7.62mm"
+msgid_plural "Hornet 7.62mms"
+msgstr[0] "黃蜂7.62毫米"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"The Hornet is a protectorate assault rifle that uses a bullpup design.  It "
+"is often seen as the long arm of the protectorate, although is also popular "
+"with other civilized stations, such as South Gate."
+msgstr "黃蜂是一種採用無託設計的保護國突擊步槍。它常被視為保護國的長臂武器，但也深受其他文明站點如南門的歡迎。"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Marauder 8.6mm"
+msgid_plural "Marauder 8.6mms"
+msgstr[0] "掠奪者8.6毫米"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"The Marauder is a core-city assault rifle that uses a bullpup design.  It is"
+" often seen in use among the private security groups that essentially serve "
+"as private armies."
+msgstr "掠奪者是一種採用無託設計的核心城市突擊步槍。它常見於私人安保團體中，這些團體實質上充當著私人軍隊的角色。"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "3 rd."
+msgstr "3 發"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "7.62mm Spearhead"
+msgid_plural "7.62mm Spearhead"
+msgstr[0] "7.62毫米矛頭"
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A famed 7.62mm Spearhead sniper rifle. Purported to once be far, far more "
+"powerful than it now is."
+msgstr "一把著名的7.62毫米矛頭狙擊步槍。據稱其威力曾遠超現在。"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Jackrabbit magazine"
+msgid_plural "Jackrabbit magazines"
+msgstr[0] "傑克兔彈匣"
+
+#. ~ Description for {'str': 'Jackrabbit magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"A standard 30-round steel box magazine for use with the Jackrabbit SMG."
+msgstr "一種標準的30發鋼製盒式彈匣，適用於傑克兔衝鋒槍。"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat extended magazine"
+msgid_plural "Steel Cat extended magazines"
+msgstr[0] "鋼貓擴容彈匣"
+
+#. ~ Description for {'str': 'Steel Cat extended magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"A drum magazine for use with the Steel Cat SMG.  Much greater capacity but "
+"less reliable the factory specification magazine."
+msgstr "一種適用於鋼貓衝鋒槍的彈鼓。容量更大，但可靠性低於工廠規格彈匣。"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat magazine"
+msgid_plural "Steel Cat magazines"
+msgstr[0] "鋼貓彈匣"
+
+#. ~ Description for {'str': 'Steel Cat magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "A standard capacity curved magazine for use with the Steel Cat SMG."
+msgstr "一種標準容量的弧形彈匣，適用於鋼貓衝鋒槍。"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Jackrabbit 5mm"
+msgid_plural "Jackrabbit 5mm"
+msgstr[0] "傑克兔5毫米"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"The jacrabbit is well deserving of its namesake. As far as SMGs go, its very"
+" rapid, albeit uncontrollable for inexperienced users."
+msgstr "傑克兔名副其實。就衝鋒槍而言，它射速極快，但對於經驗不足的使用者來說難以控制。"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat 8.6mm"
+msgid_plural "Steel Cat 8.6mms"
+msgstr[0] "鋼貓8.6毫米"
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"The Steel Cat is one of the most widely-used submachine guns in the entire "
+"underrail, and has been adopted by special forces and general security "
+"alike."
+msgstr "鋼貓是整個地下鐵路中使用最廣泛的衝鋒槍之一，已被特種部隊和普通安保人員廣泛採用。"
+
+#: .\ticketcards\red_talk_spawncard.json
+msgid "Hello comrade officer, I am ready to join you on your journey!"
+msgstr "你好，同志軍官，我已準備好加入你的旅程！"
+
+#: .\ticketcards\red_talk_spawncard.json
+msgid "Red Line Officer Card"
+msgid_plural "Red Line Officer Cards"
+msgstr[0] "紅線軍官卡"
+
+#. ~ Description for {'str': 'Red Line Officer Card'}
+#: .\ticketcards\red_talk_spawncard.json
+msgid "A single-use card that summons a Red Line Soldier for the user."
+msgstr "一張一次性卡片，可為使用者召喚一名紅線士兵。"
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Hello Fraulein Officer, I am ready to join you on your journey!"
+msgstr "你好，女士軍官，我已準備好加入你的旅程！"
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Hello Herr Officer, I am ready to join you on your journey!"
+msgstr "你好，先生軍官，我已準備好加入你的旅程！"
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Reich Officer Card"
+msgid_plural "Reich Officer Cards"
+msgstr[0] "帝國軍官卡"
+
+#. ~ Description for {'str': 'Reich Officer Card'}
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "A single-use card that summons a 4th Reich Soldier for the user."
+msgstr "一張一次性卡片，可為使用者召喚一名第四帝國士兵。"
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json Change\sgs_factionchange.json
+msgid "Faction Changer"
+msgstr "派系轉換器"
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json Change\sgs_factionchange.json
+msgid ""
+"A stopgap to allow the user to change their faction at the start of the "
+"game."
+msgstr "一種權宜之計，允許使用者在遊戲開始時更改其所屬派系。"
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+msgid "Red Line faction change device"
+msgid_plural "Red Line faction change devices"
+msgstr[0] "紅線派系轉換裝置"
+
+#. ~ Description for {'str': 'Red Line faction change device'}
+#. ~ Description for {'str': '4th Reich faction change device'}
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json
+msgid ""
+"A device used to decrease the player character's relationship with the 4th "
+"Reich and South Gate Station. Should only be available at spawn, otherwise a"
+" glitch has occurred."
+msgstr "一種用於降低玩家角色與第四帝國及南門站關係的裝置。應僅在生成時可用，否則為程序錯誤。"
+
+#: .\ticketcards\Faction Change\reich_factionchange.json
+msgid "4th Reich faction change device"
+msgid_plural "4th Reich faction change devices"
+msgstr[0] "第四帝國派系變更裝置"
+
+#: .\ticketcards\Faction Change\sgs_factionchange.json
+msgid "South Gate faction change device"
+msgid_plural "South Gate faction change devices"
+msgstr[0] "南門派系變更裝置"
+
+#. ~ Description for {'str': 'South Gate faction change device'}
+#: .\ticketcards\Faction Change\sgs_factionchange.json
+msgid ""
+"A device used to decrease the player character's relationship with the 4th "
+"Reich and Red Line. Should only be available at spawn, otherwise a glitch "
+"has occurred."
+msgstr "一種用於降低玩家角色與第四帝國及紅線關係的裝置。應僅在生成時可用，否則為程序錯誤。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"Hello lady, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the Red Line"
+" Profession Start."
+msgstr "你好女士，我是一個臨時方案，允許用戶在遊戲開始時變更派系。否則無法進行紅線職業開局。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"Hello sir, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the Red Line"
+" Profession Start."
+msgstr "你好先生，我是一個臨時方案，允許用戶在遊戲開始時變更派系。否則無法進行紅線職業開局。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "Decrease the Reich's reputation with me."
+msgstr "降低帝國對我的聲望。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "I have decreased your relationship with the 4th Reich by 75 points."
+msgstr "我已將你與第四帝國的關係降低了75點。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid "Now change my relationship with South Gate Station."
+msgstr "現在改變我與南門站的關係。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"I have decreased your relationship with South Gate Station by 75 points."
+msgstr "我已將你與南門站的關係降低了75點。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "Proceed."
+msgstr "繼續。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "The process is complete."
+msgstr "流程已完成。"
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "Now go away"
+msgstr "現在請離開"
+
+#: .\ticketcards\Faction Change\talk_reich_factioncharge.json
+msgid "Decrease the Red Line's reputation with me."
+msgstr "降低紅線對我的聲望。"
+
+#: .\ticketcards\Faction Change\talk_reich_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "I have decreased your relationship with the Red Line by 75 points."
+msgstr "我已將你與紅線的關係降低了75點。"
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid ""
+"Hello lady, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the South "
+"Gate Profession Start."
+msgstr "你好女士，我是一個臨時方案，允許用戶在遊戲開始時變更派系。否則無法進行南門職業開局。"
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid ""
+"Hello sir, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the South "
+"Gate Profession Start."
+msgstr "你好先生，我是一個臨時方案，允許用戶在遊戲開始時變更派系。否則無法進行南門職業開局。"
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid "Now change my relationship with the Red Line."
+msgstr "現在改變我與紅線的關係。"

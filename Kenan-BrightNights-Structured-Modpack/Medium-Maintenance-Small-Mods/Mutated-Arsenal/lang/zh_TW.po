@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: a_mutated_arsenal\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\Mutated_arsenal.json
+msgid "mutant power armor"
+msgid_plural "mutant power armors"
+msgstr[0] "突變動力裝甲"
+
+#. ~ Use action msg for {'str': 'mutant power armor'}.
+#: .\Mutated_arsenal.json
+msgid "The %s engages."
+msgstr "%s啟動。"
+
+#. ~ Description for {'str': 'mutant power armor'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with"
+" mutated anatomy in the _REDACTED_ project,it stayed a proof of concept "
+"since the _REDACTED_ lifecycle was too short."
+msgstr ""
+"一套經過改裝的DoubleTech動力裝甲，Mk. II-"
+"H型。設計用於_REDACTED_項目中突變解剖結構的使用，由於_REDACTED_的生命週期太短，它僅停留在概念驗證階段。"
+
+#: .\Mutated_arsenal.json
+msgid "mutant power armor (active)"
+msgid_plural "mutant power armors (active)"
+msgstr[0] "突變動力裝甲（激活狀態）"
+
+#. ~ Use action menu_text for {'str': 'mutant power armor (active)', 'str_pl':
+#. 'mutant power armors (active)'}.
+#. ~ Use action menu_text for {'str': 'heavy power armor helmet (active)',
+#. 'str_pl': 'heavy power armor helmets (active)'}.
+#: .\Mutated_arsenal.json
+msgid "Turn off"
+msgstr "關閉"
+
+#. ~ Use action msg for {'str': 'mutant power armor (active)', 'str_pl':
+#. 'mutant power armors (active)'}.
+#: .\Mutated_arsenal.json
+msgid "The %s disengages."
+msgstr "%s關閉。"
+
+#. ~ Description for {'str': 'mutant power armor (active)', 'str_pl': 'mutant
+#. power armors (active)'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with"
+" mutated anatomy in the _REDACTED_ project,it stayed a proof of concept "
+"since the _REDACTED_ lifecycle was too short.  It is currently turned on, "
+"activate it to turn it off."
+msgstr ""
+"一套經過改裝的DoubleTech動力裝甲，Mk. II-"
+"H型。設計用於_REDACTED_項目中突變解剖結構的使用，由於_REDACTED_的生命週期太短，它僅停留在概念驗證階段。它目前處於開啟狀態，激活它以關閉。"
+
+#: .\Mutated_arsenal.json
+msgid "heavy power armor helmet"
+msgid_plural "heavy power armor helmets"
+msgstr[0] "重型動力裝甲頭盔"
+
+#. ~ Description for {'str': 'heavy power armor helmet'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A power armor helmet designed for use with the modified DoubleTech Power "
+"Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since"
+" the lifespan of _REDACTED_ soldiers was too short, so only the blueprints "
+"remained."
+msgstr ""
+"一款為改裝版DoubleTech動力裝甲Mk. II-"
+"H型設計的動力裝甲頭盔。與其配套的裝甲一樣，由於_REDACTED_士兵的壽命太短，它從未大規模生產，因此只留下了藍圖。"
+
+#: .\Mutated_arsenal.json
+msgid "heavy power armor helmet (active)"
+msgid_plural "heavy power armor helmets (active)"
+msgstr[0] "重型動力裝甲頭盔（激活狀態）"
+
+#. ~ Use action msg for {'str': 'heavy power armor helmet (active)', 'str_pl':
+#. 'heavy power armor helmets (active)'}.
+#: .\Mutated_arsenal.json
+msgid "The %s powers down."
+msgstr "%s 已關閉電源。"
+
+#. ~ Description for {'str': 'heavy power armor helmet (active)', 'str_pl':
+#. 'heavy power armor helmets (active)'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A power armor helmet designed for use with the modified DoubleTech Power "
+"Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since"
+" the lifespan of _REDACTED_ soldiers was too short, so only the blueprints "
+"remained ."
+msgstr ""
+"一款專為改進型雙科技動力裝甲 Mk. II-H 設計的動力裝甲頭盔。與其配套的裝甲一樣，由於 _已編輯_ "
+"士兵的壽命過短，該頭盔從未大規模生產，僅留下了藍圖。"
+
+#: .\modinfo.json
+msgid "Alexs Mutant Power Armor"
+msgstr "亞歷克斯的突變動力裝甲"
+
+#. ~ Description for Alexs Mutant Power Armor
+#: .\modinfo.json
+msgid ""
+"Adds Power Armor usable by all mutations lines, to make mutations a little "
+"less suckier"
+msgstr "添加適用於所有突變路線的動力裝甲，讓突變體驗不那麼糟糕"

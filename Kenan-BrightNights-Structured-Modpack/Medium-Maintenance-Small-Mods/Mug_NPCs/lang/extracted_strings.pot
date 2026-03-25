@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mug_NPCs\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\TALK_MUG_NPC.json
+msgid "I'm not asking anymore.  Give me your stuff or else!"
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "Stick 'em up, <name_g>!  This is a hiest!"
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"How about you give me all your gear, and I let you walk away in one piece."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "You're gonna give me your gear, or get ripped to shreds."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"No, I think you're the one who's gonna back down.  Hand over your goods, "
+"<name_g>."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "Now hand over your loot."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "No, you'll be the one giving me your loot, if you want to live."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "OK, OK.  I'm cooperating."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "Lay your weapon on the ground, real slow like."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "Let's see what you've got."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "You don't have anything else worth taking.  Get lost."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"[PSYCHO] Did you really think I'd let you live?  Nah, I'm going to kill you "
+"anyway."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "[CANNIBAL] You still have to hand over all that tasty human meat."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid "[PREDATOR] Thank you for your cooperation.  Now you must die."
+msgstr ""
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"Regrettable, but I'm sure you understand that this is just how the world "
+"works now.  No hard feelings?"
+msgstr ""
+
+#: .\effects.json
+msgid "Mugged By Player"
+msgstr ""
+
+#. ~ Description of effect 'Mugged By Player'.
+#: .\effects.json
+msgid ""
+"AI tag for when NPCs have been recently mugged by the player.  This is a bug"
+" if you have it."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Mug NPCs"
+msgstr ""
+
+#. ~ Description for Mug NPCs
+#: .\modinfo.json
+msgid ""
+"Gives a few dialog options for robbing NPCs of their items without killing "
+"them first.  Some available lines based on character traits. e.g. "
+"psychopath, pacifist, etc.  Currently only works on dynamic and shelter "
+"NPCs, not faction NPCs."
+msgstr ""

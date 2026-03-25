@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: blaze_extension_M\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\blaze_ammo_types.json
+msgid "blob globs"
+msgstr "粘液团块"
+
+#: .\blaze_blob.json
+msgid "blob_grow_base"
+msgid_plural "blob_grow_bases"
+msgstr[0] "粘液生长基体"
+
+#. ~ Description for {'str': 'blob_grow_base'}
+#. ~ Description for {'str': 'growing bladed mass', 'str_pl': 'growing bladed
+#. mass'}
+#: .\blaze_blob.json
+msgid ""
+"Not quite fully grown, this blob requires nourishment to fully develop."
+msgstr "尚未完全成熟，这个粘液团需要养分才能完全发育。"
+
+#: .\blaze_blob.json
+msgid "gel razor"
+msgid_plural "gel razors"
+msgstr[0] "凝胶剃刀"
+
+#: .\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  Instead of calcifying large"
+" amounts of calcified teeth, it has instead calcified a single large blade-"
+"like mass; which it uses defensively and offensively.  The amorphous mass "
+"can be shaped and attached at your touch, but the weapon itself is inert "
+"without something to control it."
+msgstr ""
+"一个活体粘液团转变成了自主武器。它没有钙化大量钙化牙齿，而是钙化了一个单一的大型刀刃状物质；用于防御和攻击。这种无定形物质可以在你的触摸下塑形并附着，但武器本身在没有控制物的情况下是惰性的。"
+
+#: .\blaze_blob.json
+msgctxt "gun_type_type"
+msgid "melee"
+msgstr "近战"
+
+#: .\blaze_blob.json
+msgid "growing bladed mass"
+msgid_plural "growing bladed mass"
+msgstr[0] "生长的刀刃物质"
+
+#. ~ Use action msg for {'str': 'growing bladed mass', 'str_pl': 'growing
+#. bladed mass'}.
+#: .\blaze_blob.json
+msgid "The blob balloons to full size."
+msgstr "粘液团膨胀到完整大小。"
+
+#. ~ Use action need_charges_msg for {'str': 'growing bladed mass', 'str_pl':
+#. 'growing bladed mass'}.
+#: .\blaze_blob.json
+msgid "It hasn't grown enough yet.."
+msgstr "它长得还不够大.."
+
+#: .\blaze_blob_parts.json
+msgid "metalloid part"
+msgstr "类金属部件"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid frame"
+msgstr "类金属框架"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid wall"
+msgstr "类金属墙"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid hatch"
+msgstr "类金属舱口"
+
+#: .\blaze_blob_parts.json
+msgid "opaque metalloid hatch"
+msgstr "不透明类金属舱口"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid barrier"
+msgstr "类金属屏障"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid seat"
+msgstr "类金属座椅"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid reinforcement"
+msgstr "类金属强化材料"
+
+#: .\blaze_blob_parts.json
+msgid "metalloid roof"
+msgstr "类金属屋顶"
+
+#: .\blaze_override.json
+msgid "vortex stone"
+msgid_plural "vortex stones"
+msgstr[0] "涡流石"
+
+#. ~ Description for {'str': 'vortex stone'}
+#: .\blaze_override.json
+msgid ""
+"This is a stone with spirals all over it, and holes around its perimeter.  "
+"Though it is fairly large, it weighs next to nothing.  Air seems to gather "
+"around it."
+msgstr "这是一块布满螺旋纹路、边缘有孔洞的石头。虽然体积相当大，但重量却轻如无物。空气似乎会聚集在它周围。"
+
+#: .\blaze_override.json
+msgid "spiral stone"
+msgid_plural "spiral stones"
+msgstr[0] "螺旋石"
+
+#. ~ Description for {'str': 'spiral stone'}
+#: .\blaze_override.json
+msgid ""
+"A rock the size of your fist.  It is covered with intricate spirals; it is "
+"impossible to tell whether they are carved, naturally formed, or some kind "
+"of fossil."
+msgstr "一块拳头大小的石头。表面覆盖着复杂的螺旋纹路，无法分辨是雕刻而成、自然形成还是某种化石。"
+
+#: .\blaze_override.json
+msgid "blob glob"
+msgid_plural "blob globs"
+msgstr[0] "粘液团块"
+
+#. ~ Description for {'str': 'blob glob'}
+#: .\blaze_override.json
+msgid ""
+"A little hunk of glop that fell off a blob monster.  It doesn't seem "
+"hostile, but it does wiggle occasionally."
+msgstr "从粘液怪物身上脱落的一小团粘稠物。它似乎没有敌意，但偶尔会扭动。"
+
+#: .\blaze_vortex_diamonds.json
+msgid "crystal path"
+msgstr "水晶路径"
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond obelisk"
+msgid_plural "diamond obelisks"
+msgstr[0] "钻石方尖碑"
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond prism"
+msgid_plural "diamond prisms"
+msgstr[0] "钻石棱镜"
+
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A tall tower composed almost entirely of diamond, the cluster of diamond "
+"matrices focuses the energy from an array of solar panels into a terribly "
+"powerful laser.  It is also capable of storing energy from the sun and can "
+"fire even in the dark."
+msgstr "一座几乎完全由钻石构成的高塔，钻石矩阵簇将太阳能电池板阵列的能量聚焦成威力极强的激光。它还能储存太阳能，即使在黑暗中也能发射。"
+
+#: .\blaze_vortex_diamonds.json
+msgid "single"
+msgstr "单发"
+
+#: .\blaze_vortex_diamonds.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "发射器"
+
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A smaller crystal that fell off the diamond obelisk upon creation.  Through "
+"some unknown mechanism, is able to link with the obelisk to fire a small, "
+"yet still powerful laser.  Even more perplexing is its ability to do so "
+"without guidance."
+msgstr "钻石方尖碑生成时脱落的小型晶体。通过某种未知机制，它能与方尖碑连接，发射虽小但威力强大的激光。更令人费解的是，它无需引导即可做到这一点。"
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond matrix"
+msgid_plural "diamond matrixs"
+msgstr[0] "钻石矩阵"
+
+#. ~ Description for {'str': 'diamond matrix'}
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A sparkling diamond with a dazzling spiral pattern.  Small pieces of "
+"glittering crystal form on the edges as you hold it.  With enough base "
+"material, applying it to objects causes organic matter, wood in particular, "
+"to rapidly transform into diamond. However, this new crystalline compound "
+"quickly disintegrates without some other form of support."
+msgstr ""
+"一颗闪耀着炫目螺旋图案的钻石。当你手持时，边缘会形成细小的闪光晶体。若有足够的基础材料，将其应用于物体可使有机质（尤其是木材）迅速转化为钻石。然而，这种新的晶体化合物若无其他形式的支撑会快速分解。"
+
+#: .\blaze_weapons.json
+msgid "blaze_base_gun1"
+msgid_plural "blaze_base_gun1s"
+msgstr[0] "blaze_base_gun1"
+
+#: .\modinfo.json
+msgid "Vehicle Additions Additions"
+msgstr "载具附加组件扩展"
+
+#. ~ Description for Vehicle Additions Additions
+#: .\modinfo.json
+msgid "Diamond Vehicle Parts, blob extensions."
+msgstr "钻石载具部件，粘液扩展。"

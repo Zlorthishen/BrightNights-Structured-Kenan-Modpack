@@ -1,0 +1,858 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: morlock_village\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\items.json
+msgid "underground map"
+msgid_plural "underground maps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action message for {'str': 'underground map'}.
+#: .\items.json
+msgid "You add the underground sites to your map."
+msgstr ""
+
+#. ~ Description for {'str': 'underground map'}
+#: .\items.json
+msgid ""
+"This is a crude map of the local sewers and subways.  It has a few "
+"additional sites as well."
+msgstr ""
+
+#: .\items.json
+msgid "morlock cookbook"
+msgid_plural "morlock cookbooks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'morlock cookbook'}
+#: .\items.json
+msgid ""
+"A hand written notebook full of nightmarish Morlock recipes, such as rat "
+"soup, cockroach stirfry, worm-in-a-blanket, and others.  But there are a few"
+" useful recipes mixed in with the bad."
+msgstr ""
+
+#: .\items.json
+msgid "mush-tea"
+msgid_plural "mush-tea"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mush-tea', 'str_pl': 'mush-tea'}
+#: .\items.json
+msgid "A healthy beverage made from mushrooms steeped in boiling water."
+msgstr ""
+
+#: .\items.json
+msgid "glowing mushroom"
+msgid_plural "glowing mushrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'glowing mushroom'}.
+#: .\items.json
+msgid "You eat the magic."
+msgstr ""
+
+#. ~ Description for {'str': 'glowing mushroom'}
+#: .\items.json
+msgid ""
+"A mutated mushroom that gives off a faint phosporescent glow.  Not safe to "
+"eat in this state."
+msgstr ""
+
+#: .\items.json
+msgid "glowing mushroom culture"
+msgid_plural "glowing mushroom culture"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "dried glowing mushroom"
+msgid_plural "dried glowing mushrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dried glowing mushroom'}
+#: .\items.json
+msgid ""
+"A mutant mushroom.  It no longers glows with phosphorescent light, but still"
+" looks unsafe to eat."
+msgstr ""
+
+#: .\items.json
+msgid "magic tea"
+msgid_plural "magic tea"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'magic tea', 'str_pl': 'magic
+#. tea'}.
+#: .\items.json
+msgid "You drink the magic."
+msgstr ""
+
+#. ~ Description for {'str': 'magic tea', 'str_pl': 'magic tea'}
+#: .\items.json
+msgid ""
+"A healthy beverage made from mutated mushrooms steeped in hot water.  May "
+"cause hallucinations."
+msgstr ""
+
+#: .\items.json
+msgid "sunshine mash"
+msgid_plural "sunshine mashes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sunshine mash', 'str_pl': 'sunshine mashes'}
+#: .\items.json
+msgid ""
+"Unfermented sunshine.  Just some water, sugar, and glowing mutant mushrooms,"
+" just like Urist used to make."
+msgstr ""
+
+#: .\items.json
+msgid "sunshine wash"
+msgid_plural "sunshine washes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sunshine wash', 'str_pl': 'sunshine washes'}
+#: .\items.json
+msgid ""
+"Fermented, but not distilled sunshine.  Contains all the contaminants you "
+"don't want in your sunshine."
+msgstr ""
+
+#: .\items.json
+msgid "sunshine"
+msgid_plural "sunshine"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sunshine', 'str_pl': 'sunshine'}
+#: .\items.json
+msgid ""
+"Only the strongest, purest, good ol' fashioned hooch, distilled from glowing"
+" mushrooms and sugar.  The prefered drink of all subterranean people."
+msgstr ""
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Morlock Village"
+msgid_plural "Hologram Projector - Locator of Morlock Villages"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Morlock
+#. Village'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Morlock Village"
+msgstr ""
+
+#: .\mammal.json
+msgid "cave piglet"
+msgid_plural "cave piglets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cave piglet'}
+#. ~ Description for {'str': 'cave pig'}
+#: .\mammal.json
+msgid ""
+"A mutant omnivore descended from the domestic pig.  It has adapted to life "
+"underground by losing all skin pigment, going blind, and becoming even less "
+"picky about what it eats."
+msgstr ""
+
+#: .\mammal.json
+msgid "cave pig"
+msgid_plural "cave pigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modinfo.json
+msgid "Morlock Village"
+msgstr ""
+
+#. ~ Description for Morlock Village
+#: .\modinfo.json
+msgid ""
+"Adds an underground village of mutant NPCs.  Connects to subways and sewers."
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "morlock_village"
+msgstr ""
+
+#: .\terrain.json
+msgid "giant mushroom"
+msgstr ""
+
+#. ~ Description for giant mushroom
+#: .\terrain.json
+msgid "A Terrestrial mushroom that has mutated to an enormous size."
+msgstr ""
+
+#: .\terrain.json
+msgid "crunch!"
+msgstr ""
+
+#: .\terrain.json
+msgid "whack!"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Morlock Village Locator Hologram"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Hologram Protection"
+msgstr ""
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\NPC\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to Morlock Village'}'
+#: .\NPC\NPC_missions.json
+msgid "Go to Morlock Village"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Good luck to you!"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Good work!"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Who or what are you?"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "About that mission..."
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "Thanks"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+
+#: .\NPC\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_GUARD.json
+msgid "Only two rules in the Morlock Village.  Be cool.  Don't be uncool."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_GUARD.json
+msgid "Got it."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Hello.  Can I help you find something?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "So what's your deal?  You're like a book guy or something?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm desperate for a specific book. Can you help me?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "How's the hunt, <name_g>?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Is my order in?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Later, book man."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"Precisely.  I gather books to preserve the memories of human civilization.  "
+"Sometimes, when I have extra copies, I distribute them to the public.  Feel "
+"free to checkout what you like from the shelves."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Sounds reasonable."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"I often search for rare books.  I can sell you a specific book, but it will "
+"take several days for my field agents to locate it.  And then there's the "
+"price-- I charge for my time, not the value of the book.  It will be $10,000"
+" paid up front.  If you're still interested, we can make a deal."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I want to locate a book on glass-blowing."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] A robot-hacking manual is my first priority."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I need info on crafting katanas. Lots of 'em."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I would literally kill a man for a sushi cookbook."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I have a burning passion for chemical warfare."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[4k Merch+CANNIBAL] For no particular reason, I would like a human cookbook."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "[4k Merch] I would like anything you can find on fake fur."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"[400 Merch] I, like you, also hope to preserve human civilization.  I'm "
+"collecting every back issue of Playboy and I will pay ANY price to make that"
+" dream a reality."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'm a little short on funds right now.  Maybe later.."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Nevermind."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Ugh.  Fine.  Come back in three days for your 'articles'."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "We have a deal then.  Return in three days and I will have your book."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I'll be here!"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid ""
+"We haven't found it yet.  Come back in a few days. (ooc note: Currently NPCs"
+" must be in your reality bubble for their effect timer to count down.)"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "I need that book!"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "We've located a copy of your book.  Happy reading."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*The Art of Glassblowing*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Robots for Fun & Profit*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Swords of the Samurai*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Sushi Made Easy*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Art and Science of Chemical Warfare*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*To Serve Man*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Friendly, Humane Fashion*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "*Playboy*"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_LIBRARIAN.json
+msgid "Just a minute."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "How goes it, surface dweller?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Holy, <swear!>! Fungus!  Burn it!"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "So, you're a farmer...   Underground."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Who are you people anyway?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Can I join your group?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What sort of things do you trade?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Let's trade."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Later, man."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Don't worry.  These are mutant mushrooms, not alien mushrooms.  They won't "
+"take over your brain much."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Thank God for that."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"Just a crusty old shroomer.  I've been growing mushrooms, of one type or "
+"another, for many years.  But they didn't used to get quite so big."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I see that."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"We're the Morlocks, a bunch of weirdos who couldn't fit in with the rest of "
+"the world.  But now we're the most normal people left."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I'm not so sure about that."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"There's no official way to join.  Just move into an empty house, and in a "
+"decade or two you'll be a morlock."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Very laid back."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid ""
+"The Morlocks are always short on food since not much grows down here in the "
+"dark.  I got no surplus crops to sell.  But if you could get me some "
+"fertilizer, I'd help you kickstart your own shroom-room.  I'll swap you 12 "
+"seeds for each bag of commercial fertilizer you haul down here.  Not much, "
+"but it get will you started."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Got it.  Commercial fertilizer."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "What shall we trade?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "I'd like to get some seeds, my good shroomer."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "[74 Merch] I'd like to buy some ~specialty~ mushrooms."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_SHROOMER.json
+msgid "Later, <name_g>."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What's up, cool breeze?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Nice place ya got here.  Cozy."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Is there any way I can join your group?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Let's trade then."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Fuck off, <name_g>.  It's not like we chose to live in the sewer."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Well, it kept you alive.  So it can't be that bad."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"We're the morlocks, a bunch of bums and losers who live underground.  We "
+"aren't organized and we don't have leaders, but we stick together."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Nice."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"Why the hell would you want join us?  Most of us don't want to join us.  "
+"Unless you grow a rat tail or fish-gills you probably won't fit in down "
+"here."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "I'll see what I can do."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid ""
+"We're always in the market for raw mutagen and purifier.  I can pay you a "
+"whopping 500 old world credits for each flask of standard mutagen or "
+"purifier you bring in.  I can also exchange unflavored mutagen for more "
+"advanced types, if you're interested in such things."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "Got it.  Mutagen.  Purifier."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "What'll it be then?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Got some fresh-squeezed mutagens for ya."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of mutagen for ya."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Got a batch of purifier for ya."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[1] Got a bottle of purifier for ya."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Have anything rat-flavored?"
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] I'd like a hit of trog-serum, <name_g>."
+msgstr ""
+
+#: .\NPC\TALK_MORLOCK_TRADER.json
+msgid "[10] Gimme some of that sweet fish-juice."
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "morlock"
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "I live in the sewer now.  That about sums it up."
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "morlock trader"
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "I make trade deals for the morlocks."
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "morlock librarian"
+msgstr ""
+
+#: .\NPC\classes.json
+msgid "I gather and preserve books."
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for your Book"
+msgstr ""
+
+#. ~ Description of effect 'Searching for your Book'.
+#. ~ Description of effect 'removing effect'.
+#. ~ Description of effect 'Searching for Art of Glassblowing'.
+#. ~ Description of effect 'Searching for Robots for Fun & Profit'.
+#. ~ Description of effect 'Searching for Swords of the Samurai'.
+#. ~ Description of effect 'Searching for the Art and Science of Chemical
+#. Warfare'.
+#. ~ Description of effect 'Searching for Sushi Made Easy'.
+#. ~ Description of effect 'Searching for To Serve Man'.
+#. ~ Description of effect 'Searching for Friendly Fashion'.
+#. ~ Description of effect 'Searching for Playboy magazines'.
+#: .\NPC\effects.json
+msgid "AI tag.  This is a bug if you have it."
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Located your Book"
+msgstr ""
+
+#. ~ Description of effect 'Located your Book'.
+#: .\NPC\effects.json
+msgid ""
+"AI tag.  This is a bug if you have it.  Book isn't actually available until "
+"search timer runs out."
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "removing effect"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Art of Glassblowing"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Robots for Fun & Profit"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Swords of the Samurai"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for the Art and Science of Chemical Warfare"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Sushi Made Easy"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for To Serve Man"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Friendly Fashion"
+msgstr ""
+
+#: .\NPC\effects.json
+msgid "Searching for Playboy magazines"
+msgstr ""
+
+#: .\NPC\factions.json
+msgid "Morlocks"
+msgstr ""
+
+#. ~ Description for Morlocks
+#: .\NPC\factions.json
+msgid ""
+"Before the Cataclysm a loose collection of drifters, hobos, addicts, and "
+"other homeless people took shelter in the abandoned tunnels beneath New "
+"England, largely ignored by the authorities and townsfolk.  Their hidden "
+"sanctuary allowed them to survive the first wave of horrors, but not "
+"unscathed.  Many of them have begun to show signs of change, biological "
+"adaptions to their new underground home.  Despite their weird appearance and"
+" reclusive nature, the Morlocks are friendly to those surface-dwellers "
+"willing to trade."
+msgstr ""
+
+#: .\NPC\npc.json
+msgid "Morlock"
+msgstr ""
+
+#: .\NPC\npc.json
+msgid "Guard"
+msgstr ""
+
+#: .\NPC\npc.json
+msgid "Trader"
+msgstr ""
+
+#: .\NPC\npc.json
+msgid "Shroomer"
+msgstr ""
+
+#: .\NPC\npc.json
+msgid "Librarian"
+msgstr ""
+
+#. ~ Sign
+#: .\mapgen\morlock_corner_a.json .\mapgen\morlock_sewer.json
+msgid "Secret Morlock Village"
+msgstr ""

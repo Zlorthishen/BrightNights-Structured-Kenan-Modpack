@@ -1,0 +1,5108 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sierra_madre\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\achievements.json
+msgid "<color_red>Ghost Hunter</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Ghost Hunter</color>
+#: .\achievements.json
+msgid "Kill 10 Ghost Harvesters, 10 Ghost Trappers and 10 Ghost Seekers."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Fires in the sky</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Fires in the sky</color>
+#: .\achievements.json
+msgid "Trigger the Gala Event."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Treasure of the Old World</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Treasure of the Old World</color>
+#. ~ Description for mission '{'str': 'Heist of the Centuries'}'
+#: .\achievements.json .\npcs\missions.json
+msgid "Crack the Sierra Madre open."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Stimpacked</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Stimpacked</color>
+#: .\achievements.json
+msgid "Heal your wounds instantly with the regenerating power of a stimpack."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Taste of Cloud</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Taste of Cloud</color>
+#: .\achievements.json
+msgid "Drink Sierra Madre martini."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Sneaky sneaky</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Sneaky sneaky</color>
+#: .\achievements.json
+msgid "Hide from sight of other creatures by using the Stealth Boy."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Ghost Sight</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Ghost Sight</color>
+#: .\achievements.json
+msgid "See the way Ghost People see."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>The Power of Mind</color>"
+msgstr ""
+
+#. ~ Description for <color_red>The Power of Mind</color>
+#: .\achievements.json
+msgid "Take some Mentats and see the true colors of the world."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Last Luxuries</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Last Luxuries</color>
+#: .\achievements.json
+msgid "Relieve the horrible pain of the Old World..."
+msgstr ""
+
+#: .\achievements.json
+msgid "<color_red>Try to leave and BOOM</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Try to leave and BOOM</color>
+#: .\achievements.json
+msgid "Disobey orders."
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre gas intoxication"
+msgstr ""
+
+#. ~ Description of effect 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "You have been exposed to a dense pocket of the Sierra Madre toxic gas!"
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "The highly concentrated Sierra Madre toxic gas surrounds you..."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "You've managed to get out of the concentrated gas pocket in time..."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "Your body burns on the inside!"
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre Cloud expousure"
+msgstr ""
+
+#. ~ Description of effect 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid ""
+"The Cloud of red, poisonous gas engulfing Sierra Madre slowly corrodes your "
+"body."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid ""
+"You've found yourself in the Sierra Madre. The red sky and the smell of "
+"copper and Old World gold indicate the contamination of the air by a lethal "
+"gas..."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid "You feel an unpleasant, burning sensation under your skin..."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid "Your lungs pain you and you struggle a bit to breathe..."
+msgstr ""
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (weak)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud Kiss intoxication (weak)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. While the doses's been "
+"fairly weak, it still makes you suffer a lot."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (lethal)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid "Your throat burns!"
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (lethal)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid "You feel as if there was burning napalm inside your stomach!"
+msgstr ""
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (potent)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud Kiss intoxication (potent)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. It's concentrated "
+"enough to make you feel like dying and it might kill you if you're too weak "
+"to handle it."
+msgstr ""
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (lethal)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud Kiss intoxication (lethal)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. It's concentrated "
+"enough to straight-up kill you. Say goodbye to this cruel world..."
+msgstr ""
+
+#: .\effects.json
+msgid "Eaten raw flesh of a Ghost"
+msgstr ""
+
+#. ~ Description of effect 'Eaten raw flesh of a Ghost'.
+#: .\effects.json
+msgid ""
+"The starvation and desperation brought you to eating Ghost People flesh "
+"straight from their bodies, raw. You feel the Sierra Madre toxins running "
+"through your veins..."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Eaten raw flesh of a Ghost'.
+#. ~ Miss message for effect(s) 'Eaten prepared flesh of a Ghost'.
+#: .\effects.json
+msgid "You feel as if someone was gutting you alive!"
+msgstr ""
+
+#: .\effects.json
+msgid "Eaten prepared flesh of a Ghost"
+msgstr ""
+
+#. ~ Description of effect 'Eaten prepared flesh of a Ghost'.
+#: .\effects.json
+msgid ""
+"The starvation and desperation brought you to eating Ghost People flesh. "
+"You've prepared it, but still feel the Sierra Madre toxins running through "
+"your veins..."
+msgstr ""
+
+#: .\effects.json
+msgid "Drank Sierra Madre Martini"
+msgstr ""
+
+#. ~ Description of effect 'Drank Sierra Madre Martini'.
+#: .\effects.json
+msgid ""
+"This martini tasted awful, but seems to strenghten you and help your body "
+"tissues regenerate. Apparently the Cloud can both deteriorate and "
+"regenerate, the latter you can easily observe on Ghost People. The right "
+"combination of ingredients allowed you to utilize the regenerative potential"
+" for yourself."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Drank Sierra Madre Martini'.
+#: .\effects.json
+msgid ""
+"You feel mysterious strength empowering your entire body, boosting its "
+"healing capability."
+msgstr ""
+
+#: .\effects.json
+msgid "Injected stimpack"
+msgstr ""
+
+#. ~ Description of effect 'Injected stimpack'.
+#: .\effects.json
+msgid ""
+"As opposed to the post-apocalyptic wasteland, upon injecting the stimpack "
+"you feel like coming back to life and shining with glory of a true survivor."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'Injected stimpack'.
+#: .\effects.json
+msgid "You feel alive, so alive... It's beautiful."
+msgstr ""
+
+#: .\effects.json
+msgid "Took Mentats"
+msgstr ""
+
+#. ~ Description of effect 'Took Mentats'.
+#: .\effects.json
+msgid ""
+"Your mind clears, your thought capacity increases, your vision sharpens. Now"
+" you see the truth..."
+msgstr ""
+
+#: .\effects.json
+msgid "Injected Med-X"
+msgstr ""
+
+#. ~ Description of effect 'Injected Med-X'.
+#: .\effects.json
+msgid "Your pain is being washed away and you feel stronger and more immune."
+msgstr ""
+
+#: .\effects.json .\spells.json
+msgid "Stealth Field"
+msgstr ""
+
+#. ~ Description of effect 'Stealth Field'.
+#: .\effects.json
+msgid ""
+"The light bends and reflects around you hiding you from observers' eyes."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Stealth Field'.
+#: .\effects.json
+msgid "You activate the Stealth Boy and hide behind the Stealth Field."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'Stealth Field'.
+#: .\effects.json
+msgid "You're no longer hidden behind the Stealth Field."
+msgstr ""
+
+#: .\effects.json .\spells.json .\items\consumables.json
+msgid "Ghost Sight"
+msgid_plural "Flasks of Ghost Sight"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of effect 'Ghost Sight'.
+#: .\effects.json
+msgid ""
+"Your throat burns after drinking the Ghost Sight, but now you can clearly "
+"see through the darkness."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Ghost Sight'.
+#: .\effects.json
+msgid "You drink Ghost Sight and your eyes quickly adjust to the darkness."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'Ghost Sight'.
+#: .\effects.json
+msgid ""
+"The effect of Ghost Sight wears off and you're back to your standard (lack "
+"of) nightvision."
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre Treasure Hunter"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre Treasure Hunter'}
+#: .\effects.json
+msgid ""
+"You're one of the many survivors who set on cracking the Sierra Madre open "
+"and finding the treasure of the Old World buried deep inside its vault."
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre Casino Guest"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre Casino Guest'}
+#: .\effects.json
+msgid ""
+"You're one of a couple survivors who saw the Sierra Madre Casino after the "
+"apocalypse came... Now you only need to get to the vault to claim the "
+"treasure of the Old World."
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre Conqueror"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre Conqueror'}
+#: .\effects.json
+msgid ""
+"And so you've cracked the Sierra Madre open, finally, after all you've been "
+"through you've uncovered its deepest secrets."
+msgstr ""
+
+#: .\effects.json
+msgid "Sierra Madre Gala leader"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre Gala leader'}
+#: .\effects.json
+msgid ""
+"You've managed to successfully trigger the Gala Event, opening the door to "
+"the Sierra Madre Casino. Now it is time to enter this legendary resort."
+msgstr ""
+
+#: .\effects.json
+msgid "The collar on your neck explodes, tearing your head apart!"
+msgstr ""
+
+#: .\effects.json
+msgid "Cloud venom intoxication (weak)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud venom intoxication (weak)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. The dose doesn't seem to be lethal, but you "
+"still feel like shit."
+msgstr ""
+
+#: .\effects.json
+msgid "Cloud venom intoxication (potent)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud venom intoxication (potent)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. The dose is potent and might seriously wreck "
+"your health or even kill you if your organism is too weak to handle it."
+msgstr ""
+
+#: .\effects.json
+msgid "Cloud venom intoxication (lethal)"
+msgstr ""
+
+#. ~ Description of effect 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. You feel it in your guts that it won't end well"
+" for you..."
+msgstr ""
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Sierra Madre Casino"
+msgid_plural "Hologram Projector - Locator of Sierra Madre Casinos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Sierra Madre
+#. Casino'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Sierra Madre Casino"
+msgstr ""
+
+#: .\modinfo.json
+msgid "<color_red>Sierra Madre</color>"
+msgstr ""
+
+#. ~ Description for <color_red>Sierra Madre</color>
+#: .\modinfo.json
+msgid ""
+"Adds the (in)famous villa and casino of the <color_red>Sierra Madre</color> "
+"which can be found via an abandoned bunker from Fallout New Vegas: Dead "
+"Money."
+msgstr ""
+
+#. ~ Description for {'str': 'Stealth Field'}
+#: .\spells.json
+msgid ""
+"The Stealth Field makes the user blend in with the surroundings by "
+"reflecting light in a way that makes it look as if no one was standing where"
+" the user is."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'Stealth Field'}'
+#: .\spells.json
+msgid "You hide behind the Stealth Field..."
+msgstr ""
+
+#. ~ Description for {'str': 'Ghost Sight'}
+#: .\spells.json
+msgid ""
+"Drinking the Ghost Sight isn't very healthy for you, but allows you to see "
+"in the same way as Ghost People do - darkness won't be a problem anymore."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'Ghost Sight'}'
+#: .\spells.json
+msgid ""
+"Your vision sharpens, allowing you to see the world the way Ghost People do."
+msgstr ""
+
+#: .\spells.json
+msgid "unlocking the Sierra Madre Casino vault entrance"
+msgstr ""
+
+#. ~ Description for {'str': 'unlocking the Sierra Madre Casino vault
+#. entrance'}
+#: .\spells.json
+msgid ""
+"Playing the recorded Vera Keyes' voice at the intercom near the vault door "
+"will allow you to trigger its unlocking mechanism."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'unlocking the Sierra Madre Casino vault
+#. entrance'}'
+#: .\spells.json
+msgid ""
+"You play the recorded sound of Vera Keyes containing the vault entrance "
+"password."
+msgstr ""
+
+#: .\spells.json
+msgid "There's no door to unlock nearby."
+msgstr ""
+
+#: .\spells.json
+msgid ""
+"The door has been unlocked... Finally... After all you've been through, the "
+"Sierra Madre has opened its vault right in front of you. Madre is yours "
+"yours yours..."
+msgstr ""
+
+#: .\spells.json
+msgid "friendly hologram activation"
+msgstr ""
+
+#. ~ Description for {'str': 'friendly hologram activation'}
+#: .\spells.json
+msgid "Activate security hologram."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'friendly hologram activation'}'
+#: .\spells.json
+msgid ""
+"You activate the Sierra Madre security hologram. Since it is you who's done "
+"it, it'll be friendly towards you. The portable emitter's power supply will "
+"last only for so long, though."
+msgstr ""
+
+#: .\spells.json
+msgid "stimpack injecting"
+msgstr ""
+
+#. ~ Description for {'str': 'stimpack injecting'}
+#: .\spells.json
+msgid "Injecting stimpack"
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'stimpack injecting'}'
+#: .\spells.json
+msgid ""
+"You quickly inject stimpack into your body and instantly feel better, just "
+"like people in medication ads do."
+msgstr ""
+
+#: .\spells.json
+msgid "Sierra Madre Martini drinking"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre Martini drinking'}
+#: .\spells.json
+msgid "Drinking Sierra Madre Martini"
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'Sierra Madre Martini drinking'}'
+#: .\spells.json
+msgid ""
+"You've drunk some Sierra Madre Martini. It doesn't taste very good, but "
+"despite being made out of the Cloud, it fills you with strength and power."
+msgstr ""
+
+#. ~ Description for {'str': 'Cloud Kiss intoxication (weak)'}
+#. ~ Description for {'str': 'Cloud Kiss intoxication (potent)'}
+#. ~ Description for {'str': 'Cloud Kiss intoxication (lethal)'}
+#: .\spells.json
+msgid "Poisioning with the Cloud"
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (weak)'}'
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (potent)'}'
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (lethal)'}'
+#: .\spells.json
+msgid ""
+"As you attack your foe, you notice that the Cloud venom starts working..."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "microfusion cell"
+msgid_plural "microfusion cell"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'microfusion cell'}
+#: .\items\ammo.json
+msgid ""
+"Microfusion cell is a new type of energetic ammo developed at Big Mountain "
+"research facility to aid US military in the war with China. Excellent power,"
+" though the way it works doesn't allow weapons with high rate of fire to "
+"utilize it."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "overcharged microfusion cell"
+msgid_plural "overcharged microfusion cell"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'overcharged microfusion cell'}
+#: .\items\ammo.json
+msgid ""
+"Combining a couple of microfusion cells together might yeld one that is more"
+" powerful at a cost of it being more prone to misfires."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "energy cell"
+msgid_plural "energy cell"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'energy cell'}
+#: .\items\ammo.json
+msgid ""
+"An energy cell, a special ammo type designed for the next-gen laser guns. "
+"Essentially a high-capacity battery refitted to be small enough to fit into "
+"gun mags."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "overcharged energy cell"
+msgid_plural "overcharged energy cell"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'overcharged energy cell'}
+#: .\items\ammo.json
+msgid ""
+"Combining a couple of energy cells together might yeld one that is more "
+"powerful at a cost of it being more prone to misfires."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "spent microfusion cell"
+msgid_plural "spent microfusion cells"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spent microfusion cell'}
+#: .\items\ammo.json
+msgid "An empty, drained microfusion cell."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "spent energy cell"
+msgid_plural "spent energy cells"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spent energy cell'}
+#: .\items\ammo.json
+msgid "An empty, drained energy cell."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "5-cell microfusion pack"
+msgid_plural "5-cell microfusion pack"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '5-cell microfusion pack'}
+#: .\items\ammo.json
+msgid ""
+"Pack of 5 microfusion cells combined together to satisfy the power "
+"requirements of the Gauss rifle."
+msgstr ""
+
+#: .\items\ammo.json
+msgid "overcharged 5-cell microfusion pack"
+msgid_plural "overcharged 5-cell microfusion pack"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'overcharged 5-cell microfusion pack'}
+#: .\items\ammo.json
+msgid ""
+"Pack of 5 overcharged microfusion cells combined together to satisfy (and "
+"actually exceed at a cost of inferior reliability) the power requirements of"
+" the Gauss rifle."
+msgstr ""
+
+#: .\items\armor.json
+msgid "assassin suit"
+msgid_plural "assassin suits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'assassin suit'}
+#: .\items\armor.json
+msgid ""
+"Light, sturdy combat suit designed at Big Mountain research facility. This "
+"is the first working prototype of a reverse-engineered Chinese stealth armor"
+" used during the war. While nowhere near perfect, it grants its wearer a "
+"decent protection for a low encumbrance cost, allowing fast and precise "
+"movements. Contains strapped, durable pouch that can store quite a lot of "
+"stuff as well as 3 magazine pouches."
+msgstr ""
+
+#: .\items\armor.json
+msgid "Sierra Madre armor"
+msgid_plural "Sierra Madre armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre armor'}
+#: .\items\armor.json
+msgid ""
+"Protective suit worn by the Sierra Madre security personnel. Similar to SWAT"
+" armor or riot armor, but lighter. On its back a word \"Security\" is "
+"emblazoned with yellow letters."
+msgstr ""
+
+#: .\items\armor.json
+msgid "Sierra Madre security helmet"
+msgid_plural "Sierra Madre security helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre security helmet'}
+#: .\items\armor.json
+msgid ""
+"A black helmet covering the entire head and neck, protecting the wearer from"
+" all kinds of damage. Very light for the protection it offers. Originally "
+"worn by the Sierra Madre security personnel."
+msgstr ""
+
+#: .\items\armor.json
+msgid "reinforced Sierra Madre armor"
+msgid_plural "reinforced Sierra Madre armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reinforced Sierra Madre armor'}
+#: .\items\armor.json
+msgid ""
+"A reinforced version of the standard Sierra Madre armor, made for the most "
+"important guards tasked with protecting the casino itself. On its back a "
+"word \"Security\" is emblazoned with yellow letters."
+msgstr ""
+
+#: .\items\armor.json
+msgid "reinforced Sierra Madre security helmet"
+msgid_plural "reinforced Sierra Madre security helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reinforced Sierra Madre security helmet'}
+#: .\items\armor.json
+msgid ""
+"A reinforced version of the standard Sierra Madre security helmet, made for "
+"the most important guards tasked with protecting the casino itself."
+msgstr ""
+
+#: .\items\armor.json
+msgid "Ghost protective suit"
+msgid_plural "Ghost protective suits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ghost protective suit'}
+#: .\items\armor.json
+msgid ""
+"A type of environmental protection suit worn by the Ghost People. While "
+"sturdy and effective, it won't protect from the Cloud. Nothing will. Because"
+" Cloud kills fast or slow, gets us ALL."
+msgstr ""
+
+#: .\items\books.json
+msgid "Dean Domino's journal"
+msgid_plural "copies of Dean Domino's journal"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Dean Domino's journal", 'str_pl': "copies of
+#. Dean Domino's journal"}
+#: .\items\books.json
+msgid ""
+"A perosnal journal of the legendary singer Dean Domino. The last entries "
+"contain his story of attempting to rob the Sierra Madre casino vault the "
+"night the apocalypse came, then upon failure staying in the villa planning "
+"yet another heist attempt while undergoing ghoulification caused by "
+"prolonged expousure to the Cloud of toxic gas, finally the story of a "
+"mysterious \"Courier\" who once saved Dean's life when together with him "
+"(and two other mysterious characters called \"Dog/God\" and Christine) was "
+"forced to work for a dangerous, insane man calling himself \"Father Elijah\""
+" who also wanted to crack the Sierra Madre Vault open. The most important "
+"content of this journal for you is probably the recipe for a special drink, "
+"\"Sierra Madre Martini\". According to it, mixing the Cloud residue with "
+"common pre-apocalypse junk food in a tin can will change the properties of "
+"the toxins to actually strengthen one's body instead of harming it. Also "
+"contains some info regarding setting up and disarming traps."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sierra Madre chef's notes"
+msgid_plural "copies of Sierra Madre chef's notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sierra Madre chef's notes", 'str_pl': "copies of
+#. Sierra Madre chef's notes"}
+#: .\items\books.json
+msgid ""
+"A bunch of notes left by one of the top chiefs working at Sierra Madre. "
+"Apart from advanced, elaborate cooking tips and nuances it contains some "
+"info of an interesting discovery made by the chief - when he left the cosmic"
+" knife on a hotplate for long enough, it warmed up to a very high "
+"temperature yet was still comfortable to handle. You could possibly expand "
+"the power of cosmic knife further this way, thanks to the wounderful "
+"properties of the alloy it's forged from."
+msgstr ""
+
+#: .\items\books.json
+msgid "Father Elijah's notes"
+msgid_plural "copies of Father Elijah's notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Father Elijah's notes", 'str_pl': "copies of
+#. Father Elijah's notes"}
+#: .\items\books.json
+msgid ""
+"A personal journal of Father Elijah. Apart from some rambling about killing "
+"every enemy of his own faction to the last man and some psycho's bullshit it"
+" contains a vast amount of useful tips about advanced electronics as well as"
+" some handy recipes."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sierra Madre's visitor's journal page"
+msgid_plural "Sierra Madre's visitor's journal pages"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sierra Madre's visitor's journal page"}
+#: .\items\books.json
+msgid ""
+"...seems kind enough, signed my poster, and even the promo photo. Kind of a "
+"sad look to her, though, like she wasn't really there. And she almost ran "
+"when Mr. Domino slipped his arm through hers, and he wasn't even looking at "
+"her, like she was a bag hanging on his arm. Something wrong between those "
+"two, not sure if Sinclair sees it, but I do."
+msgstr ""
+
+#: .\items\books.json
+msgid "See you in hell asshole"
+msgid_plural "See you in hell assholes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'See you in hell asshole'}
+#: .\items\books.json
+msgid ""
+"Hope you're about dead when you read this Sierra Madre out of reach Could've"
+" had it all, followed that white-arrow-graffiti bastard down here Left those"
+" beartraps as presents for you on trail hope you like them shithead Hit my "
+"own tripwire you came to take what's mine??? Too bad, I got the last laugh "
+"Speakers'll kill you before you get out then we'll settle things in hell "
+"Sierra Madre's treasures's mine mine mine"
+msgstr ""
+
+#: .\items\books.json
+msgid "construction worker's stained note"
+msgid_plural "construction worker's stained notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "construction worker's stained note"}
+#: .\items\books.json
+msgid ""
+"Not going to rat me out for what happened in the Villa. I'm not the one who "
+"laid the foundation, and I'm not going to take the fall for the supports, "
+"either. They try and pin this on me, I'll let them all know what's really "
+"going on with the construction contracts."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sierra Madre toxic gas note"
+msgid_plural "Sierra Madre toxic gas notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre toxic gas note'}
+#: .\items\books.json
+msgid ""
+"A note about the Sierra Madre toxic gas building up in the ventilation "
+"system hurting three construction workers. Apparently they had no idea from "
+"where it came from either."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes' insomnia"
+msgid_plural "Vera Keyes' insomnias"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Vera Keyes' insomnia"}
+#: .\items\books.json
+msgid ""
+"A note about Vera Keyes' health condition mentioning severe insomnia. "
+"Apparently the autodocs at the clinic were capable of alleviating its "
+"effects."
+msgstr ""
+
+#: .\items\books.json
+msgid "guard's commentary about the prohibtion"
+msgid_plural "guard's commentary about the prohibtions"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "guard's commentary about the prohibtion"}
+#: .\items\books.json
+msgid ""
+"Sinclair's prohibition list is going to be difficult to enforce and told him"
+" so. He claims we're getting an automated system that would confiscate items"
+" even the slightest bit radioactive or foreign and ship them back to the "
+"visitor's source address. Asked about items already in the Villa (didn't "
+"mention the construction crew) and he dismissed it. Of course, no sooner "
+"than Sinclair gives his prohibition speech, his pal swings by the same hour,"
+" asking how \"hardnosed\" we were going to be. Told me he couldn't guarantee"
+" he could keep me supplied if I didn't treat his \"friends\" with the same "
+"respect. Prick."
+msgstr ""
+
+#: .\items\books.json
+msgid "guard's commentary about the prohibtion enforcement difficulties"
+msgid_plural ""
+"guard's commentary about the prohibtion enforcement difficultiess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "guard's commentary about the prohibtion
+#. enforcement difficulties"}
+#: .\items\books.json
+msgid ""
+"After another \"discussion\" with the Puesta del Sol crew, told Chief it'd "
+"be difficult to enforce the prohibition list, let alone the searches. Chief "
+"had the Gala on his brain, said Sinclair put construction of the Villa more "
+"important than patting down the construction crews for liquor and chems as "
+"long as they didn't hurt anyone or each other. Got a little hot under the "
+"collar, Chief did too, told me to walk it off. This whole thing stinks. "
+"Chief's barely got time for me, now Sinclair's turning a blind eye to things"
+" in the Villa because his friend's running the show?"
+msgstr ""
+
+#: .\items\books.json
+msgid "driving ban order"
+msgid_plural "driving ban orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'driving ban order'}
+#: .\items\books.json
+msgid ""
+"An order detailing the ban on driving in Sierra Madre as well as the "
+"construction of the streets preventing usage of vehicles."
+msgstr ""
+
+#: .\items\books.json
+msgid "new security info"
+msgid_plural "new security infos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'new security info'}
+#: .\items\books.json
+msgid ""
+"A note about the security rules enforced in the Sierra Madre by it's founder"
+" Sinclair. Apparently any potentially dangerous item of the foreign origin "
+"had to be confiscated and the security personnel had to take notes about who"
+" enters and who leaves."
+msgstr ""
+
+#: .\items\books.json
+msgid "communication system setup"
+msgid_plural "communication system setups"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'communication system setup'}
+#: .\items\books.json
+msgid ""
+"According to what's written on this page, guards stationed at the police "
+"station prepared an entire broadcast system so that they could watch the "
+"Sierra Madre Opening Gala show on their shift."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sinclair's visit report"
+msgid_plural "Sinclair's visit reports"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sinclair's visit report"}
+#: .\items\books.json
+msgid "A note about the control visit of Sinclair."
+msgstr ""
+
+#: .\items\books.json
+msgid "weapon transfer list"
+msgid_plural "weapon transfer lists"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'weapon transfer list'}
+#: .\items\books.json
+msgid ""
+"This list details all the guns, ammo and explosives Sierra Madre guards "
+"received."
+msgstr ""
+
+#: .\items\books.json
+msgid "guard's comment on vending machines"
+msgid_plural "guard's comment on vending machiness"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "guard's comment on vending machines"}
+#: .\items\books.json
+msgid ""
+"A note about the Sierra Madre vending machines selling commodities for "
+"casino chips, but in case of an emergency capable of dispensing military and"
+" medical supplies as well."
+msgstr ""
+
+#: .\items\books.json
+msgid "ventilation system report"
+msgid_plural "ventilation system reports"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ventilation system report'}
+#: .\items\books.json
+msgid ""
+"A report about the Sierra Madre ventilation system failing and spitting out "
+"some sort of toxic gas, the same one you're breathing like now. Seems like "
+"even Sinclair himself had no idea what it was and where it came from... Some"
+" technicians working on the system have been rendered unconscious by the gas"
+" despite wearing protection suits. Makes you feel better about not having "
+"one anyway... Especially given how the gas eroded the suits' locks, trapping"
+" the wearers inside. To this day they still roam the streets of Sierra "
+"Madre, trapped in their suits, jealous of everything that lives..."
+msgstr ""
+
+#: .\items\books.json
+msgid "construction status report"
+msgid_plural "construction status reports"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'construction status report'}
+#: .\items\books.json
+msgid ""
+"...the Villa's like cardboard, but the casino? That place isn't built for "
+"people to just gamble, it's a place for them to take cover if the big ones "
+"hit. Those doors can be hermetically sealed, and whatever they got lining "
+"the floors screws up anything not hooked up direct by wires. Word is, while "
+"Mr. Yesterday got the Villa covered, Sinclair's locking up the Sierra Madre "
+"like a golden trap."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sierra Madre infrastructure commentary note"
+msgid_plural "Sierra Madre infrastructure commentary notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre infrastructure commentary note'}
+#: .\items\books.json
+msgid ""
+"As shoddy as the support beams are for most of these buildings, the "
+"ventilation system's worse, and the problems they had over at Puesta... "
+"sure, when you count our bonuses, it's good, but not when the workers are "
+"coughing to death. Hate to see what this place spits out if someone let the "
+"ventilation system chug along for a few years, we'd have another Greener "
+"Pastures on our hand, easy, and a pile of bodies beyond it."
+msgstr ""
+
+#: .\items\books.json
+msgid "dishonest worker's inner reports"
+msgid_plural "dishonest worker's inner reportss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "dishonest worker's inner reports"}
+#: .\items\books.json
+msgid ""
+"Some casual reports detailing the dishonest practices of part of the villa "
+"construction crew mixed together with complaints about missing essential "
+"shipments."
+msgstr ""
+
+#: .\items\books.json
+msgid "doctor's note"
+msgid_plural "doctor's notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "doctor's note"}
+#: .\items\books.json
+msgid ""
+"Ms Keyes showed up today (sans Sinclair), escorted by Mr. Domino. He "
+"explained to me Ms Keyes had developed a throat infection, and asked if the "
+"Auto-Doc could help. I asked about the Sierra Madre's Auto-Doc. He said he "
+"didn't want to \"alarm\" Sinclair. Ran some tests. Ms Keyes' voice is fine, "
+"her loss of voice was more listlessness, symptomatic of excessive Med-X "
+"usage. When I tried to speak to her about it, Mr. Domino intervened. I "
+"warned them too much of the Chem could render a subject comatose, and Domino"
+" laughed. I lost my temper, and he said they'd return another time when I "
+"was in \"better spirits.\" Despise that man."
+msgstr ""
+
+#: .\items\books.json
+msgid "chief physician's note"
+msgid_plural "chief physician's notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "chief physician's note"}
+#: .\items\books.json
+msgid ""
+"Domino stopped by to ask about the test results and Vera's voice. He seemed "
+"concerned she would lose her voice for the Gala Event. I told him if Ms "
+"Keyes was concerned, she should see me, and I would only disclose any "
+"medical information to her. I told him the Auto-Docs were more than capable "
+"of healing Ms Keyes voice if she developed any throat infection, and we "
+"could even operate if need be if she tore her larynx. He seemed satisfied by"
+" the news, apologized, amazingly enough, and left a bottle of wine as a "
+"token of his appreciation. I told him I felt it was inappropriate, he "
+"insisted. I dumped it in the trash."
+msgstr ""
+
+#: .\items\books.json
+msgid "gas incident medical report"
+msgid_plural "gas incident medical reports"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'gas incident medical report'}
+#: .\items\books.json
+msgid ""
+"A detailed medical report about the toxic gas incident and the patients "
+"exposed to it. The doctors in the clinic had no idea what it was as well, "
+"despite having access to a very advanced medical equipment."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes' partitures"
+msgid_plural "Vera Keyes' partituress"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Vera Keyes' partitures"}
+#: .\items\books.json
+msgid ""
+"Partitures belonging to Vera Keyes', meant to be used by her during her "
+"performance."
+msgstr ""
+
+#: .\items\books.json
+msgid "bar incident log"
+msgid_plural "bar incident logs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bar incident log'}
+#: .\items\books.json
+msgid ""
+"Complaint: Mrs. Purvis/Drunk and Disorderly Sierra Madre Security Log: "
+"11:02PM Guard on Call: Morris, Tyler Describe the Incident: 10PM, received "
+"complaints about noise in upper bar, then emergency call from the an floor "
+"cashier cage who reported (quote) \"old bat on ceiling.\" Investigating, "
+"found guests cheering Mrs. Millicent Purvis, 72, who had climbed over the "
+"upper bar railing and was walking on the support beams, indicating loudly "
+"that she was (quote), \"going to join the circus.\" She had already tripped "
+"over one Holo-Emitter (unhurt), and was inviting guests out on the beams so "
+"we could \"use them like monkey bars.\" Climbed after her, cornered her near"
+" the rafter over the cashier's area, then brought Mrs. Purvis to holding and"
+" called her daughter to come escort her to her room. No damage done to "
+"rafters or the emitter. Mrs. Purvis's daughter was visibly agitated by the "
+"incident and too embarrassed to take any legal action saying that she "
+"(quote), \"didn't want to cause any more trouble for Mr. Sinclair.\" Need to"
+" gate off the rafter area to prevent repeat incidents."
+msgstr ""
+
+#: .\items\books.json
+msgid "bar incident log, part 2"
+msgid_plural "bar incident log, part 2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bar incident log, part 2'}
+#: .\items\books.json
+msgid ""
+"Complaint: Lost and Found Sierra Madre Security Log: 8:07AM Guard on Call: "
+"Morris, Tyler Describe the Incident: Mrs. Purvis daughter called down to ask"
+" if we happened to find her mother's purse, which she may have dropped "
+"during last night's \"stroll.\" We found the purse on the main floor. None "
+"of the valuables were inside, may have been taken when the purse dropped, or"
+" Mrs. Purvis may have emptied the purse contents during last night's "
+"incident."
+msgstr ""
+
+#: .\items\books.json
+msgid "security measure meeting note"
+msgid_plural "security measure meeting notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'security measure meeting note'}
+#: .\items\books.json
+msgid ""
+"Since you missed it, Sinclair outlined security measures today. Wasn't blind"
+" to what was happening in the news, wanted to take steps if the Chinese got "
+"a foothold on American soil. Ran us through the added functionality of the "
+"holograms, then explained the construction of the casino, its emergency "
+"protocols, and the broadcast signal we're using for the Gala Event. Guy's a "
+"nut job, still, seems to have the bases covered. Guess the isolation of the "
+"casino was intentional. Not sure what he's hoping to protect, sure seems "
+"obsessed with it."
+msgstr ""
+
+#: .\items\books.json
+msgid "emergency protocols"
+msgid_plural "emergency protocolss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'emergency protocols'}
+#: .\items\books.json
+msgid ""
+"Been reading this over: \"In the event of a fire, chemical leak, nuclear "
+"attack, or other threat to the casino, the interior and exterior doors will "
+"hermetically seal to prevent harm coming to the guests. During this time, "
+"Holograms will be deployed and assume threat status until the lockdown is "
+"ended.\" Guess you can't be too careful these days. Still, what if there was"
+" another leak at the switching station? Not to mention the gas valves in the"
+" kitchen. If those got hit, the casino's a torch."
+msgstr ""
+
+#: .\items\books.json
+msgid "note on hologram security system"
+msgid_plural "note on hologram security systems"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'note on hologram security system'}
+#: .\items\books.json
+msgid ""
+"A brief explanation about the Sierra Madre holographic security system "
+"paired with a warning to not touch or try to disable hologram emitters."
+msgstr ""
+
+#: .\items\books.json
+msgid "Tampico's show list"
+msgid_plural "Tampico's show lists"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Tampico's show list"}
+#: .\items\books.json
+msgid ""
+"The Sierra Madre opens its doors to the world! The opening of our great "
+"Casino & Resort will feature a unique Gala, showcasing artists of world-"
+"renown! Miss Vera Keyes. Mr. Dean Domino. Joey Baxter. And, Wilfred the "
+"Wizard. Come join us at the grandest event in the history of the West. We "
+"welcome you to the best time of your life! Sincerely, The Sierra Madre's "
+"Management."
+msgstr ""
+
+#: .\items\books.json
+msgid "message for Mrs E. Sainz"
+msgid_plural "message for Mrs E. Sainzs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'message for Mrs E. Sainz'}
+#: .\items\books.json
+msgid ""
+"I'm on my way! I'll be right there, Eve! Just hide until I get there. Do "
+"whatever you need to, understand!? I'm not going to let anything happen to "
+"you."
+msgstr ""
+
+#: .\items\books.json
+msgid "message for Mr J. Lester"
+msgid_plural "message for Mr J. Lesters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'message for Mr J. Lester'}
+#: .\items\books.json
+msgid ""
+"John, help! Everything exploded! There's smoke. Holograms are firing at "
+"people! We can't get out, John! Please!"
+msgstr ""
+
+#: .\items\books.json
+msgid "commentary about the shipments of cosmic knives"
+msgid_plural "commentary about the shipments of cosmic knivess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'commentary about the shipments of cosmic
+#. knives'}
+#: .\items\books.json
+msgid ""
+"Another (!) shipment of kitchen knives for the Cantina Madrid came in today,"
+" with their new \"space age\" alloy polymer material. We've got way more "
+"than we need for the Gala Event, even if everyone had 3 steak knives! But "
+"it's always the best for Sinclair, always, always, always, always, he "
+"insists everything must be perfect. These knives are sharp, too sharp! One "
+"of the chefs almost lost their thumb when dicing vegetables, and were losing"
+" cutting boards at the rate of at least one per day. The knives just slice "
+"right through them! Running out of dishrags to mop up the blood."
+msgstr ""
+
+#: .\items\books.json
+msgid "Dog command tape"
+msgid_plural "Dog command tapes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Dog command tape'}
+#: .\items\books.json
+msgid "A holotape with pre-recorded message saying: \"Dog, back in the cage\"."
+msgstr ""
+
+#: .\items\books.json
+msgid "Dean Domino's blackmail evidence"
+msgid_plural "Dean Domino's blackmail evidences"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Dean Domino's blackmail evidence"}
+#: .\items\books.json
+msgid ""
+"A holotape containing the recorded dialogue between Vera and Dean in which "
+"Dean threatens to reveal Vera's Med-X addiction if she refuses to do as he "
+"says."
+msgstr ""
+
+#: .\items\books.json
+msgid "Dean Domino \"Saw Her yesterday\""
+msgid_plural "Dean Domino \"Saw Her yesterday\"s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Dean Domino "Saw Her yesterday"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Dean Domino's song \"Saw Her "
+"yesterday\"."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes \"Let the Bright Tomorrow in\""
+msgid_plural "Vera Keyes \"Let the Bright Tomorrow in\"s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vera Keyes "Let the Bright Tomorrow in"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Let the Bright "
+"Tomorrow in\". Can be used with the other songs to get a combination of "
+"Vera's voice."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes \"Go to the Faraway\""
+msgid_plural "Vera Keyes \"Go to the Faraway\"s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vera Keyes "Go to the Faraway"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Go to the Faraway\"."
+" Can be used with the other songs to get a combination of Vera's voice."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes \"Begin Again\""
+msgid_plural "Vera Keyes \"Begin Again\"s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vera Keyes "Begin Again"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Begin Again\". Can "
+"be used with the other songs to get a combination of Vera's voice."
+msgstr ""
+
+#: .\items\books.json
+msgid "Vera Keyes' audition recording"
+msgid_plural "Vera Keyes' audition recordings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Vera Keyes' audition recording"}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' audition for the movie "
+"\"Love Sets Sail!\" Turns out she was rather a bad actress, after all. Just "
+"like the movies she played in."
+msgstr ""
+
+#: .\items\books.json
+msgid "Sierra Madre Vault worker's note"
+msgid_plural "Sierra Madre Vault worker's notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sierra Madre Vault worker's note"}
+#: .\items\books.json
+msgid ""
+"This job doesn't pay enough, working down here with those walking lightshows"
+" gets on my nerves. And the elevator... does Sinclair know how dangerous it "
+"is to have the elevator lock like that? If someone accidentally trips the "
+"deadman's switch inside his Vault... even Sinclair himself... this whole "
+"place becomes a big metal coffin. Lou tried to tell him and Sinclair said it"
+" would be \"user error.\""
+msgstr ""
+
+#: .\items\books.json
+msgid "note about turrets in the vault"
+msgid_plural "note about turrets in the vaults"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'note about turrets in the vault'}
+#: .\items\books.json
+msgid ""
+"Don't use this unless strictly necessary. The Vault is off-limits. There is "
+"no reason to enter it unless your clearance is personally approved by Mr. "
+"Sinclair. Still, if anything were to go wrong with those security systems, "
+"use this password in the Turret-Defense terminal inside the Vault's Chamber:"
+" \"HeartArrow\". Lou Martin, M&M Construction Inc. Crew Chief."
+msgstr ""
+
+#: .\items\books.json
+msgid "extracted holotape"
+msgid_plural "extracted holotapes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted holotape'}
+#: .\items\books.json
+msgid ""
+"Vera, If you're reading this, I know what you and Dean had planned tonight "
+"on the eve of the Gala Event. I loved you very much, and whatever possessed "
+"you to choose Dean's arm over my hand is beyond me. Whether it was greed or "
+"lust, it has led you here and will forever keep us apart. I hope it leaves "
+"you as empty as you left me. As much as you sought what was inside the "
+"Sierra Madre, now it will keep you. The door has sealed, the elevator has "
+"left, and not even your voice will unlock it. This casino was my gift to "
+"you, and you now will be its heart for all time. Sincerely, Frederick "
+"Sinclair"
+msgstr ""
+
+#: .\items\books.json
+msgid "note about security systems in the vault"
+msgid_plural "note about security systems in the vaults"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'note about security systems in the vault'}
+#: .\items\books.json
+msgid "Shor note describing Sierra Madre Vault security protocols."
+msgstr ""
+
+#: .\items\books.json
+msgid "Elijah's holomessage"
+msgid_plural "Elijah's holomessages"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Elijah's holomessage"}
+#: .\items\books.json
+msgid ""
+"A holotape containing pre-recorded message from Elijah to someone named "
+"Veronica. You can't understand much but it sounds like a father saying "
+"goodbye to his daughter."
+msgstr ""
+
+#: .\items\clothes.json
+msgid "Dean's tuxedo"
+msgid_plural "Dean's tuxedos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Dean's tuxedo"}
+#: .\items\clothes.json
+msgid ""
+"A legendary tuxedo worn by the pre-apocalypse King of Swing, singer Dean "
+"Domino, famous for his talent... And fragile personality."
+msgstr ""
+
+#: .\items\clothes.json
+msgid "Vera's outfit"
+msgid_plural "Vera's outfits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Vera's outfit"}
+#: .\items\clothes.json
+msgid ""
+"An iconic black evening dress with a red outline worn by the famous Holywood"
+" starlet Vera Keyes. Its characteristic trait is the fact that it covers "
+"only right leg."
+msgstr ""
+
+#: .\items\clothes.json
+msgid "Sinclair's suit"
+msgid_plural "Sinclair's suits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sinclair's suit"}
+#: .\items\clothes.json
+msgid ""
+"A fancy black suit worn by the Frederick Sinclair, the legendary "
+"bussinessman, founder of the Sierra Madre."
+msgstr ""
+
+#: .\items\clothes.json
+msgid "Dead Money jumpsuit"
+msgid_plural "Dead Money jumpsuits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Dead Money jumpsuit'}
+#: .\items\clothes.json
+msgid ""
+"A light gray jumpsuit, similar to the ones worn by technical workers. Unlike"
+" those, though, this one has a red cross mark on the back."
+msgstr ""
+
+#: .\items\clothes.json
+msgid "Father Elijah's robe"
+msgid_plural "Father Elijah's robes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Father Elijah's robe"}
+#: .\items\clothes.json
+msgid ""
+"Long, dark-blue robes, apparently belonging to Father Elijah. They appear "
+"pretty worn out, indicating years of usage, including combat or some "
+"experiments with dangerous materials. Some weird wires are attached to it."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "whiskey vending machine code card"
+msgid_plural "whiskey vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'whiskey vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase whiskey at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "vodka vending machine code card"
+msgid_plural "vodka vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'vodka vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase vodka at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "wine vending machine code card"
+msgid_plural "wine vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'wine vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase wine at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "stimpack vending machine code card"
+msgid_plural "stimpack vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'stimpack vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase stimpacks at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Mentats vending machine code card"
+msgid_plural "Mentats vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mentats vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase Mentats at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Med-X vending machine code card"
+msgid_plural "Med-X vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Med-X vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase Med-X at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "C4 vending machine code card"
+msgid_plural "C4 vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'C4 vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase C4 charges at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "firearm repairing kit vending machine code card"
+msgid_plural "firearm repairing kit vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'firearm repairing kit vending machine code
+#. card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase firearm repairing kits at the "
+"Sierra Madre vending machines. In order to make a purchase just slide the "
+"card through the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid ".357 Magnum vending machine code card"
+msgid_plural ".357 Magnum vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.357 Magnum vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase .357 Magnum rounds at the "
+"Sierra Madre vending machines. In order to make a purchase just slide the "
+"card through the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "7.62x51mm '.308 Winchester' vending machine code card"
+msgid_plural "7.62x51mm '.308 Winchester' vending machine code cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "7.62x51mm '.308 Winchester' vending machine code
+#. card"}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase 7.62x51mm Winchester rounds at "
+"the Sierra Madre vending machines. In order to make a purchase just slide "
+"the card through the vending machine's reader before selecting an item."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Sierra Madre complimentary voucher"
+msgid_plural "Sierra Madre complimentary vouchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre complimentary voucher'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A special voucher that can be redeemed at any Sierra Madre vending machine "
+"to receive 1000 chips."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Gala control panel access codes"
+msgid_plural "Gala control panel access codess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gala control panel access codes'}
+#: .\items\codes_and_cards.json
+msgid ""
+"This card contains access codes for accessing the Gala control panel and "
+"triggering the Gala Event which is neccessary to open the Sierra Madre "
+"Casino's door."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Sierra Madre electronic board"
+msgid_plural "Sierra Madre electronic boards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre electronic board'}
+#: .\items\codes_and_cards.json
+msgid ""
+"Advanced electronic board used in the Sierra Madre control systems to "
+"control them. This one was either damaged or a spare one since it was lying "
+"on the floor instead of being attached somewhere in the Sierra Madre control"
+" systems."
+msgstr ""
+
+#: .\items\codes_and_cards.json
+msgid "Vera Keyes' voice recording"
+msgid_plural "Vera Keyes' voice recordings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Vera Keyes' voice recording"}
+#: .\items\codes_and_cards.json
+msgid ""
+"A holotape containing Vera Keyes' voice recording combined from her songs "
+"with the password unlocking the Sierra Madre Casino vault."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (weak)"
+msgid_plural "Flasks of Cloud Kiss (weak)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (weak)', 'str_pl':
+#. 'Flasks of Cloud Kiss (weak)'}.
+#: .\items\consumables.json
+msgid ""
+"You've drunk some Cloud Kiss venom and immediately regret it, even though "
+"that's been the weakest variant."
+msgstr ""
+
+#. ~ Description for {'str': 'Cloud Kiss (weak)', 'str_pl': 'Flasks of Cloud
+#. Kiss (weak)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. This one doesn't contain that much of the "
+"toxins and is relatively weak. Will corrode weapons as well, however you "
+"could still use it to poison the ones found in the Sierra Madre as they've "
+"already been exposed to the toxins for long enough and are still usable. "
+"Apparently Ghost People knew what they were doing."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (potent)"
+msgid_plural "Flasks of Cloud Kiss (potent)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (potent)',
+#. 'str_pl': 'Flasks of Cloud Kiss (potent)'}.
+#: .\items\consumables.json
+msgid ""
+"You've drunk some rather concentrated Cloud Kiss venom and immediately "
+"regret it."
+msgstr ""
+
+#. ~ Description for {'str': 'Cloud Kiss (potent)', 'str_pl': 'Flasks of Cloud
+#. Kiss (potent)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. The toxins are rather concentrated, making"
+" it a potentially deadly dose. Will corrode weapons as well, however you "
+"could still use it to poison the ones found in the Sierra Madre as they've "
+"already been exposed to the toxins for long enough and are still usable. "
+"Apparently Ghost People knew what they were doing."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (lethal)"
+msgid_plural "Flasks of Cloud Kiss (lethal)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (lethal)',
+#. 'str_pl': 'Flasks of Cloud Kiss (lethal)'}.
+#: .\items\consumables.json
+msgid "You've drunk a lethal dose of Cloud Kiss venom. Prepare to die..."
+msgstr ""
+
+#. ~ Description for {'str': 'Cloud Kiss (lethal)', 'str_pl': 'Flasks of Cloud
+#. Kiss (lethal)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. The toxins are concentrated enough to "
+"straight-up kill even a young, healthy human. Will corrode weapons as well, "
+"however you could still use it to poison the ones found in the Sierra Madre "
+"as they've already been exposed to the toxins for long enough and are still "
+"usable. Apparently Ghost People knew what they were doing."
+msgstr ""
+
+#. ~ Description for {'str': 'Ghost Sight', 'str_pl': 'Flasks of Ghost Sight'}
+#: .\items\consumables.json
+msgid ""
+"Cloud residue boiled in a certain way, allowing you to acquire night vision "
+"similar to the one Ghost People have."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "chunk of Ghost meat"
+msgid_plural "chunks of Ghost meat"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'chunk of Ghost meat',
+#. 'str_pl': 'chunks of Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some flesh of a Ghost... Raw..."
+msgstr ""
+
+#. ~ Description for {'str': 'chunk of Ghost meat', 'str_pl': 'chunks of Ghost
+#. meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. It WILL poison you, but if "
+"you're THAT starving and desperate... At least cook it then or something..."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "chunk of cooked Ghost meat"
+msgid_plural "chunks of cooked Ghost meat"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'chunk of cooked Ghost meat',
+#. 'str_pl': 'chunks of cooked Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some cooked flesh of a Ghost..."
+msgstr ""
+
+#. ~ Description for {'str': 'chunk of cooked Ghost meat', 'str_pl': 'chunks
+#. of cooked Ghost meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. Despite being cooked, it still"
+" looks poisonous."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "chunk of dried Ghost meat"
+msgid_plural "chunks of dried Ghost meat"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str': 'chunk of dried Ghost meat',
+#. 'str_pl': 'chunks of dried Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some dried flesh of a Ghost..."
+msgstr ""
+
+#. ~ Description for {'str': 'chunk of dried Ghost meat', 'str_pl': 'chunks of
+#. dried Ghost meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. Despite being dried, it still "
+"looks poisonous."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Sierra Madre Martini"
+msgid_plural "Sierra Madre Martini"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Sierra Madre Martini'}
+#: .\items\consumables.json
+msgid ""
+"Concentrated, solidified Sierra Madre toxins mixed in a tin can with some "
+"junk food. While still unhealthy, apparently a right combination of "
+"chemicals found in pre-apocalypse junk food is able to change the properties"
+" of the toxic gas to actually aid you, not hurt you. You can't wrap your "
+"head around it, but hey, it works! Beware of drinking too much though - it's"
+" addictive."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "stimpack"
+msgid_plural "stimpack"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'stimpack'}
+#: .\items\consumables.json
+msgid ""
+"A syringe filled with a strange, dense, light-red substance, serving as a "
+"state-of-tech emergency medical aid. Once injected, it boosts tissue "
+"regeneration, blood pumping, adrenaline pumping, breathing and thinking "
+"rapidly, making one feel refreshed and healing a lot of abuse."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Mentats"
+msgid_plural "Mentats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': 'Mentats'}.
+#: .\items\consumables.json
+msgid "You take some Mentats pills."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'Mentats'}
+#: .\items\consumables.json
+msgid ""
+"Red pills developed by Med-Tek. No, they will not make you see the truth "
+"behind this insane, cruel world... Wait, they actually might do, since they "
+"are designed to temporairly boost perception and intelligence. Overdose can "
+"be fatal and addictive, though - beware of uncovering more truth that you "
+"can handle..."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Med-X"
+msgid_plural "Med-X"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action activation_message for {'str_sp': 'Med-X'}.
+#: .\items\consumables.json
+msgid "You inject a dose of Med-X."
+msgstr ""
+
+#. ~ Description for {'str_sp': 'Med-X'}
+#: .\items\consumables.json
+msgid ""
+"A highly effective painkiller that also boosts body regeneration "
+"capabilities. Has lower chance of overdose than conventional painkillers, "
+"but still can make you addicted or straight-up kill you."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "Stealth Boy"
+msgid_plural "Stealth Boys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Stealth Boy'}
+#: .\items\consumables.json
+msgid ""
+"A high-tech device that generates a sophisticated field around the user that"
+" deflects and curves light beams in a way that looking at it an observer "
+"would see what's behind the user, effectively granting invisibility. Sadly "
+"it's a single use item and can't be recharged in any way after it uses up "
+"all its power supply. Brought to you by Big Mountain research facility."
+msgstr ""
+
+#: .\items\consumables.json
+msgid "portable security hologram emitter"
+msgid_plural "portable security hologram emitters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'portable security hologram emitter'}
+#: .\items\consumables.json
+msgid ""
+"A portable version of the Sierra Madre security hologram emitter, allowing "
+"you to place a friendly holo guard of your own. One-time use only, and it "
+"has only so much power stored allowing the activated hologram to exist for "
+"only so long."
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "Holorifle scope"
+msgid_plural "Holorifle scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmods.json
+msgid ""
+"A 2.86x scope designed specifically for the holorifle. Has a nice circle-"
+"shaped, black crosshair clearly visible on slightly greenish lens."
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "sights"
+msgstr ""
+
+#: .\items\gunmods.json
+msgctxt "gun_type_type"
+msgid "holorifle"
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "Holorifle focus optics"
+msgid_plural "Holorifle focus optics"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmods.json
+msgid ""
+"A set of optics to concentrate the beam to make it more powerful, increasing"
+" damage output."
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "lens"
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "Holorifle advanced calibration"
+msgid_plural "Holorifle advanced calibrations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmods.json
+msgid ""
+"A set of parts for the Holorifle that helps calibrate the beam trajectory, "
+"improving accuracy."
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "mechanism"
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "Holorifle reinforced components"
+msgid_plural "Holorifle reinforced componentss"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmods.json
+msgid "A set of reinforced Holorifle parts designed to make it more reliable."
+msgstr ""
+
+#: .\items\gunmods.json
+msgid "Gauss rifle scope"
+msgid_plural "Gauss rifle scopes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmods.json
+msgid ""
+"A rifle scope designed specifically for the use with the Gauss rifle. Has a "
+"blue-glowing lens to look through, helping with target identification, "
+"allowing adjustable zoom and quick aiming."
+msgstr ""
+
+#: .\items\gunmods.json
+msgctxt "gun_type_type"
+msgid "gauss_rifle"
+msgstr ""
+
+#: .\items\materials.json
+msgid "Cloud residue"
+msgid_plural "Cloud residue"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Cloud residue'}
+#: .\items\materials.json
+msgid ""
+"A portion of Sierra Madre toxic gas concentrated enough that it became "
+"solidified, sticking itself to the surfaces. You could use it to experiment "
+"a bit with a Cloud and possibly craft some useful stuff."
+msgstr ""
+
+#: .\items\materials.json
+msgid "turpentine"
+msgid_plural "turpentine"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'turpentine'}
+#: .\items\materials.json
+msgid "A flammable liquid used as a common solvent."
+msgstr ""
+
+#: .\items\misc.json
+msgid "explosive collar"
+msgid_plural "explosive collars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "Set the collar to explode"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "You trigger the collar's explosive mechanism."
+msgstr ""
+
+#. ~ Description for {'str': 'explosive collar'}
+#: .\items\misc.json
+msgid ""
+"A sturdy, black metallic collar wrapping tightly around the neck of a person"
+" unfortunate enough to be forced to wear it. Contains an explosive charge "
+"ready to blow off the head. Can be set up ready to go off via compatible "
+"radio signal. You don't want to wear it on yourself, right?..."
+msgstr ""
+
+#. ~ Use action no_deactivate_msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid ""
+"The collar is about to explode. While the blast won't be very strong since "
+"initially it's been designed to only blow the wearer's head off, it's still "
+"strongly encouraged to get away from it."
+msgstr ""
+
+#. ~ Use action sound_msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "Beep."
+msgstr ""
+
+#. ~ Description for {'str': 'explosive collar'}
+#: .\items\misc.json
+msgid ""
+"The collar is constantly beeping, ready to blow up once its internal timer "
+"reaches zero."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Sierra Madre chip"
+msgid_plural "Sierra Madre chips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre chip'}
+#: .\items\misc.json
+msgid ""
+"This is a golden chip from the Sierra Madre casino, intended for gambling "
+"and collecting rewards at vending machines scattered around the resort. On "
+"its heads there's a face of a woman and an acronym \"SM\". On the tails you "
+"can see a portrait of a fancy-dressed woman holding the sign \"Begin again\""
+" and a sign \"Sierra Madre\" under her feet."
+msgstr ""
+
+#: .\items\misc.json
+msgid "entertainer pass"
+msgid_plural "entertainer passs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'entertainer pass'}
+#: .\items\misc.json
+msgid ""
+"This ID card once belonged to one of the entertainers working at Tampico "
+"theater. Not of much use now, given the world ended and the security "
+"personnel is purely holographic and in engagement mode."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Sierra Madre gold bar"
+msgid_plural "Sierra Madre gold bars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre gold bar'}
+#: .\items\misc.json
+msgid ""
+"A weighty gold bar from the vault of the Sierra Madre casino. Technically "
+"worthless in a post-apocalyptic world, but the fact that it's from the "
+"legendary Sierra Madre actually makes it valuable for some rich traders "
+"willing to collect souvenirs."
+msgstr ""
+
+#: .\items\misc.json
+msgid "bear trap fist HD springs"
+msgid_plural "bear trap fist HD springss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bear trap fist HD springs'}
+#: .\items\misc.json
+msgid ""
+"A set of springs for the bear trap fist to make its claws more powerful."
+msgstr ""
+
+#: .\items\misc.json
+msgid "laser pistol energy cell magazine"
+msgid_plural "laser pistol energy cell magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'laser pistol energy cell magazine'}
+#: .\items\misc.json
+msgid "A 30 round magazine for laser pistols utilizing energy cells."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Gauss rifle magazine"
+msgid_plural "Gauss rifle magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gauss rifle magazine'}
+#: .\items\misc.json
+msgid ""
+"A drum capable of holding one pack of 5 microfusion cells designed to be "
+"used specifically with the Gauss rifle."
+msgstr ""
+
+#: .\items\misc.json
+msgid "skeleton"
+msgid_plural "skeletons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'skeleton'}
+#: .\items\misc.json
+msgid "A dead skeleton."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Sierra Madre chips inserting slot"
+msgid_plural "Sierra Madre chips inserting slots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre chips inserting slot'}
+#: .\items\misc.json
+msgid "debug item"
+msgstr ""
+
+#: .\items\misc.json
+msgid "Hologram visualisation"
+msgid_plural "Hologram visualisations"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram visualisation'}
+#. ~ Description for {'str': 'Sierra Madre Vault console display'}
+#: .\items\misc.json
+msgid "If you see it it's one giant bug."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Sierra Madre Vault console display"
+msgid_plural "Sierra Madre Vault console displays"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\misc.json
+msgid "Sierra Madre playing card"
+msgid_plural "Sierra Madre playing cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre playing card'}
+#: .\items\misc.json
+msgid "A playing card from an exclusive Sierra Madre deck."
+msgstr ""
+
+#: .\items\misc.json
+msgid "Sierra Madre map"
+msgid_plural "Sierra Madre maps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action message for {'str': 'Sierra Madre map'}.
+#: .\items\misc.json
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Do you have what it takes to crack it open?"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre map'}
+#: .\items\misc.json
+msgid ""
+"Strange, mysterious hand-drawn map claiming to lead to the legendary Sierra "
+"Madre, where the greatest treasure of the Old World is believed to be "
+"buried."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear"
+msgid_plural "Ghost's knife spears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Ghost's knife spear"}
+#: .\items\weapons.json
+msgid ""
+"A sturdy, menacing-looking knife spear Ghost People use to fight and hunt "
+"with. While an improvised weapon by the concept itself, as far as the "
+"execution goes, it doesn't feel like so. The sharp, large blade, apparently "
+"made specifically with this kind of weapon in mind, is attached to the "
+"thick, carefully cut pole with a several layers of tough rope, glue and "
+"industrial-grade ducttape. One the one hand it's good to be armed with it, "
+"on the other it's scary Sierra Madre is swarming with monsters using these "
+"to kill their prey."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Ghost's clean knife spear"
+msgid_plural "Ghost's clean knife spears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Ghost's clean knife spear"}
+#: .\items\weapons.json
+msgid ""
+"This weapon executes the same concept as the standard Ghost's knife spear, "
+"expect it's blade is the one from clean cosmic knife, combining the "
+"advantages of both weapoons into one."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (weak)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (weak)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (weak)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss (weak)"}
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (potent)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss
+#. (potent)"}
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (lethal)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss
+#. (lethal)"}
+#: .\items\weapons.json
+msgid ""
+"A sturdy, menacing-looking knife spear Ghost People use to fight and hunt "
+"with. While an improvised weapon by the concept itself, as far as the "
+"execution goes, it doesn't feel like so. The sharp, large blade, apparently "
+"made specifically with this kind of weapon in mind, is attached to the "
+"thick, carefully cut pole with a several layers of tough rope, glue and "
+"industrial-grade ducttape. One the one hand it's good to be armed with it, "
+"on the other it's scary Sierra Madre is swarming with monsters using these "
+"to kill their prey. It has been poisoned with the venom made out of the "
+"Sierra Madre Cloud and thanks to it will poison your enemies, dealing "
+"additional damage over time."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (potent)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (potent)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (lethal)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (lethal)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "Ghost's throwing knife spear"
+msgid_plural "Ghost's throwing knife spears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Ghost's throwing knife spear"}
+#: .\items\weapons.json
+msgid ""
+"A lighter and shorter version of the knife spear used by Ghost People meant "
+"for throwing. Was designed to deal powerful blows, but at a cost of being "
+"rather fragile, as opposed to their main knife spears."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "bear trap fist"
+msgid_plural "bear trap fists"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bear trap fist', 'str_pl': 'bear trap fists'}
+#: .\items\weapons.json
+msgid ""
+"A small bear trap some Ghost People use as a weapon by strapping it to their"
+" arm and clawing it at their prey. Its dark, sturdy teeth and the overall "
+"concept itself fill you with fear you can't rationally explain."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (weak)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (weak)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss (weak)',
+#. 'str_pl': 'bear trap fists poisoned with Cloud Kiss (weak)'}
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss
+#. (potent)', 'str_pl': 'bear trap fists poisoned with Cloud Kiss (potent)'}
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss
+#. (lethal)', 'str_pl': 'bear trap fists poisoned with Cloud Kiss (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"A small bear trap some Ghost People use as a weapon by strapping it to their"
+" arm and clawing it at their prey. Its dark, sturdy teeth and the overall "
+"concept itself fill you with fear you can't rationally explain. It has been "
+"poisoned with the venom made out of the Sierra Madre Cloud and thanks to it "
+"will poison your enemies, dealing additional damage over time."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (potent)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (potent)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (lethal)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (lethal)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist"
+msgid_plural "upgraded bear trap fists"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'upgraded bear trap fist', 'str_pl': 'upgraded
+#. bear trap fists'}
+#: .\items\weapons.json
+msgid ""
+"Bear trap fist upgraded with HD strings for easier and more firm strapping "
+"onto the user's shoulder, allowing to deal more powerful blows."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (weak)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (weak)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (weak)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (weak)'}
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (potent)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (potent)'}
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (lethal)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"Bear trap fist upgraded with HD strings for easier and more firm strapping "
+"onto the user's shoulder, allowing to deal more powerful blows. It has been "
+"poisoned with the venom made out of the Sierra Madre Cloud and thanks to it "
+"will poison your enemies, dealing additional damage over time."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (potent)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (potent)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (lethal)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (lethal)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "cosmic knife"
+msgid_plural "cosmic knives"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cosmic knife', 'str_pl': 'cosmic knives'}
+#: .\items\weapons.json
+msgid ""
+"The state-of-tech steak knife made out of advanced steel alloys developed at"
+" Big Mountain research facility shortly before the apocalypse. Makes an "
+"excellent weapon, to the point you wonder who and how at Big Mountain made a"
+" mistake of designing it as a civilian steak knife before introducing it to "
+"the military as a new combat knife."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (weak)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (weak)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (weak)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (weak)'}
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (potent)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (potent)'}
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (lethal)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"The state-of-tech steak knife made out of advanced steel alloys developed at"
+" Big Mountain research facility shortly before the apocalypse. Makes an "
+"excellent weapon, to the point you wonder who and how at Big Mountain made a"
+" mistake of designing it as a civilian steak knife before introducing it to "
+"the military as a new combat knife. It has been poisoned with the venom made"
+" out of the Sierra Madre Cloud and thanks to it will poison your enemies, "
+"dealing additional damage over time."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (potent)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (potent)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (lethal)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (lethal)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "clean cosmic knife"
+msgid_plural "clean cosmic knives"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'clean cosmic knife', 'str_pl': 'clean cosmic
+#. knives'}
+#: .\items\weapons.json
+msgid ""
+"A cosmic knife polished with common detergents and other household cleaning "
+"products. It's shiny... And deadly. Its bright, shiny surface could "
+"metaphorically represent your hope of survivng the Sierra Madre."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "super-heated cosmic knife"
+msgid_plural "super-heated cosmic knives"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'super-heated cosmic knife', 'str_pl': 'super-
+#. heated cosmic knives'}
+#: .\items\weapons.json
+msgid ""
+"A cosmic knife heated up to an extreme temperature. As accidentially "
+"discovered by one of the Sierra Madre chefs, its handle remains cool, "
+"allowing you to wield it and burn your foes. Now your hope for surving "
+"Sierra Madre is burning just like this blade."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Ghost's gas bomb"
+msgid_plural "Ghost's gas bombs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "Activate"
+msgstr ""
+
+#. ~ Use action msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "You activate the bomb's igniter."
+msgstr ""
+
+#. ~ Description for {'str': "Ghost's gas bomb"}
+#: .\items\weapons.json
+msgid ""
+"A small tank full of highly-flammable gas repurposed to serve as a makeshift"
+" bomb, ready to explode in a blaze of glory. Also it seems as if the Sierra "
+"Madre toxins were added to the mixture..."
+msgstr ""
+
+#. ~ Use action no_deactivate_msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid ""
+"The sharp, hissing sound coming out of the tank indicates the blaze of glory"
+" is about to be unleashed to wipe the Sierra Madre clean... Well, at least "
+"\"some part of it\", technically speaking."
+msgstr ""
+
+#. ~ Use action sound_msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "Psfft."
+msgstr ""
+
+#. ~ Description for {'str': "Ghost's gas bomb"}
+#: .\items\weapons.json
+msgid ""
+"Throw this bomb quickly and run away before the blaze of glory consumes you!"
+msgstr ""
+
+#: .\items\weapons.json
+msgid "holorifle"
+msgid_plural "holorifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid ""
+"A state-of-tech gun, the holorifle is a very powerful pump-action rifle "
+"firing holobeams, utilizing microfusion cells. Holds four rounds in its "
+"internal, tube-shaped magazine and is quite reliable, though thanks to it "
+"being an improvised technology can still jam sometimes, especially when "
+"using overcharged cells. Comes with its own unique scope attached that is "
+"pleasant to look through, allowing good aiming precision, as well as a "
+"shoulder strap."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "pump-action"
+msgstr ""
+
+#: .\items\weapons.json
+msgid "chuk chuk."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Gauss rifle"
+msgid_plural "Gauss rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid ""
+"An experimental energetic marksman rifle, utilizing microfusion cells to "
+"accelerate conductive or ferromagnetic projectiles to insane speed. This "
+"model is fed with a special packs of 5 microfusion cells, discharging all of"
+" them during one shot, effectively making it a single-shot weapon at a price"
+" of 5 rounds per shot. The accuracy and damage are worth it, though."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "single-shot"
+msgstr ""
+
+#: .\items\weapons.json
+msgid "slosh."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "laser pistol"
+msgid_plural "laser pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid ""
+"A next-gen laser pistol prototype, firing energy cells from its 30-round "
+"magazine designed specifically for it. Unlike other energy weapons, it needs"
+" a special ammo rather than just a power supply, but the power it gives in "
+"return was deemed worth it by its engineers at Big Mountain research "
+"facility. Unfortunately, occassionally can jam."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Colt Trooper .357 Magnum"
+msgid_plural "Colt Trooper .357 Magnum"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid ""
+"Introduced in 1953, this revolver features pretty good weight and "
+"comfortable handling. It came with Target version for sport shooting and "
+"Service for law enforcement officers, the latter complaining about weight of"
+" their sidearms before. This particular model is the high-end .357 Magnum "
+"version, capable of firing .38 Special as well."
+msgstr ""
+
+#: .\items\weapons.json
+msgid "Hologram laser beam"
+msgid_plural "Hologram laser beams"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\weapons.json
+msgid "A laser beam used by Sierra Madre security holograms."
+msgstr ""
+
+#: .\items\weapons.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "spear_ammo"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "throwing knifespear fake ammo"
+msgid_plural "throwing knifespear fake ammos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'throwing knifespear fake ammo'}
+#. ~ Description for {'str': 'gas bomb fake ammo'}
+#: .\monsters\ghosts.json
+msgid "fake_ammo"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "gas_bomb_ammo"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "gas bomb fake ammo"
+msgid_plural "gas bomb fake ammos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\monsters\ghosts.json
+msgid "Ghost throwing knifespear"
+msgid_plural "Ghost throwing knifespears"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\monsters\ghosts.json
+msgid "Fake gun that throws Ghost knifespears."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "fake launcher"
+msgid_plural "fake launchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\monsters\ghosts.json
+msgid "fake item so that seekers can throw their bombs"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The %1$s claws at you with a bearfist!"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The %1$s claws at <npcname> with a bearfist!"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The %1$s tries to claw at you with a bearfist, but fails to."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The %1$s tries to claw <npcname> with a bearfist, but fails to."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "Ghost harvester"
+msgid_plural "Ghost harvesters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ghost harvester'}
+#: .\monsters\ghosts.json
+msgid ""
+"A smaller and weaker type of Ghost People, though still very deadly due to "
+"high agility. Fights using knife spears, both in melee and throwing them "
+"from a distance."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The Ghost harvester throws a knife spear!"
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "Ghost trapper"
+msgid_plural "Ghost trappers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ghost trapper'}
+#: .\monsters\ghosts.json
+msgid ""
+"This Ghost has a large, bulky body yet still maintains a great degree of "
+"agility. Armed with a small bear trap strapped to its arm, will try to claw "
+"at you using it."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "Ghost seeker"
+msgid_plural "Ghost seekers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ghost seeker'}
+#: .\monsters\ghosts.json
+msgid ""
+"Taller than harvesters, weaker and skinnier than trappers, those Ghosts will"
+" often throw an improvised gas bomb before engaging with their knife spears,"
+" making them a potentially deadly enemies. If you survive the blast though, "
+"they'll be easier to deal with than trappers for sure."
+msgstr ""
+
+#: .\monsters\ghosts.json
+msgid "The Ghost seeker throws its gas bomb!"
+msgstr ""
+
+#: .\monsters\holograms.json
+msgid "Sierra Madre security hologram"
+msgid_plural "Sierra Madre security holograms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sierra Madre security hologram'}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter."
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre security hologram'}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter. This one act as a friendly immobile"
+" sentry though, since it was you who took control of it."
+msgstr ""
+
+#: .\monsters\holograms.json
+msgid "Sierra Madre Vera Keyes' hologram"
+msgid_plural "Sierra Madre Vera Keyes' holograms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "Sierra Madre Vera Keyes' hologram"}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter. This one seems to have taken the "
+"form of Vera Keyes for some strange reason."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "HHAAAARRRRRR"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "HHUUUURRRR"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "HHEEEEEHH"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "HHOOOORHH"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "HAARRRHHH"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"Sinclair?! Sinclair, I'm trapped. Please, oh god, the security systems won't"
+" let me out, they're keeping me here."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "Sinclair?! SINCLAIR!!!"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"We all pay for what we've done. I'm so sorry, Sinclair. Sorry, I... I should"
+" have trusted you."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"I'm going to die here, amongst the ghosts. I... I'm still being recorded by "
+"the holographic system."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"The doors, they... they sealed. I... I can hear the other guests, screaming "
+"to be let out, to let go."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "Let go? Let go of what?"
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"I came so far to be here... Now, now I just want to leave. Please... Let me "
+"leave."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid ""
+"Sinclair? Sinclair, where did you go? Why did you leave me here? Why..."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "Sinclair, is that you?"
+msgstr ""
+
+#: .\monsters\turrets.json
+msgid "laser turret"
+msgid_plural "laser turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'laser turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A simple military-grade laser turret for protecting important areas. Nothing"
+" too special about it, but it's deadly and gets the job done."
+msgstr ""
+
+#: .\monsters\turrets.json
+msgid "broken laser turret"
+msgid_plural "broken laser turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\npcs\NPC_missions.json
+msgid "Sierra Madre Casino Locator Hologram"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Hologram Protection"
+msgstr ""
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\npcs\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to Sierra Madre Casino'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Sierra Madre Casino"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Good luck to you!"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Good work!"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Who or what are you?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "About that mission..."
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "Thanks"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+
+#: .\npcs\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr ""
+
+#: .\npcs\consoles.json
+msgid "Sierra Madre Vault main terminal"
+msgstr ""
+
+#. 
+#. ~ Description for vault control terminal
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid ""
+"Still operational terminal inside the Sierra Madre Vault, providing access "
+"to the most important data for Frederick Sinclair."
+msgstr ""
+
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid "vault control terminal"
+msgstr ""
+
+#: .\npcs\consoles.json .\npcs\dialogue_gala.json .\terrain\furniture.json
+msgid "Gala control panel"
+msgstr ""
+
+#: .\npcs\consoles.json
+msgid "Main terminal for controlling the Gala Event."
+msgstr ""
+
+#: .\npcs\consoles.json
+msgid "power control terminal"
+msgstr ""
+
+#. 
+#. ~ Description for Power control terminal
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid ""
+"Still operational terminal used to manually control the power of the inner "
+"systems in the Sierra Madre Casino."
+msgstr ""
+
+#: .\npcs\dialogue_casino_power.json .\terrain\furniture.json
+msgid "Power control terminal"
+msgstr ""
+
+#: .\npcs\dialogue_casino_power.json
+msgid "Manually restore casino's power"
+msgstr ""
+
+#: .\npcs\dialogue_casino_power.json .\npcs\dialogue_console.json
+#: .\npcs\dialogue_gala.json .\npcs\dialogue_vendor.json
+msgid "Exit"
+msgstr ""
+
+#: .\npcs\dialogue_casino_power.json
+msgid "Power systems online..."
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Welcome to the Sierra Madre Casino. Would you like to buy some chips?"
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Yes."
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json .\npcs\dialogue_vendor.json
+msgid "No thanks, I think I have to go."
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid ""
+"We hope you're satisfied with the transaction and wish you good luck. "
+"Anything else we can do for you?"
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json .\npcs\dialogue_vendor.json
+msgid "No, that's all."
+msgstr ""
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Yes, I'd like to buy some more."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Wait! Who the hell are you? What the hell are you even doing here?! How... "
+"How... Nobody, since the Courier, (God/Dog) and Dean left... Nobody..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "No, who the hell are YOU! What the hell are YOU even doing here?!"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Step aside... Madre's mine mine mine!!!!!!!!!"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "You speak like Vera Keyes..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Alright, calm down and let's talk this over"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "What the hell is going here? Why are you standing here?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"No... You don't understand. I can't let you in... That's my job. To protect "
+"the world from him. From the Sierra Madre and it's curse of greed and "
+"neediness as a whole. If you enter the vault... No, you can't enter the "
+"vault. You shouldn't have come here."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"NO! I WON'T PLAY STUPID GAMES! MADRE'S MINE MINE "
+"MINE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Why not? I came so far. I went through so much. I can't leave. I'm not "
+"letting go. Not now."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I... I'm guarding the Sierra Madre. To protect the world from it. I was "
+"trapped. Together with Dean, (Dog/God) and the Courier. The four of us... "
+"All enslaved... Father Elijah forced us to work for him to break into the "
+"vault, then told the Courier to kill us all... But Courier was a human, not "
+"a monster. The Courier saved us all."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Did... Did he use collars to force obedience?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "What can you tell me about the Courier, (Dog/God) and Dean Domino?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "What happened to the Father Elijah?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Dean Domino was planning this heist himself, long before the rest of us saw "
+"the Sierra Madre walls... He forced me into one of the villa's clinic "
+"autodocs to operate my voice... So that, upon figuring out the password, he "
+"could use me to unlock the vault..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "I'm sorry you had to go through this..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Okay, so, to sum up our current situation, I'm here guarding the Sierra "
+"Madre and you came here... You should leave. There's nothing awaiting you in"
+" the Sierra Madre."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I see... You went so far. Like me. Like the Courier, like Dean Domino, like "
+"(God/Dog), like Father Elijah... But getting to it... That's not the hard "
+"part. It's letting go. Greed, jealously, hate, vengeance, power, control, "
+"hunger, money, even love... We all came here for different reaasons... But "
+"that's what we had to learn. To let go. Hell, Frederick Sinclair, the "
+"Founder himself couldn't let go... And so he himself died in the Sierra "
+"Madre... Everyone who left this place learned to let go. The majority "
+"didn't... And they all died. Neither could Father Elijah."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"That collar on my neck... I have to obey Father Elijah. One of the "
+"inscriptions on the villa wall says \"Try to leave and BOOM\"..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I entered the Casino only because of the guidance of the voice that spoke to"
+" me through the fountain hologram and Casino intercom at the lobby... We "
+"both know to whom this voice belongs at this point, am I right?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"The Courier managed to enter the vault... And learned to let go. (Dog/God) "
+"was a savage mutant with double personality disorder... One was an ever-"
+"hungry monster, the other was a power-thirsty narcissist... But the "
+"Courier... The Courier had patience both for Dog and God, merging two "
+"personalities into one, gentle and peaceful... Dean Domino, that asshole... "
+"Even he finally let go and just left the Sierra Madre... And I... I stayed. "
+"I need to protect the outer world from the horrors of this doomed place... "
+"And Father Elijah..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "So, what happened to the Father Elijah?"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Alright, I have some more questions."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"He forced the Courier to unlock the vault and disengage its security "
+"protocols for him... Then confronted him down there... Wanted to kill the "
+"Courier like throwing away a disposable tool once the job is done and claim "
+"Madre for himself alone... But the Courier was smart and outmaneouvered "
+"Elijah, reached the exit and locked him in the vault from the inside... He "
+"must have survived down there till this very moment we're talking right now."
+" That's the main reason why I'm here. And I'm going to stay, whether he's "
+"already dead or still alive down there, I'll be guarding the Sierra Madre "
+"and the vault entrance."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I'm afraid he's still alive. And on top of that able to communicate with me."
+" And force me to do his dirty job..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Holy shit, how could I not notice this earlier? That collar on your neck... "
+"He... He's alive... And he's doing it again... Doing what he did to me, "
+"(Dog/God), the Courier and Dean Domino... History repeats itself... He's "
+"never let go... Alright, if so, you need to finish it once and for all, "
+"walking the Courier's Mile down there and once again confront him..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Yeah... Unfortunately... The collars... The voice at the fountain... I "
+"remember it all... And now you're here, standing in the Vera's apartment, "
+"where the vault door has been placed... Alright... There's no choice... You "
+"need to get down there... Finish the job... Stop this madman from freeing "
+"himself using you in the process and then unleashing yet another apocalypse "
+"upon this world... The Cloud, the security holograms, the vending machines, "
+"the collars... It's all part of a bigger plan, and that plan ain't nothing "
+"good for everything that lives... You need to continue your heist and stop "
+"him... But please... Remember... Getting there won't be the hardest part. "
+"It's letting go..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"O... Okay... I'll go... Enter the vault... Find him... I'll do it... I'll "
+"try to... No, I WILL stop him..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Take care... Good luck down there... And one more thing! Don't mention my "
+"presence here if you happen to speak with Father Elijah through the intercom"
+" or fountain hologram before you unlock the vault. Otherwise he'll be "
+"prepared. Sure, he'll attempt to kill you, but if he learns that you met me,"
+" he'll want to do so as soon as you peek inside, leaving you with no way to "
+"prepare yourself."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Okay, I will... And I won't. Wish me luck. The vault of the Sierra Madre "
+"Casino, here I come..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Have you dealt with Father Elijah? Please, hurry!"
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Still working to get inside..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid "Yeah... I went down there, he gave me no choice..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"So that means that it's truly over now... But I'll continue my watch "
+"regardless. To warn those who'll come after you, to protect them from their "
+"own greed... Now the best thing you can do is to simply leave. Let go and "
+"begin again, beyond those walls..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json .\npcs\dialogue_console.json
+#: .\npcs\dialogue_fountain.json .\npcs\dialogue_intercom.json
+msgid "..."
+msgstr ""
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Why are you still here? There's nothing for you in the Sierra Madre. Let go "
+"and begin again..."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Sierra Madre control network"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Vera Keyes"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Vera"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Holodisk extracted. File not found..."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Back"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Important! Vera, read..."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "To Vera"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"Vera, if you're reading this, my fears have come to pass, and this is an "
+"apology. I hope you realized what my last words meant to you. If so, they "
+"have led you here, and this place will keep you safe. I know what they meant"
+" for me, and I fear they have trapped me here. I have extracted the previous"
+" entry after our conversation tonight. It can't have been easy for you, and "
+"I am sorry for all I've put you through in silence. I know while you do not "
+"love me, you did not mean any malice in what you did. I knew about your "
+"plans to rob the casino with Dean before you told me. Hearing it from you "
+"didn't make it any easier. For what it's worth, I am glad you told me "
+"yourself, and I understood the tapes he had in his possession. I do not "
+"think either one of you realized what your addiction stemmed from, however, "
+"and that is the tragedy in this. I suspect the world would not have believed"
+" you, regardless, so I respect your desire to keep it from others."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"When first building this Villa, this Casino, I meant it for you. As the "
+"world seemed to race headlong towards war, it became part of my desire to "
+"protect you. The loans, the funding I poured into the casino's "
+"construction... I knew it would not matter when war came for us. It was my "
+"means of creating a shelter, a defense if the world was bombarded in "
+"radiation and bombs. When Dean revealed his plans inadvertently through our "
+"introduction, I realized what had happened, and how I had been tricked. For "
+"a time, my thoughts were dark. I changed the casino vault from a shelter to "
+"a trap, as I knew the first one to enter would be Dean. He would die down "
+"here, and it would have been by his own hand. I fear, however, that I "
+"overstepped myself, and the only safe place in the casino is the Vault. I "
+"have tried to rewire the systems, change the protocols, and I cannot. I will"
+" do one last check on the pipes by the edge of the outside platform and see "
+"if anything can be done. I fear it is useless. If you come down here, do not"
+" access my personal accounts entry. It contains only a message for Dean, and"
+" it will seal the door and you will have no way out - even the elevator is "
+"designed to automatically return when the door is closed, and it will lock "
+"in place. There should be enough in the Vault to sustain you until help "
+"arrives. I have ensured that there is enough medical supplies down here to "
+"keep you comfortable. The holograms should defend the casino from any "
+"attackers, and the hologram beacon in the Villa will broadcast an emergency "
+"signal so that others know you are here. When danger has passed, rescue will"
+" come. I hope you were able to read this, and know that I loved you, "
+"Frederick Sinclair."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Sinclair's personal accounts"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Warning : private access only. Open personal logs?"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "Yes"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "No"
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"Dean, if you're reading this, this is goodbye. You will have many years to "
+"read this message. Why you have smiled in my face and held a dagger to me, I"
+" do not know. You were rich, respected... even admired, loved by many. When "
+"you finally pass away down here, either by your own hand or starvation, know"
+" that your greed has led you here, for no reason I can understand. You have "
+"made a habit in using others for your own ends. Now, the Sierra Madre is "
+"your reward. Whether you used blackmail or force - or even played to Vera's "
+"greed, it will not help down here in the Vault. Greed has led you here. I "
+"hope it leaves you as empty as you left me. The door has sealed, the "
+"elevator has left. Even Vera's voice will not unlock it. Know that on the "
+"night of the Gala Event I shall raise my glass and whisper, \"Fortunato\". "
+"In pace requiescat, Frederick Sinclair."
+msgstr ""
+
+#: .\npcs\dialogue_console.json
+msgid "ERROR: terminal locked"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "And so here you are, down there in the Sierra Madre Vault..."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You've been here the entire time? It wasn't possible for you to enter this "
+"vault before me!"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "Sierra Madre is mine, and mine alone!!!"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "So what happens next?..."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "So, can I finally get an explanation of what's going on here?"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"If you say so... You think you can snatch victory from me like that? You "
+"think you're smarter, better?! This ends here, you piece of shit. You were "
+"going to get evaporated anyways, just like the rest of the wasteland!"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"[As you prepare for the final battle, you notice that Father Elijah starts "
+"powering up laser turrets positioned around the vault room that you "
+"previously missed in the dark. Their charging will take a while, but it's "
+"going to be a rather quick one.]"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You think you're the first one that cracked the Sierra Madre open? Oh no, "
+"the Courier did it before you, but then I got betrayed and the Courier "
+"trapped me here, leaving the vault, making it lock from the outside... I "
+"suspect it's because of the other companions that formed that crew... They "
+"had... Bad influence for the Courier, convincing him somehow that I had... "
+"Evil plans for them... Though I meant no harm, I planned to release and "
+"reward them upon completing the heist."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"And that's why you put collars on them, right, and then sent them on a life-"
+"threatening mission? That's what \"no harm and reward at the end\" stands "
+"for, right?"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"I met one of those \"crew members\" just outside the vault. She's guarding "
+"it. She's guarding it so that the outside world won't learn your cruelty. "
+"According to her, you can't get Sierra Madre. You should just let go."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So how about rewarding me now? I did my job of unlocking the vault, bot so I"
+" could get in and apparently so that you can now get out. I expect a fair "
+"share."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"Hold on, not so fast... You think you came here for the legendary Old World "
+"treasure, right? The truth is, the real treasure of the Sierra Madre is its "
+"technology... Just think of it... Those matter replicators serving as "
+"vending machines, capable of providing resources, the holograms for security"
+" and winning every battle, the Cloud of toxic gas for wiping up everyone "
+"that opposes me, and I can use the collars for the obedience as well... The "
+"Sierra Madre can help build or destroy the entire nations... And on top of "
+"that is quiet, quiet just like the wasteland should be."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "You're... insane, completely insane..."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So... What's next? Is there really no richies inside this vault? Can I... "
+"Just walk away then?"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You've heard the legends of the Sierra Madre... We all have... And so you "
+"went to seek its richies... truth is, there's nothing specific awaiting you "
+"at the vault. Though it doesn't change the fact that the entire Sierra Madre"
+" is a treasure in itself and I plan on utilizing it."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "What are you going to do?"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"The Sierra Madre technology... Just think of it... Those matter replicators "
+"serving as vending machines, capable of providing resources, the holograms "
+"for security and winning every battle, the Cloud of toxic gas for wiping up "
+"everyone that opposes me, and I can use the collars for the obedience as "
+"well... The Sierra Madre can help build or destroy the entire nations... And"
+" on top of that is quiet, quiet just like the wasteland should be."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"The collars, you say? Oh, it was nothing personal... I wish I could just "
+"make them cooperate without them, but human nature is what it is, collars "
+"were sadly a must-have. Even if they were willing to cooperate, without "
+"linked collars they'd end up killing themselves as their greed and the "
+"darkest side of human nature were taking over. Yeah, the collars were harsh "
+"but a neccessity."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"How ironic that some madman like you now starts talking about \"the darkest "
+"side of human nature\"."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid "So, will you tell me at last what's going to happen?"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"Isn't this entire planet insane since the day the bombs dropped, the dead "
+"rose and the aliens invaded? Or maybe it was like that long before the "
+"apocalypse, only did we not notice because we were too busy with our "
+"comfortable lives? Anyways, I'll use the Sierra Madre to wipe the wasteland "
+"clean, to let go of the Old World and then begin again, build a new nation "
+"on its aches, a nation free from the burden of the past."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So you want to commit a genocide, kill off the remaining survivors, that's "
+"what you wanna do? No way this is happening."
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"I've explained everything to you already, and now it's time for you to bow "
+"down in front of my superiority... You're of no use for me anymore, you "
+"fool!"
+msgstr ""
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"This world is already in a condition shitty enough to on top of that worry "
+"about some maniacs wanting to finish it off. I'll not let you harm any of "
+"the remaining surviviors."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Has your life taken a turn? Do troubles beset you? Has fortune left you "
+"behind? If so, the Sierra Madre Casino, in all its glory, is inviting you to"
+" Begin Again. Come to a place where wealth, excitement, and intrigue await "
+"around every corner. Stroll along the winding streets of our beautiful "
+"resort, make new friends... or rekindle old flames. Let your eyes take in "
+"the luxurious expanse of the open desert, under clear starlit skies. Gaze "
+"straight on into the sunset from our Villa rooftops. Countless diversions "
+"await. Gamble in our casino, take in the theater, or stay in one of our "
+"exclusive executive suites that will shelter you - and cater to your every "
+"whim. So if life's worries have weighed you down... if you need an escape "
+"from your troubles... or if you just need an opportunity to begin again, "
+"join us. Let go and leave the world behind at the Sierra Madre grand "
+"opening, this October. We'll be waiting."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Hey, you! Over there! Can you hear me? Good, I KNOW you can hear me... Now "
+"listen closely, listen well... The Sierra Madre, this place... I know why "
+"you're here. Your own greed led you here. And now you're going to help me."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Who's this?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "What was that female voice and that speech?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Why should I help you?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, I'll help."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "So, shall we finally discuss more important matter?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"That was the Sierra Madre broadcasting system... The apocalypse came the "
+"same night the Grand Opening should've taken place, so no one turned the ad "
+"broadcast off... Since then, it broadcasts the ad across the wasteland over "
+"and over, running on backup power... It is what lured you here, am I right? "
+"Now, let's discuss more pending topics, shall we?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"I see you're wearning that metal collar stuffed with explosive charge on "
+"your neck... Good. That means obedience. Make the mistake of saying \"no\" "
+"and I'll set it off."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"I mean, of course you don't have to, but if you do, you'll also help "
+"yourself cracking the Sierra Madre open. And that's what you came here for, "
+"right? So, what do you say?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "I'm not buying into your bullshit."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'll help."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Alright, it's your choice - but good luck surviving the dangers lurking "
+"around every corner here and getting to the Sierra Madre without my help!"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "I don't need anyone telling me what to do."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Well... Fine, you win, I'll help."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Have you changed your mind? Did attmepting to get into the Sierra Madre "
+"prove to be too difficult for you?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "I'm telling you again, I ain't helping you."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"It is in your best interest to get down to helping me instead of asking "
+"pointless questions. Who am I? I'm just a man who hacked the broadcast "
+"system to be able to talk to you. Maybe I'll tell you more, if you prove "
+"yourself to be worthy, that is."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, so you can make smart decisions? Good, very good... Now listen: the only"
+" way to open the Sierra Madre Casino is to trigger the Gala Event... "
+"However, some critical electronics and power distribution systems eventually"
+" broke down from lack of maintenance. Fortunately for us, I've learned a lot"
+" about those systems and have a general understanding of how they work. I'm "
+"aware of three locations around the Villa that should have spare electronic "
+"boards and processing units we can use to work around the issues of the "
+"failing systems."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"The placements of those electronic components were directly linked with key "
+"locations for starting the Gala Event and since I know how to start Gala, "
+"that means I also know where to find them. I request you to retrieve them. "
+"The first Sierra Madre electronic board is located in the power switching "
+"station in the Salida del Sol. Remaining two are in the Puesta del Sol, one "
+"in the switching station on the corner of the district and the second one on"
+" the balcony of one of the buildings next to a wall between Puesta del Sol "
+"and medical district. Look at your tracking device, I've marked all three "
+"locations for you with green \"S\". Once you get them, go back to the "
+"fountain and I'll tell you what's next."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Fine, I'm going..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Anything specific I should watch out for?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Beware of Ghost People, the mutated former humans that lurk and hunt around "
+"the villa. They're dangeorus and even if you \"kill\" them, they'll rise "
+"back up after some time. The only way to make them stay dead is to dismember"
+" their limbs. Watch out for their traps, too. Also, the entire Sierra Madre "
+"is contaminated with toxic gas. There are more concentrated pockets that you"
+" should avoid at all costs, but even if you steer clear from them, the gas "
+"is still everywhere and will slowly poison your body, so you'd better be "
+"quick. Waste too much time, hesitate with your job and it'll kill you."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Also beware of the Sierra Madre holograms. They're a pinnacle of pre-"
+"apocalypse technology... Fully autonomous workers... The security holograms "
+"will shoot laser beams on sight, however if you'll be lucky to get your "
+"hands on the unused emitter and spawn one of your own, it'll serve by your "
+"side, protecting you from Ghost People. Also don't waste your bullets - they"
+" are simply invincible and the only way to destroy them is to find their "
+"corresponding emitters and switch them off. There are also hologram vendors "
+"you can trade with, but they're based on pre-war currency, so I wouldn't "
+"count much on resupplying this way. However, the entire villa is filled with"
+" loot from previous survivors. Also the local vending machines still seem to"
+" be working. Using Sierra Madre Casino chips you can easily find in most "
+"streets and buildings of the villa you can purchase food from them, and if "
+"you find the correct code cards, they'll also unlock military and medical "
+"supplies for sale. And one last thing: see that rifle laying right under the"
+" fountain? Take it. It'll help you survive."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "That collar on my neck really concerns me..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Alright, I'll pay attention to what you've said... I'm on my way."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, no need to worry about it, as long as you obey my orders, that is. The "
+"Sierra Madre speakers and radios broadcasted on frequencies that'd set it "
+"off by an accident, but the Courier blasted all of them away, so no need to "
+"worry about it. Again, as long as you don't tinker with it on your own and "
+"obey my orders, this thing ain't gonna blow up. The choice is yours..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "The Courier?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Well, it's not like I feel any better about it, but seems like I DON'T have "
+"a choice... I'll be on my way."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, nevermind, the Courier was a survivor and a Sierra Madre Treasure Hunter"
+" just like you, don't even remind me of this piece of shit... After all I've"
+" offered to the Courier I got stabbed in the back in return... But there's "
+"no Courier in the Sierra Madre anymore, so fear not."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Have you done what I've asked for?"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Yeah, found all three of them, got all three of them."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json .\npcs\dialogue_intercom.json
+msgid "No, still struggling with it."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"The Gala event has started, the doors to the casino are opened! What the "
+"hell are you doing here! Waiting for the Ghost People to catch up to you! "
+"Hurry inside!"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "I don't see the Gala Event has been started yet, hurry up!"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm trying my best..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm running..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Then don't waste my time, move and do as I said!"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm going..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Good, very good... At least now I'm sure you are capable of staying alive in"
+" the Sierra Madre... Now the time has come for you to start the Gala Event. "
+"Place the electronic boards you've acquired under the fountain hologram so I"
+" can scan them. This will allow me to generate a special access code that "
+"can be used to trigger the Gala Event using the backup power systems since "
+"the main ones have failed a long time ago. The backup should be more "
+"resilient than the main one, so it should work just fine. The terminal for "
+"controlling the Gala Event is located on top of the Campanas del Sol bell "
+"tower. I marked the spot for you with a yellow \"S\". Once you start the "
+"Gala, make a run for the casino. The music and the fireworks will attract a "
+"lot of unwanted attention... Good luck out there."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid "Alright, I'm on my way..."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"What are you doing here? Waiting till the Cloud kills you? Or you don't want"
+" the Sierra Madre anymore? Whatever the case, now it's too late - I order "
+"you to immediately get back to work!"
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Wait a moment, before you go. I... we... hope you've enjoyed your stay. "
+"Farewells can be a time of sadness. Letting go... difficult. As a guest of "
+"the Sierra Madre, you know that truth more than anyone. Frederick Sinclair "
+"believed one's life could be made anew every day, that fortunes were more "
+"than the wealth in your hands. Love. Life... family, those to care for, and "
+"those who will care for you. To those who know these joys, the Sierra Madre "
+"holds little they don't already have. Out in the world, beyond these walls, "
+"that is your chance to begin again. I hope you'll return, in happier times. "
+"Until then, the Sierra Madre... and I... will hold you in our hearts."
+msgstr ""
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Don't waste any more time, go inside the casino! It's what you wanted, it's "
+"why you even dared to come here, am I right?... So hurry!"
+msgstr ""
+
+#: .\npcs\dialogue_gala.json
+msgid "Start the Gala Event"
+msgstr ""
+
+#: .\npcs\dialogue_gala.json
+msgid "Authorization error! Gala Event couldn't be triggered. Aborting..."
+msgstr ""
+
+#: .\npcs\dialogue_gala.json .\npcs\dialogue_vendor.json
+msgid "Cancel"
+msgstr ""
+
+#: .\npcs\dialogue_gala.json
+msgid ""
+"Playing pre-recorded message for the start of the Gala... Everyone, please "
+"may I have your attention -- guests and residents of the Villa alike. I ask "
+"you to step outside and look to the night sky, it's the moment you've been "
+"waiting for, the reason we're all here. The Gala Event, the grand opening of"
+" the Sierra Madre Casino, you are the ones who have made this momentous "
+"occasion possible, and for that we thank you. So raise your glass in "
+"celebration, let music fill the streets, fireworks light the sky and promise"
+" of new beginnings fill your hearts. No matter what your fortune, no matter "
+"what your cares -- let go this night and begin again. I suggest you hurry, "
+"though; the gates of Sierra Madre are open but only for a brief time. After "
+"that the doors will close for the evening's festivities and won't open again"
+" till morning."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"And so you've entered the Sierra Madre casino and can look at all the glory "
+"of the Old World, even at the brink of its end. Few people saw it before "
+"you... No one else will... Thought the same thing I told the Courier and yet"
+" somehow here you are... Anyways, let's get down to business, shall we? The "
+"heist still requires a lot of work."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Who's this \"Courier\"?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, what do I need to do to get inside the vault?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "So this is it... This is really it... Madre's mine mine mine MINE!"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Alright, alright, enough of this circus. Stop hiding behind holograms and "
+"speakers, show yourself!"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Would I get to know who you are at last?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"The Courier... The Courier... I... We... We planned and executed this heist "
+"together. Along with three other survivors, but the other three... They "
+"lacked the skills, they weren't that useful, you know? But the Courier... "
+"The Courier could have gotten the Sierra Madre together with me, but the "
+"greed... Oh, the greed consumed the Courier's soul... I barely survived the "
+"betrayal... But enough of this! The Courier is gone, let's focus on the "
+"heist, we're so close!"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Don't lie to me. One of the three other \"useless\" survivors, Dean Domino "
+"himself, left his journal in the villa. The Courier saved his life, while it"
+" was you being the evil one here all along, Father Elijah!"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "What happened to the other survivors?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Fair enough."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Enough is enough, they were bad candidates... All driven by greed, hunger, "
+"thirst for power, jealously, vengeance... All survived, all left Sierra "
+"Madre, despite none of them being able to let go. Again, enough is enough, "
+"let's focus on your task, shall we?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, let's crack the Sierra Madre open!"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Don't lie to me. One of the three other \"bad candidates\", Dean Domino "
+"himself, left his journal in the villa. The Courier saved his life, while it"
+" was you being the evil one here all along, Father Elijah! And after all "
+"this you dare to say that it's them who \"failed to let go?\""
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Ahhh, I see... Dean Domino, actor, singer... Thief. Liar. Manipulator. "
+"Blackmailer. You don't know what happened in the Sierra Madre the night the "
+"portals opened, the dead rose and the bombs fell, do you? Then I suggest you"
+" take a look around, the evidence is still laying around here in this very "
+"Casino you find yourself in, go see for yourself who Dean Domino truly was. "
+"After all, he planned that heist himself as well. He wanted Sierra Madre to "
+"be his, his alone... But not even for its treasure itself. He wanted it "
+"solely because Sinclair was a happier man than him."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Yeah, I noticed those parts in his journal too... Still don't believe you. "
+"Him being who he was doesn't suddenly make you a \"good guy\"."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Be careful with such statements. You've seen the Sierra Madre villa. You "
+"know what happened to those who thought the way you do. Their skeletons and "
+"desperate wall inscriptions and notes still lay around the streets and "
+"buildings... Some killed because they didn't have what it takes to survive "
+"in the villa... Most killed each other out of greed though. You don't have "
+"to say anything. Just think about it."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Hahaha, you really think I'm that stupid? You'll meet me... When the time "
+"comes. Saw those people around the villa? Or rather what was left of them? "
+"Messages full of greed and hate, evidence of them killing each other... And "
+"their corpses. All of them, no exceptions. Some preserved their humanity, "
+"you might say, as they left stashes of supplies and useful tips on the walls"
+" for others, but they were the first ones to die every time the dark side of"
+" human nature took over their companions."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"You owe me an explanation. Remember this. I'm not stupid hence I don't trust"
+" you either."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"So you still don't know? Well, so let it be! We'll talk... If you "
+"successfully complete your mission, that is."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Damn you..."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Alright, anything else you feel like wasting time to ask? Or are you ready "
+"to proceed with the heist?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"So here's what comes next: the vault is protected by a password... Of course"
+" it is, but the problem is, it must be spoken in Vera Keyes' voice, "
+"Sinclair's true love... There are three recordings of Vera's songs scaterred"
+" around the casino - one in the Tampico, one in the Cantina Madrid and "
+"finally one in her own suites on the top floor. Combining them together will"
+" yeld the sample of her speech capable of unlocking the door... I've marked "
+"the locations of those three recordings for you on your navigation device "
+"with cyan \"S\" signs."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"The catch is, as of now, all three locations are locked behind doors as "
+"strong as the entrance you've just opened and walked through. That's caused "
+"by the casino's lockdown state cutting out power from said doors. To open "
+"them you'll need to go to the power control room and manually restore the "
+"power, waking the casino up. Just walk across the lobby to the door leading "
+"to the casino area, cross the hall until you reach the storage room on the "
+"other side and then go through it to reach the power control room... I've "
+"marked it using blue \"S\"."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Once you're done, bring those three pieces of music here and speak through "
+"the intercom. And beware of the security holograms... The Sierra Madre "
+"casino is crawling with them, placed in key positions."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Got it. Three songs of Vera Keyes."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Have you found the songs already?"
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Yeah, found them, got them, all three of them."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Good, you continue to amaze me... Now combine those recordings in the "
+"correct order I'm going to describe to you in a moment and use it to enter "
+"the vault... Not sure if you searched Vera's and Sinclair's apartment "
+"throroughtfully, but the entrance to the vault is in one of their rooms. "
+"Once you're down there... Then... Then you'll uncover everything and crack "
+"the Sierra Madre open... Don't let me down, survivor. You've come so far... "
+"Good luck, I won't respond on the intercom anymore."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, so here we go... The Heist of the Centuries..."
+msgstr ""
+
+#: .\npcs\dialogue_intercom.json
+msgid "[The intercom is eerily silent... Nobody responds to your calls.]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Welcome to the Sierra Madre. We hope you enjoy your stay. Would you like to "
+"buy something?"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Yes, show me your stock."
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"We hope you're satisfied with the transaction. Anything else we can do for "
+"you?"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Yes, I'd like to make another purchase."
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Welcome to the Sierra Madre autonomous vending system. We hope you enjoy "
+"your stay. Would you like to purchase something?"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Browse the list of available products"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Sorry Sir, you don't have enough Sierra Madre chips to buy the selected item"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Sorry Madam, you don't have enough Sierra Madre chips to buy the selected "
+"item"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Choose a different product"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Thank you for using our services. Here's the list of available products for "
+"you:"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Mac & cheese [20 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Apple [5 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of biscuits [20 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pork n' Beans [30 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of potato chips [15 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of tortilla chips [20 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Cooked steak [25 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Boiled egg [10 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Scrambled eggs [15 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Fresh fries [15 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Orange soda [10 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Lemon-lime soda [10 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Drinking chocolate [10 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Coffee bottle [20 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Tea bottle [20 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Water bottle [15 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Vodka [35 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Wine [50 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Whiskey [70 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of cigarettes [25 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "C4 [350 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ".357 Magnum rounds [50 for 250 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"7.62x51mm '.308 Winchester' rounds [20 for 150 chips] (use your code card to"
+" unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Firearm repair kit [250 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "First aid kit [250 chips]"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "stimpack [500 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Med-X [350 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Mentats [350 chips] (use your code card to unlock)"
+msgstr ""
+
+#: .\npcs\dialogue_vendor.json
+msgid "Redeem complimentary voucher"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram"
+msgstr ""
+
+#. ~ Description for {'str': 'Sierra Madre hologram'}
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram staff"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram workers"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Holograms deployed to serve as vendors, helping customers exchange Sierra "
+"Madre chips and various commodities."
+msgstr ""
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre hologram vendor"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre vending machines"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Vending machines capable of disposing all kinds of goods in return for "
+"Sierra Madre chips. "
+msgstr ""
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre vending machine"
+msgstr ""
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Vera Keyes' fountain hologram"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Sierra Madre fountain hologram of Vera Keyes, welcoming guests and "
+"broadcasting the Gala Event advertisement..."
+msgstr ""
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre Casino intercom"
+msgstr ""
+
+#. 
+#. ~ Description for Sierra Madre Casino intercom
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid ""
+"Sierra Madre Casino intercom system. Still operational. And there's someone "
+"using it to talk to you out there..."
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram casino vendor"
+msgstr ""
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Holograms deployed at the casino to help customers exchange money and chips."
+msgstr ""
+
+#. 
+#. ~ Description for {'str': 'Father Elijah'}
+#: .\npcs\human_npc.json
+msgid "Father Elijah"
+msgstr ""
+
+#: .\npcs\human_npc.json
+msgid "Christine Royce"
+msgstr ""
+
+#: .\npcs\human_npc.json
+msgid "A mysterious self-titled guard of the Sierra Madre..."
+msgstr ""
+
+#: .\npcs\human_npc.json
+msgid ""
+"A mysterious man wanting to wipe the wasteland clean... Maybe he was normal "
+"once, but now he's just a mere terrorist, all because he couldn't let go..."
+msgstr ""
+
+#: .\npcs\missions.json
+msgid "Heist of the Centuries"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Villa"
+msgstr ""
+
+#. 
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json .\overmap_tiles\villa\left_left.json
+msgid "Puesta del Sol"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre clinic"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre police station"
+msgstr ""
+
+#. 
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json
+#: .\overmap_tiles\villa\salida_del_sol.json
+msgid "Salida del Sol"
+msgstr ""
+
+#. 
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json .\overmap_tiles\villa\gala.json
+msgid "Campanas del Sol"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Casino"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Vault"
+msgstr ""
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "abandoned bunker"
+msgstr ""
+
+#: .\overmap_tiles\casino\vault.json
+msgid "Sierra Madre Vault locking mechanism"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\gala.json .\overmap_tiles\villa\salida_del_sol.json
+msgid "Courtyard"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\left.json .\overmap_tiles\villa\puesta_del_sol.json
+msgid "Medical district"
+msgstr ""
+
+#. ~ Sign
+#. 
+#: .\overmap_tiles\villa\mainsquare.json .\start\scenarios.json
+msgid "Sierra Madre"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\medical.json
+msgid "Clinic"
+msgstr ""
+
+#. ~ Computer name
+#: .\overmap_tiles\villa\police.json
+msgid "Storage access terminal"
+msgstr ""
+
+#. ~ Computer option
+#: .\overmap_tiles\villa\police.json
+msgid "Unlock storage room's door"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\police.json
+msgid "Police station"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\puesta_del_sol.json
+#: .\overmap_tiles\villa\salida_del_sol.json
+msgid "Switching station"
+msgstr ""
+
+#. ~ Sign
+#: .\overmap_tiles\villa\residential.json
+msgid "Residential district"
+msgstr ""
+
+#: .\start\professions.json
+msgctxt "profession_male"
+msgid "Sierra Madre Treasure Hunter"
+msgstr ""
+
+#: .\start\professions.json
+msgctxt "profession_female"
+msgid "Sierra Madre Treasure Hunter"
+msgstr ""
+
+#. ~ Profession (male Sierra Madre Treasure Hunter) description
+#: .\start\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've heard of the Sierra Madre Casino. And so you've set, just like many "
+"other fools before, to find it and crack it open, uncovering the legendary "
+"treasure of the Old World buried within it."
+msgstr ""
+
+#. ~ Profession (female Sierra Madre Treasure Hunter) description
+#: .\start\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've heard of the Sierra Madre Casino. And so you've set, just like many "
+"other fools before, to find it and crack it open, uncovering the legendary "
+"treasure of the Old World buried within it."
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - Heist of the Centuries' for a male
+#. character
+#: .\start\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge - Heist of the Centuries"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - Heist of the Centuries' for a female
+#. character
+#: .\start\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge - Heist of the Centuries"
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - Heist of the Centuries' for a male
+#. character.
+#: .\start\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Some foolishness about it lying in the middle of a City of Dead. A "
+"city of ghosts. Buried beneath a blood-red cloud... A bright, shining "
+"monument luring treasure hunters to their doom. An illusion that you can "
+"begin again, change your fortunes. Finding it, though, that's not the hard "
+"part. It's letting go."
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - Heist of the Centuries' for a
+#. female character.
+#: .\start\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Some foolishness about it lying in the middle of a City of Dead. A "
+"city of ghosts. Buried beneath a blood-red cloud... A bright, shining "
+"monument luring treasure hunters to their doom. An illusion that you can "
+"begin again, change your fortunes. Finding it, though, that's not the hard "
+"part. It's letting go."
+msgstr ""
+
+#. ~ Starting location for scenario 'Challenge - Heist of the Centuries'.
+#: .\start\scenarios.json
+msgctxt "start_name"
+msgid "Sierra Madre"
+msgstr ""
+
+#: .\terrain\furniture.json
+msgid "Dean's secret stash"
+msgstr ""
+
+#. ~ Description for Dean's secret stash
+#: .\terrain\furniture.json
+msgid ""
+"A stash containing some useful stuff, left here by a survivor that once "
+"walked these streets just like you..."
+msgstr ""
+
+#: .\terrain\furniture.json
+msgid "smash!"
+msgstr ""
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "whump."
+msgstr ""
+
+#: .\terrain\furniture.json
+msgid "broken radio"
+msgstr ""
+
+#. ~ Description for broken radio
+#: .\terrain\furniture.json
+msgid ""
+"This radio, once capable of broadcasting all kinds of signals, now remains "
+"broken. Upon closer look you notice a bullet hole in it."
+msgstr ""
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "crunch!"
+msgstr ""
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "whack!"
+msgstr ""
+
+#. ~ Description for Sierra Madre vending machine
+#: .\terrain\furniture.json
+msgid ""
+"Sierra Madre vending machine... A form of matter assembler, accepts Sierra "
+"Madre chips and then transforms them into all kinds of useful stuff. Having "
+"certain code cards will allow you to unlock more interesting items to "
+"purchase from it."
+msgstr ""
+
+#. ~ Description for Sierra Madre hologram vendor
+#. ~ Description for Vera Keyes' fountain hologram
+#: .\terrain\furniture.json
+msgid ""
+"Sierra Madre hologram vendor, an autonomous worker for the guests to make "
+"purchases or exchange various kinds of commodities."
+msgstr ""
+
+#. ~ Description for Gala control panel
+#: .\terrain\furniture.json
+msgid "Still operational terminal used to trigger and control the Gala Event."
+msgstr ""
+
+#: .\terrain\furniture.json
+msgid "street lantern"
+msgstr ""
+
+#. ~ Description for street lantern
+#: .\terrain\furniture.json
+msgid ""
+"A simple street lantern providing some light for the dark night streets as "
+"long as it has access to a power source. This one has been stylized to look "
+"like lanterns from the late XIX or early XX century."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "dried fountain"
+msgstr ""
+
+#. ~ Description for dried fountain
+#: .\terrain\terrain.json
+msgid ""
+"A paved bed of a dried fountain, slowly but inevitably eroding due to lack "
+"of maintenance."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino wall"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino wall
+#: .\terrain\terrain.json
+msgid ""
+"An outer wall used in building of the Sierra Madre Casino. Truly "
+"impenetrable - can survive several direct hits with nuclear warheads almost "
+"unscratched."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino roof"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino roof
+#: .\terrain\terrain.json
+msgid ""
+"Roof covering the Sierra Madre Casino, made out of the same material as its "
+"walls, making it indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "crash!"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "bash!"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "open air"
+msgstr ""
+
+#. ~ Description for open air
+#: .\terrain\terrain.json
+msgid "This is open air."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino floor"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino floor
+#: .\terrain\terrain.json
+msgid ""
+"Red tiles out of which the floor inside the Sierra Madre Casino is made."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "SMASH!"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino floor, with overhead light"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino floor, with overhead light
+#: .\terrain\terrain.json
+msgid ""
+"Red tiles out of which the floor inside the Sierra Madre Casino is made, "
+"with a still-functioning light attached to the ceiling above."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "thump"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre red carpet"
+msgstr ""
+
+#. ~ Description for Sierra Madre red carpet
+#: .\terrain\terrain.json
+msgid ""
+"Fancy and durable red carpet used to decorate the interiors of the Sierra "
+"Madre Casino."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Casino entrance door"
+msgstr ""
+
+#. ~ Description for locked Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid "entrance to the Sierra Madre Casino, locked and indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino entrance door"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid ""
+"entrance to the Sierra Madre Casino, unlocked, but still indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Casino entrance door"
+msgstr ""
+
+#. ~ Description for open Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid "entrance to the Sierra Madre Casino, open, but still indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Casino door"
+msgstr ""
+
+#. ~ Description for locked Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"door to the more important interiors of the Sierra Madre Casino. Locked and "
+"indestructible just like the entrance door."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino door"
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"door to the more important interiors of the Sierra Madre Casino. "
+"Indestructible just like the entrance door."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Casino door"
+msgstr ""
+
+#. ~ Description for open Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"Sierra Madre Casino internal door, currently open, still indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Vault door"
+msgstr ""
+
+#. ~ Description for locked Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid "door to the legendary Sierra Madre Vault, locked and indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault door"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, unlocked, but still "
+"indestructible."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Vault door"
+msgstr ""
+
+#. ~ Description for open Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, while indestructible, unlocked and"
+" opened right in front of you, waiting for you to enter the Vault and crack "
+"the Sierra Madre Treasure open..."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault intercom"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault intercom
+#: .\terrain\terrain.json
+msgid ""
+"The intercom located next to the Sierra Madre Vault, protecting it with a "
+"voice password."
+msgstr ""
+
+#. ~ Description for Sierra Madre Casino wall
+#: .\terrain\terrain.json
+msgid ""
+"A solid brick wall used inside the Sierra Madre Casino. Years of "
+"accumulating dirt made this once white wall yellow. From time to time you "
+"can spot golden letters \"SM\" on it, the logo of the Sierra Madre."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "slot machine"
+msgstr ""
+
+#. ~ Description for slot machine
+#: .\terrain\terrain.json
+msgid ""
+"A machine with a bright screen flashing hypnotic promises of wealth.  If "
+"gambling with your life on a daily basis isn't enough for you, you can also "
+"gamble with this."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "golden guard rail"
+msgstr ""
+
+#. ~ Description for golden guard rail
+#: .\terrain\terrain.json
+msgid "A golden guard rail found inside the Sierra Madre Casino."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "clang!"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window."
+msgstr ""
+
+#. ~ Description for Sierra Madre armored window.
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window, it's supposed to withstand a direct hit by a nuclear warhead,"
+" just like the entire Sierra Madre Casino. Tech used to design this wonder "
+"comes, of course, from the Big Mountain research facility."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window without curtains"
+msgstr ""
+
+#. ~ Description for Sierra Madre armored window without curtains
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window (except it doesn't have curtains), it's supposed to withstand "
+"a direct hit by a nuclear warhead, just like the entire Sierra Madre Casino."
+" Tech used to design this wonder comes, of course, from the Big Mountain "
+"research facility."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window with closed curtains"
+msgstr ""
+
+#. ~ Description for Sierra Madre armored window with closed curtains
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window with closed curtains would, it's supposed to withstand a "
+"direct hit by a nuclear warhead, just like the entire Sierra Madre Casino. "
+"Tech used to design this wonder comes, of course, from the Big Mountain "
+"research facility."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "picket fence"
+msgstr ""
+
+#. ~ Description for picket fence
+#: .\terrain\terrain.json
+msgid ""
+"A barrier made of wood, it's nothing complicated.  Mildly suggests where not"
+" to go."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "crack."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "wham."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "fence post"
+msgstr ""
+
+#. ~ Description for fence post
+#: .\terrain\terrain.json
+msgid ""
+"A couple of posts that support the fence.  They look alone without the "
+"fence."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre toxic gas"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Cloud"
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault floor"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault floor
+#: .\terrain\terrain.json
+msgid ""
+"The floor used to cover the ground of the Sierra Madre legendary vault, made"
+" of the strongest metal alloys ever produced by humans."
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault floor
+#: .\terrain\terrain.json
+msgid ""
+"The floor used to cover the ground of the Sierra Madre legendary vault, made"
+" of the strongest metal alloys ever produced by humans, with a still-"
+"functioning light attached to the ceiling above."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault wall"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault wall
+#: .\terrain\terrain.json
+msgid ""
+"Thick, practically indestructible wall used to protect the Sierra Madre "
+"Vault. Even tougher than the outer walls of the Casino, this one can sustain"
+" direct hits from at least a dozen nuclear warheads unscratched."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault interior door"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault interior door
+#: .\terrain\terrain.json
+msgid ""
+"Closed indestructible door separating the interiors of the Sierra Madre "
+"Vault."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Vault interior door"
+msgstr ""
+
+#. ~ Description for open Sierra Madre Vault interior door
+#: .\terrain\terrain.json
+msgid ""
+"Opened indestructible door separating the interiors of the Sierra Madre "
+"Vault."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault glass wall"
+msgstr ""
+
+#. ~ Description for Sierra Madre Vault glass wall
+#: .\terrain\terrain.json
+msgid ""
+"Super resistant type of ballistic glass developed at Big Mountain research "
+"facility. As everything else used to build the Sierra Madre casino, "
+"especially its vault, it's designed to withstand direct hit by a nuclear "
+"warhead."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "high gauge pipe"
+msgstr ""
+
+#. ~ Description for high gauge pipe
+#: .\terrain\terrain.json
+msgid "This is a section of high gauge pipe."
+msgstr ""
+
+#: .\terrain\terrain.json
+msgid "metal screeching!"
+msgstr ""
+
+#. ~ Description for locked Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, permanently locked due to vault's "
+"trap activation, turning it from a vault into a coffin. YOUR coffin..."
+msgstr ""

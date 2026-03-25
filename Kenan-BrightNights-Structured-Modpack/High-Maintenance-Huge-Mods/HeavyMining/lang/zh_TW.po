@@ -1,0 +1,69 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Heavy miners\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Roadheader and other mining vehicles"
+msgstr "掘進機及其他採礦車輛"
+
+#. ~ Description for Roadheader and other mining vehicles
+#: .\modinfo.json
+msgid ""
+"Adds a roadheader mining vehicle and its parts. Requires Tankmod: Revived."
+msgstr "添加一臺掘進機採礦車輛及其部件。需要 Tankmod: Revived。"
+
+#: .\parts.json
+msgid "roadheader"
+msgid_plural "roadheaders"
+msgstr[0] "掘進機"
+
+#. ~ Description for {'str': 'roadheader'}
+#: .\parts.json
+msgid ""
+"A large and heavy jagged metalhead with a lot of spikes for destroying mine "
+"walls."
+msgstr "一個大型沉重的鋸齒狀金屬頭，帶有許多尖刺，用於破壞礦牆。"
+
+#: .\parts.json
+msgid "Balancer"
+msgid_plural "Balancers"
+msgstr[0] "平衡器"
+
+#. ~ Description for {'str': 'Balancer'}
+#: .\parts.json
+msgid "A large and heavy metal bar for balancing a vehicle."
+msgstr "一根大型沉重的金屬棒，用於平衡車輛。"
+
+#. ~ Description for {'str': 'Balancer'}
+#: .\parts.json
+msgid "A large and heavy metal drum for balancing a vehicle."
+msgstr "一個大型沉重的金屬桶，用於平衡車輛。"
+
+#. ~ Description for {'str': 'roadheader'}
+#: .\parts.json
+msgid ""
+"A large metal jagged metalhead, powered by the vehicle's engines.  Use the "
+"vehicle controls to turn it on or off.  When turned on, it will stop the "
+"vehicle unless it has a strong engine.  When turned on, it will destroy "
+"walls near it."
+msgstr ""
+"一個大型金屬鋸齒狀金屬頭，由車輛引擎驅動。使用車輛控制裝置開啟或關閉。開啟時，除非車輛有強勁引擎，否則會停止車輛。開啟時，它會破壞附近的牆壁。"
+
+#: .\vehicles.json
+msgid "Roadheader"
+msgstr "巷道掘進機"

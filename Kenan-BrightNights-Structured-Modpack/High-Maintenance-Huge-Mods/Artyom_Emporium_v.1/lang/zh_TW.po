@@ -1,0 +1,2091 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Arts' Guns\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\art_ammo.json .\art_ammo_types.json
+msgid ".380"
+msgid_plural ".380"
+msgstr[0] ".380"
+
+#. ~ Description for {'str': '.380', 'str_pl': '.380'}
+#: .\art_ammo.json
+msgid ""
+"The .380 round is a compact pistol round. Only used in compact pistols or "
+"zip guns."
+msgstr ".380子彈是一種緊湊型手槍彈。僅用於緊湊型手槍或簡易槍械。"
+
+#: .\art_ammo.json
+msgid ".380 casing"
+msgid_plural ".380 casings"
+msgstr[0] ".380彈殼"
+
+#. ~ Description for {'str': '.380 casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a .380 round."
+msgstr ".380子彈的空彈殼。"
+
+#: .\art_ammo.json
+msgid ".303 British"
+msgid_plural ".303 Britishs"
+msgstr[0] ".303英國"
+
+#. ~ Description for {'str': '.303 British'}
+#: .\art_ammo.json
+msgid ""
+".303 British was commonly used before the introduction and standardization "
+"of NATO-bloc ammunition. It is roughly similar to 7.62x51mm in terms of "
+"ballistics, but is rimmed."
+msgstr ".303英國彈在引入和標準化北約集團彈藥之前被廣泛使用。它在彈道學上大致類似於7.62x51mm，但有底緣。"
+
+#: .\art_ammo.json
+msgid ".303 casing"
+msgid_plural ".303 casings"
+msgstr[0] ".303彈殼"
+
+#. ~ Description for {'str': '.303 casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a .303 round."
+msgstr ".303子彈的空彈殼。"
+
+#: .\art_ammo.json
+msgid "reloaded .303 British"
+msgid_plural "reloaded .303 Britishs"
+msgstr[0] "重裝.303英國彈"
+
+#: .\art_ammo.json
+msgid "Match 7.62x51mm"
+msgid_plural "Match 7.62x51mms"
+msgstr[0] "比賽級7.62x51mm"
+
+#: .\art_ammo.json
+msgid "7.62x54mmR API/Explosive"
+msgid_plural "7.62x54mmR API/Explosives"
+msgstr[0] "7.62x54mmR API/爆炸彈"
+
+#. ~ Description for {'str': '7.62x54mmR API/Explosive'}
+#: .\art_ammo.json
+msgid ""
+"Originally used by Soviet Anti-Air weapons, then used by snipers to blow "
+"apart fascist light armour. Now used by you. Careful using it too close to "
+"yourself. "
+msgstr "最初用於蘇聯防空武器，後來被狙擊手用來炸開法西斯輕型裝甲。現在由你使用。注意不要離自己太近使用。"
+
+#: .\art_ammo.json
+msgid ".460 Rowland"
+msgid_plural ".460 Rowland"
+msgstr[0] ".460羅蘭"
+
+#. ~ Description for {'str': '.460 Rowland', 'str_pl': '.460 Rowland'}
+#: .\art_ammo.json
+msgid ""
+"The .460 Rowland is a modified version of the .45 round used in pistols like"
+" the M1911. The .460 is an evolutionary step as it has more power and faster"
+" velocity then the .45 making it one of the most powerful semi-automatic "
+"pistol round in the world."
+msgstr ""
+".460羅蘭是用於M1911等手槍的.45子彈的改進版本。.460是進化的一步，因為它比.45擁有更大的威力和更快的速度，使其成為世界上最強大的半自動手槍彈之一。"
+
+#: .\art_ammo.json
+msgid "reloaded .460 Rowland"
+msgid_plural "reloaded .460 Rowland"
+msgstr[0] "重裝.460羅蘭彈"
+
+#: .\art_ammo.json
+msgid "8mm Mauser"
+msgid_plural "8mm Mausers"
+msgstr[0] "8mm毛瑟"
+
+#. ~ Description for {'str': '8mm Mauser'}
+#: .\art_ammo.json
+msgid ""
+"Introduced in its current form in 1903, the 8mm Mauser is one of the most "
+"famous and prolific cartridges of all time. Its users stretched from China "
+"to Chile, and is still used today."
+msgstr "8毫米毛瑟彈於1903年以當前形式問世，是有史以來最著名且產量最大的彈藥之一。其使用範圍從中國延伸至智利，至今仍在使用。"
+
+#: .\art_ammo.json
+msgid "8mm Mauser casing"
+msgid_plural "8mm Mauser casings"
+msgstr[0] "8毫米毛瑟彈殼"
+
+#. ~ Description for {'str': '8mm Mauser casing'}
+#: .\art_ammo.json
+msgid "An empty casing from a 8mm Mauser round."
+msgstr "一枚8毫米毛瑟彈的空彈殼。"
+
+#: .\art_ammo.json
+msgid "reloaded 8mm Mauser"
+msgid_plural "reloaded 8mm Mausers"
+msgstr[0] "重裝8毫米毛瑟彈"
+
+#: .\art_ammo.json
+msgid "Match .303"
+msgid_plural "Match .303s"
+msgstr[0] "比賽級.303彈"
+
+#: .\art_ammo.json
+msgid ".50BMG - Explosive"
+msgid_plural ".50BMG - Explosives"
+msgstr[0] ".50BMG - 爆炸彈"
+
+#. ~ Description for {'str': '.50BMG - Explosive'}
+#: .\art_ammo.json
+msgid ""
+"Easily capable of blowing apart light targets, this ammo is used as anti-"
+"materiel ammunition the world over."
+msgstr "這種彈藥能輕易撕裂輕型目標，在全球範圍內被用作反器材彈藥。"
+
+#: .\art_ammo.json
+msgid "Match 5.56 NATO"
+msgid_plural "Match 5.56 NATOs"
+msgstr[0] "比賽級5.56 NATO彈"
+
+#. ~ Description for {'str': 'Match 5.56 NATO'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 5.56 NATO cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr "一款手工裝填的5.56 NATO彈藥。為精度與殺傷力而優化裝填，製作精良——但價格相當昂貴。"
+
+#: .\art_ammo.json
+msgid "Match .30-06"
+msgid_plural "Match .30-06s"
+msgstr[0] "比賽級.30-06彈"
+
+#. ~ Description for {'str': 'Match .30-06'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded .30-06 cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr "一款手工裝填的.30-06彈藥。為精度與殺傷力而優化裝填，製作精良——但價格相當昂貴。"
+
+#: .\art_ammo.json
+msgid "Match 7.62x39mm"
+msgid_plural "Match 7.62x39mms"
+msgstr[0] "比賽級7.62x39mm彈"
+
+#. ~ Description for {'str': 'Match 7.62x39mm'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 7.62x39mm cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive. Based on the M87 loading."
+msgstr "一款手工裝填的7.62x39mm彈藥。為精度與殺傷力而優化裝填，製作精良——但價格相當昂貴。基於M87裝藥規格。"
+
+#: .\art_ammo.json
+msgid ".22 Zimmerpatronen"
+msgid_plural ".22 Zimmerpatronens"
+msgstr[0] ".22室內訓練彈"
+
+#. ~ Description for {'str': '.22 Zimmerpatronen'}
+#: .\art_ammo.json
+msgid ""
+"A very quiet, very lightweight .22LR round meant for indoors practice "
+"without ear protection. The gun is louder than the ammunition. Handmade in "
+"the US of A."
+msgstr "一種非常安靜、極輕量的.22LR彈藥，專為無需護耳的室內訓練設計。槍聲比彈藥本身更響。美國手工製造。"
+
+#: .\art_ammo.json
+msgid "Match 5.45x39"
+msgid_plural "Match 5.45x39s"
+msgstr[0] "比賽級5.45x39彈"
+
+#. ~ Description for {'str': 'Match 5.45x39'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 5.45x39 cartridge. Loaded for accuracy and damage, very well "
+"made - but quite expensive."
+msgstr "一款手工裝填的5.45x39彈藥。為精度與殺傷力而優化裝填，製作精良——但價格相當昂貴。"
+
+#: .\art_ammo.json
+msgid "Match 8mm Mauser"
+msgid_plural "Match 8mm Mausers"
+msgstr[0] "比賽級8毫米毛瑟彈"
+
+#. ~ Description for {'str': 'Match 8mm Mauser'}
+#: .\art_ammo.json
+msgid ""
+"A handloaded 8mm Mauser cartridge. Loaded for accuracy and damage, very well"
+" made - but quite expensive."
+msgstr "一款手工裝填的8毫米毛瑟彈藥。為精度與殺傷力而優化裝填，製作精良——但價格相當昂貴。"
+
+#: .\art_ammo_types.json
+msgid ".460"
+msgstr ".460彈"
+
+#: .\art_ammo_types.json
+msgid ".303"
+msgstr ".303彈"
+
+#: .\art_ammo_types.json
+msgid "7.92mm"
+msgstr "7.92毫米彈"
+
+#: .\art_magazines.json
+msgid "10 Round 7.62x51mm Magazine"
+msgid_plural "10 Round 7.62x51mm Magazines"
+msgstr[0] "10發7.62x51mm彈匣"
+
+#. ~ Description for {'str': '10 Round 7.62x51mm Magazine'}
+#: .\art_magazines.json
+msgid "A 10 round 7.62x51mm magazine for use in sniper rifles"
+msgstr "一個10發容量的7.62x51mm彈匣，適用於狙擊步槍"
+
+#: .\art_magazines.json
+msgid "20 Round 7.62x51mm Magazine"
+msgid_plural "20 Round 7.62x51mm Magazines"
+msgstr[0] "20發7.62x51mm彈匣"
+
+#. ~ Description for {'str': '20 Round 7.62x51mm Magazine'}
+#: .\art_magazines.json
+msgid "A 20 round 7.62x51mm magazine for use in sniper rifles"
+msgstr "一個20發容量的7.62x51mm彈匣，適用於狙擊步槍"
+
+#: .\art_magazines.json
+msgid "10 Round 7.62x54R Magazine"
+msgid_plural "10 Round 7.62x54R Magazines"
+msgstr[0] "10發7.62x54R彈匣"
+
+#. ~ Description for {'str': '10 Round 7.62x54R Magazine'}
+#: .\art_magazines.json
+msgid "A 10 round 7.62x54R magazine for use in Russian sniper rifles"
+msgstr "一個10發容量的7.62x54R彈匣，適用於俄製狙擊步槍"
+
+#: .\art_magazines.json
+msgid "20 Round 7.62x54R Magazine"
+msgid_plural "20 Round 7.62x54R Magazines"
+msgstr[0] "20發7.62x54R彈匣"
+
+#. ~ Description for {'str': '20 Round 7.62x54R Magazine'}
+#: .\art_magazines.json
+msgid ""
+"An extended 20 round 7.62x54R magazine for use in Russian sniper rifles"
+msgstr "一個加長型20發容量的7.62x54R彈匣，適用於俄製狙擊步槍"
+
+#: .\art_magazines.json
+msgid "40 S&W Magazine"
+msgid_plural "40 S&W Magazines"
+msgstr[0] "40 S&W 彈匣"
+
+#. ~ Description for {'str': '40 S&W Magazine'}
+#: .\art_magazines.json
+msgid "A single-stack 40 S&W Magazine"
+msgstr "一個單排 40 S&W 彈匣"
+
+#: .\art_magazines.json
+msgid "9x19 7 Round Magazine"
+msgid_plural "9x19 7 Round Magazines"
+msgstr[0] "9x19 7 發彈匣"
+
+#. ~ Description for {'str': '9x19 7 Round Magazine'}
+#: .\art_magazines.json
+msgid "A single-stack 9x19 Magazine"
+msgstr "一個單排 9x19 彈匣"
+
+#: .\art_magazines.json
+msgid "9x4 Storm Magazine"
+msgid_plural "9x4 Storm Magazines"
+msgstr[0] "9x4 風暴彈匣"
+
+#. ~ Description for {'str': '9x4 Storm Magazine'}
+#: .\art_magazines.json
+msgid "A compact light-weight polymer magazine."
+msgstr "一個緊湊輕量的聚合物彈匣。"
+
+#: .\art_magazines.json
+msgid "Sig P220 magazine"
+msgid_plural "Sig P220 magazines"
+msgstr[0] "Sig P220 彈匣"
+
+#. ~ Description for {'str': 'Sig P220 magazine'}
+#: .\art_magazines.json
+msgid "A military issue 8-round magazine for use with the Sig P220 handgun."
+msgstr "一個軍用 8 發彈匣，用於 Sig P220 手槍。"
+
+#: .\art_magazines.json
+msgid "Sig P227 magazine"
+msgid_plural "Sig P227 magazines"
+msgstr[0] "Sig P227 彈匣"
+
+#. ~ Description for {'str': 'Sig P227 magazine'}
+#: .\art_magazines.json
+msgid "A military issue 15-round magazine for use with the Sig P227 handgun."
+msgstr "一個軍用 15 發彈匣，用於 Sig P227 手槍。"
+
+#: .\art_magazines.json
+msgid "Sig P226 magazine"
+msgid_plural "Sig P226 magazines"
+msgstr[0] "Sig P226 彈匣"
+
+#. ~ Description for {'str': 'Sig P226 magazine'}
+#: .\art_magazines.json
+msgid ""
+"A compact light-weight polymer magazine for use with Sig P226 compatible "
+"firearms."
+msgstr "一個緊湊輕量的聚合物彈匣，用於兼容 Sig P226 的槍械。"
+
+#: .\art_magazines.json
+msgid "FN FNP-9 magazine"
+msgid_plural "FN FNP-9 magazines"
+msgstr[0] "FN FNP-9 彈匣"
+
+#. ~ Description for {'str': 'FN FNP-9 magazine'}
+#: .\art_magazines.json
+msgid "A compact light-weight polymer magazine for use with the FNP-9"
+msgstr "一個緊湊輕量的聚合物彈匣，用於 FNP-9"
+
+#: .\art_magazines.json
+msgid ".45 ACP Stripper Clip"
+msgid_plural ".45 ACP Stripper Clips"
+msgstr[0] ".45 ACP 橋夾"
+
+#. ~ Description for {'str': '.45 ACP Stripper Clip'}
+#: .\art_magazines.json
+msgid "A small stripper clip for .45 ACP"
+msgstr "一個用於 .45 ACP 的小型橋夾"
+
+#: .\art_magazines.json
+msgid "9x19 Stripper Clip"
+msgid_plural "9x19 Stripper Clips"
+msgstr[0] "9x19 橋夾"
+
+#. ~ Description for {'str': '9x19 Stripper Clip'}
+#: .\art_magazines.json
+msgid "A small stripper clip for 9x19"
+msgstr "一個用於 9x19 的小型橋夾"
+
+#: .\art_magazines.json
+msgid "P08 magazine"
+msgid_plural "P08 magazines"
+msgstr[0] "P08 彈匣"
+
+#. ~ Description for {'str': 'P08 magazine'}
+#: .\art_magazines.json
+msgid "A wooden P08 Magazine used with the .45 round"
+msgstr "一個木製 P08 彈匣，用於 .45 口徑子彈"
+
+#: .\art_magazines.json
+msgid "CZ 52 Magazine"
+msgid_plural "CZ 52 Magazines"
+msgstr[0] "CZ 52 彈匣"
+
+#. ~ Description for {'str': 'CZ 52 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 52 Magazine"
+msgstr "一個金屬 CZ 52 彈匣"
+
+#: .\art_magazines.json
+msgid "CZ 75 Magazine"
+msgid_plural "CZ 75 Magazines"
+msgstr[0] "CZ 75 彈匣"
+
+#. ~ Description for {'str': 'CZ 75 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 75 Magazine"
+msgstr "一個金屬 CZ 75 彈匣"
+
+#: .\art_magazines.json
+msgid "Jericho 941 Magazine"
+msgid_plural "Jericho 941 Magazines"
+msgstr[0] "Jericho 941 彈匣"
+
+#. ~ Description for {'str': 'Jericho 941 Magazine'}
+#: .\art_magazines.json
+msgid "A metal Jericho 941 Magazine"
+msgstr "一個金屬 Jericho 941 彈匣"
+
+#: .\art_magazines.json
+msgid "Automag Magazine"
+msgid_plural "Automag Magazines"
+msgstr[0] "自動馬格南彈匣"
+
+#. ~ Description for {'str': 'Automag Magazine'}
+#: .\art_magazines.json
+msgid "A metal magazine for the worst gun in existence."
+msgstr "一個金屬彈匣，用於現存最糟糕的槍。"
+
+#: .\art_magazines.json
+msgid "CZ 83 Magazine"
+msgid_plural "CZ 83 Magazines"
+msgstr[0] "CZ 83 彈匣"
+
+#. ~ Description for {'str': 'CZ 83 Magazine'}
+#: .\art_magazines.json
+msgid "A metal CZ 83 Magazine"
+msgstr "一個金屬 CZ 83 彈匣"
+
+#: .\art_magazines.json
+msgid "Fort 12 Magazine"
+msgid_plural "Fort 12 Magazines"
+msgstr[0] "Fort 12 彈匣"
+
+#. ~ Description for {'str': 'Fort 12 Magazine'}
+#: .\art_magazines.json
+msgid "A metal Fort 12 Magazine"
+msgstr "一個金屬製的 Fort 12 彈匣"
+
+#: .\art_magazines.json
+msgid "Tec 22 magazine"
+msgid_plural "Tec 22 magazines"
+msgstr[0] "Tec 22 彈匣"
+
+#. ~ Description for {'str': 'Tec 22 magazine'}
+#: .\art_magazines.json
+msgid "A 30 round box magazine for use with the Tec 22 SMG"
+msgstr "一個 30 發盒式彈匣，適用於 Tec 22 衝鋒槍"
+
+#: .\art_magazines.json
+msgid "Tec 22 drum magazine"
+msgid_plural "Tec 22 drum magazines"
+msgstr[0] "Tec 22 彈鼓"
+
+#. ~ Description for {'str': 'Tec 22 drum magazine'}
+#: .\art_magazines.json
+msgid "A 100 round drum magazine for use with the Tec 22 SMG"
+msgstr "一個 100 發彈鼓，適用於 Tec 22 衝鋒槍"
+
+#: .\art_magazines.json
+msgid "Bizon drum magazine"
+msgid_plural "Bizon drum magazines"
+msgstr[0] "野牛衝鋒槍彈鼓"
+
+#. ~ Description for {'str': 'Bizon drum magazine'}
+#: .\art_magazines.json
+msgid "A unique giant drum... thing meant for the Bizon SMG"
+msgstr "一個獨特的巨型彈鼓……專為野牛衝鋒槍設計"
+
+#: .\art_magazines.json
+msgid "KP m/44 Magazine"
+msgid_plural "KP m/44 Magazines"
+msgstr[0] "KP m/44 彈匣"
+
+#. ~ Description for {'str': 'KP m/44 Magazine'}
+#: .\art_magazines.json
+msgid "A stick made out of metal meant for 9mm PPSH clones"
+msgstr "一個金屬製成的彈匣，適用於 9 毫米波波沙仿製槍"
+
+#: .\art_magazines.json
+msgid "5.56x45mm AK short magazine"
+msgid_plural "5.56x45mm AK short magazines"
+msgstr[0] "5.56x45 毫米 AK 短彈匣"
+
+#. ~ Description for {'str': '5.56x45mm AK short magazine'}
+#: .\art_magazines.json
+msgid "A compact 10-round magazine meant for AK profile rifles."
+msgstr "一個緊湊的 10 發彈匣，適用於 AK 系列步槍"
+
+#: .\art_magazines.json
+msgid "AK Standard magazine"
+msgid_plural "AK Standard magazines"
+msgstr[0] "AK 標準彈匣"
+
+#. ~ Description for {'str': 'AK Standard magazine'}
+#: .\art_magazines.json
+msgid "A standard capacity magazine for use with AK-Blank compatible rifles."
+msgstr "一個標準容量彈匣，適用於兼容 AK-Blank 的步槍"
+
+#: .\art_magazines.json
+msgid "AK Standard drum magazine"
+msgid_plural "AK Standard drum magazines"
+msgstr[0] "AK 標準彈鼓"
+
+#. ~ Description for {'str': 'AK Standard drum magazine'}
+#: .\art_magazines.json
+msgid ""
+"A 50-round magazine with a bulky green drum for use with AK-Blank compatible"
+" rifles."
+msgstr "一個 50 發彈匣，配有笨重的綠色彈鼓，適用於兼容 AK-Blank 的步槍"
+
+#: .\art_magazines.json
+msgid "30-06 magazine"
+msgid_plural "30-06 magazines"
+msgstr[0] "30-06 彈匣"
+
+#. ~ Description for {'str': '30-06 magazine'}
+#: .\art_magazines.json
+msgid ""
+"A standard capacity magazine for use with 30-06 assault weapons during WWII "
+"and Beyond!"
+msgstr "一個標準容量彈匣，適用於二戰及之後的 30-06 突擊武器"
+
+#: .\art_magazines.json
+msgid "AA-12 box magazine"
+msgid_plural "AA-12 box magazines"
+msgstr[0] "AA-12 盒式彈匣"
+
+#. ~ Description for {'str': 'AA-12 box magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the AA-12 shotgun.  Holds 10 rounds"
+msgstr "AA-12 霰彈槍的可拆卸塑料彈匣。容量 10 發"
+
+#: .\art_magazines.json
+msgid "AA-12 drum magazine"
+msgid_plural "AA-12 drum magazines"
+msgstr[0] "AA-12 彈鼓"
+
+#. ~ Description for {'str': 'AA-12 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the AA-12 shotgun.  Holds 30 rounds"
+msgstr "AA-12 霰彈槍的可拆卸塑料彈匣。容量 30 發"
+
+#: .\art_magazines.json
+msgid "USAS-12 drum magazine"
+msgid_plural "USAS-12 drum magazines"
+msgstr[0] "USAS-12 彈鼓"
+
+#. ~ Description for {'str': 'USAS-12 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the USAS-12 shotgun.  Holds 30 rounds"
+msgstr "USAS-12 霰彈槍的可拆卸塑料彈匣。容量 30 發"
+
+#: .\art_magazines.json
+msgid "Franchi Spas 15 box magazine"
+msgid_plural "Franchi Spas 15 box magazines"
+msgstr[0] "弗蘭基 Spas 15 盒式彈匣"
+
+#. ~ Description for {'str': 'Franchi Spas 15 box magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the Spas 15 shotgun.  Holds 10 rounds"
+msgstr "Spas 15 霰彈槍的可拆卸塑料彈匣。容量 10 發"
+
+#: .\art_magazines.json
+msgid "Franchi Spas 15 drum magazine"
+msgid_plural "Franchi Spas 15 drum magazines"
+msgstr[0] "弗蘭基 Spas 15 彈鼓"
+
+#. ~ Description for {'str': 'Franchi Spas 15 drum magazine'}
+#: .\art_magazines.json
+msgid "A removable plastic magazine for the Spas 15 shotgun.  Holds 30 rounds"
+msgstr "Spas 15 霰彈槍的可拆卸塑料彈匣。容量 30 發"
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (762R)"
+msgid_plural "ammo belt linkage (762R)s"
+msgstr[0] "彈藥帶連接（762R）"
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (22lr)"
+msgid_plural "ammo belt linkage (22lr)s"
+msgstr[0] "彈藥帶連接（22lr）"
+
+#: .\art_magazines.json
+msgid "ammo belt linkage (.45)"
+msgid_plural "ammo belt linkage (.45)s"
+msgstr[0] "彈藥帶連接件（.45口徑）"
+
+#: .\art_magazines.json
+msgid "7.62x54R ammo belt"
+msgid_plural "7.62x54R ammo belts"
+msgstr[0] "7.62x54R彈藥帶"
+
+#: .\art_magazines.json
+msgid ".45ACP ammo belt"
+msgid_plural ".45ACP ammo belts"
+msgstr[0] ".45ACP彈藥帶"
+
+#: .\art_magazines.json
+msgid ".22LR ammo belt"
+msgid_plural ".22LR ammo belts"
+msgstr[0] ".22LR彈藥帶"
+
+#: .\art_magazines.json
+msgid "30-06 plate magazine"
+msgid_plural "30-06 plate magazines"
+msgstr[0] "30-06彈板"
+
+#. ~ Description for {'str': '30-06 plate magazine'}
+#: .\art_magazines.json
+msgid "A massive plate of bullets for your Lewis Gun."
+msgstr "為你的劉易斯機槍準備的一大塊彈板。"
+
+#: .\art_magazines.json
+msgid "7.62x54R Russian plate magazine"
+msgid_plural "7.62x54R Russian plate magazines"
+msgstr[0] "7.62x54R俄式彈板"
+
+#. ~ Description for {'str': '7.62x54R Russian plate magazine'}
+#: .\art_magazines.json
+msgid "A massive plate of bullets for your DP Gun."
+msgstr "為你的DP機槍準備的一大塊彈板。"
+
+#: .\art_magazines.json
+msgid "M1911A1 .460 Rowland magazine"
+msgid_plural "M1911A1 .460 Rowland magazines"
+msgstr[0] "M1911A1 .460羅蘭彈匣"
+
+#. ~ Description for {'str': 'M1911A1 .460 Rowland magazine'}
+#: .\art_magazines.json
+msgid ""
+"A custom 7-round magazine for use with the M1911A1 .460 Conversion handgun."
+msgstr "為M1911A1 .460改裝手槍定製的7發彈匣。"
+
+#. ~ Description for {'str': 'M1911A1 .460 Rowland magazine'}
+#: .\art_magazines.json
+msgid ""
+"A custom 10-round magazine for use with the M1911A1 .460 Conversion handgun."
+msgstr "為M1911A1 .460改裝手槍定製的10發彈匣。"
+
+#: .\art_mods.json
+msgid "Rebel's Suppressor"
+msgid_plural "Rebel's Suppressors"
+msgstr[0] "反抗者消音器"
+
+#: .\art_mods.json
+msgid ""
+"This modified suppressor allows for gas to escape, while reducing sound to a"
+" minimal. You don't know but the suppressor might be magic. After all, who "
+"could have made this with only a toolbox and good-will?"
+msgstr "這款改裝消音器允許氣體逸出，同時將聲音降至最低。你或許不知道，但這消音器可能帶有魔力。畢竟，誰能僅憑一個工具箱和善意就造出這東西？"
+
+#: .\art_mods.json
+msgid "muzzle"
+msgstr "槍口"
+
+#: .\art_mods.json
+msgid "EOTech EXPS3-4 Holographic Hybrid Sight"
+msgid_plural "EOTech EXPS3-4 Holographic Hybrid Sights"
+msgstr[0] "EOTech EXPS3-4全息混合瞄準鏡"
+
+#: .\art_mods.json
+msgid "A hybrid sight meant for long range and short range engagements."
+msgstr "一款適用於遠距離和近距離交戰的混合瞄準鏡。"
+
+#: .\art_mods.json
+msgid "sights"
+msgstr "瞄準具"
+
+#: .\art_mods.json
+msgid "EOTech EXP-729 SSS"
+msgid_plural "EOTech EXP-729 SSSs"
+msgstr[0] "EOTech EXP-729 SSS"
+
+#: .\art_mods.json
+msgid ""
+"The EXP-729 SSS is a short sighted scope meant for small close range "
+"engagements."
+msgstr "EXP-729 SSS是一款短視距瞄準鏡，專為小型近距離交戰設計。"
+
+#: .\art_mods.json
+msgid "Trijicon Iluminator Sight"
+msgid_plural "Trijicon Iluminator Sights"
+msgstr[0] "Trijicon照明瞄準鏡"
+
+#: .\art_mods.json
+msgid ""
+"The Iluminator is close range/barrel to barrel fights meant for SMGs and "
+"shotguns."
+msgstr "照明瞄準鏡適用於近距離/槍口對槍口的戰鬥，專為衝鋒槍和霰彈槍設計。"
+
+#: .\art_mods.json
+msgid "Trijicon 1x24 Sight"
+msgid_plural "Trijicon 1x24 Sights"
+msgstr[0] "Trijicon 1x24瞄準鏡"
+
+#: .\art_mods.json
+msgid "A medium range reflex sight that allows for quick target changes."
+msgstr "一款中距離反射式瞄準鏡，可實現快速目標切換。"
+
+#: .\art_mods.json
+msgid "Sightmark Mini-Shot Reflex Sight"
+msgid_plural "Sightmark Mini-Shot Reflex Sights"
+msgstr[0] "Sightmark Mini-Shot反射式瞄準鏡"
+
+#: .\art_mods.json
+msgid "A super small sight that will really only fit on small weapons."
+msgstr "一款超小型瞄準鏡，僅適用於小型武器。"
+
+#: .\art_mods.json
+msgid "Trijicon 1x42 Sight"
+msgid_plural "Trijicon 1x42 Sights"
+msgstr[0] "Trijicon 1x42瞄準鏡"
+
+#: .\art_mods.json
+msgid "A long range reflex sight that allows for quick target changes."
+msgstr "一款遠距離反射式瞄準鏡，可實現快速目標切換。"
+
+#: .\art_mods.json
+msgid "Ultra Duel Shot Pro Night Vision Sight."
+msgid_plural "Ultra Duel Shot Pro Night Vision Sight.s"
+msgstr[0] "Ultra Duel Shot Pro夜視瞄準鏡"
+
+#: .\art_mods.json
+msgid ""
+"A short range glowing sight that allows for increased viability at night."
+msgstr "一款短距離發光瞄準鏡，可提升夜間作戰的可見性。"
+
+#: .\art_mods.json
+msgid "Laser Duel Shot Reflex Sight"
+msgid_plural "Laser Duel Shot Reflex Sights"
+msgstr[0] "Laser Duel Shot反射式瞄準鏡"
+
+#: .\art_mods.json
+msgid "A reflex sight that has a built-in laser sight."
+msgstr "一款內置激光瞄準器的反射式瞄準鏡。"
+
+#: .\art_mods.json
+msgid "ACOG 4x32mm Rifle Scope"
+msgid_plural "ACOG 4x32mm Rifle Scopes"
+msgstr[0] "ACOG 4x32mm 步槍瞄準鏡"
+
+#: .\art_mods.json
+msgid "A long/medium scope used by everything... Well, nearly."
+msgstr "一款適用於幾乎所有武器的中/長程瞄準鏡……嗯，差不多是全部。"
+
+#: .\art_mods.json
+msgid "VX-3 Rifle Scope"
+msgid_plural "VX-3 Rifle Scopes"
+msgstr[0] "VX-3 步槍瞄準鏡"
+
+#: .\art_mods.json
+msgid "A long range scope used by hunting rifles."
+msgstr "一款用於獵槍的遠程瞄準鏡。"
+
+#: .\art_mods.json
+msgid "Spectre DR Duel Role Sights"
+msgid_plural "Spectre DR Duel Role Sightss"
+msgstr[0] "Spectre DR 雙用途瞄準鏡"
+
+#: .\art_mods.json
+msgid "A cool as hell ACOG-like sight used by NATO countries."
+msgstr "一款北約國家使用的酷似ACOG的瞄準鏡，帥到沒邊。"
+
+#: .\art_mods.json
+msgid "P-223 Rifle Scope"
+msgid_plural "P-223 Rifle Scopes"
+msgstr[0] "P-223 步槍瞄準鏡"
+
+#: .\art_mods.json
+msgid "A short range scope used by hunting rifles."
+msgstr "一款用於獵槍的短程瞄準鏡。"
+
+#: .\art_mods.json
+msgid "V-XR Patrol Rifle Scope"
+msgid_plural "V-XR Patrol Rifle Scopes"
+msgstr[0] "V-XR 巡邏步槍瞄準鏡"
+
+#: .\art_mods.json
+msgid "A medium range scope used by hunting rifles."
+msgstr "一款用於獵槍的中程瞄準鏡。"
+
+#: .\art_mods.json
+msgid ".460 Rowland caliber conversion kit"
+msgid_plural ".460 Rowland caliber conversion kits"
+msgstr[0] ".460 Rowland 口徑轉換套件"
+
+#: .\art_mods.json
+msgid ""
+"A conversion kit for the M1911 pistol to allow it the ability to fire the "
+".460 Rowland pistol caliber. Don't forget the muzzle break!"
+msgstr "用於M1911手槍的轉換套件，使其能夠發射.460 Rowland手槍彈。別忘了裝上槍口制退器！"
+
+#: .\art_mods.json
+msgid "bore"
+msgstr "槍管"
+
+#: .\art_mods.json
+msgid ".460 Rowland muzzle brake"
+msgid_plural ".460 Rowland muzzle brakes"
+msgstr[0] ".460 Rowland 槍口制退器"
+
+#: .\art_mods.json
+msgid ""
+"A muzzle break meant specifically for the M1911 conversion. Found in all "
+".460 Rowland conversion kits at your local Artyoms' Gun Emporium."
+msgstr "專為M1911轉換套件設計的槍口制退器。在您當地的阿爾喬姆槍械店裡，所有.460 Rowland轉換套件中都能找到它。"
+
+#: .\art_mods.json
+msgid "Artyom's Custom .460 Rowland Conversion Kit"
+msgid_plural "Artyom's Custom .460 Rowland Conversion Kits"
+msgstr[0] "阿爾喬姆定製 .460 Rowland 轉換套件"
+
+#. ~ Description for {'str': "Artyom's Custom .460 Rowland Conversion Kit",
+#. 'str_pl': "Artyom's Custom .460 Rowland Conversion Kits"}
+#: .\art_mods.json
+msgid ""
+"A conversion kit for the M1911 to make it shoot .460 Rowland. Dissemble it "
+"to get the stuff you need!"
+msgstr "用於M1911手槍的轉換套件，使其能夠發射.460 Rowland彈。拆解它來獲取你需要的部件！"
+
+#: .\art_mods.json
+msgid "GP-25"
+msgid_plural "GP-25"
+msgstr[0] "GP-25"
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the GP-25 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203."
+msgstr "一款兼容華約武器的俄羅斯榴彈發射器。但這個是GP-25的復刻版，適用於華約和北約武器，並能發射M203使用的40mm榴彈。"
+
+#: .\art_mods.json
+msgid "rail"
+msgstr "導軌"
+
+#: .\art_mods.json
+msgid "GP-30"
+msgid_plural "GP-30"
+msgstr[0] "GP-30"
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the GP-30 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203. A more accurate version of the GP-25"
+msgstr ""
+"一款兼容華約武器的俄羅斯榴彈發射器。但這個是GP-30的復刻版，適用於華約和北約武器，並能發射M203使用的40mm榴彈。這是GP-25的更精準版本。"
+
+#: .\art_mods.json
+msgid "BG-15"
+msgid_plural "BG-15"
+msgstr[0] "BG-15"
+
+#: .\art_mods.json
+msgid ""
+"A Russian grenade launcher compatible with Warsaw pact weapons. But this one"
+" is a recreation of the BG-15 that fits Warsaw AND NATO weapons. And fires "
+"the 40mm used by the M203. The first of the Russian launchers."
+msgstr ""
+"一款兼容華約武器的俄羅斯榴彈發射器。但這個是BG-15的復刻版，適用於華約和北約武器，並能發射M203使用的40mm榴彈。這是俄羅斯榴彈發射器中的第一款。"
+
+#: .\art_mods.json
+msgid "space gun shot"
+msgid_plural "space gun shots"
+msgstr[0] "太空槍彈藥"
+
+#: .\art_mods.json
+msgid "A modification meant for the space gun."
+msgstr "專為太空槍設計的改裝部件。"
+
+#: .\art_mods.json
+msgid "underbarrel"
+msgstr "下掛式"
+
+#: .\art_mods.json
+msgid "Grunt's Big Boys"
+msgid_plural "Grunt's Big Boys"
+msgstr[0] "大兵的重火力"
+
+#: .\art_mods.json
+msgid ""
+"This peculiar set-up of two M203 launchers duck-taped to the sides of the "
+"Grunt makes it look ridiculous. But in practice, the soldier who made this "
+"becomes a one-man mortar team. Slinging massive explosive rounds down range "
+"onto unsuspecting zombies and whatnot. A genius of a modification"
+msgstr ""
+"這套奇特的裝置將兩個M203發射器用膠帶綁在“大兵”兩側，看起來十分滑稽。但實際上，製作它的士兵變成了單人迫擊炮小隊，能將巨大的爆炸性彈藥射向遠處的毫無防備的殭屍等等。這是一個天才般的改裝。"
+
+#: .\art_mods.json
+msgid "Pedersen Device Kit"
+msgid_plural "Pedersen Device Kits"
+msgstr[0] "佩德森裝置套件"
+
+#: .\art_mods.json
+msgid ""
+"Replacing several key parts of a .30-06, 7.62x51mm, 7.62x54R, .303, or "
+"7.62x39mm  firearm converting it into a shorter range, semi-automatic "
+"carbine. Much more accurate and controllable than the original rifle, it was"
+" supposed to be the Wonder Weapon of WWI for the Allies... in 1919. The "
+"originals are incredibly rare, however this reproduction includes the kit, "
+"chambered in .32 ACP and ready for use in seconds with all major WWI "
+"weapons. Score!"
+msgstr ""
+"通過替換.30-06、7.62x51mm、7.62x54R、.303或7.62x39mm槍械的若干關鍵部件，將其改造為射程較短、半自動的卡賓槍。比原版步槍更精準且易於操控，本應成為1919年協約國在一戰中的“奇蹟武器”……原版極為罕見，但這套復刻套件包含改裝組件，可適配.32"
+" ACP口徑，並能與所有主要一戰武器快速裝配使用。太棒了！"
+
+#: .\art_mods.json
+msgid "8mm Mauser caliber conversion kit"
+msgid_plural "8mm Mauser caliber conversion kits"
+msgstr[0] "8毫米毛瑟口徑轉換套件"
+
+#: .\art_mods.json
+msgid ""
+"This kit is used to convert a shotgun or 7.62x39mm, .303, 7.62x54R, "
+"7.62x51mm, or .30-06 rifle to the famous and powerful 7.62x51mm caliber.  "
+"The conversion results in reduced ammo capacity and a slight reduction to "
+"accuracy."
+msgstr ""
+"此套件用於將霰彈槍或7.62x39mm、.303、7.62x54R、7.62x51mm、.30-06步槍轉換為著名且威力強大的7.92x57mm毛瑟口徑。改裝後會降低彈藥容量並輕微影響精度。"
+
+#: .\art_weapons.json
+msgid "Browning Hi-Power"
+msgid_plural "Browning Hi-Power"
+msgstr[0] "勃朗寧大威力手槍"
+
+#: .\art_weapons.json
+msgid ""
+"A old but still relatively powerful and reliable semi-auto pistol from "
+"Belgium. Rechambered to fire the ever so powerful 10mm round."
+msgstr "一款來自比利時的老式半自動手槍，仍具備相當的威力和可靠性。經過改膛後可發射威力強大的10毫米子彈。"
+
+#: .\art_weapons.json
+msgid "Remington R51-Subcompact"
+msgid_plural "Remington R51-Subcompact"
+msgstr[0] "雷明頓R51袖珍型"
+
+#: .\art_weapons.json
+msgid ""
+"A subcompact pistol made by Remington. Features a extremely light build and "
+"easy trigger pull. The perfect drop weapon."
+msgstr "雷明頓製造的袖珍手槍。採用極輕量化設計，扳機力度輕柔。完美的備用武器。"
+
+#: .\art_weapons.json
+msgid "Rebel"
+msgid_plural "Rebel"
+msgstr[0] "反抗者"
+
+#: .\art_weapons.json
+msgid ""
+"A modified Browning HP pistol showing a lot of wear-n-tear. But don't let "
+"that fool you, the weapon is accurate, powerful, and near silent thanks to "
+"it's unique sound suppressor. The weapon has the phrase Fight the Power! "
+"scratched in by a knife on the right side of the slide. It was most likely "
+"made during the first few riots in the beginning of the Cataclysm."
+msgstr ""
+"一把經過改裝、佈滿磨損痕跡的勃朗寧HP手槍。但別被外表欺騙——得益於獨特的消音器，這把武器精準、威力強大且近乎無聲。套筒右側有用刀刻下的“反抗強權！”字樣。很可能製作於大災變初期的騷亂期間。"
+
+#: .\art_weapons.json
+msgid "Beretta Px4 Storm Subcompact"
+msgid_plural "Beretta Px4 Storm Subcompact"
+msgstr[0] "伯萊塔Px4風暴袖珍型"
+
+#: .\art_weapons.json
+msgid ""
+"A small, compact pistol made by Beretta. Light and agile, its use is more "
+"than just a pistol; it's a life saver."
+msgstr "伯萊塔製造的小型緊湊手槍。輕巧靈活，它不僅是手槍，更是救命利器。"
+
+#: .\art_weapons.json
+msgid "SIG P224"
+msgid_plural "SIG P224"
+msgstr[0] "西格P224"
+
+#: .\art_weapons.json
+msgid ""
+"A very small, pocket pistol made by Sig Sauer for when you need to put a gun"
+" in your back pocket just in case. The perfect weapon to put it on the "
+"temple of a zombie and blow it's brains all over the wall. Great fun!"
+msgstr "西格紹爾製造的微型口袋手槍，專為隨身隱蔽攜帶而設計。最適合抵近喪屍太陽穴開火，讓腦漿濺滿牆壁。樂趣十足！"
+
+#: .\art_weapons.json
+msgid "SIG P220"
+msgid_plural "SIG P220"
+msgstr[0] "西格P220"
+
+#: .\art_weapons.json
+msgid ""
+"The first pistol made by Sig Sauer, quoted to be the most accurate pistol "
+"right out of the box. Well it does say that, and it sure does show."
+msgstr "西格紹爾製造的首款手槍，被譽為開箱即用的最精準手槍。宣傳所言非虛，實際表現也確實如此。"
+
+#: .\art_weapons.json
+msgid "SIG P227"
+msgid_plural "SIG P227"
+msgstr[0] "西格P227"
+
+#: .\art_weapons.json
+msgid ""
+"A slim, .45 ACP pistol made by SIG. Exceptional and robust, the P227 might "
+"just be the perfect .45"
+msgstr "西格製造的.45 ACP薄型手槍。性能卓越、結構堅固，P227或許就是完美的.45口徑手槍。"
+
+#: .\art_weapons.json
+msgid "SIG P220 Scorpion"
+msgid_plural "SIG P220 Scorpion"
+msgstr[0] "西格P220蠍式"
+
+#: .\art_weapons.json
+msgid ""
+"A special edition of the SIG P220, custom grips, custom finish, custom "
+"everything. All in a nice desert paint job. Even comes with a threaded "
+"barrel!"
+msgstr "西格P220特別版，配備定製握把、表面處理及全套改裝。採用漂亮的沙漠塗裝，甚至附帶螺紋槍管！"
+
+#: .\art_weapons.json
+msgid "SIG P226"
+msgid_plural "SIG P226"
+msgstr[0] "西格P226"
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. It's used by police "
+"forces all around the world. Though it didn't help them when the cataclysm "
+"struck... But hey, they were probably all stupid. You're not stupid, are "
+"you?"
+msgstr ""
+"發射9x19mm子彈的現代半自動手槍，被全球警隊廣泛採用。雖然大災變降臨時這並沒幫上他們什麼忙……不過嘛，那些警察大概都很蠢。你可不蠢，對吧？"
+
+#: .\art_weapons.json
+msgid "FN FNP-9"
+msgid_plural "FN FNP-9"
+msgstr[0] "FN FNP-9"
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. Made by the guys who "
+"created the FN Five-Seven. This underestimated little pistol packs one hell "
+"of a punch. This being from Belgium; I'm not surprised it's good in a bar "
+"fight."
+msgstr ""
+"發射9x19mm子彈的現代半自動手槍，由製造FN Five-"
+"Seven的團隊打造。這款被低估的小手槍威力驚人。既然產自比利時，它在酒吧鬥毆中表現出色我倒毫不意外。"
+
+#: .\art_weapons.json
+msgid "FN FNX-9"
+msgid_plural "FN FNX-9"
+msgstr[0] "FN FNX-9"
+
+#: .\art_weapons.json
+msgid ""
+"A modern semi-automatic handgun that fires 9x19mm. Made by the guys who "
+"created the FN Five-Seven. This underestimated little pistol packs one hell "
+"of a punch. This being from Belgium; I'm not surprised it's good in a bar "
+"fight. And this one has an X in the title so you just know it's supper edgy!"
+msgstr ""
+"發射9x19mm子彈的現代半自動手槍，由製造FN Five-"
+"Seven的團隊打造。這款被低估的小手槍威力驚人。既然產自比利時，它在酒吧鬥毆中表現出色我倒毫不意外。而且名稱裡帶個X，你就知道它超級前衛！"
+
+#: .\art_weapons.json
+msgid "Swiss P210"
+msgid_plural "Swiss P210"
+msgstr[0] "瑞士P210"
+
+#: .\art_weapons.json
+msgid ""
+"A old, but very reliable side arm made by the soon-to-be SIG. Robust, "
+"accurate, and extremely rare. This pistol sure got some fire to it. "
+"Hopefully these zombies don't put out that fire huh?"
+msgstr "由後來演變為西格的公司製造的舊式但非常可靠的隨身武器。堅固、精準且極為稀有。這把槍確實火力十足。但願喪屍們不會澆滅這股火焰，嗯？"
+
+#: .\art_weapons.json
+msgid "M1911A1"
+msgid_plural "M1911A1"
+msgstr[0] "M1911A1"
+
+#: .\art_weapons.json
+msgid ""
+"The M1911A1 was the updated version of the 1911 from 1924. This is the "
+"version of the pistol that ran through WWII to Desert Storm, and is still in"
+" use today."
+msgstr "M1911A1是1911手槍於1924年推出的升級版。這款手槍從二戰服役至沙漠風暴行動，至今仍在被使用。"
+
+#: .\art_weapons.json
+msgid "Shanxi Type 17"
+msgid_plural "Shanxi Type 17"
+msgstr[0] "山西17式"
+
+#: .\art_weapons.json
+msgid ""
+"A .45 ACP version of the Mauser C96 produced in China. Features a short "
+"action and plenty of firepower. You should know this gun from Metal Gear "
+"Solid 3. If you don't... What is wrong with you?!"
+msgstr "中國生產的毛瑟C96 .45 ACP版本。採用短行程槍機，火力強勁。你應該從《合金裝備3》中認識這把槍。如果不認識……那你有什麼毛病？！"
+
+#: .\art_weapons.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\art_weapons.json
+msgid "burst"
+msgstr "連發"
+
+#: .\art_weapons.json
+msgid "M1916 Prussian Red 9"
+msgid_plural "M19116 Prussian Red 9"
+msgstr[0] "M1916普魯士紅9"
+
+#: .\art_weapons.json
+msgid ""
+"The 9mm variant of the Mauser C96. Over 150,000 were made to outpace the "
+"Luger. A large number 9 is burned into the broomhandle in red, a distinct "
+"look. "
+msgstr "毛瑟C96的9毫米變體。為超越魯格手槍而生產了超過15萬支。槍柄上烙有醒目的紅色數字9，外觀獨特。"
+
+#: .\art_weapons.json
+msgid "Luger PO8"
+msgid_plural "Luger PO8"
+msgstr[0] "魯格PO8"
+
+#: .\art_weapons.json
+msgid ""
+"The Luger PO8 is a semi-automatic 9mm shooting handgun used by the German "
+"Empire and by Nazis around the globe. Actually, this one is in .45..."
+msgstr "魯格PO8是一款半自動9毫米手槍，曾被德意志帝國及全球納粹使用。實際上，這把是.45口徑的……"
+
+#: .\art_weapons.json
+msgid "CZ 52"
+msgid_plural "CZ 52"
+msgstr[0] "CZ 52"
+
+#: .\art_weapons.json
+msgid ""
+"The Czechoslovakian military pistol in 1952 gained great popularity when it "
+"first rolled off the production line. Supporting great accuracy and bullet "
+"penetration thanks to the 7.62x25 round that it was chambered in. Not the "
+"most reliable though."
+msgstr ""
+"這款1952年的捷克斯洛伐克軍用 pistol 在首次下線時廣受歡迎。得益於其使用的7.62x25毫米彈藥，具有出色的精度和穿甲能力，但可靠性並非最佳。"
+
+#: .\art_weapons.json
+msgid "CZ 75"
+msgid_plural "CZ 75"
+msgstr[0] "CZ 75"
+
+#: .\art_weapons.json
+msgid ""
+"A Czechoslovakian semi-auto military pistol introduced in 1975 and became "
+"one of the original 'wonder nines', fairly accurate and with a common ammo "
+"type. Makes this weapon a good addition to any gun nut's arsenal."
+msgstr ""
+"一款1975年推出的捷克斯洛伐克半自動軍用 "
+"pistol，成為最初的“奇蹟九毫米”之一，精度不錯且使用常見彈藥類型。這把武器是任何槍械愛好者的軍火庫中的絕佳補充。"
+
+#: .\art_weapons.json
+msgid "IWI Jericho 941"
+msgid_plural "IWI Jericho 941"
+msgstr[0] "IWI傑里科941"
+
+#: .\art_weapons.json
+msgid ""
+"A Israeli defence weapon marketed in the US and parts of the UK as the Baby "
+"Eagle. It's not a desert eagle by any means. But kinda looks like it."
+msgstr "一款以色列防禦武器，在美國和英國部分地區以“小鷹”之名銷售。它絕非沙漠之鷹，但看起來有點像。"
+
+#: .\art_weapons.json
+msgid "Automag"
+msgid_plural "Automag"
+msgstr[0] "自動馬格南"
+
+#: .\art_weapons.json
+msgid ""
+"A not-so-beloved .44 caliber semi-auto pistol. Known for it breaking and "
+"exploding in the users hand instead of being an actual gun. Still packs a "
+"punch though... When it works."
+msgstr "一款不太受歡迎的.44口徑半自動手槍。以在用戶手中斷裂或爆炸而非正常運作而聞名。不過威力依然強勁……當它能用的時候。"
+
+#: .\art_weapons.json
+msgid "CZ 83"
+msgid_plural "CZ 83"
+msgstr[0] "CZ 83"
+
+#: .\art_weapons.json
+msgid ""
+"A Czechoslovakian semi-auto civilian pistol introduced in 1983 to replace "
+"the CZ 52. Very accurate and reliable thanks to its chrome plated barrel and"
+" well built frame."
+msgstr "一款1983年推出的捷克斯洛伐克半自動民用 pistol，旨在取代CZ 52。得益於鍍鉻槍管和堅固的槍身，精度和可靠性極高。"
+
+#: .\art_weapons.json
+msgid "Fort 12"
+msgid_plural "Fort 12"
+msgstr[0] "Fort 12"
+
+#: .\art_weapons.json
+msgid ""
+"A Ukrainian designed and produced pistol firing the ever so popular 9x18mm "
+"round. Small for its use as a police pistol, the Fort 12 boasts great "
+"Ukrainian reliability and good accuracy for stalken your STALKER."
+msgstr ""
+"一款烏克蘭設計生產的手槍，發射廣受歡迎的9x18毫米彈藥。作為警用手槍尺寸小巧，Fort 12以其可靠的烏克蘭品質和良好的精度，適合潛行你的《潛行者》。"
+
+#: .\art_weapons.json
+msgid "Glock 34"
+msgid_plural "Glock 34"
+msgstr[0] "格洛克34"
+
+#: .\art_weapons.json
+msgid ""
+"Competition version of the Glock 19. Much more accurate and slightly lighter"
+" thinks to its weird muzzle drifting system to negate muzzle rise while also"
+" decreasing weight in the front end of the gun. An amazing pistol; but sadly"
+" not many upgrades available."
+msgstr "格洛克19的競賽版本。得益於其奇特的槍口漂移系統，抵消槍口上跳的同時減輕了前端重量，精度更高且略輕。一把出色的手槍；但可惜可用的升級不多。"
+
+#: .\art_weapons.json
+msgid "Glock 18"
+msgid_plural "Glock 18"
+msgstr[0] "格洛克18"
+
+#: .\art_weapons.json
+msgid ""
+"A fully automatic variant of the Glock 17. The Glock 18 features are exactly"
+" the same compared to the Glock 17."
+msgstr "格洛克17的全自動變體。格洛克18的特性與格洛克17完全相同。"
+
+#: .\art_weapons.json
+msgid "auto"
+msgstr "自動"
+
+#: .\art_weapons.json
+msgid "Glock 18c"
+msgid_plural "Glock 18c"
+msgstr[0] "格洛克18c"
+
+#: .\art_weapons.json
+msgid ""
+"The Glock 18c is a compensated variant of the Glock 18. The compensation "
+"allows for better control of recoil."
+msgstr "格洛克18c是格洛克18的補償器變體。補償器能更好地控制後坐力。"
+
+#: .\art_weapons.json
+msgid "TEC-22"
+msgid_plural "TEC-22"
+msgstr[0] "TEC-22"
+
+#: .\art_weapons.json
+msgid ""
+"The more modern TEC-9 but fires the more easily found .22, still made using "
+"stamped metal but now is also made with plastic! So its lighter."
+msgstr "更現代的TEC-9，但發射更易找到的.22彈藥，仍使用衝壓金屬製造，但現在也加入了塑料！所以更輕。"
+
+#: .\art_weapons.json
+msgid "Bizon"
+msgid_plural "Bizon"
+msgstr[0] "野牛"
+
+#: .\art_weapons.json
+msgid ""
+"A Russian grade military SMG with a unique large capacity magazine. Used by "
+"Russian special forces for CQB and tight environments. The Bizon is "
+"accurate, and has excellent armour piercing capabilities."
+msgstr "一款俄製軍用衝鋒槍，配有獨特的大容量彈匣。俄羅斯特種部隊用於CQB和狹窄環境。野牛精度高，並具有出色的穿甲能力。"
+
+#: .\art_weapons.json
+msgid "Beretta Model 38"
+msgid_plural "Beretta Model 38"
+msgstr[0] "伯萊塔38型"
+
+#: .\art_weapons.json
+msgid ""
+"Widely acknowledged as the best weapon to come out of Italy during WWII, its"
+" simple design and ability to fire German 9mm ammo made it very easy to "
+"produce."
+msgstr "被廣泛認為是二戰期間意大利產的最佳武器，其簡單設計及能發射德國9毫米彈藥的能力使其易於生產。"
+
+#: .\art_weapons.json
+msgid "Beretta Model 32/38"
+msgid_plural "Beretta Model 32/38"
+msgstr[0] "伯萊塔32/38型"
+
+#: .\art_weapons.json
+msgid ""
+"Widely acknowledged as the best weapon to come out of Italy during WWII, its"
+" simple design and ability to fire German 9mm ammo made it very easy to "
+"produce. The 32/38 is the updated version of the 38."
+msgstr "被公認為二戰期間意大利生產的最佳武器，其簡潔的設計和能夠發射德國9毫米彈藥的能力使其易於生產。32/38是38型的升級版本。"
+
+#: .\art_weapons.json
+msgid "Scorpion Evo 3 S1"
+msgid_plural "Scorpion Evo 3 S1"
+msgstr[0] "蠍式Evo 3 S1"
+
+#: .\art_weapons.json
+msgid ""
+"The latest in line for the Scorpion sub-machine guns started by the Skorpion"
+" vz 61, its large amount of rails and ability to be modified is one of the "
+"reasons this is a good SMG, the other? It looks fucking cool that's why."
+msgstr ""
+"作為蠍式衝鋒槍系列的最新成員，始於蠍式vz 61，其大量的導軌和可改裝性是它成為一把優秀衝鋒槍的原因之一，另一個原因？因為它看起來他媽的很酷。"
+
+#: .\art_weapons.json
+msgid "Homemade SMG"
+msgid_plural "Homemade SMG"
+msgstr[0] "自制衝鋒槍"
+
+#: .\art_weapons.json
+msgid ""
+"A homemade sub machine gun clearly made in someone's garage with clearly "
+"some knowledge in gun designs. While not very accurate, and has high recoil."
+" It fires a powerful round... 5.56"
+msgstr ""
+"一把顯然是在某人車庫裡自制的衝鋒槍，製作者顯然具備一些槍械設計知識。雖然精度不高，後坐力也大，但它發射的是威力強大的彈藥...5.56毫米。"
+
+#: .\art_weapons.json
+msgid "KP m/44"
+msgid_plural "KP m/44"
+msgstr[0] "KP m/44"
+
+#: .\art_weapons.json
+msgid ""
+"A Finish made clone of the very popular PPSh-43, while it does have some of "
+"the same design, it still wasn't as good as the original."
+msgstr "芬蘭製造的廣受歡迎的PPSh-43的仿製品，雖然設計上有些相似，但仍不及原版。"
+
+#: .\art_weapons.json
+msgid "AK-101"
+msgid_plural "AK-101"
+msgstr[0] "AK-101"
+
+#: .\art_weapons.json
+msgid ""
+"A AK designed to fire 5.56x45mm NATO. One of the many AK-blanks that are "
+"coming out. Good accuracy though."
+msgstr "一款設計用於發射5.56x45毫米北約彈藥的AK步槍。這是眾多新興AK變種之一，不過精度不錯。"
+
+#: .\art_weapons.json
+msgid "AK-102"
+msgid_plural "AK-102"
+msgstr[0] "AK-102"
+
+#: .\art_weapons.json
+msgid ""
+"An AK designed to fire 5.56x45mm NATO. One of the many AK-blanks that are "
+"coming out. Good accuracy though. Lighter and less volume than the AK-101"
+msgstr "一款設計用於發射5.56x45毫米北約彈藥的AK步槍。這是眾多新興AK變種之一，精度不錯。比AK-101更輕，體積更小。"
+
+#: .\art_weapons.json
+msgid "AK-104"
+msgid_plural "AK-104"
+msgstr[0] "AK-104"
+
+#: .\art_weapons.json
+msgid ""
+"A plastic version of the beloved AKM, still performs the same though. The "
+"AK-104 is the shortened version of the AK-103"
+msgstr "備受喜愛的AKM的塑料版本，性能依舊相同。AK-104是AK-103的縮短版本。"
+
+#: .\art_weapons.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步槍"
+
+#: .\art_weapons.json
+msgid "AKS-74"
+msgid_plural "AKS-74"
+msgstr[0] "AKS-74"
+
+#: .\art_weapons.json
+msgid ""
+"The paratrooper version of the AK-74, used by special Russian forces and "
+"stalkers around the zone. Comes with a collapse-able stock"
+msgstr "AK-74的空降兵版本，被俄羅斯特種部隊和區域內的潛行者使用。配備可摺疊槍托。"
+
+#: .\art_weapons.json
+msgid "AKS-74u"
+msgid_plural "AKS-74u"
+msgstr[0] "AKS-74u"
+
+#: .\art_weapons.json
+msgid ""
+"The even more paratrooper version of the AKS-74, used by special Russian "
+"forces and stalkers around the zone. Comes with a collapse-able stock and "
+"tons of recoil!"
+msgstr "AKS-74的進一步空降兵版本，被俄羅斯特種部隊和區域內的潛行者使用。配備可摺疊槍托，後坐力巨大！"
+
+#: .\art_weapons.json
+msgid "AK-12"
+msgid_plural "AK-12"
+msgstr[0] "AK-12"
+
+#: .\art_weapons.json
+msgid ""
+"The newest AK in the line, just a baby compared to what all the other ones "
+"have gone through. This one decides to embrace western culture and has the "
+"ability to shoot 5.56 NATO"
+msgstr "AK系列的最新成員，與其他前輩相比還是個嬰兒。這款槍決定擁抱西方文化，能夠發射5.56毫米北約彈藥。"
+
+#: .\art_weapons.json
+msgid ""
+"The newest AK in the line, just a baby compared to what all the other ones "
+"have gone through. This one said fuck America and NATO and stuck with the "
+"5.45x39"
+msgstr "AK系列的最新成員，與其他前輩相比還是個嬰兒。這款槍對美國佬和北約說不，堅持使用5.45x39毫米彈藥。"
+
+#: .\art_weapons.json
+msgid "CZ 805 BREN"
+msgid_plural "CZ 805 BREN"
+msgstr[0] "CZ 805 BREN"
+
+#: .\art_weapons.json
+msgid ""
+"The replacement of the vz 58, the CZ 805 surpasses any qualification of a "
+"good gun, it's an amazing gun. One of the best."
+msgstr "作為vz 58的替代品，CZ 805超越了任何好槍的標準，它是一把出色的槍，屬於頂級之列。"
+
+#: .\art_weapons.json
+msgid "EM-2 Janson"
+msgid_plural "EM-2 Janson"
+msgstr[0] "EM-2 詹森"
+
+#: .\art_weapons.json
+msgid ""
+"A experimental bullpup designed combat rifle. It was adopted by the UK in "
+"1951, but very quickly was dropped, not because it was bad. But because the "
+"UK was tying ties with NATO. This one shoots the powerful 30-06"
+msgstr ""
+"一款實驗性的無託結構戰鬥步槍。英國於1951年採用，但很快就被放棄，並非因為它不好，而是因為英國正與北約建立聯繫。這款槍發射威力強大的.30-06彈藥。"
+
+#: .\art_weapons.json
+msgid "MSBS Radon"
+msgid_plural "MSBS Radon"
+msgstr[0] "MSBS 氡"
+
+#: .\art_weapons.json
+msgid ""
+"The standard rifle used by the Poland Military in 2031, There are two "
+"versions of this rifle. This one is the Normal version, which looks a lot "
+"like the ACR and performs like it as well... Huh"
+msgstr "波蘭軍隊在2031年使用的標準步槍，這款步槍有兩個版本。這是常規版本，看起來很像ACR，性能也相似...嗯。"
+
+#: .\art_weapons.json
+msgid ""
+"The standard rifle used by the Poland Military in 2031, There are two "
+"versions of this rifle. This one is the bullpup version, which is like a PDW"
+" but a hell of a lot more scary."
+msgstr "波蘭軍隊在2031年使用的標準步槍，這款步槍有兩個版本。這是無託版本，像是一把個人防衛武器，但威力要可怕得多。"
+
+#: .\art_weapons.json
+msgid "AAC Honey Badger"
+msgid_plural "AAC Honey Badger"
+msgstr[0] "AAC 蜜獾"
+
+#: .\art_weapons.json
+msgid ""
+"The AAC Honey Badger is the premier PDW in the modern world. Short, sleek, "
+"and silent as hell. The AAC uses the .300 AC Blackout bullet to achieve sub-"
+"sonic velocity and super-sonic velocity with just a change of the magazine."
+msgstr ""
+"AAC蜜獾是現代世界頂級的個人防衛武器。短小、流暢，且極其安靜。AAC使用.300 AAC "
+"Blackout彈藥，僅通過更換彈匣就能實現亞音速和超音速的切換。"
+
+#: .\art_weapons.json
+msgid "Grunt"
+msgid_plural "Grunt"
+msgstr[0] "咕嚕兵"
+
+#: .\art_weapons.json
+msgid ""
+"A modified SCAR L made by some unknown soldier. It has been painted a leaf "
+"camouflage and features a longer barrel then the base SCAR L, dog tags whose"
+" name has long sense faded away are wrapped around the front end of the gun."
+" And magazines jungle taped together clasp to the magazine well. But what "
+"makes this weapon stand out is its two M203 Big boys. Two M203 launchers are"
+" fashioned to the sides of the SCAR. With a activator switch for each one "
+"taped to the magazine well. An amazing gun, unique to the Cataclysm."
+msgstr ""
+"一把由某位無名士兵改造的SCAR L步槍。它被塗上了樹葉迷彩，槍管比基礎版SCAR "
+"L更長，前端纏繞著姓名早已模糊不清的狗牌。彈匣井上夾著用叢林膠帶捆在一起的彈匣。但讓這把武器脫穎而出的是它的兩個M203“大塊頭”——兩個M203榴彈發射器被安裝在SCAR的兩側，每個的擊發開關都用膠帶固定在彈匣井旁。這是一把令人驚歎的槍，在《災變》中獨一無二。"
+
+#: .\art_weapons.json
+msgid "Steyr Scout"
+msgid_plural "Steyr Scouts"
+msgstr[0] "斯泰爾偵察兵"
+
+#: .\art_weapons.json
+msgid ""
+"The Steyr scout is a long range, compact siper rifle meant for scouting "
+"teams. It fires the powerful 7.62x51mm round and packs one hell of a punch"
+msgstr "斯泰爾偵察兵是一款為偵察小隊設計的遠程緊湊型狙擊步槍。它發射威力強大的7.62x51毫米彈藥，火力十足。"
+
+#: .\art_weapons.json
+msgid "Accuracy International AX308"
+msgid_plural "Accuracy International AX308s"
+msgstr[0] "精密國際AX308"
+
+#: .\art_weapons.json
+msgid ""
+"The Accuracy International AX308 is a state of the art sniper rifle used by "
+"modern sniper teams from around the globe. It's amazing capabilities for "
+"taking out enemies from afar is only offset by the fact that it's rare and "
+"not many were made."
+msgstr "精密國際AX308是一款現代狙擊小隊使用的尖端狙擊步槍，全球各地均有配備。它出色的遠程殲敵能力，唯一的缺點是數量稀少，產量有限。"
+
+#: .\art_weapons.json
+msgid "Accuracy International L96A1"
+msgid_plural "Accuracy International L96A1s"
+msgstr[0] "精密國際L96A1"
+
+#: .\art_weapons.json
+msgid ""
+"The L96A1 is a British designed and manufactured sniper rifle that debuted "
+"back in 1982. While an old rifle, the L96A1 still proves itself on the "
+"battlefield compared to newer sniper rifles."
+msgstr "L96A1是一款英國設計與製造的狙擊步槍，最早於1982年亮相。雖然是一款老式步槍，但相比新型狙擊步槍，L96A1在戰場上依然表現出色。"
+
+#: .\art_weapons.json
+msgid "DSR-1"
+msgid_plural "DSR-1s"
+msgstr[0] "DSR-1"
+
+#: .\art_weapons.json
+msgid ""
+"The DSR-1 is an incredibly futuristic firearm. Toting the 7.62x51mm cartage,"
+" it's power and accuracy is very commendable. But it's reliability and ease "
+"of use is questionable... Seriously, where do you put the magazine?!"
+msgstr ""
+"DSR-1是一款極具未來感的槍械。使用7.62x51毫米彈藥，其威力和精度值得稱道。但它的可靠性和易用性令人懷疑……說真的，彈匣該插哪兒？！"
+
+#: .\art_weapons.json
+msgid "Sako RK95-TP"
+msgid_plural "Sako RK95-TP"
+msgstr[0] "薩科RK95-TP"
+
+#: .\art_weapons.json
+msgid ""
+"A weapon used by the gods of war. A weapon that is used for both good and "
+"evil. This gun was born in the fire forges of hell and blessed in the Garden"
+" of Eden. This weapon has no commanders, or followers. The Sako has saved "
+"many of survivors. It might just save you..."
+msgstr ""
+"戰爭之神使用的武器。一把亦正亦邪的槍。它誕生於地獄的熔爐，又在伊甸園中受祝福。這把武器沒有統帥，也沒有追隨者。薩科拯救了許多幸存者。或許它也能救你……"
+
+#: .\art_weapons.json
+msgid "PSG1"
+msgid_plural "PSG1"
+msgstr[0] "PSG1"
+
+#: .\art_weapons.json
+msgid ""
+"The PSG1 is Germany's premier sniper rifle. Accurate, Damaging, and super "
+"cool looking, this weapon sure is a blast..."
+msgstr "PSG1是德國的頂級狙擊步槍。精準、威力強大、外觀超酷，這把武器絕對夠勁……"
+
+#: .\art_weapons.json
+msgid "M16"
+msgid_plural "M16"
+msgstr[0] "M16"
+
+#: .\art_weapons.json
+msgid ""
+"The first generation M16 used during Vietnam. If the history books tell you "
+"this was a bad gun, they were a little wrong. It's accurate, low weight and "
+"volume, while using a fairly easy to find caliber. Just clean it once in "
+"awhile okay?"
+msgstr ""
+"越戰時期使用的第一代M16。如果歷史書告訴你這是把爛槍，那它們有點錯了。它精準、輕便小巧，而且使用相當常見的口徑。記得偶爾清理一下就行，好嗎？"
+
+#: .\art_weapons.json
+msgid "M16A1"
+msgid_plural "M16A1"
+msgstr[0] "M16A1"
+
+#: .\art_weapons.json
+msgid ""
+"The second generation M16 after soldiers told their superiors that the "
+"original felt like a toy. It features a longer barrel and lower rate of "
+"fire, but much higher accuracy and reliability."
+msgstr "第二代M16，在士兵向上級反映原版感覺像玩具後誕生。它採用更長的槍管和較低的射速，但精度和可靠性大幅提高。"
+
+#: .\art_weapons.json
+msgid "M16A2"
+msgid_plural "M16A2"
+msgstr[0] "M16A2"
+
+#: .\art_weapons.json
+msgid ""
+"The third generation M16. Used during the Iraq war, it didn't prove very "
+"well for the CQB that the marines had to face. Which is where the M4 stepped"
+" in. But in the Cataclysm, you don't need to worry about terrorists with "
+"AKs, only zombies with electricity powers..."
+msgstr ""
+"第三代M16。在伊拉克戰爭中使用，但面對海軍陸戰隊遭遇的近距離戰鬥時表現不佳。這正是M4登場的地方。但在《災變》中，你無需擔心手持AK的恐怖分子，只需對付有電擊能力的殭屍……"
+
+#: .\art_weapons.json
+msgid "M16A3"
+msgid_plural "M16A3"
+msgstr[0] "M16A3"
+
+#: .\art_weapons.json
+msgid ""
+"The fourth generation M16, which featured a lower rate of fire in favour of "
+"making the M16 into a battle rifle. A good call, seeing that this is the "
+"most accurate M16 at that time. A real brute stopper."
+msgstr "第四代M16，通過降低射速將M16轉變為戰鬥步槍。明智之舉，因為這是當時最精準的M16。真正的猛獸終結者。"
+
+#: .\art_weapons.json
+msgid "M16A4"
+msgid_plural "M16A4"
+msgstr[0] "M16A4"
+
+#: .\art_weapons.json
+msgid ""
+"The last generation M16, Now a true battle rifle. Rails up the wazoo, and "
+"better at close quarters thanks to its tri-burst system. A reliable, "
+"accurate, damaging combat rifle."
+msgstr "最後一代M16，如今已是真正的戰鬥步槍。導軌遍佈全身，得益於其三連發系統，在近距離作戰中表現更佳。一把可靠、精準、威力強大的戰鬥步槍。"
+
+#: .\art_weapons.json
+msgid "M110 SASS"
+msgid_plural "M110 SASS"
+msgstr[0] "M110 SASS"
+
+#: .\art_weapons.json
+msgid ""
+"A sniper rifle based on the M16A4, extremely accurate and damaging thanks to"
+" the power 7.62x51mm round that it fires."
+msgstr "一款基於M16A4的狙擊步槍，得益於其發射的強力7.62x51毫米彈藥，極其精準且威力強大。"
+
+#: .\art_weapons.json
+msgid "M4 SOPMOD"
+msgid_plural "M4 SOPMOD"
+msgstr[0] "M4 SOPMOD"
+
+#: .\art_weapons.json
+msgid ""
+"The military issued M4A1; the SOPMOD, also called the Block 1, was a "
+"advancement in M4A1 tech and allows for a more accurate, and reliable M4."
+msgstr "軍方配發的M4A1；SOPMOD，也稱為Block 1，是M4A1技術的一次進步，提供了更精準、更可靠的M4。"
+
+#: .\art_weapons.json
+msgid "M4 Block II"
+msgid_plural "M4 Block II"
+msgstr[0] "M4 Block II"
+
+#: .\art_weapons.json
+msgid ""
+"The special forces issued M4A1. The Block II was used by Navy Seals during "
+"the beginning of the Cataclysm. And has lasted up to this point. Need I say "
+"more?"
+msgstr "特種部隊配發的M4A1。Block II在《災變》初期由海豹突擊隊使用，並一直留存至今。還需要我多說嗎？"
+
+#: .\art_weapons.json
+msgid "De Lisle Commando"
+msgid_plural "De Lisle Commando"
+msgstr[0] "德利爾突擊隊"
+
+#: .\art_weapons.json
+msgid ""
+"The De Lisle Commando is a short, carbine styled bolt action rifle using .45"
+" caliber with an integrated suppressor. Arguably the most silent rifle ever "
+"created, its ability as a survival tool is amazing."
+msgstr "德利爾突擊步槍是一款短小的卡賓風格栓動步槍，使用.45口徑彈藥並配有內置消音器。它堪稱史上最安靜的步槍，作為生存工具的能力令人驚歎。"
+
+#: .\art_weapons.json
+msgid "FG42"
+msgid_plural "FG42s"
+msgstr[0] "FG42"
+
+#: .\art_weapons.json
+msgid ""
+"Germany's go-to paratrooper weapon during WWII, while not the most reliable,"
+" it still caused many casualties on the allied side. A weapon ahead of its "
+"time, this one is a modern reproduction chambered in .30-06."
+msgstr "這是二戰期間德國傘兵的首選武器，雖然可靠性並非最佳，但仍給盟軍造成大量傷亡。這款超前於時代的武器是現代復刻版，使用.30-06口徑彈藥。"
+
+#: .\art_weapons.json
+msgid "FX-05 Xiuhcoatl"
+msgid_plural "FX-05 Xiuhcoatl"
+msgstr[0] "FX-05 火蛇"
+
+#: .\art_weapons.json
+msgid ""
+"The Mexican FX-05 Xiuhcoatl is translated into 'Fire Snake' which is awesome"
+" in it of itself, but what is most important is it's rifling design, instead"
+" of grooves, it has ridges. Making it unique and accurate."
+msgstr "墨西哥FX-05火蛇步槍的名字意為'火焰之蛇'，本身就很酷炫，但最重要的是它的膛線設計——不是凹槽而是凸脊。這使其獨具特色且精度出眾。"
+
+#: .\art_weapons.json
+msgid "H&K G36c"
+msgid_plural "H&K G36c"
+msgstr[0] "H&K G36c"
+
+#: .\art_weapons.json
+msgid ""
+"A smaller version of the G36, the G36c is made for CQB. Light, accurate, and"
+" very reliable, its the ultimate weapon for any special ops soldier"
+msgstr "作為G36的緊湊版本，G36c專為近距離作戰設計。它輕巧、精準且極其可靠，是特種部隊士兵的終極武器。"
+
+#: .\art_weapons.json
+msgid "FAMAS"
+msgid_plural "FAMAS"
+msgstr[0] "FAMAS"
+
+#: .\art_weapons.json
+msgid ""
+"A bullpup assault rifle made with accuracy in mind. The weapon is very "
+"modular, even having the ability to put wing mirrors on the sides... Why?"
+msgstr "這款無託突擊步槍以精度為核心設計。武器模塊化程度極高，甚至能在兩側安裝後視鏡……為什麼？"
+
+#: .\art_weapons.json
+msgid "AA-12"
+msgid_plural "AA-12"
+msgstr[0] "AA-12"
+
+#: .\art_weapons.json
+msgid ""
+"The US made automatic shotgun features a fully automatic recoil reducer "
+"system that provides excess death dealing when in close quarters. "
+msgstr "這款美國製造的自動霰彈槍配備全自動後坐力抑制系統，在近距離交戰時能提供超強的致命打擊能力。"
+
+#: .\art_weapons.json
+msgid "USAS 12"
+msgid_plural "USAS 12s"
+msgstr[0] "USAS 12"
+
+#: .\art_weapons.json
+msgid "Franchi Spas 15"
+msgid_plural "Franchi Spas 15"
+msgstr[0] "弗蘭基Spas 15"
+
+#: .\art_weapons.json
+msgid ""
+"The Italian made Spas 15 was a update on the great Spas 12, making much "
+"needed improvements on loading of shells and rate of fire. It's got a box "
+"magazine and can go full auto!"
+msgstr "意大利製造的Spas 15是經典Spas 12的升級版，在裝彈速度和射速方面做了必要改進。它採用彈匣供彈並能全自動射擊！"
+
+#: .\art_weapons.json
+msgid "Mossberg 590A1"
+msgid_plural "Mossberg 590A1"
+msgstr[0] "莫斯伯格590A1"
+
+#: .\art_weapons.json
+msgid ""
+"The Mossberg 590A1 is a modern military pump action shotgun used by special "
+"forces soldiers around the globe. Known for its brutality on the field. The "
+"weapon is by far a most dangerous firearm."
+msgstr "莫斯伯格590A1是現代軍用泵動霰彈槍，被全球特種部隊使用。以其戰場上的兇悍著稱，是目前最危險的槍械之一。"
+
+#: .\art_weapons.json
+msgid "Open Action Revolver"
+msgid_plural "Open Action Revolver"
+msgstr[0] "開膛式轉輪手槍"
+
+#: .\art_weapons.json
+msgid ""
+"This weapon seems to be a mix of a Semi-Automatic Pistol and a Revolver. "
+"Very peculiar weapon but seems to be in working condition. Accurate, "
+"powerful, and fecking awesome looking."
+msgstr "這把武器似乎是半自動手槍與轉輪手槍的混合體。非常奇特但似乎處於可用狀態。精準、威力強大，而且外觀酷炫到爆。"
+
+#: .\art_weapons.json
+msgid "Colt Single Action Army"
+msgid_plural "Colt Single Action Army"
+msgstr[0] "柯爾特單動陸軍"
+
+#: .\art_weapons.json
+msgid "A Russian once said this was the best gun in the world. Nuff said"
+msgstr "曾有俄羅斯人稱這是世界上最好的槍。無需多言。"
+
+#: .\art_weapons.json
+msgid "Colt Python"
+msgid_plural "Colt Python"
+msgstr[0] "柯爾特蟒蛇"
+
+#: .\art_weapons.json
+msgid ""
+"Weapon of choice for many action heroes and zombie survivalists, this pistol"
+" has proven many times that it is one of the best"
+msgstr "作為眾多動作英雄和殭屍生存者的首選武器，這款手槍多次證明了它是最佳之一。"
+
+#: .\art_weapons.json
+msgid "Ruger Blackhawk"
+msgid_plural "Ruger Blackhawk"
+msgstr[0] "魯格黑鷹"
+
+#: .\art_weapons.json
+msgid ""
+"One of the most versatile revolvers to date, this break-action revolver "
+"features some of the best accuracy of any revolver"
+msgstr "這是迄今為止最多功能的轉輪手槍之一，這款折開式轉輪手槍擁有同類武器中最佳的精度。"
+
+#: .\art_weapons.json
+msgid "Colt Detective Special"
+msgid_plural "Colt Detective Special"
+msgstr[0] "柯爾特偵探特裝型"
+
+#: .\art_weapons.json
+msgid ""
+"The gun that started the Snub-nose revolution. Features small compatibility "
+"and the ability to blow someone face off."
+msgstr "這把槍開啟了短管轉輪手槍的革命。具有小巧的兼容性和轟飛人臉的能力。"
+
+#: .\art_weapons.json
+msgid "Winchester Model 1873"
+msgid_plural "Winchester Model 1873"
+msgstr[0] "溫徹斯特1873型"
+
+#: .\art_weapons.json
+msgid ""
+"A .44-40 caliber repeating rifle straight out of wild west films. This one "
+"has some age to it but like a old mule, it kicks pretty damn hard. Looks "
+"like someone had retooled the gun for .44, guess the 44-40 was too "
+"expensive."
+msgstr ""
+"這把.44-40口徑連發步槍直接出自西部電影。雖有些年頭，但像老騾子一樣後坐力驚人。看來有人將它改造成了.44口徑，估計是44-40彈藥太貴了。"
+
+#: .\art_weapons.json
+msgid "Remington Model 7600"
+msgid_plural "Remington Model 7600"
+msgstr[0] "雷明頓7600型"
+
+#: .\art_weapons.json
+msgid ""
+"The Remington Model 7600 is a pump-action hunting rifle that shoots "
+"7.62x51mm. Proves to be pretty effective against zombie brains."
+msgstr "雷明頓7600型是發射7.62x51mm彈藥的泵動式狩獵步槍。事實證明它對殭屍腦袋相當有效。"
+
+#: .\art_weapons.json
+msgid "Dragunov SVD"
+msgid_plural "Dragunov SVDs"
+msgstr[0] "德拉古諾夫 SVD"
+
+#: .\art_weapons.json
+msgid ""
+"The Dragunov SVD is a semi-automatic sniper rifle in service from 1954 to "
+"modern times via the Russian military and friends. Gas operated and "
+"incredibly reliable; the SVD is sure to bring out the sniper stalker in you!"
+msgstr ""
+"德拉古諾夫 SVD 是一款半自動狙擊步槍，自 1954 年起在俄羅斯軍隊及其盟友中服役至今。採用導氣式設計，可靠性極高；SVD "
+"定能激發你內心的狙擊潛行者！"
+
+#: .\art_weapons.json
+msgid "Ots-03 SVU"
+msgid_plural "Ots-03 SVU"
+msgstr[0] "Ots-03 SVU"
+
+#: .\art_weapons.json
+msgid ""
+"A Russian bullpup sniper rifle which is a conversion for the SVD Dragunov. "
+"The length of a pdw with the range and power of a SVD you can surely breach "
+"and clear any room now!"
+msgstr "一款俄羅斯無託式狙擊步槍，由 SVD 德拉古諾夫改裝而來。擁有 PDW 的長度與 SVD 的射程和威力，你現在肯定能突入並清空任何房間！"
+
+#: .\art_weapons.json
+msgid "Obrez"
+msgid_plural "Obrez"
+msgstr[0] "奧佈雷茲"
+
+#: .\art_weapons.json
+msgid ""
+"An Mosin Nagant that is shortened so much that it looks like a pistol. And "
+"is a pistol; that shoots 7.62x54R..."
+msgstr "一支被截短到看起來像手槍的莫辛-納甘步槍。而且它確實是一把手槍；發射 7.62x54R 子彈……"
+
+#: .\art_weapons.json
+msgid "Ithaca M37"
+msgid_plural "Ithaca M37"
+msgstr[0] "伊薩卡 M37"
+
+#: .\art_weapons.json
+msgid ""
+"The Ithaca M37 is a extremely popular shotgun for home defense and cool "
+"looks. This one has been modified by cutting the stock off."
+msgstr "伊薩卡 M37 是一款極受歡迎的家防霰彈槍，外觀酷炫。這支經過改裝，槍托已被鋸掉。"
+
+#: .\art_weapons.json
+msgid "Striker"
+msgid_plural "Striker"
+msgstr[0] "打擊者"
+
+#: .\art_weapons.json
+msgid ""
+"The South African Striker provides large capacity to the shot-gunner's world"
+" with its revolving wheel of death. Being semi-auto, its very fast in "
+"unloading it's payload. But don't expect perfect delivery every time."
+msgstr "南非的打擊者以其致命的旋轉彈輪為霰彈槍世界提供了大容量。作為半自動武器，它能極快地傾瀉彈藥。但別指望每次都能完美投送。"
+
+#: .\art_weapons.json
+msgid "Bren Light Machine Gun"
+msgid_plural "Bren Light Machine Gun"
+msgstr[0] "布倫輕機槍"
+
+#: .\art_weapons.json
+msgid ""
+"The Bren Light Machine gun is a fixed bypod, top loaded machine gun that "
+"more or less acts like a anti-personnel SAW. Deadly when used properly - "
+"this one has been chambered in 7.62x51mm NATO. Must be a post-war model."
+msgstr ""
+"布倫輕機槍是一款固定兩腳架、頂部供彈的機槍，或多或少扮演著反人員 SAW 的角色。使用得當時威力致命——這支已改為 7.62x51mm NATO "
+"口徑。想必是戰後型號。"
+
+#: .\art_weapons.json
+msgid "DP Light Machine Gun"
+msgid_plural "DP Light Machine Gun"
+msgstr[0] "DP 輕機槍"
+
+#: .\art_weapons.json
+msgid ""
+"The DP is a WWII squad automatic weapon that has one hell of a round coming "
+"out of the barrel. Very powerful, and with high capacity."
+msgstr "DP 是一款二戰班用自動武器，從槍管射出的子彈威力驚人。非常強大，且容量高。"
+
+#: .\art_weapons.json
+msgid "FN Minimi"
+msgid_plural "FN Minimi"
+msgstr[0] "FN 米尼米"
+
+#: .\art_weapons.json
+msgid ""
+"A paratrooper version of the ever so popular M249 SAW, it features a "
+"skeletal stock and light weight. Along with all those SAW parts."
+msgstr "廣受歡迎的 M249 SAW 的傘兵版本，採用骨架槍托，重量輕。並保留了所有 SAW 部件。"
+
+#: .\art_weapons.json
+msgid "Lewis Gun"
+msgid_plural "Lewis Gun"
+msgstr[0] "劉易斯機槍"
+
+#: .\art_weapons.json
+msgid ""
+"The Lewis gun is a water cooled machine gun that is meant to be used in a "
+"prone position, but thanks to game reasons, you can't prone down to use the "
+"thing properly. But if you can use it, it's one hell of a machine gun."
+msgstr "劉易斯機槍是一款水冷機槍，本應在臥姿下使用，但由於遊戲原因，你無法趴下正確使用它。但如果你能用上，它絕對是款厲害的機槍。"
+
+#: .\art_weapons.json
+msgid "RPK"
+msgid_plural "RPK"
+msgstr[0] "RPK"
+
+#: .\art_weapons.json
+msgid ""
+"The RPK is the light machine gun varient in the AK family. Using the "
+"7.62x39mm round means that there is going to be a lot of lead spewing out of"
+" the barrel when this baby is lit up."
+msgstr "RPK 是 AK 家族中的輕機槍變體。使用 7.62x39mm 子彈意味著當這小傢伙開火時，槍管會噴湧出大量鉛彈。"
+
+#: .\art_weapons.json
+msgid "PKM"
+msgid_plural "PKM"
+msgstr[0] "PKM"
+
+#: .\art_weapons.json
+msgid ""
+"The PKM is the Heavy machine gun in the AK family. And unlike everything "
+"else, it's internals are the only thing that is based on the AK. The look "
+"and feel is it's own thing."
+msgstr "PKM 是 AK 家族中的重機槍。與其他成員不同，只有其內部結構基於 AK。外觀和手感自成一體。"
+
+#: .\art_weapons.json
+msgid "MG3"
+msgid_plural "MG3"
+msgstr[0] "MG3"
+
+#: .\art_weapons.json
+msgid ""
+"The MG3 is the modernized version of the MG42. It features more lightweight "
+"parts and a slimmer magazine. It's fire rate is still the same 1,200 rounds "
+"a minute. So be ready to reload this baby a LOT."
+msgstr "MG3 是 MG42 的現代化版本。採用更輕的部件和更窄的彈匣。射速仍為每分鐘 1,200 發。所以準備好頻繁為這小傢伙裝彈吧。"
+
+#: .\art_weapons.json
+msgid "The Hacksaw"
+msgid_plural "The Hacksaw"
+msgstr[0] "鋼鋸"
+
+#: .\art_weapons.json
+msgid ""
+"A heavily modified MG3, clearly made in someone's basement. It seems ready "
+"for anything. The word Hacksaw is scratched into the right side. Under the "
+"word Bundeswehr so faint you can barely see it. A rag is wrapped around the "
+"heat shield so the user can hold it by it. But the stock seems the most "
+"unique of all the modifications. It seems to float, only held by some para "
+"cord and a spring. And when you push your shoulder into the firing position."
+" It seems to push against you. Considerably reducing recoil."
+msgstr ""
+"一支重度改裝的 "
+"MG3，顯然是在某人的地下室裡製造的。它似乎已為一切做好準備。“鋼鋸”一詞刻在右側。“聯邦國防軍”字樣下方，模糊得幾乎看不見。隔熱罩上纏著破布，以便使用者握持。但槍托似乎是所有改裝中最獨特的。它似乎懸浮著，僅由傘繩和彈簧固定。當你抵肩進入射擊姿勢時，它似乎會反向推擠，顯著減少後坐力。"
+
+#: .\art_weapons.json
+msgid "RPD"
+msgid_plural "RPD"
+msgstr[0] "RPD"
+
+#: .\art_weapons.json
+msgid ""
+"The RPD is the light machine gun varient in the AK family. Using the "
+"7.62x39mm round means that there is going to be a lot of lead spewing out of"
+" the barrel when this baby is lit up."
+msgstr "RPD 是 AK 家族中的輕機槍變體。使用 7.62x39mm 子彈意味著當這小傢伙開火時，槍管會噴湧出大量鉛彈。"
+
+#: .\art_weapons.json
+msgid "SMLE Number 4"
+msgid_plural "SMLE Number 4"
+msgstr[0] "SMLE 4 號"
+
+#: .\art_weapons.json
+msgid ""
+"The Short, Magazine Lee-Enfield Number Four - The quintessential British "
+"service rifle, along with other members of the Lee-Enfield family. Rule "
+"Britannia!"
+msgstr "短彈匣李-恩菲爾德 4 號步槍——典型的英軍制式步槍，與李-恩菲爾德家族的其他成員一樣。不列顛統治！"
+
+#: .\art_weapons.json
+msgid "Gewehr 98"
+msgid_plural "G98"
+msgstr[0] "Gewehr 98"
+
+#: .\art_weapons.json
+msgid ""
+"Developed in 1898, this gun would later become the basis for many rifles the"
+" world over, from the Springfield to the Type 24 to the K98k. Today, its "
+"action is primarily used in hunting rifles."
+msgstr "這款槍於1898年研發，後來成為全球眾多步槍的基礎，從春田步槍到二四式步槍再到K98k。如今，其槍機結構主要用於獵槍。"
+
+#: .\art_weapons.json
+msgid "Type 24"
+msgid_plural "T24"
+msgstr[0] "二四式步槍"
+
+#: .\art_weapons.json
+msgid ""
+"Developed with German support in China, this would become one of the most "
+"domestically produced rifles in Chinese service in WWII. A smaller, more "
+"accurate version of the G98, it was well-liked."
+msgstr "這款步槍在中國由德國支持研發，成為二戰期間中國軍隊中產量最高的國產步槍之一。作為G98的更小巧、更精準版本，它備受青睞。"
+
+#: .\art_weapons.json
+msgid "Mosin-Nagant 28/30"
+msgid_plural "Finnish Mosin"
+msgstr[0] "莫辛-納甘M28/30"
+
+#: .\art_weapons.json
+msgid ""
+"Based on the famous 91/30, this Finnish Mosin represents one of the "
+"pinnacles of the bolt-action system. As it was a Civil Guard model before "
+"the Winter War, the rifle was greatly improved with a focus on accuracy. "
+"Perkele!"
+msgstr ""
+"基於著名的91/30步槍，這款芬蘭版莫辛代表了栓動系統的巔峰之一。作為冬季戰爭前的國民衛隊型號，該步槍經過大幅改進，重點提升了精度。Perkele！"
+
+#: .\art_weapons.json
+msgid "M17 Enfield"
+msgid_plural "M17 Enfield"
+msgstr[0] "M17恩菲爾德"
+
+#: .\art_weapons.json
+msgid ""
+"Despite being less famous than its cousin, the Springfield 1903, the Enfield"
+" 1917 saw large amounts of service with American soldiers in WWI and "
+"internationally into WWII. Rule... Britannia?"
+msgstr "儘管不如其表親春田1903步槍出名，恩菲爾德1917步槍在一戰中被美軍大量使用，並延續至二戰期間的國際戰場。統治吧……不列顛尼亞？"
+
+#: .\art_weapons.json
+msgid "Needlefire Rifle"
+msgid_plural "Needlefire Rifles"
+msgstr[0] "針發槍"
+
+#: .\art_weapons.json
+msgid ""
+"The pinnacle of black-powder firearm development, the needlefire system uses"
+" a protruding needle style of firing pin, allowing it to use breech-loading "
+"paper cartridges, allowing for relatively rapid and precise fire. This in "
+"particular seems to be a reproduction of a Chassepot, which was the most "
+"highly developed of its kind - capable of out-ranging its competitors nearly"
+" 2-1. "
+msgstr ""
+"作為黑火藥火器發展的巔峰，針發系統採用突出的針狀擊針，使其能夠使用後膛裝填的紙殼彈，實現相對快速而精準的射擊。這尤其像夏塞波步槍的複製品，是該類火器中最高度發展的型號——射程幾乎是對手的兩倍。"
+
+#: .\modinfo.json
+msgid "Artyoms' Gun Emporium - Reloaded"
+msgstr "阿爾喬姆的槍械商場 - 重裝上陣"
+
+#. ~ Description for Artyoms' Gun Emporium - Reloaded
+#: .\modinfo.json
+msgid "Adds all the guns that YOU need to survive the Cataclysm"
+msgstr "添加所有你在災變中生存所需的槍支"

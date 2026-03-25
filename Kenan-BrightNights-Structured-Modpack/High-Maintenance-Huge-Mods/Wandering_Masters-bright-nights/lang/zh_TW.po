@@ -1,0 +1,4306 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: wandering_masters\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\effects.json
+msgid "Wasted"
+msgstr "爛醉如泥"
+
+#. ~ Description of effect 'Wasted'.
+#: .\effects.json
+msgid ""
+"You tried 'Uncle Ben's Mustang' moonshine. You feel like you died, "
+"resurrected and then died again."
+msgstr "你嘗試了'本叔叔的野馬'私釀酒。感覺像是死了一次，復活後又死了一次。"
+
+#. ~ Apply message for effect(s) 'Wasted'.
+#: .\effects.json
+msgid "You feel AWFUL."
+msgstr "你感覺糟透了。"
+
+#: .\effects.json
+msgid "Teach"
+msgstr "傳授"
+
+#. ~ Description of effect 'Teach'.
+#: .\effects.json
+msgid "You are being taught!"
+msgstr "你正在接受傳授！"
+
+#: .\effects.json
+msgid "Brew of Might"
+msgstr "力量之釀"
+
+#. ~ Apply message for effect(s) 'Brew of Might'.
+#: .\effects.json
+msgid "You feel POWERFUL."
+msgstr "你感到力量充沛。"
+
+#: .\effects.json
+msgid "Waiting"
+msgstr "等待中"
+
+#. ~ Description of effect 'Waiting'.
+#: .\effects.json
+msgid "This NPC is waiting for something."
+msgstr "這個NPC正在等待某事。"
+
+#: .\modinfo.json
+msgid "Wandering Masters"
+msgstr "流浪大師"
+
+#. ~ Description for Wandering Masters
+#: .\modinfo.json
+msgid ""
+"Mod adds 'Wandering Masters', NPCs that can 'teach' player martial arts after completing their quest line.\n"
+"Check mod folder for more information."
+msgstr ""
+"此模組添加了'流浪大師'，這些NPC在完成其任務線後可以'傳授'玩家武術。\n"
+"查看模組文件夾獲取更多信息。"
+
+#: .\items\items_quest.json
+msgid "uncle Ben's mustang"
+msgid_plural "uncle Ben's mustang"
+msgstr[0] "本叔叔的野馬"
+
+#. ~ Use action activation_message for {'str_sp': "uncle Ben's mustang"}.
+#: .\items\items_quest.json
+msgid "You take a little sip. Tastes like gasoline"
+msgstr "你小啜一口。嚐起來像汽油。"
+
+#. ~ Description for {'str_sp': "uncle Ben's mustang"}
+#: .\items\items_quest.json
+msgid ""
+"Large plastic jug with sticker, there's a picture of mustang horse on it. "
+"Text on the top of the sticker: 'Best before…', further text unreadable."
+msgstr "一個貼有標籤的大塑料壺，上面印著一匹野馬圖案。標籤頂部文字：'最佳賞味期限…'，其餘文字難以辨認。"
+
+#: .\items\items_quest.json
+msgid "severed head"
+msgid_plural "severed head"
+msgstr[0] "斷頭"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Head of a fallen enemy."
+msgstr "一名倒下的敵人的頭顱。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Flame Knuckle's leader's severed head."
+msgstr "烈焰拳首領的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Iron Palm's master's severed head."
+msgstr "鐵掌大師的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid " Prisoner Bill's severed head."
+msgstr "囚犯比爾的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Severed head of the 'real' Prisoner Bill"
+msgstr "'真正的'囚犯比爾的斷頭"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Boxer Johnny's severed head."
+msgstr "拳擊手約翰尼的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Moneylender severed head."
+msgstr "放債人的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Police teacher severed head."
+msgstr "警察教官的斷頭。"
+
+#. ~ Description for {'str_sp': 'severed head'}
+#: .\items\items_quest.json
+msgid "Old Assassin severed head."
+msgstr "老刺客的斷頭。"
+
+#: .\items\items_quest.json
+msgid "flame knuckle's leaflet"
+msgid_plural "flame knuckle's leaflet"
+msgstr[0] "火焰指關節的傳單"
+
+#. ~ Description for {'str_sp': "flame knuckle's leaflet"}
+#: .\items\items_quest.json
+msgid ""
+"A piece of paper with an advertisement of'Flame Knuckle' fighting school."
+msgstr "一張印有'火焰指關節'格鬥學校廣告的紙。"
+
+#: .\items\items_quest.json
+msgid "police records"
+msgid_plural "police records"
+msgstr[0] "警方記錄"
+
+#. ~ Description for {'str_sp': 'police records'}
+#: .\items\items_quest.json
+msgid "Large folder full of police records."
+msgstr "裝滿警方記錄的大文件夾。"
+
+#: .\items\items_quest.json
+msgid "classified records"
+msgid_plural "classified records"
+msgstr[0] "機密記錄"
+
+#. ~ Description for {'str_sp': 'classified records'}
+#: .\items\items_quest.json
+msgid "Large folder full of classified military papers."
+msgstr "裝滿機密軍事文件的大文件夾。"
+
+#: .\items\items_quest.json
+msgid "strange note"
+msgid_plural "strange notes"
+msgstr[0] "奇怪的便條"
+
+#. ~ Description for {'str': 'strange note'}
+#: .\items\items_quest.json
+msgid ""
+"A scrap of paper.  Something written on it, scrawled in terrible "
+"handwriting."
+msgstr "一張紙片。上面寫著什麼，字跡潦草難辨。"
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin_test"
+msgstr "小屋測試"
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin roof test"
+msgstr "小屋屋頂測試"
+
+#: .\mapgen\overmap_terrain.json
+msgid "cabin_basement_test"
+msgstr "小屋地下室測試"
+
+#: .\mapgen\overmap_terrain.json
+msgid "flame knuckle base"
+msgstr "火焰指關節基地"
+
+#: .\mapgen\overmap_terrain.json
+msgid "hub"
+msgstr "樞紐"
+
+#. ~ Sign
+#: .\mapgen\spawn_points.json
+msgid "NO lifeguard on duty, swim at own risk!"
+msgstr "無救生員值班，游泳風險自負！"
+
+#. ~ Computer name
+#: .\mapgen\spawn_points.json
+msgid "PolCom OS v1.47 - Supply Room Access"
+msgstr "PolCom OS v1.47 - 補給室訪問"
+
+#. ~ Computer option
+#: .\mapgen\spawn_points.json
+msgid "Unlock Supply Room"
+msgstr "解鎖補給室"
+
+#. ~ Computer name
+#: .\mapgen\spawn_points.json
+msgid "PolCom OS v1.47 - Evidence Locker Access"
+msgstr "PolCom OS v1.47 - 證據櫃訪問"
+
+#. ~ Computer option
+#: .\mapgen\spawn_points.json
+msgid "Unlock Evidence Locker"
+msgstr "解鎖證據櫃"
+
+#. ~ Sign
+#: .\mapgen\spawn_points.json
+msgid "Danger!  Do not smoke!  Risk of explosion!"
+msgstr "危險！禁止吸菸！有爆炸風險！"
+
+#: .\mapgen\traps.json
+msgid "interesting spot"
+msgstr "有趣的地點"
+
+#: .\monsters\quest_monsters.json
+msgid ""
+"Apparently this zombie was doing time when the Cataclysm struck.  It wears "
+"black and white striped prisoner clothes, and tattoos can be seen on his "
+"decaying skin. One of the tatoos on his face looks like a dragon."
+msgstr "顯然，這隻殭屍在災變發生時正在服刑。它穿著黑白條紋的囚服，腐爛的皮膚上可見紋身。它臉上的一個紋身看起來像一條龍。"
+
+#: .\monsters\quest_monsters.json
+msgid ""
+"A human body covered by a weather-beaten and badly damaged set of riot gear."
+" This one has a wooden hand."
+msgstr "一具覆蓋著飽經風霜且嚴重破損的防暴裝備的人體。這隻殭屍有一隻木製的手。"
+
+#: .\monsters\turret.json
+msgid "M240 autonomous CROWS II ml"
+msgid_plural "M240 autonomous CROWS II mls"
+msgstr[0] "M240自主CROWS II ml"
+
+#. ~ Description for {'str': 'M240 autonomous CROWS II ml'}
+#: .\monsters\turret.json
+msgid ""
+"A remote weapon system derived from the M153 CROWS II and enhanced with "
+"autonomous operation software.  Thousands of these were deployed by the US "
+"military before the Cataclysm and they were valued for their use in engaging"
+" infantry without exposing the operator.  This one is fitted with a M240."
+msgstr ""
+"一種源自M153 CROWS "
+"II並增強自主操作軟件的遠程武器系統。災變前美軍部署了數千臺，因其能在不暴露操作員的情況下攻擊步兵而備受重視。這臺配備了M240。"
+
+#: .\npc\TALK_ALLY.json
+msgid "Do you have any brew on you?"
+msgstr "你身上有酒嗎？"
+
+#: .\npc\TALK_ALLY.json
+msgid "Sure, I have some leftovers.  Wanna drink it now?"
+msgstr "當然，我有些剩的。想現在喝嗎？"
+
+#: .\npc\TALK_ALLY.json
+msgid "Yeah, give it to me."
+msgstr "好，給我吧。"
+
+#: .\npc\TALK_ALLY.json .\npc\student_transfer.json .\npc\Flame
+#: Knuckle\Flame_Knuckle_Leader.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\captain_cost.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+#: .\npc\bg\bg_drunken_master.json
+msgid "<done_conversation_section>"
+msgstr "<done_conversation_section>"
+
+#: .\npc\TALK_ALLY.json
+msgid "Nothing right now, <name_g>, but I'm making a new one.  Ask me later."
+msgstr "目前沒有，<name_g>，但我正在製作一個新的。稍後再來問我。"
+
+#: .\npc\factions.json
+msgid "The Flame Knuckle"
+msgstr "火焰拳套"
+
+#. ~ Description for The Flame Knuckle
+#: .\npc\factions.json
+msgid "The Flaming Knuckles!"
+msgstr "火焰拳套！"
+
+#: .\npc\factions.json
+msgid "The Iron Palm"
+msgstr "鐵掌"
+
+#. ~ Description for The Iron Palm
+#: .\npc\factions.json
+msgid "The Iron Palm!"
+msgstr "鐵掌！"
+
+#: .\npc\factions.json
+msgid "The Boxer Johnny's gym"
+msgstr "拳擊手約翰尼的健身房"
+
+#. ~ Description for The Boxer Johnny's gym
+#: .\npc\factions.json
+msgid "The Boxer Johnny's gym!"
+msgstr "拳擊手約翰尼的健身房！"
+
+#: .\npc\factions.json
+msgid "The Moneylender Gang"
+msgstr "放貸者幫"
+
+#. ~ Description for The Moneylender Gang
+#: .\npc\factions.json
+msgid "The Moneylender Gang!"
+msgstr "放貸者幫！"
+
+#: .\npc\student_transfer.json
+msgid "What do you think about transferring to another faction?"
+msgstr "你覺得轉到另一個派系怎麼樣？"
+
+#: .\npc\student_transfer.json
+msgid "So, I can transfer to:"
+msgstr "那麼，我可以轉到："
+
+#: .\npc\student_transfer.json
+msgid "  Boxer Johnny."
+msgstr "  拳擊手約翰尼。"
+
+#: .\npc\student_transfer.json
+msgid "  Flame Knuckle."
+msgstr "  火焰拳套。"
+
+#: .\npc\student_transfer.json
+msgid "  Iron Palm."
+msgstr "  鐵掌。"
+
+#: .\npc\student_transfer.json
+msgid "  Where do you want me to go?"
+msgstr "  你想讓我去哪裡？"
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Iron Palm?"
+msgstr "你想成為鐵掌的學徒嗎？"
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Flame Knuckle?"
+msgstr "你想成為火焰拳套的學徒嗎？"
+
+#: .\npc\student_transfer.json
+msgid "Do you want to become an apprentice of Boxer Johnny?"
+msgstr "你想成為拳擊手約翰尼的學徒嗎？"
+
+#: .\npc\student_transfer.json
+msgid ""
+"Iron Palm sounds cool! If you are sure about it, lead me to their leader, so"
+" he can accept me."
+msgstr "鐵掌聽起來很酷！如果你確定的話，帶我去見他們的首領，讓他接納我。"
+
+#: .\npc\student_transfer.json
+msgid "Yes, Iron Palm needs you. Now go."
+msgstr "是的，鐵掌需要你。現在去吧。"
+
+#: .\npc\student_transfer.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Maybe later."
+msgstr "也許晚點再說。"
+
+#: .\npc\student_transfer.json
+msgid ""
+"Flame Knuckle sounds cool! If you are sure about it, lead me to their "
+"leader, so he can accept me."
+msgstr "火焰拳套聽起來很酷！如果你確定的話，帶我去見他們的首領，讓他接納我。"
+
+#: .\npc\student_transfer.json
+msgid "Yes, Flame Knuckle need you. Now go."
+msgstr "是的，火焰拳套需要你。現在去吧。"
+
+#: .\npc\student_transfer.json
+msgid ""
+"Boxer Johnny sounds cool! If you are sure about it, lead me to their leader,"
+" so he can accept me."
+msgstr "拳擊手約翰尼聽起來很酷！如果你確定的話，帶我去見他們的首領，讓他接納我。"
+
+#: .\npc\student_transfer.json
+msgid "Yes, Boxer Johnny needs you. Now go."
+msgstr "是的，拳擊手約翰尼需要你。現在去吧。"
+
+#: .\npc\student_transfer.json
+msgid "Iron Palm <swear> RULE!"
+msgstr "鐵掌<swear>統治！"
+
+#: .\npc\student_transfer.json
+msgid "Glad for you."
+msgstr "為你高興。"
+
+#: .\npc\student_transfer.json
+msgid "Flame Knuckle <swear> RULE!"
+msgstr "火焰拳套<swear>統治！"
+
+#: .\npc\student_transfer.json
+msgid "Boxer Johnny <swear> RULE!"
+msgstr "拳擊手約翰尼<swear>統治！"
+
+#: .\npc\test_npc_232.json
+msgid "Test"
+msgstr "測試"
+
+#: .\npc\test_npc_232.json
+msgid "test_232"
+msgstr "測試_232"
+
+#: .\npc\test_npc_232.json
+msgid "test_232."
+msgstr "測試_232。"
+
+#: .\npc\test_npc_232.json
+msgid ""
+"*nods and say:  \"<greet>\", checks his watch, scratch his head.  \"What do "
+"you need?\""
+msgstr "*點頭並說道：“<greet>”，看了看手錶，撓了撓頭。“你需要什麼？”"
+
+#: .\npc\test_npc_232.json
+msgid "Test cost trap. <kill_npc_h>"
+msgstr "測試代價陷阱。<kill_npc_h>"
+
+#: .\npc\test_npc_232.json
+msgid "Test teach."
+msgstr "測試教學。"
+
+#: .\npc\test_npc_232.json
+msgid "Test follow."
+msgstr "測試跟隨。"
+
+#: .\npc\test_npc_232.json
+msgid "Test follow only."
+msgstr "測試僅跟隨。"
+
+#: .\npc\test_npc_232.json
+msgid "I'm outside."
+msgstr "我在外面。"
+
+#: .\npc\test_npc_232.json
+msgid "I'm inside."
+msgstr "我在裡面。"
+
+#: .\npc\test_npc_232.json
+msgid "Where I am?"
+msgstr "我在哪兒？"
+
+#: .\npc\test_npc_232.json
+msgid "Test leave."
+msgstr "測試離開。"
+
+#: .\npc\test_npc_232.json
+msgid "Test assign_guard."
+msgstr "測試指派守衛。"
+
+#: .\npc\test_npc_232.json
+msgid "Test Johnny's bandits."
+msgstr "測試約翰尼的強盜。"
+
+#: .\npc\test_npc_232.json
+msgid "About that jobs!"
+msgstr "關於那些工作！"
+
+#: .\npc\test_npc_232.json
+msgid "About that one job!"
+msgstr "關於那個工作！"
+
+#: .\npc\test_npc_232.json
+msgid "Test missions"
+msgstr "測試任務"
+
+#: .\npc\test_npc_232.json
+msgid "Test npc_buy"
+msgstr "測試NPC購買"
+
+#: .\npc\test_npc_232.json
+msgid "Test Johnny's debt."
+msgstr "測試約翰尼的債務。"
+
+#: .\npc\test_npc_232.json
+msgid "Test 232 test."
+msgstr "測試232測試。"
+
+#: .\npc\test_npc_232.json
+msgid "Test student transfer."
+msgstr "測試學生轉移。"
+
+#: .\npc\test_npc_232.json
+msgid "Test 22ch."
+msgstr "測試22頻道。"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission rlated stuff"
+msgstr "測試任務相關事項"
+
+#: .\npc\test_npc_232.json
+msgid "Test trade."
+msgstr "測試交易。"
+
+#: .\npc\test_npc_232.json
+msgid "Test train"
+msgstr "測試訓練"
+
+#: .\npc\test_npc_232.json
+msgid "No test for you!"
+msgstr "沒有給你的測試！"
+
+#: .\npc\test_npc_232.json
+msgid "Under roof.  Why do you ask?"
+msgstr "在屋頂下。為什麼這麼問？"
+
+#: .\npc\test_npc_232.json
+msgid "Not under roof.  Why do you ask?"
+msgstr "不在屋頂下。為什麼這麼問？"
+
+#: .\npc\test_npc_232.json .\npc\Teachers\rasta_bob.json
+msgid "???"
+msgstr "？？？"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission cycle."
+msgstr "測試任務循環。"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission cycle with success."
+msgstr "測試任務循環（成功）。"
+
+#: .\npc\test_npc_232.json
+msgid "Test WORKING mission cycle."
+msgstr "測試任務循環運行中。"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission assign."
+msgstr "測試任務分配。"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission success."
+msgstr "測試任務成功。"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission failure"
+msgstr "測試任務失敗"
+
+#: .\npc\test_npc_232.json
+msgid "Test mission clear"
+msgstr "測試任務清除"
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission1 "
+msgstr "測試添加任務1 "
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission2 "
+msgstr "測試添加任務2 "
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission 3"
+msgstr "測試添加任務3"
+
+#: .\npc\test_npc_232.json
+msgid "Test add mission 7 "
+msgstr "測試添加任務7 "
+
+#: .\npc\test_npc_232.json
+msgid "Back"
+msgstr "返回"
+
+#: .\npc\test_npc_232.json
+msgid "END"
+msgstr "結束"
+
+#: .\npc\test_npc_232.json
+msgid "You met test person0"
+msgstr "你遇到了測試人物0"
+
+#. ~ Description for mission '{'str': 'You met test person0'}'
+#. ~ Description for mission '{'str': 'You met test person1'}'
+#. ~ Description for mission '{'str': 'You met test person2'}'
+#. ~ Description for mission '{'str': 'You met test person3'}'
+#. ~ Description for mission '{'str': 'You met test person7'}'
+#: .\npc\test_npc_232.json
+msgid "He looks like a nice bh. Maybe you should not let him die?"
+msgstr "他看起來是個不錯的bh。也許你不該讓他死？"
+
+#: .\npc\test_npc_232.json
+msgid "0"
+msgstr "0"
+
+#: .\npc\test_npc_232.json
+msgid "You met test person1"
+msgstr "你遇到了測試人物1"
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "1"
+msgstr "1"
+
+#: .\npc\test_npc_232.json
+msgid "You met test person2"
+msgstr "你遇到了測試人物2"
+
+#: .\npc\test_npc_232.json .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: Knuckle\Flame_Knuckle_talk.json .\npc\Moneylender_hub\bartender.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Berry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\captain_cost.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "-"
+msgstr "-"
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "2"
+msgstr "2"
+
+#: .\npc\test_npc_232.json
+msgid "You met test person3"
+msgstr "你遇到了測試人物3"
+
+#: .\npc\test_npc_232.json .\npc\Moneylender_hub\moneylender.json
+msgid "3"
+msgstr "3"
+
+#: .\npc\test_npc_232.json
+msgid "You met test person7"
+msgstr "你遇到了測試人物7"
+
+#: .\npc\test_npc_232.json
+msgid "7"
+msgstr "7"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "the Flame Knuckle"
+msgstr "火焰指虎"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle Leader"
+msgstr "火焰指虎首領"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "The leader of Flame Knuckle school."
+msgstr "火焰指虎流派的領袖。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "What brings you here, <name_g>?"
+msgstr "什麼風把你吹來了，<name_g>？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm here for business."
+msgstr "我來談生意。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Other\Bill_The_Assassin.json
+msgid "I'm here to kick your ass!"
+msgstr "我來揍你的！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"So, you are that new student I was told about? Unfortunately for you, I know"
+" everything about you. I think you understand that you are not the first "
+"person this old fool sends to us. But you're in luck, today I'm in a good "
+"mood, and I'm ready to give you a chance to redeem yourself. Bring that old "
+"man's head and I'll think about giving you a chance to join my school."
+msgstr ""
+"所以，你就是那個我聽說過的新聞學？不幸的是，我對你的一切瞭如指掌。我想你明白，你不是那個老糊塗派來的第一個人。但你很走運，今天我心情不錯，準備給你一個贖罪的機會。把那老傢伙的頭帶來，我會考慮給你一個加入我流派的機會。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Teachers\police_teacher.json
+msgid "I'll think about that."
+msgstr "我會考慮的。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I think we should fight."
+msgstr "我覺得我們應該打一場。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm still waiting."
+msgstr "我還在等著。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm already on it!"
+msgstr "我已經在做了！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Here it is."
+msgstr "給你。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Actually, let's fight!"
+msgstr "其實，我們來打一場吧！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Very well. Consider that you have received my trust. If you still want to "
+"become a student of my school, come to me when you have free time."
+msgstr "很好。就當是你獲得了我的信任。如果你還想成為我門派的弟子，有空時來找我吧。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Thank you for your trust."
+msgstr "感謝你的信任。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "We do this easy way or a hard way?"
+msgstr "我們是要來軟的還是來硬的？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Easy way, please."
+msgstr "請來軟的。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Hard way, please."
+msgstr "請來硬的。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Bend over."
+msgstr "趴下。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Oh noes!"
+msgstr "哦不！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "So be it!"
+msgstr "那就這樣吧！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Let's rock!"
+msgstr "讓我們搖滾起來！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I hope you bring me something worth my attention."
+msgstr "我希望你能帶來值得我關注的東西。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\bartender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "About that job…"
+msgstr "關於那個工作……"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\hobo.json .\npc\Moneylender_hub\moneylender.json
+#: .\npc\Refugee center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\captain_cost.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+#: .\npc\bg\backgrounds_table_of_contents.json
+msgid "<BGSS_intro_question>"
+msgstr "<BGSS_intro_question>"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Do you need any help?"
+msgstr "你需要幫助嗎？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Can you teach me something?"
+msgstr "你能教我點什麼嗎？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json .\npc\Teachers\retired_assassin.json
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+msgid "Goodbye."
+msgstr "再見。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Bah, what's the point of it? It's all story now. Let's focus on todays "
+"problems."
+msgstr "呸，這有什麼意義？都成往事了。我們還是專注於眼前的問題吧。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "I'm not in the mood right now. Go away."
+msgstr "我現在沒心情。走開。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Maybe you want to teach me something cool, master?"
+msgstr "大師，也許你想教我點酷炫的東西？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"So, you want to learn the secrets of my school? Here, take it, it's all "
+"yours, my student. But you know, I'm not feeling that generous to just give "
+"you my secrets that easily. Let's dance for a bit, and if you could stand "
+"still after that, consider yourself worthy to know the ways of my school."
+msgstr ""
+"所以，你想學習我門派的秘密？給，拿去吧，都是你的了，我的弟子。但你知道，我可沒那麼大方，不會輕易把我的秘密給你。我們先來跳支舞，如果你之後還能站得住，就說明你有資格瞭解我門派的道法。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+#: Knuckle\Flame_Knuckle_talk.json Knuckle\fk_informer.json
+#: .\npc\Moneylender_hub\bartender.json .\npc\Moneylender_hub\hobo.json
+#: .\npc\Moneylender_hub\moneylender.json
+#: .\npc\Moneylender_hub\staff_talk.json .\npc\Other\Bill_The_Assassin.json
+#: .\npc\Other\CEO.json .\npc\Refugee center\NPC_Barry_Button.json
+#: center\NPC_Berry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\captain_cost.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "…"
+msgstr "……"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Find new students"
+msgstr "尋找新弟子"
+
+#. ~ Description for mission '{'str': 'Find new students'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle's Leader asked you to find new students for his school."
+msgstr "火焰拳首領讓你為他的門派尋找新弟子。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Flame Knuckle's Leader"
+msgstr "火焰拳首領"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Bring me more students, so I can have more force to deal with "
+"<the_cataclysm>."
+msgstr "給我帶來更多弟子，這樣我就能有更多力量來應對<the_cataclysm>。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json .\npc\Refugee
+#: center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\samurai_akira.json
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm waiting."
+msgstr "我等著。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Bah, another coward. Go away, <name_b>!"
+msgstr "呸，又一個膽小鬼。滾開，<name_b>！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Go search for lone survivors hiding in their basement or something."
+msgstr "去搜尋那些躲在地下室或什麼地方的孤獨倖存者。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Good, <very> good. Nice catch out there, they can be good asset for me. I'll"
+" treat them with care, he-he. Now go play outside, <name_g>."
+msgstr "很好，<very>很好。外面抓得不錯，他們對我來說會是很好的資產。我會好好對待他們的，嘿嘿。現在去外面玩吧，<name_g>。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "You know what we do to liars?"
+msgstr "你知道我們對說謊者會做什麼嗎？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "So, you chose to lose your head."
+msgstr "所以，你選擇了丟掉腦袋。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid "Train with Flame Knuckle leader"
+msgstr "與烈焰拳首領一起訓練"
+
+#. ~ Description for mission '{'str': 'Train with Flame Knuckle leader'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_Leader.json
+msgid ""
+"Flame Knuckle leader suddenly attacked you. Maybe this is part of the "
+"training?"
+msgstr "烈焰拳首領突然攻擊了你。也許這是訓練的一部分？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Can't you see I'm training? Get out of my way, <name_b>!"
+msgstr "沒看見我在訓練嗎？別擋路，<name_b>！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Another new face…"
+msgstr "又一張新面孔……"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "One wrong move and you're dead!"
+msgstr "一個錯誤的舉動，你就死定了！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Oh, another survivor! <greet> Do you want to learn the way of Flame Knuckle "
+"school?"
+msgstr "哦，又一個倖存者！<greet>你想學習烈焰拳流派的武藝嗎？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Sorry, I'm here to kill you!"
+msgstr "抱歉，我是來殺你的！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Sure, where to sign?"
+msgstr "當然，在哪裡報名？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Halt! Who goes there?"
+msgstr "站住！來者何人？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Friendly."
+msgstr "友善的。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Enemy."
+msgstr "敵人。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Permition granted! Go forward, and don't touch anything, or you'll regret "
+"it, <name_g>!"
+msgstr "許可通過！往前走，別碰任何東西，否則你會後悔的，<name_g>！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Get lost, <name_b>!"
+msgstr "滾開，<name_b>！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Funny guy, are you? Boys, let's teach this <name_b> some manners!"
+msgstr "有趣的小子，是嗎？兄弟們，讓我們教教這個<name_b>什麼叫禮貌！"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Flame Knuckle school"
+msgstr "烈焰拳流派"
+
+#. ~ Description for mission '{'str': 'Flame Knuckle school'}'
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Talk to Flame Knuckle's leader."
+msgstr "與烈焰拳的首領交談。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"If you want to join us, go talk to my boss.  He needs more people for our "
+"cause.  We will give you food, shelter, protection and teach you how to "
+"protect yourself."
+msgstr "如果你想加入我們，去和我的老闆談談。我們的事業需要更多人。我們會給你食物、住所、保護，並教你如何保護自己。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid ""
+"Good.  Here's our base.  Go talk to him about your joining.  Oh, almost "
+"forgot, take this.  Show this to the guy at the entrance, or he'll not let "
+"you in."
+msgstr "很好。這是我們的基地。去和他談談你加入的事。哦，差點忘了，拿著這個。給入口那傢伙看這個，否則他不會讓你進去的。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Hmm, maybe you want to change your mind?"
+msgstr "嗯，也許你想改變主意？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Be careful."
+msgstr "小心點。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Did you speak with him?"
+msgstr "你和他談過了嗎？"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\rasta_bob.json
+msgid "Good."
+msgstr "很好。"
+
+#: .\npc\Flame Knuckle\Flame_Knuckle_talk.json
+msgid "Huh."
+msgstr "哼。"
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle apprentice"
+msgstr "烈焰拳學徒"
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "I'm a wandering master of martial arts."
+msgstr "我是一名雲遊的武術大師。"
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle elite"
+msgstr "烈焰拳精英"
+
+#: .\npc\Flame Knuckle\classes.json
+msgid "Flame Knuckle master"
+msgstr "烈焰拳大師"
+
+#: .\npc\Flame Knuckle\fk_informer.json Knuckle\npc.json
+msgid "Apprentice"
+msgstr "學徒"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "<speech_warning>  Show yourself!"
+msgstr "<speech_warning> 現身吧！"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Relax, I'm not going to hurt you.  I'm from Iron Palm master."
+msgstr "放鬆，我不會傷害你。我是鐵掌大師派來的。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid ""
+"Hey who are you?  Where did you come from?  I don't know you!  What do you "
+"want from me?"
+msgstr "嘿，你是誰？從哪來的？我不認識你！你想從我這兒得到什麼？"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Flowers."
+msgstr "花。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Fruits."
+msgstr "水果。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Vegetables."
+msgstr "蔬菜。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Berries."
+msgstr "漿果。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Bees."
+msgstr "蜜蜂。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "I don't know what that means, but I don't like you.  I'm leaving."
+msgstr "我不明白那是什麼意思，但我不喜歡你。我要走了。"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid "Wait, don't go!"
+msgstr "等等，別走！"
+
+#: .\npc\Flame Knuckle\fk_informer.json
+msgid ""
+"Okay, I'll pretend to believe you.  Listen carefully, I don't have much "
+"time.  Tell the master to check drop point 5.  I left all the necessary "
+"information there.  And one more thing, tell him that… "
+"<combat_noise_warning>  <swear!> I was tracked!  Ru…"
+msgstr ""
+"好吧，我就假裝相信你。仔細聽好，我時間不多。告訴大師去檢查5號投放點。我把所有必要信息都留在那兒了。還有一件事，告訴他……<combat_noise_warning>"
+" <swear!> 我被跟蹤了！快……"
+
+#: .\npc\Flame Knuckle\npc.json
+msgid "Elite"
+msgstr "精英"
+
+#: .\npc\Flame Knuckle\npc.json
+msgid "Master"
+msgstr "大師"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "bartender"
+msgstr "酒保"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "<greet> Want a drink?"
+msgstr "<greet> 想喝一杯嗎？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What is this place anyway?"
+msgstr "這到底是什麼地方？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "So, what about those 'extra' staff?"
+msgstr "那麼，那些‘額外’的員工是怎麼回事？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Let me see what you keep behind the counter."
+msgstr "讓我看看櫃檯後面藏著什麼。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "I'll be going…"
+msgstr "我要走了……"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"It's a place for lost souls, who are still struggle to survive in this hard "
+"times."
+msgstr "這是個迷失靈魂的聚集地，他們仍在艱難時世中掙扎求生。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What is your job here?"
+msgstr "你在這兒是做什麼工作的？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Do you running this place all by yourself?"
+msgstr "你是一個人經營這個地方嗎？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "A lot of new people came here recently?"
+msgstr "最近有很多新面孔來這裡嗎？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "How did you managed to survive?"
+msgstr "你是怎麼活下來的？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"You know, regular bartenders stuff: selling alcohol, serving snacks, "
+"watching for new faces, keeping eye on my girls.  To be honest, nothing "
+"really changed for me after <the_cataclysm>.  Except those nasty <zombies>, "
+"I <swear> hate them.  Always walking in large groups, trying to barge here "
+"and do havoc.  Last time they broke in here, all the tables were flipped and"
+" all curtains were striped!  Can you believe that, <name_g>?  <swear> "
+"madness, I tell you."
+msgstr ""
+"你知道的，就是酒保的常規工作：賣酒、供應小吃、留意新面孔、照看我的姑娘們。說實話，<the_cataclysm>之後我的生活沒什麼太大變化。除了那些討厭的<zombies>，我<swear>恨它們。總是成群結隊地晃盪，想闖進來搞破壞。上次它們衝進來，所有桌子都被掀翻，窗簾全被扯爛！你能相信嗎，<name_g>？<swear>簡直是瘋了，我告訴你。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Gladly I’m not alone in this shithole.  There are enough of <name_g>s "
+"around: part my staff, part random survivors looking for food, booze, "
+"shelter or work for paying for all that."
+msgstr ""
+"幸好我不是一個人待在這鬼地方。周圍有不少<name_g>：一部分是我的員工，一部分是隨機出現的倖存者，他們來找吃的、喝酒、尋求庇護或者打工來支付這些開銷。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "What staff exactly?  I see only one girl over there."
+msgstr "具體是什麼員工？我只看到那邊有一個女孩。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Well, there are also goons of that mone...  Ahem, I probably said too much "
+"already.  Let’s change the subject, please."
+msgstr "嗯，還有那個放債人的打手……呃，我可能已經說得太多了。我們換個話題吧，拜託。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Usually there are not much new people here.  As you may notice, "
+"<the_cataclysm> kicked us hard.  Not many survived that.  It’s a sad topic, "
+"really.  Let’s talk about something else."
+msgstr "通常這裡沒多少新人。你可能也注意到了，<the_cataclysm>把我們打擊得很慘。沒多少人活下來。這真是個悲傷的話題。我們聊點別的吧。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Well, I don’t have much to say, really.  It was pure luck, I guess."
+msgstr "嗯，其實我沒什麼好說的。我想，純粹是運氣吧。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "It depends on who's asking."
+msgstr "這要看是誰在問。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[COP] I'm a cop, so please, let me in peacefully."
+msgstr "[COP] 我是警察，所以請讓我和平地進去。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[SPEECH] What would you lose if you let me in?"
+msgstr "[SPEECH] 如果讓我進去，你會損失什麼？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[FEMALE] Maybe if I do something for you, you would let me in…"
+msgstr "[FEMALE] 也許如果我為你做點什麼，你會讓我進去……"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Maybe if I help you with something you'll tell me more?"
+msgstr "也許如果我幫你做點什麼，你會告訴我更多？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "I'll be free in a few hours.  Until then, you can talk to my boss."
+msgstr "我幾小時後就有空。在那之前，你可以和我的老闆談談。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Not my type, sorry."
+msgstr "不是我的菜，抱歉。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"So, you're a cop? Good. This good <name_g>s will lead you where you should "
+"be."
+msgstr "所以，你是警察？很好。這位好<name_g>會帶你去你該去的地方。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "It's a matter of principle.  You got something for me?"
+msgstr "這是原則問題。你有什麼東西要給我嗎？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "[35MERCH] Maybe this will help."
+msgstr "[35MERCH] 也許這個能幫上忙。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Nope."
+msgstr "不。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"Good. I'll slip a word about you to my boss. You can meet him downstairs."
+msgstr "很好。我會向我的老闆提一下你。你可以在樓下見他。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Get rid of nasty hobo"
+msgstr "趕走討厭的流浪漢"
+
+#. ~ Description for mission '{'str': 'Get rid of nasty hobo'}'
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Bartender asked you to get rid of nasty hobo."
+msgstr "酒保讓你趕走討厭的流浪漢。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid ""
+"There's a nasty hobo that came here sometimes, and using my lobby as a place"
+" to crash.  He doesn't pay for it, and for some reason, no one wants to shoo"
+" him out for me.  If you do it, I’ll see what I can do for you."
+msgstr "有個討厭的流浪漢有時會來這裡，把我的大廳當作過夜的地方。他不付錢，而且不知為何，沒人願意幫我把他趕走。如果你做了，我會看看能為你做些什麼。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Good. Wait for him there.  I'm sure he'll come for another sleepover."
+msgstr "很好。在那裡等他。我相信他會再來過夜的。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Hmm."
+msgstr "嗯。"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "You need advice on how to get rid of nasty hobo?"
+msgstr "你需要建議如何趕走討厭的流浪漢嗎？"
+
+#: .\npc\Moneylender_hub\bartender.json
+msgid "Are you done?"
+msgstr "你完成了嗎？"
+
+#: .\npc\Moneylender_hub\classes.json
+msgid "Hooker"
+msgstr "妓女"
+
+#: .\npc\Moneylender_hub\classes.json
+msgid "Hooker."
+msgstr "妓女。"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Hello. Do you want to give me something to drink?"
+msgstr "你好。你想給我點喝的嗎？"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Sure?"
+msgstr "當然？"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Thank you."
+msgstr "謝謝你。"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "So?."
+msgstr "所以呢？"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Actually can I ask you something else?"
+msgstr "其實我能問你點別的嗎？"
+
+#: .\npc\Moneylender_hub\hobo.json .\npc\Teachers\captain_cost.json
+msgid "Bye."
+msgstr "再見。"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Thank you!."
+msgstr "謝謝你！"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "What are you up to?"
+msgstr "你在忙什麼？"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "No problem."
+msgstr "沒問題。"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Yes."
+msgstr "是的。"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "Maybe you should leave?"
+msgstr "也許你該離開了？"
+
+#: .\npc\Moneylender_hub\hobo.json
+msgid "NEVER!"
+msgstr "絕不！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "moneylender"
+msgstr "放債人"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "moneylender."
+msgstr "放債人。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Who are you and what do you want?!"
+msgstr "你是誰，想幹什麼？！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm here to talk about Johnny's debt."
+msgstr "我來談談約翰尼的債務。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm here to trade."
+msgstr "我來做交易。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, you want to trade, huh?  Prove me that you are nice fella by helping me "
+"with stuff and I'll think about it.  I'm a collector of sort.  If you find "
+"rare books in your traveling, bring them to me, maybe then I'll think about "
+"trusting you."
+msgstr "所以，你想交易，嗯？幫我做些事來證明你是個好人，我會考慮一下。我是個收藏家。如果你在旅途中找到稀有書籍，帶給我，也許那時我會考慮信任你。"
+
+#: .\npc\Moneylender_hub\moneylender.json .\npc\Other\Bill_The_Assassin.json
+msgid "I'll think about it."
+msgstr "我會考慮的。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, Johnny sent you?  OK, here's the deal.  Johnny owed me a lot of money "
+"before <the_cataclysm>, and I want it back.  You have two options: pay for "
+"your <name_g>, 1200 FMCNotes will be enough, or you can help me with "
+"satisfying my passion and I'll forget about that fool's debt.  I'm a "
+"collector of sort.  If you find rare books in your traveling, bring them to "
+"me, maybe then I'll think about trusting you. Choice is yours.  But don't "
+"take too long, or your <name_g> will lose his head, he-he.  Also, you have a"
+" choice to help him lose it… I'll pay you for it, and maybe even let you buy"
+" my premium goods."
+msgstr ""
+"所以，約翰尼派你來的？好吧，這麼辦。約翰尼在<the_cataclysm>前欠我一大筆錢，我想要回來。你有兩個選擇：為你的<name_g>付錢，1200"
+" "
+"FMCNotes就夠了，或者你可以幫我滿足我的愛好，我就忘了那個傻瓜的債務。我是個收藏家。如果你在旅途中找到稀有書籍，帶給我，也許那時我會考慮信任你。選擇權在你。但別拖太久，否則你的<name_g>會掉腦袋，嘿嘿。另外，你也可以選擇幫他掉腦袋……我會付你錢，甚至可能讓你買我的高級商品。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Maybe I just kick your ass?"
+msgstr "也許我直接揍你一頓？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Funny guy, are you?  Guards, kick his ass!"
+msgstr "搞笑是吧？守衛，揍他！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Damn, not that crazy bastard again.  What do you want?"
+msgstr "該死，又是那個瘋混蛋。你想幹什麼？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Damn, not that crazy bitch again.  What do you want?"
+msgstr "該死，又是那個瘋婆娘。你想幹什麼？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Ah, my favorite customer.  What brings you here?"
+msgstr "啊，我最喜歡的顧客。什麼風把你吹來了？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Make it quick.  I don't have time for chit-chat!"
+msgstr "快點說。我沒時間閒聊！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got your money. [1200 FMCNotes]"
+msgstr "我拿到你的錢了。[1200 FMCNotes]"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I want to sell something."
+msgstr "我想賣點東西。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I want to buy something."
+msgstr "我想買點東西。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "So, we done here?"
+msgstr "那麼，我們完事了？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's his head."
+msgstr "這是他的頭。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got a book for you."
+msgstr "我為你帶了本書。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I got a turret for you."
+msgstr "我為你帶了臺炮塔。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "What about that premium goods?"
+msgstr "那些高級商品怎麼說？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Can you tell me again what do you need?"
+msgstr "你能再說一遍你需要什麼嗎？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Damn, you helped your <name_g> and then decapitated him?  You absolutely "
+"madman!  Here, take this, and please, get the hell out!"
+msgstr "該死，你幫了你的<name_g>然後砍了他的頭？你絕對是個瘋子！給，拿著這個，拜託，趕緊滾蛋！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "*give him your scariest smile*"
+msgstr "*給他你最嚇人的微笑*"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Nice.  Consider yourself freed from your friends debt, he-he.  If you want "
+"to earn more money, or spend it, talk to me."
+msgstr "不錯。就當你的朋友債務已清，嘿嘿。如果你想賺更多錢，或者花錢，來找我談。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Nice.  Consider yourself freed from your friends debt, he-he.  If you want "
+"to trade, talk to me."
+msgstr "不錯。就當你的朋友債務已清，嘿嘿。如果你想交易，來找我談。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I'm a collector, I collect books.  Also, I need to protect my property.  For"
+" that, I need automated turrets.  Bring me enough books and I'll open my "
+"store to you.  Bring me enough books and turrets, and I'll open my premium "
+"store for you."
+msgstr ""
+"我是個收藏家，專門收集書籍。另外，我需要保護我的財產。為此，我需要自動炮塔。給我帶來足夠的書，我就向你開放我的商店。給我帶來足夠的書和炮塔，我就為你開放我的高級商店。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"Well, what to say, I was always good with numbers, especially while counting"
+" money, he-he.  When the <zombies> started to rise, I was here, with my "
+"trusted men, in my lovely shelter, protected from outside world.  Somehow, "
+"this plague didn't got me, so now I'm just continue to do what I know, and "
+"what I'm good at."
+msgstr ""
+"嗯，該怎麼說呢，我一直擅長數字，尤其是數錢的時候，嘿嘿。當<zombies>開始湧現時，我就在這裡，和我信任的手下一起，待在我可愛的避難所裡，與外界隔絕。不知怎的，這場瘟疫沒有感染我，所以現在我繼續做我熟悉且擅長的事。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I said I don't have time for chit-chat!"
+msgstr "我說了，我沒時間閒聊！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Nice, nice.  Take this, you earned it."
+msgstr "不錯，不錯。拿去吧，這是你應得的。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Alright, accepted."
+msgstr "好的，接受了。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "6 and so on"
+msgstr "6 等等"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "5"
+msgstr "5"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "4"
+msgstr "4"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Sorry, <name_g>, I don't have anything for you at the moment."
+msgstr "抱歉，<name_g>，我目前沒有適合你的東西。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool martial book right here.  Price is 1200 merch.  Are you "
+"interested?"
+msgstr "我這兒有本很酷的武術書。價格是1200商品幣。有興趣嗎？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool shotgun CBM right here.  Price is 400 merch.  Are you "
+"interested?"
+msgstr "我這兒有個很酷的霰彈槍CBM。價格是400商品幣。有興趣嗎？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"I have this cool cop bot right here.  Price is 200 merch.  Are you "
+"interested?"
+msgstr "我這兒有個很酷的警察機器人。價格是200商品幣。有興趣嗎？"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for bot."
+msgstr "這是買機器人的錢。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for that shotgun."
+msgstr "這是買那把霰彈槍的錢。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Here's the money for book."
+msgstr "這是買書的錢。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "I'm empty right now.  Come back in a few days."
+msgstr "我現在沒貨了。過幾天再來吧。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid ""
+"So, I've got:\n"
+" Army supplies for 225\n"
+" Canned food for 20\n"
+" Medieval stuff from museum for 280\n"
+" Pharmacy for 300\n"
+" Rare weapons for 600\n"
+" Melee weapons for 140\n"
+" Weapons for 350\n"
+"Don't forget that I work only with hard cash!"
+msgstr ""
+"那麼，我這裡有：\n"
+" 軍用物資，225\n"
+" 罐頭食品，20\n"
+" 博物館的中世紀物品，280\n"
+" 藥店物品，300\n"
+" 稀有武器，600\n"
+" 近戰武器，140\n"
+" 武器，350\n"
+"別忘了，我只收硬通貨！"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Army supplies."
+msgstr "軍用物資。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Canned food."
+msgstr "罐頭食品。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Medieval stuff."
+msgstr "中世紀物品。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Pharmacy."
+msgstr "藥店物品。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Rare weapons."
+msgstr "稀有武器。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Melee weapons."
+msgstr "近戰武器。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "Weapons."
+msgstr "武器。"
+
+#: .\npc\Moneylender_hub\moneylender.json
+msgid "You met Moneylender"
+msgstr "你遇到了放債人"
+
+#: .\npc\Moneylender_hub\npc.json
+msgid "goon"
+msgstr "打手"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "Don't make any trouble and you'll be fine."
+msgstr "別惹麻煩，你就沒事。"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*dances"
+msgstr "*跳舞*"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "[*give her 5 merch*]"
+msgstr "[*給她5商品幣*]"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "[*winks*] Thanks, sugar."
+msgstr "[*眨眼*] 謝了，甜心。"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*looks stoned"
+msgstr "*看起來神志不清"
+
+#: .\npc\Moneylender_hub\staff_talk.json
+msgid "*cooks"
+msgstr "*烹飪"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Assassin"
+msgstr "刺客"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Bill"
+msgstr "比爾"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "The Assassin"
+msgstr "刺客"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "The Assassin."
+msgstr "那個刺客。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Wrong answer."
+msgstr "答錯了。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"So, you stumbled upon me.  I suggest that you leave this place and run away "
+"as fast as you can, unless you want to get a new hole in your head."
+msgstr "所以，你撞見我了。我建議你離開這裡，能跑多快跑多快，除非你想腦袋上多開個洞。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "I'm here to talk, Bill."
+msgstr "我是來談談的，比爾。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"So, you know my name AND how to find me.  Interesting.  I'm listening, but "
+"if you say something that I wouldn't like, you will be dead in a second.  "
+"Speak."
+msgstr "所以，你知道我的名字還知道怎麼找到我。有意思。我在聽，但如果你說了我不愛聽的話，下一秒你就會死。說吧。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Actually, I'll kick your ass!"
+msgstr "實際上，我要揍扁你！"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"I'm here because of some officer that wants you dead.  He looks kind of "
+"suspicious, so I want to learn the whole story."
+msgstr "我來是因為有個警官想要你死。他看起來有點可疑，所以我想了解整個故事。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"And why should I tell you, instead of just kill you and return to my "
+"business?"
+msgstr "那我為什麼要告訴你，而不是直接殺了你然後繼續我的事？"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "How rude, I'll kick your ass!"
+msgstr "真沒禮貌，我要揍扁你！"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Because, umm, please?"
+msgstr "因為，呃，求你了？"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"Hmm, if you put it that way, I'll tell you something interesting.  I think "
+"your <name_g> asked you to bring back my head.  How do I know?  That cop "
+"<name_b> just wants to screw you and loot my basement!  I have a secret "
+"storage room in there that opens only with retinal scan, and he will do "
+"anything to get to that room.  Tell you what, if you kill that <name_b>, "
+"I'll open it for you.  Anything that I'll leve behind me, will be yours.  "
+"What do you say, <name_g>?"
+msgstr ""
+"嗯，既然你這麼說了，我就告訴你點有趣的事。我想你的<name_g>讓你帶回我的腦袋。我怎麼知道？那個警察<name_b>只是想坑你，然後洗劫我的地下室！我在那兒有個秘密儲藏室，只有視網膜掃描才能打開，他會不擇手段進入那個房間。這樣吧，如果你殺了那個<name_b>，我就為你打開它。我留下的任何東西都歸你。你覺得怎麼樣，<name_g>？"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Nope, I’ll kick your ass!"
+msgstr "不，我要揍扁你！"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Don't waste my time."
+msgstr "別浪費我的時間。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "I still want to kick your ass!"
+msgstr "我還是想揍扁你！"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid "Officer is dead."
+msgstr "警官死了。"
+
+#: .\npc\Other\Bill_The_Assassin.json
+msgid ""
+"That's nice.  Actually, I lied about secret room, I just don't want to be "
+"followed by anyone, especially by some obsessed special agents.  But you "
+"held up your end of the agreement, and I respect agreements.  Take this "
+"book.  You may find it useful."
+msgstr ""
+"那很好。其實，我騙了你關於秘密房間的事，我只是不想被任何人跟蹤，尤其是那些執著的特工。但你履行了協議，我尊重協議。拿上這本書。你可能會覺得它有用。"
+
+#: .\npc\Other\CEO.json
+msgid "I don't have time for this. Name your price."
+msgstr "我沒時間耗這個。開個價吧。"
+
+#: .\npc\Other\CEO.json
+msgid "10.000 dorarus."
+msgstr "10,000 多拉魯斯。"
+
+#: .\npc\Other\CEO.json
+msgid "You will end here."
+msgstr "你會死在這裡。"
+
+#: .\npc\Other\CEO.json
+msgid "Take it and go away."
+msgstr "拿著它然後滾開。"
+
+#: .\npc\Other\CEO.json
+msgid "Actually, you will end here."
+msgstr "實際上，你會死在這裡。"
+
+#: .\npc\Other\targets.json
+msgid "Oh, are you here t-to k-kill me?! Please don't, please don't!"
+msgstr "哦，你-你是來殺-殺我的嗎？！求求你別，求求你別！"
+
+#: .\npc\Other\targets.json
+msgid "Nothing personal, kid."
+msgstr "不是針對個人，小子。"
+
+#: .\npc\Other\targets.json
+msgid "Beep-Boop!"
+msgstr "嗶-啵！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json center\NPC_Berry_Button.json
+msgid "refugee"
+msgstr "難民"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Barry Button"
+msgstr "巴里·巴頓"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Are we there yet?"
+msgstr "我們到了嗎？"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"Thank god you're here! I thougt I'm a dead man! These <name_b> put me in "
+"this dark shed with living <zombie>! Help me get out of here, <name_g>, "
+"please!"
+msgstr ""
+"謝天謝地你來了！我以為我死定了！這些<name_b>把我關在這個黑暗的棚屋裡，裡面還有活的<zombie>！<name_g>，求求你幫我離開這裡！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Your brother sent me. Let's get out of here, and fast."
+msgstr "你兄弟派我來的。我們趕緊離開這兒。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json .\npc\Teachers\captain_cost.json
+msgid "We're here."
+msgstr "我們到了。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Almost."
+msgstr "快了。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Let's go!"
+msgstr "我們走吧！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"Phew, that was a close one! I owe you one there, <name_g>. Let me just catch"
+" my breath. Talk to me later."
+msgstr "呼，好險啊！<name_g>，我欠你一個人情。讓我喘口氣。待會兒再聊。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm glad it's all over."
+msgstr "我很高興這一切都結束了。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\hobo_victoria.json
+#: .\npc\Teachers\retired_assassin.json
+msgid "<greet>"
+msgstr "<greet>"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, what about that job?"
+msgstr "那麼，那份工作怎麼樣了？"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, i need help with something. Lead me to nearest bank!"
+msgstr "聽著，我需要你幫個忙。帶我去最近的銀行！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm resting. Return later."
+msgstr "我正在休息。晚點再來。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Sure thing, <name_g>."
+msgstr "沒問題，<name_g>。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I was a teacher, always wanted to be rich! Now I can fulfill my dream!"
+msgstr "我以前是老師，一直想發財！現在我可以實現夢想了！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid ""
+"So, you want to learn something new? I can teach you how to read faster, or,"
+" if you don't know, how to read."
+msgstr "那麼，你想學點新東西嗎？我可以教你如何讀得更快，或者，如果你不識字，我可以教你識字。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I have a unfinished task. Let's talk about this later."
+msgstr "我手頭有未完成的任務。我們晚點再談這個。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Yes, let's do this."
+msgstr "好的，我們開始吧。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Sorry I don't want to."
+msgstr "抱歉，我不想。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you can't read? No problem, I can teach you!"
+msgstr "所以，你不識字？沒問題，我可以教你！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you are slow reader? No problem, I can teach you!"
+msgstr "所以，你閱讀速度慢？沒問題，我可以教你！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "I'm afraid that I can't teach you anything."
+msgstr "恐怕我沒什麼能教你的了。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "So, you want to learn how to read fast? No problem, I can teach you!"
+msgstr "那麼，你想學習如何快速閱讀？沒問題，我可以教你！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Good luck, student!"
+msgstr "祝你好運，學生！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Thanks, Barry!"
+msgstr "謝謝你，巴里！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json .\npc\Teachers\boxer_johny.json
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\retired_assassin.json .\npc\Teachers\wanderer_knight.json
+msgid "I already taught you all I knew."
+msgstr "我已經把我所知道的都教給你了。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Thanks again, Barry."
+msgstr "再次感謝，巴里。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Heist"
+msgstr "搶劫"
+
+#. ~ Description for mission '{'str': 'Heist'}'
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Protect me!!!"
+msgstr "保護我！！！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP!!!"
+msgstr "製作中！！！"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP"
+msgstr "製作中"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP?"
+msgstr "製作中？"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP."
+msgstr "製作中。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "Good, let's go back to RC."
+msgstr "好的，我們回RC吧。"
+
+#: .\npc\Refugee center\NPC_Barry_Button.json
+msgid "WIP!"
+msgstr "製作中！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry Button"
+msgstr "貝里·巴頓"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hello there, pal."
+msgstr "嘿，你好啊，夥計。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Can I help you with something?"
+msgstr "需要我幫忙嗎？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "You do realize that you paid me with worthless green paper, right?"
+msgstr "你意識到你付給我的是沒用的綠紙片，對吧？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Well, bye."
+msgstr "好吧，再見。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "You know, I tried that moonshine. It tastes like HELL!"
+msgstr "你知道嗎，我嚐了那私釀酒。味道簡直糟透了！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "I'm just a guy.  Nothing more, nothing else."
+msgstr "我只是個普通人。僅此而已，別無其他。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Huh?  What are you talking about?  You do not recognize american dollars?  "
+"For that money you can buy a lot more booze than you brought me!"
+msgstr "哈？你在說什麼？你不認識美元嗎？用那錢你能買到比我帶來的多得多的酒！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"If you didn't notice, old world is dead, and old currencies have little to "
+"none value now.  Heck, I doubt I can found someone who will want to trade "
+"something for this green paper."
+msgstr "如果你沒注意到，舊世界已經死了，舊貨幣現在幾乎一文不值。見鬼，我懷疑我找不到願意用東西換這綠紙片的人。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh, that's why that merchant guy gave me a weird look when I offered him… "
+"Sorry, pal, I didn’t think about that until now, he-he.  *he smiled*  Next "
+"time, I'll give you something of worth.  You have my word!"
+msgstr "哦，難怪那個商人給我奇怪的眼神當我給他……抱歉，夥計，我之前沒想到，嘿嘿。*他笑了* 下次，我會給你有價值的東西。我保證！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "I hope so!"
+msgstr "希望如此！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, 'pal', maybe you want to compensate my time with something of worth "
+"NOW?"
+msgstr "嘿，'夥計'，也許你現在就想用有價值的東西補償我的時間？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Yeah, sure, pal.  Sorry.  You can have my old ring, if it helps."
+msgstr "是的，當然，夥計。抱歉。你可以拿我的舊戒指，如果這有用的話。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "That's more like it."
+msgstr "這還差不多。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, I said I'm sorry!"
+msgstr "嘿，夥計，我說了我很抱歉！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh, pal, so how was it?  Is it good?  I know it's good, that's my favorite "
+"drink of all time!"
+msgstr "哦，夥計，怎麼樣？好喝嗎？我知道它很棒，那是我一直以來最喜歡的飲料！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry, I swear to god, if you don't stop with your jokes…"
+msgstr "貝里，我發誓，如果你再開這種玩笑……"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Umm, why do you have so angry face?  You didn't like it?  Maybe you drank "
+"too much?  Here, take this, it can help!"
+msgstr "呃，你為什麼這麼生氣？你不喜歡嗎？也許你喝太多了？給，拿這個，可能有用！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Unbelievable…"
+msgstr "難以置信……"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "So, what about my brother?"
+msgstr "那麼，我兄弟怎麼樣了？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He's here, alive and well."
+msgstr "他在這裡，活著且安好。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He was alive, but I couldn't get him here in one peace.  I'm sorry."
+msgstr "他還活著，但我沒能把他完好無損地帶回來。我很抱歉。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "He was dead, I couldn't do anything.  I'm sorry."
+msgstr "他已經死了，我無能為力。我很抱歉。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Nothing, really."
+msgstr "真的沒什麼。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Sorry, pal, I'm not in the mood right now."
+msgstr "抱歉，夥計，我現在沒心情。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Bring vodka to Berry"
+msgstr "給貝里帶伏特加"
+
+#. ~ Description for mission '{'str': 'Bring vodka to Berry'}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Berry want some vodka for his sore throat. Bring him a bottle."
+msgstr "貝里喉嚨疼，想要點伏特加。給他帶一瓶來。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Look, pal, I need to steep my throat, so bring me a bottle of vodka, please."
+"  I'll pay you."
+msgstr "聽著，夥計，我需要潤潤喉嚨，所以請給我帶瓶伏特加。我會付錢的。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Thank you, pal.  I'll wait for you right here!"
+msgstr "謝謝你，夥計。我就在這兒等你！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Well, that’s bad.  Return if you change your mind."
+msgstr "好吧，那太糟了。如果你改變主意就回來。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Try to look at the bar or in some lonely guy's house."
+msgstr "試著去酒吧或者某個獨居者的家裡找找看。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found any vodka?"
+msgstr "你找到伏特加了嗎？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"He-he.  I believed in you, pal.  *Berry took a large sip*  Here's the cash I"
+" promised.  Spend it well, he-he."
+msgstr "嘿嘿。我就知道你能行，夥計。*貝里猛灌了一大口* 這是我答應給你的現金。好好花，嘿嘿。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, you call this a vodka?!"
+msgstr "嘿，夥計，你管這叫伏特加？！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Pal…"
+msgstr "夥計……"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Bring nice moonshine"
+msgstr "帶點上好的私釀酒來"
+
+#. ~ Description for mission '{'str': 'Bring nice moonshine'}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Berry asked you to bring him a bottle of nice moonshine called 'Uncle Ben's "
+"Mustang'."
+msgstr "貝里讓你給他帶一瓶叫做'本叔叔的野馬'的上好私釀酒。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, pal, glad you still alive.  Listen, I have another task for you.  Have "
+"you heard about 'Uncle Ben's Mustang'?  It's the best moonshine in the "
+"entire state!  Sadly, there is a high chance that Ol' Benny is dead by now… "
+"BUT!  I got this nice map with all 'shady' places in the woods with "
+"different spots for moonshiners to meet.  So, I want YOU to visit one of the"
+" places, and maybe grab me a few bottles if you find any… Hey, hey, don't "
+"go!  I'll share!  Fine, I'll even give you some nice looking trader "
+"banknotes.  So, what do you say?"
+msgstr ""
+"嘿，夥計，真高興你還活著。聽著，我還有個任務給你。你聽說過'本叔叔的野馬'嗎？那是整個州最好的私釀酒！可惜，老本尼現在很可能已經死了……但是！我搞到了這張好地圖，上面標著樹林裡所有'隱蔽'地點，都是私釀販子們碰頭的不同地點。所以，我想讓你去其中一個地方看看，如果能找到的話，也許給我捎幾瓶……嘿，嘿，別走啊！我會分你的！好吧，我甚至給你一些好看的商人鈔票。那麼，你覺得怎麼樣？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"I knew you wouldn't refuse such a deal, pal.  I'll wait for you right here!"
+msgstr "我就知道你不會拒絕這樣的交易，夥計。我就在這兒等你！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Don't smoke in the woods!"
+msgstr "別在樹林裡抽菸！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found it?"
+msgstr "你找到了嗎？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"He-he.  I believed in you, pal.  *Berry took a large sip*  Here's the cash I"
+" promised you.  Spend it well, he-he."
+msgstr "嘿嘿。我就知道你能行，夥計。*貝里猛灌了一大口* 這是我答應給你的現金。好好花，嘿嘿。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, don't try to fool me!"
+msgstr "嘿，夥計，別想糊弄我！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Find Berry's brother"
+msgstr "找到貝里的兄弟"
+
+#. ~ Description for mission '{'str': "Find Berry's brother"}'
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Berry asked you to find his brother.  According to him, his brother got "
+"caught by some bandits."
+msgstr "貝里讓你找到他的兄弟。據他說，他的兄弟被一些土匪抓住了。"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Hey, pal, I've got an emergency here.  You helped me before, so I put my "
+"trust in you on this!  A few days ago, my brother went to forest to meet "
+"with some guys that are agreed to help with… let’s say, with some 'work'.  "
+"Problem is, something strange happened at the meeting.  We spoke by the "
+"radio with my brother, and the last thing I heard was loud rumbling and "
+"sounds of fight.  I think they killed him, pal… Please, check the meeting "
+"spot, and if he's still alive, bring him back to me!"
+msgstr ""
+"嘿，夥計，我這兒有急事。你之前幫過我，所以這次我信任你！幾天前，我兄弟去森林裡見一些同意幫忙……嗯，一些'工作'的人。問題是，會面時發生了奇怪的事。我和我兄弟用無線電通話，我最後聽到的是巨大的轟鳴聲和打鬥聲。我想他們殺了他，夥計……請你去會面地點看看，如果他還沒死，把他帶回來給我！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Thank you, pal.  I owe you a big one.  Please hurry!"
+msgstr "謝謝你，夥計。我欠你一個大人情。請快點！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Please, pal, help me!"
+msgstr "求你了，夥計，幫幫我！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"This guys may be dangerous.  I don't know why my brother wanted to mess with"
+" them…"
+msgstr "這幫人可能很危險。我不知道我兄弟為什麼要招惹他們……"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Did you found him?"
+msgstr "你找到他了嗎？"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid ""
+"Oh god, thank you, pal!  I'm so happy to see my brother again!  I would not "
+"forget your help for, like, forever!"
+msgstr "哦天哪，謝謝你，夥計！能再見到我兄弟我太高興了！我永遠，永遠都不會忘記你的幫助！"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Hey, pal, please…"
+msgstr "嘿，夥計，求你了……"
+
+#: .\npc\Refugee center\NPC_Berry_Button.json
+msgid "Pal… I'll miss my brother…"
+msgstr "夥計……我會想念我兄弟的……"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Boxer Johnny"
+msgstr "拳擊手約翰尼"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Boxer Johnny."
+msgstr "  拳擊手約翰尼。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Well well, isn't it my savior? Welcome!"
+msgstr "哎呀呀，這不是我的救命恩人嗎？歡迎！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Hey, I'm not in the mood right now! Go away!"
+msgstr "嘿，我現在沒心情！走開！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Well I’m just a regular boxer, really.  I worked here before "
+"<the_cataclysm>, but now I live here, I suppose."
+msgstr "其實我只是個普通的拳擊手。我在<the_cataclysm>之前就在這裡工作，但現在嘛，我想我就住這兒了。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"I'll teach you, for sure, but only after I'll deal with all my problems."
+msgstr "我肯定會教你的，但得等我先處理完所有麻煩事。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "So, problems solved?"
+msgstr "那麼，問題都解決了？"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Yeah, I guess they are.  Here, you can take it."
+msgstr "是啊，我想是的。給，你可以拿走了。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Thanks, Johnny."
+msgstr "謝了，強尼。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Thanks again, Johnny."
+msgstr "再次感謝，強尼。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "*looks busy."
+msgstr "*看起來很忙。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Ahem!"
+msgstr "咳咳！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Ahem.  Your debt is repaid.  You can relax."
+msgstr "咳咳。你的債還清了。你可以放鬆了。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Defend Johnny's gym"
+msgstr "保衛強尼的健身房"
+
+#. ~ Description for mission '{'str': "Defend Johnny's gym"}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Help Johnny to defend his gym."
+msgstr "幫助強尼保衛他的健身房。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Well, you know, I don't know if I should tell you, but… Ah, what the hell, "
+"I'm a dead man anyway!  Before <the_cataclysm>, I took a lot of money from "
+"moneylender to make some improvements for my gym.  At first, things went "
+"smoothly, but after that day, as you can guess, my cash flow goes straight "
+"to zero.  Somehow, that bastard managed to survive and, can you believe it, "
+"asked me to repay my debt!  What for? He would buy himself a nice car or "
+"something?!  And there's more!  When I refused to pay, he said that he would"
+" sell me as slave to a local bandit band or something.  Hell, I wouldn't "
+"turn myself to slave easily, I'll fight for my freedom!  Would you help me?"
+msgstr ""
+"呃，你知道，我不知道該不該告訴你，但是……唉，管他呢，反正我也是個死人了！在<the_cataclysm>之前，我從放貸人那裡借了一大筆錢來改造我的健身房。一開始還挺順利，但那天之後，你也猜得到，我的現金流直接歸零了。不知怎麼的，那混蛋居然活了下來，而且你信嗎，他竟然要我還債！還來幹嘛？給他自己買輛好車還是怎麼的？！還有更糟的！我拒絕還錢時，他說要把我當奴隸賣給本地的土匪團伙什麼的。見鬼，我可不會輕易讓自己變成奴隸，我要為自由而戰！你能幫幫我嗎？"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Hell, we will teach those bastards some proper manners… <speech_warning>  I "
+"think they're here!  Let's go kick their asses!"
+msgstr "媽的，我們得教教那些混蛋什麼叫規矩……<speech_warning> 我想他們來了！咱們去揍扁他們！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "C'mon, man!"
+msgstr "來吧，夥計！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Move like a butterfly, sting like a bee!"
+msgstr "像蝴蝶一樣移動，像蜜蜂一樣刺擊！"
+
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\dojo_blackbelt.json
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\rasta_bob.json
+#: .\npc\Teachers\retired_assassin.json
+msgid "So?"
+msgstr "怎麼樣？"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"HOOVA!  That's what I'm talking about.  We showed them who's the bosses "
+"around here!  Thanks, I owe you one.  I think it will cool his head for a "
+"while."
+msgstr "吼哇！這才像話。我們讓他們見識了誰才是這兒的老大！謝了，我欠你個人情。我想這能讓他冷靜一陣子了。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Bruh."
+msgstr "老兄。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Johnny's debt"
+msgstr "強尼的債務"
+
+#. ~ Description for mission '{'str': "Johnny's debt"}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Help Johnny with his debt"
+msgstr "幫助強尼處理他的債務"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"Good to see you again. Unfortunately for me, that moneylender guy don't let "
+"me go so easily.  He sent me his goon with a message recently.  He said that"
+" if I want to keep my gym and my head, I need to repay him, and that guy "
+"convinced me, that his boss is serious about it.  Now I'm a little scared.  "
+"If only I could somehow deal with this problem…"
+msgstr ""
+"又見到你真好。但對我來說不幸的是，那個放貸的傢伙不肯輕易放過我。他最近派了個打手給我捎信。他說如果我想保住我的健身房和腦袋，就得還錢，而且那傢伙讓我相信，他老闆是認真的。現在我有點害怕了。要是我能想辦法解決這個問題就好了……"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"You want to help me?  Thank you, I owe you a big one!  But if you serious "
+"about it, you don't have much time.  He gave no more than a month, so if you"
+" or me didn't make it in time…"
+msgstr "你想幫我？謝謝你，我欠你一個大人情！但如果你真打算幫忙，時間不多了。他給的期限不超過一個月，所以如果你或我沒能及時搞定……"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "He's <very> dangerous man, I assure you, so take care!"
+msgstr "他是個<非常>危險的人，我向你保證，所以要小心！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"I don't know what to say.  You saved my ass, and know I'm in eternal debt to"
+" you!  Thank you."
+msgstr "我不知道該說什麼。你救了我一命，現在我永遠欠你的！謝謝你。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "Find Johnny new students"
+msgstr "為強尼尋找新學員"
+
+#. ~ Description for mission '{'str': 'Find Johnny new students'}'
+#: .\npc\Teachers\boxer_johny.json
+msgid "Find new students for Johnny's boxing school."
+msgstr "為強尼的拳擊學校尋找新學員。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"So, now I have my head back, and my gym as well!  It's time to give this "
+"world a chance by reopening my boxing school!  Find me 2 new students, so "
+"that I can make them new pair of steel fists!  With them, we could even "
+"clean this town from <zombies>!"
+msgstr ""
+"那麼，現在我的腦袋保住了，健身房也回來了！是時候給這個世界一個機會，重新開放我的拳擊學校了！給我找2個新學員，這樣我就能把他們打造成一對鋼鐵拳頭！有了他們，我們甚至能把這座小鎮的<zombies>清理乾淨！"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "I know you wouldn't refuse, <name_g>.  I'll wait."
+msgstr "我知道你不會拒絕的，<name_g>。我等著。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"You can bring me anyone.  Children, elder, anyone that need protection!  We "
+"would remake this gym as base for needed."
+msgstr "你可以帶任何人來。孩子、老人，任何需要保護的人！我們會把這個健身房改造成需要的基地。"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid ""
+"<very> good, <name_g>.  If you want, I could make another pair of steel "
+"fists for you too!  Talk to me if you're interested."
+msgstr "<非常>好，<name_g>。如果你願意，我也可以為你再打造一對鋼鐵拳頭！有興趣的話就來找我談談。"
+
+#: .\npc\Teachers\boxer_johny.json .\npc\Teachers\police_teacher.json
+#: .\npc\Teachers\rasta_bob.json
+msgid "Why?"
+msgstr "為什麼？"
+
+#: .\npc\Teachers\boxer_johny.json
+msgid "You met Boxer Johnny"
+msgstr "你遇到了拳擊手約翰尼"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Captain"
+msgstr "上尉"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Jason Cost"
+msgstr "傑森·科斯特"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Hello there, <name_g>.  I'm Captain Cost, CIA.  Do you want to help your "
+"government?"
+msgstr "你好，<name_g>。我是科斯特上尉，中央情報局的。你想幫助你的政府嗎？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Yeah, I'm interested. Tell me more."
+msgstr "是的，我感興趣。告訴我更多。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "<no>, my government is dead."
+msgstr "<no>，我的政府已經不存在了。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  I need to find a crashed heli, and you are going to help me find it."
+"  No objections.  It crashed in nearby field.  I need an information that "
+"was on that heli.  That information is <very> valuable for my mission.  "
+"Let's search for it. Time is working against us, s we want to make this as "
+"fast as possible, do we, <name_g>?"
+msgstr ""
+"很好。我需要找到一架墜毀的直升機，而你要幫我找到它。沒有異議。它墜毀在附近的田野裡。我需要那架直升機上的信息。那信息對我的任務<非常>寶貴。我們去找吧。時間緊迫，我們得儘快行動，對吧，<name_g>？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Umm, OK?"
+msgstr "呃，好吧？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "It sounds dangerous.  I'll pass."
+msgstr "聽起來很危險。我退出。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Are you sure about that?"
+msgstr "你確定嗎？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "No, I'm a cop, and I must help my government."
+msgstr "不，我是警察，我必須幫助我的政府。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Maybe I should reconsider..."
+msgstr "也許我應該重新考慮……"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Yes?"
+msgstr "是的？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "We don't have much time, <name_g>."
+msgstr "我們時間不多了，<name_g>。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Here's your info, captain."
+msgstr "這是你要的信息，上尉。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "I don't want to help you anymore."
+msgstr "我不想再幫你了。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "I am a captain of military force of the US and A!"
+msgstr "我是美利堅合眾國軍隊的上尉！"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  Next task.  We need to get a highly classified information from "
+"military bunker nearby.  Lead me to that bunker.  We will work together on "
+"cracking it, but don't forget about time!"
+msgstr "很好。下一個任務。我們需要從附近的軍事掩體獲取一份高度機密的信息。帶我去那個掩體。我們將一起破解它，但別忘了時間！"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Umm, ok?"
+msgstr "呃，好吧？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "It sounds dangerous. I'll pass."
+msgstr "聽起來很危險。我退出。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  Last task.  We need to contact a special agent that is working in "
+"this area to finish my mission.  For that we need to get a special code to "
+"contact him with radio.  Lead me to the meeting point, where we can find "
+"more info."
+msgstr ""
+"很好。最後一個任務。我們需要聯繫一位在該地區工作的特工來完成我的任務。為此，我們需要獲取一個特殊代碼，以便用無線電聯繫他。帶我去會面點，那裡可以找到更多信息。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Good.  See that building?  That's our meeting point.  Search for the note or"
+" something inside.  It got to be written somewhere."
+msgstr "很好。看到那棟建築了嗎？那是我們的會面點。在裡面找找便條之類的東西。肯定寫在某個地方。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Clock is ticking, <name_g>."
+msgstr "時間在流逝，<name_g>。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"So, I got that note for you!  Care to explain why there were a lot of "
+"aggressive drones?"
+msgstr "那麼，我為你拿到了那張便條！能解釋一下為什麼有那麼多攻擊性無人機嗎？"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Well, I didn't think that someone would ever lived after that, <name_g>."
+msgstr "嗯，我沒想到有人能在那之後活下來，<name_g>。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "You will die, right here, right now!"
+msgstr "你會死在這裡，就現在！"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "You will tell me the truth, right NOW, or <ill_kill_you>, <name_b>!"
+msgstr "你現在就告訴我真相，否則<ill_kill_you>，<name_b>！"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"OK, OK, I'll tell you the truth.  I'm working for China's intelligence.  "
+"They dropped me here before releasing this <swear> plague, so that I can "
+"send them reports on how deadly it is.  I didn’t know that it will be this "
+"bad, <name_g>, it’s <very> terrifying.  My last mission was to just GTFO of "
+"here, meet other agent that can organize my extraction to somewhere else.  "
+"Please spare me, <name_g>!  I'll give you something <very> valuable if you "
+"do, please..."
+msgstr ""
+"好吧，好吧，我說實話。我為中國情報部門工作。他們在釋放這場<swear>瘟疫之前把我空投到這裡，以便我能向他們報告其致命程度。我不知道情況會這麼糟，<name_g>，這<非常>可怕。我的最後一個任務就是離開這裡，聯繫另一位能安排我撤離到別處的特工。請饒了我，<name_g>！如果你放過我，我會給你<非常>寶貴的東西，求你了……"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Die, <name_b>."
+msgstr "去死吧，<name_b>。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Live and newer come back.  If I see your face one more time, <ill_kill_you>."
+msgstr "活著離開，別再回來。如果我再看到你的臉，<ill_kill_you>。"
+
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"<no>, <name_b>. <ill_kill_you>, <name_b>. You've helped me enough, so I can "
+"finish my mission without you, <name_b>!"
+msgstr "<no>，<name_b>。<ill_kill_you>，<name_b>。你已經幫了我夠多，所以沒有你我也能完成任務，<name_b>！"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Find crashed heli"
+msgstr "尋找墜毀的直升機"
+
+#. ~ Description for mission '{'str': 'Find crashed heli'}'
+#: .\npc\Teachers\captain_cost.json
+msgid "Cost asked you to find crashed heli"
+msgstr "科斯特要求你尋找墜毀的直升機"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Lead me to bunker"
+msgstr "帶我去地堡"
+
+#. ~ Description for mission '{'str': 'Lead me to bunker'}'
+#: .\npc\Teachers\captain_cost.json
+msgid "Cost asked you to lead him to military bunker"
+msgstr "科斯特要求你帶他去軍事地堡"
+
+#: .\npc\Teachers\captain_cost.json
+msgid "Contact special agent"
+msgstr "聯繫特工"
+
+#. ~ Description for mission '{'str': 'Contact special agent'}'
+#: .\npc\Teachers\captain_cost.json
+msgid ""
+"Cost asked you to help him get in contact with a special agent that is "
+"working in this area to finish his mission"
+msgstr "科斯特要求你幫他聯繫一位在該地區工作的特工，以完成他的任務"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "the Iron Palm"
+msgstr "鐵掌"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Black Belt Coach"
+msgstr "黑帶教練"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Black Belt Coach."
+msgstr "黑帶教練。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "It's good to see my best student again."
+msgstr "很高興再次見到我最優秀的學生。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Hello there, student! Ready to learn the way of Iron Palm?"
+msgstr "你好啊，學生！準備好學習鐵掌之道了嗎？"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "How can I become your student?"
+msgstr "我怎樣才能成為你的學生？"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "What about that help?"
+msgstr "那幫助是怎麼回事？"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well, if you would like to know, we would have to start before "
+"<the_cataclysm>.  There were two schools, The Iron Palm and The Flame "
+"Knuckle.  Our Dojo fell apart quickly, my students and even some of my "
+"fellow masters left to join the riots.  Almost as if they had forgotten "
+"their teachings.  The ones that stayed behind turned into the <zombies> that"
+" roam the streets.  The Flame Knuckle somehow didn’t feel the same "
+"destruction as we did, they quickly adapted to the new world and expanded "
+"their population, offering protection and training to the outside world.  "
+"But they kept their grievances and decided to end our dojo, I must prevent "
+"this from happening."
+msgstr ""
+"好吧，如果你想知道，我們得從<the_cataclysm>之前說起。當時有兩所學校，鐵掌和火焰拳。我們的道場很快分崩離析，我的學生甚至一些同門大師都離開去參加暴亂了。他們幾乎像是忘記了所學。留下來的人變成了在街上游蕩的<zombies>。火焰拳不知為何沒有像我們一樣遭受毀滅，他們迅速適應了新世界並擴大了人口，為外界提供保護和訓練。但他們心懷怨恨，決定終結我們的道場，我必須阻止這件事發生。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I think you're lying."
+msgstr "我覺得你在撒謊。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I teach only those who helped my school.  Did you helped my school?"
+msgstr "我只教那些幫助過我學校的人。你幫過我的學校嗎？"
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+msgid "Yes, master."
+msgstr "是的，大師。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Maybe later…"
+msgstr "也許以後吧……"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"You helped me resurrect my school, so here, take it.  It's one of the relics"
+" of our school, 'The Manual’.  You can take it now.  Good luck, student.  "
+"Don't get yourself killed!"
+msgstr "你幫我復興了學校，所以，拿去吧。這是我們學校的遺物之一，《手冊》。你現在可以拿走它。祝你好運，學生。別讓自己喪命！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Thank you, master!"
+msgstr "謝謝你，大師！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Thanks again, master."
+msgstr "再次感謝，大師。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"What?!  Masters don't lie!  You want to feel my iron fury?  You want to feel"
+" REAL PAIN?!"
+msgstr "什麼？！大師從不撒謊！你想感受我的鐵拳之怒嗎？你想體驗真正的痛苦嗎？！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master!  Please don't kill me!"
+msgstr "對不起，大師！請別殺我！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm only talking to my students about my problems!"
+msgstr "我只和我的學生談論我的問題！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master!"
+msgstr "對不起，大師！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"First, you need to find proper uniform.  You should wear Karate Gi and Geta "
+"to start your training.  By the way, this is strictly not allowed, but in "
+"this dire circumstances, you can 'borrow' uniform from any not-any-more "
+"student."
+msgstr ""
+"首先，你需要找到合適的制服。你應該穿上空手道服和木屐來開始訓練。順便說一句，這嚴格來說是不允許的，但在這種嚴峻的情況下，你可以從任何不再是學生的人那裡‘借’制服。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I understand.  I'll return when I get the uniform!"
+msgstr "我明白了。等我拿到制服就回來！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Take this.  This is one of the school flyers my informer has gave me.  He "
+"said that they use it now as invitation tickets.  I hope you can find use "
+"for it.  Good luck, student."
+msgstr "拿著這個。這是我的線人給我的學校傳單之一。他說他們現在用它作為邀請票。我希望你能派上用場。祝你好運，學生。"
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\drunken_master.json
+msgid "Thank you, master."
+msgstr "多謝，師父。"
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\police_teacher.json
+msgid "I'm back."
+msgstr "我回來了。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I'm sorry, master, but you must die."
+msgstr "抱歉，師父，但你必須死。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find informer"
+msgstr "尋找線人"
+
+#. ~ Description for mission '{'str': 'Find informer'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Find the informer, who was infiltrated to 'Flame Knuckle' school, and talk "
+"to him."
+msgstr "找到那名潛入'火焰拳'學校的線人，並與他交談。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well well, you decided to help me?  Okay, listen here, student.  I managed "
+"to recruit one of the survivors and persuaded him to join Flame Knuckle and "
+"leak all information he could get to me.  The time has come for the next "
+"collection of information.  Meet him in the nearby forest, get everything he"
+" knows from him and come back here.  Oh yes, our password is 'Berries'.  "
+"Don't forget the password!"
+msgstr ""
+"好好好，你決定幫我了？ 好吧，聽著，徒弟。 我設法招募了一名倖存者，說服他加入火焰拳，並將他能獲取的所有情報洩露給我。 現在到了下一次收集情報的時候了。"
+" 在附近的森林裡與他碰頭，從他那裡獲取他知道的一切，然後回到這裡。 哦對了，我們的暗號是'漿果'。 別忘了暗號！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I didn’t doubt in you.  Hold this belt as a symbol of your entry into Iron "
+"Palm School!  Go, and don't come to me until you complete your task!"
+msgstr "我從未懷疑過你。 拿著這條腰帶，作為你加入鐵掌派的象徵！ 去吧，完成任務之前別回來見我！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Are you scared?"
+msgstr "你害怕了嗎？"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Be careful.  The guy could be found out, so try not to bring tail here."
+msgstr "小心點。 那傢伙可能已經暴露了，所以儘量別把尾巴帶到這裡來。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Well done, student.  I knew you would succeed!  Well, tell me all you got… "
+"Hmm, that's how it is.  Well, it complicates my job a little.  I need a "
+"little time to think about it.  Here, hold this belt, you deserve it."
+msgstr ""
+"幹得好，徒弟。 我就知道你能成功！ 好了，把你得到的情報都告訴我……嗯，原來是這樣。 好吧，這讓我的工作稍微複雜了一點。 我需要一點時間來思考一下。 "
+"給，拿著這條腰帶，這是你應得的。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "You are a disgrace to your family!"
+msgstr "你是家族的恥辱！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Kill one of the trainers"
+msgstr "殺死一名教練"
+
+#. ~ Description for mission '{'str': 'Kill one of the trainers'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"The Master has asked you to kill one of the Flame Fist School trainers "
+"before he can train a new group of students."
+msgstr "師父要求你在火焰拳學校的教練訓練出一批新學員之前，殺死其中一名。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Thanks to the information you gave me, I learned that Flame Knuckle is send "
+"one of their elites to train a new group of fresh apprentices, and I want "
+"you to prevent this.  Find this <name_b>, use your iron palm and make him "
+"choke on blood!  What?  What about the students?  I don't give a <swear> "
+"damn, do what you want.  Oh yeah, their training will take about 2-4 weeks, "
+"so hurry up!  They won't sit there forever!"
+msgstr ""
+"多虧了你給我的情報，我得知火焰拳正派出一名精英去訓練一批新學徒，而我要你阻止這件事。 找到這個<name_b>，用你的鐵掌讓他血濺當場！ 什麼？ "
+"那些學徒怎麼辦？ 我<swear>才不在乎，隨你處置。 哦對了，他們的訓練大約需要2-4周，所以抓緊時間！ 他們不會永遠待在那裡的！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "I like your attitude.  Show them the true path of the Iron Palm!"
+msgstr "我喜歡你的態度。 讓他們見識鐵掌派的真正道路！"
+
+#: .\npc\Teachers\dojo_blackbelt.json .\npc\Teachers\hobo_victoria.json
+msgid "Afraid?!"
+msgstr "害怕了？！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Apprentices are just random crooks, but that trainer guy is one of the "
+"finest in his school.  Be careful with your approach."
+msgstr "學徒只是些不入流的混混，但那個教練可是他們學校裡的頂尖好手。 接近時要小心行事。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Nice one, student!  That will teach them not to mess with me, with my school"
+" and my students!"
+msgstr "幹得漂亮，徒弟！ 這會讓他們知道，別來招惹我，別來招惹我的學校和我的學生！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "End the Flame Knuckle"
+msgstr "終結火焰拳"
+
+#. ~ Description for mission '{'str': 'End the Flame Knuckle'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "It's time to end the Flame Knuckle once and for all."
+msgstr "是時候一勞永逸地終結火焰拳了。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"So, my student, it's time for real punch!  I managed to locate their base, "
+"and even learned that their leader will be there.  I want you to go there, "
+"show them the power of the Iron Palm and bring me the head of their leader "
+"as proof.  You are my best student, so it wouldn't be difficult for you."
+msgstr ""
+"那麼，我的徒弟，是時候來真的了！ 我設法找到了他們的基地，甚至得知他們的首領會在那裡。 "
+"我要你去那裡，向他們展示鐵掌派的威力，並把首領的頭顱帶回來作為證明。 你是我最好的徒弟，這對你來說應該不難。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Good.  He will be there for a week at least.  If you want to get to him "
+"before dealing with his other crooks, ask me how, I've got an idea…"
+msgstr "很好。 他至少會在那裡待一週。 如果你想在對付他手下其他混混之前先找到他，可以問我方法，我有個主意……"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I know little about their base, but they have a bunch of crooks that joined "
+"them for protection, a few trainers for training new students, maybe "
+"something more.  Oh, if you see the guys with masks.  They are his tops, so "
+"be <very> careful while dealing with them."
+msgstr ""
+"我對他們的基地瞭解不多，但他們有一群為了尋求保護而加入的混混，幾個訓練新學員的教練，可能還有其他東西。 哦，如果你看到戴面具的傢伙。 "
+"他們是他的高層，所以對付他們時要<very>小心。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"Good, <very> good, my student.  Now my school have a chance to rise again!  "
+"Take this belt, you deserve it. "
+msgstr "好，<very>很好，我的徒弟。 現在我的學校有機會重振雄風了！ 拿著這條腰帶，這是你應得的。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find me new students"
+msgstr "為我尋找新學員"
+
+#. ~ Description for mission '{'str': 'Find me new students'}'
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Find new students."
+msgstr "尋找新學員。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"So, my student, it's time to resurrect my school.  Bring me 2 new students "
+"so I can train them to be the best fighters in the world!"
+msgstr "那麼，我的徒弟，是時候重振我的門派了。 給我帶來2名新學員，這樣我就能把他們訓練成世界上最強的戰士！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Good, I'll wait."
+msgstr "很好，我等著。"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "Afraid?"
+msgstr "害怕了？"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"To be honest, I think you know the world outside far better then me, so I "
+"don't have advice for you, except good luck!"
+msgstr "說實話，我覺得你對外面世界的瞭解遠勝於我，所以我沒什麼建議給你，除了祝你好運！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid ""
+"I don't know what to say, my student.  Just take this belt.  You earned it "
+"with your blood and tears.  If you want to get extra training, talk to me.  "
+"I'll teach you all our school secrets as best as I can!"
+msgstr ""
+"我不知道該說什麼，我的學生。 就拿這條腰帶吧。 你是用血與淚換來的。 如果你想接受額外訓練，就來找我。 我會盡我所能，將我們門派的所有秘傳都教給你！"
+
+#: .\npc\Teachers\dojo_blackbelt.json
+msgid "You met Iron Palm Leader"
+msgstr "你遇到了鐵掌幫幫主"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "drunken master"
+msgstr "醉拳大師"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken master"
+msgstr "醉拳大師"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken master."
+msgstr "醉拳大師。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Is your potion ready?"
+msgstr "你的藥水準備好了嗎？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "If you want to travel with me, let's go."
+msgstr "如果你想跟我一起旅行，那就走吧。"
+
+#: .\npc\Teachers\drunken_master.json .\npc\bg\bg_drunken_master.json
+msgid ""
+"Before <the_cataclysm>, I traveled around the country.  During the day I "
+"made money by performing various shows on the streets, and at night I went "
+"to bars in search of rare liquor.  Often my campaigns ended in fights, and "
+"since I really like to drink, I had to fight a little drunk.  Thus, I "
+"improved my skills and soon it turned into a full-fledged fighting style."
+msgstr ""
+"在<the_cataclysm>之前，我周遊全國。 白天我在街頭表演各種節目賺錢，晚上則去酒吧尋找珍稀美酒。 "
+"我的冒險常常以打架告終，而且因為我真的很愛喝酒，所以不得不帶著幾分醉意戰鬥。 就這樣，我磨練了自己的技藝，不久便形成了一套完整的戰鬥風格。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Can you teach me your fighting style?"
+msgstr "你能教我你的戰鬥風格嗎？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Well, I'm not a good teacher, but since I like you, I can try.  But keep in "
+"mind that I will charge a small fee for my work.  I did not leave my way in "
+"search of the rarest liquor.  I found a bunch of recipes books of potions, "
+"and I need the ingredients to make them.  If you can help me find the "
+"ingredients, I will help you learn my fighting style."
+msgstr ""
+"嗯，我不是個好老師，但既然我喜歡你，我可以試試。 不過要記住，我的教學會收取一點費用。 我並沒有放棄尋找最稀有美酒的道路。 "
+"我找到了一堆藥水配方書，需要原料來製作它們。 如果你能幫我找到原料，我就幫你學習我的戰鬥風格。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Be patient, nothing is ready yet.  In this case, the main thing is patience."
+" Otherwise nothing sensible will come of it."
+msgstr "耐心點，什麼都還沒準備好。 這種情況下，最重要的是耐心。否則什麼像樣的東西都做不出來。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I need rest, <name_g>.  Let's do it sometime later."
+msgstr "我需要休息，<name_g>。 我們改天再繼續吧。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Everything is ready, <name_g>.\" He winked conspiratorially.  \"Well, shall "
+"we try our 'potion'?"
+msgstr "一切都準備好了，<name_g>。\"他神秘地眨眨眼。 \"那麼，我們來試試我們的‘藥水’吧？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let's do it!"
+msgstr "來吧！"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"*staggered a little, exhaled poisonous vapor from his mouth, due to which "
+"the flies flying nearby fell dead, and said: \"UHH, IT'S GOOD!  I FEEL SUCH "
+"A Rush of STRENGTH AND ENERGY, THAT I AM READY TO RIP EVERYONE AND "
+"EVERYTHING!  Let's bet I can kill more <zombies> than you can until we sober"
+" up?"
+msgstr ""
+"*踉蹌了一下，從口中呼出毒霧，導致附近飛過的蒼蠅紛紛墜亡，然後說道：\"呃，真帶勁！ 我感到一股力量和能量的湧動，簡直想撕碎一切！ "
+"我們來打個賭，在清醒之前，我殺的<zombies>肯定比你多，怎麼樣？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"I want more!  Let's go find the toughest <zombies>, the most powerful!  35 "
+"strong ones will be enough."
+msgstr "我還想再來！ 去找最硬的<zombies>，最強大的那種！ 35個強壯的應該夠了。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "It was easy last time.  This time, let's go 200!"
+msgstr "上次太簡單了。 這次，我們來200個！"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "For our first bet, let's say 100 <zombies>."
+msgstr "我們第一次打賭，就定100個<zombies>吧。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Okay, let's try!"
+msgstr "好吧，試試看！"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "<no>, I don't want to."
+msgstr "<no>，我不想。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Afraid of losing?  I'll go look for a worthy opponent somewhere else."
+msgstr "怕輸嗎？ 我去別處找個像樣的對手。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let me think again."
+msgstr "讓我再想想。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Get lost, you drunkard."
+msgstr "滾開，你這酒鬼。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I'm still ahead!"
+msgstr "我還是領先的！"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Okay, I admit your victory.  Now let's take a break."
+msgstr "好吧，我承認你贏了。 現在我們先休息一下。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Let's count the points."
+msgstr "我們來算算分數。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Did you help me, student?"
+msgstr "你幫了我嗎，徒弟？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "I learned all from this book. You can take it."
+msgstr "我已經從這本書裡學會了所有東西。你可以拿去了。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Thank you again, master"
+msgstr "再次感謝您，師父"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Ingredients for liquor"
+msgstr "釀酒原料"
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather:\n"
+" <color_light_blue>12 pinecones</color>\n"
+" <color_light_blue>8 birchbarks</color>\n"
+" <color_light_blue>4 cattail stalks</color>\n"
+" <color_light_blue>2 lotus flowers</color>"
+msgstr ""
+"收集：\n"
+" <color_light_blue>12個松果</color>\n"
+" <color_light_blue>8塊樺樹皮</color>\n"
+" <color_light_blue>4根香蒲莖</color>\n"
+" <color_light_blue>2朵蓮花</color>"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So, for the next drink I need: pinecone, 12 pieces; birchbark, 8 pieces; "
+"cattail stalk, 4 pieces; lotus flower, 2 pieces.  Bring me these ingredients"
+" and I'll try to brew something out of it."
+msgstr "那麼，下一杯飲品我需要：松果，12個；樺樹皮，8塊；香蒲莖，4根；蓮花，2朵。把這些材料帶給我，我會試著用它釀點什麼。"
+
+#: .\npc\Teachers\drunken_master.json .\npc\Teachers\samurai_akira.json
+msgid "Good.  I'll wait."
+msgstr "很好。我會等著。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Bah."
+msgstr "呸。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "<yawn>"
+msgstr "<yawn>"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "You got the stuff?"
+msgstr "東西帶來了嗎？"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Okay, now I need some time for all this stuff to brew in my secret bottle… "
+"according to my estimates, it will take all day. Come back later."
+msgstr "好了，現在我需要點時間把這些東西放進我的秘密瓶子裡釀造……據我估計，得花上一整天。晚點再來吧。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Drunken competition"
+msgstr "醉酒競賽"
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 100 zombies before you get sober."
+msgstr "在你清醒前殺死100個殭屍。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"It's good to see another true warrior.  I'm pleased to see that you succeed "
+"in this task.  Now I need some rest.  Let's talk later."
+msgstr "很高興見到另一位真正的戰士。我很高興看到你完成了這個任務。現在我需要休息一下。我們晚點再聊。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid "Looser."
+msgstr "失敗者。"
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather:\n"
+" <color_light_blue>20 tobacco leaves</color>,\n"
+" <color_light_blue>40 coffee beans</color>,\n"
+" <color_light_blue>0.75L of whiskey</color>,\n"
+" <color_light_blue>12 chunks of mutant meat</color>."
+msgstr ""
+"收集：\n"
+" <color_light_blue>20片菸葉</color>,\n"
+" <color_light_blue>40顆咖啡豆</color>,\n"
+" <color_light_blue>0.75升威士忌</color>,\n"
+" <color_light_blue>12塊突變肉塊</color>。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So, for the next drink, I need something new: 20 tobacco leaves, 40 coffee "
+"beans, 0.75L of whiskey, 12 chunks of mutant meat.  Bring me and I'll try to"
+" brew something from this."
+msgstr "那麼，下一杯飲品，我需要些新東西：20片菸葉，40顆咖啡豆，0.75升威士忌，12塊突變肉塊。帶給我，我會試著用這些釀點什麼。"
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 200 zombies before you get sober."
+msgstr "在你清醒前殺死200個殭屍。"
+
+#. ~ Description for mission '{'str': 'Ingredients for liquor'}'
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"Gather <color_light_blue>20 ammonium nitrate</color>, <color_light_blue>0.3L"
+" gasoline</color>, <color_light_blue>15 hops</color>, <color_light_blue>5 "
+"<zombie> pheromone</color>."
+msgstr ""
+"收集 "
+"<color_light_blue>20份硝酸銨</color>、<color_light_blue>0.3升汽油</color>、<color_light_blue>15份啤酒花</color>、<color_light_blue>5份<zombie>信息素</color>。"
+
+#: .\npc\Teachers\drunken_master.json
+msgid ""
+"So the next swill is going to be a little exotic.  I'm not sure about my "
+"guesses, but I think the effect can be enhanced by adding a little <zombie> "
+"pheromone… why are you looking at me like that?  I'm not kidding!  This time"
+" I need: ammonium nitrate, 20 pieces; gasoline, 0.3L; hops, 15 pieces; "
+"<zombie> pheromone, 5 pieces.  Bring me and I'll try to brew something from "
+"this."
+msgstr ""
+"所以下一杯劣酒會有點異國情調。我不太確定我的猜測，但我覺得加一點<zombie>信息素可能會增強效果……你為什麼那樣看著我？我沒開玩笑！這次我需要：硝酸銨，20份；汽油，0.3升；啤酒花，15份；<zombie>信息素，5份。帶給我，我會試著用這些釀點什麼。"
+
+#. ~ Description for mission '{'str': 'Drunken competition'}'
+#: .\npc\Teachers\drunken_master.json
+msgid "Kill 35 zombie brutes before you get sober."
+msgstr "在你清醒前殺死35個殭屍巨漢。"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "hobo"
+msgstr "流浪漢"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Victoria"
+msgstr "維多利亞"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "I'm just a regular hobo. That's all."
+msgstr "我只是個普通的流浪漢。僅此而已。"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Do I look like a person who can teach you something?  Leave me alone."
+msgstr "我看起來像是能教你什麼的人嗎？別來煩我。"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Yes, you look exactly like a person who can teach me something!"
+msgstr "是的，你看起來正是能教我東西的人！"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Leave me alone, you creep.  Damn kids, always making fun of old and weak "
+"ladies..."
+msgstr "離我遠點，你這個怪人。該死的孩子，總是取笑年老體弱的女士……"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Look, first time I saw you, I noticed you stance, how you react on danger..."
+msgstr "聽著，我第一次見到你時，就注意到了你的站姿，你對危險的反應……"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "..."
+msgstr "..."
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Always picking weakest victim to mock.  Go ahead, mock old weak lady.  Kids "
+"these days, no respect for elders..."
+msgstr "總是挑最弱的受害者來嘲弄。來吧，嘲弄年老體弱的女士。現在的孩子，一點都不尊重長輩……"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"FINE, fine... You got me.  Do this for me and you'll get your training."
+msgstr "好吧，好吧……你抓到我了。幫我做這件事，你就能得到訓練。"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "SWEET!"
+msgstr "太棒了！"
+
+#: .\npc\Teachers\hobo_victoria.json .\npc\Teachers\retired_assassin.json
+msgid "Thanks again, teacher."
+msgstr "再次感謝，老師。"
+
+#. ~ Description for mission '{'str': 'Find 2x4 30'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find 2x4 30"
+msgstr "找到 2x4 30"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "I need to warm myself somehow. Find 2x4 30"
+msgstr "我得想辦法暖和一下。找到 2x4 30"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Good"
+msgstr "好"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "~"
+msgstr "~"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Nice! "
+msgstr "不錯！"
+
+#. ~ Description for mission '{'str': 'Find large barrel'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find large barrel"
+msgstr "找到大桶"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find large barrel so i can have a place to burn my wood."
+msgstr "找到大桶，這樣我就能有個地方燒木頭了。"
+
+#. ~ Description for mission '{'str': 'Find cheese 20'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find cheese 20"
+msgstr "找到奶酪 20"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find cheese 20 for my pet rat."
+msgstr "找到奶酪 20 給我的寵物鼠。"
+
+#. ~ Description for mission '{'str': 'Find my pet rat'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find my pet rat"
+msgstr "找到我的寵物鼠"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "True student!!!"
+msgstr "真正的學生！！！"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Find my pet rat, please. I don't think it got far away."
+msgstr "請找到我的寵物鼠。我覺得它沒跑遠。"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Huh, thats not my rat! My rat returned to me a few minutes ago!"
+msgstr "哈，那不是我的老鼠！我的老鼠幾分鐘前就回來了！"
+
+#. ~ Description for mission '{'str': 'Kill rat king'}'
+#: .\npc\Teachers\hobo_victoria.json
+msgid "Kill rat king"
+msgstr "殺死鼠王"
+
+#: .\npc\Teachers\hobo_victoria.json
+msgid ""
+"Kill rat king and his pack, so I can have a normal sleep in this place."
+msgstr "殺死鼠王和他的鼠群，這樣我就能在這個地方正常睡覺了。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer"
+msgstr "警官"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Police Teacher"
+msgstr "警察教師"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Police Teacher."
+msgstr "警察教師。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Marshal…"
+msgstr "警長……"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer…"
+msgstr "警官……"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Detective…"
+msgstr "偵探……"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Citizen…"
+msgstr "市民……"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Well, I was in this cell, minding my own business, but when the lights went "
+"out, the emergency system locked the entire PD and I kind of got stuck here."
+msgstr "嗯，我當時在這個牢房裡，正忙自己的事，但燈一滅，應急系統就把整個警局鎖了，我有點被困在這兒了。"
+
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\wanderer_knight.json
+msgid "Are you sure you telling me the truth?"
+msgstr "你確定你說的是實話嗎？"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Look, right now I can only think about one thing, and that's definitely not "
+"about teaching, OK?"
+msgstr "聽著，現在我只想著一件事，那肯定不是教書，好嗎？"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "So, what about now?"
+msgstr "那麼，現在呢？"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I learned all from this book. You can take it. Good luck."
+msgstr "我從這本書裡都學會了。你可以拿走它。祝你好運。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thank you, officer."
+msgstr "謝謝你，警官。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thanks again, officer."
+msgstr "再次感謝，警官。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, OK, I'll tell you.  The truth is, I was afraid when first <zombies> "
+"tried to enter our department, and didn't even notice how I got myself "
+"locked up here, in this cell.  Maybe I panicked, and instead of running "
+"away, or helping my fellow co-workers, I thought, maybe, this metal bars "
+"would protect me.  I'm so ashamed of myself, really.  Officers should be "
+"calm in emergencies like this, to help civilians with anything they need, to"
+" protect them, but… What done is done."
+msgstr ""
+"好吧，好吧，我告訴你。 事實是，當第一批<zombies>試圖進入我們部門時，我害怕了，甚至沒注意到自己怎麼就被鎖在了這個牢房裡。 "
+"也許我慌了，沒有逃跑，也沒有幫助我的同事，反而想著，也許這些鐵欄杆能保護我。 我真的很慚愧。 "
+"警官在這種緊急情況下應該保持冷靜，幫助市民解決任何需求，保護他們，但是……事已至此。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Oh, uh, well, OK then?"
+msgstr "哦，呃，嗯，那好吧？"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'm done."
+msgstr "我說完了。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'm still working on it, <name_g>."
+msgstr "我還在努力，<name_g>。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "OK, <name_g>, take your time."
+msgstr "好的，<name_g>，慢慢來。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Good for you, <name_g>."
+msgstr "幹得好，<name_g>。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "No, ha-ha, it's an accident, really."
+msgstr "不，哈哈，那真是個意外，真的。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "So, looking for a secret room, aren't you?"
+msgstr "所以，你在找密室，對吧？"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "What? What secret room?  I don't know what you're talking about!"
+msgstr "什麼？什麼密室？我不知道你在說什麼！"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Bill told me everything.  You want to screw me over and got all neat stuff "
+"from Billy's secret stash all by yourself? Not this time.  Ha-Ha on You!"
+msgstr "比爾都告訴我了。你想坑我，然後獨吞比利密藏裡的所有好東西？這次可不行。哈哈，你中招了！"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"<name_g> did you actually believed that <name_b>?  I don't hide anything "
+"from you!  Kill him please and please don't kill me!"
+msgstr "<name_g>，你居然相信了<name_b>？我對你毫無隱瞞！請殺了他，求你別殺我！"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Nah."
+msgstr "不。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Find police report"
+msgstr "尋找警方報告"
+
+#. ~ Description for mission '{'str': 'Find police report'}'
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Officer asked you to find him a folder with police reports in PD, located in"
+" town nearby."
+msgstr "警官讓你在附近城鎮的警察局裡找一個裝有警方報告的文件夾。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Before <the_cataclysm>,  I was in a secret police search party that was "
+"formed to track an assassin, who worked for a famous kingpin.  They called "
+"him 'Bill The Assassin'.  Somehow, we managed to track him, and even put him"
+" behind bars for a <very> long time.  But you see, the situation changed "
+"drastically outside, and I know the guy like him wouldn't hesitate to use it"
+" as a chance to break free.  And, um, I think the guy like him would "
+"definitely try to take his revenge, so… I just want to know for sure if the "
+"guy is alive or turned into <zombie>.  Find police records, so I can learn "
+"where did they locked him, and maybe learn what happened to him there."
+msgstr ""
+"在<the_cataclysm>之前，我曾是一個秘密警察搜捕隊的成員，該隊成立是為了追蹤一名為著名黑幫頭目工作的刺客。他們稱他為‘刺客比爾’。我們設法追蹤到了他，甚至將他關進監獄<very>長時間。但你看，外面的情況急劇變化，我知道像他那樣的人會毫不猶豫地利用這個機會越獄。而且，嗯，我覺得像他那樣的人肯定會試圖報復，所以……我只是想確認那傢伙是活著還是變成了<zombie>。找到警方記錄，這樣我就能知道他們把他關在哪裡，也許還能瞭解他在那裡發生了什麼。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Whew, thank you.  I'll wait."
+msgstr "呼，謝謝你。我會等的。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Well, I'm not sure where it may be, to be honest.  Try to search all the "
+"building."
+msgstr "嗯，說實話，我不確定它可能在哪裡。試著搜索整棟建築吧。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good, thank you.  I just need some time to… Oh, it's right on the top, ha-"
+"ha.  Let's see… So, now I know where to find him."
+msgstr "很好，謝謝你。我只需要點時間……哦，就在最上面，哈哈。讓我看看……那麼，現在我知道去哪兒找他了。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Kill Bill"
+msgstr "殺死比爾"
+
+#. ~ Description for mission '{'str': 'Kill Bill'}'
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Officer asked you to kill prisoner Bill, and bring back his head as proof."
+msgstr "警官要求你殺死囚犯比爾，並帶回他的頭作為證明。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"So, now I know where he's been serving sentence, and I want to just check "
+"what happened to him… What?  Why don't I just go there and look for myself?"
+"  Well, ha-ha, I'm kind of busy with… Defending my PD, ha!  So, if you want "
+"to help me, please find Bill.  If he's there, kill him and bring his head as"
+" poof.  He have a tattoo on his face that looks like a dragon, so you can’t "
+"mistake him for anyone."
+msgstr ""
+"那麼，現在我知道他在哪裡服刑了，我只是想確認他怎麼樣了……什麼？為什麼我不親自去那裡看看？嗯，哈哈，我有點忙……保衛我的警察局，哈！所以，如果你想幫我，請找到比爾。如果他在那裡，殺了他，把他的頭帶回來作為證據。他臉上有個像龍的紋身，所以你不可能認錯人。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Thank you.  I'll wait."
+msgstr "謝謝你。我會等的。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Be <very> careful with your approach.  Prisons are guarder by police bots "
+"and turrets, and they are a <very> dangerous."
+msgstr "接近時要<very>小心。監獄由警用機器人和炮塔守衛，它們<very>危險。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good.  Show it to me.  So, here you are, you dirty bastard.  Who's laughing "
+"now, huh?  Ha-ha! Hah… Wait a minute.  Green eyes, potato nose, scar under "
+"left eye, dental print looks like his, but… It's a wyrm, not a dragon!  "
+"ARGH, what a trickster!  So, now we know that we put behind bars someone "
+"else, and there's the chance he's still alive.  That's bad news, indeed.  I "
+"need to think about it."
+msgstr ""
+"很好。給我看看。那麼，你在這兒，你這個骯髒的混蛋。現在誰在笑，嗯？哈哈！哈……等等。綠眼睛，土豆鼻，左眼下有疤，牙印看起來像他的，但是……這是條飛龍，不是龍！啊，真是個騙子！那麼，現在我們知道了我們關錯了人，而且他可能還活著。這確實是個壞消息。我需要考慮一下。"
+
+#: .\npc\Teachers\police_teacher.json .\npc\Teachers\wanderer_knight.json
+msgid "What a shame."
+msgstr "真遺憾。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Bill's house"
+msgstr "比爾的房子"
+
+#. ~ Description for mission '{'str': "Bill's house"}'
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer asked you to lead him to Bill's house."
+msgstr "警官要求你帶他去比爾的房子。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, I have some ideas how to deal with this situation.  We need to track "
+"down that bastard and deal with him before he deal with us!  Lead me to his "
+"house.  I'm 100% sure he would visit it.  We can get more information there "
+"about his location."
+msgstr ""
+"好的，我對如何處理這種情況有些想法。我們需要追蹤那個混蛋，在他對付我們之前解決他！帶我去他家。我100%確定他會去那裡。我們可以在那裡獲取更多關於他位置的信息。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Let's go. Lead the way."
+msgstr "我們走吧。帶路。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"You'll cover my back, I'll cover yours.  That way, we have more chances to "
+"survive."
+msgstr "你掩護我的背後，我掩護你的。這樣，我們生存的幾率更大。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"Good.  Wait for a while, I need some time to look around and find something "
+"that may lead us to him…"
+msgstr "很好。等一會兒，我需要點時間四處看看，找找可能指引我們找到他的線索……"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Kill the real Bill"
+msgstr "殺死真正的比爾"
+
+#. ~ Description for mission '{'str': 'Kill the real Bill'}'
+#: .\npc\Teachers\police_teacher.json
+msgid "Officer asked you to kill the real Bill."
+msgstr "警官要求你殺死真正的比爾。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"OK, I might know where to find him.  I'll give you approximate location of "
+"the real Bill.  Find that bastard and kill him."
+msgstr "好的，我可能知道去哪兒找他。我會給你真比爾的大致位置。找到那個混蛋，然後幹掉他。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "I'll wait.  Be careful."
+msgstr "我會等著。小心點。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid ""
+"He's <very> dangerous, so you might want not to approach him directly.  The "
+"more distance you have between you and him, the better."
+msgstr "他<非常>危險，所以你最好別直接靠近。你和他之間的距離越遠越好。"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "Whew, what a relief!  Now I can sleep at night calmly.  Thank you!"
+msgstr "呼，總算鬆了口氣！現在我能安心睡個安穩覺了。謝謝你！"
+
+#: .\npc\Teachers\police_teacher.json
+msgid "You met Police teacher"
+msgstr "你遇到了警察教官"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Rasta Bob"
+msgstr "拉斯塔·鮑勃"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Rasta Bob."
+msgstr "拉斯塔·鮑勃。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo! <greet>"
+msgstr "喲！<greet>"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "So, what do you need, my brother?"
+msgstr "那麼，你需要什麼，我的兄弟？"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo my brudda whazzup."
+msgstr "喲，我的兄弟，咋樣啊。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"I'll be honest with you. [*he shows you his arm with large bite mark*] I "
+"think you understand what that means. I tried to heal it, but for some "
+"reason, the mark wont go, and the pain wont stop, no matter how i tried. I "
+"think I'll become one of them. I DONT what to become one of that thing…"
+msgstr ""
+"我跟你直說吧。[*他向你展示手臂上巨大的咬痕*]我想你明白這意味著什麼。我試過治療它，但不知為何，這痕跡就是消不掉，疼痛也停不下來，不管我怎麼努力。我覺得我會變成它們中的一員。我<不>想變成那種東西……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Oh, I didn't know…"
+msgstr "哦，我不知道……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"It's been a fun ride. We had so much fun together. I just wanted to have fun"
+" for the last time, and you were there to help me with it. But now, I'm "
+"asking you to help me for the last time…"
+msgstr "這段旅程很愉快。我們一起度過了那麼多歡樂時光。我只是想最後再享受一次樂趣，而你正好在那裡幫我。但現在，我請求你最後一次幫我……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Sure thing. I'll do anything for you."
+msgstr "當然。我願意為你做任何事。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"You have to kill me. That's the only way I can be freed from this curse, and"
+" not become one of that things after death. I know that I ask you too much, "
+"but…"
+msgstr "你必須殺了我。這是我唯一能從這詛咒中解脫，死後不會變成那種東西的方法。我知道我要求你太多，但是……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "I… understand… I'll help you… for the last time…"
+msgstr "我……明白了……我會幫你……最後一次……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Thank you, you are truly my <name_g>. Just do it quick, please. And if it's "
+"not hard for you, could you please bury me on this cemetery? I want to rest "
+"in this grounds, with my parents…"
+msgstr "謝謝你，你真是我的<name_g>。請快點動手。如果對你來說不難，能不能請你把我埋在這個墓園？我想在這片土地上安息，和我的父母一起……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Sure thing, my <name_g>.  Goodbye… It was a fun ride…"
+msgstr "當然，我的<name_g>。再見……這段旅程很愉快……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"[*He dies peacefully with a smile on his face. Something falls down from his"
+" pocket*]"
+msgstr "[*他面帶微笑平靜地死去。有什麼東西從他口袋裡掉出來*]"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "[*ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ*]"
+msgstr "[*ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ*]"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "AY YO!!!"
+msgstr "哎喲！！！"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Are we there, <name_g>?"
+msgstr "我們到了嗎，<name_g>？"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeah, <name_g>. We're here."
+msgstr "是的，<name_g>。我們到了。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yo, <name_g>. Go talk to him. I'm a little tired, so…[*ZZZZZ*]"
+msgstr "喲，<name_g>。去跟他談談吧。我有點累了，所以……[*ZZZZZ*]"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "AY YO!"
+msgstr "哎喲！"
+
+#. ~ Description for mission '{'str': 'Find weed'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Find weed"
+msgstr "找大麻"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo <name_g>. Let's smoke some weed. Find me some, 30 leaves would be enough."
+msgstr "喲，<name_g>。咱們抽點大麻吧。給我找點來，30片葉子就夠了。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <name_g>."
+msgstr "耶，<name_g>。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Nooo!"
+msgstr "不！"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeah, we all need some advice, <name_g>."
+msgstr "是啊，我們都需要點建議，<name_g>。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "<name_g>?"
+msgstr "<name_g>？"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <name_g>, let's smoke weed!"
+msgstr "耶~，<name_g>，咱們來抽大麻吧！"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Find my car dude"
+msgstr "找到我的車，老兄"
+
+#. ~ Description for mission '{'str': 'Find my car dude'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "FInd my car"
+msgstr "找到我的車"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, it's you, <name_g>! <name_g>, where's my car? I can't find it. Maybe you"
+" can help me find my car?"
+msgstr "喲，是你啊，<name_g>！<name_g>，我的車在哪兒？我找不著了。也許你能幫我找找我的車？"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo man, thanks. I'll be chilling here, so ride near me, honk and speak to me"
+" while driving, or I'll ignore you!"
+msgstr "喲，老兄，謝了。我會在這兒歇著，所以開車靠近我，按喇叭，邊開邊跟我說話，不然我就不理你！"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, man, that's really my car? Or is it not? I'm so stoned right now I "
+"couldn't really tell. Oh well, thank you anyway."
+msgstr "喲，老兄，那真是我的車嗎？還是不是？我現在嗨得不行，真分不清。唉，不管怎樣，還是謝謝你。"
+
+#. ~ Description for mission '{'str': 'Go to Drug Dealer'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Go to Drug Dealer"
+msgstr "去找毒販"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yo, <name_g>. Let's get some more weed! Let's go check my drug dealer. He's "
+"at the motel, over there…"
+msgstr "喲，<name_g>。咱們再去搞點大麻！去瞧瞧我的毒販。他在那邊的汽車旅館……"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid ""
+"Yeee, thatswatimtokingbout, <name_g>. You drive! Talk to me when we get "
+"there."
+msgstr "耶~，這才是我要的，<name_g>。你來開車！到了那兒再跟我說話。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Yeee, <very> nice, <name_g>. Too bad he became a <zombie>, though."
+msgstr "耶~，<very>不錯，<name_g>。可惜他變成<zombie>了。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "WIP-TEXT"
+msgstr "WIP-TEXT"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "WIP-TEXT."
+msgstr "WIP-TEXT。"
+
+#. ~ Description for mission '{'str': 'Get me to my family grave'}'
+#: .\npc\Teachers\rasta_bob.json
+msgid "Get me to my family grave"
+msgstr "帶我去家族墓地"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Help me bro"
+msgstr "幫幫我，兄弟"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Help me to get to cemetery, where my family buried"
+msgstr "幫我到墓地，我家人埋在那兒"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Nice. Talk to me, please. I have something to tell you."
+msgstr "不錯。請跟我說說話。我有事要告訴你。"
+
+#: .\npc\Teachers\rasta_bob.json
+msgid "Looser"
+msgstr "失敗者"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "assassin"
+msgstr "刺客"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Well I'm just a regular assassin, really."
+msgstr "嗯，其實我只是個普通刺客。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I teach only those who helped me. Did you helped me?"
+msgstr "我只教那些幫過我的人。你幫過我嗎？"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Yeah."
+msgstr "是的。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Sorry."
+msgstr "抱歉。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I learned all from it. You can take it now. Good luck!"
+msgstr "我已經從中學到了全部。你現在可以拿走了。祝你好運！"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Thanks."
+msgstr "謝謝。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "What a shame…"
+msgstr "真可惜……"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "I'm back!"
+msgstr "我回來了！"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill hacker"
+msgstr "殺死黑客"
+
+#. ~ Description for mission '{'str': 'Kill hacker'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill that nerd"
+msgstr "幹掉那個書呆子"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"As you can see, there's <the_cataclysm> outside, and <zombies> roaming the "
+"streets. Still, I stick with code of assassins, and I need to finish my "
+"contracts. You want to help me with easy ones? I'll teach you something cool"
+" if you help me."
+msgstr ""
+"如你所見，外面有<the_cataclysm>，<zombies>在街上游蕩。儘管如此，我仍堅守刺客信條，需要完成我的合同。你想幫我處理些簡單的嗎？如果你幫我，我會教你些很酷的東西。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Good. First one is easy. Kill hacker in his basement."
+msgstr "很好。第一個很簡單。殺死地下室裡的黑客。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "It's an easy job, really. Just don't forget to move at night."
+msgstr "這活兒很簡單，真的。只是別忘了在夜間行動。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Neat."
+msgstr "利落。"
+
+#. ~ Description for mission '{'str': 'Kill sewers dweller'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill sewers dweller"
+msgstr "殺死下水道居民"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "That was an easy task. This might be harder. Are you still interested?"
+msgstr "那是個簡單的任務。這個可能更難些。你還有興趣嗎？"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. I got a contract on some <name_b> who lives in sewers. Don't know who "
+"or for what someone wants him dead. Sounds easy enough for me."
+msgstr "很好。我接到一份合同，目標是個住在下水道的<name_b>。不知道是誰或為什麼有人想讓他死。聽起來對我來說夠簡單的。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"I hope you now how to deal with alligators. There are a lot of them in city "
+"sewers. [*chuckles*]"
+msgstr "我希望你知道怎麼對付鱷魚。城市下水道里有很多。[*輕笑*]"
+
+#. ~ Description for mission '{'str': 'Kill cop'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill cop"
+msgstr "殺死警察"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Are you still interested? This one may be harder."
+msgstr "你還有興趣嗎？這個可能更難些。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. I got a contract on some corrupted cop. Find him. He has a wooden "
+"hand. According to my sources, he got trapped in one of the FEMA camps."
+msgstr "很好。我接到一份合同，目標是個腐敗警察。找到他。他有一隻木手。根據我的消息來源，他被困在其中一個FEMA營地裡。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"FEMA camps was full of people when shit hit the fan, and I guarantee that "
+"it's full of <zombies> now."
+msgstr "當事情搞砸時，FEMA營地擠滿了人，我保證現在那裡滿是<zombies>。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Nice."
+msgstr "不錯。"
+
+#. ~ Description for mission '{'str': 'Kill CEO'}'
+#: .\npc\Teachers\retired_assassin.json
+msgid "Kill CEO"
+msgstr "殺死CEO"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"The last one. It will be hard. I hope you're sure that you can handle it."
+msgstr "最後一個。這會很難。我希望你確定自己能應付。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"Good. The last mission will be some top manager or CEO or <swear> knows who "
+"of <swear> knows what."
+msgstr "很好。最後一個任務會是某個高層經理或CEO，或者<swear>知道是誰的<swear>知道是什麼人。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid ""
+"He will be guarded, and probably would try to buy his life if you talk to "
+"him. Remember, no talking to your victims!"
+msgstr "他會有守衛，而且如果你和他說話，他可能會試圖買命。記住，別和你的受害者交談！"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "Nice. I can teach you now if you want."
+msgstr "不錯。如果你願意，我現在可以教你。"
+
+#: .\npc\Teachers\retired_assassin.json
+msgid "You met Assassin"
+msgstr "你遇到了刺客"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai"
+msgstr "武士"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Akira"
+msgstr "阿基拉"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai Akira"
+msgstr "武士阿基拉"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Samurai Akira."
+msgstr "武士阿基拉。"
+
+#: .\npc\Teachers\samurai_akira.json .\npc\Teachers\wanderer_knight.json
+msgid "Hmm…"
+msgstr "嗯……"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"I came from Japan to retrieve ancient relics from the past: parts of armor "
+"of Kentaro the Great."
+msgstr "我從日本來，為了取回古代的遺物：偉大的健太郎的盔甲部件。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "So, you want to learn the way of the sword?  Good.  I can teach you."
+msgstr "所以，你想學習劍道？很好。我可以教你。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Hmm… I'm not ready.  My mission is not finished.  Yet."
+msgstr "嗯……我還沒準備好。我的任務還沒完成。暫時。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Yes, teach me."
+msgstr "是的，教我吧。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Understandable, have a nice day."
+msgstr "可以理解，祝你今天愉快。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Are you ready, my student?"
+msgstr "你準備好了嗎，我的學生？"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good, good.  I was looking for someone like you.  Last part of my missions "
+"was to find someone worthy, so I can teach him Kentaro's ancient fighting "
+"style.  But be warned, training will be hard.  So, if you think you're "
+"ready, we can start."
+msgstr ""
+"很好，很好。我一直在找你這樣的人。我任務的最後一部分是找到值得的人，這樣我就能教他健太郎的古老戰鬥風格。但要警告你，訓練會很艱苦。所以，如果你認為自己準備好了，我們可以開始。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "I'm ready."
+msgstr "我準備好了。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Umm, one moment, please."
+msgstr "嗯，請稍等片刻。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good, good.  This is the armor that you found for me.  Put it on, and then "
+"speak to me."
+msgstr "很好，很好。這就是你為我找到的盔甲。穿上它，然後跟我說話。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "I'm ready, master.  What's next?"
+msgstr "我準備好了，師父。接下來呢？"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, good, good.  You look like a fine warrior in his armor and with his "
+"weapon.  Prepare my student.  Training will be hard, but I hope you succeed "
+"in it.  And now, the training: fight to the death!  BANZAI!"
+msgstr ""
+"是的，很好，很好。你穿著盔甲、手持武器，看起來像一名出色的戰士。準備好吧，我的學生。訓練會很艱苦，但我希望你成功。現在，開始訓練：決一死戰！萬歲！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Wait, whaa…"
+msgstr "等等，什……"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"You are not ready yet.  Come back later.  [REQUIRES: MELEE 4, CUTTING 4]"
+msgstr "你還沒準備好。晚點再來。[要求：近戰 4，切割 4]"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Tabi"
+msgstr "尋找足袋"
+
+#. ~ Description for mission '{'str': 'Find Tabi'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Tabi of the great hero Kentaro."
+msgstr "尋找偉大英雄健太郎的足袋。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"So, you want to lend a hand in my sacred quest?  So be it!  First, Tabi of "
+"Kentaro the Great.  Some collector bought it not so long ago, but couldn't "
+"make it to his home, and died at the hotel he stayed after returning to this"
+" country.  Don’t ask me where I get this information.  Go find it, it's "
+"somewhere in that hotel."
+msgstr ""
+"所以，你想助我一臂之力完成神聖的使命？那就來吧！首先，是偉大健太郎的足袋。不久前有個收藏家買下了它，但沒能回到家，在返回這個國家後死在了他住的酒店裡。別問我從哪裡得到這個消息。去找吧，它就在那家酒店的某個地方。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good.  I don't know where exactly, though.  Maybe, search at the top floors?"
+msgstr "很好。不過我不知道具體位置。也許，去高層找找？"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Coward!"
+msgstr "懦夫！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"If you want to become a great warrior, that will be sung about in the "
+"legends, you need to learn how to deal with problems by yourself!"
+msgstr "如果你想成為一位會被傳頌於傳奇的偉大戰士，你需要學會自己解決問題！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his Tabi.  It even smells like him.  Good, good.  One step "
+"closer to the end of my quest."
+msgstr "是的，是的，這是他的足袋。甚至聞起來都像他。很好，很好。離我使命的完成又近了一步。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Helmet"
+msgstr "尋找頭盔"
+
+#. ~ Description for mission '{'str': 'Find Helmet'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find helmet of the great hero Kentaro."
+msgstr "尋找偉大英雄健太郎的頭盔。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Second item: Kentaro's helmet.  Some fool thought that it's just a regular "
+"helmet and sold it at his local pawn shop.  FOOL!  It cost way more than he "
+"could ever get from there!  So, go there, youngling, find his helmet and "
+"bring it to me!"
+msgstr ""
+"第二件物品：健太郎的頭盔。某個傻瓜以為這只是個普通頭盔，把它賣給了當地的當鋪。蠢貨！它的價值遠超過他從那裡能得到的！所以，去吧，年輕人，找到他的頭盔並帶給我！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Good, good.  I'll wait here for your return."
+msgstr "很好，很好。我會在這裡等你回來。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"If you want to become a great warrior, that will be song about in the "
+"legends, you need to learn how to deal with problems by yourself!"
+msgstr "如果你想成為一位會被傳頌於傳奇的偉大戰士，你需要學會自己解決問題！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his helmet.  It even smells like… dirty nerd?!  Ugh, kuso "
+"weeab…  AHEM!  Good, good.  Two steps closer to the end of my quest."
+msgstr "是的，是的，這是他的頭盔。甚至聞起來像……骯髒的書呆子？！呃，可惡的宅男……咳咳！很好，很好。離我使命的完成又近了兩步。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Armour"
+msgstr "尋找盔甲"
+
+#. ~ Description for mission '{'str': 'Find Armour'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find armor of the great hero Kentaro."
+msgstr "尋找偉大英雄健太郎的盔甲。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Third item: Kentaro's armor.  A 35 years ago, his armor was donated to the "
+"museum located in this state, so that kids could look at it and… damn those "
+"kids.  I hate kids!  Quick, find his armor and bring it back to me!"
+msgstr ""
+"第三件物品：健太郎的盔甲。35年前，他的盔甲被捐贈給了這個州的博物館，以便孩子們可以觀看它……該死的孩子們。我討厭孩子！快，找到他的盔甲並帶回來給我！"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his armor.  It even smells like… I need to stop smelling "
+"things, do I?  AHEM!  Good, good.  Three steps closer to the end of my "
+"quest."
+msgstr "是的，是的，這是他的盔甲。甚至聞起來像……我是不是該停止聞東西了？咳咳！很好，很好。離我使命的完成又近了三步。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find Samurai Sword"
+msgstr "尋找武士刀"
+
+#. ~ Description for mission '{'str': 'Find Samurai Sword'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Find sword of the great hero Kentaro."
+msgstr "尋找偉大英雄健太郎的劍。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"And now, the last one: Kentaro's sword!  I thought that it was well hidden "
+"in some temple, far away in the mountains, but recently I learned that it "
+"was stolen!  Some lousy politician funded a famous band of tomb raiders that"
+" agreed to break in that temple and steal Kentaro's precious sword.  FOOLS, "
+"IT COULD BE CURSED!  THEY COULD DOOM THE WHOLE WORLD BY STEALING IT!  ARGH… "
+"AHEM!  Find his sword for me, please."
+msgstr ""
+"現在，最後一件：健太郎的劍！我原以為它被妥善藏在某個深山寺廟裡，但最近我得知它被偷了！某個糟糕的政客資助了一隊著名的盜墓賊，他們同意闖入那座寺廟並偷走健太郎珍貴的劍。蠢貨，它可能被詛咒了！他們偷走它可能會毀滅整個世界！啊……咳咳！請為我找到他的劍。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Good.  There's only one catch: I don't know exactly where it is.  I only "
+"know that that politician lived in this state.  Maybe he hid it in his "
+"mansion?  Check all mansions nearby.  After that, we can talk about your "
+"reward, youngling."
+msgstr ""
+"很好。只有一個問題：我不知道具體位置。我只知道那個政客住在這個州。也許他把它藏在了他的豪宅裡？檢查附近所有的豪宅。之後，我們可以談談你的獎勵，年輕人。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid ""
+"Yes, yes, it's his sword!  At last, my quest almost ended!  Good, youngling,"
+" good.  And now, the last step: training of someone worthy.  I choose you "
+"worthy of training ancient fighting style, that Kentaro the Great and "
+"generations of his students kept secret from outside world for centuries!  "
+"Talk to me when you're ready, youngling."
+msgstr ""
+"是的，是的，這是他的劍！終於，我的使命幾乎完成了！很好，年輕人，很好。現在，最後一步：訓練一位值得的人。我選擇你值得學習古老的戰鬥風格，那是偉大健太郎和他的歷代學生幾個世紀以來對外界保密的！準備好時跟我說話，年輕人。"
+
+#: .\npc\Teachers\samurai_akira.json
+msgid "Train with Akira"
+msgstr "與明訓練"
+
+#. ~ Description for mission '{'str': 'Train with Akira'}'
+#: .\npc\Teachers\samurai_akira.json
+msgid "Akira suddenly attacked you.  Maybe this is part of the training?"
+msgstr "明突然攻擊了你。也許這是訓練的一部分？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "the Holy"
+msgstr "神聖的"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Knight"
+msgstr "騎士"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Wandering knight."
+msgstr "流浪騎士。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, The Chosen One!  What brings you to this sacred place?"
+msgstr "啊，天選之人！是什麼風把你吹到這神聖之地來的？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, glad to see another living soul in this cursed world.  What brings you "
+"to this sacred place?"
+msgstr "啊，真高興在這被詛咒的世界裡見到另一個活人。是什麼風把你吹到這神聖之地來的？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Are you a believer?"
+msgstr "你是信徒嗎？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Muslim."
+msgstr "我是穆斯林。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Christian."
+msgstr "我是基督徒。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Buddhist"
+msgstr "我是佛教徒。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm Jewish"
+msgstr "我是猶太教徒。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm atheist."
+msgstr "我是無神論者。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'm agnostic."
+msgstr "我是不可知論者。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "*slowly shake his head"
+msgstr "*緩緩搖頭"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, it's good to see another follower of our lord Jesus Christ. Welcome, my "
+msgstr "啊，見到另一位我主耶穌基督的信徒真是太好了。歡迎你，我的"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "brother."
+msgstr "兄弟。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "sister."
+msgstr "姐妹。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"I'm the True Warrior of God!  I fight evil whenever I see one!  I was called"
+" to this land to clean it from it's filth!  Humanity has covered itself with"
+" sin and now they pay the price!  But I lived all my life as pure and "
+"sinless as I could, and the God saved me from this curse of walking dead!"
+msgstr ""
+"我是真正的神之戰士！我見惡必除！我受召來到這片土地，要清除其汙穢！人類已深陷罪孽，如今正付出代價！但我一生都儘可能保持純潔無罪，因此上帝將我從這行屍走肉的詛咒中拯救了出來！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"I teach only those who help holy warriors in need.  Do you help holy "
+"warriors in need?"
+msgstr "我只教導那些幫助困境中聖戰士的人。你會幫助困境中的聖戰士嗎？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Yes, my brother."
+msgstr "是的，我的兄弟。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I learned all from this book. You can take it.  God bless you, my "
+msgstr "我的一切都學自這本書。你可以拿去。上帝保佑你，我的"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "brother!"
+msgstr "兄弟！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "sister!"
+msgstr "姐妹！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Thank you, holy warrior."
+msgstr "謝謝你，聖戰士。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Thanks again, holy warrior."
+msgstr "再次感謝，聖戰士。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Well, to be honest, I'm just a guy in cool suit…  I took it from museum when"
+" <the_cataclysm> started to protect myself, and to somehow remain stable, I "
+"started to think of myself as holy warrior, which was sent here to purge the"
+" world of <zombies>…  Don't judge me, please…"
+msgstr ""
+"好吧，說實話，我只是個穿著酷炫套裝的人……<the_cataclysm>開始時，我從博物館拿了這套裝備來保護自己，為了保持某種程度的穩定，我開始把自己想象成被派來淨化<zombies>世界的聖戰士……請別怪我……"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ok, ok, I'll play along.  But only if you start calling me 'The Chosen One'!"
+" [*chuckles*]"
+msgstr "好吧，好吧，我陪你演。但前提是你得開始叫我‘天選之人’！[*輕笑*]"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "HOW DARE YOU SAY SOMETHING LIKE THAT!!!"
+msgstr "你竟敢說出這樣的話！！！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Where is your cross, my brother?"
+msgstr "你的十字架呢，我的兄弟？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Where is your cross, my sister?"
+msgstr "你的十字架呢，我的姐妹？"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Prove to be a true warrior of the light"
+msgstr "證明自己是一名真正的光明戰士"
+
+#. ~ Description for mission '{'str': 'Prove to be a true warrior of the
+#. light'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Knight asked you to prove that you are true warrior of the light by killing "
+"100 zombies."
+msgstr "騎士要求你通過擊殺100個殭屍來證明自己是真正的光明戰士。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Look outside and tell me what you see there.  I see plague, plague upon "
+"another plague that was sent to our world to purge it from its sins.  If you"
+" want to help me fight this plague, and to clean this world from it, I want "
+"you to prove me that you are true warrior of the light.  Kill 100 <zombies> "
+"and return to me."
+msgstr ""
+"看看外面，告訴我你看到了什麼。我看到瘟疫，一場又一場的瘟疫被送到我們的世界，以淨化它的罪孽。如果你想幫我對抗這場瘟疫，並清理這個世界，我要你證明自己是真正的光明戰士。殺死100個<zombies>然後回來找我。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I'll wait."
+msgstr "我會等著。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "What are you, infidel?!"
+msgstr "你是什麼，異教徒？！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "God bless you!"
+msgstr "上帝保佑你！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"It's good to see another warrior of the light.  I'm pleased to see that you "
+"succeed in this task."
+msgstr "很高興見到另一位光明戰士。我很高興看到你成功完成了這個任務。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Um…"
+msgstr "嗯……"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Help Father Randalf"
+msgstr "幫助蘭道夫神父"
+
+#. ~ Description for mission '{'str': 'Help Father Randalf'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Knight asked you to help Father Randolph to lift his curse."
+msgstr "騎士請你幫助蘭道夫神父解除他的詛咒。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, my fellow warrior of the light, it's good that you're alive.  I have "
+"another task for you.  You need to help my dear brother, Brother Randolph, "
+"to lift his curse, so that his soul could reach the heaven and rest "
+"peacefully for eternity."
+msgstr ""
+"啊，我的光明戰士同伴，你還活著真是太好了。我還有一個任務給你。你需要幫助我親愛的兄弟，蘭道夫兄弟，解除他的詛咒，這樣他的靈魂才能升入天堂，永遠安息。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I know you can do it! God bless you!"
+msgstr "我知道你能做到！上帝保佑你！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, what a relief!  You did good, my <name_g>."
+msgstr "啊，真是鬆了一口氣！你做得很好，我的<name_g>。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Find relic"
+msgstr "尋找聖物"
+
+#. ~ Description for mission '{'str': 'Find relic'}'
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Knight asked you to find special relic, the remains of some priest that "
+"lived in this land a few centuries ago."
+msgstr "騎士請你尋找特殊的聖物，那是幾個世紀前生活在這片土地上的某位牧師的遺骸。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid ""
+"Ah, it's you again.  I have another task for you.  Did you know that this "
+"church was built 287 years ago, and stood still to this day?  More "
+"interesting, that this church was built by one man!  By one priest this "
+"church was built, and he was called saint because of his will, pureness and "
+"love for God.  Even more interesting, I learn from notes of current "
+"(deceased, sadly) priest that his remains were kept in the basement, until "
+"it was taken away by some research group to learn about its healing powers."
+"  I want you to get back his remains."
+msgstr ""
+"啊，又是你。我還有一個任務給你。你知道這座教堂是287年前建成的，並且一直屹立至今嗎？更有趣的是，這座教堂是由一個人建造的！由一位牧師建造，他因其意志、純潔和對上帝的愛而被尊為聖人。更令人感興趣的是，我從現任（不幸已故）牧師的筆記中得知，他的遺骸一直保存在地下室，直到被某個研究小組帶走，以研究其治療能力。我要你取回他的遺骸。"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "I don't know what you will face there, but God will help you!"
+msgstr "我不知道你會在那裡面對什麼，但上帝會幫助你的！"
+
+#: .\npc\Teachers\wanderer_knight.json
+msgid "Ah, splendid!"
+msgstr "啊，太棒了！"
+
+#: .\npc\bg\BG_traits.json
+msgid "Survivor Story"
+msgstr "倖存者故事"
+
+#. ~ Description for {'str': 'Survivor Story'}
+#: .\npc\bg\BG_traits.json
+msgid "This NPC could tell you about how they survived the Cataclysm"
+msgstr "這個NPC可以告訴你他們是如何在大災變中倖存下來的"
+
+#: .\npc\bg\bg_drunken_master.json
+msgid "Say, do you continue brewing something?"
+msgstr "話說，你還在釀造什麼東西嗎？"
+
+#: .\npc\bg\bg_drunken_master.json
+msgid "<end_talking>"
+msgstr "<end_talking>"
+
+#: .\npc\bg\bg_drunken_master.json
+msgid ""
+"You bet!  I'm not traveling anywhere without few bottles with different "
+"brewing liquids.  I can give you a few samples if you want some."
+msgstr "當然！我旅行時總會帶上幾瓶不同的釀造液體。如果你想要，我可以給你一些樣品。"

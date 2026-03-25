@@ -1,0 +1,1871 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: WildLiving\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\aframebackpack.json .\aframes.json
+msgid "looped cordage pouch"
+msgid_plural "looped cordage pouchs"
+msgstr[0] "環形繩索袋"
+
+#. ~ Description for {'str': 'looped cordage pouch'}
+#: .\aframebackpack.json
+msgid ""
+"A net bag made from carefully looped natural cordage, very flexible, has a "
+"strap to wear over your torso"
+msgstr "一個由精心編織的天然繩索製成的網袋，非常柔韌，配有可斜挎在身上的揹帶。"
+
+#: .\aframebackpack.json .\aframes.json
+msgid "birchbark pouch"
+msgid_plural "birchbark pouchs"
+msgstr[0] "樺樹皮袋"
+
+#. ~ Description for {'str': 'birchbark pouch'}
+#: .\aframebackpack.json
+msgid ""
+"A bag made from cut and woven strips of birchbark, not very flexible, has a "
+"bone tog for fastening it closed, has a strap to wear over your torso"
+msgstr "一個由切割並編織的樺樹皮條製成的袋子，不太柔韌，配有骨扣用於封口，並有可斜挎在身上的揹帶。"
+
+#: .\aframebackpack.json .\aframes.json
+msgid "a-frame backpack"
+msgid_plural "a-frame backpacks"
+msgstr[0] "A型框架揹包"
+
+#. ~ Description for {'str': 'a-frame backpack'}
+#: .\aframebackpack.json .\aframes.json
+msgid "An A-Frame backpack made from heavy sticks. This is just the frame"
+msgstr "一個由粗重木棍製成的A型框架揹包。這只是框架部分。"
+
+#: .\aframebackpack.json .\aframes.json
+msgid "a-frame birchbark backpack"
+msgid_plural "a-frame birchbark backpacks"
+msgstr[0] "A型框架樺樹皮揹包"
+
+#. ~ Use action holster_msg for {'str': 'a-frame birchbark backpack'}.
+#. ~ Use action holster_msg for {'str': 'a-frame cordage backpack'}.
+#. ~ Use action holster_msg for {'str': 'fur backpack'}.
+#: .\aframebackpack.json .\aframes.json .\fur-backpack.json
+msgid "You attach your %s to your %s"
+msgstr "你將你的%s連接到你的%s上。"
+
+#. ~ Use action holster_prompt for {'str': 'a-frame birchbark backpack'}.
+#. ~ Use action holster_prompt for {'str': 'a-frame cordage backpack'}.
+#. ~ Use action holster_prompt for {'str': 'fur backpack'}.
+#: .\aframebackpack.json .\aframes.json .\fur-backpack.json
+msgid "Attach what to backpack loop?"
+msgstr "將什麼連接到揹包環上？"
+
+#. ~ Description for {'str': 'a-frame birchbark backpack'}
+#: .\aframebackpack.json
+msgid ""
+"An A-Frame backpack with a birchbark pouch fastened to it for storage. It "
+"has some loops for attaching gear"
+msgstr "一個A型框架揹包，附有一個樺樹皮袋用於儲存物品。它有一些環扣可以掛載裝備。"
+
+#: .\aframebackpack.json
+msgid "a-frame cordage backpack"
+msgid_plural "a-frame cordage backpacks"
+msgstr[0] "A型繩索揹包"
+
+#. ~ Description for {'str': 'a-frame cordage backpack'}
+#: .\aframebackpack.json
+msgid ""
+"An A-Frame backpack with a looped cordage pouch fastened to it for storage. "
+"It has some loops for attaching gear"
+msgstr "一個A型框架揹包，附有一個環狀繩索袋用於儲存物品。它有一些環扣可以掛載裝備。"
+
+#. ~ Description for {'str': 'looped cordage pouch'}
+#: .\aframes.json
+msgid ""
+"A net bag made from carefully looped natural cordage, has a strap to wear "
+"over your torso"
+msgstr "一個由精心編織的天然繩索製成的網袋，配有揹帶可斜挎在軀幹上。"
+
+#. ~ Description for {'str': 'birchbark pouch'}
+#: .\aframes.json
+msgid ""
+"A bag made from cut and woven strips of birchbark, has a bone tog for "
+"fastening it closed, has a strap to wear over your torso"
+msgstr "一個由切割並編織的樺樹皮條製成的袋子，配有骨制扣件用於封口，並有揹帶可斜挎在軀幹上。"
+
+#. ~ Description for {'str': 'a-frame birchbark backpack'}
+#: .\aframes.json
+msgid ""
+"An A-Frame backpack with a birchbark pouch fastened to it for storage. There"
+" is a small loop for carrying am axe or similar"
+msgstr "一個A型框架揹包，附有一個樺樹皮袋用於儲存物品。有一個小環扣可用於攜帶斧頭或類似工具。"
+
+#. ~ Description for {'str': 'a-frame birchbark backpack'}
+#: .\aframes.json
+msgid ""
+"An A-Frame backpack with a looped cordage pouch fastened to it for storage. "
+"There is a small loop for carrying am axe or similar"
+msgstr "一個A型框架揹包，附有一個環狀繩索袋用於儲存物品。有一個小環扣可用於攜帶斧頭或類似工具。"
+
+#: .\birch.json
+msgid "birch water jug"
+msgid_plural "birch water jugs"
+msgstr[0] "樺樹水壺"
+
+#. ~ Description for {'str': 'birch water jug'}
+#: .\birch.json
+msgid ""
+"A carefully made birch bark water jug with a lid, it is sealed with pine "
+"pitch. It can hold 1.5 liters of water."
+msgstr "一個精心製作的樺樹皮水壺，帶有蓋子，並用松脂密封。它可以容納1.5升水。"
+
+#: .\birch.json
+msgid "birch funnel"
+msgid_plural "birch funnels"
+msgstr[0] "樺樹漏斗"
+
+#. ~ Use action done_message for {'str': 'birch funnel'}.
+#: .\birch.json
+msgid "You place the birch funnel, waiting to collect rain."
+msgstr "你放置了樺樹漏斗，等待收集雨水。"
+
+#. ~ Description for {'str': 'birch funnel'}
+#: .\birch.json
+msgid ""
+"This is a small, birchbark funnel used to collect rainwater.  Use it outside"
+" and place a container beneath it to collect water when it rains."
+msgstr "這是一個用於收集雨水的小型樺樹皮漏斗。在室外使用它，並在下方放置容器，以便下雨時收集水。"
+
+#: .\birch.json
+msgid "birchbark funnel"
+msgstr "樺樹皮漏斗"
+
+#: .\bone-pickaxe.json
+msgid "bone pickaxe"
+msgid_plural "bone pickaxes"
+msgstr[0] "骨制鎬"
+
+#. ~ Description for {'str': 'bone pickaxe'}
+#: .\bone-pickaxe.json
+msgid ""
+"This is a primitive pickaxe, traditionally made from antler or bone, and "
+"fire-hardened for greater hardness.  It will wear out with use, but still "
+"suitable for striking the earth."
+msgstr "這是一把原始的鎬，傳統上由鹿角或骨頭製成，並通過火烤硬化以提高硬度。它會隨著使用而磨損，但仍適合挖掘土地。"
+
+#: .\clay-container-overrides.json
+msgid "large clay pot"
+msgid_plural "large clay pots"
+msgstr[0] "大陶罐"
+
+#. ~ Description for {'str': 'large clay pot'}
+#: .\clay-container-overrides.json
+msgid ""
+"A bulky and heavy clay pot with a waterproofed lid, meant to store water, "
+"but can carry other liquids in a pinch."
+msgstr "一個笨重的大陶罐，帶有防水蓋子，主要用於儲水，但緊急情況下也可攜帶其他液體。"
+
+#: .\construction_group.json
+msgid "Build Makeshift Still"
+msgstr "建造簡易蒸餾器"
+
+#: .\construction_group.json
+msgid "Plant Apple Tree"
+msgstr "種植蘋果樹"
+
+#: .\construction_group.json
+msgid "Take Apple Tree Cutting"
+msgstr "獲取蘋果樹插條"
+
+#: .\construction_group.json
+msgid "Plant Pear Tree"
+msgstr "種植梨樹"
+
+#: .\construction_group.json
+msgid "Take Pear Tree Cutting"
+msgstr "獲取梨樹插條"
+
+#: .\construction_group.json
+msgid "Plant Cherry Tree"
+msgstr "種植櫻桃樹"
+
+#: .\construction_group.json
+msgid "Take Cherry Tree Cutting"
+msgstr "獲取櫻桃樹插條"
+
+#: .\construction_group.json
+msgid "Plant Peach Tree"
+msgstr "種植桃樹"
+
+#: .\construction_group.json
+msgid "Take Peach Tree Cutting"
+msgstr "獲取桃樹插條"
+
+#: .\construction_group.json
+msgid "Plant Apricot Tree"
+msgstr "種植杏樹"
+
+#: .\construction_group.json
+msgid "Take Apricot Tree Cutting"
+msgstr "獲取杏樹插條"
+
+#: .\construction_group.json
+msgid "Plant Plum Tree"
+msgstr "種植李樹"
+
+#: .\construction_group.json
+msgid "Take Plum Tree Cutting"
+msgstr "獲取李樹插條"
+
+#: .\construction_group.json
+msgid "Plant coffee Tree"
+msgstr "種植咖啡樹"
+
+#: .\construction_group.json
+msgid "Take coffee Tree Cutting"
+msgstr "獲取咖啡樹插條"
+
+#: .\construction_group.json
+msgid "Plant hedgerow"
+msgstr "種植樹籬"
+
+#: .\construction_group.json
+msgid "Build makeshift fence"
+msgstr "建造臨時圍欄"
+
+#: .\construction_group.json
+msgid "Build Woven Fence"
+msgstr "建造編織圍欄"
+
+#: .\evaporation_bowl.json
+msgid "clay evaporation dish"
+msgid_plural "clay evaporation dishs"
+msgstr[0] "陶製蒸發皿"
+
+#. ~ Description for {'str': 'clay evaporation dish'}
+#: .\evaporation_bowl.json
+msgid ""
+"A very large shallow bowl with a lid used for evaporating water. Holds about"
+" 20 litres, probably best used with a charcoal smoker."
+msgstr "一個帶蓋的極大淺碗，用於蒸發水分。容量約20升，最好搭配炭火燻爐使用。"
+
+#: .\evaporation_bowl.json
+msgid "clay evaporation dish (salt water)"
+msgid_plural "clay evaporation dish (salt water)s"
+msgstr[0] "陶製蒸發皿（鹽水）"
+
+#. ~ Description for {'str': 'clay evaporation dish (salt water)'}
+#: .\evaporation_bowl.json
+msgid ""
+"A very large shallow bowl with a lid used for evaporating water. This one is"
+" full of salt water and ready to be heated in a smoking rack"
+msgstr "一個帶蓋的極大淺碗，用於蒸發水分。這個碗裝滿了鹽水，已準備好在燻架上加熱。"
+
+#: .\evaporation_bowl.json
+msgid "clay evaporation dish (starch water)"
+msgid_plural "clay evaporation dish (starch water)s"
+msgstr[0] "陶製蒸發皿（澱粉水）"
+
+#. ~ Description for {'str': 'clay evaporation dish (starch water)'}
+#: .\evaporation_bowl.json
+msgid ""
+"A very large shallow bowl with a lid used for evaporating water. This one is"
+" full of starch water and ready to be heated in a smoking rack"
+msgstr "一個帶蓋的極大淺碗，用於蒸發水分。這個碗裝滿了澱粉水，已準備好在燻架上加熱。"
+
+#: .\evaporation_bowl.json
+msgid "clay evaporation dish (salt)"
+msgid_plural "clay evaporation dish (salt)s"
+msgstr[0] "陶製蒸發皿（鹽）"
+
+#. ~ Description for {'str': 'clay evaporation dish (salt)'}
+#: .\evaporation_bowl.json
+msgid ""
+"A very large shallow bowl with a lid used for evaporating water. This one is"
+" full of salt. you can take it apart now"
+msgstr "一個帶蓋的極大淺碗，用於蒸發水分。這個碗裝滿了鹽。你現在可以將其拆解了。"
+
+#: .\evaporation_bowl.json
+msgid "clay evaporation dish (flour)"
+msgid_plural "clay evaporation dish (flour)s"
+msgstr[0] "陶製蒸發皿（麵粉）"
+
+#. ~ Description for {'str': 'clay evaporation dish (flour)'}
+#: .\evaporation_bowl.json
+msgid ""
+"A very large shallow bowl with a lid used for evaporating water. This one is"
+" full of dried out flour, you can take it apart now"
+msgstr "一個帶蓋的極大淺碗，用於蒸發水分。這個碗裝滿了乾麵粉，你現在可以將其拆解了。"
+
+#: .\flint-drill.json
+msgid "flint hand drill"
+msgid_plural "flint hand drills"
+msgstr[0] "燧石手鑽"
+
+#. ~ Description for {'str': 'flint hand drill'}
+#: .\flint-drill.json
+msgid ""
+"A primitive bulky manual drill with a flint flake for a drill bit.  Powered "
+"by a bow drill, it will tire you quickly."
+msgstr "一種原始笨重的手動鑽，以燧石片作為鑽頭。由弓鑽驅動，會很快使你疲勞。"
+
+#: .\fur-backpack.json
+msgid "fur backpack"
+msgid_plural "fur backpacks"
+msgstr[0] "毛皮揹包"
+
+#. ~ Description for {'str': 'fur backpack'}
+#: .\fur-backpack.json
+msgid "A medium sized fur backpack, with a few loops for attaching gear."
+msgstr "一箇中等大小的毛皮揹包，帶有幾個用於掛載裝備的環扣。"
+
+#: .\hedgerows.json
+msgid "underbrush"
+msgstr "下層灌叢"
+
+#. ~ Description for underbrush
+#: .\hedgerows.json
+msgid ""
+"A shoulder high hedgerow.  An observant forager could obtain edible plants, "
+"acorns, eggs, and mushrooms from it."
+msgstr "一個齊肩高的樹籬。細心的採集者可以從中獲取可食用植物、橡子、雞蛋和蘑菇。"
+
+#: .\hedgerows.json
+msgid "crunch."
+msgstr "嘎吱聲。"
+
+#: .\hedgerows.json
+msgid "brush."
+msgstr "灌木叢。"
+
+#: .\leather-intermediates.json
+msgid "short leather cord"
+msgid_plural "short leather cords"
+msgstr[0] "短皮革繩"
+
+#. ~ Description for {'str': 'short leather cord'}
+#: .\leather-intermediates.json
+msgid ""
+"A 6-inch (or about 15 cm) long piece of rawhide or leather cord.  Useful for"
+" some purposes, but not as strong or flexible as proper string."
+msgstr "一根6英寸（約15釐米）長的生皮或皮革繩。適用於某些用途，但不如合適的繩子牢固或柔韌。"
+
+#: .\leather-intermediates.json
+msgid "long leather cord"
+msgid_plural "long leather cords"
+msgstr[0] "長皮革繩"
+
+#. ~ Description for {'str': 'long leather cord'}
+#: .\leather-intermediates.json
+msgid ""
+"A 3-foot (or about 90 cm) long piece of rawhide or leather cord.  Useful for"
+" some purposes, but not as strong or flexible as proper string."
+msgstr "一根3英尺（約90釐米）長的生皮或皮革繩。適用於某些用途，但不如合適的繩子牢固或柔韌。"
+
+#: .\makeshift-still.json
+msgid "primitive distillation"
+msgid_plural "primitive distillations"
+msgstr[0] "原始蒸餾"
+
+#. ~ Description for {'str': 'primitive distillation'}
+#: .\makeshift-still.json
+msgid "Fake item - exists for primitive still"
+msgstr "虛擬物品 - 為原始蒸餾器存在"
+
+#: .\makeshift-still.json
+msgid "makeshift still"
+msgstr "臨時蒸餾器"
+
+#. ~ Description for makeshift still
+#: .\makeshift-still.json
+msgid ""
+"Little more than two bottles buried in dirt with a bent metal sheet to "
+"condense evaporated liquids. Will serve as a still in a pinch."
+msgstr "不過是兩個埋在土裡的瓶子，加上一塊彎曲的金屬板來冷凝蒸發的液體。緊急情況下可作為蒸餾器使用。"
+
+#: .\makeshift-still.json .\oak-harvest.json .\tree-harvesting.json
+#: .\willow.json .\mapgen\new_trees.json
+msgid "crunch!"
+msgstr "嘎吱！"
+
+#: .\makeshift-still.json .\wooden-workmat.json
+msgid "whump."
+msgstr "砰。"
+
+#: .\makeshift-still.json
+msgid "Can be deconstructed without tools."
+msgstr "無需工具即可拆解。"
+
+#: .\makeshift_fence.json
+msgid "makeshift fence"
+msgstr "臨時圍欄"
+
+#. ~ Description for makeshift fence
+#: .\makeshift_fence.json
+msgid "A makeshift fence"
+msgstr "一個臨時圍欄"
+
+#: .\makeshift_fence.json
+msgid "crack."
+msgstr "咔嚓。"
+
+#: .\makeshift_fence.json
+msgid "wham."
+msgstr "砰。"
+
+#: .\makeshift_fence.json
+msgid "woven fence"
+msgstr "編織圍欄"
+
+#. ~ Description for woven fence
+#: .\makeshift_fence.json
+msgid ""
+"A fence made from simple fence posts and branches woven between the posts."
+msgstr "由簡單的柵欄柱和柱間編織的樹枝製成的圍欄。"
+
+#: .\material.json
+msgid "Canvas"
+msgstr "帆布"
+
+#: .\material.json
+msgid "ripped"
+msgstr "撕裂"
+
+#: .\material.json
+msgid "cut"
+msgstr "割破"
+
+#: .\material.json
+msgid "torn"
+msgstr "扯破"
+
+#: .\material.json
+msgid "shredded"
+msgstr "粉碎"
+
+#: .\material.json
+msgid "tattered"
+msgstr "破爛"
+
+#: .\material.json
+msgid "Oilcloth Canvas"
+msgstr "油布帆布"
+
+#: .\modinfo.json
+msgid "Wild Living"
+msgstr "野外生活"
+
+#. ~ Description for Wild Living
+#: .\modinfo.json
+msgid ""
+"Expansion mod that brings more life and variety to the wilds. Merged with "
+"Dried Fruits mod by Wayticus as well. Includes tons of new items with "
+"recipes for enhanced wild living along with an ability to dry fruits, an "
+"ability to grow various trees via planting them conveniently along with a "
+"revamped, improved tree farm location with some new tropical trees. Link to "
+"original - https://github.com/LambdaSix/Wild-Living"
+msgstr ""
+"為荒野帶來更多生機與多樣性的擴展模組。同時整合了Wayticus的乾果模組。包含大量新物品及其配方，以增強野外生活體驗，並具備乾燥水果的能力，以及通過便捷種植培育各種樹木的能力，還包含一個經過改進、優化的樹場地點，新增了一些熱帶樹木。原版鏈接"
+" - https://github.com/LambdaSix/Wild-Living"
+
+#: .\oak-harvest.json
+msgid "oak tree"
+msgstr "橡樹"
+
+#. ~ Description for oak tree
+#: .\oak-harvest.json
+msgid ""
+"A massive deciduous tree belonging to the 'Quercus' genus, commonly found "
+"throughout New England region.  You could cut it down with the right tools."
+msgstr "一種屬於'櫟屬'的大型落葉樹，常見於新英格蘭地區。你可以用合適的工具砍倒它。"
+
+#: .\oak-harvest.json .\tree-harvesting.json .\willow.json
+#: .\mapgen\new_trees.json
+msgid "whack!"
+msgstr "啪！"
+
+#. ~ Description for oak tree
+#: .\oak-harvest.json
+msgid "A harvested oak tree"
+msgstr "一棵已砍伐的橡樹"
+
+#: .\oil-cloth.json
+msgid "turpentine"
+msgid_plural "turpentines"
+msgstr[0] "松節油"
+
+#. ~ Description for {'str': 'turpentine'}
+#: .\oil-cloth.json
+msgid "Distilled from pine resin, this solvent has many uses in projects."
+msgstr "從松脂中蒸餾而來，這種溶劑在項目中有多種用途。"
+
+#: .\oil-cloth.json
+msgid "oilcloth paint"
+msgid_plural "oilcloth paints"
+msgstr[0] "油布塗料"
+
+#. ~ Description for {'str': 'oilcloth paint'}
+#: .\oil-cloth.json
+msgid "An oil based paint used for waterproofing canvas."
+msgstr "一種用於帆布防水的油基塗料。"
+
+#: .\oil-cloth.json
+msgid "thick canvas"
+msgid_plural "thick canvasses"
+msgstr[0] "厚帆布"
+
+#. ~ Description for {'str': 'thick canvas', 'str_pl': 'thick canvasses'}
+#: .\oil-cloth.json
+msgid "A large reinforced sheet of cloth"
+msgstr "一大塊加固的布料"
+
+#: .\oil-cloth.json
+msgid "oilcloth canvas"
+msgid_plural "oilcloth canvasses"
+msgstr[0] "油布帆布"
+
+#. ~ Description for {'str': 'oilcloth canvas', 'str_pl': 'oilcloth
+#. canvasses'}
+#: .\oil-cloth.json
+msgid "A large waterproofed canvas, a dark grey in colour"
+msgstr "一大塊防水帆布，呈深灰色"
+
+#: .\oil-cloth.json
+msgid "drying oilcloth"
+msgid_plural "drying oilcloths"
+msgstr[0] "乾燥中的油布"
+
+#. ~ Use action msg for {'str': 'drying oilcloth', 'str_pl': 'drying
+#. oilcloths'}.
+#: .\oil-cloth.json
+msgid "The paint has dried fully."
+msgstr "塗料已完全乾燥。"
+
+#. ~ Use action not_ready_msg for {'str': 'drying oilcloth', 'str_pl': 'drying
+#. oilcloths'}.
+#: .\oil-cloth.json
+msgid "The paint isn't quite dry just yet."
+msgstr "塗料尚未完全乾燥。"
+
+#: .\oil-cloth.json
+msgid "dried oilcloth"
+msgid_plural "dried oilcloths"
+msgstr[0] "乾燥的油布"
+
+#: .\oil-cloth.json
+msgid "canola oil"
+msgid_plural "canola oils"
+msgstr[0] "菜籽油"
+
+#. ~ Description for {'str': 'canola oil'}
+#: .\oil-cloth.json
+msgid "Oil extracted from canola seeds"
+msgstr "從菜籽中提取的油"
+
+#: .\oil-cloth.json
+msgid "oilcloth tent"
+msgid_plural "oilcloth tents"
+msgstr[0] "油布帳篷"
+
+#. ~ Description for {'str': 'oilcloth tent'}
+#: .\oil-cloth.json
+msgid ""
+"This is a small personal tent kit made from oilcloth, it's just big enough "
+"to fit you comfortably."
+msgstr "這是一個由油布製成的小型個人帳篷套件，剛好能讓你舒適地容身。"
+
+#: .\stomach-processing.json
+msgid "digestive tract"
+msgid_plural "digestive tracts"
+msgstr[0] "消化道"
+
+#. ~ Description for {'str': 'digestive tract'}
+#: .\stomach-processing.json
+msgid ""
+"The digestive tract of a woodland creature.  It is surprisingly durable."
+msgstr "林地生物的消化道。它出奇地耐用。"
+
+#: .\stomach-processing.json
+msgid "large digestive tract"
+msgid_plural "large digestive tracts"
+msgstr[0] "大型消化道"
+
+#. ~ Description for {'str': 'large digestive tract'}
+#: .\stomach-processing.json
+msgid ""
+"The digestive tract of a large woodland creature.  It is surprisingly "
+"durable."
+msgstr "大型林地生物的消化道。它出奇地耐用。"
+
+#: .\stomach-processing.json
+msgid "cleaned stomach"
+msgid_plural "cleaned stomachs"
+msgstr[0] "清洗過的胃"
+
+#. ~ Description for {'str': 'cleaned stomach'}
+#: .\stomach-processing.json
+msgid "The cleaned stomach of a woodland creature."
+msgstr "林地生物清洗過的胃。"
+
+#: .\stomach-processing.json
+msgid "cleaned large stomach"
+msgid_plural "cleaned large stomachs"
+msgstr[0] "清理過的大型胃"
+
+#. ~ Description for {'str': 'cleaned large stomach'}
+#: .\stomach-processing.json
+msgid "The cleaned stomach of a large woodland creature."
+msgstr "一隻大型林地生物清理過的胃。"
+
+#: .\stomach-processing.json
+msgid "cleaned intestines"
+msgid_plural "cleaned intestiness"
+msgstr[0] "清理過的腸子"
+
+#. ~ Description for {'str': 'cleaned intestines'}
+#: .\stomach-processing.json
+msgid "The cleaned intestines of a woodland creature."
+msgstr "林地生物清理過的腸子。"
+
+#: .\stomach-processing.json
+msgid "large cleaned intestines"
+msgid_plural "large cleaned intestiness"
+msgstr[0] "大型清理過的腸子"
+
+#. ~ Description for {'str': 'large cleaned intestines'}
+#: .\stomach-processing.json
+msgid "The cleaned intestines of a large woodland creature."
+msgstr "一隻大型林地生物清理過的腸子。"
+
+#: .\stomach-processing.json
+msgid "rennet"
+msgid_plural "rennets"
+msgstr[0] "凝乳酶"
+
+#. ~ Description for {'str': 'rennet'}
+#: .\stomach-processing.json
+msgid ""
+"Salted and dried stomach rennet processed for storage, this should last a "
+"very long time"
+msgstr "經過鹽漬和乾燥處理的胃凝乳酶，已加工以便儲存，這應該能保存很長時間"
+
+#: .\stomach-processing.json
+msgid "meat casing"
+msgid_plural "meat casings"
+msgstr[0] "肉腸衣"
+
+#. ~ Description for {'str': 'meat casing'}
+#: .\stomach-processing.json
+msgid ""
+"Dried and salted intestines that have been processed for use as sausage "
+"casings, this should last a very long time"
+msgstr "經過乾燥和鹽漬處理的腸子，已加工用作香腸腸衣，這應該能保存很長時間"
+
+#: .\tanning.json
+msgid "raw brain slurry"
+msgid_plural "raw brain slurry"
+msgstr[0] "生腦漿"
+
+#. ~ Description for {'str': 'raw brain slurry', 'str_pl': 'raw brain slurry'}
+#: .\tanning.json
+msgid ""
+"The brain from an animal. This brain has been turned into a thick watery "
+"paste. You wouldn't want to eat this raw…"
+msgstr "動物的腦。這個腦已被製成濃稠的水狀糊狀物。你大概不想生吃這個……"
+
+#: .\tree-harvesting.json
+msgid "cut apple tree"
+msgstr "砍過的蘋果樹"
+
+#. ~ Description for cut apple tree
+#: .\tree-harvesting.json
+msgid ""
+"This tree is a member of the 'Malus' genus, producing fruit commonly known "
+"as apples. If you examined the branches more closely, you could probably "
+"find a few mature ones in autumn.  You could also cut it down with the right"
+" tools, this one has had a cutting taken from it"
+msgstr ""
+"這棵樹屬於“蘋果屬”，結出的果實通常被稱為蘋果。如果你更仔細地檢查樹枝，或許能在秋天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已被取過插條"
+
+#: .\tree-harvesting.json
+msgid "apple tree cutting"
+msgid_plural "apple tree cuttings"
+msgstr[0] "蘋果樹插條"
+
+#. ~ Description for {'str': 'apple tree cutting', 'str_pl': 'apple tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from an apple tree. It's advised to pot it in early spring "
+"because it will fully grow by the time it can be harvested in autumn. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自蘋果樹的大插條。建議在早春將其盆栽，因為它會在秋季可收穫時完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "apple sapling"
+msgid_plural "apple sapling"
+msgstr[0] "蘋果樹苗"
+
+#. ~ Description for {'str': 'apple sapling', 'str_pl': 'apple sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"An apple sapling, waiting to be planted. If you leave it out too long, it "
+"will die."
+msgstr "一棵蘋果樹苗，等待種植。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted apple tree"
+msgid_plural "potted apple trees"
+msgstr[0] "盆栽蘋果樹"
+
+#. ~ Use action msg for {'str': 'potted apple tree', 'str_pl': 'potted apple
+#. trees'}.
+#. ~ Use action msg for {'str': 'potted peach tree', 'str_pl': 'potted peach
+#. trees'}.
+#. ~ Use action msg for {'str': 'potted cherry tree', 'str_pl': 'potted cherry
+#. trees'}.
+#. ~ Use action msg for {'str': 'potted pear tree', 'str_pl': 'potted pear
+#. trees'}.
+#. ~ Use action msg for {'str': 'potted apricot tree', 'str_pl': 'potted
+#. apricot trees'}.
+#. ~ Use action msg for {'str': 'potted plum tree', 'str_pl': 'potted plum
+#. trees'}.
+#. ~ Use action msg for {'str': 'potted coffee tree', 'str_pl': 'potted coffee
+#. trees'}.
+#: .\tree-harvesting.json
+msgid "You carefully take the tree out of the pot."
+msgstr "你小心地將樹從盆中取出。"
+
+#. ~ Use action not_ready_msg for {'str': 'potted apple tree', 'str_pl':
+#. 'potted apple trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted peach tree', 'str_pl':
+#. 'potted peach trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted cherry tree', 'str_pl':
+#. 'potted cherry trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted pear tree', 'str_pl':
+#. 'potted pear trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted apricot tree', 'str_pl':
+#. 'potted apricot trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted plum tree', 'str_pl':
+#. 'potted plum trees'}.
+#. ~ Use action not_ready_msg for {'str': 'potted coffee tree', 'str_pl':
+#. 'potted coffee trees'}.
+#: .\tree-harvesting.json
+msgid "The plant isn't done growing yet."
+msgstr "這株植物尚未完全長成。"
+
+#. ~ Description for {'str': 'potted apple tree', 'str_pl': 'potted apple
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from an apple tree planted in a pot. It will grow for about thirty"
+" days, then you can plant it into the ground."
+msgstr "一根種植在盆中的蘋果樹插條。它將生長約三十天，之後你可以將其移植到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut peach tree"
+msgstr "砍過的桃樹"
+
+#. ~ Description for cut peach tree
+#: .\tree-harvesting.json
+msgid ""
+"This is 'Prunus persica', or the common peach tree, producing fruit commonly"
+" known as peaches. If you examined the branches more closely, you could "
+"probably find a few mature ones in summer. You could also cut it down with "
+"the right tools, this one has had a cutting taken from it"
+msgstr ""
+"這是“桃樹”，或稱普通桃樹，結出的果實通常被稱為桃子。如果你更仔細地檢查樹枝，或許能在夏天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已被取過插條"
+
+#: .\tree-harvesting.json
+msgid "peach tree cutting"
+msgid_plural "peach tree cuttings"
+msgstr[0] "桃樹插條"
+
+#. ~ Description for {'str': 'peach tree cutting', 'str_pl': 'peach tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from a peach tree. It's advised to pot it in early winter "
+"because it will fully grow by the time it can be harvested in summer. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自桃樹的大插條。建議在早冬將其盆栽，因為它會在夏季可收穫時完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "peach sapling"
+msgid_plural "peach sapling"
+msgstr[0] "桃樹苗"
+
+#. ~ Description for {'str': 'peach sapling', 'str_pl': 'peach sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"A peach sapling, waiting to be planted. If you leave it out too long, it "
+"will die."
+msgstr "一棵桃樹苗，等待種植。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted peach tree"
+msgid_plural "potted peach trees"
+msgstr[0] "盆栽桃樹"
+
+#. ~ Description for {'str': 'potted peach tree', 'str_pl': 'potted peach
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from a peach tree planted in a pot. It will grow for about thirty "
+"days, until it's ready to be planted into the ground."
+msgstr "一根種植在盆中的桃樹插條。它將生長約三十天，直到可以移植到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut cherry tree"
+msgstr "砍伐的櫻桃樹"
+
+#. ~ Description for cut cherry tree
+#: .\tree-harvesting.json
+msgid ""
+"This is 'Prunus avium', or the common cherry tree, producing fruit commonly "
+"known as cherries. If you examined the branches more closely, you could "
+"probably find a few mature ones in summer. You could also cut it down with "
+"the right tools, this one has had a cutting taken from it"
+msgstr ""
+"這是'Prunus "
+"avium'，即普通櫻桃樹，結出的果實通常被稱為櫻桃。如果你更仔細地檢查樹枝，或許能在夏天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已經被取走了插條。"
+
+#: .\tree-harvesting.json
+msgid "cherry tree cutting"
+msgid_plural "cherry tree cuttings"
+msgstr[0] "櫻桃樹插條"
+
+#. ~ Description for {'str': 'cherry tree cutting', 'str_pl': 'cherry tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from a cherry tree. It's advised to pot it in early winter "
+"because it will fully grow by the time it can be harvested in summer. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自櫻桃樹的大插條。建議在初冬將其盆栽，因為到夏季可收穫時它將完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "cherry sapling"
+msgid_plural "cherry sapling"
+msgstr[0] "櫻桃樹苗"
+
+#. ~ Description for {'str': 'cherry sapling', 'str_pl': 'cherry sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"A cherry sapling, waiting to be planted. If you leave it out too long, it "
+"will die."
+msgstr "一棵櫻桃樹苗，等待被種植。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted cherry tree"
+msgid_plural "potted cherry trees"
+msgstr[0] "盆栽櫻桃樹"
+
+#. ~ Description for {'str': 'potted cherry tree', 'str_pl': 'potted cherry
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from a cherry tree planted in a pot. It will grow for about thirty"
+" days, until it's ready to be planted into the ground."
+msgstr "一根種植在花盆中的櫻桃樹插條。它將生長約三十天，直到可以移栽到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut pear tree"
+msgstr "砍伐的梨樹"
+
+#. ~ Description for cut pear tree
+#: .\tree-harvesting.json
+msgid ""
+"This is 'Pyrus communis', or the common pear tree, which produces viable "
+"pears in the autumn. If you examined the branches more closely, you could "
+"probably find a few mature ones in autumn.  You could also cut it down with "
+"the right tools, this one has had a cutting taken from it."
+msgstr ""
+"這是'Pyrus "
+"communis'，即普通梨樹，在秋天結出可食用的梨子。如果你更仔細地檢查樹枝，或許能在秋天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已經被取走了插條。"
+
+#: .\tree-harvesting.json
+msgid "pear tree cutting"
+msgid_plural "pear tree cuttings"
+msgstr[0] "梨樹插條"
+
+#. ~ Description for {'str': 'pear tree cutting', 'str_pl': 'pear tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from a pear tree. It's advised to pot it in early spring "
+"because it will fully grow by the time it can be harvested in autumn. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自梨樹的大插條。建議在初春將其盆栽，因為到秋季可收穫時它將完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "pear sapling"
+msgid_plural "pear sapling"
+msgstr[0] "梨樹苗"
+
+#. ~ Description for {'str': 'pear sapling', 'str_pl': 'pear sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"A pear sapling, waiting to be planted! If you leave it out too long, it will"
+" die."
+msgstr "一棵梨樹苗，等待被種植！如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted pear tree"
+msgid_plural "potted pear trees"
+msgstr[0] "盆栽梨樹"
+
+#. ~ Description for {'str': 'potted pear tree', 'str_pl': 'potted pear
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from a pear tree planted in a pot. It will grow for about thirty "
+"days, until it's ready to be planted into the ground."
+msgstr "一根種植在花盆中的梨樹插條。它將生長約三十天，直到可以移栽到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut apricot tree"
+msgstr "砍伐的杏樹"
+
+#. ~ Description for cut apricot tree
+#: .\tree-harvesting.json
+msgid ""
+"The common apricot tree, producing fruit commonly known as apricots. If you "
+"examined the branches more closely, you could probably find a few mature "
+"ones in summer. You could also cut it down with the right tools, this one "
+"has had a cutting taken from it"
+msgstr ""
+"普通杏樹，結出的果實通常被稱為杏子。如果你更仔細地檢查樹枝，或許能在夏天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已經被取走了插條。"
+
+#: .\tree-harvesting.json
+msgid "apricot tree cutting"
+msgid_plural "apricot tree cuttings"
+msgstr[0] "杏樹插條"
+
+#. ~ Description for {'str': 'apricot tree cutting', 'str_pl': 'apricot tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from an apricot tree. It's advised to pot it in early winter"
+" because it will fully grow by the time it can be harvested in summer. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自杏樹的大插條。建議在初冬將其盆栽，因為到夏季可收穫時它將完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "apricot sapling"
+msgid_plural "apricot sapling"
+msgstr[0] "杏樹苗"
+
+#. ~ Description for {'str': 'apricot sapling', 'str_pl': 'apricot sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"An apricot sapling, waiting to be planted. If you leave it out too long, it "
+"will die."
+msgstr "一棵杏樹苗，等待被種植。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted apricot tree"
+msgid_plural "potted apricot trees"
+msgstr[0] "盆栽杏樹"
+
+#. ~ Description for {'str': 'potted apricot tree', 'str_pl': 'potted apricot
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from an apricot tree planted in a pot. It will grow for about "
+"thirty days, until it's ready to be planted into the ground."
+msgstr "一根種植在花盆中的杏樹插條。它將生長約三十天，直到可以移栽到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut plum tree"
+msgstr "砍伐的李子樹"
+
+#. ~ Description for cut plum tree
+#: .\tree-harvesting.json
+msgid ""
+"This is 'Prunus domestica', or the common plum tree, producing fruit "
+"commonly known as plums. If you examined the branches more closely, you "
+"could probably find a few mature ones in summer. You could also cut it down "
+"with the right tools, this one has had a cutting taken from it"
+msgstr ""
+"這是'Prunus "
+"domestica'，即普通李子樹，結出的果實通常被稱為李子。如果你更仔細地檢查樹枝，或許能在夏天找到一些成熟的果實。你也可以用合適的工具砍倒它，這棵樹已經被取走了插條。"
+
+#: .\tree-harvesting.json
+msgid "plum tree cutting"
+msgid_plural "plum tree cuttings"
+msgstr[0] "李子樹插條"
+
+#. ~ Description for {'str': 'plum tree cutting', 'str_pl': 'plum tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from a plum tree. It's advised to pot it in early winter "
+"because it will fully grow by the time it can be harvested in summer. It "
+"dies quickly, so hurry and pot it!"
+msgstr "一根來自李子樹的大插條。建議在初冬將其盆栽，因為到夏季可收穫時它將完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "plum sapling"
+msgid_plural "plum sapling"
+msgstr[0] "李子樹苗"
+
+#. ~ Description for {'str': 'plum sapling', 'str_pl': 'plum sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"A plum sapling, waiting to be planted. If you leave it out too long, it will"
+" die."
+msgstr "一棵李子樹苗，等待被種植。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted plum tree"
+msgid_plural "potted plum trees"
+msgstr[0] "盆栽李樹"
+
+#. ~ Description for {'str': 'potted plum tree', 'str_pl': 'potted plum
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from a plum tree planted in a pot. It will grow for about thirty "
+"days, until it's ready to be planted into the ground."
+msgstr "從李樹上剪下的插枝，種在花盆裡。它將生長約三十天，直到可以移栽到地裡。"
+
+#: .\tree-harvesting.json
+msgid "cut coffee tree"
+msgstr "剪下的咖啡樹"
+
+#. ~ Description for cut coffee tree
+#: .\tree-harvesting.json
+msgid ""
+"The common coffee tree, producing fruit inside of which there is a pip "
+"commonly known as coffee beans. This one has had a cutting taken from it"
+msgstr "常見的咖啡樹，結出的果實內含通常被稱為咖啡豆的籽粒。這棵已被剪下插枝。"
+
+#: .\tree-harvesting.json
+msgid "coffee tree cutting"
+msgid_plural "coffee tree cuttings"
+msgstr[0] "咖啡樹插枝"
+
+#. ~ Description for {'str': 'coffee tree cutting', 'str_pl': 'coffee tree
+#. cuttings'}
+#: .\tree-harvesting.json
+msgid ""
+"A large cutting from a coffee tree. It's advised to pot it in early spring "
+"because it will fully grow by the time it can be harvested in autumn. It "
+"dies quickly, so hurry and pot it!"
+msgstr "從咖啡樹上剪下的大段插枝。建議在早春盆栽，因為它將在秋季可收穫時完全長成。它枯萎得很快，所以趕緊盆栽吧！"
+
+#: .\tree-harvesting.json
+msgid "coffee sapling"
+msgid_plural "coffee sapling"
+msgstr[0] "咖啡樹苗"
+
+#. ~ Description for {'str': 'coffee sapling', 'str_pl': 'coffee sapling'}
+#: .\tree-harvesting.json
+msgid ""
+"A coffee sapling, waiting to be planted. If you leave it out too long, it "
+"will die."
+msgstr "一棵咖啡樹苗，等待栽種。如果放置太久，它會死亡。"
+
+#: .\tree-harvesting.json
+msgid "potted coffee tree"
+msgid_plural "potted coffee trees"
+msgstr[0] "盆栽咖啡樹"
+
+#. ~ Description for {'str': 'potted coffee tree', 'str_pl': 'potted coffee
+#. trees'}
+#: .\tree-harvesting.json
+msgid ""
+"A cutting from a coffee tree planted in a pot. It will grow for about thirty"
+" days, until it's ready to be planted into the ground."
+msgstr "從咖啡樹上剪下的插枝，種在花盆裡。它將生長約三十天，直到可以移栽到地裡。"
+
+#: .\tree-harvesting.json
+msgid "clay plant pot"
+msgid_plural "clay plant pots"
+msgstr[0] "陶製花盆"
+
+#. ~ Description for {'str': 'clay plant pot'}
+#: .\tree-harvesting.json
+msgid ""
+"A large, open topped clay pot with holes near the bottom for water drainage."
+msgstr "一個大型敞口陶盆，底部附近有排水孔。"
+
+#: .\willow.json
+msgid "willow tree"
+msgstr "柳樹"
+
+#. ~ Description for willow tree
+#: .\willow.json
+msgid "A willow tree"
+msgstr "一棵柳樹"
+
+#: .\willow.json
+msgid "raw willow fibre"
+msgid_plural "raw willow fibres"
+msgstr[0] "生柳樹纖維"
+
+#. ~ Description for {'str': 'raw willow fibre', 'str_pl': 'raw willow
+#. fibres'}
+#: .\willow.json
+msgid ""
+"The fibrous inner bark of willow, these have been boiled to loosen the "
+"fibres."
+msgstr "柳樹的內層樹皮纖維，經過煮沸以鬆散纖維。"
+
+#: .\willow.json
+msgid "willow reed"
+msgid_plural "willow reeds"
+msgstr[0] "柳條"
+
+#. ~ Description for {'str': 'willow reed', 'str_pl': 'willow reeds'}
+#: .\willow.json
+msgid ""
+"A thin six foot willow stave. Useful for weaving into basketry or stripping "
+"for its bark."
+msgstr "一根六英尺長的細柳條。可用於編織籃筐或剝取樹皮。"
+
+#: .\willow.json
+msgid "willow reed bundle"
+msgid_plural "rillow reed bundles"
+msgstr[0] "柳條捆"
+
+#. ~ Description for {'str': 'willow reed bundle', 'str_pl': 'rillow reed
+#. bundles'}
+#: .\willow.json
+msgid "A tied bundle of willow reeds, easier to transport"
+msgstr "一捆紮好的柳條，便於運輸"
+
+#: .\wooden-dog-whistle.json
+msgid "dog whistle"
+msgid_plural "dog whistles"
+msgstr[0] "狗哨"
+
+#. ~ Description for {'str': 'dog whistle'}
+#: .\wooden-dog-whistle.json
+msgid ""
+"This is a small wooden whistle.  When used, it produces a high tone that "
+"causes nearby friendly dogs to either follow you closely and stop attacking,"
+" or start attacking enemies if they are currently docile."
+msgstr "這是一個小木哨。使用時，它會發出高音，使附近友好的狗要麼緊跟你並停止攻擊，要麼如果它們當前溫順，則開始攻擊敵人。"
+
+#: .\wooden-fish-trap.json
+msgid "wooden fish trap"
+msgid_plural "wooden fish traps"
+msgstr[0] "木製捕魚籠"
+
+#. ~ Description for {'str': 'wooden fish trap'}
+#: .\wooden-fish-trap.json
+msgid ""
+"This is a makeshift fish trap made from wooden sticks and cordage.  It's "
+"primitive, but easy to use.  The principle of action: the fish swims inside "
+"for bait, but can't get out."
+msgstr "這是一個用木棍和繩索製成的臨時捕魚籠。它很原始，但易於使用。工作原理：魚為誘餌遊入其中，但無法逃脫。"
+
+#: .\wooden-workmat.json
+msgid "wooden workmat"
+msgid_plural "wooden workmats"
+msgstr[0] "木製工作墊"
+
+#. ~ Description for wooden workmat
+#: .\wooden-workmat.json
+msgid ""
+"A collection of fairly flat sticks bound together with cordage, makes a "
+"passable butchery aid. "
+msgstr "用繩索綁在一起的一堆相當平坦的木棍，製成一個尚可的屠宰輔助工具。"
+
+#: .\wooden-workmat.json
+msgid "smash!"
+msgstr "砸！"
+
+#. ~ Description for {'str': 'wooden workmat'}
+#: .\wooden-workmat.json
+msgid ""
+"A collection of fairly flat sticks bound together with cordage, makes a "
+"passable butchery aid.  It's rolled and ready for carrying."
+msgstr "用繩索綁在一起的一堆相當平坦的木棍，製成一個尚可的屠宰輔助工具。它已捲起，便於攜帶。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "raisins"
+msgid_plural "raisins"
+msgstr[0] "葡萄乾"
+
+#. ~ Description for {'str': 'raisins', 'str_pl': 'raisins'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Raisins, tasty little wrinkly things, eat them by the handful."
+msgstr "葡萄乾，美味的小皺褶東西，一把一把地吃。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried apricots"
+msgid_plural "dried apricots"
+msgstr[0] "杏幹"
+
+#. ~ Description for {'str': 'dried apricots', 'str_pl': 'dried apricots'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried apricots, good souce vitamin A"
+msgstr "杏幹，維生素A的良好來源"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried plums"
+msgid_plural "dried plums"
+msgstr[0] "李子幹"
+
+#. ~ Description for {'str': 'dried plums', 'str_pl': 'dried plums'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried plums AKA prunes.  High in fiber, good for keeping you regular."
+msgstr "李子幹，又名西梅乾。富含纖維，有助於保持腸道通暢。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried apple slices"
+msgid_plural "dried apple slices"
+msgstr[0] "蘋果乾片"
+
+#. ~ Description for {'str': 'dried apple slices', 'str_pl': 'dried apple
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried apple slices, none of that sugar syrup added."
+msgstr "蘋果乾片，未添加任何糖漿。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried blueberries"
+msgid_plural "dried blueberries"
+msgstr[0] "藍莓幹"
+
+#. ~ Description for {'str': 'dried blueberries', 'str_pl': 'dried
+#. blueberries'}
+#: .\items\comestibles\dried_fruits.json
+msgid ""
+"Dried blueberries, less antioxidants then fresh ones, but still good for you"
+msgstr "藍莓幹，抗氧化劑含量低於新鮮藍莓，但仍對健康有益。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried cranberries"
+msgid_plural "dried cranberries"
+msgstr[0] "蔓越莓幹"
+
+#. ~ Description for {'str': 'dried cranberries', 'str_pl': 'dried
+#. cranberries'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried cranberries, sugar added for taste so remember to brush."
+msgstr "蔓越莓幹，為調味添加了糖分，記得刷牙。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried peaches"
+msgid_plural "dried peaches"
+msgstr[0] "桃子幹"
+
+#. ~ Description for {'str': 'dried peaches', 'str_pl': 'dried peaches'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried peaches, no fuzz."
+msgstr "桃子幹，無絨毛。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried figs"
+msgid_plural "dried figs"
+msgstr[0] "無花果乾"
+
+#. ~ Description for {'str': 'dried figs', 'str_pl': 'dried figs'}
+#: .\items\comestibles\dried_fruits.json
+msgid ""
+"Dried figs, one of the most ancient of incredibly tasty fruits known to "
+"mankind"
+msgstr "無花果乾，人類已知最古老且極其美味的水果之一。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried dates"
+msgid_plural "dried dates"
+msgstr[0] "棗幹"
+
+#. ~ Description for {'str': 'dried dates', 'str_pl': 'dried dates'}
+#: .\items\comestibles\dried_fruits.json
+msgid ""
+"Dried dates, one of the most ancient of incredibly tasty fruits known to "
+"mankind"
+msgstr "棗幹，人類已知最古老且極其美味的水果之一。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried banana slices"
+msgid_plural "dried banana slices"
+msgstr[0] "香蕉乾片"
+
+#. ~ Description for {'str': 'dried banana slices', 'str_pl': 'dried banana
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid ""
+"Chewy dried banana slices, not to be confused with them artery clogging "
+"banana chips"
+msgstr "有嚼勁的香蕉乾片，不要與那些堵塞動脈的香蕉片混淆。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried pineapple chunks"
+msgid_plural "dried pineapple chunks"
+msgstr[0] "菠蘿乾塊"
+
+#. ~ Description for {'str': 'dried pineapple chunks', 'str_pl': 'dried
+#. pineapple chunks'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried pineapple chunks"
+msgstr "菠蘿乾塊"
+
+#. ~ Description for {'str': 'dried pineapple chunks', 'str_pl': 'dried
+#. pineapple chunks'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried pineapple chunks, dusted in sugar, basicaly candy"
+msgstr "菠蘿乾塊，撒上糖，基本上是糖果。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried mango slices"
+msgid_plural "dried mango slices"
+msgstr[0] "芒果乾片"
+
+#. ~ Description for {'str': 'dried mango slices', 'str_pl': 'dried mango
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried mango slices."
+msgstr "芒果乾片。"
+
+#. ~ Description for {'str': 'dried mango slices', 'str_pl': 'dried mango
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried suagred mango slices, bright orange colour."
+msgstr "加糖芒果乾片，呈亮橙色。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried kiwi slices"
+msgid_plural "dried kiwi slices"
+msgstr[0] "獼猴桃乾片"
+
+#. ~ Description for {'str': 'dried kiwi slices', 'str_pl': 'dried kiwi
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried kiwi slices."
+msgstr "獼猴桃乾片。"
+
+#. ~ Description for {'str': 'dried kiwi slices', 'str_pl': 'dried kiwi
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried kiwi sugared slices, almost fluorescent in colour."
+msgstr "加糖獼猴桃乾片，顏色幾乎熒光。"
+
+#: .\items\comestibles\dried_fruits.json
+msgid "dried papaya slices"
+msgid_plural "dried papaya slices"
+msgstr[0] "木瓜乾片"
+
+#. ~ Description for {'str': 'dried papaya slices', 'str_pl': 'dried papaya
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried papaya slices."
+msgstr "木瓜乾片。"
+
+#. ~ Description for {'str': 'dried papaya slices', 'str_pl': 'dried papaya
+#. slices'}
+#: .\items\comestibles\dried_fruits.json
+msgid "Dried papaya slices, vibrant orange in colour."
+msgstr "木瓜乾片，呈鮮豔的橙色。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "dried starch flakes"
+msgid_plural "dried starch water"
+msgstr[0] "澱粉乾片"
+
+#. ~ Description for {'str': 'dried starch flakes', 'str_pl': 'dried starch
+#. water'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"Starch that's had the water decanted off & roasted to remove a lot of the "
+"water, you could grind this into a fine flour for use."
+msgstr "澱粉經傾析去水並烘烤以去除大量水分，可研磨成細粉使用。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "starch water"
+msgid_plural "starch water"
+msgstr[0] "澱粉水"
+
+#. ~ Description for {'str': 'starch water', 'str_pl': 'starch water'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"Rinsing and separating the fibrous roots and other starch rich material has "
+"resulted in a carbohydrate rich soup you can process further."
+msgstr "沖洗並分離纖維根和其他富含澱粉的材料後，得到了一碗富含碳水化合物的湯，你可以進一步加工。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "tea bag"
+msgid_plural "tea bags"
+msgstr[0] "茶包"
+
+#: .\items\comestibles\edible_plants.json
+msgid "pine teabag"
+msgid_plural "pine teabags"
+msgstr[0] "松針茶包"
+
+#. ~ Description for {'str': 'pine teabag', 'str_pl': 'pine teabags'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of prepared dried pine needles ready for infusion as a"
+" tea, it should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有準備好的幹松針，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "dandelion teabag"
+msgid_plural "dandelion teabags"
+msgstr[0] "蒲公英茶包"
+
+#. ~ Description for {'str': 'dandelion teabag', 'str_pl': 'dandelion
+#. teabags'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of prepared dried dandelion leaves ready for infusion "
+"as a tea, it should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有準備好的幹蒲公英葉，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "ground dandelion root"
+msgid_plural "ground dandelion roots"
+msgstr[0] "研磨蒲公英根"
+
+#. ~ Description for {'str': 'ground dandelion root', 'str_pl': 'ground
+#. dandelion roots'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of ground and dried dandelion roots prepared for "
+"infusion as a tea, it should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有研磨並乾燥的蒲公英根，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "ground dandelion root tea"
+msgid_plural "ground dandelion root tea"
+msgstr[0] "研磨蒲公英根茶"
+
+#. ~ Description for {'str': 'ground dandelion root tea', 'str_pl': 'ground
+#. dandelion root tea'}
+#: .\items\comestibles\edible_plants.json
+msgid "An infusion made from ground and dried dandelion roots"
+msgstr "一種用研磨並乾燥的蒲公英根沖泡的茶飲。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "bark teabag"
+msgid_plural "bark teabags"
+msgstr[0] "樹皮茶包"
+
+#. ~ Description for {'str': 'bark teabag', 'str_pl': 'bark teabags'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of prepared tanbark ready for infusion as a tea, it "
+"should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有準備好的鞣製樹皮，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "bee balm teabag"
+msgid_plural "bee balm teabags"
+msgstr[0] "香蜂草茶包"
+
+#. ~ Description for {'str': 'bee balm teabag', 'str_pl': 'bee balm teabags'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of prepared bee balm leaves ready for infusion as a "
+"tea, it should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有準備好的香蜂草葉，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\edible_plants.json
+msgid "herbal teabag"
+msgid_plural "herbal teabags"
+msgstr[0] "草本茶包"
+
+#. ~ Description for {'str': 'herbal teabag', 'str_pl': 'herbal teabags'}
+#: .\items\comestibles\edible_plants.json
+msgid ""
+"A small self-made bag of prepared mixed herbs ready for infusion as a tea, "
+"it should last a long time, but not forever"
+msgstr "一個自制的小袋子，裝有準備好的混合草本，可用於沖泡茶飲，它應該能保存很長時間，但並非永久。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "apple slices"
+msgid_plural "apple slicess"
+msgstr[0] "蘋果片"
+
+#. ~ Description for {'str': 'apple slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Apple slices, ready for drying in a smoking rack."
+msgstr "蘋果片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "plum slices"
+msgid_plural "plum slicess"
+msgstr[0] "李子片"
+
+#. ~ Description for {'str': 'plum slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Plum slices, ready for drying in a smoking rack."
+msgstr "李子片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "apricot slices"
+msgid_plural "handful of apricots"
+msgstr[0] "杏片"
+
+#. ~ Description for {'str': 'apricot slices', 'str_pl': 'handful of
+#. apricots'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Apricot slices, ready for drying in a smoking rack."
+msgstr "杏片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "peach slices"
+msgid_plural "peaches"
+msgstr[0] "桃片"
+
+#. ~ Description for {'str': 'peach slices', 'str_pl': 'peaches'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Peach slices, ready for drying in a smoking rack."
+msgstr "桃片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "banana slices"
+msgid_plural "banana slicess"
+msgstr[0] "香蕉片"
+
+#. ~ Description for {'str': 'banana slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Banana slices, ready for drying in a smoking rack."
+msgstr "香蕉片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "pineapple slices"
+msgid_plural "pineapple slicess"
+msgstr[0] "菠蘿片"
+
+#. ~ Description for {'str': 'pineapple slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Pineapple slices, ready for drying in a smoking rack."
+msgstr "菠蘿片，已準備好用於燻架上乾燥。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "mango slices"
+msgid_plural "mango slicess"
+msgstr[0] "芒果片"
+
+#. ~ Description for {'str': 'mango slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Mango slices, ready for drying in a smoking rack."
+msgstr "芒果切片，已準備好放入燻架晾乾。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "kiwi slices"
+msgid_plural "kiwi slicess"
+msgstr[0] "獼猴桃切片"
+
+#. ~ Description for {'str': 'kiwi slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Kiwi slices, ready for drying in a smoking rack."
+msgstr "獼猴桃切片，已準備好放入燻架晾乾。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "papaya slices"
+msgid_plural "papaya slicess"
+msgstr[0] "木瓜切片"
+
+#. ~ Description for {'str': 'papaya slices'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Papaya slices, ready for drying in a smoking rack."
+msgstr "木瓜切片，已準備好放入燻架晾乾。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of grapes"
+msgid_plural "handful of grapes"
+msgstr[0] "一把葡萄"
+
+#. ~ Description for {'str': 'handful of grapes', 'str_pl': 'handful of
+#. grapes'}
+#: .\items\comestibles\raw_fruit.json
+msgid "A cluster of juicy grapes."
+msgstr "一串多汁的葡萄。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of blueberries"
+msgid_plural "handful of blueberries"
+msgstr[0] "一把藍莓"
+
+#. ~ Description for {'str': 'handful of blueberries', 'str_pl': 'handful of
+#. blueberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "They're blue, but that doesn't mean they're sad."
+msgstr "它們是藍色的，但這不代表它們很悲傷。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of cranberries"
+msgid_plural "handful of cranberries"
+msgstr[0] "一把蔓越莓"
+
+#. ~ Description for {'str': 'handful of cranberries', 'str_pl': 'handful of
+#. cranberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Sour red berries.  Good for your health."
+msgstr "酸澀的紅色漿果。對健康有益。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of strawberries"
+msgid_plural "handful of strawberries"
+msgstr[0] "一把草莓"
+
+#. ~ Description for {'str': 'handful of strawberries', 'str_pl': 'handful of
+#. strawberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Tasty, juicy berry.  Often found growing wild in fields."
+msgstr "美味多汁的漿果。常見於野外田地中。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of raspberries"
+msgid_plural "handful of raspberries"
+msgstr[0] "一把覆盆子"
+
+#. ~ Description for {'str': 'handful of raspberries', 'str_pl': 'handful of
+#. raspberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "A sweet red berry."
+msgstr "一種甜美的紅色漿果。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of huckleberries"
+msgid_plural "handful of huckleberries"
+msgstr[0] "一把越橘"
+
+#. ~ Description for {'str': 'handful of huckleberries', 'str_pl': 'handful of
+#. huckleberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Huckleberries, often times confused for blueberries."
+msgstr "越橘，常被誤認為是藍莓。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of mulberries"
+msgid_plural "handful of mulberries"
+msgstr[0] "一把桑葚"
+
+#. ~ Description for {'str': 'handful of mulberries', 'str_pl': 'handful of
+#. mulberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid ""
+"Mulberries, this red variety is unique to east North America and is "
+"described to have the strongest flavor of any variety in the world."
+msgstr "桑葚，這種紅色品種是北美東部特有的，據描述其風味是世界上所有品種中最濃郁的。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of elderberries"
+msgid_plural "handful of elderberries"
+msgstr[0] "一把接骨木莓"
+
+#. ~ Description for {'str': 'handful of elderberries', 'str_pl': 'handful of
+#. elderberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "Elderberries, toxic when eaten raw but great when cooked."
+msgstr "接骨木莓，生食有毒，但煮熟後非常美味。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of rose hips"
+msgid_plural "handful of rose hips"
+msgstr[0] "一把玫瑰果"
+
+#. ~ Description for {'str': 'handful of rose hips', 'str_pl': 'handful of
+#. rose hips'}
+#: .\items\comestibles\raw_fruit.json
+msgid "The fruit of a pollinated rose flower."
+msgstr "授粉後的玫瑰花朵結出的果實。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "handful of blackberries"
+msgid_plural "handful of blackberries"
+msgstr[0] "一把黑莓"
+
+#. ~ Description for {'str': 'handful of blackberries', 'str_pl': 'handful of
+#. blackberries'}
+#: .\items\comestibles\raw_fruit.json
+msgid "A darker cousin of raspberry."
+msgstr "覆盆子的深色近親。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "fig"
+msgid_plural "figs"
+msgstr[0] "無花果"
+
+#. ~ Description for {'str': 'fig'}
+#: .\items\comestibles\raw_fruit.json
+msgid ""
+"A small obovoid slightly wrinkled purple fruit with a leathery skin.  This "
+"fruit which is known to mankind since ancient times is very sweet, tasty."
+msgstr "一種小而倒卵形、略帶皺紋的紫色果實，外皮堅韌。這種自遠古以來就為人類所知的果實非常甜美可口。"
+
+#: .\items\comestibles\raw_fruit.json
+msgid "dates"
+msgid_plural "datess"
+msgstr[0] "椰棗"
+
+#. ~ Description for {'str': 'dates'}
+#: .\items\comestibles\raw_fruit.json
+msgid ""
+"A small oval-shaped hard yellow fruit with a leathery skin.  This fruit "
+"which is known to mankind since ancient times is very sweet, tasty."
+msgstr "一種小而橢圓形、堅硬的黃色果實，外皮堅韌。這種自遠古以來就為人類所知的果實非常甜美可口。"
+
+#: .\mapgen\new_trees.json
+msgid "date tree"
+msgstr "椰棗樹"
+
+#. ~ Description for date tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Phoenix dactylifera', commonly known as the date palm or even much "
+"more commonly as the date tree, belonging to the 'Phoenix' genus, "
+"naturalized in many tropical along with subtropical regions worldwide like "
+"North Africa, Middle East, South Asia, that has been genetically engineered "
+"to withstand New England's four seasons. It bears dates in the summer.  If "
+"you examined the branches more closely, you could probably find some mature "
+"dates.  You could also cut it down with the right tools."
+msgstr ""
+"這是'Phoenix "
+"dactylifera'，通常被稱為棗椰樹或更常見的棗樹，屬於'Phoenix'屬，已在全球許多熱帶和亞熱帶地區歸化，如北非、中東、南亞，並經過基因工程改造以適應新英格蘭的四季。它在夏季結棗。如果你更仔細地檢查樹枝，可能會發現一些成熟的棗子。你也可以用合適的工具砍倒它。"
+
+#. ~ Description for date tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Phoenix dactylifera', commonly known as the date palm or even much "
+"more commonly as the date tree, belonging to the 'Phoenix' genus, "
+"naturalized in many tropical along with subtropical regions worldwide like "
+"North Africa, Middle East, South Asia, that has been genetically engineered "
+"to withstand New England's four seasons. It bears dates in the summer.  "
+"Looks like all the ripe dates have been picked.  You could also cut it down "
+"with the right tools."
+msgstr ""
+"這是'Phoenix "
+"dactylifera'，通常被稱為棗椰樹或更常見的棗樹，屬於'Phoenix'屬，已在全球許多熱帶和亞熱帶地區歸化，如北非、中東、南亞，並經過基因工程改造以適應新英格蘭的四季。它在夏季結棗。看起來所有成熟的棗子都已被採摘。你也可以用合適的工具砍倒它。"
+
+#: .\mapgen\new_trees.json
+msgid "fig tree"
+msgstr "無花果樹"
+
+#. ~ Description for fig tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Ficus carica', commonly known as fig tree, belonging to the 'Ficus'"
+" genus, naturalized in many tropical along with subtropical regions like "
+"Mediterranean, West Asia, South Asia, which is now widely grown throughout "
+"the world, that has been genetically engineered to withstand New England's "
+"four seasons. It bears figs in the summer.  If you examined the branches "
+"more closely, you could probably find some mature figs.  You could also cut "
+"it down with the right tools."
+msgstr ""
+"這是'Ficus "
+"carica'，通常被稱為無花果樹，屬於'Ficus'屬，已在許多熱帶和亞熱帶地區歸化，如地中海、西亞、南亞，現已在全球廣泛種植，並經過基因工程改造以適應新英格蘭的四季。它在夏季結無花果。如果你更仔細地檢查樹枝，可能會發現一些成熟的無花果。你也可以用合適的工具砍倒它。"
+
+#. ~ Description for fig tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Ficus carica', commonly known as fig tree, belonging to the 'Ficus'"
+" genus, naturalized in many tropical along with subtropical regions like "
+"Mediterranean, West Asia, South Asia, which is now widely grown throughout "
+"the world, that has been genetically engineered to withstand New England's "
+"four seasons. It bears figs in the summer.  Looks like all the ripe figs "
+"have been picked.  You could also cut it down with the right tools."
+msgstr ""
+"這是'Ficus "
+"carica'，通常被稱為無花果樹，屬於'Ficus'屬，已在許多熱帶和亞熱帶地區歸化，如地中海、西亞、南亞，現已在全球廣泛種植，並經過基因工程改造以適應新英格蘭的四季。它在夏季結無花果。看起來所有成熟的無花果都已被採摘。你也可以用合適的工具砍倒它。"
+
+#: .\mapgen\new_trees.json
+msgid "banana tree"
+msgstr "香蕉樹"
+
+#. ~ Description for banana tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Musa acuminata', commonly known as banana plants or even much more "
+"commonly known as banana trees, belonging to the 'Musa' genus, naturalized "
+"in tropical regions of South Asia, Southeast Asia, that has been genetically"
+" engineered to withstand New England's four seasons. It bears bananas in the"
+" summer.  If you examined the branches more closely, you could probably find"
+" some mature bananas.  You could also cut it down with the right tools."
+msgstr ""
+"這是'Musa "
+"acuminata'，通常被稱為香蕉植株或更常見的香蕉樹，屬於'Musa'屬，已在南亞、東南亞的熱帶地區歸化，並經過基因工程改造以適應新英格蘭的四季。它在夏季結香蕉。如果你更仔細地檢查樹枝，可能會發現一些成熟的香蕉。你也可以用合適的工具砍倒它。"
+
+#. ~ Description for banana tree
+#: .\mapgen\new_trees.json
+msgid ""
+"This is 'Musa acuminata', commonly known as banana plants or even much more "
+"commonly known as banana trees, belonging to the 'Musa' genus, naturalized "
+"in tropical regions of South Asia, Southeast Asia, that has been genetically"
+" engineered to withstand New England's four seasons. It bears bananas in the"
+" summer.  Looks like all the ripe bananas have been picked.  You could also "
+"cut it down with the right tools."
+msgstr ""
+"這是'Musa "
+"acuminata'，通常被稱為香蕉植株或更常見的香蕉樹，屬於'Musa'屬，已在南亞、東南亞的熱帶地區歸化，並經過基因工程改造以適應新英格蘭的四季。它在夏季結香蕉。看起來所有成熟的香蕉都已被採摘。你也可以用合適的工具砍倒它。"
+
+#. ~ Sign
+#: .\mapgen\trees_farm_tweaks.json
+msgid "<given_name>'s Tree Farm, call us at 555-8758!"
+msgstr "<given_name>的樹苗農場，請致電555-8758！"
+
+#. ~ Sign
+#: .\mapgen\trees_farm_tweaks.json
+msgid "Christmas trees available early winter!"
+msgstr "聖誕樹初冬供應！"
+
+#. ~ Sign
+#: .\mapgen\trees_farm_tweaks.json
+msgid "We grow tropical, subtropical trees, we even try to grow grapes!"
+msgstr "我們種植熱帶、亞熱帶樹木，甚至嘗試種植葡萄！"
+
+#: .\mobile\mobile-override-non-mammal.json
+msgid "giant cockroach nymph"
+msgid_plural "giant cockroach nymphs"
+msgstr[0] "巨型蟑螂若蟲"
+
+#. ~ Description for {'str': 'giant cockroach nymph'}
+#: .\mobile\mobile-override-non-mammal.json
+msgid "A baby mutant cockroach about the size of a rat."
+msgstr "一隻幼年突變蟑螂，大小約如老鼠。"
+
+#: .\mobile\mobile-override-non-mammal.json
+msgid "dermatik larva"
+msgid_plural "dermatik larvae"
+msgstr[0] "皮蠅幼蟲"
+
+#. ~ Description for {'str': 'dermatik larva', 'str_pl': 'dermatik larvae'}
+#: .\mobile\mobile-override-non-mammal.json
+msgid ""
+"A fat white grub as big as a squirrel, with a pair of large, spadelike "
+"mandibles."
+msgstr "一條肥碩的白色蛆蟲，大小如松鼠，長有一對巨大的鏟狀顎。"
+
+#: .\mobile\mobile-override-non-mammal.json
+msgid "locust nymph"
+msgid_plural "locust nymphs"
+msgstr[0] "蝗蟲若蟲"
+
+#. ~ Description for {'str': 'locust nymph'}
+#: .\mobile\mobile-override-non-mammal.json
+msgid ""
+"A locust the size of a rabbit.  You'd hate to think what a swarm of these "
+"could do."
+msgstr "一隻兔子大小的蝗蟲。你不敢想象一群這樣的蝗蟲會造成什麼破壞。"
+
+#: .\mobile\mobile-override-non-mammal.json
+msgid "rattlesnake"
+msgid_plural "rattlesnakes"
+msgstr[0] "響尾蛇"
+
+#. ~ Description for {'str': 'rattlesnake'}
+#: .\mobile\mobile-override-non-mammal.json
+msgid ""
+"The timber rattlesnake is the most venomous viper native to New England.  "
+"Climatic changes have extended its range far into the north."
+msgstr "林響尾蛇是新英格蘭本土毒性最強的蝰蛇。氣候變化已將其活動範圍向北大幅擴展。"

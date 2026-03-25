@@ -1,0 +1,1092 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: more_survivor_stuff\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\martialarts.json
+msgid "Survivor Sledge-Fu"
+msgstr ""
+
+#. ~ Description for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You have started to become rather proficient in handling heavy weaponry. "
+"Sledge-Fu allows you to bully an opponent using your strength until the "
+"right moment presents itself to swing your weapon properly for a killing "
+"blow."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid "You roll your neck and get ready to shatter your enemies."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s rolls their neck menacingly."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Intimidating Figure"
+msgstr ""
+
+#. ~ Description of buff 'Intimidating Figure' for martial art '{'str':
+#. 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"No man, machine or monstrosity can get through you and your strength. \n"
+"\n"
+"+2 Block attempts, -3.0 Dodge skill, blocked damage reduced by 70%% of Strength."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Moving Bulk"
+msgstr ""
+
+#. ~ Description of buff 'Moving Bulk' for martial art '{'str': 'Survivor
+#. Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Moving your weight around makes it hard to take hits strategically, but it does prove useful for extra swing speed. \n"
+"\n"
+"-2 Block attempts, blocked damage increased by 70%% of Strength.\n"
+"+10%% bonus to bashing damage.\n"
+"Lasts 1 turn."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Eager For Contact"
+msgstr ""
+
+#. ~ Description of buff 'Eager For Contact' for martial art '{'str':
+#. 'Survivor Sledge-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You dodged. Next time, you'll take the hit and make them pay properly. \n"
+"\n"
+"-3.0 Dodge skill\n"
+"Lasts 3 turns.  Stacks 3 times."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Survivor Flail-Fu"
+msgstr ""
+
+#. ~ Description for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You have started to become very proficient in handling heavy weaponry. "
+"Flail-Fu lets you redirect opponents as the chain wishes, or whirl the head "
+"for a heavy blow."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+msgid "You grip your flail confidently and start swaying the chain."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Flail-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s grips their flail and sways the chain idly."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Metal Must Flow"
+msgstr ""
+
+#. ~ Description of buff 'Metal Must Flow' for martial art '{'str': 'Survivor
+#. Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Your flail must keep spinning at all costs. \n"
+"\n"
+"+1.0 Dodge skill"
+msgstr ""
+
+#: .\martialarts.json
+msgid "Swift Mass"
+msgstr ""
+
+#. ~ Description of buff 'Swift Mass' for martial art '{'str': 'Survivor
+#. Flail-Fu'}'
+#: .\martialarts.json
+msgid ""
+"Dodging an attack only quickens your weapon!\n"
+"\n"
+"+10%% bashing damage.\n"
+"Enables \"Stunning Blow\" technique.\n"
+"Lasts 1 turns.  Stacks 3 times."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Survivor Glove-Fu"
+msgstr ""
+
+#. ~ Description for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You're not unused to the concept of killing things with your own hands. "
+"Glove-Fu lets you show the Zs the real definition of a smackdown with "
+"unrelenting, heavy hitting powercombos."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid "You assume a sturdy stance and keep one arm cocked and loaded."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+#, c-format
+msgid "%s assumes a sturdy stance and keeps an arm ready."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Ready"
+msgstr ""
+
+#. ~ Description of buff 'Ready' for martial art '{'str': 'Survivor Glove-
+#. Fu'}'
+#: .\martialarts.json
+msgid ""
+"You're ready. Your fighting implements are ready. They always will be. \n"
+"\n"
+"+2 Block attempts, -1.0 Dodge skill, blocked damage reduced by 50%% of Strength."
+msgstr ""
+
+#: .\martialarts.json
+msgid "Eager For Smackdown"
+msgstr ""
+
+#. ~ Description of buff 'Eager For Smackdown' for martial art '{'str':
+#. 'Survivor Glove-Fu'}'
+#: .\martialarts.json
+msgid ""
+"You dodged. Next time, you'll take the hit so you can begin the smackdown. \n"
+"\n"
+"-3.0 Dodge skill\n"
+"Lasts 3 turns.  Stacks 3 times."
+msgstr ""
+
+#: .\modinfo.json
+msgid "More Survivor Stuff"
+msgstr ""
+
+#. ~ Description for More Survivor Stuff
+#: .\modinfo.json
+msgid "Adds more variety to survivor equipment, styles, crafts etc."
+msgstr ""
+
+#: .\techniques.json
+msgid "Lovetap"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You thrust your weapon at %s"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> thrusts their weapon at %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "Slam Jab"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You jab powerfully at %s with your weapon"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> jabs powerfully at %s with their weapon"
+msgstr ""
+
+#: .\techniques.json
+msgid "Gutbuster"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You slam the end of your weapon into %s and drive them back"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> slams the end of their weapon into %s and drives them back"
+msgstr ""
+
+#: .\techniques.json
+msgid "Block And Bash"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You parry and headbutt %s"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> parries and headbutts %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "Violent Shove"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You violently shove at %s, sending them staggering"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> violently shoves at %s, sending them staggering"
+msgstr ""
+
+#: .\techniques.json
+msgid "Flying Blow"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You swing directly into %s, making them soar through the air"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> swings directly into %s, making them soar through the air"
+msgstr ""
+
+#: .\techniques.json
+msgid "Grab Break"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you shove their grasp away!"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they shove their grasp away!"
+msgstr ""
+
+#: .\techniques.json
+msgid "Swing For The Fences"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You miss %s, but keep the momentum going."
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> misses %s, but keeps the momentum going."
+msgstr ""
+
+#: .\techniques.json
+msgid "Directed Force"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You direct your flail into %s"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> directs their flail into %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "Stunning Blow"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You stun %s with a deft blow"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stuns %s with a deft blow"
+msgstr ""
+
+#: .\techniques.json
+msgid "Heavy Blow"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You overwhelm and concuss %s with a heavy blow"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> hits %s with a heavy blow"
+msgstr ""
+
+#: .\techniques.json
+msgid "Swing And Fling"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s and swing them around yourself"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and swings them around"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s hard and swing them away"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and swings them away"
+msgstr ""
+
+#: .\techniques.json
+msgid "Kick Over"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You shove over %s and strike at their exposed back"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> shoves over %s and strikes at them"
+msgstr ""
+
+#: .\techniques.json
+msgid "Wrapped Trip"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You wrap around %s and pull them to the ground"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> wraps around %s and pulls them down"
+msgstr ""
+
+#: .\techniques.json
+msgid "Continued Mass"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You miss %s, but your flail cares not and keeps swinging."
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> misses %s, but their flail keeps spinning."
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you wrench their grip off!"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they wrench their grip off!"
+msgstr ""
+
+#: .\techniques.json
+msgid "Stop And Smack"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You stop %s's attack and throw a violent haymaker"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stops %s's attack and throws a violent haymaker"
+msgstr ""
+
+#: .\techniques.json
+msgid "Stop And Smackdown"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You stop %s's attack and knock them into next week"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> stops %s's attack and knocks them into next week"
+msgstr ""
+
+#: .\techniques.json
+msgid "Bodyshot Knockback"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You throw a breath-robbing bodyshot at %s and follow through"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> throws a breath-robbing bodyshot at %s and follows through"
+msgstr ""
+
+#: .\techniques.json
+msgid "Debilitating Bodyshot Knockback"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"You throw a breath-robbing bodyshot at %s, and run after them as they "
+"stumble"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"<npcname> throws a breath-robbing bodyshot at %s and runs after them as they"
+" stumble"
+msgstr ""
+
+#: .\techniques.json
+msgid "Bodyshot"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You throw a rib-cracking bodyshot at %s"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> throws a rib-cracking bodyshot at %s"
+msgstr ""
+
+#: .\techniques.json
+msgid "Debilitating Bodyshot Combo"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"You throw a rib-shattering bodyshot at %s, and immediately follow with a "
+"skullcracking strike"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid ""
+"<npcname> throws a rib-shattering bodyshot at %s and immediately follows "
+"with a skullcracking strike"
+msgstr ""
+
+#: .\techniques.json
+msgid "Knockout"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You punch %s straight to the ground, dazing them further"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> punches %s straight to the ground, dazing them further"
+msgstr ""
+
+#: .\techniques.json
+msgid "Smackdown"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You mulch %s's head into the ground with a rabid attack"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> mulches %s's head into the ground with a rabid attack"
+msgstr ""
+
+#: .\techniques.json
+msgid "Life-ending Smackdown"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You maim %s's head against the ground with all your might"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> maims %s's head against the ground with all their might"
+msgstr ""
+
+#: .\techniques.json
+msgid "Wallbash"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You grab %s and bash them into a nearby wall"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> grabs %s and bashes them into a nearby wall"
+msgstr ""
+
+#: .\techniques.json
+msgid "Lurch"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "You tense up at %s."
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> tenses up at %s."
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab you, but you shove them off!"
+msgstr ""
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they shove them off!"
+msgstr ""
+
+#: .\tool_qualities.json
+msgid "lathing"
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of extra-light survivor gloves"
+msgid_plural "pairs of extra-light survivor gloves"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of extra-light survivor gloves', 'str_pl':
+#. 'pairs of extra-light survivor gloves'}
+#: .\items\armor.json
+msgid ""
+"A pair of very light Kevlar-lined cloth gloves, modified to be as easy to "
+"wear as normal gloves while providing considerable protection under rough "
+"conditions."
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of extra-light survivor boots"
+msgid_plural "pairs of extra-light survivor boots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of extra-light survivor boots', 'str_pl':
+#. 'pairs of extra-light survivor boots'}
+#: .\items\armor.json
+msgid ""
+"A pair of very light Kevlar-lined cloth boots, modified to provide "
+"considerable protection from harm, even when ankle-deep in the dead."
+msgstr ""
+
+#: .\items\armor.json
+msgid "light survivor helmet"
+msgid_plural "light survivor helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'light survivor helmet'}
+#: .\items\armor.json
+msgid ""
+"A customized, Kevlar-armored helmet, modified with leather reinforcements to"
+" provide maximum comfort and considerable protection from harm given the "
+"weight."
+msgstr ""
+
+#: .\items\armor.json
+msgid "extra-light survivor mask"
+msgid_plural "extra-light survivor masks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extra-light survivor mask'}
+#: .\items\armor.json
+msgid ""
+"A custom-built, Kevlar-lined gas mask that covers the face and eyes.  "
+"Provides excellent protection from smoke and teargas, and considerable "
+"protection from shrapnel.  It must be prepared before use."
+msgstr ""
+
+#: .\items\armor.json
+msgid "extra-light survivor hood"
+msgid_plural "extra-light survivor hoods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extra-light survivor hood'}
+#: .\items\armor.json
+msgid ""
+"A customized Kevlar-lined cloth hood, very light and considerably durable."
+msgstr ""
+
+#: .\items\armor.json
+msgid "extra-light survivor suit"
+msgid_plural "extra-light survivor suits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extra-light survivor suit'}
+#: .\items\armor.json
+msgid ""
+"A very lightweight Kevlar-lined jumpsuit, nearly as easy to move in as if it"
+" were just cotton. Protects from the elements as well as from some harm."
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of superheavy survivor gloves"
+msgid_plural "pairs of superheavy survivor gloves"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of superheavy survivor gloves', 'str_pl':
+#. 'pairs of superheavy survivor gloves'}
+#: .\items\armor.json
+msgid ""
+"A pair of extreme, heavily customized, steel-plated armored Kevlar gloves, "
+"modified to provide maximum protection under extreme conditions. Mobility "
+"comes second."
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of superheavy survivor boots"
+msgid_plural "pairs of superheavy survivor boots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of superheavy survivor boots', 'str_pl':
+#. 'pairs of superheavy survivor boots'}
+#: .\items\armor.json
+msgid ""
+"A pair of extreme, customized kevlar boots, heavily armored with steel and "
+"modified to provide maximum protection from serious harm, even when knee-"
+"deep in hell itself."
+msgstr ""
+
+#: .\items\armor.json
+msgid "superheavy survivor helmet"
+msgid_plural "superheavy survivor helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superheavy survivor helmet'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, heavily armored steel and kevlar helmet, modified"
+" to provide protection from even the most extreme harm."
+msgstr ""
+
+#: .\items\armor.json
+msgid "superheavy survivor mask"
+msgid_plural "superheavy survivor masks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superheavy survivor mask'}
+#: .\items\armor.json
+msgid ""
+"A custom-built, tri-filter steel gas mask that covers the face and eyes.  "
+"Provides beyond excellent protection from smoke, teargas, and shrapnel.  It "
+"must be prepared before use."
+msgstr ""
+
+#: .\items\armor.json
+msgid "heavy survivor hood"
+msgid_plural "heavy survivor hoods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'heavy survivor hood'}
+#: .\items\armor.json
+msgid ""
+"A heavily customized, heavily armored steel, leather and kevlar hood, "
+"designed to provide maximum protection from harm."
+msgstr ""
+
+#: .\items\armor.json
+msgid "superheavy survivor suit"
+msgid_plural "superheavy survivor suits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superheavy survivor suit'}
+#: .\items\armor.json
+msgid ""
+"An extreme, hand-built combination armor made from a steel-reinforced "
+"bulletproof vest and thick metal plates attached to leather to cover the "
+"limbs.  Protects from the elements as well as from serious harm, for those "
+"who want to push the limits of unpowered armor."
+msgstr ""
+
+#: .\items\armor.json
+msgid "heavy survivor leather robe"
+msgid_plural "heavy survivor leather robes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'heavy survivor leather robe'}
+#: .\items\armor.json
+msgid ""
+"A full-size, full-thickness, solidly and lovingly sewn leather robe meant to"
+" be worn over other clothes. It has no pockets, to maximize protection. "
+"While very, very heavy and encumbering, it protects well from serious harm."
+msgstr ""
+
+#: .\items\armor.json
+msgid "survivor rubber undersuit"
+msgid_plural "survivor rubber undersuit"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'survivor rubber undersuit'}
+#: .\items\armor.json
+msgid ""
+"A handmade, skintight acid-resistant rubber-plastic combo suit. It is "
+"cleverly designed so as to not limit movement as much as one would think, "
+"but this leaves cotton gaps at the joints which are susceptible to "
+"penetration. Either way, it will protect well from things such as acid."
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of survivor dark plate gauntlets"
+msgid_plural "pairs of survivor dark plate gauntlets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of survivor dark plate gauntlets',
+#. 'str_pl': 'pairs of survivor dark plate gauntlets'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy pair of dark-"
+"tinted plate gauntlets. The knuckles flange up and the fingers end in "
+"spikes, which makes this pair of gloves understandably hard to use. However,"
+" they protect really, really well, and look super fancy to boot."
+msgstr ""
+
+#: .\items\armor.json
+msgid "pair of survivor dark plate sabatons"
+msgid_plural "pairs of survivor dark plate sabatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of survivor dark plate sabatons', 'str_pl':
+#. 'pairs of survivor dark plate sabatons'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy pair of dark-"
+"tinted plate sabatons. These terrifying boots practically threaten to "
+"crumble the earth with every step, and although their weight and stylish, "
+"angular construction make them a little impractical, they will protect your "
+"foot even if you decide to kick a tank-bot during a duel to the death. And "
+"they'll look good doing it."
+msgstr ""
+
+#: .\items\armor.json
+msgid "survivor dark quad-horned greathelm"
+msgid_plural "survivor dark horned greathelmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor dark quad-horned greathelm', 'str_pl':
+#. 'survivor dark horned greathelmets'}
+#: .\items\armor.json
+msgid ""
+"This is the king of helmets. The spiky horns signal to all that the wearer "
+"is the bringer of metal-plated death. Its sturdy, beyond-solid steel "
+"construction keeps anything that dares go against it at bay."
+msgstr ""
+
+#: .\items\armor.json
+msgid "survivor dark plate armor"
+msgid_plural "survivor dark plate armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor dark plate armor'}
+#: .\items\armor.json
+msgid ""
+"A ridiculously customized, extreme-looking and insanely heavy set of dark-"
+"tinted plate armor. It's rife with impractical-looking flanges and "
+"questionable design choices, especially in the shoulder area, but in a world"
+" where opponents don't know how to exploit those, all they do is add to the "
+"protection. And... one cannot deny, it looks darn stylish."
+msgstr ""
+
+#: .\items\books.json
+msgid "Closer Looks At Guns In History"
+msgid_plural "copies of Guns In History"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Closer Looks At Guns In History', 'str_pl':
+#. 'copies of Guns In History'}
+#: .\items\books.json
+msgid ""
+"A textbook that goes through many influential guns of history and "
+"intricately details their inner workings, from flintlock to modern day. It "
+"also names and explains more than a few experimental guns with a heavy "
+"emphasis on minute, unique mechanical details, which should let the "
+"enterprising survivor like you really figure out how guns work."
+msgstr ""
+
+#: .\items\books.json
+msgid "workshop log"
+msgid_plural "workshop logs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'workshop log', 'str_pl': 'workshop logs'}
+#: .\items\books.json
+msgid ""
+"A log of the workshop's business, work, commissions, things like that. It's "
+"useless at first glance, but there's very many technical details that the "
+"experienced craftsman could learn from. The handwritten last chapter also "
+"has very interesting ideas on how the workshop's machinery could be "
+"improved."
+msgstr ""
+
+#. ~ Description for {'str': 'workshop log', 'str_pl': 'workshop logs'}
+#: .\items\books.json
+msgid ""
+"A log of the workshop's business, work, commissions, things like that. It's "
+"useless at first glance, but somewhere among the endless metal trinkets is a"
+" wildly detailed blueprint for a... magnetic rail rifle? The order reads "
+"FULFILLED."
+msgstr ""
+
+#: .\items\gun.json
+msgid "Survivor machined belt-fed shotgun"
+msgid_plural "Survivor machined belt-fed shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun.json
+msgid ""
+"This is a professional-looking homemade machine-shotgun made to take custom,"
+" high-quality shotshell belts. It has semi, burst and full-auto fire modes "
+"and many rails for modification beyond its already-solid foundation. This "
+"was definitely made with love and care, and even makes a decent bashing "
+"implement if push comes to shove."
+msgstr ""
+
+#: .\items\gun.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\items\gun.json
+msgid "2 rd."
+msgstr ""
+
+#: .\items\gun.json
+msgid "auto"
+msgstr ""
+
+#: .\items\gun.json
+msgid "Survivor machined shotgun revolver"
+msgid_plural "Survivor machined shotgun revolvers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun.json
+msgid ""
+"This is a massive, professional-looking revolver chambered in full-size "
+"shotshells. It's made nearly entirely of steel to be as weighty as possible "
+"to absorb recoil, and comes with many attachment points for modifications. "
+"This was definitely made with love and care, and even makes a decent bashing"
+" implement if push comes to shove."
+msgstr ""
+
+#: .\items\gun.json
+msgid "Survivor rail rifle"
+msgid_plural "Survivor rail rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun.json
+msgid ""
+"This overpowered and overengineered, professional-looking and MASSIVE rifle "
+"was designed to deliver electromagnetically-driven obliteration right "
+"through whatever obstacle that lies in front of it, be it building, vehicle "
+"or a horde of walking dead.  However, the hefty bulk and weight of this "
+"weapon compared to most contemporary rifles makes it somewhat cumbersome to "
+"wield; not to mention that it consumes UPS charges at a tremendous rate, "
+"making it impractical for use in prolonged engagements. Either way, this was"
+" definitely made with love and care."
+msgstr ""
+
+#: .\items\gunmod.json
+msgid "underbarrel axehead"
+msgid_plural "underbarrel axeheads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod.json
+msgid ""
+"This is a stout axehead, like one on the end of a medieval battleaxe. It has"
+" a railed handle on the back, so you could attach it to a gun to make it a "
+"very dangerous, if unwieldy, melee weapon."
+msgstr ""
+
+#: .\items\items.json
+msgid "lathing rig"
+msgid_plural "lathing rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'lathing rig'}
+#: .\items\items.json
+msgid ""
+"This is a very large lathing rig, including tools aside from the big "
+"rotating bit. It runs on batteries and will allow you to lathe anything from"
+" fancy table legs to precision gun receivers, albeit inefficiently."
+msgstr ""
+
+#: .\items\items.json
+msgid "machining rig"
+msgid_plural "machining rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'machining rig'}
+#: .\items\items.json
+msgid ""
+"This is a neatly arranged, self-contained workbench kit of various precision"
+" machining and metalworking tools, from handheld to integrated. Some things "
+"can be used without power, but the heavy duty built-in tools will require "
+"batteries."
+msgstr ""
+
+#: .\items\items.json
+msgid "shotshell ammo belt linkage"
+msgid_plural "shotshell ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\magazines.json
+msgid "metal shotshell ammo belt"
+msgid_plural "metal shotshell ammo belts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\melee.json
+msgid "survivor sledge"
+msgid_plural "survivor sledges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor sledge'}
+#: .\items\melee.json
+msgid ""
+"A highly customized sledgehammer with carefully-placed rubber along the "
+"handle and a wicked-looking steel head, sharp on one end and square on "
+"another. Designed for post-apocalyptic swinging pleasure, though you could "
+"also use it as a clumsy tool."
+msgstr ""
+
+#: .\items\melee.json
+msgid "survivor claymore"
+msgid_plural "survivor claymores"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor claymore'}
+#: .\items\melee.json
+msgid ""
+"This is a ridiculously large and heavy custom-made sword. If you can get it "
+"moving, you can destroy anything."
+msgstr ""
+
+#: .\items\melee.json
+msgid "survivor flail"
+msgid_plural "survivor flails"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor flail'}
+#: .\items\melee.json
+msgid ""
+"A highly customized, two-handed flail with carefully-placed rubber along the"
+" handle and a wicked-looking steel head, slightly spiked, mostly blunt, and "
+"very heavy. The chain is long enough to make using this a complicated "
+"endeavor, but if used properly by a skilled survivor, it could probably "
+"crush a skull or five."
+msgstr ""
+
+#: .\items\melee.json
+msgid "survivor fighting gauntlet"
+msgid_plural "survivor fighting gauntlets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor fighting gauntlet', 'str_pl': 'survivor
+#. fighting gauntlets'}
+#: .\items\melee.json
+msgid ""
+"A customized metal gauntlet resembling a flanged mace, strapped securely to "
+"one's hand. Strange to get used to, but it will wildly improve punching "
+"power."
+msgstr ""
+
+#: .\monsters\monsters.json
+msgid "monstrous zombie technician"
+msgid_plural "monstrous zombie technicians"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'monstrous zombie technician'}
+#: .\monsters\monsters.json
+msgid ""
+"A terrifying goliath, forced to hunch over by the weight of improvised "
+"conveyor belt armor on its back. It could rival a semi-truck and win."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "an EARTHSHAKING roar!!!"
+msgstr ""
+
+#: .\overmap\overmap_terrain_artisan.json
+msgid "artisan metalworks"
+msgstr ""
+
+#: .\overmap\overmap_terrain_artisan.json
+msgid "artisan metalworks roof"
+msgstr ""

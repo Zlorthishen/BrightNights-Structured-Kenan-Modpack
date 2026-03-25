@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: pneumo_fun\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Pneumatic fun"
+msgstr "氣動樂趣"
+
+#. ~ Description for Pneumatic fun
+#: .\modinfo.json
+msgid "Adds strong craftable pebbles for pneumatic weapons"
+msgstr "為氣動武器添加可製作的強力鵝卵石"
+
+#: .\Items\Ammo.json .\Items\Ammo_types.json
+msgid "modified mininuke"
+msgid_plural "modified mininukes"
+msgstr[0] "改裝微型核彈"
+
+#. ~ Description for {'str': 'modified mininuke'}
+#: .\Items\Ammo.json
+msgid ""
+"A heavily modified handheld nuclear device on a rocket.  Intended to be "
+"fired from a specialized launcher, it has been rigged to explode on impact "
+"instead of on a timer.  It can fly further than the explosion will reach, "
+"probably."
+msgstr "一枚經過大幅改裝的火箭式手持核裝置。原本設計用於專用發射器發射，現被改裝為撞擊引爆而非定時引爆。它的飛行距離可能遠超爆炸範圍。"
+
+#: .\Items\Ammo.json
+msgid "Iron-coated pebble"
+msgid_plural "Iron-coated pebbles"
+msgstr[0] "鐵包覆鵝卵石"
+
+#. ~ Description for {'str': 'Iron-coated pebble'}
+#: .\Items\Ammo.json
+msgid ""
+"Pebble - Mark II, needs some time and special equipment to create but "
+"totally worth it if you want to step up your armor-piercing game with "
+"pneumatics"
+msgstr "鵝卵石 - Mark II，需要一些時間和特殊設備來製作，但如果你想在氣動武器上提升穿甲能力，這完全值得。"
+
+#: .\Items\Ammo.json
+msgid "Iron-coated clay pellet"
+msgid_plural "Iron-coated clay pellets"
+msgstr[0] "鐵包覆粘土彈丸"
+
+#. ~ Description for {'str': 'Iron-coated clay pellet'}
+#: .\Items\Ammo.json
+msgid ""
+"A clay pellet coated with iron - Mark II, needs some time and special "
+"equipment to create but totally worth it if you want to step up your armor-"
+"piercing game with pneumatics that use pebble ammo."
+msgstr "鐵包覆的粘土彈丸 - Mark II，需要一些時間和特殊設備來製作，但如果你想在使用鵝卵石彈藥的氣動武器上提升穿甲能力，這完全值得。"
+
+#: .\Items\Ammo.json
+msgid "Bone-coated pebble"
+msgid_plural "Bone-coated pebbles"
+msgstr[0] "骨包覆鵝卵石"
+
+#. ~ Description for {'str': 'Bone-coated pebble'}
+#: .\Items\Ammo.json
+msgid ""
+"Pebble - Mark III, you've already seen Skeletal Juggernauts, right?Well this"
+" is basically miniature version of it - bone coating infused with blob, for "
+"some reason this strange infusion works quite well when you coat the normal "
+"pebbles with it"
+msgstr ""
+"鵝卵石 - Mark "
+"III，你已經見過骷髏巨像了吧？嗯，這基本上是它的微型版本——骨塗層中注入了粘液，不知為何，這種奇怪的注入物在塗覆普通鵝卵石時效果相當好。"
+
+#: .\Items\Ammo.json
+msgid "Alloy-coated pebble"
+msgid_plural "Alloy-coated pebbles"
+msgstr[0] "合金包覆鵝卵石"
+
+#. ~ Description for {'str': 'Alloy-coated pebble'}
+#: .\Items\Ammo.json
+msgid ""
+"Pebble - Mark IV, much deadlier but harder to craft version of 'Pebble - "
+"Mark ii', synthesis of rigid alloy and living blob truly makes this ammo "
+"spectacular, peculiar even, who would have thought that blob can be turned "
+"into living ammo?"
+msgstr ""
+"鵝卵石 - Mark IV，比'鵝卵石 - Mark "
+"II'更致命但更難製作的版本，剛性合金與活體粘液的合成真正使這種彈藥變得驚人，甚至奇特，誰能想到粘液可以變成活體彈藥？"

@@ -1,0 +1,3069 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ETC_handguns_etc\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\ammo_types.json
+msgid "1.06mm magmetal glass"
+msgstr ""
+
+#: .\ammo_types.json
+msgid ".22 electrothermal"
+msgstr ""
+
+#: .\ammo_types.json
+msgid "5.56 electrothermal"
+msgstr ""
+
+#: .\ammo_types.json
+msgid "7.62x51mm electrothermal"
+msgstr ""
+
+#: .\ammo_types.json
+msgid "9x19mm electrothermal"
+msgstr ""
+
+#: .\ammo_types.json .\items\ammo\magpin.json
+msgid "magpin"
+msgid_plural "magpins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\materials.json
+msgid "Magnetic Metal Glass"
+msgstr ""
+
+#: .\materials.json
+msgid "dented"
+msgstr ""
+
+#: .\materials.json
+msgid "scratched"
+msgstr ""
+
+#: .\materials.json
+msgid "marked"
+msgstr ""
+
+#: .\materials.json
+msgid "smashed"
+msgstr ""
+
+#: .\materials.json
+msgid "shattered"
+msgstr ""
+
+#: .\materials.json
+msgid "Tungsten"
+msgstr ""
+
+#: .\materials.json
+msgid "Depleted Uranium"
+msgstr ""
+
+#: .\modinfo.json
+msgid "ETC Handguns etc"
+msgstr ""
+
+#. ~ Description for ETC Handguns etc
+#: .\modinfo.json
+msgid ""
+"Adds new high muzzle velocity, UPS-consuming guns ammo of which can be hand-"
+"loaded mostly from disassembled same-caliber conventional bullets, etc. "
+"INCLUDES PATCH OPTION in gun folder which is in items folder to disable "
+"overriding of core game guns."
+msgstr ""
+
+#: .\mountains_of_madness.json
+msgid "shoggoth"
+msgid_plural "shoggoths"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "OmniCorp Executive"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "OmniCorp Executive"
+msgstr ""
+
+#. ~ Profession (male OmniCorp Executive) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a VIP at OmniCorp attending a formal party when one of the guests "
+"tore the face of another executive off. You survived, used your status to "
+"\"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#. ~ Profession (female OmniCorp Executive) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a VIP at OmniCorp attending a formal party when one of the guests "
+"tore the face of another executive off. You survived, used your status to "
+"\"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Rivtech Executive"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Rivtech Executive"
+msgstr ""
+
+#. ~ Profession (male Rivtech Executive) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a VIP at Rivtech attending a formal party when one of the guests "
+"tore the face of another executive off. You survived, used your status to "
+"\"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#. ~ Profession (female Rivtech Executive) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a VIP at Rivtech attending a formal party when one of the guests "
+"tore the face of another executive off. You survived, used your status to "
+"\"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Leadworks Executive"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Leadworks Executive"
+msgstr ""
+
+#. ~ Profession (male Leadworks Executive) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a VIP at Leadworks LLC attending a formal party when one of the "
+"guests tore the face of another executive off. You survived, used your "
+"status to \"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#. ~ Profession (female Leadworks Executive) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a VIP at Leadworks LLC attending a formal party when one of the "
+"guests tore the face of another executive off. You survived, used your "
+"status to \"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Aerial Labs Executive"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Aerial Labs Executive"
+msgstr ""
+
+#. ~ Profession (male Aerial Labs Executive) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a VIP at Aerial Labs attending a formal party when one of the "
+"guests tore the face of another executive off. You survived, used your "
+"status to \"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#. ~ Profession (female Aerial Labs Executive) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a VIP at Aerial Labs attending a formal party when one of the "
+"guests tore the face of another executive off. You survived, used your "
+"status to \"borrow\" some useful products and are determined to not give up."
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Corporate Spymaster"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Corporate Spymaster"
+msgstr ""
+
+#. ~ Profession (male Corporate Spymaster) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Few can \"share\" trade secrets like you, who worked for many corporations, "
+"from Aerial Labs to Rivtech, switching sides more than once. Wisely using "
+"your skills, you \"borrowed\" some of their products as the cataclysm "
+"started."
+msgstr ""
+
+#. ~ Profession (female Corporate Spymaster) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Few can \"share\" trade secrets like you, who worked for many corporations, "
+"from Aerial Labs to Rivtech, switching sides more than once. Wisely using "
+"your skills, you \"borrowed\" some of their products as the cataclysm "
+"started."
+msgstr ""
+
+#. ~ Name for scenario 'Hostile Takeover' for a male character
+#: .\scenarios.json
+msgctxt "scenario_male"
+msgid "Hostile Takeover"
+msgstr ""
+
+#. ~ Name for scenario 'Hostile Takeover' for a female character
+#: .\scenarios.json
+msgctxt "scenario_female"
+msgid "Hostile Takeover"
+msgstr ""
+
+#. ~ Description for scenario 'Hostile Takeover' for a male character.
+#: .\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You made it to the relative safety of an apparently quiet abandoned office "
+"tower. You tried to reach the higher floors but an ID card reader is on your"
+" way. After a sleeping on a swivel chair, you woke up to screams all around."
+msgstr ""
+
+#. ~ Description for scenario 'Hostile Takeover' for a female character.
+#: .\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You made it to the relative safety of an apparently quiet abandoned office "
+"tower. You tried to reach the higher floors but an ID card reader is on your"
+" way. After a sleeping on a swivel chair, you woke up to screams all around."
+msgstr ""
+
+#. ~ Starting location for scenario 'Hostile Takeover'.
+#: .\scenarios.json
+msgctxt "start_name"
+msgid "Office Tower"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge-Vault Newcomer' for a male character
+#: .\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge-Vault Newcomer"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge-Vault Newcomer' for a female character
+#: .\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge-Vault Newcomer"
+msgstr ""
+
+#. ~ Description for scenario 'Challenge-Vault Newcomer' for a male character.
+#: .\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You were very important to an influential corporation with ties to the "
+"government, earning you a place in a self-sufficient Vault should the worst "
+"happen. You arrived later than most who knew of it. Something seems very, "
+"very wrong."
+msgstr ""
+
+#. ~ Description for scenario 'Challenge-Vault Newcomer' for a female
+#. character.
+#: .\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You were very important to an influential corporation with ties to the "
+"government, earning you a place in a self-sufficient Vault should the worst "
+"happen. You arrived later than most who knew of it. Something seems very, "
+"very wrong."
+msgstr ""
+
+#. ~ Starting location for scenario 'Challenge-Vault Newcomer'.
+#: .\scenarios.json
+msgctxt "start_name"
+msgid "Vault"
+msgstr ""
+
+#: .\snippets.json
+msgid ""
+"This is an advertisement for OmniCorp \"miniguns\".  It shows a picture of a"
+" soldier shoulder firing a N8 Nanogun with an ammo belt, whose legs are "
+"hidden inside a massive pile of spent .22 LR casings surrounding him, and is"
+" also visibly carrying an UPS linked to the gun.  The caption reads: \"When "
+"only a thousand bullets will do it, the N8 Nanogun got you covered. OmniCorp"
+" Products.\""
+msgstr ""
+
+#: .\snippets.json
+msgid ""
+"This is an advertisement for OmniCorp submachineguns.  It shows a picture of"
+" a commando with a O2038SD, casings leaving it but no muzzle flash or other "
+"sign it is being fired.  The caption reads: \"The O2038 submachinegun, tried"
+" and approved by many special forces, is also available in 9mm ETC for more "
+"stopping power. Now available for police*. OmniCorp Products. *Silenced "
+"O2038 models may not yet be available in your state.\""
+msgstr ""
+
+#: .\snippets.json
+msgid ""
+"This is an advertisement for OmniCorp handguns.  It shows a picture of a "
+"soldier in power armor with a very large revolver aimed skywards. A burning "
+"and crashing attack helicopter is in the background.  The caption reads: "
+"\"Anti-Materiel Revolver: truly the most powerful handgun of the world. "
+"OmniCorp Products.\" in a much smaller font, it ends with the following "
+"note: \"Depicted scenario only plausible with computerized fire control "
+"systems integrated to power armor HUD.\""
+msgstr ""
+
+#: .\snippets.json
+msgid ""
+"This is an advertisement for OmniCorp electrothermal-chemical ammunition.  "
+"It shows several steel plates with small holes and a smoke trail passing "
+"through all of them.  Nearby is a disassembled round with its tiny flechette"
+" highlighted.  The caption reads:  \"7.62x51mm EC Orbital. Gotta go fast... "
+"faster than the International Space Station. OmniCorp Products.\" in a much "
+"smaller font, it ends with the following note: \"Tested in light-gas gun "
+"with hydrogen-filled barrel.\""
+msgstr ""
+
+#: .\snippets.json
+msgid ""
+"ANTI-TRUST LAW STOPS MERGER: The so called Omni Consumer Products, which "
+"would incorporate Leadworks LLC, OmniCorp and Rivtech, was blocked. While "
+"such decision might be reverted by the Supreme Court, for now this corporate"
+" behemoth which would become larger than many past monopolies together "
+"exists only on paper."
+msgstr ""
+
+#: .\start_locations.json
+msgid "Office Tower"
+msgstr ""
+
+#: .\start_locations.json
+msgid "Vault Entrance"
+msgstr ""
+
+#: .\items\ammolink.json
+msgid ".22 ETC ammo belt linkage"
+msgid_plural ".22 ETC ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammolink.json
+msgid "5.56 ETC ammo belt linkage"
+msgid_plural "5.56 ETC ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammolink.json
+msgid "9mm ETC ammo belt linkage"
+msgid_plural "9mm ETC ammo belt linkages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\components.json
+msgid "extracted 5.56x45mm OCG Blackout"
+msgid_plural "extracted 5.56x45mm OCG Blackouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted 5.56x45mm OCG Blackout'}
+#: .\items\components.json
+msgid ""
+"131gr projectile of a 5.56x45mm OCG Blackout round removed from its casing. "
+"Cannot be put back. Perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "unused .22 ETC casing"
+msgid_plural "unused .22 ETC casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'unused .22 ETC casing'}
+#: .\items\components.json
+msgid ""
+"An unfired, like-new .22 ETC round casing, with the plasma cartridge still "
+"intact."
+msgstr ""
+
+#: .\items\components.json
+msgid "extracted .22 ETC TB"
+msgid_plural "extracted .22 ETC TBs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted .22 ETC TB'}
+#: .\items\components.json
+msgid ""
+"100gr projectile of a .22 ETC TB round removed from its casing. Cannot be "
+"put back, perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "extracted .22 ETC micro-flechette"
+msgid_plural "extracted .22 ETC micro-flechettes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted .22 ETC micro-flechette'}
+#: .\items\components.json
+msgid ""
+"9gr micro-flechette of a .22 ETC round removed from its plastic capsule. "
+"Cannot be put back and is too tiny for nail guns. Perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "extracted 5.56mm ETC SAP"
+msgid_plural "extracted 5.56mm ETC SAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted 5.56mm ETC SAP'}
+#: .\items\components.json
+msgid ""
+"154gr projectile of a 5.56 ETC SAP or 5.56 OCG Blackout round removed from "
+"its casing. Cannot be put back. Perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "extracted 9mm ETC HAPM"
+msgid_plural "extracted 9mm ETC HAPMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted 9mm ETC HAPM'}
+#: .\items\components.json
+msgid ""
+"40gr projectile of a 9mm ETC HAPM round removed from its casing. Cannot be "
+"put back or further disassembled. Perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "extracted 9mm ETC SAP"
+msgid_plural "extracted 9mm ETC SAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'extracted 9mm ETC SAP'}
+#: .\items\components.json
+msgid ""
+"262gr projectile of a 9mm ETC SAP round removed from its casing. Cannot be "
+"put back. Perhaps may yet be useful."
+msgstr ""
+
+#: .\items\components.json
+msgid "small pistol plasma cartridge"
+msgid_plural "small pistol plasma cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'small pistol plasma cartridge'}
+#: .\items\components.json
+msgid "Plasma cartridge from a small electrothermal-chemical pistol round."
+msgstr ""
+
+#: .\items\components.json
+msgid "small rifle plasma cartridge"
+msgid_plural "small rifle plasma cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'small rifle plasma cartridge'}
+#: .\items\components.json
+msgid "Plasma cartridge from a small electrothermal-chemical rifle round."
+msgstr ""
+
+#: .\items\components.json
+msgid "large rifle plasma cartridge"
+msgid_plural "large rifle plasma cartridges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large rifle plasma cartridge'}
+#: .\items\components.json
+msgid "Plasma cartridge from a large electrothermal-chemical rifle round."
+msgstr ""
+
+#: .\items\components.json
+msgid "rifle nanoreactor"
+msgid_plural "rifle nanoreactors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rifle nanoreactor'}
+#: .\items\components.json
+msgid ""
+"A liquid core reactor with milliseconds of operational lifetime that fits "
+"inside a large rifle round case, it has enough power for one shot in an "
+"electrothermal-chemical weapon."
+msgstr ""
+
+#: .\items\components.json
+msgid "handmade rifle nanoreactor"
+msgid_plural "handmade rifle nanoreactors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'handmade rifle nanoreactor'}
+#: .\items\components.json
+msgid ""
+"A liquid core reactor with milliseconds of operational lifetime that fits "
+"inside a large rifle round case for UPS-free electrothermal operation. The "
+"product of either a genius or insane survivor atomic scientist, but not "
+"both; radiation poisoning will likely doom its maker"
+msgstr ""
+
+#: .\items\components.json
+msgid "dosed plutonium slurry"
+msgid_plural "dosed plutonium slurrys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dosed plutonium slurry'}
+#: .\items\components.json
+msgid ""
+"A tiny dose of highly radioactive slurry from a nanoreactor, which could be "
+"used to craft a self-charged 7.62mm electrothermal-chemical round. Maybe you"
+" should give up and get far away from this instead."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-ADS conversion pack"
+msgid_plural "OCG ER555-ADS conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-ADS conversion pack', 'str_pl': 'OCG
+#. ER555-ADS conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Anti-Drone Sniper conversion kit, recommended "
+"accessories and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-ADS conversion kit"
+msgid_plural "OCG ER555-ADS conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-ADS conversion kit', 'str_pl': 'OCG
+#. ER555-ADS conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to an Anti-Drone Sniper, a long "
+"range drone killer. In order to reconfigure an already-configured ER555, "
+"you'll need to disassemble it to the base model, then assemble with the "
+"parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-CAR conversion pack"
+msgid_plural "OCG ER555-CAR conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-CAR conversion pack', 'str_pl': 'OCG
+#. ER555-CAR conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Carbine conversion kit, recommended accessories "
+"and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-CAR conversion kit"
+msgid_plural "OCG ER555-CAR conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-CAR conversion kit', 'str_pl': 'OCG
+#. ER555-CAR conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to a Carbine, a jack-of-all-"
+"trades.  In order to reconfigure an already-configured ER555, you'll need to"
+" disassemble it to the base model, then assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-CQB conversion pack"
+msgid_plural "OCG ER555-CQB conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-CQB conversion pack', 'str_pl': 'OCG
+#. ER555-CQB conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Close Quarters Battle conversion kit, recommended "
+"accessories and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-CQB conversion kit"
+msgid_plural "OCG ER555-CQB conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-CQB conversion kit', 'str_pl': 'OCG
+#. ER555-CQB conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to Close Quarters Battle "
+"configuration, an all-in-one firearm and polearm good in both roles.  In "
+"order to reconfigure an already-configured ER555, you'll need to disassemble"
+" it to the base model, then assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-SAW conversion pack"
+msgid_plural "OCG ER555-SAW conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-SAW conversion pack', 'str_pl': 'OCG
+#. ER555-SAW conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Squad Automatic Weapon conversion kit, recommended"
+" accessories and one ammo belt in a separate fireproof container. Activate "
+"or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-SAW conversion kit"
+msgid_plural "OCG ER555-SAW conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-SAW conversion kit', 'str_pl': 'OCG
+#. ER555-SAW conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to a Squad Automatic Weapon, "
+"which also serves as battle rifle. In order to reconfigure an already-"
+"configured ER555, you'll need to disassemble it to the base model, then "
+"assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-SR conversion pack"
+msgid_plural "OCG ER555-SR conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-SR conversion pack', 'str_pl': 'OCG
+#. ER555-SR conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Sniper Rifle conversion kit, recommended "
+"accessories and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-SR conversion kit"
+msgid_plural "OCG ER555-SR conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-SR conversion kit', 'str_pl': 'OCG
+#. ER555-SR conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to a Sniper Rifle, highly "
+"accurate within its effective range. In order to reconfigure an already-"
+"configured ER555, you'll need to disassemble it to the base model, then "
+"assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-UDD conversion pack"
+msgid_plural "OCG ER555-UDD conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-UDD conversion pack', 'str_pl': 'OCG
+#. ER555-UDD conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 Urban Drone Destroyer conversion kit, recommended "
+"accessories, some grenades and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER555-UDD conversion kit"
+msgid_plural "OCG ER555-UDD conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER555-UDD conversion kit', 'str_pl': 'OCG
+#. ER555-UDD conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert an ER555 to an Urban Drone Destroyer, "
+"OmniCorp's close-quarters drone killer.  In order to reconfigure an already-"
+"configured ER555, you'll need to disassemble it to the base model, then "
+"assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER-QR555 conversion pack"
+msgid_plural "OCG ER-QR555 conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER-QR555 conversion pack', 'str_pl': 'OCG
+#. ER-QR555 conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with an ER555 to QR555 Battle Rifle conversion kit, recommended "
+"accessories, grenades and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG ER-QR555 conversion kit"
+msgid_plural "OCG ER-QR555 conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG ER-QR555 conversion kit', 'str_pl': 'OCG ER-
+#. QR555 conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a base Electrothermal Rifle 555 to a "
+"purely chemical propelled, integrally suppressed \"Quiet\" Rifle 555.  In "
+"order to convert an already-configured ER555 to QR555, you'll need to "
+"disassemble it to the base model first. The QR555 has its own line of "
+"conversion kits."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-CAR conversion pack"
+msgid_plural "OCG QR555-CAR conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-CAR conversion pack', 'str_pl': 'OCG
+#. QR555-CAR conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with a QR555 Carbine conversion kit, recommended accessories and"
+" magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-CAR conversion kit"
+msgid_plural "OCG QR555-CAR conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-CAR conversion kit', 'str_pl': 'OCG
+#. QR555-CAR conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a QR555 to a Carbine, a short ranged "
+"jack-of-all-trades.  In order to reconfigure an already-configured QR555, "
+"you'll need to disassemble it to the base model, then assemble with the "
+"parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-SMG conversion pack"
+msgid_plural "OCG QR555-SMG conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-SMG conversion pack', 'str_pl': 'OCG
+#. QR555-SMG conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with a QR555 Submachinegun conversion kit, recommended "
+"accessories and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-SMG conversion kit"
+msgid_plural "OCG QR555-SMG conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-SMG conversion kit', 'str_pl': 'OCG
+#. QR555-SMG conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a QR555 to a Submachinegun, sort of like "
+"a suppressed P90 on steroids with bayonet. In order to reconfigure an "
+"already-configured QR555, you'll need to disassemble it to the base model, "
+"then assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-DMR conversion pack"
+msgid_plural "OCG QR555-DMR conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-DMR conversion pack', 'str_pl': 'OCG
+#. QR555-DMR conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with a QR555 Designated Marksman Rifle conversion kit, "
+"recommended accessories and magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-DMR conversion kit"
+msgid_plural "OCG QR555-DMR conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-DMR conversion kit', 'str_pl': 'OCG
+#. QR555-DMR conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a QR555 to a Designated Marksman Rifle, "
+"highly accurate with any ammo and \"silent\" with subsonic rounds. In order "
+"to reconfigure an already-configured QR555, you'll need to disassemble it to"
+" the base model, then assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-SAW conversion pack"
+msgid_plural "OCG QR555-SAW conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-SAW conversion pack', 'str_pl': 'OCG
+#. QR555-SAW conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with a QR555 Squad Automatic Weapon conversion kit, recommended "
+"accessories and one ammo belt assembly kit for up to 500 subsonic rounds in "
+"a separate fireproof container. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR555-SAW conversion kit"
+msgid_plural "OCG QR555-SAW conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR555-SAW conversion kit', 'str_pl': 'OCG
+#. QR555-SAW conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a QR555 to a Squad Automatic Weapon, sort"
+" of like a suppressed P90 on double steroids with bipod. In order to "
+"reconfigure an already-configured ER555, you'll need to disassemble it to "
+"the base model, then assemble with the parts you prefer."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR-ER555 conversion pack"
+msgid_plural "OCG QR-ER555 conversion packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR-ER555 conversion pack', 'str_pl': 'OCG
+#. QR-ER555 conversion packs'}
+#: .\items\kits.json
+msgid ""
+"A briefcase with a QR555 to ER555 Battle Rifle conversion kit and "
+"recommended magazines. Activate or disassemble to unpack."
+msgstr ""
+
+#: .\items\kits.json
+msgid "OCG QR-ER555 conversion kit"
+msgid_plural "OCG QR-ER555 conversion kits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG QR-ER555 conversion kit', 'str_pl': 'OCG QR-
+#. ER555 conversion kits'}
+#: .\items\kits.json
+msgid ""
+"All the parts necessary to convert a \"Quiet\" Rifle 555 to a louder, UPS-"
+"consuming and more powerful Electrothermal Rifle 555.  In order to convert "
+"an already-configured QR555 to ER555, you'll need to disassemble it to the "
+"base model first. The ER555 has its own line of conversion kits."
+msgstr ""
+
+#: .\items\tool_armor.json
+msgid "barrette pick"
+msgid_plural "barrette picks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'barrette pick'}
+#: .\items\tool_armor.json
+msgid ""
+"A barrette with lots of ornament and hidden locksmith tools. Their quality "
+"is too good for a novelty item or prop. This might be a true spy gadget."
+msgstr ""
+
+#: .\items\tool_armor.json
+msgid "tie clip pick"
+msgid_plural "tie clip picks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tie clip pick'}
+#: .\items\tool_armor.json
+msgid ""
+"A tie clip with hidden locksmith tools. Their quality is too good for a "
+"novelty item or prop. This might be a true spy gadget."
+msgstr ""
+
+#: .\items\ammo\1magmg.json
+msgid "1.06mm magmg"
+msgid_plural "1.06mm magmgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '1.06mm magmg'}
+#: .\items\ammo\1magmg.json
+msgid ""
+"1g magnetic metal glass flechette for the GG285 Gauss Gun by OmniCorp. Its "
+"amorphous metal alloy has better magnetic qualities than cobalt or iron but "
+"is extremely expensive."
+msgstr ""
+
+#: .\items\ammo\223.json
+msgid "5.56x45mm  OCG Blackout"
+msgid_plural "5.56x45mm  OCG Blackouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56x45mm  OCG Blackout'}
+#: .\items\ammo\223.json
+msgid ""
+"5.56x45mm ammunition with subsonic 131gr tungsten bullets, a civilian/PDW "
+"version of the heavier 5.56 OCG Blackout. Trades range and power for low "
+"recoil, noise and good armor penetration."
+msgstr ""
+
+#: .\items\ammo\223.json
+msgid "5.56 OCG Blackout"
+msgid_plural "5.56 OCG Blackouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 OCG Blackout'}
+#: .\items\ammo\223.json
+msgid ""
+"5.56x45mm ammunition with subsonic 154gr depleted uranium bullets. While "
+"weaker and shorter ranged than dedicated subsonic rounds such as 9x39mm, "
+"they are more compact and can cut armor like a hot knife through butter."
+msgstr ""
+
+#: .\items\ammo\22etc.json
+msgid ".22 ETC TB"
+msgid_plural ".22 ETC TBs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 ETC TB'}
+#: .\items\ammo\22etc.json
+msgid ""
+".22 Electrothermal-chemical ammunition with subsonic 100gr tungsten ball "
+"bullets designed for the Stealth MP. Designed for stopping power and "
+"'silence' first, armor penetration second."
+msgstr ""
+
+#: .\items\ammo\22etc.json
+msgid ".22 ETC HP"
+msgid_plural ".22 ETC HPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 ETC HP'}
+#: .\items\ammo\22etc.json
+msgid ""
+".22 Electrothermal-chemical ammunition with 33gr hollow point bullets. "
+"Higher muzzle velocity than .22 LR and great stopping power for such a small"
+" round. It becomes relatively 'silent' when fired from specialized guns."
+msgstr ""
+
+#: .\items\ammo\22etc.json
+msgid ".22 ETC APM"
+msgid_plural ".22 ETC APMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 ETC APM'}
+#: .\items\ammo\22etc.json
+msgid ""
+".22 Electrothermal-chemical ammunition with 42gr armor-piercing match "
+"bullets. Great range and armor penetration for a small handgun round but low"
+" stopping power."
+msgstr ""
+
+#: .\items\ammo\22etc.json
+msgid ".22 ETC micro-flechette"
+msgid_plural ".22 ETC micro-flechettes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 ETC micro-flechette'}
+#: .\items\ammo\22etc.json
+msgid ""
+"A .22 Electrothermal-chemical cartridge loaded with tiny tungsten flechettes"
+" contained within a fragmenting plastic capsule. Short range, very low "
+"stopping power but it can hit targets and penetrate armor with greater ease."
+msgstr ""
+
+#: .\items\ammo\22etc.json
+msgid "handloaded .22 ETC HP"
+msgid_plural "handloaded .22 ETC HPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\22etc.json
+msgid "handloaded .22 ETC APM"
+msgid_plural "handloaded .22 ETC APMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\556etc.json
+msgid "5.56 DK"
+msgid_plural "5.56 DKs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 DK'}
+#: .\items\ammo\556etc.json
+msgid ""
+"5.56x45mm electrothermal-chemical ammunition with 16gr drone killer bullets."
+" A hypervelocity round with great range, armor penetration and accuracy, "
+"useful for designated marksman and battle rifles."
+msgstr ""
+
+#: .\items\ammo\556etc.json
+msgid "5.56 Electro Blackout"
+msgid_plural "5.56 Electro Blackouts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 Electro Blackout'}
+#: .\items\ammo\556etc.json
+msgid ""
+"Test item. A preternaturally dense, subsonic 5.56x45mm electrothermal-"
+"chemical ammunition with 1466gr AP bullets made from some extradimensional "
+"unobtainium."
+msgstr ""
+
+#: .\items\ammo\556etc.json
+msgid "5.56 SAP"
+msgid_plural "5.56 SAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 SAP'}
+#: .\items\ammo\556etc.json
+msgid ""
+"5.56x45mm electrothermal-chemical ammunition with a depleted uranium 154gr "
+"subsonic armor piercing bullet. OCG quickly adapted this round to "
+"conventional 5.56 NATO and kept producing both before the Cataclysm."
+msgstr ""
+
+#: .\items\ammo\556etc.json
+msgid "5.56 DK tracer"
+msgid_plural "5.56 DK tracers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 DK tracer'}
+#. ~ Description for {'str': '7.62x51mm EC HV tracer'}
+#: .\items\ammo\556etc.json .\items\ammo\762ec.json
+msgid ""
+"This ammunition is a one-in-five mix of tracer rounds to help keep the "
+"weapon they are fired from on target."
+msgstr ""
+
+#: .\items\ammo\556etc.json
+msgid "reloaded 5.56 DK"
+msgid_plural "reloaded 5.56 DKs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\556etc.json
+msgid "reloaded 5.56 DK tracer"
+msgid_plural "reloaded 5.56 DK tracers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\762ec.json
+msgid "7.62x51mm EC orbital"
+msgid_plural "7.62x51mm EC orbitals"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm EC orbital'}
+#: .\items\ammo\762ec.json
+msgid ""
+"7.62x51mm electrothermal, electrically charged round with a discarding sabot"
+" encasing a 4gr microflechette and an integrated liquid core nanoreactor "
+"replacing an UPS. Its microflechette accelerates to the point of spontaneous"
+" combustion."
+msgstr ""
+
+#: .\items\ammo\762ec.json
+msgid "7.62x51mm EC HV"
+msgid_plural "7.62x51mm EC HVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm EC HV'}
+#: .\items\ammo\762ec.json
+msgid ""
+"7.62x51mm electrothermal, electrically charged round with a 54gr "
+"hypervelocity bullet and a liquid core nanoreactor replacing an UPS."
+msgstr ""
+
+#: .\items\ammo\762ec.json
+msgid "7.62x51mm EC HV tracer"
+msgid_plural "7.62x51mm EC HV tracers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\762ec.json
+msgid "handloaded 7.62x51mm EC orbital"
+msgid_plural "handloaded 7.62x51mm EC orbitals"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\762ec.json
+msgid "handloaded 7.62x51mm EC HV"
+msgid_plural "handloaded 7.62x51mm EC HVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\762ec.json
+msgid "handloaded 7.62x51mm EC HV tracer"
+msgid_plural "handloaded 7.62x51mm EC HV tracers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\762ec.json
+msgid "reloaded 7.62x51mm EC orbital"
+msgid_plural "reloaded 7.62x51mm EC orbitals"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reloaded 7.62x51mm EC orbital'}
+#: .\items\ammo\762ec.json
+msgid ""
+"7.62x51mm electrothermal, electrically charged round with a discarding sabot"
+" encasing a 4gr microflechette and integrated handmade radioactive hazard "
+"replacing an UPS. Its microflechette accelerates to the point of spontaneous"
+" combustion. Dangerous to shooter and targets alike."
+msgstr ""
+
+#: .\items\ammo\762ec.json
+msgid "reloaded 7.62x51mm EC HV"
+msgid_plural "reloaded 7.62x51mm EC HVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reloaded 7.62x51mm EC HV'}
+#: .\items\ammo\762ec.json
+msgid ""
+"7.62x51mm electrothermal, electrically charged round with a 54gr "
+"hypervelocity bullet and a handmade radioactive hazard replacing an UPS. "
+"Dangerous to shooter and targets alike."
+msgstr ""
+
+#: .\items\ammo\762ec.json
+msgid "reloaded 7.62x51mm EC HV tracer"
+msgid_plural "reloaded 7.62x51mm EC HV tracers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'reloaded 7.62x51mm EC HV tracer'}
+#: .\items\ammo\762ec.json
+msgid ""
+"7.62x51mm electrothermal, electrically charged round with a 54gr "
+"hypervelocity bullet, a handmade radioactive hazard replacing an UPS, plus "
+"an one-in-five mix of tracer rounds. Dangerous to shooter and targets alike."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "9x19mm ETC HVHP"
+msgid_plural "9x19mm ETC HVHPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19mm ETC HVHP'}
+#: .\items\ammo\9etc.json
+msgid ""
+"9x19mm Electrothermal-chemical ammunition with a 116gr high velocity hollow "
+"point bullet. HVHP rounds maximize stopping power at about 150% higher "
+"muzzle velocity than conventional 9mm JHP."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "9x19mm ETC FMJ"
+msgid_plural "9x19mm ETC FMJs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19mm ETC FMJ'}
+#: .\items\ammo\9etc.json
+msgid ""
+"9x19mm Electrothermal-chemical ammunition with a brass jacketed 115gr "
+"bullet.  A popular round for military, law enforcement, and civilian use "
+"even after almost 150 years, adapted to a new ballistic propulsion "
+"technology."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "9x19mm ETC HVAP"
+msgid_plural "9x19mm ETC HVAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19mm ETC HVAP'}
+#: .\items\ammo\9etc.json
+msgid ""
+"9x19mm Electrothermal-chemical ammunition with a high velocity armor-"
+"piercing 60gr bullet, which should suffice for anything besides power armor."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "9x19mm ETC HAPM"
+msgid_plural "9x19mm ETC HAPMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19mm ETC HAPM'}
+#: .\items\ammo\9etc.json
+msgid ""
+"Electrothermal-chemical ammunition with a superalloy 40gr hypervelocity "
+"armor-piercing match bullet with a tungsten core. Designed to defeat power "
+"armor, it can exceed 1100 meters per second. It is inefficient against "
+"unarmored threats."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "9x19mm ETC SAP"
+msgid_plural "9x19mm ETC SAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9x19mm ETC SAP'}
+#: .\items\ammo\9etc.json
+msgid ""
+"Electrothermal-chemical ammunition with a depleted uranium 262gr subsonic "
+"armor-piercing bullet. A quiet, heavy, accurate, low recoil round with "
+"better armor penetration than HVAP. Negligible overpenetration compensates "
+"lower muzzle energy."
+msgstr ""
+
+#: .\items\ammo\9etc.json
+msgid "reloaded 9x19mm ETC HVHP"
+msgid_plural "reloaded 9x19mm ETC HVHPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\9etc.json
+msgid "reloaded 9x19mm ETC FMJ"
+msgid_plural "reloaded 9x19mm ETC FMJs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\9etc.json
+msgid "reloaded 9x19mm ETC HVAP"
+msgid_plural "reloaded 9x19mm ETC HVAPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'magpin'}
+#: .\items\ammo\magpin.json
+msgid ""
+"3d-printed 4g iron flechette for the GC166 Gauss Carbine by OmniCorp. It is "
+"not compatible with nail guns or handcrafted coilguns."
+msgstr ""
+
+#: .\items\ammo\nail.json
+msgid "nail"
+msgid_plural "nails"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\nail.json
+msgid "flechette"
+msgid_plural "flechettes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\ammo\shot.json
+msgid "anti-materiel slug"
+msgid_plural "anti-materiel slugs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'anti-materiel slug'}
+#: .\items\ammo\shot.json
+msgid ""
+"A custom armor-piercing incendiary slug with an extracted 262gr 9x19mm ETC "
+"SAP depleted uranium projectile as its tip, enveloped by a lead outer core "
+"which in turn is covered by a copper jacket."
+msgstr ""
+
+#: .\items\ammo\shot.json
+msgid "micro-flechette shell"
+msgid_plural "micro-flechette shells"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'micro-flechette shell'}
+#: .\items\ammo\shot.json
+msgid ""
+"A shell filled with very tiny tungsten darts, this is a custom hand load for"
+" hunting prey made of metal rather than flesh and bones."
+msgstr ""
+
+#: .\items\ammo\shot.json
+msgid "hardcore slug"
+msgid_plural "hardcore slugs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hardcore slug'}
+#: .\items\ammo\shot.json
+msgid ""
+"A custom armor-piercing slug with an extracted 100gr .22 ETC tungsten ball "
+"converted into its tip, enveloped by a lead outer core which in turn is "
+"covered by a copper jacket."
+msgstr ""
+
+#: .\items\gun\1magmg.json
+msgid "OCG GG285 Gauss gun"
+msgid_plural "OCG GG285 Gauss guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\1magmg.json
+msgid ""
+"A milspec bullpup coilgun which accelerates OmniCorp proprietary 1.06mm "
+"magmetal glass flechettes to hypervelocity, fed by an UPS and a 300-round "
+"helical magazine. Bulky and heavy due to its capacitor but still compact in "
+"length."
+msgstr ""
+
+#: .\items\gun\1magmg.json .\items\gun\223.json .\items\gun\22etc.json
+#: .\items\gun\300.json .\items\gun\308.json .\items\gun\556etc.json
+#: .\items\gun\762ec.json .\items\gun\9etc.json .\items\gun\9mm.json
+#: .\items\gun\magpin.json .\items\gun\shot.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\items\gun\1magmg.json .\items\gun\223.json .\items\gun\300.json
+#: .\items\gun\308.json .\items\gun\556etc.json .\items\gun\762ec.json
+#: .\items\gun\9etc.json
+msgid "2 rd."
+msgstr ""
+
+#: .\items\gun\1magmg.json .\items\gun\223.json .\items\gun\22etc.json
+#: .\items\gun\556etc.json .\items\gun\762ec.json .\items\gun\9etc.json
+#: .\items\gun\9mm.json .\items\gun\magpin.json .\items\gun\shot.json
+msgid "auto"
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "Remington ACR"
+msgid_plural "Remington ACRs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "H&K 416A5"
+msgid_plural "H&K 416A5s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "H&K G36"
+msgid_plural "H&K G36s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "M249"
+msgid_plural "M249s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "M27 IAR"
+msgid_plural "M27 IARs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "M4A1"
+msgid_plural "M4A1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "OCG QR555"
+msgid_plural "OCG QR555"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid ""
+"OmniCorp bullpup QR555 covert ops platform uses new subsonic 5.56 NATO loads"
+" in several roles, \"quietly\". Identical to the ER555 in furniture and most"
+" of its parts, the base model is claimed to combine the best qualities of "
+"the M16, AN-94 and AS Val. It can fire 2 or 3-round 'pulses'."
+msgstr ""
+
+#: .\items\gun\223.json .\items\gun\22etc.json .\items\gun\9etc.json
+#: .\items\gun\magpin.json
+msgid "3 rd."
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "OCG QR555-CAR"
+msgid_plural "OCG QR555-CAR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid ""
+"OmniCorp bullpup QR555 covert ops platform uses new subsonic 5.56 NATO loads"
+" in several roles, \"quietly\". The Carbine supports automatic fire, has "
+"integrated recoil stock and foregrip, with room for one more underbarrel "
+"accessory."
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "OCG QR555-SMG"
+msgid_plural "OCG QR555-SMG"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid ""
+"OmniCorp bullpup QR555 covert ops platform uses new subsonic 5.56 NATO loads"
+" in several roles, \"quietly\". The Submachinegun supports automatic fire "
+"and ammo belts, comes with integrated recoil stock, underbarrel laser sight "
+"and RM42I bayonet."
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "OCG QR555-DMR"
+msgid_plural "OCG QR555-DMR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid ""
+"OmniCorp bullpup QR555 covert ops platform uses new subsonic 5.56 NATO loads"
+" in several roles, \"quietly\". The Designated Marksman Rifle features a "
+"longer, match-grade barrel and an accurized action, limited to only semi-"
+"auto and 2-round bursts."
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "OCG QR555-SAW"
+msgid_plural "OCG QR555-SAW"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid ""
+"OmniCorp bullpup QR555 covert ops platform uses new subsonic 5.56 NATO loads"
+" in several roles, \"quietly\". The Squad Automatic Weapon has a reinforced "
+"barrel, support for ammo belts, a very high rate of fire and comes with "
+"integrated forward grip/bipod unit, recoil stock and gyroscopic stabilizer."
+msgstr ""
+
+#: .\items\gun\223.json
+msgid "Ruger Mini-14"
+msgid_plural "Ruger Mini-14s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "FN SCAR-L"
+msgid_plural "FN SCAR-Ls"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "SIG 552"
+msgid_plural "SIG 552s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\223.json
+msgid "Steyr AUG"
+msgid_plural "Steyr AUGs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid "OCG N8 Nanogun"
+msgid_plural "OCG N8 Nanoguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"Six barrels, a 6-round burst mode and a higher cyclic rate of fire than the "
+"M134 minigun made this the most iconic firearm of OmniCorp. As long as there"
+" are UPS charges for its electrothermal action, it can fire over a thousand "
+"bullets from a belt without reload."
+msgstr ""
+
+#: .\items\gun\22etc.json .\items\gun\9etc.json
+msgid "6 rd."
+msgstr ""
+
+#: .\items\gun\22etc.json .\items\gun\9etc.json
+msgid "low auto"
+msgstr ""
+
+#: .\items\gun\22etc.json .\items\gun\9etc.json
+msgid "high auto"
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG N8SD Nanogun"
+msgid_plural "OCG N8SD Nanoguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"With six integrated suppressors over its six barrels to provide maximum fire"
+" support in covert operations, OmniCorp N8SD can bring death by a thousand "
+"shots just somewhat louder than paper cuts."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG O2038"
+msgid_plural "OCG O2038s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"The first electrothermal-chemical submachinegun, OmniCorp O2038 features a "
+"very fast 4-round burst mode with a complex mechanism to delay felt recoil "
+"and a very large capacity yet compact magazine."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "4 rd."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG O2038SD"
+msgid_plural "OCG O2038SDs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"The first \"stealth firearm\" developed by OmniCorp, featuring an integrated"
+" suppressor without any loss in stopping power or portability. A fine "
+"general purpose submachinegun for covert operations."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG 22XLR"
+msgid_plural "OCG 22XLR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"The first electrothermal-chemical gun to reach the civilian market shortly "
+"before the Cataclysm, by OmniCorp. It is more formidable than the size of "
+"its .22 rounds would suggest."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG DBR"
+msgid_plural "OCG DBR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"Over and under Double Barrel Revolver with 12 rounds. Its cylinder has six "
+"pairs of over/under chambers aligned with the barrels. Such was OmniCorp's "
+"solution to improve the stopping power of .22 ETC in a revolver."
+msgstr ""
+
+#: .\items\gun\22etc.json .\items\gun\9etc.json .\items\gun\shot.json
+msgid "double"
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG SMP"
+msgid_plural "OCG SMP"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"Designed as a dedicated \"silent\" gun by OmniCorp, The Stealth Machine "
+"Pistol is an electrothermal-chemical .22 pistol with an integrated "
+"suppressor. A valuable sidearm for covert operatives."
+msgstr ""
+
+#: .\items\gun\22etc.json
+msgid "OCG Stealth Pistol"
+msgid_plural "OCG Stealth Pistol"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\22etc.json
+msgid ""
+"OmniCorp Stealth Pistol is surprisingly small even with an integrated "
+"suppressor. Made only with composite ceramics and polymers to bypass metal "
+"detectors when unloaded at the expense of reliability, a now useless "
+"feature."
+msgstr ""
+
+#: .\items\gun\300.json
+msgid "M2010 ESR"
+msgid_plural "M2010 ESR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\300.json
+msgid "OCG SMC300"
+msgid_plural "OCG SMC300s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\300.json
+msgid ""
+"Stockless Marksman Carbine, the first gun among OmniCorp products, is a "
+"selective-fire \"sidearm\" which shares magazines with sniper rifles. "
+"Includes critically needed gyroscopic stabilizer. This .300 WM version won "
+"three \"Overkill Awards\" from the Guns n Ammo magazine."
+msgstr ""
+
+#: .\items\gun\308.json
+msgid "OCG SMC308"
+msgid_plural "OCG SMC308s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\308.json
+msgid ""
+"Stockless Marksman Carbine, the first gun among OmniCorp products, is a "
+"selective-fire \"sidearm\" which shares magazines with sniper rifles. "
+"Includes critically needed gyroscopic stabilizer."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ADR"
+msgid_plural "OCG ADR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"The Anti-Drone Revolver is an OmniCorp \"sidearm\" with a carbine length "
+"barrel and overcharged electrothermal action, designed to defeat the "
+"heaviest among armored drones. Comes with a classic finish in wood."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555"
+msgid_plural "OCG ER555"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The base model on its own is a highly accurate battle rifle "
+"with a \"pulsed\" two-round burst mode. Supports aftermarket modifications, "
+"but using its conversion kits instead is advised."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-ADS"
+msgid_plural "OCG ER555-ADS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The Anti-Drone Sniper features an overcharged electrothermal "
+"action. Comes with integrated forward grip/bipod unit, gyroscopic stabilizer"
+" and cheek pad."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-CAR"
+msgid_plural "OCG ER555-CAR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The Carbine supports automatic fire, has an integrated recoil"
+" stock and foregrip, with room for one more underbarrel accessory."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-CQB"
+msgid_plural "OCG ER555-CQB"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The Close Quarters Battle variant supports automatic fire, "
+"comes with integrated recoil stock, underbarrel laser sight and RM42I "
+"bayonet."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-SAW"
+msgid_plural "OCG ER555-SAW"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The Squad Automatic Weapon supports ammo belts, has a "
+"reinforced barrel, a very high rate of fire and comes with integrated "
+"forward grip/bipod unit, recoil stock, ported barrel and gyroscopic "
+"stabilizer."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-SR"
+msgid_plural "OCG ER555-SR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. Not that accurate or long ranged for a Sniper Rifle, but "
+"unlike most, has a two-round burst mode. Comes with integrated forward "
+"grip/bipod unit, gyroscopic stabilizer and cheek pad."
+msgstr ""
+
+#: .\items\gun\556etc.json
+msgid "OCG ER555-UDD"
+msgid_plural "OCG ER555-UDD"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\556etc.json
+msgid ""
+"OmniCorp bullpup ER555 platform uses hypervelocity 5.56 ETC rounds in "
+"several roles. The Urban Drone Destroyer is very powerful, fast firing but "
+"difficult to control in full auto. Comes with integrated recoil stock, "
+"ported barrel and gyroscopic stabilizer."
+msgstr ""
+
+#: .\items\gun\762ec.json
+msgid "OCG AMR"
+msgid_plural "OCG AMR"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\762ec.json
+msgid ""
+"OmniCorp's Anti-Materiel Revolver might be the most powerful handgun ever "
+"made. It can destroy almost anything within four shots, but its recoil is so"
+" heavy its manual forbids shooting it without wearing power armor."
+msgstr ""
+
+#: .\items\gun\762ec.json
+msgid "OCG DWOM"
+msgid_plural "OCG DWOM"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\762ec.json
+msgid ""
+"A battle rifle for future warfare scenarios involving long range "
+"engagements, power armor and tank drones, the highly accurate Drone Warfare "
+"Opus Magnum can fire two-round bursts of hypervelocity 7.62x51mm EC rounds."
+msgstr ""
+
+#: .\items\gun\762ec.json
+msgid "OCG MAR7k"
+msgid_plural "OCG MAR7k"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\762ec.json
+msgid ""
+"Considered an overkill among overkills, the bullpup Mega Assault Rifle is "
+"the most powerful fully automatic rifle of OmniCorp. Even with fixed "
+"foregrip and bipod, it is very compact due to a \"CQB\" barrel, a receiver "
+"shortened through a vertically sliding bolt and a magazine well right next "
+"to its buttplate."
+msgstr ""
+
+#: .\items\gun\762ec.json
+msgid "OCG OFG16k"
+msgid_plural "OCG OFG16ks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\762ec.json
+msgid ""
+"The Orbital Force Gun is an anti-materiel light-gas rifle with a detachable,"
+" vacuum-sealable barrel which can be connected to a hydrogen canister yet "
+"works without one with drastically reduced muzzle energy. Its manual "
+"recommends avoiding hydrogen despite that due to reliability issues a future"
+" OFG16kA1 model would solve."
+msgstr ""
+
+#: .\items\gun\762ec.json
+msgid "OCG Seven-7B"
+msgid_plural "OCG Seven-7B"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\762ec.json
+msgid ""
+"Electrothermal magazine-fed bolt-action anti-materiel rifle. Its "
+"hypervelocity 7.62x51mm EC round is not as damaging as a conventional .50 "
+"BMG, but its recoil is much lower and its armor penetration better."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG Desert Eel"
+msgid_plural "OCG Desert Eel"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"This electrothermal-chemical pistol packs a lot of power for its size and "
+"weight. As an UPS cannot fit inside a pocket, OmniCorp Desert Eel is a true "
+"pocket pistol only for cyborgs with the UPS bionic."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG Hand Autocannon"
+msgid_plural "OCG Hand Autocannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"Bulky, heavy and intimidating, the Hand Autocannon is the most powerful "
+"electrothermal-chemical pistol developed by OmniCorp. It has 2 round burst "
+"and automatic fire modes."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG N9A1 Chaingun"
+msgid_plural "OCG N9A1 Chainguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"OmniCorp biggest \"minigun\" stands out from the Nanogun with its unique "
+"trigger group and very flexible burst limiter. Each setting in its fire "
+"selector lever can be further tuned through short or long trigger pulls."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG O2038H"
+msgid_plural "OCG O2038Hs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"9mm ETC variant of OmniCorp O2038 SMG. Features more stopping power, recoil,"
+" louder gunfire, reduced rate of fire and less rounds per magazine. Utilizes"
+" a helical magazine to maximize ammunition capacity."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG O2038HSD"
+msgid_plural "OCG O2038HSDs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"A 9mm ETC version of the O2038SD with a heavier suppressor, developed "
+"together with depleted uranium 9x19mm subsonic armor-piercing rounds. When "
+"firing such rounds, it is quieter than the O2038SD, but much louder "
+"otherwise"
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG O9 Electromagnum"
+msgid_plural "OCG O9 Electromagnum"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"An electrothermal-chemical revolver from OmniCorp, capable of firing eight "
+"9mm bullets at high velocities. Comparable to a .44 magnum or .460 Rowland "
+"revolver in performance, but requires a charged UPS."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG O9-2 Doublemag"
+msgid_plural "OCG O9-2 Doublemag"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"A double-barreled yet compact 9mm electrothermal-chemical revolver from "
+"OmniCorp. Unlike the .22 DBR, its layout and action allow single shots but "
+"impairs accuracy and makes it less reliable."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "single"
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG MS400 Mini Sniper"
+msgid_plural "OCG MS400 Mini Sniper"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"Propelling rounds at muzzle velocities expected from rifle cartridges, this "
+"highly accurate 9mm electrothermal-chemical rifle from OmniCorp can mostly "
+"fulfill the sniper role in urban environments."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG MS400SD Boatman"
+msgid_plural "OCG MS400SD Boatman"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"This variant of the MS400 Mini Sniper is deadly accurate and \"silent\" even"
+" with hypersonic rounds. A great OmniCorp product for 6'+ tall bald hitmen "
+"or zombie apocalypse survivors."
+msgstr ""
+
+#: .\items\gun\9etc.json
+msgid "OCG Super SMG"
+msgid_plural "OCG Super SMGs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9etc.json
+msgid ""
+"\"Puts the machinegun in submachinegun\" - OmniCorp marketing pitch. "
+"Compatible with ammo belts, the SSMG is very bulky but can almost match a "
+"5.56x45mm machinegun's stopping power. Features integrated combined forward "
+"grip/bipod unit and a roomy magazine well."
+msgstr ""
+
+#: .\items\gun\9mm.json
+msgid "OCG Baby Eel"
+msgid_plural "OCG Baby Eels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9mm.json
+msgid ""
+"Externally almost identical to the electrothermal Desert Eel, this pocket "
+"pistol is very lightweight, but felt recoil is higher than in most 9mm "
+"pistols."
+msgstr ""
+
+#: .\items\gun\9mm.json
+msgid "OCG MR9 DMSMG"
+msgid_plural "OCG MR9 DMSMG"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9mm.json
+msgid ""
+"OmniCorp MR9 is called a Designated Marksman Submachinegun. It has a very "
+"long, match-grade barrel and a highly accurate action. Technically a "
+"submachinegun, it resembles and is handled like a rifle."
+msgstr ""
+
+#: .\items\gun\9mm.json
+msgid "OCG MR9S Mini Rifle"
+msgid_plural "OCG MR9S Mini Rifle"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9mm.json
+msgid ""
+"A civilian, semi-automatic version of OmniCorp MR9 DMSMG with the same very "
+"long barrel. Some call it a carbine despite its barrel length, others call "
+"it a rifle. Either way, it is good for what it is but expensive."
+msgstr ""
+
+#: .\items\gun\9mm.json
+msgid "OCG MR9SD Styx"
+msgid_plural "OCG MR9SD Styx"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\9mm.json
+msgid ""
+"Without requiring subsonic rounds and with the same length as the MR9 DMSMG,"
+" OmniCorp Styx is a pretty \"silent\" firearm. Weaker and shorter ranged "
+"than a rifle caliber one like the VSS Vintorez, it still is useful for "
+"covert marksmen."
+msgstr ""
+
+#: .\items\gun\abstract.json
+msgid "base ETC pistol"
+msgid_plural "base ETC pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "EC ammo ETC revolver"
+msgid_plural "EC ammo ETC revolvers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "ETC revolver"
+msgid_plural "ETC revolvers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "2 charges ETC revolver"
+msgid_plural "2 charges ETC revolvers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "EC ammo ETC rifle"
+msgid_plural "EC ammo ETC rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "base ETC rifle"
+msgid_plural "base ETC rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "2 charges ETC rifle"
+msgid_plural "2 charges ETC rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "EC ammo ETC rifle with manual actions"
+msgid_plural "EC ammo ETC rifles with manual actions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "ETC rifle with manual actions"
+msgid_plural "ETC rifles with manual actions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "2 charges ETC rifle with manual actions"
+msgid_plural "2 charges ETC rifle with manual actions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\abstract.json
+msgid "base ETC SMG"
+msgid_plural "base ETC SMGs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OFG16k air-filled barrel"
+msgid_plural "OFG16k air-filled barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'OFG16k air-filled barrel'}.
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "Prepare hydrogen"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'OFG16k air-filled barrel'}.
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"You prepare the canister to fill up the barrel and replace atmospheric air "
+"with pure hydrogen."
+msgstr ""
+
+#. ~ Description for {'str': 'OFG16k air-filled barrel'}
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"The barrel of the OFG16k filled with atmospheric air, resulting in "
+"suboptimal muzzle velocity but far more reliable action, plus its gas "
+"loading and sealing mechanisms and emergency release. Remove from the "
+"OFG16k, load a canister and activate to fill it with hydrogen."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OFG16k hydrogen-filled barrel"
+msgid_plural "OFG16k hydrogen-filled barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action menu_text for {'str': 'OFG16k hydrogen-filled barrel'}.
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "Vent off hydrogen"
+msgstr ""
+
+#. ~ Use action msg for {'str': 'OFG16k hydrogen-filled barrel'}.
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"You vent off hydrogen, expose the barrel to atmospheric air and discard the "
+"now empty canister."
+msgstr ""
+
+#. ~ Description for {'str': 'OFG16k hydrogen-filled barrel'}
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"The barrel of the OFG16k filled with pure hydrogen from an attached "
+"canister. The speed of sound is 3.8 times faster inside it, which "
+"drastically boosts muzzle velocity. Included with it are the gas loading and"
+" sealing mechanisms and emergency release. Activate to vent off all hydrogen"
+" and unseal it to the atmosphere."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OCG ER555 standard barrel"
+msgid_plural "OCG ER555 standard barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"An OCG standard 5.56mm barrel. Long enough for sniper rifles as it is when "
+"used together with electrothermal-chemical technology."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OCG ER555 shortened barrel"
+msgid_plural "OCG ER555 shortened barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"An OCG built in shortened 5.56mm barrel, making a gun easier to carry, "
+"maneuver and aim at the expense of damage, accuracy and range. Its handguard"
+" rails support two underbarrel attachments."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OCG ER555 CQB barrel"
+msgid_plural "OCG ER555 CQB barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"An OCG built in very short 5.56mm barrel for close quarters battle, making a"
+" gun much easier to carry, maneuver and aim at the expense of damage, "
+"accuracy and range. Its handguard rails support two underbarrel attachments."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OCG ER555 reinforced barrel"
+msgid_plural "OCG ER555 reinforced barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"An OCG built in reinforced 5.56mm barrel for the E/QR555-SAW. Improves the "
+"gun's reliability."
+msgstr ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid "OCG QR555 DMR barrel"
+msgid_plural "OCG QR555 DMR barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\barrel.json .\items\gunmod\barrel.json
+msgid ""
+"An OCG DMR 5.56mm match-grade barrel, extending the effective range of "
+"subsonic 5.56 OCG Blackout rounds beyond 300 meters and of regular 5.56 NATO"
+" beyond 400 while maintaining the the former subsonic."
+msgstr ""
+
+#: .\items\gun\magpin.json
+msgid "OCG GC166 Gauss carbine"
+msgid_plural "OCG GC166 Gauss carbines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\magpin.json
+msgid ""
+"A milspec bullpup coilgun which can shoot proprietary OmniCorp magpins and, "
+"with reduced efficiency, DIY flechettes and nails. Fed by UPS and a "
+"120-round helical magazine. Bulky due to its capacitor and thick ceramic "
+"reinforced barrel but very compact in length."
+msgstr ""
+
+#: .\items\gun\shot.json
+msgid "Modified L12 Defender"
+msgid_plural "Modified L12 Defender"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\shot.json
+msgid ""
+"A custom made L12 Defender for one of Leadworks LLC VIP executives, its "
+"furniture was replaced with a more lightweight one to make wielding it with "
+"only one hand easier at the expense of more recoil. Surprisingly compact "
+"thanks to its moving barrel and forward-back pump mechanism. Like most other"
+" Leadworks products it doesn't accept third-party modifications."
+msgstr ""
+
+#: .\items\gun\shot.json
+msgid "OCG12 Excidia"
+msgid_plural "OCG12 Excidia"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\shot.json
+msgid ""
+"Perhaps the pinnacle of overkill, OmniCorp Excidia is an automatic double "
+"barrel shotgun. Contains two improved chokes, magazines and mirrored "
+"ejection ports, but only one trigger: fire modes are set through a selector "
+"lever. Its action only supports double shots or full auto. Uses two stacked "
+"Saiga-12 or proprietary magazines."
+msgstr ""
+
+#: .\items\gun\shot.json
+msgid "OCG12-S Scuta"
+msgid_plural "OCG12-S Scuta"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gun\shot.json
+msgid ""
+"A less overkill, semi automatic version of the Omnicorp Excidia double "
+"barrel shotgun minus its built-in accessories and a double trigger instead "
+"of a fire selector lever, supporting single shots. Smaller thanks to its "
+"telescopic stock, but with greater felt recoil. Uses two stacked Saiga-12 or"
+" proprietary magazines."
+msgstr ""
+
+#: .\items\gunmod\mechanism.json
+msgid "N8 high density capacitor"
+msgid_plural "N8 high density capacitors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\mechanism.json
+msgid ""
+"A capacitor for the Nanogun's boosted electrothermal-chemical action, which "
+"improves armor penetration at the cost of more power consumption, noise and "
+"recoil."
+msgstr ""
+
+#: .\items\gunmod\mechanism.json
+msgid "mechanism"
+msgstr ""
+
+#: .\items\gunmod\mechanism.json
+msgid "MS400 high density capacitor"
+msgid_plural "MS400 high density capacitors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\mechanism.json
+msgid ""
+"A capacitor for the overcharged MS400 electrothermal-chemical action, which "
+"improves damage, effective range and armor penetration at the cost of more "
+"power consumption, noise and recoil."
+msgstr ""
+
+#: .\items\gunmod\mechanism.json
+msgid "OCG anti-drone capacitor"
+msgid_plural "OCG anti-drone capacitors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\mechanism.json
+msgid ""
+"A capacitor for overcharged 5.56 ETC caliber electrothermal-chemical guns, "
+"improving penetration against the heaviest drone and power armors at the "
+"cost of much more power consumption, noise and recoil."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "MR9SD integral suppressor"
+msgid_plural "MR9SD integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "The integrated suppressor for the MR9SD Styx."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "barrel"
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "MS400SD integral suppressor"
+msgid_plural "MS400SD integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "A complex and heavy integrated suppressor for a hypervelocity gun."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "N8SD integral suppressors"
+msgid_plural "N8SD integral suppressorss"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "Six integrated suppressors for the N8SD nanogun barrels."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "O2038HSD integral suppressor"
+msgid_plural "O2038HSD integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "Integrated suppressor for the O2038HSD."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "O2038SD integral suppressor"
+msgid_plural "O2038SD integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "Integrated suppressor for the O2038SD."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "QR555 integral suppressor"
+msgid_plural "QR555 integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid ""
+"Integrated suppressor for the \"Quiet\" Rifle 555 platform, it won't make "
+"justice to such name without 5.56x45mm or 5.56 OCG Blackout subsonic loads."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "SMP integral suppressor"
+msgid_plural "SMP integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid "Integrated suppressor for the Stealth Machine Pistol."
+msgstr ""
+
+#: .\items\gunmod\muzzle.json
+msgid "Stealth Pistol integral suppressor"
+msgid_plural "Stealth Pistol integral suppressors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\muzzle.json
+msgid ""
+"Integrated suppressor for the Stealth Pistol, curiously made of a ceramic "
+"matrix composite."
+msgstr ""
+
+#: .\items\gunmod\rail.json
+msgid "OCG gyroscopic stabilizer"
+msgid_plural "OCG gyroscopic stabilizers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\rail.json
+msgid "An advanced OCG built in gyroscopic stabilizer."
+msgstr ""
+
+#: .\items\gunmod\stock.json
+msgid "OCG recoil stock"
+msgid_plural "OCG recoil stocks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\stock.json
+msgid "An advanced OCG built in stock designed to absorb perceived recoil."
+msgstr ""
+
+#: .\items\gunmod\stock.json
+msgid "OCG telescopic stock"
+msgid_plural "OCG telescopic stocks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\stock.json
+msgid ""
+"An OCG built in telescopic stock which is faster to set up than a folding "
+"stock but won't reduce as much volume."
+msgstr ""
+
+#: .\items\gunmod\underbarrel.json
+msgid "grip/pod bipod"
+msgid_plural "grip/pod bipods"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\underbarrel.json
+msgid ""
+"All-in-one bipod and forward grip for recoil control. This is the bipod "
+"component, usable only on certain surfaces, a bit less effective than a "
+"dedicated bipod but faster to equip."
+msgstr ""
+
+#: .\items\gunmod\underbarrel.json
+msgid "grip/pod forward grip"
+msgid_plural "grip/pod forward grips"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\underbarrel.json
+msgid ""
+"All-in-one bipod and forward grip for recoil control. This is the grip "
+"component, it is slightly less effective than a dedicated forward grip."
+msgstr ""
+
+#: .\items\gunmod\underbarrel.json
+msgid "RM42I bayonet"
+msgid_plural "RM42I bayonets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\gunmod\underbarrel.json
+msgid ""
+"A licensed integrated variant of the RM42 fighting knife for the ER555-CQB "
+"and QR555-SMG with a shorter blade."
+msgstr ""
+
+#: .\items\gunmod\underbarrel.json
+msgid "bayonet"
+msgstr ""
+
+#: .\items\gunmod\underbarrel.json
+msgid "underbarrel"
+msgstr ""
+
+#: .\items\magazine\1magmg.json
+msgid "GG285 Magazine"
+msgid_plural "GG285 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'GG285 Magazine'}
+#: .\items\magazine\1magmg.json
+msgid ""
+"A 300-round horizontal helical magazine which fits in the frame of the GG285"
+" Gauss Gun."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-14 STANAG small magazine"
+msgid_plural "OCM5-14 STANAG small magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-14 STANAG small magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A compact 14-round 5.56 NATO magazine compatible with STANAG rifles, an "
+"alternative to the older Ruger 5.56x45mm mag, it is almost identical to its "
+"version for 5.56 Electrothermal."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-24 STANAG casket magazine"
+msgid_plural "OCM5-24 STANAG casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-24 STANAG casket magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A lightweight 24-round 5.56 NATO casket magazine compatible with STANAG "
+"rifles, almost identical to its version for 5.56 Electrothermal. Amazingly "
+"compact but less reliable and tricky to reload."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-30 STANAG magazine"
+msgid_plural "OCM5-30 STANAG magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-30 STANAG magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A lighter and more reliable STANAG standard capacity magazine proposed as a "
+"replacement for its predecessor of same shape and size, it is almost "
+"identical to its version for 5.56 Electrothermal."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-50 STANAG drum magazine"
+msgid_plural "OCM5-50 STANAG drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-50 STANAG drum magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A lighter and more reliable 50-round STANAG drum magazine proposed as "
+"replacement for its predecessor of same shape and size, it is almost "
+"identical to its version for 5.56 Electrothermal."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-60 STANAG casket magazine"
+msgid_plural "OCM5-60 STANAG casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-60 STANAG casket magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A lightweight 60-round 5.56 NATO casket magazine compatible with STANAG "
+"rifles, almost identical to its version for 5.56 Electrothermal. Amazingly "
+"compact but less reliable and tricky to reload."
+msgstr ""
+
+#: .\items\magazine\223.json
+msgid "OCM5-100 STANAG casket magazine"
+msgid_plural "OCM5-100 STANAG casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-100 STANAG casket magazine'}
+#: .\items\magazine\223.json
+msgid ""
+"A lightweight 100-round 5.56 NATO casket magazine compatible with STANAG "
+"rifles, almost identical to its version for 5.56 Electrothermal. Amazingly "
+"compact but less reliable and tricky to reload."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid ".22 ETC speedloader"
+msgid_plural ".22 ETC speedloaders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '.22 ETC speedloader'}
+#: .\items\magazine\22etc.json
+msgid ""
+"This speedloader can hold 12 rounds of .22 ETC in over/under pairings and "
+"quickly reload a compatible double barrel revolver."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "ammo belt .22 ETC"
+msgid_plural "ammo belt .22 ETCs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\magazine\22etc.json
+msgid "OCMN240 magazine"
+msgid_plural "OCMN240 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCMN240 magazine'}
+#: .\items\magazine\22etc.json
+msgid "A 240-round helical magazine for use with the OCG N8 Nanogun."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "OCMN480 drum magazine"
+msgid_plural "OCMN480 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCMN480 drum magazine'}
+#: .\items\magazine\22etc.json
+msgid ""
+"A 480-round drum magazine for use with the OCG N8 Nanogun. Better used "
+"together with an Advanced UPS or UPS bionic."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "O2038 magazine"
+msgid_plural "O2038 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'O2038 magazine'}
+#: .\items\magazine\22etc.json
+msgid ""
+"A translucent polymer box magazine that fits with the frame of the OCG "
+"O2038."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "OCG SMP magazine"
+msgid_plural "OCG SMP magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG SMP magazine'}
+#: .\items\magazine\22etc.json
+msgid ""
+"A factory specification 30-round magazine for the Stealth Machine Pistol. "
+"Very reliable and compact."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "OCG SMP extended magazine"
+msgid_plural "OCG SMP extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG SMP extended magazine'}
+#: .\items\magazine\22etc.json
+msgid "Extended 60-round stick magazine for the Stealth Machine Pistol."
+msgstr ""
+
+#: .\items\magazine\22etc.json
+msgid "OCG Stealth Pistol magazine"
+msgid_plural "OCG Stealth Pistol magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCG Stealth Pistol magazine'}
+#: .\items\magazine\22etc.json
+msgid ""
+"A factory specification 7-round polymer magazine for the Stealth Pistol."
+msgstr ""
+
+#: .\items\magazine\300.json
+msgid "SMC300 magazine"
+msgid_plural "SMC300 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'SMC300 magazine'}
+#: .\items\magazine\300.json
+msgid ""
+"A 10-round box magazine for the .300 Stockless Marksman Carbine. It is "
+"compatible with the M2010 ESR sniper rifle as well"
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "5.56 ETC speedloader"
+msgid_plural "5.56 ETC speedloaders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.56 ETC speedloader'}
+#: .\items\magazine\556etc.json
+msgid ""
+"This speedloader can hold 4 rounds of 5.56mm ETC and quickly reload a "
+"compatible revolver."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "ammo belt 5.56mm ETC"
+msgid_plural "ammo belt 5.56mm ETCs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-14 standard magazine"
+msgid_plural "OCM5-14 standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-14 standard magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A compact 14-round 5.56 ETC magazine compatible with OmniCorp guns. Almost "
+"STANAG-compatible, an internal mechanism that only fits in with plasma "
+"primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-24 casket magazine"
+msgid_plural "OCM5-24 casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-24 casket magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A lightweight 24-round 5.56 ETC casket magazine compatible with OmniCorp "
+"guns. Amazingly compact but less reliable and tricky to reload. Almost "
+"STANAG-compatible, an internal mechanism that only fits in with plasma "
+"primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-30 standard magazine"
+msgid_plural "OCM5-30 standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-30 standard magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A lightweight 30-round 5.56 ETC magazine compatible with OmniCorp guns. "
+"Almost STANAG-compatible, an internal mechanism that only fits in with "
+"plasma primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-50 drum magazine"
+msgid_plural "OCM5-50 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-50 drum magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A green 50-round 5.56 ETC drum magazine compatible with OmniCorp guns. "
+"Almost STANAG-compatible, an internal mechanism that only fits in with "
+"plasma primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-60 casket magazine"
+msgid_plural "OCM5-60 casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-60 casket magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A lightweight 60-round 5.56 ETC casket magazine compatible with OmniCorp "
+"guns. Amazingly compact but less reliable and tricky to reload. Almost "
+"STANAG-compatible, an internal mechanism that only fits in with plasma "
+"primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\556etc.json
+msgid "OCM5-100 casket magazine"
+msgid_plural "OCM5-100 casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM5-100 casket magazine'}
+#: .\items\magazine\556etc.json
+msgid ""
+"A lightweight 100-round 5.56 ETC casket magazine compatible with OmniCorp "
+"guns. Amazingly compact but less reliable and tricky to reload. Almost "
+"STANAG-compatible, an internal mechanism that only fits in with plasma "
+"primers prevent erroneous loading."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "7.62x51mm EC speedloader"
+msgid_plural "7.62x51mm EC speedloaders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '7.62x51mm EC speedloader'}
+#: .\items\magazine\762ec.json
+msgid ""
+"This speedloader can hold 4 rounds of 7.62x51mm EC and quickly reload a "
+"compatible revolver."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-7 standard magazine"
+msgid_plural "OCM7-7 standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-7 standard magazine'}
+#: .\items\magazine\762ec.json
+msgid "A compact 7-round 7.62x51mm EC magazine compatible with OmniCorp guns."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-20 standard magazine"
+msgid_plural "OCM7-20 standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-20 standard magazine'}
+#: .\items\magazine\762ec.json
+msgid ""
+"A lightweight 20-round 7.62x51mm EC magazine compatible with OmniCorp guns."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-30 extended magazine"
+msgid_plural "OCM7-30 extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-30 extended magazine'}
+#: .\items\magazine\762ec.json
+msgid ""
+"A lightweight 30-round 7.62x51mm EC magazine compatible with OmniCorp guns."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-40 casket magazine"
+msgid_plural "OCM7-40 casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-40 casket magazine'}
+#: .\items\magazine\762ec.json
+msgid ""
+"A lightweight 40-round 7.62x51mm EC casket magazine compatible with OmniCorp"
+" guns. Amazingly compact but less reliable and tricky to reload."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-50 drum magazine"
+msgid_plural "OCM7-50 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-50 drum magazine'}
+#: .\items\magazine\762ec.json
+msgid ""
+"A lightweight 50-round 7.62x51mm EC drum magazine compatible with OmniCorp "
+"guns."
+msgstr ""
+
+#: .\items\magazine\762ec.json
+msgid "OCM7-66 casket magazine"
+msgid_plural "OCM7-66 casket magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM7-66 casket magazine'}
+#: .\items\magazine\762ec.json
+msgid ""
+"A lightweight 66-round 7.62x51mm EC casket magazine compatible with OmniCorp"
+" guns. Amazingly compact but less reliable and tricky to reload."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "9mm ETC speedloader"
+msgid_plural "9mm ETC speedloaders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '9mm ETC speedloader'}
+#: .\items\magazine\9etc.json
+msgid ""
+"This speedloader can hold 8 rounds of 9mm ETC and quickly reload a "
+"compatible revolver."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "ammo belt 9mm ETC"
+msgid_plural "ammo belt 9mm ETCs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items\magazine\9etc.json
+msgid "Desert Eel Magazine"
+msgid_plural "Desert Eel Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Desert Eel Magazine'}
+#: .\items\magazine\9etc.json
+msgid ""
+"10-round 9mm ETC magazine for the Desert Eel that fits inside its magazine "
+"well."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "O2038H magazine"
+msgid_plural "O2038H magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'O2038H magazine'}
+#: .\items\magazine\9etc.json
+msgid ""
+"A translucent polymer 56-round helical magazine that fits with the frame of "
+"the OCG O2038H."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "OCM9-24 standard magazine"
+msgid_plural "OCM9-24 standard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM9-24 standard magazine'}
+#: .\items\magazine\9etc.json
+msgid ""
+"A surprisingly compact 24-round 9mm ETC magazine compatible with most "
+"OmniCorp guns. It fits the frames of the OCG Hand Autocannon and Super SMG."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "OCM9-48 extended magazine"
+msgid_plural "OCM9-48 extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM9-48 extended magazine'}
+#: .\items\magazine\9etc.json
+msgid ""
+"A factory specification 48-round 9mm ETC magazine compatible with most "
+"OmniCorp guns."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "OCM9-120 drum magazine"
+msgid_plural "OCM9-120 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCM9-120 drum magazine'}
+#: .\items\magazine\9etc.json
+msgid "120-round 9mm ETC drum magazine compatible with most OmniCorp guns."
+msgstr ""
+
+#: .\items\magazine\9etc.json
+msgid "OCMC240 drum magazine"
+msgid_plural "OCMC240 drum magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'OCMC240 drum magazine'}
+#: .\items\magazine\9etc.json
+msgid "A 240-round drum magazine for use with the OCG N9A1 Chaingun."
+msgstr ""
+
+#: .\items\magazine\9mm.json
+msgid "Baby Eel Magazine"
+msgid_plural "Baby Eel Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Baby Eel Magazine'}
+#: .\items\magazine\9mm.json
+msgid "10-round magazine for the Baby Eel that fits inside its magazine well."
+msgstr ""
+
+#: .\items\magazine\9mm.json
+msgid "MR9 Mini Rifle magazine"
+msgid_plural "MR9 Mini Rifle magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'MR9 Mini Rifle magazine'}
+#: .\items\magazine\9mm.json
+msgid ""
+"A compact 20-round casket magazine for use with OmniCorp MR9 DMSMG and "
+"variants."
+msgstr ""
+
+#: .\items\magazine\9mm.json
+msgid "MR9 DMSMG magazine"
+msgid_plural "MR9 DMSMG magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'MR9 DMSMG magazine'}
+#: .\items\magazine\9mm.json
+msgid ""
+"A compact 40-round casket magazine for use with OmniCorp MR9 DMSMG and "
+"variants."
+msgstr ""
+
+#: .\items\magazine\magpin.json
+msgid "GC166 Magazine"
+msgid_plural "GC166 Magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'GC166 Magazine'}
+#: .\items\magazine\magpin.json
+msgid ""
+"A 120-round horizontal helical magazine which fits in the frame of the GC166"
+" Gauss Carbine."
+msgstr ""
+
+#: .\items\magazine\shot.json
+msgid "Twin Saiga-12 box magazines"
+msgid_plural "Twin Saiga-12 box magaziness"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Twin Saiga-12 box magazines'}
+#: .\items\magazine\shot.json
+msgid ""
+"Two plastic magazines from the Saiga-12 shotgun stacked together for the "
+"OCG12 double barrel shotguns.  Hold 20 rounds."
+msgstr ""
+
+#: .\items\magazine\shot.json
+msgid "Twin Excidia extended magazines"
+msgid_plural "Twin Excidia extended magaziness"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Twin Excidia extended magazines'}
+#: .\items\magazine\shot.json
+msgid ""
+"Extended plastic magazines for the OCG12 double barrel shotguns.  Hold 40 "
+"rounds."
+msgstr ""

@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: randomized_mall\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items.json
+msgid "shopping brochure"
+msgid_plural "shopping brochures"
+msgstr[0] "购物宣传册"
+
+#. ~ Use action message for {'str': 'shopping brochure'}.
+#: .\items.json
+msgid "You add the mall to your map."
+msgstr "你将商场添加到了地图上。"
+
+#. ~ Description for {'str': 'shopping brochure'}
+#: .\items.json
+msgid ""
+"This is a brochure advertising a local shopping mall.  It includes a map "
+"with bus routes.  The buses aren't running but the roads should still be "
+"there."
+msgstr "这是一份宣传当地购物商场的宣传册。内含带公交路线的地图。公交车已停运，但道路应该还在。"
+
+#: .\modinfo.json
+msgid "Randomized Mall"
+msgstr "随机化商场"
+
+#. ~ Description for Randomized Mall
+#: .\modinfo.json
+msgid ""
+"Replaces the existing mall with one having a randomized layout.  Less "
+"realistic looking but more variety."
+msgstr "将现有商场替换为布局随机化的版本。外观真实性稍差，但提供了更多变化。"
+
+#: .\overmap_terrain.json
+msgid "parking lot"
+msgstr "停车场"
+
+#: .\overmap_terrain.json
+msgid "shopping mall"
+msgstr "购物中心"
+
+#. ~ Name for scenario 'Mall Cop' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Mall Cop"
+msgstr "商场保安"
+
+#. ~ Name for scenario 'Mall Cop' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Mall Cop"
+msgstr "商场保安"
+
+#. ~ Description for scenario 'Mall Cop' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as"
+" a security guard.  Find a way out and try your best to survive."
+msgstr "你作为保安，在你工作的商场内尽可能长时间地生存了下来。找到出路，并尽力活下去。"
+
+#. ~ Description for scenario 'Mall Cop' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as"
+" a security guard.  Find a way out and try your best to survive."
+msgstr "你作为保安，在你工作的商场内尽可能长时间地生存了下来。找到出路，并尽力活下去。"
+
+#. ~ Starting location for scenario 'Mall Cop'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Mall"
+msgstr "商场"
+
+#: .\start_locations.json
+msgid "Shopping Mall"
+msgstr "购物中心"

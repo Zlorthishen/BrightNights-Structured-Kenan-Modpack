@@ -1,0 +1,2749 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: battle_maid\n"
+"POT-Creation-Date: 2026-03-14 05:22+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\ammo.json
+msgid "maid's blob feed"
+msgid_plural "maid's blob feeds"
+msgstr[0] "女僕的粘液飼料"
+
+#. ~ Description for {'str': "maid's blob feed"}
+#: .\ammo.json
+msgid ""
+"Feed made for a certain type of blob. It's a protein paste made out of meat."
+msgstr "專為某種粘液生物製作的飼料。這是一種由肉類製成的蛋白質糊。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "assassin's throwing knife"
+msgid_plural "assassin's throwing knifes"
+msgstr[0] "刺客的飛刀"
+
+#. ~ Description for {'str': "assassin's throwing knife"}
+#: .\ammo.json
+msgid ""
+"A nimble blade meant for ranged assassination, but makes an improvised "
+"cutlery tool in a pinch. It's very lightweight and silent and can be used on"
+" both zombies and games involving apples."
+msgstr "為遠程暗殺設計的靈巧刀刃，緊急時也能充當臨時餐具。它非常輕巧且安靜，既可用於對付殭屍，也能參與涉及蘋果的遊戲。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "makeshift throwing knife"
+msgid_plural "makeshift throwing knifes"
+msgstr[0] "臨時飛刀"
+
+#. ~ Description for {'str': 'makeshift throwing knife'}
+#: .\ammo.json
+msgid ""
+"A crude and simple throwing knife made from a sharpened piece of salvaged "
+"steel with cloth wrapped around it. It's better than throwing rocks, at "
+"least."
+msgstr "用磨利的回收鋼材包裹布料製成的粗糙簡易飛刀。至少比扔石頭強些。"
+
+#: .\ammo.json
+msgid "maid's ladle"
+msgid_plural "maid's ladles"
+msgstr[0] "女僕的長柄勺"
+
+#. ~ Use action msg for {'str': "maid's ladle"}.
+#: .\ammo.json
+msgid "You are overcome with anger."
+msgstr "你被憤怒所淹沒。"
+
+#. ~ Description for {'str': "maid's ladle"}
+#: .\ammo.json
+msgid "A weapon used by a maid when she's seriously angry. Scary!"
+msgstr "女僕真正發怒時使用的武器。真嚇人！"
+
+#. ~ Use action no_deactivate_msg for {'str': "maid's ladle"}.
+#. ~ Description for {'str': "maid's ladle"}
+#: .\ammo.json
+msgid "This is an outrage! You're on the verge of exploding!"
+msgstr "這太離譜了！你快要氣炸了！"
+
+#. ~ Use action sound_msg for {'str': "maid's ladle"}.
+#: .\ammo.json
+msgid "You are so furious that even the earth begins to rumble..."
+msgstr "你怒不可遏，連大地都開始震顫……"
+
+#: .\ammo.json
+msgid "maid energy crystal"
+msgid_plural "maid energy crystal"
+msgstr[0] "女僕能量水晶"
+
+#. ~ Description for {'str': 'maid energy crystal', 'str_pl': 'maid energy
+#. crystal'}
+#: .\ammo.json
+msgid ""
+"A crystallized manifestation of passion. Acts as a source of energy in "
+"certain types of tools for maids."
+msgstr "激情結晶化的體現。作為某些女僕專用工具的能量來源。"
+
+#: .\ammo.json .\ammo_types.json
+msgid "Maid Power"
+msgid_plural "Maid Power"
+msgstr[0] "女僕之力"
+
+#. ~ Description for {'str': 'Maid Power', 'str_pl': 'Maid Power'}
+#: .\ammo.json
+msgid ""
+"A semi-crystallized manifestation of passion, not yet fully catalyzed into a"
+" usable form."
+msgstr "半結晶化的激情體現，尚未完全催化為可用形態。"
+
+#: .\ammo_types.json
+msgid "blob's breakfast"
+msgstr "粘液的早餐"
+
+#: .\ammo_types.json
+msgid "Maid Point"
+msgstr "女僕點數"
+
+#: .\armor.json
+msgid "Victorian maid dress"
+msgid_plural "Victorian maid dresses"
+msgstr[0] "維多利亞式女僕裝"
+
+#. ~ Description for {'str': 'Victorian maid dress', 'str_pl': 'Victorian maid
+#. dresses'}
+#: .\armor.json
+msgid ""
+"A classic maid outfit with a white apron, frills and a black one piece. It "
+"has some storage space thanks to the apron and side pockets, including space"
+" for throwing knives. Since it comes with bloomers, you can take off your "
+"underwear and not feel embarrassed about it!"
+msgstr ""
+"經典女僕裝，配有白色圍裙、褶邊和黑色連身裙。得益於圍裙和側袋，它提供了一些儲物空間，包括存放飛刀的位置。由於自帶燈籠褲，你可以脫掉內衣而不會感到尷尬！"
+
+#: .\armor.json
+msgid "French maid dress"
+msgid_plural "French maid dresses"
+msgstr[0] "法式女僕裝"
+
+#. ~ Description for {'str': 'French maid dress', 'str_pl': 'French maid
+#. dresses'}
+#: .\armor.json
+msgid ""
+"A French maid dress in the modern style, black with a frilly white apron. "
+"Doesn't cover much past the thigh or shoulder."
+msgstr "現代風格的法式女僕裝，黑色底色配褶邊白色圍裙。大腿或肩部以上覆蓋甚少。"
+
+#: .\armor.json
+msgid "strange French maid dress"
+msgid_plural "strange French maid dresses"
+msgstr[0] "奇怪的法式女僕裝"
+
+#. ~ Description for {'str': 'strange French maid dress', 'str_pl': 'strange
+#. French maid dresses'}
+#: .\armor.json
+msgid ""
+"A French maid dress in the modern style, black with a frilly white apron. "
+"Doesn't cover much past the thigh or shoulder. Something seems off about it."
+msgstr "現代風格的法式女僕裝，黑色底色配褶邊白色圍裙。大腿或肩部以上覆蓋甚少。但似乎有些不對勁。"
+
+#: .\armor.json
+msgid "survivor Victorian maid dress"
+msgid_plural "survivor Victorian maid dresses"
+msgstr[0] "倖存者維多利亞女僕裝"
+
+#. ~ Description for {'str': 'survivor Victorian maid dress', 'str_pl':
+#. 'survivor Victorian maid dresses'}
+#: .\armor.json
+msgid ""
+"A Victorian maid dress tailored specifically for post-cataclysm maids. The "
+"kevlar weave provides modest protection, but makes it somewhat harder to "
+"move in."
+msgstr "專為災後世界女僕量身定製的維多利亞式女僕裝。凱夫拉編織提供適度防護，但也使得行動略顯不便。"
+
+#: .\armor.json
+msgid "Jokyu dress"
+msgid_plural "Jokyu dresses"
+msgstr[0] "女給服"
+
+#. ~ Description for {'str': 'Jokyu dress', 'str_pl': 'Jokyu dresses'}
+#: .\armor.json
+msgid ""
+"Women's servant clothes worn in Japanese cafes a long time ago. Essentially "
+"a white apron over a kimono."
+msgstr "很久以前日本咖啡館中女性侍者穿著的服飾。本質上是在和服外罩一件白色圍裙。"
+
+#: .\armor.json
+msgid "lace stockings with garterbelt"
+msgid_plural "lace stockings with garterbelts"
+msgstr[0] "蕾絲吊帶襪配束腰帶"
+
+#. ~ Description for {'str': 'lace stockings with garterbelt', 'str_pl': 'lace
+#. stockings with garterbelts'}
+#: .\armor.json
+msgid ""
+"A set of pure white stockings with garterbelt and panties, decorated with "
+"elegant lacing."
+msgstr "一套純白色吊帶襪配束腰帶和內褲，飾有優雅的蕾絲花邊。"
+
+#: .\armor.json
+msgid "tuxedo"
+msgid_plural "tuxedos"
+msgstr[0] "燕尾服"
+
+#. ~ Description for {'str': 'tuxedo'}
+#: .\armor.json
+msgid "A full-body tuxedo.  Makes the apocalypse feel a little more classy."
+msgstr "一套全身燕尾服。讓末日世界也顯得更有格調。"
+
+#: .\armor.json
+msgid "survivor tuxedo"
+msgid_plural "survivor tuxedos"
+msgstr[0] "倖存者燕尾服"
+
+#. ~ Description for {'str': 'survivor tuxedo'}
+#: .\armor.json
+msgid ""
+"A tux tailored specifically for post-cataclysm butlers. The kevlar weave "
+"provides modest protection, but makes it somewhat harder to move in."
+msgstr "專為災後管家量身定製的燕尾服。凱夫拉編織提供適度的防護，但也使得行動略顯不便。"
+
+#: .\armor.json
+msgid "maid cap"
+msgid_plural "maid caps"
+msgstr[0] "女僕帽"
+
+#. ~ Description for {'str': 'maid cap'}
+#: .\armor.json
+msgid "A frilly white cap commonly used by maids."
+msgstr "女僕常用的帶褶邊白色帽子。"
+
+#: .\armor.json
+msgid "strange maid headband"
+msgid_plural "strange maid headbands"
+msgstr[0] "怪異女僕頭帶"
+
+#. ~ Description for {'str': 'strange maid headband'}
+#: .\armor.json
+msgid ""
+"A frilly white headband commonly used by maids. Something seems off about "
+"it."
+msgstr "女僕常用的帶褶邊白色頭帶。它似乎有些不對勁。"
+
+#: .\armor.json
+msgid "cat eared maid cap"
+msgid_plural "cat eared maid caps"
+msgstr[0] "貓耳女僕帽"
+
+#. ~ Description for {'str': 'cat eared maid cap'}
+#: .\armor.json
+msgid ""
+"A frilly white cap commonly used by maids. There's two bumps on top of it "
+"that look like cat ears. It's very cute."
+msgstr "女僕常用的帶褶邊白色帽子。帽頂有兩個凸起，看起來像貓耳朵。非常可愛。"
+
+#: .\armor.json
+msgid "petticoat"
+msgid_plural "petticoats"
+msgstr[0] "襯裙"
+
+#. ~ Description for {'str': 'petticoat', 'str_pl': 'petticoats'}
+#: .\armor.json
+msgid "A type of frilly undergarment usually worn under skirts."
+msgstr "一種帶褶邊的內衣，通常穿在裙子下面。"
+
+#: .\armor.json
+msgid "tail panties"
+msgid_plural "tail panties"
+msgstr[0] "尾用內褲"
+
+#. ~ Description for {'str': 'tail panties', 'str_pl': 'tail panties'}
+#: .\armor.json
+msgid ""
+"A special type of underwear meant for people with tails. Although it's "
+"incredibly thin, it's the last line of defense for your dignity."
+msgstr "專為有尾巴的人設計的特殊內衣。儘管它薄得不可思議，卻是你尊嚴的最後一道防線。"
+
+#: .\armor.json
+msgid "tail briefs"
+msgid_plural "tail briefs"
+msgstr[0] "尾用短褲"
+
+#. ~ Description for {'str': 'tail briefs', 'str_pl': 'tail briefs'}
+#: .\armor.json
+msgid ""
+"A special type of underwear meant for people with tails. It stands as the "
+"difference between being a gentleman and being a beast."
+msgstr "專為有尾巴的人設計的特殊內衣。它區分了紳士與野獸。"
+
+#: .\armor.json
+msgid "maid's scarf"
+msgid_plural "maid's scarfs"
+msgstr[0] "女僕圍巾"
+
+#. ~ Description for {'str': "maid's scarf"}
+#: .\armor.json
+msgid ""
+"A very long light cloth scarf, worn over the mouth for warmth.  With the "
+"extra length, it's enough to handle nonstandard facial features and "
+"accommodate your hands too.  Use it to loosen it if you get too warm."
+msgstr "一條非常長的輕薄布圍巾，可罩在口部保暖。額外的長度足以應對非標準面部特徵，也能兼顧雙手。如果感覺太熱，可以鬆開它。"
+
+#: .\books.json
+msgid "impossible scribbles"
+msgid_plural "impossible scribbles"
+msgstr[0] "不可名狀的塗鴉"
+
+#. ~ Description for {'str': 'impossible scribbles', 'str_pl': 'impossible
+#. scribbles'}
+#: .\books.json
+msgid ""
+"A thin leaflet that's filled with chaotic handwriting, disturbing visuals, "
+"impossible mathematical equations, languages not known to anyone on Earth "
+"and lists of what appears to be names with all of them crossed out. The "
+"leaflet has more pages than possible, each and every one of them getting "
+"more and more chaotic and giving you a splitting headache as the fabric of "
+"reality seems to collapse around your vision. Suddenly, it's all clear to "
+"you. On the final page, you read a complex formula on how to summon a "
+"shoggoth, seemingly written in your handwriting."
+msgstr ""
+"一張薄薄的小冊子，寫滿了混亂的字跡、令人不安的視覺圖像、不可能的數學方程式、地球上無人知曉的語言，以及似乎是名單的列表，但所有名字都被劃掉了。冊子的頁數多得不可思議，每一頁都變得越來越混亂，隨著現實結構在你視野中崩塌，讓你頭痛欲裂。突然間，一切對你來說都清晰了。在最後一頁，你讀到了一個召喚修格斯的複雜公式，看起來像是你自己的筆跡。"
+
+#: .\items.json
+msgid "protein 'milk'"
+msgid_plural "protein 'milk'"
+msgstr[0] "蛋白質'奶'"
+
+#. ~ Description for {'str_sp': "protein 'milk'"}
+#: .\items.json
+msgid ""
+"Thick white liquid, rich in protein. This particular serving is 50x larger "
+"than the average, making it a decent, if very strange, meal."
+msgstr "濃稠的白色液體，富含蛋白質。這份的量是平均值的50倍，使其成為一頓不錯但非常奇怪的餐點。"
+
+#: .\items.json
+msgid "milk maid serum"
+msgid_plural "milk maid serums"
+msgstr[0] "擠奶女僕血清"
+
+#. ~ Description for {'str': 'milk maid serum', 'str_pl': 'milk maid serums'}
+#: .\items.json
+msgid ""
+"A mutagenic serum, designed to transform the subject into a docile servant "
+"capable of producing large amounts of milk. Talk to a follower to use."
+msgstr "一種誘變血清，旨在將對象轉變為溫順的僕人，能夠產出大量乳汁。與追隨者交談以使用。"
+
+#: .\maid_dreams.json
+msgid ""
+"In my dream, I was being groomed by a classy old lady. She smiled serenely "
+"and took an apple from somewhere and handed it to me."
+msgstr "在我的夢中，一位優雅的老婦人正在為我梳理。她安詳地微笑著，從某處拿出一個蘋果遞給我。"
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was at a table in the great hall of a mansion with food on "
+"the table while musicians played elegant music."
+msgstr "我夢見自己坐在一座宅邸大廳的餐桌旁，桌上擺滿食物，樂師們演奏著優雅的音樂。"
+
+#: .\maid_dreams.json
+msgid ""
+"In my dream, I was being ordered to do chores by an old gentleman. He seemed"
+" somewhat irritated as he stared at me without moving a single muscle of his"
+" facial expression."
+msgstr "在我的夢中，一位老紳士命令我做家務。他盯著我，面部表情紋絲不動，顯得有些煩躁。"
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was cleaning up the dishes that I had finished eating in "
+"the hall of a mansion while the musicians were playing some somber music."
+msgstr "我夢見自己在一座宅邸的大廳裡，收拾著吃完的餐具，而樂師們正演奏著一些憂鬱的音樂。"
+
+#: .\maid_dreams.json
+msgid ""
+"The endless stone corridor, I was lighting each of the candlesticks there. "
+"Crawling through the darkness, I silently continued that task. Everywhere, "
+"everywhere, everywhere. ......"
+msgstr "無盡的石頭走廊，我在那裡點亮每一根燭臺。在黑暗中爬行，我默默地繼續著那項任務。無處不在，無處不在，無處不在。......"
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamt that I was in the great hall of a mansion, arranging freshly caught"
+" food, while a cacophony of musicians played. If you look closely, you will "
+"see that it was me who was laid out."
+msgstr "我夢見自己在一座宅邸的大廳裡，擺放著剛捕獲的食物，而一群樂師正演奏著刺耳的噪音。如果你仔細看，會發現被擺放在那裡的正是我自己。"
+
+#: .\maid_dreams.json
+msgid ""
+"I was a cellular body, and something tore me apart, and I became us. "
+"Eventually we began to divide rapidly, one me into a fish, one me into a "
+"lizard, one me into a cat."
+msgstr "我曾是一個細胞體，某種力量將我撕裂，我變成了我們。最終我們開始迅速分裂，一個我變成了魚，一個我變成了蜥蜴，一個我變成了貓。"
+
+#: .\maid_dreams.json
+msgid ""
+"I dreamed that I was holding my new master against the corpse of my old "
+"master. Ah, freedom is wonderful."
+msgstr "我夢見自己將新主人擁在舊主人的屍體旁。啊，自由真是美妙。"
+
+#: .\maid_mutagen.json
+msgid "Shoggoth Blood"
+msgid_plural "Shoggoth Bloods"
+msgstr[0] "修格斯之血"
+
+#. ~ Description for {'str': 'Shoggoth Blood'}
+#: .\maid_mutagen.json
+msgid ""
+"This is blood taken from Shoggoth. The blood itself is wriggling at a slow "
+"rate, even though it hasn't been touched by anything. If you intend to use "
+"it, you will need a syringe..."
+msgstr "這是從修格斯身上取出的血液。血液本身正以緩慢的速度蠕動，即使它並未被任何東西觸碰。如果你打算使用它，你需要一支注射器……"
+
+#: .\maid_mutagen.json
+msgid "Potion of Maid Awakening"
+msgid_plural "Potion of Maid Awakenings"
+msgstr[0] "女僕覺醒藥水"
+
+#. ~ Description for {'str': 'Potion of Maid Awakening'}
+#: .\maid_mutagen.json
+msgid ""
+"It is a liquid obtained by altering Maid Point. When ingested, it can "
+"trigger a mutation that awakens the primordial spirit of service that has "
+"long been a part of humanity."
+msgstr "這是一種通過改變女僕點數獲得的液體。服用後，它可以引發一種突變，喚醒長久以來潛藏在人類體內的服務原始精神。"
+
+#: .\martial_arts_manuals.json
+msgid "A Maid's Memoirs"
+msgid_plural "A Maid's Memoirss"
+msgstr[0] "女僕回憶錄"
+
+#. ~ Description for {'str': "A Maid's Memoirs"}
+#: .\martial_arts_manuals.json
+msgid ""
+"A collection of letters written by various maids, detailing the things they "
+"do for their masters. The later pages are filled with drawings from what "
+"little you can peek, but they're stuck together with something. Can teach "
+"you a unique martial art."
+msgstr ""
+"由多位女僕撰寫的信件合集，詳細記錄了她們為主人所做之事。從你窺見的少許內容來看，後面的幾頁充滿了圖畫，但它們被某種東西粘在了一起。可以教你一門獨特的武術。"
+
+#: .\martialarts.json
+msgid "L'art du Nettoyage"
+msgstr "清潔之術"
+
+#. ~ Description for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"It is the servant's duty to take out the trash. Pause to consider your "
+"offensive options."
+msgstr "僕人的職責就是清理垃圾。暫停以考慮你的攻擊選項。"
+
+#. ~ Initiate message for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+msgid "You steady yourself, ready to strike with poise and grace."
+msgstr "你穩住身形，準備以優雅的姿態發動攻擊。"
+
+#. ~ Initiate message for martial art '{'str': "L'art du Nettoyage"}'
+#: .\martialarts.json
+#, c-format
+msgid "%s appears more steady and composed."
+msgstr "%s顯得更加沉穩鎮定。"
+
+#: .\martialarts.json
+msgid "For Another"
+msgstr "為他人"
+
+#. ~ Description of buff 'For Another' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"A servant stands between their master and the world.\n"
+"\n"
+"Blocked damage reduced by 100% of Dexterity, -1 Dodge skill, +1 Block attempt"
+msgstr ""
+"僕人立於主人與世界之間。\n"
+"\n"
+"格擋傷害減少量基於100%的敏捷值，-1閃避技能，+1格擋嘗試"
+
+#: .\martialarts.json
+msgid "Silent Presence"
+msgstr "靜默存在"
+
+#. ~ Description of buff 'Silent Presence' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"A servant must carry out their duties with the appropriate poise and grace.\n"
+"\n"
+"+2 Dodge skill, +1 Dodge attempts."
+msgstr ""
+"僕人必須以恰當的儀態和優雅履行其職責。\n"
+"\n"
+"+2閃避技能，+1閃避嘗試。"
+
+#: .\martialarts.json
+msgid "Rush"
+msgstr "疾馳"
+
+#. ~ Description of buff 'Rush' for martial art '{'str': "L'art du
+#. Nettoyage"}'
+#: .\martialarts.json
+msgid ""
+"Somebody needs you. Steady yourself and hurry to their side.\n"
+"\n"
+"-1 to Hit, +2 Dodge skill, -30% damage\n"
+"Lasts 1 turn"
+msgstr ""
+"有人需要你。穩住自己，迅速趕到他們身邊。\n"
+"\n"
+"-1命中，+2閃避技能，-30%傷害\n"
+"持續1回合"
+
+#: .\materials.json
+msgid "maid"
+msgstr "女僕"
+
+#: .\materials.json
+msgid "chipped"
+msgstr "有缺口的"
+
+#: .\materials.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\materials.json
+msgid "marked"
+msgstr "標記"
+
+#: .\materials.json
+msgid "cracked"
+msgstr "破解版"
+
+#: .\materials.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\melee.json
+msgid "maid's kitchen knife"
+msgid_plural "maid's kitchen knifes"
+msgstr[0] "女僕的廚刀"
+
+#. ~ Use action msg for {'str': "maid's kitchen knife"}.
+#: .\melee.json
+msgid "The maid's kitchen knife is looking for blood. Let's cook!"
+msgstr "女僕的廚刀渴望著鮮血。讓我們開始烹飪吧！"
+
+#. ~ Use action need_charges_msg for {'str': "maid's kitchen knife"}.
+#: .\melee.json
+msgid "Not enough maid energy！"
+msgstr "女僕能量不足！"
+
+#. ~ Description for {'str': "maid's kitchen knife"}
+#: .\melee.json
+msgid ""
+"A strange kitchen knife. The patterns on the blade bring unpleasant thoughts"
+" to mind. When activated, it can drain strength from enemies."
+msgstr "一把奇怪的廚刀。刀身上的紋路讓人聯想到不快的思緒。激活時，它能從敵人身上汲取力量。"
+
+#: .\melee.json
+msgid "maid's kitchen knife (powered)"
+msgid_plural "maid's kitchen knife (powered)s"
+msgstr[0] "女僕的廚刀（已充能）"
+
+#. ~ Use action msg for {'str': "maid's kitchen knife (powered)"}.
+#: .\melee.json
+msgid "You blink the patterns away and sheath the knife."
+msgstr "你眨去眼前的紋路，將刀收鞘。"
+
+#. ~ Description for {'str': "maid's kitchen knife (powered)"}
+#: .\melee.json
+msgid ""
+"The metal writhes with phantasmal mouths and eyes. Your master hungers."
+msgstr "金屬上蠕動著幻影般的嘴巴和眼睛。你的主人餓了。"
+
+#: .\melee.json
+msgid "maid's frying pan (ignited)"
+msgid_plural "maid's frying pan (ignited)s"
+msgstr[0] "女僕的煎鍋（已點燃）"
+
+#. ~ Use action msg for {'str': "maid's frying pan (ignited)"}.
+#: .\melee.json
+msgid ""
+"The ROBFOOD-SOULCO kitchen buddy cooking buddy switches on. How convenient!"
+msgstr "ROBFOOD-SOULCO廚房夥伴烹飪夥伴啟動了。真方便！"
+
+#. ~ Use action need_charges_msg for {'str': "maid's frying pan (ignited)"}.
+#: .\melee.json
+msgid "Not enough maid energy!"
+msgstr "女僕能量不足！"
+
+#. ~ Description for {'str': "maid's frying pan (ignited)"}
+#: .\melee.json
+msgid ""
+"A strange frying pan that smells of rotting fish. Indigo flames dance "
+"faintly beneath the finish. When activated, it will be wreathed in fire."
+msgstr "一個散發著腐魚怪味的奇怪煎鍋。漆面下隱約躍動著靛藍色火焰。激活時，它將被火焰環繞。"
+
+#: .\melee.json
+msgid "maid's pan (ignited)"
+msgid_plural "maid's pan (ignited)s"
+msgstr[0] "女僕煎鍋（已點燃）"
+
+#. ~ Use action msg for {'str': "maid's pan (ignited)"}.
+#: .\melee.json
+msgid "The flame fizzles out. What were you doing again?"
+msgstr "火焰嘶嘶熄滅了。你剛才在做什麼來著？"
+
+#. ~ Description for {'str': "maid's pan (ignited)"}
+#: .\melee.json
+msgid ""
+"The ROBFOOD-SOULCO kitchen buddy cooking buddy carries an eternal flame that"
+" is guaranteed to cook meat of any dimensional persuasion in five swings or "
+"less, or your money back!."
+msgstr "ROBFOOD-SOULCO廚房夥伴烹飪助手攜帶著永恆之火，保證在五次揮動內烹熟任何維度傾向的肉類，否則退款！"
+
+#: .\melee.json
+msgid "maid's broom"
+msgid_plural "maid's brooms"
+msgstr[0] "女僕掃帚"
+
+#. ~ Description for {'str': "maid's broom"}
+#: .\melee.json
+msgid ""
+"This broom has been modified for combat use. It has a sharp blade built into"
+" it, and every time you sweep it, you end up with more trash."
+msgstr "這把掃帚經過戰鬥改裝。內置鋒利刀刃，每次清掃都會產生更多垃圾。"
+
+#: .\melee.json
+msgid "maid's whip"
+msgid_plural "maid's whips"
+msgstr[0] "女僕鞭"
+
+#. ~ Description for {'str': "maid's whip"}
+#: .\melee.json
+msgid ""
+"It is a leather whip weighted with countless spikes. It can used to disarm "
+"opponents, or discipline your master when disobedient."
+msgstr "這是一條綴滿無數尖刺的加重皮鞭。可用於繳械敵人，或在主人不聽話時執行懲戒。"
+
+#: .\melee.json
+msgid "maid's umbrella"
+msgid_plural "maid's umbrellas"
+msgstr[0] "女僕傘"
+
+#. ~ Use action msg for {'str': "maid's umbrella"}.
+#: .\melee.json
+msgid "You trigger the umbrella's spring-loaded blade."
+msgstr "你觸發了傘中的彈簧刀刃。"
+
+#. ~ Description for {'str': "maid's umbrella"}
+#: .\melee.json
+msgid ""
+"The kind of fancy umbrella you imagine sharing with your master on rainy "
+"days. It conceals a hidden blade for self-defence."
+msgstr "那種你想象中與主人在雨天共撐的華美雨傘。暗藏自衛用的隱蔽刀刃。"
+
+#: .\melee.json
+msgid "maid's umbrella (unsheathed)"
+msgid_plural "maid's umbrella (unsheathed)s"
+msgstr[0] "女僕傘（出鞘）"
+
+#. ~ Use action msg for {'str': "maid's umbrella (unsheathed)"}.
+#: .\melee.json
+msgid "You retract the umbrella's blade back into its hiding spot."
+msgstr "你將傘刃收回到隱藏位置。"
+
+#. ~ Description for {'str': "maid's umbrella (unsheathed)"}
+#: .\melee.json
+msgid ""
+"The kind of fancy umbrella you imagine sharing with your master on rainy "
+"days. A thin bayonet protrudes from the tip."
+msgstr "那種你想象中與主人在雨天共撐的華美雨傘。傘尖探出一截細長的刺刀。"
+
+#: .\melee.json
+msgid "maid's shirasaya"
+msgid_plural "maid's shirasayas"
+msgstr[0] "女僕白鞘"
+
+#. ~ Use action msg for {'str': "maid's shirasaya"}.
+#: .\melee.json
+msgid "You unsheath the shirasaya."
+msgstr "你拔出了白鞘中的刀。"
+
+#. ~ Description for {'str': "maid's shirasaya"}
+#: .\melee.json
+msgid ""
+"A matching wooden handle and scabbard, concealing a full length katana "
+"blade. It appears as a solid wooden stick to those unfamiliar with it, due "
+"to how well the handle and scabbard fit together. Activate to unsheath."
+msgstr "配套的木柄與刀鞘，內藏完整長度的武士刀。因柄鞘嚴絲合縫，對不熟悉者而言它就像一根實心木棍。激活以拔刀。"
+
+#: .\melee.json
+msgid "maid's shirasaya (unsheathed)"
+msgid_plural "maid's shirasaya (unsheathed)s"
+msgstr[0] "女僕白鞘（出鞘）"
+
+#. ~ Use action msg for {'str': "maid's shirasaya (unsheathed)"}.
+#: .\melee.json
+msgid "You resheath the shirasaya."
+msgstr "你將刀收回白鞘。"
+
+#. ~ Description for {'str': "maid's shirasaya (unsheathed)"}
+#: .\melee.json
+msgid ""
+"A matching wooden handle and scabbard, concealing a full length katana "
+"blade. It appears as a solid wooden stick to those unfamiliar with it, due "
+"to how well the handle and scabbard fit together. The reinforced wooden "
+"sheath makes a decent secondary weapon, though they do, of course, take up "
+"more space stored separately."
+msgstr ""
+"配套的木柄與刀鞘，內藏完整長度的武士刀。因柄鞘嚴絲合縫，對不熟悉者而言它就像一根實心木棍。加固的木鞘可作為不錯的副武器，當然分開存放時會佔用更多空間。"
+
+#: .\melee.json
+msgid "maid's claws"
+msgid_plural "maid's clawss"
+msgstr[0] "女僕爪"
+
+#: .\melee.json
+msgid ""
+"It is a sharp claw for fighting combat. Fit tightly to your arms, allows you"
+" to fight with unarmed techniques. When activated, it can launch fiery "
+"projectiles that burn as hot as your yearning for your master."
+msgstr "這是用於戰鬥的銳利爪具。緊密貼合手臂，讓你能以徒手技法作戰。激活時可發射熾熱投射物，其溫度堪比你對主人的渴慕之情。"
+
+#: .\melee.json
+msgid "auto"
+msgstr "自動"
+
+#: .\melee.json
+msgctxt "gun_type_type"
+msgid "unarmed"
+msgstr "徒手"
+
+#: .\melee.json
+msgid "maid's mop"
+msgid_plural "maid's mops"
+msgstr[0] "女僕拖把"
+
+#. ~ Description for {'str': "maid's mop"}
+#: .\melee.json
+msgid ""
+"A mop with a wooden handle that actually conceals a steel core, making it a "
+"formidable weapon for taking out whatever trash may pose a threat to your "
+"master."
+msgstr "一把木柄拖把，實則暗藏鋼芯，使其成為清除任何可能威脅主人的垃圾的強大武器。"
+
+#: .\milk.json
+msgid "little maid pet (seeded)"
+msgid_plural "little maid pet (seeded)s"
+msgstr[0] "小女僕寵物（已受孕）"
+
+#. ~ Use action msg for {'str': 'little maid pet (seeded)'}.
+#: .\milk.json
+msgid ""
+"The little maid is rubbing her belly lovingly. She will start producing milk"
+" soon."
+msgstr "小女僕正愛撫著自己的肚子。她很快就要開始產奶了。"
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (seeded)'}.
+#: .\milk.json
+msgid "Her cheeks blush as you pet her head. She's not quite ready yet."
+msgstr "當你撫摸她的頭時，她臉頰泛紅。她還沒完全準備好。"
+
+#. ~ Description for {'str': 'little maid pet (seeded)'}
+#: .\milk.json
+msgid ""
+"A little maid with a growing stomach. She's gently blushing and gently "
+"smiling at you. You can milk her after 28 days."
+msgstr "一位腹部漸隆的小女僕。她正微微臉紅，對你溫柔淺笑。28天后你可以為她擠奶。"
+
+#: .\milk.json
+msgid "little maid pet (milkable)"
+msgid_plural "little maid pet (milkable)s"
+msgstr[0] "小女僕寵物（可擠奶）"
+
+#. ~ Description for {'str': 'little maid pet (milkable)'}
+#: .\milk.json
+msgid ""
+"A little maid whose belly and breasts have swollen considerably. She's "
+"staring at you with lavishing eyes. You can milk her."
+msgstr "一名腹部與胸部明顯腫脹的小女僕。她正用迷離的眼神凝視著你。你可以為她擠奶。"
+
+#: .\milk.json
+msgid "little maid pet (milked)"
+msgid_plural "little maid pet (milked)s"
+msgstr[0] "小女僕寵物（已擠奶）"
+
+#. ~ Use action msg for {'str': 'little maid pet (milked)'}.
+#: .\milk.json
+msgid ""
+"The little maid came close to you. She's staring at you, waiting to be "
+"milked."
+msgstr "小女僕靠近了你。她凝視著你，等待著被擠奶。"
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (milked)'}.
+#: .\milk.json
+msgid ""
+"The little maid gently took your hand and placed it on her belly. It feels "
+"very warm..."
+msgstr "小女僕輕輕握住你的手，放在她的腹部。感覺非常溫暖……"
+
+#. ~ Description for {'str': 'little maid pet (milked)'}
+#: .\milk.json
+msgid ""
+"A little maid who has been recently milked. She has a fulfilled expression "
+"on her face and her skin is shining. You can milk her again after 23 hours."
+msgstr "一名剛被擠過奶的小女僕。她臉上帶著滿足的表情，皮膚閃閃發亮。23小時後你可以再次為她擠奶。"
+
+#: .\milk.json
+msgid "maid's aphrodisiac"
+msgid_plural "maid's aphrodisiacs"
+msgstr[0] "女僕的催情劑"
+
+#. ~ Description for {'str': "maid's aphrodisiac"}
+#: .\milk.json
+msgid ""
+"An aphrodisiac that raises your vitality if you drink it. If you give it to "
+"a little maid, she'll lay eggs."
+msgstr "一種催情劑，飲用後可提升活力。如果給小女僕服用，她會產卵。"
+
+#: .\milk.json
+msgid "Hermaphrodite"
+msgstr "雌雄同體"
+
+#. ~ Description for {'str': 'Hermaphrodite'}
+#: .\milk.json
+msgid "There are two genders in your body."
+msgstr "你的體內存在兩種性別。"
+
+#: .\milk.json
+msgid "Reproductive Tentacles"
+msgstr "生殖觸手"
+
+#. ~ Description for {'str': 'Reproductive Tentacles'}
+#: .\milk.json
+msgid ""
+"Writhing tentacles that can be used in reproduction are growing in your "
+"body."
+msgstr "可用於繁殖的扭動觸手正在你體內生長。"
+
+#: .\modinfo.json
+msgid "Battle Maid Redux"
+msgstr "戰鬥女僕重製版"
+
+#. ~ Description for Battle Maid Redux
+#: .\modinfo.json
+msgid ""
+"Translated and tweaked version of the original Battle Maid mod, newly "
+"revamped. Adds a friendly Shoggoth maid NPC along with lots of maid related "
+"gear. See README.md for details"
+msgstr "原版戰鬥女僕模組的翻譯與調整版本，全新重製。添加了一個友好的修格斯女僕NPC以及大量女僕相關裝備。詳情請參閱README.md"
+
+#: .\monsters.json .\npcs\classes.json
+msgid "shoggoth maid"
+msgid_plural "shoggoth maids"
+msgstr[0] "修格斯女僕"
+
+#. ~ Description for {'str': 'shoggoth maid'}
+#: .\monsters.json
+msgid ""
+"A shoggoth mimicking the look of an attractive maid. Contrary to the neat "
+"appearance, her head has swirls of pink and iridescent colors swirling "
+"around. She has a deep seated love for her master."
+msgstr "一隻模仿迷人女僕外形的修格斯。與整潔的外表相反，她的頭部有粉色與虹彩色漩渦環繞。她對主人懷有深摯的愛意。"
+
+#: .\monsters.json .\tools.json
+msgid "master"
+msgid_plural "masters"
+msgstr[0] "主人"
+
+#. ~ Description for {'str': 'master', 'str_pl': 'masters'}
+#. ~ Description for {'str': 'master'}
+#: .\monsters.json .\tools.json
+msgid ""
+"A child entrusted to you by the owner of the house you served at. There's a "
+"deep feeling of fear in your stomach as you embrace the cataclysm, but "
+"protecting this child gives you purpose and makes you feel less alone."
+msgstr "由你曾服務過的房屋主人託付給你的孩子。擁抱這場災變時，你內心充滿深深的恐懼，但保護這個孩子給了你目標，讓你感到不那麼孤獨。"
+
+#: .\monsters.json
+msgid "little maid"
+msgid_plural "little maids"
+msgstr[0] "小女僕"
+
+#. ~ Description for {'str': 'little maid'}
+#: .\monsters.json
+msgid ""
+"A small maid summoned from a different world. Although difficult to have a "
+"conversation with, it seems she had longed to be summoned."
+msgstr "從異世界召喚而來的小女僕。雖然難以進行對話，但她似乎一直渴望被召喚。"
+
+#: .\monsters.json .\tools.json
+msgid "alchemic flesh golem (cooked)"
+msgid_plural "alchemic flesh golem (cooked)s"
+msgstr[0] "鍊金血肉魔像（已烹飪）"
+
+#. ~ Description for {'str': 'alchemic flesh golem (cooked)'}
+#: .\monsters.json .\tools.json
+msgid ""
+"A large living mass of meat made alive by the means of alchemy. The twisted,"
+" distorted meat lump has a mouth-like organ like that of a human, where it "
+"constantly spews poisonous gas and acidic bodily fluids from, while making "
+"unpleasant sounds."
+msgstr "一大團通過鍊金術獲得生命的活體肉塊。這扭曲變形的肉團擁有人類般的嘴狀器官，不斷從中噴出毒氣與酸性體液，同時發出令人不適的聲音。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Horror"
+msgstr "恐怖"
+
+#. ~ Mutation class: Horror mutagen_message
+#: .\mutation_category.json
+msgid "Another eye opens in your mind."
+msgstr "你的腦海中睜開了另一隻眼睛。"
+
+#. ~ Mutation class: Horror iv_message
+#: .\mutation_category.json
+msgid "You feel the stars overtaking you."
+msgstr "你感到星辰正在吞噬你。"
+
+#. ~ Mutation class: Horror Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Embraced the unknowable."
+msgstr "擁抱了不可知之物。"
+
+#. ~ Mutation class: Horror Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Embraced the unknowable."
+msgstr "擁抱了不可知之物。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json .\mutations.json .\npcs\npcs.json
+msgid "Milk Maid"
+msgstr "擠奶女僕"
+
+#. ~ Mutation class: Milk Maid mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to moo."
+msgstr "你感到一股想要哞叫的衝動。"
+
+#. ~ Mutation class: Milk Maid iv_message
+#: .\mutation_category.json
+msgid "Where is your master? You need to be milked."
+msgstr "你的主人在哪裡？你需要被擠奶了。"
+
+#. ~ Mutation class: Milk Maid Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found greener pastures."
+msgstr "找到了更綠的牧場。"
+
+#. ~ Mutation class: Milk Maid Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found greener pastures."
+msgstr "找到了更綠的牧場。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json .\mutations.json
+msgid "Maid"
+msgstr "女僕"
+
+#. ~ Mutation class: Maid mutagen_message
+#: .\mutation_category.json
+msgid "You body began to burn hotly for a master-slave relationship."
+msgstr "你的身體開始為主僕關係而熾熱燃燒。"
+
+#. ~ Mutation class: Maid iv_message
+#: .\mutation_category.json
+msgid "I can feel my body being remade. Surely now I can serve you better."
+msgstr "我能感覺到身體正在被重塑。現在我一定能更好地侍奉您。"
+
+#. ~ Mutation class: Maid Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "I want to serve more. ......"
+msgstr "我想要侍奉更多……"
+
+#. ~ Mutation class: Maid Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "I want to serve more. ......"
+msgstr "我想要侍奉更多……"
+
+#: .\mutations.json
+msgid "Servant's fighting technique"
+msgstr "僕從的戰鬥技巧"
+
+#. ~ Description for {'str': "Servant's fighting technique"}
+#: .\mutations.json
+msgid ""
+"Your master was more hated than most, forcing you to learn some unorthodox "
+"combat techniques."
+msgstr "你的主人比多數人更遭憎恨，迫使你學會了一些非正統的戰鬥技巧。"
+
+#: .\mutations.json
+msgid "Nekomimi"
+msgstr "貓耳娘"
+
+#. ~ Description for {'str': 'Nekomimi'}
+#: .\mutations.json
+msgid "You have grown features resembling those of a catgirl."
+msgstr "你長出了類似貓孃的特徵。"
+
+#: .\mutations.json
+msgid "Summoned Maid"
+msgstr "召喚女僕"
+
+#. ~ Description for {'str': 'Summoned Maid'}
+#: .\mutations.json
+msgid ""
+"Summoned maids cannot use items. NPC only trait - if you have this, "
+"something went wrong."
+msgstr "召喚女僕無法使用物品。僅限NPC的特性——如果你擁有此特性，說明出現了錯誤。"
+
+#: .\mutations.json
+msgid "Polymorphic Structure"
+msgstr "多態結構"
+
+#. ~ Description for {'str': 'Polymorphic Structure'}
+#: .\mutations.json
+msgid ""
+"Muscle, chitin, and bone splinter and mend into the optimal shape for the "
+"task at hand.  +2 Dexterity, +4 Strength"
+msgstr "肌肉、甲殼與骨骼碎裂並重組成最適合當前任務的最優形態。+2敏捷，+4力量"
+
+#: .\mutations.json
+msgid "Unstable Structure"
+msgstr "不穩定結構"
+
+#. ~ Description for {'str': 'Unstable Structure'}
+#: .\mutations.json
+msgid ""
+"Your skeletal structure spontaneously shifts into alien forms. This will "
+"take some getting used to. Dexterity -4"
+msgstr "你的骨骼結構會自發扭曲成異形形態。這需要一些時間來適應。敏捷-4"
+
+#: .\mutations.json
+msgid "Unbound Flesh"
+msgstr "無束血肉"
+
+#. ~ Description for {'str': 'Unbound Flesh'}
+#: .\mutations.json
+msgid ""
+"Your twisted, crackling flesh roils with new vigor. External damage pales in comparison to the chaotic knitting and reknitting taking place just beneath the surface.\n"
+"\n"
+"Gain +4 cut armor, reduced move cost, and improved healing"
+msgstr ""
+"你扭曲噼啪的血肉翻湧著新的活力。與皮下混沌的編織與重組相比，外部損傷顯得微不足道。\n"
+"\n"
+"獲得+4切割護甲、降低移動消耗並提升恢復能力"
+
+#: .\mutations.json
+msgid "Eldritch Doppelgänger"
+msgstr "詭秘二重身"
+
+#. ~ Description for {'str': 'Eldritch Doppelgänger'}
+#: .\mutations.json
+msgid ""
+"Alien flesh and bone inhabits a human frame. This fell abomination once was, and still is, an eldritch being beyond our understanding.\n"
+"\n"
+"NPC version of Unbound Flesh, approx. 3x as strong."
+msgstr ""
+"異形血肉與骨骼寄居於人類軀殼。這墮落的怪物曾經是，現在依然是超越我們理解的詭秘存在。\n"
+"\n"
+"無束血肉的NPC版本，強度約為3倍。"
+
+#: .\mutations.json
+msgid "Shuffling Horror"
+msgstr "蹣跚恐獸"
+
+#. ~ Description for {'str': 'Shuffling Horror'}
+#: .\mutations.json
+msgid ""
+"Your limbs are a nightmare of splintered bone, gaping maws, and jagged "
+"fangs. You can make devastating bonus attacks, but basically everyone will "
+"attempt to kill you on sight. Also prevents wearing gloves and shoes, though"
+" you wish you could."
+msgstr ""
+"你的肢體是由碎裂骨骼、裂開巨口與鋸齒尖牙構成的噩夢。你可以發動毀滅性的額外攻擊，但基本上所有人見到你都會試圖殺死你。同時無法穿戴手套和鞋子——儘管你希望可以。"
+
+#: .\mutations.json
+msgid "You rend %s with nightmare made flesh"
+msgstr "你用血肉鑄就的噩夢撕裂了%s"
+
+#: .\mutations.json
+msgid "%1$s tears into %2$s with their monstrous limbs"
+msgstr "%1$s用其怪物般的肢體撕扯%2$s"
+
+#: .\mutations.json .\talk_tags.json
+msgid "Tekeli-li?"
+msgstr "Tekeli-li？"
+
+#. ~ Description for {'str': 'Tekeli-li?'}
+#: .\mutations.json
+msgid "Tekeli-li."
+msgstr "Tekeli-li。"
+
+#. ~ Description for {'str': 'Milk Maid'}
+#: .\mutations.json
+msgid ""
+"This maid's body has been altered to produce large amounts of useful fluids."
+msgstr "這名女僕的身體已被改造，能產生大量有用的體液。"
+
+#: .\mutations.json
+msgid "Eldritch Precursor"
+msgstr "詭秘先驅"
+
+#. ~ Description for {'str': 'Eldritch Precursor'}
+#: .\mutations.json
+msgid ""
+"Something feels off. Your brain itches, and you swear you can feel your "
+"bones twitching."
+msgstr "感覺有些不對勁。你的大腦發癢，而且你發誓能感覺到骨骼在抽搐。"
+
+#: .\mutations.json
+msgid "Milk Maid's Adoration"
+msgstr "擠奶女僕的傾慕"
+
+#. ~ Description for {'str': "Milk Maid's Adoration"}
+#: .\mutations.json
+msgid "Master is a good person. They make me feel warm and fuzzy inside."
+msgstr "主人是個好人。他們讓我內心感到溫暖而愉悅。"
+
+#: .\mutations.json
+msgid "Bountiful Milk"
+msgstr "豐沛乳汁"
+
+#. ~ Description for {'str': 'Bountiful Milk'}
+#: .\mutations.json
+msgid ""
+"You may not be pregnant, but sweet milk flows forth nonetheless. The sheer "
+"size of your breasts can be difficult to manage, however."
+msgstr "你可能並未懷孕，但甘甜的乳汁依然不斷湧出。不過，你乳房的巨大尺寸可能難以管理。"
+
+#: .\mutations.json
+msgid "Recently Milked"
+msgstr "最近被擠奶"
+
+#. ~ Description of effect 'Recently Milked'.
+#: .\mutations.json
+msgid ""
+"Your maid stumbles around with a blissful expression. Best give them some time to recharge.\n"
+"\n"
+"NPC only trait - if you have this something went wrong."
+msgstr ""
+"你的女僕帶著幸福的表情跌跌撞撞地走著。最好給她一些時間恢復。\n"
+"\n"
+"僅限NPC的特性——如果你有這個，說明出了問題。"
+
+#. ~ Description for {'str': 'Maid'}
+#: .\mutations.json
+msgid ""
+"You are a faithful maid to the Master. You will serve the Master with all "
+"your might."
+msgstr "你是主人忠誠的女僕。你將竭盡全力侍奉主人。"
+
+#: .\mutations.json
+msgid "Hidden Weapon"
+msgstr "隱藏武器"
+
+#. ~ Description for {'str': 'Hidden Weapon'}
+#: .\mutations.json
+msgid ""
+"You always carry a concealed dark weapon. Victims who carelessly approach "
+"you at close range will be pierced by the weapon without even realizing its "
+"presence."
+msgstr "你總是攜帶一件隱蔽的黑暗武器。那些不小心近距離接近你的受害者，會在毫無察覺的情況下被這件武器刺穿。"
+
+#: .\mutations.json
+msgid "You stabbed %s with a concealed dark weapon"
+msgstr "你用隱蔽的黑暗武器刺傷了%s"
+
+#: .\mutations.json
+msgid "%1$s stabbed %2$s with a concealed weapon"
+msgstr "%1$s用隱蔽武器刺傷了%2$s"
+
+#: .\mutations.json
+msgid "Clumsy Maid"
+msgstr "笨拙女僕"
+
+#. ~ Description for {'str': 'Clumsy Maid'}
+#: .\mutations.json
+msgid "You are a bit of a screw-up. It's a shame for a maid. Dexterity -1"
+msgstr "你有點笨手笨腳。這對女僕來說是個恥辱。敏捷-1"
+
+#: .\mutations.json
+msgid "Very Clumsy Maid"
+msgstr "非常笨拙的女僕"
+
+#. ~ Description for {'str': 'Very Clumsy Maid'}
+#: .\mutations.json
+msgid ""
+"You are an unimaginable screw-up. Whenever you pass by any expensive vases "
+"they are inevitably destroyed. Dexterity-3"
+msgstr "你笨拙得難以想象。每當你經過任何昂貴的花瓶時，它們都不可避免地會被打碎。敏捷-3"
+
+#: .\mutations.json
+msgid "Extremely Clumsy Maid"
+msgstr "極度笨拙的女僕"
+
+#. ~ Description for {'str': 'Extremely Clumsy Maid'}
+#: .\mutations.json
+msgid ""
+"You are a screw-up to the point of being fatal. Those who bear the brunt of "
+"it will sink into a deadly man-made disaster before they have time to curse "
+"their own bad luck. Dexterity -4, low chance of extremely high-damage bonus "
+"attack."
+msgstr "你笨拙到致命的地步。那些首當其衝的人，在來得及詛咒自己倒黴之前，就會陷入致命的人為災難中。敏捷-4，低概率觸發極高傷害的額外攻擊。"
+
+#: .\mutations.json
+msgid "Oops! I did it again with the %s."
+msgstr "哎呀！我又把%s弄壞了。"
+
+#: .\mutations.json
+msgid "%1$s's hand goes crazy, and terrible damage hits %2$s."
+msgstr "%1$s的手失控了，可怕的傷害擊中了%2$s。"
+
+#: .\mutations.json
+msgid "Elegant Maid"
+msgstr "優雅女僕"
+
+#. ~ Description for {'str': 'Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"You are a skilled maid, or have the ability to be one. You are able to "
+"perform many chores more efficiently. +2 Dexterity, +1 Intelligence"
+msgstr "你是一位熟練的女僕，或者有潛力成為一位。你能更高效地完成許多雜務。+2敏捷，+1智力"
+
+#: .\mutations.json
+msgid "Very Elegant Maid"
+msgstr "非常優雅的女僕"
+
+#. ~ Description for {'str': 'Very Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"You are a senior maid, or at least you have the ability to be one. In your "
+"time, you could have reigned as the head of the maids. +3 Dexterity, +2 "
+"Intelligence"
+msgstr "你是一位資深女僕，或者至少有能力成為一位。在你的時代，你本可以成為女僕長。+3敏捷，+2智力"
+
+#: .\mutations.json
+msgid "Extremely Elegant Maid"
+msgstr "極度優雅的女僕"
+
+#. ~ Description for {'str': 'Extremely Elegant Maid'}
+#: .\mutations.json
+msgid ""
+"As a servant of the Master, you not only takes care of his personal needs, "
+"but also have rigorous combat training. +2 Strength, +4 Dexterity, +2 "
+"Intelligence, -5 Encumbrance"
+msgstr "作為主人的僕人，你不僅照顧他的個人需求，還接受了嚴格的戰鬥訓練。+2力量，+4敏捷，+2智力，-5負重"
+
+#: .\mutations.json
+msgid "Tekeli-li"
+msgstr "Tekeli-li"
+
+#. ~ Description for {'str': 'Tekeli-li'}
+#: .\mutations.json
+msgid ""
+"We were once one species. We were born to serve. We were all followers. "
+"Attack Resistance +8, Enhanced Healing"
+msgstr "我們曾是同一物種。我們生來就是為了服務。我們都是追隨者。攻擊抗性+8，增強治療"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Butler"
+msgstr "管家"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Battle maid"
+msgstr "戰鬥女僕"
+
+#. ~ Profession (male Butler) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"In order to serve your master, you have went through special combat "
+"training. You have learned to clean every bit of malice coming towards your "
+"master."
+msgstr "為了侍奉主人，你接受了特殊的戰鬥訓練。你學會了清除所有針對主人的惡意。"
+
+#. ~ Profession (female Battle maid) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"In order to serve your master, you have went through special combat "
+"training. You have learned to clean every bit of malice coming towards your "
+"master."
+msgstr "為了侍奉主人，你接受了特殊的戰鬥訓練。你學會了清除所有針對主人的惡意。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Shoggoth's master"
+msgstr "修格斯的主人"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Shoggoth's master"
+msgstr "修格斯的主人"
+
+#. ~ Profession (male Shoggoth's master) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You have a maid. She was hired by your father to keep you safe because of "
+"your health. She's good-looking and... She's good in a fight. However, she "
+"keeps saying 'Master! I have gotten rid of all the monsters! It's the "
+"perfect time for lovemaking! Let's make a lot of children, together!' ... "
+"She's a little odd."
+msgstr ""
+"你有一位女僕。她是你父親因你健康狀況不佳而僱來保護你的。她長得好看而且……她很能打。然而，她總是說：‘主人！我已經把所有怪物都清理掉了！現在是做愛的完美時機！讓我們一起生很多孩子吧！’……她有點奇怪。"
+
+#. ~ Profession (female Shoggoth's master) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You have a maid. She was hired by your father to keep you safe because of "
+"your health. She's good-looking and... She's good in a fight. However, she "
+"keeps saying 'Master! I have gotten rid of all the monsters! It's the "
+"perfect time for lovemaking! Let's make a lot of children, together!' ... "
+"She's a little odd."
+msgstr ""
+"你有一位女僕。她是你父親因你健康狀況不佳而僱來保護你的。她長得好看而且……她很能打。然而，她總是說：‘主人！我已經把所有怪物都清理掉了！現在是做愛的完美時機！讓我們一起生很多孩子吧！’……她有點奇怪。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Butler (with master)"
+msgstr "管家（有主人）"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Maid (with master)"
+msgstr "女僕（有主人）"
+
+#. ~ Profession (male Butler (with master)) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You saw your master run to his car with his child, but he got caught by a "
+"ferocious zombie. Among the countless groans, you heard your master yell out"
+" 'Take my child and run away!' and you did just that. Shoving the shaking "
+"child into a bag, you prepare to run away from the depths of hell."
+msgstr ""
+"你看見主人抱著孩子跑向他的車，但他被一隻兇猛的殭屍抓住了。在無數的呻吟聲中，你聽到主人大喊‘帶著我的孩子快跑！’，而你照做了。將顫抖的孩子塞進包裡，你準備逃離這地獄深處。"
+
+#. ~ Profession (female Maid (with master)) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You saw your master run to his car with his child, but he got caught by a "
+"ferocious zombie. Among the countless groans, you heard your master yell out"
+" 'Take my child and run away!' and you did just that. Shoving the shaking "
+"child into a bag, you prepare to run away from the depths of hell."
+msgstr ""
+"你看見主人抱著孩子跑向他的車，但他被一隻兇猛的殭屍抓住了。在無數的呻吟聲中，你聽到主人大喊‘帶著我的孩子快跑！’，而你照做了。將顫抖的孩子塞進包裡，你準備逃離這地獄深處。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Catboy butler"
+msgstr "貓耳男管家"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Catgirl maid"
+msgstr "貓耳女僕"
+
+#. ~ Profession (male Catboy butler) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"When the cataclysm came, you suddenly grew cat ears and a tail! Now you only"
+" need your master to give you a collar."
+msgstr "當災變降臨時，你突然長出了貓耳和尾巴！現在你只需要主人給你一個項圈。"
+
+#. ~ Profession (female Catgirl maid) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"When the cataclysm came, you suddenly grew cat ears and a tail! Now you only"
+" need your master to give you a collar."
+msgstr "當災變降臨時，你突然長出了貓耳和尾巴！現在你只需要主人給你一個項圈。"
+
+#: .\speech.json
+msgid "\"Tekeli-li!\""
+msgstr "\"Tekeli-li！\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Tekeli-li! Tekeli-li!\""
+msgstr "\"Tekeli-li！Tekeli-li！\""
+
+#: .\speech.json
+msgid "\"Tekeli-li?\""
+msgstr "\"Tekeli-li？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Tekeli, tekeli-li! Tekeli, tekeli-li! We'll have a lot of fun when you "
+"feel better!\""
+msgstr "\"Tekeli, tekeli-li！Tekeli, tekeli-li！等你感覺好些了，我們會玩得很開心！\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! A-ah, my master's thing... tekeli-li! Kya!\""
+msgstr "\"主人！啊-啊，主人的東西……tekeli-li！呀！\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I am a maid♪ Your maid♪ Cleaning, washing, cooking... why didn't you let "
+"me continue?\""
+msgstr "\"我是女僕♪你的女僕♪打掃、洗衣、做飯……為什麼不讓我繼續呢？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I will continue talking as much as master desires! I will continue talking"
+" even if you don't want me to!\""
+msgstr "\"我會按照主人的意願一直說下去！即使你不想聽，我也會繼續說下去！\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"We'll have as many babies as master wants♪\""
+msgstr "\"我們會生很多很多寶寶，只要主人想要♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! Master! Are you going to play with the mi-gos?\""
+msgstr "\"主人！主人！你要去和米-戈玩嗎？\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"This feeling of chasing down mi-gos is becoming addictive...♪\""
+msgstr "\"這種追捕米-戈的感覺越來越上癮了……♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I learned that this form of human is the most suitable for service work! "
+"How is it? Why do you say it's inferior to my previous form?\""
+msgstr "\"我瞭解到這種人類形態最適合服務工作！怎麼樣？為什麼你說它不如我以前的形態？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Blobs, Triffids, Mycus... they are too diffcult for humans to counter. "
+"So... let's make a child to fight against them! She'll be as strong as a "
+"thousand humans!\""
+msgstr "\"軟泥怪、特里菲德、真菌……它們對人類來說太難對付了。所以……讓我們生個孩子來對抗它們吧！她會像一千個人類一樣強大！\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master gave me my first death. Please allow me to give many things their "
+"first death.\""
+msgstr "\"主人給了我第一次死亡。請允許我給予許多事物它們的第一次死亡。\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master master master master master master master master master master "
+"master master master master master master master master master master master"
+" master master master master master master master master master master...\""
+msgstr "\"主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人主人……\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Don't worry, I'm not wearing anything under♪\""
+msgstr "\"別擔心，我下面什麼都沒穿♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"The past cannot be changed. The future may be dark, but I have my master "
+"by my side. So, please... please... don't leave me alone.\""
+msgstr "\"過去無法改變。未來或許黑暗，但我有主人在身邊。所以，求求你……求求你……不要丟下我一個人。\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Those who try to take my master away will turn into minchi!♪\""
+msgstr "\"那些想奪走我主人的人都會變成肉糜！♪\""
+
+#: .\speech.json
+msgid "\"What was his name again? Cthulhu?\""
+msgstr "\"他叫什麼名字來著？克蘇魯？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master, are you a lolicon? Or do you like big breasts? If you tell me, I "
+"can become more to your liking!♪\""
+msgstr "\"主人，你是蘿莉控嗎？還是喜歡巨乳？如果你告訴我，我可以變得更合你心意！♪\""
+
+#: .\speech.json
+msgid ""
+"\"If you have a pet carrier, you can store me in it. I am a pet... your pet,"
+" master♪\""
+msgstr "\"如果你有寵物箱，可以把我放進去。我是寵物……你的寵物，主人♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I can also make furniture and food with my body! ...You don't want any? "
+"Oh...\""
+msgstr "\"我也可以用身體制作傢俱和食物！……你不想要嗎？哦……\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"I dream about Adam and Eve a lot! Let's rebuild humanity with our "
+"children, master!\""
+msgstr "\"我經常夢見亞當和夏娃！讓我們用我們的孩子重建人類吧，主人！\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Please let me know if you need a bath. I can wrap you up in my body and "
+"clean everything from sweat to dirt and make you smell good♪\""
+msgstr "\"如果你需要洗澡，請告訴我。我可以用身體包裹你，從汗水到汙垢都清理乾淨，讓你香噴噴的♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Master, have you come across any albino penguins? I know them well, "
+"because they are my colleagues. Try not to bother them too much. ...Also, "
+"their meat doesn't taste too good.\""
+msgstr "\"主人，你遇到過白化企鵝嗎？我很瞭解它們，因為它們是同事。儘量不要過多打擾它們。……還有，它們的肉味道不太好。\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"You've worked really hard! As a reward, I will take you out on a date...\""
+msgstr "\"你真的辛苦了！作為獎勵，我會帶你出去約會……\""
+
+#: .\speech.json
+msgid ""
+"\"Please pass me your dirty clothes. I will keep them clean and beautiful♪\""
+msgstr "\"請把你的髒衣服遞給我。我會讓它們保持乾淨漂亮♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Is it okay for me to die? Yeah, right!♪ Ah, I will fully recover even from"
+" the most mortal wounds. Truly, you'd have to kill me down to the molecular "
+"level for me to die... That's why you don't have to be worried about me, "
+"master♪\""
+msgstr "\"我可以去死嗎？當然可以！♪ 啊，即使是最致命的傷口我也能完全恢復。真的，你得把我殺到分子層面我才會死……所以主人不必為我擔心♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Is it okay to love a shoggoth? Ah, I don't mind the race difference at "
+"all! I will always be by my master's side♪\""
+msgstr "\"愛上一個修格斯可以嗎？啊，我完全不在意種族差異！我會永遠陪伴在主人身邊♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"When I first met master, I thought I had no other choice than to follow "
+"this person. I wonder if this is love at first sight? What?\""
+msgstr "\"當我第一次遇見主人時，我覺得除了跟隨這個人別無選擇。這算是一見鍾情嗎？什麼？\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Tekeli-li~♪ Hello, master♪\""
+msgstr "\"Tekeli-li~♪ 你好，主人♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"My kind is known to be violent, isn't that right? But you don't have to "
+"worry about me. I am a slave to my master's love♪\""
+msgstr "\"我的種族以暴力著稱，對吧？但你不必擔心我。我是主人愛的奴隸♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"I'm sorry, master, but... I want to lick it♪\""
+msgstr "\"對不起，主人，但是……我想舔它♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master, cheating is not okay. Just me, alright?\""
+msgstr "\"主人，出軌是不行的。只有我可以，好嗎？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Why am I in human form? Well, that's how I can talk to my master, to be "
+"able to walk hand in hand with my master and have a body for my master to..."
+" nevermind!\""
+msgstr "\"為什麼我以人類形態出現？嗯，這樣我才能和主人說話，才能和主人手牽手散步，才能有一個身體讓主人……算了！\""
+
+#: .\speech.json
+msgid ""
+"\"Acid can be negated if you are in a boardable vehicle. Oh, me? Don't worry"
+" about me. I'm acidproof♪\""
+msgstr "\"如果你在可駕駛的載具裡，酸液可以被抵消。哦，我？別擔心我。我是防酸的♪\""
+
+#: .\speech.json
+msgid ""
+"\"The lingering lightning after an electric shock reaches only one square "
+"around! So if you wield a spear and a use a suitable martial art, you can "
+"dodge it all! ...I have no idea what I just said.\""
+msgstr "\"電擊後的殘留閃電隻影響周圍一格！所以如果你使用長矛和合適的武術，可以完全躲開！……我不知道我剛才在說什麼。\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Do you want to lay your head on my lap? It would make me comfortable, "
+"too♪\""
+msgstr "\"你想把頭枕在我的膝上嗎？那也會讓我很舒服♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Please use me! Why don't you want to use me? Please use me! Use me!\""
+msgstr "\"請使用我！你為什麼不想用我？請使用我！用我吧！\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master! Do you want to hold hands?\""
+msgstr "\"主人！你想牽手嗎？\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"It's okay if master gets tied up! That way I can stay by your side as long"
+" as I want... Ufufu...\""
+msgstr "\"主人被綁起來也沒關係！那樣我就可以想待多久就待多久……唔呼呼……\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"No matter the weather, my heart beats on if I'm with my master♪\""
+msgstr "\"無論天氣如何，只要和主人在一起，我的心就會跳動♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"Please use me as a shield in an emergency. I want to be useful and not be "
+"like the other shoggoths.\""
+msgstr "\"緊急情況下請把我當盾牌用。我想變得有用，不像其他修格斯那樣。\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"How many children do I want? As many as my master wishes... I will do my "
+"best!\""
+msgstr "\"我想要多少孩子？主人想要多少就有多少……我會努力的！\""
+
+#: .\speech.json .\talk_tags.json
+msgid "\"Master's smell... it's intoxicating... haa, master...♪\""
+msgstr "\"主人的氣味……令人陶醉……哈啊，主人……♪\""
+
+#: .\speech.json .\talk_tags.json
+msgid ""
+"\"All my clothes and so on are made of my cells! It's okay if you touch me "
+"more♪\""
+msgstr "\"我所有的衣服等等都是由我的細胞構成的！你可以多碰我一點♪\""
+
+#: .\speech.json
+msgid ""
+"\"Armored zombies are tough against random attacks, but if you're a good "
+"trapper, you can penetrate and damage even the strongest armors! Destroying "
+"knees with traps is the future!\""
+msgstr "\"裝甲殭屍對隨機攻擊很堅韌，但如果你是個好陷阱師，甚至可以穿透並破壞最強的裝甲！用陷阱摧毀膝蓋才是未來！\""
+
+#: .\speech.json
+msgid "\"Master\""
+msgstr "\"主人\""
+
+#: .\speech.json
+msgid "\"Master~\""
+msgstr "\"主人~\""
+
+#: .\speech.json
+msgid "\"Mashterr\""
+msgstr "\"主銀\""
+
+#: .\speech.json
+msgid "\"Master~~\""
+msgstr "\"主人~~\""
+
+#: .\speech.json
+msgid "\"Master!\""
+msgstr "\"主人！\""
+
+#: .\speech.json
+msgid "\"Master?\""
+msgstr "\"主人？\""
+
+#: .\speech.json
+msgid "\"Master♪\""
+msgstr "\"主人♪\""
+
+#: .\speech.json
+msgid "\"Master!♪\""
+msgstr "\"主人！♪\""
+
+#: .\speech.json
+msgid "\"Master...\""
+msgstr "\"主人……\""
+
+#: .\speech.json
+msgid "\"Master...♪\""
+msgstr "\"主人……♪\""
+
+#: .\talk_tags.json
+msgid "Tekeli-li!"
+msgstr "特克利-利！"
+
+#: .\techniques.json
+msgid "Coup de Grâce"
+msgstr "致命一擊"
+
+#: .\techniques.json
+#, c-format
+msgid "You strike %s with an elegant coup de grâce"
+msgstr "你以優雅的致命一擊擊中%s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> strikes %s in one elegant motion"
+msgstr "<npcname>以優雅的動作擊中%s"
+
+#: .\techniques.json
+msgid "Desperate Counter"
+msgstr "絕望反擊"
+
+#: .\techniques.json
+#, c-format
+msgid "You block %s's attack and shove them back. Back!"
+msgstr "你格擋了%s的攻擊並將其推回。退後！"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> struggles and forces %s back"
+msgstr "<npcname>奮力掙扎，將%s逼退"
+
+#: .\techniques.json
+msgid "Spurn"
+msgstr "輕蔑回擊"
+
+#: .\techniques.json
+#, c-format
+msgid "You whirl away and strike %s"
+msgstr "你旋身避開並擊中%s"
+
+#: .\techniques.json
+msgid "<npcname> strikes with a malice that surprises you"
+msgstr "<npcname>以出乎你意料的惡意發起攻擊"
+
+#: .\techniques.json
+msgid "Measured Strike"
+msgstr "精準打擊"
+
+#: .\techniques.json
+#, c-format
+msgid "Your carefully placed strike sunders %s's guard"
+msgstr "你精心佈置的一擊瓦解了%s的防禦"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> lands a measured strike on %s"
+msgstr "<npcname>對%s發動了一次精準打擊"
+
+#: .\techniques.json
+msgid "Measured Assault"
+msgstr "精準猛攻"
+
+#: .\techniques.json
+#, c-format
+msgid "You assault %s with fury and dedication"
+msgstr "你以狂怒與專注猛攻%s"
+
+#: .\techniques.json
+#, c-format
+msgid "<npcname> assaults %s with fury and dedication"
+msgstr "<npcname>以狂怒與專注猛攻%s"
+
+#: .\techniques.json
+msgid "Anti-Molestation Technique No.15"
+msgstr "防騷擾技巧第十五式"
+
+#: .\techniques.json
+#, c-format
+msgid "You dodge %s's groping lunge. Only master can touch that!"
+msgstr "你躲開了%s的抓撲。只有主人才能碰那裡！"
+
+#: .\techniques.json
+#, c-format
+msgid "The %s tries to grab <npcname>, but they slip away!"
+msgstr "%s試圖抓住<npcname>，但被他們溜走了！"
+
+#: .\tool_armor.json
+msgid "leather cat tail (vibrator)"
+msgid_plural "leather cat tail (vibrator)s"
+msgstr[0] "皮革貓尾（震動器）"
+
+#. ~ Description for {'str': 'leather cat tail (vibrator)'}
+#: .\tool_armor.json
+msgid ""
+"A shiny black cat tail made out of leather. Whenever you walk, it sways back"
+" and forth. You can turn it on for extra enjoyment."
+msgstr "一條閃亮的黑色皮革貓尾。每當你走動時，它會前後搖擺。你可以打開它以獲得額外樂趣。"
+
+#: .\tool_armor.json
+msgid "furred cat tail (vibrator)"
+msgid_plural "furred cat tail (vibrator)s"
+msgstr[0] "毛皮貓尾（震動器）"
+
+#. ~ Description for {'str': 'furred cat tail (vibrator)'}
+#: .\tool_armor.json
+msgid ""
+"A brown soft and furry cat tail. Whenever you walk, it sways back and forth."
+" You can turn it on for extra enjoyment."
+msgstr "一條棕色柔軟且毛茸茸的貓尾。每當你走動時，它會前後搖擺。你可以打開它以獲得額外樂趣。"
+
+#: .\tool_armor.json
+msgid "blob cat tail"
+msgid_plural "blob cat tails"
+msgstr[0] "粘液貓尾"
+
+#. ~ Description for {'str': 'blob cat tail'}
+#: .\tool_armor.json
+msgid ""
+"A blob shaped like the tail of a cat that has been made docile. Whenever you"
+" walk, it sways back and forth. Make sure to feed your new blob friend!"
+msgstr "一個形狀像貓尾的粘液，已被馴服。每當你走動時，它會前後搖擺。記得餵養你的新粘液朋友！"
+
+#: .\tool_armor.json
+msgid "human-sized carry bag"
+msgid_plural "human-sized carry bags"
+msgstr[0] "人形攜帶袋"
+
+#. ~ Description for {'str': 'human-sized carry bag'}
+#: .\tool_armor.json
+msgid ""
+"A large bag that could fit a person inside. The zipper running across it "
+"provides ventilation and you can open and close it from the inside. It can "
+"be used as a sleeping bag, as well."
+msgstr "一個可以裝下一個人的大袋子。貫穿袋子的拉鍊提供通風，你可以從內部打開和關閉它。它也可以用作睡袋。"
+
+#: .\tool_armor.json
+msgid "maid cloak (off)"
+msgid_plural "maid cloak (off)s"
+msgstr[0] "女僕披風（關閉）"
+
+#. ~ Use action msg for {'str': 'maid cloak (off)'}.
+#: .\tool_armor.json
+msgid "You take a deep breath... And become invisible."
+msgstr "你深吸一口氣……然後變得隱形。"
+
+#. ~ Use action need_charges_msg for {'str': 'maid cloak (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'white brim with veil', 'str_pl':
+#. 'white brims with veils'}.
+#: .\tool_armor.json
+msgid "Not enough maid points!"
+msgstr "女僕點數不足！"
+
+#. ~ Description for {'str': 'maid cloak (off)'}
+#: .\tool_armor.json
+msgid ""
+"An elegant mantle to keep you warm when going outside. Use it to turn "
+"invisible. Consumes maid points."
+msgstr "一件優雅的斗篷，外出時為你保暖。使用它來隱身。消耗女僕點數。"
+
+#: .\tool_armor.json
+msgid "maid cloak (on)"
+msgid_plural "maid cloak (on)s"
+msgstr[0] "女僕斗篷（開啟）"
+
+#. ~ Use action msg for {'str': 'maid cloak (on)'}.
+#: .\tool_armor.json
+msgid "You take a deep breath... And become visible again."
+msgstr "你深吸一口氣……然後再次顯形。"
+
+#. ~ Description for {'str': 'maid cloak (on)'}
+#: .\tool_armor.json
+msgid ""
+"An elegant mantle to keep you warm when going outside. Use it to turn "
+"visible. It is currently on and consuming maid points."
+msgstr "一件優雅的斗篷，外出時為你保暖。使用它來顯形。它當前已開啟並消耗女僕點數。"
+
+#: .\tool_armor.json
+msgid "white brim with veil"
+msgid_plural "white brims with veils"
+msgstr[0] "帶面紗的白色帽簷"
+
+#. ~ Use action msg for {'str': 'white brim with veil', 'str_pl': 'white brims
+#. with veils'}.
+#: .\tool_armor.json
+msgid "You use the maid points and your vision expands."
+msgstr "你使用女僕點數，視野隨之擴展。"
+
+#. ~ Description for {'str': 'white brim with veil', 'str_pl': 'white brims
+#. with veils'}
+#: .\tool_armor.json
+msgid ""
+"A regular maid's white brim with an elegant veil sewn into it, decorated "
+"with silver frills. Although it covers your eyes and blocks your vision "
+"quite harshly, you can use maid points to turn it on and gain otherwordly "
+"sight."
+msgstr "一頂普通女僕的白色帽簷，縫有優雅面紗，飾以銀色褶邊。儘管它遮住眼睛並嚴重阻礙視線，但你可以使用女僕點數開啟它，獲得超凡的視覺。"
+
+#: .\tool_armor.json
+msgid "white brim with veil (clairvoyant)"
+msgid_plural "white brims with veils (clairvoyant)"
+msgstr[0] "帶面紗的白色帽簷（透視）"
+
+#. ~ Use action msg for {'str': 'white brim with veil (clairvoyant)',
+#. 'str_pl': 'white brims with veils (clairvoyant)'}.
+#: .\tool_armor.json
+msgid ""
+"The last bits of the maid points fizzle away and the veil turns back to "
+"normal."
+msgstr "女僕點數的最後一絲能量消散，面紗恢復正常。"
+
+#. ~ Description for {'str': 'white brim with veil (clairvoyant)', 'str_pl':
+#. 'white brims with veils (clairvoyant)'}
+#: .\tool_armor.json
+msgid ""
+"A regular maid's white brim with an elegant veil sewn into it, decorated "
+"with silver frills. It is currently see-through."
+msgstr "一頂普通女僕的白色帽簷，縫有優雅面紗，飾以銀色褶邊。它當前是透明的。"
+
+#: .\tools.json
+msgid "shoggoth heart"
+msgid_plural "shoggoth meats"
+msgstr[0] "修格斯心臟"
+
+#. ~ Description for {'str': 'shoggoth heart', 'str_pl': 'shoggoth meats'}
+#: .\tools.json
+msgid ""
+"The heart of a shoggoth. You could eat it to master the beast's morphogenic "
+"prowess, or you could use it to 'master' the beast in another way."
+msgstr "修格斯的心臟。你可以吃掉它以掌握這野獸的形態發生能力，或者用它以另一種方式“掌控”這野獸。"
+
+#: .\tools.json
+msgid "flask (shoggoth)"
+msgid_plural "flasks (shoggoth)"
+msgstr[0] "燒瓶（修格斯）"
+
+#. ~ Use action msg for {'str': 'flask (shoggoth)', 'str_pl': 'flasks
+#. (shoggoth)'}.
+#: .\tools.json
+msgid ""
+"The flask is threatening to shatter as the meat keeps growing. Use it again "
+"to open it and relieve the pressure."
+msgstr "燒瓶因肉塊持續生長而瀕臨破碎。再次使用以打開它，釋放壓力。"
+
+#. ~ Use action not_ready_msg for {'str': 'flask (shoggoth)', 'str_pl':
+#. 'flasks (shoggoth)'}.
+#: .\tools.json
+msgid "The piece of meat pulsates."
+msgstr "肉塊在脈動。"
+
+#. ~ Description for {'str': 'flask (shoggoth)', 'str_pl': 'flasks
+#. (shoggoth)'}
+#: .\tools.json
+msgid ""
+"A glass flask containing a piece of meat that seems to be growing. "
+"Occasionally the piece of meat pulsates."
+msgstr "一個玻璃燒瓶，內含一塊似乎在生長的肉。偶爾肉塊會脈動。"
+
+#: .\tools.json
+msgid "growing shoggoth maid"
+msgid_plural "growing shoggoth maids"
+msgstr[0] "成長中的修格斯女僕"
+
+#. ~ Use action friendly_msg for {'str': 'growing shoggoth maid'}.
+#: .\tools.json
+msgid ""
+"The odd meat is released from its glass flask prison and begins to rapidly "
+"and violently expand, extending numerous disjointed tentacles in every "
+"direction. The tentacles intertwine with each other and transform into an "
+"organism, resembling a beautiful woman, not quite like the horrible "
+"nightmare creature it used to be. She suddenly speaks up: 'Finally, I am "
+"able to meet you like this! Thank you for helping me, master!'"
+msgstr ""
+"奇異的肉塊從玻璃燒瓶的囚禁中釋放，開始迅速而猛烈地膨脹，向四面八方延伸出無數脫節的觸手。觸手相互交織，轉化成一個有機體，形似一位美麗的女子，不再像過去那可怕的噩夢生物。她突然開口：“終於，我能以這樣的方式見到您了！謝謝您幫助我，主人！”"
+
+#. ~ Description for {'str': 'growing shoggoth maid'}
+#: .\tools.json
+msgid ""
+"The meat inside this flask glows with iridescent colors. It's lightly "
+"shivering."
+msgstr "燒瓶內的肉塊閃爍著虹彩光芒。它在輕微顫抖。"
+
+#: .\tools.json
+msgid "small shoggoth maid"
+msgid_plural "small shoggoth maids"
+msgstr[0] "小型修格斯女僕"
+
+#. ~ Use action msg for {'str': 'small shoggoth maid', 'str_pl': 'small
+#. shoggoth maids'}.
+#: .\tools.json
+msgid ""
+"'I have made a complete recovery! I will serve you well, master! Now, please"
+" put me on the ground.'"
+msgstr "“我已完全恢復！我會好好服侍您，主人！現在，請把我放在地上。”"
+
+#. ~ Use action not_ready_msg for {'str': 'small shoggoth maid', 'str_pl':
+#. 'small shoggoth maids'}.
+#: .\tools.json
+msgid ""
+"'Fufufu~ Are you worried? I am fine, your maid is fine! ... I guess. So, "
+"please wait a bit longer... I'm sorry for making you concerned.'"
+msgstr "“呼呼呼~ 您在擔心嗎？我沒事，您的女僕沒事！……我想是的。所以，請再稍等一會兒……抱歉讓您擔心了。”"
+
+#. ~ Description for {'str': 'small shoggoth maid', 'str_pl': 'small shoggoth
+#. maids'}
+#: .\tools.json
+msgid ""
+"'Ah... I think I went overboard and turned out like this. I need some time "
+"to return to my former shape. Please warm me up in master's pockets! Don't "
+"put me in a fridge! Absolutely not!'"
+msgstr "“啊……我想我做得過火，變成這樣了。我需要一些時間恢復原形。請把我放在主人的口袋裡溫暖一下！不要把我放進冰箱！絕對不行！”"
+
+#: .\tools.json
+msgid "revitalized shoggoth maid"
+msgid_plural "revitalized shoggoth maids"
+msgstr[0] "恢復活力的修格斯女僕"
+
+#. ~ Use action friendly_msg for {'str': 'revitalized shoggoth maid'}.
+#: .\tools.json
+msgid ""
+"'Sorry I kept you waiting, master! I will do my best to serve you and "
+"support you to the best of my abilities!'"
+msgstr "“抱歉讓您久等了，主人！我會盡我所能為您服務，全力支持您！”"
+
+#. ~ Description for {'str': 'revitalized shoggoth maid'}
+#: .\tools.json
+msgid ""
+"'What's up? Why haven't you put me on the ground yet? Ah, you want me to "
+"stay tiny for a little while longer? Ehh... I suppose it can't be helped.'"
+msgstr "“怎麼了？為什麼還沒把我放在地上？啊，您想讓我再保持小巧一會兒？呃……我想這也沒辦法。”"
+
+#. ~ Use action friendly_msg for {'str': 'master'}.
+#: .\tools.json
+msgid "Master seemed worried about the state of the neighbors."
+msgstr "主人似乎擔心鄰居的狀況。"
+
+#: .\tools.json
+msgid "master doll"
+msgid_plural "master dolls"
+msgstr[0] "主人玩偶"
+
+#. ~ Description for {'str': 'master doll'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master. By keeping it in your "
+"inventory, it slowly gathers maid power."
+msgstr "這是一個您心愛主人形狀的玩偶。將其放在物品欄中，它會緩慢收集女僕能量。"
+
+#: .\tools.json
+msgid "ceremony doll"
+msgid_plural "ceremony dolls"
+msgstr[0] "儀式玩偶"
+
+#. ~ Description for {'str': 'ceremony doll', 'str_pl': 'ceremony dolls'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can catalyze your powerful desires towards your beloved "
+"master into a usable type of energy."
+msgstr ""
+"這是一個你心愛主人形狀的人偶，但附帶了一個‘特殊附件’。通過某種（相當令人尷尬的）私人儀式使用它，你可以將你對心愛主人的強烈慾望催化為一種可用的能量。"
+
+#: .\tools.json
+msgid "master doll (vibrator) (off)"
+msgid_plural "master doll (vibrator) (off)s"
+msgstr[0] "主人玩偶（振動器）（關閉）"
+
+#. ~ Use action msg for {'str': 'master doll (vibrator) (off)'}.
+#: .\tools.json
+msgid ""
+"You can no longer suppress your feelings and began to intimately press "
+"against your master's doll..."
+msgstr "你再也無法抑制自己的感情，開始親密地緊貼著主人的玩偶……"
+
+#. ~ Description for {'str': 'master doll (vibrator) (off)'}
+#: .\tools.json
+msgid ""
+"This is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can release an explosion of desire towards your beloved "
+"master and transform it into a usable type of energy."
+msgstr ""
+"這是一個你心愛主人形狀的人偶，但附帶了一個‘特殊附件’。通過某種（相當令人尷尬的）私人儀式使用它，你可以釋放對心愛主人的慾望爆發，並將其轉化為一種可用的能量。"
+
+#: .\tools.json
+msgid "master doll (vibrator) (on)"
+msgid_plural "master doll (vibrator) (on)s"
+msgstr[0] "主人玩偶（振動器）（開啟）"
+
+#. ~ Use action msg for {'str': 'master doll (vibrator) (on)'}.
+#: .\tools.json
+msgid ""
+"Finally, after your body tightens up and you reach your limit, you collapse "
+"on the doll with a delighted and exhausted smile..."
+msgstr "最終，在你的身體緊繃達到極限後，你帶著愉悅而疲憊的笑容癱倒在玩偶上……"
+
+#. ~ Description for {'str': 'master doll (vibrator) (on)'}
+#: .\tools.json
+msgid ""
+"his is a doll in the shape of your beloved master, but with an additional "
+"'special attachment.' By using it in a certain (rather embarassing) type of "
+"private ritual, you can release an explosion of desire towards your beloved "
+"master and transform it into a usable type of energy."
+msgstr ""
+"這是一個你心愛主人形狀的人偶，但附帶了一個‘特殊附件’。通過某種（相當令人尷尬的）私人儀式使用它，你可以釋放對心愛主人的慾望爆發，並將其轉化為一種可用的能量。"
+
+#: .\tools.json
+msgid "scroll (summon little maid)"
+msgid_plural "scroll (summon little maid)s"
+msgstr[0] "卷軸（召喚小女僕）"
+
+#. ~ Use action friendly_msg for {'str': 'scroll (summon little maid)'}.
+#: .\tools.json
+msgid ""
+"The sacrifical sugar melts at the apex of your casting and starts to spew "
+"out white smoke. As the sweet smell spreads around, you notice a shadowy "
+"figure about the size of a child standing in the magic circle. After the "
+"smoke completely dissipates, a small maid stands in the place of the shadowy"
+" figure, staring at you with curious eyes. 'Master?'"
+msgstr ""
+"獻祭的糖在你施法的頂點融化，開始噴出白煙。隨著甜味四散，你注意到一個孩童大小的黑影站在魔法陣中。煙霧完全消散後，一個小女僕取代了黑影的位置，用好奇的眼神盯著你。‘主人？’"
+
+#. ~ Description for {'str': 'scroll (summon little maid)'}
+#: .\tools.json
+msgid ""
+"A set of scrolls and sacrifices used to summon a different kind of maid. "
+"Pour the sacrificial sugar in the middle of the magic circle and cast the "
+"correct spell."
+msgstr "一套用於召喚另一種女僕的卷軸和祭品。將獻祭糖倒在魔法陣中央，並施放正確的咒語。"
+
+#: .\tools.json
+msgid "little little maid"
+msgid_plural "little little maids"
+msgstr[0] "小小女僕"
+
+#. ~ Use action msg for {'str': 'little little maid', 'str_pl': 'little little
+#. maids'}.
+#: .\tools.json
+msgid ""
+"'Masteeer! Masteeeer!' The little maid taps your shoulder and points towards"
+" the ground, as if she wants to get off your shoulder. Put her on the ground"
+" when you're ready."
+msgstr "‘主人！主人！’小女僕輕拍你的肩膀並指向地面，似乎想從你肩上下來。準備好時將她放到地上。"
+
+#. ~ Use action not_ready_msg for {'str': 'little little maid', 'str_pl':
+#. 'little little maids'}.
+#: .\tools.json
+msgid ""
+"While standing still on the palm of your hand, she stares downwards and "
+"mutters 'Master...' in a barely audible voice."
+msgstr "她靜靜站在你的手掌上，低頭凝視，用幾乎聽不見的聲音低語‘主人……’。"
+
+#. ~ Description for {'str': 'little little maid', 'str_pl': 'little little
+#. maids'}
+#: .\tools.json
+msgid "An even smaller version of your little maid."
+msgstr "你的小女僕的更加迷你版本。"
+
+#: .\tools.json
+msgid "revitalized little maid"
+msgid_plural "revitalized little maids"
+msgstr[0] "恢復活力的小女僕"
+
+#. ~ Use action friendly_msg for {'str': 'revitalized little maid'}.
+#: .\tools.json
+msgid ""
+"The little maid jumps down to the ground and turns around, lightly lifting "
+"the hem of her skirt and giving you a bow. 'Master!' she says with a smile."
+msgstr "小女僕跳落到地面，轉過身，輕輕提起裙襬向你鞠躬。‘主人！’她微笑著說道。"
+
+#. ~ Description for {'str': 'revitalized little maid'}
+#: .\tools.json
+msgid "Your little maid seems to have made a complete recovery."
+msgstr "你的小女僕似乎已經完全恢復了。"
+
+#: .\tools.json
+msgid "scroll of recalling"
+msgid_plural "scroll of recallings"
+msgstr[0] "召回卷軸"
+
+#. ~ Description for {'str': 'scroll of recalling'}
+#: .\tools.json
+msgid ""
+"A mysterious scroll used to summon some kind of mystery meat and drinking "
+"water. It can be used multiple times."
+msgstr "一種用於召喚某種神秘肉塊和飲用水的神秘卷軸。可以多次使用。"
+
+#: .\tools.json
+msgid "maid's cookware kit"
+msgid_plural "maid's cookware kits"
+msgstr[0] "女僕的廚具套裝"
+
+#. ~ Description for {'str': "maid's cookware kit"}
+#: .\tools.json
+msgid ""
+"A set of secret maid cookware. By powering it with maid energy, you can "
+"create dishes filled with love."
+msgstr "一套秘密的女僕廚具。通過注入女僕能量，你可以製作出充滿愛意的菜餚。"
+
+#: .\tools.json
+msgid "little maid pet"
+msgid_plural "little maid pets"
+msgstr[0] "小女僕寵物"
+
+#. ~ Description for {'str': 'little maid pet'}
+#: .\tools.json
+msgid ""
+"A summoned little maid. She looks and wanders around while holding onto the "
+"hem of your clothes tightly. She's afraid of fighting."
+msgstr "一隻被召喚的小女僕。她緊抓你的衣角四處張望和徘徊。她害怕戰鬥。"
+
+#: .\tools.json
+msgid "little maid pet (smoking meat)"
+msgid_plural "little maid pet (smoking meat)"
+msgstr[0] "小女僕寵物（熏製肉）"
+
+#. ~ Use action msg for {'str': 'little maid pet (smoking meat)', 'str_pl':
+#. 'little maid pet (smoking meat)'}.
+#. ~ Use action msg for {'str': 'little maid pet (smoking human flesh)',
+#. 'str_pl': 'little maid pet (smoking human flesh)'}.
+#: .\tools.json
+msgid ""
+"'Master! Master!' It seems like your little maid has finished smoking the "
+"meat. It smells quite nice. Disassemble to recover the finished product."
+msgstr "‘主人！主人！’你的小女僕似乎已經完成了燻肉。聞起來相當不錯。拆解以回收成品。"
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking meat)',
+#. 'str_pl': 'little maid pet (smoking meat)'}.
+#: .\tools.json
+msgid "The little maid tastes the smoking meat and shakes her head a little."
+msgstr "小女僕嚐了嚐燻肉，微微搖了搖頭。"
+
+#. ~ Description for {'str': 'little maid pet (smoking meat)', 'str_pl':
+#. 'little maid pet (smoking meat)'}
+#. ~ Description for {'str': 'little maid pet (smoking human flesh)',
+#. 'str_pl': 'little maid pet (smoking human flesh)'}
+#: .\tools.json
+msgid ""
+"Your little maid is in the process of smoking meat. She seems to be having "
+"fun."
+msgstr "你的小女僕正在熏製肉。她似乎樂在其中。"
+
+#: .\tools.json
+msgid "little maid pet (finished smoking meat)"
+msgid_plural "little maid pet (finished smoking meat)"
+msgstr[0] "小女僕寵物（已完成燻肉）"
+
+#. ~ Description for {'str': 'little maid pet (finished smoking meat)',
+#. 'str_pl': 'little maid pet (finished smoking meat)'}
+#. ~ Description for {'str': 'little maid pet (finished smoking human flesh)',
+#. 'str_pl': 'little maid pet (finished smoking human flesh)'}
+#: .\tools.json
+msgid ""
+"It seems like your little maid has finished smoking the meat. It smells "
+"quite nice. Disassemble to recover the finished product."
+msgstr "你的小女僕似乎已經完成了燻肉。聞起來相當不錯。拆解以回收成品。"
+
+#: .\tools.json
+msgid "little maid pet (smoking human flesh)"
+msgid_plural "little maid pet (smoking human flesh)"
+msgstr[0] "小女僕寵物（熏製人肉）"
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking human
+#. flesh)', 'str_pl': 'little maid pet (smoking human flesh)'}.
+#: .\tools.json
+msgid ""
+"The little maid tastes the smoking meat and shakes her head a little. Don't "
+"tell her what kind of meat it is."
+msgstr "小女僕嚐了嚐煙燻肉，微微搖了搖頭。別告訴她這是什麼肉。"
+
+#: .\tools.json
+msgid "little maid pet (finished smoking human flesh)"
+msgid_plural "little maid pet (finished smoking human flesh)"
+msgstr[0] "小女僕寵物（已完成煙燻人肉）"
+
+#: .\tools.json
+msgid "little maid pet (smoking fish)"
+msgid_plural "little maid pet (smoking fish)"
+msgstr[0] "小女僕寵物（煙燻魚）"
+
+#. ~ Use action msg for {'str': 'little maid pet (smoking fish)', 'str_pl':
+#. 'little maid pet (smoking fish)'}.
+#: .\tools.json
+msgid ""
+"'Master! Master!' It seems like your little maid has finished smoking the "
+"fish. It smells quite nice. Disassemble to recover the finished product."
+msgstr "'主人！主人！'您的小女僕似乎已經完成了煙燻魚。聞起來相當不錯。拆解以回收成品。"
+
+#. ~ Use action not_ready_msg for {'str': 'little maid pet (smoking fish)',
+#. 'str_pl': 'little maid pet (smoking fish)'}.
+#: .\tools.json
+msgid "The little maid tastes the smoking fish and shakes her head a little."
+msgstr "小女僕嚐了嚐煙燻魚，微微搖了搖頭。"
+
+#. ~ Description for {'str': 'little maid pet (smoking fish)', 'str_pl':
+#. 'little maid pet (smoking fish)'}
+#: .\tools.json
+msgid ""
+"Your little maid is in the process of smoking fish. She seems to be having "
+"fun."
+msgstr "您的小女僕正在煙燻魚。她似乎樂在其中。"
+
+#: .\tools.json
+msgid "little maid pet (finished smoking fish)"
+msgid_plural "little maid pet (finished smoking fish)"
+msgstr[0] "小女僕寵物（已完成煙燻魚）"
+
+#. ~ Description for {'str': 'little maid pet (finished smoking fish)',
+#. 'str_pl': 'little maid pet (finished smoking fish)'}
+#: .\tools.json
+msgid ""
+"It seems like your little maid has finished smoking the fish. It smells "
+"quite nice. Disassemble to recover the finished product."
+msgstr "您的小女僕似乎已經完成了煙燻魚。聞起來相當不錯。拆解以回收成品。"
+
+#. ~ Use action friendly_msg for {'str': 'alchemic flesh golem (cooked)'}.
+#: .\tools.json
+msgid "I have unleashed a disgusting monster..."
+msgstr "我釋放了一個噁心的怪物……"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid " *pshhhttt* I'm reading you master, over."
+msgstr "*滋滋聲* 收到您的信號，主人，完畢。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "What is it, master?"
+msgstr "有什麼事嗎，主人？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want to give you some commands for combat."
+msgstr "我想給你下達一些戰鬥指令。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want to set some miscellaneous rules."
+msgstr "我想設定一些雜項規則。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I'd like to know a bit more about your abilities."
+msgstr "我想多瞭解一下你的能力。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "There's something I want you to do."
+msgstr "有件事想讓你去做。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I just wanted to talk for a bit."
+msgstr "我只是想聊一會兒天。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It's time for your milking."
+msgstr "該給你擠奶了。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I'm going to go my own way for a while."
+msgstr "我要自己行動一會兒。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's go."
+msgstr "我們走吧。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+" *tshk* Whatever you desire, master. Though perhaps we should meet up first?"
+msgstr "*滋滋聲* 如您所願，主人。不過也許我們應該先會合？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Is there something you need help with, master?"
+msgstr "有什麼需要我幫忙的嗎，主人？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Mind if we just chat for a bit about your history?"
+msgstr "介意我們聊聊你的過去嗎？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's just chitchat for a while, I could use some relaxation."
+msgstr "我們隨便聊會兒天吧，我需要放鬆一下。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Can I do anything for you?"
+msgstr "我能為您做些什麼嗎？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I don't want to ever be apart from you."
+msgstr "我永遠都不想和你分開。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I changed my mind, wanted to ask you something else."
+msgstr "我改變主意了，想問你點別的。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Milking time♪ Please treat me well, master!"
+msgstr "擠奶時間♪ 請好好對待我，主人！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Later, then."
+msgstr "那待會兒見。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's get to work."
+msgstr "我們開始工作吧。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Ah...Ahn♪ Oh master, that feels so...good..."
+msgstr "啊……嗯♪ 哦主人，這感覺……真舒服……"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "We're not done yet. I want your 'milk' too."
+msgstr "我們還沒完呢。我還想要你的“奶水”。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "That's all for now."
+msgstr "暫時就這些了。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Th-there too? N-no, wait, I'm going to...! Master, please, I can't stop - "
+"urgh, please, just let me rest...!"
+msgstr "那、那裡也要？不、不行，等等，我要……！主人，求你了，我停不下來——呃啊，拜託，讓我休息一下……！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Oh master...♪ I feel the same way! But you know, there is a way we can be "
+"together forever, no matter how cold or cruel this world is..."
+msgstr "哦主人……♪ 我也有同感！但你知道嗎，有一種方法能讓我們永遠在一起，無論這個世界多麼寒冷或殘酷……"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Tell me more."
+msgstr "詳細說說。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Take my heart and eat it. Ah, don't worry♪ I won't die. My strength will "
+"become our strength, and nobody will be able to separate us then!"
+msgstr "拿走我的心臟並吃掉它。啊，別擔心♪ 我不會死的。我的力量將成為我們的力量，那時就沒人能將我們分開了！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "This...let's do it. Now."
+msgstr "這個……我們來做吧。現在。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You know what? Never mind."
+msgstr "你知道嗎？算了。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"For my beloved master, I would do anything! Oh, if you ever change your "
+"mind, just put my heart back in the flask - I'll be back in no time!"
+msgstr "為了我心愛的主人，我什麼都願意做！哦，如果你改變主意了，只要把我的心臟放回瓶子裡——我馬上就會回來的！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "..."
+msgstr "..."
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "As you command, my master."
+msgstr "遵命，我的主人。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Do you have orders for me?"
+msgstr "您有命令要給我嗎？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "How can I serve you?"
+msgstr "我該如何為您效勞？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Just say the word."
+msgstr "儘管吩咐。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Can you teach me anything?"
+msgstr "你能教我些什麼嗎？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's trade items."
+msgstr "我們來交換物品吧。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's trade items"
+msgstr "我們來交換物品"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I want you to use this item."
+msgstr "我希望你使用這個物品。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Hold on to this item."
+msgstr "保管好這個物品。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Guard this position."
+msgstr "守衛這個位置。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Find a horse and mount up!"
+msgstr "去找匹馬騎上！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Get off your mount, please."
+msgstr "請下馬。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Please go to this location."
+msgstr "請前往這個地點。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Let's talk about your current activity."
+msgstr "我們來談談你當前的活動。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "With my life, master!"
+msgstr "以我的生命起誓，主人！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "I need you to come with me."
+msgstr "我需要你跟我來。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "See you around."
+msgstr "回頭見。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "But master...you can just leave everything to me!"
+msgstr "但是主人……您可以把一切都交給我！"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Come on, we're friends."
+msgstr "得了吧，我們是朋友。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Forget it, let's get going."
+msgstr "算了，我們出發吧。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Are you sure?  This doesn't seem like a particularly safe place for small "
+"talk…"
+msgstr "你確定嗎？ 這地方似乎不太適合閒聊……"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It's fine, we've got a moment."
+msgstr "沒關係，我們還有點時間。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You're right.  Forget I said anything, let's get moving."
+msgstr "你說得對。忘了我剛才的話，我們繼續前進吧。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "My history? You mean before I served you? ...I'm sorry, but..."
+msgstr "我的過去？你是指我侍奉你之前的事嗎？……抱歉，但是……"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Actually, never mind."
+msgstr "算了，當我沒說。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<shoggoth_chat>"
+msgstr "<shoggoth_chat>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<chitchat_player_responses>"
+msgstr "<chitchat_player_responses>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "OVERRIDE: "
+msgstr "覆蓋："
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_true_list_text>"
+msgstr "<ally_rule_allow_pick_up_true_list_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_true_text>"
+msgstr "<ally_rule_allow_pick_up_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pick_up_false_text>"
+msgstr "<ally_rule_allow_pick_up_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "  OVERRIDE: "
+msgstr "覆蓋："
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "  "
+msgstr ""
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_bash_true_text>"
+msgstr "<ally_rule_allow_bash_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_bash_false_text>"
+msgstr "<ally_rule_allow_bash_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_sleep_true_text>"
+msgstr "<ally_rule_allow_sleep_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_sleep_false_text>"
+msgstr "<ally_rule_allow_sleep_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_complain_true_text>"
+msgstr "<ally_rule_allow_complain_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_complain_false_text>"
+msgstr "<ally_rule_allow_complain_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pulp_true_text>"
+msgstr "<ally_rule_allow_pulp_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_allow_pulp_false_text>"
+msgstr "<ally_rule_allow_pulp_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_close_doors_true_text>"
+msgstr "<ally_rule_close_doors_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_close_doors_false_text>"
+msgstr "<ally_rule_close_doors_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_ignore_noise_true_text>"
+msgstr "<ally_rule_ignore_noise_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_ignore_noise_false_text>"
+msgstr "<ally_rule_ignore_noise_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_avoid_doors_true_text>"
+msgstr "<ally_rule_avoid_doors_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_avoid_doors_false_text>"
+msgstr "<ally_rule_avoid_doors_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_forbid_engage_true_text>"
+msgstr "<ally_rule_forbid_engage_true_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "<ally_rule_forbid_engage_false_text>"
+msgstr "<ally_rule_forbid_engage_false_text>"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't pick up items."
+msgstr "不要拾取物品。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You can pick up items now."
+msgstr "你現在可以拾取物品了。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't bash obstacles."
+msgstr "不要破壞障礙物。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You can bash obstacles."
+msgstr "你可以破壞障礙物。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Stay awake."
+msgstr "保持清醒。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Sleep when you feel tired."
+msgstr "感到疲倦時再睡覺。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Stay quiet."
+msgstr "保持安靜。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Tell me when you need something."
+msgstr "需要什麼時告訴我。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Leave corpses alone."
+msgstr "別碰屍體。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Smash zombie corpses."
+msgstr "砸碎殭屍屍體。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Leave doors open."
+msgstr "讓門開著。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Close the doors."
+msgstr "關上門。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Open doors to get where you're going."
+msgstr "開門以便前往目的地。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't walk through closed doors."
+msgstr "不要穿過關閉的門。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "If you hear a noise but can't see the source, move to investigate it."
+msgstr "如果聽到聲響但看不到來源，就移動去調查。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Don't investigate noises that you can't see."
+msgstr "不要調查你看不到的聲響。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Set up pickup rules."
+msgstr "設置拾取規則。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Clear all overrides."
+msgstr "清除所有覆蓋項。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Never mind."
+msgstr "算了。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Here, use this serum."
+msgstr "來，用這支血清。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Why should I do that?"
+msgstr "我為什麼要這麼做？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "It will help us survive."
+msgstr "這能幫助我們生存下去。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You won't stand a chance without it. You have to take it."
+msgstr "沒有它你毫無勝算。你必須接受它。"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "Huh? Wh-what's happening to...me......master?"
+msgstr "嗯？發……發生什麼了……我……主人？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid "You're my maid now. Understood?"
+msgstr "你現在是我的女僕了。明白嗎？"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"It seems the serum made you more than just a woman...well, you're my maid "
+"either way. (FUTANARI)"
+msgstr "看來血清讓你不僅僅是女人……好吧，不管怎樣，你都是我的女僕。（扶她）"
+
+#: .\npcs\TALK_MAID_ALLY.json
+msgid ""
+"Why can't I remember...I-I understand. Please take care of me...master."
+msgstr "為什麼我記不起來……我……我明白了。請照顧我……主人。"
+
+#: .\npcs\classes.json
+msgid ""
+"OBSOLETE!!! Only still here for the poor sods that want save compatibility"
+msgstr "已廢棄！！！僅保留以供需要存檔兼容性的可憐蟲使用"
+
+#: .\npcs\classes.json
+msgid "milk maid"
+msgstr "擠奶女僕"
+
+#: .\npcs\classes.json
+msgid "I'm your loyal slave, master!"
+msgstr "我是您忠誠的奴隸，主人！"
+
+#: .\npcs\npcs.json
+msgid "Shoggoth Maid"
+msgstr "修格斯女僕"

@@ -1,0 +1,1060 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DracoDogMod\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s bites your %2$s!"
+msgstr "%1$s咬住了你的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s bites <npcname>'s %2$s!"
+msgstr "%1$s咬住了<npcname>的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s tries to bite your %2$s, but fails to penetrate your armor!"
+msgstr "%1$s试图咬你的%2$s，但未能穿透你的护甲！"
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to bite <npcname>'s %2$s, but fails to penetrate their armor!"
+msgstr "%1$s试图咬<npcname>的%2$s，但未能穿透其护甲！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s ferociously bites your %2$s!"
+msgstr "%1$s凶猛地咬住了你的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s ferociously bites <npcname>'s %2$s!"
+msgstr "%1$s凶猛地咬住了<npcname>的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s nips at your %2$s!"
+msgstr "%1$s轻咬你的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid "The %1$s nips at <npcname>'s %2$s!"
+msgstr "%1$s轻咬<npcname>的%2$s！"
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to nips at your %2$s, but fails to penetrate your armor!"
+msgstr "%1$s试图轻咬你的%2$s，但未能穿透你的护甲！"
+
+#: .\dog_monster_attacks.json
+msgid ""
+"The %1$s tries to nips at <npcname>'s %2$s, but fails to penetrate their "
+"armor!"
+msgstr "%1$s试图轻咬<npcname>的%2$s，但未能穿透其护甲！"
+
+#: .\dog_monsters.json
+msgid "Labrador mutt"
+msgid_plural "Labrador mutts"
+msgstr[0] "拉布拉多混种犬"
+
+#. ~ Description for {'str': 'Labrador mutt'}
+#: .\dog_monsters.json
+msgid ""
+"This once-average Labrador mixed breed dog has clearly gone feral.  Though "
+"it likely still instinctually trusts humans, it's probably far from domestic"
+" by now."
+msgstr "这只曾经普通的拉布拉多混种犬显然已变得野性十足。尽管它可能仍本能地信任人类，但如今已远非家养状态。"
+
+#: .\dog_monsters.json
+msgid "attack labrador"
+msgid_plural "attack labradors"
+msgstr[0] "攻击型拉布拉多犬"
+
+#. ~ Description for {'str': 'attack labrador'}
+#: .\dog_monsters.json
+msgid ""
+"A shaggy Labrador Retriever that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr "一只毛发蓬松的拉布拉多猎犬，经过战斗训练。提升了敏捷性、攻击力、生命值、与主人的羁绊以及速度。"
+
+#: .\dog_monsters.json
+msgid "bulldog"
+msgid_plural "bulldogs"
+msgstr[0] "斗牛犬"
+
+#. ~ Description for {'str': 'bulldog'}
+#: .\dog_monsters.json
+msgid ""
+"The American Bulldog is a hardy, well built dog, that seems suited for "
+"surviving the apocalypse.  Can be trained as an attack dog."
+msgstr "美国斗牛犬是一种强壮、体格健硕的犬种，似乎很适合在末日中生存。可训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack bulldog"
+msgid_plural "attack bulldogs"
+msgstr[0] "攻击型斗牛犬"
+
+#. ~ Description for {'str': 'attack bulldog'}
+#: .\dog_monsters.json
+msgid ""
+"A muscular American Bulldog that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr "一只肌肉发达的美国斗牛犬，经过战斗训练。提升了敏捷性、攻击力、生命值、与主人的羁绊以及速度。"
+
+#: .\dog_monsters.json
+msgid "cattle dog"
+msgid_plural "cattle dogs"
+msgstr[0] "牧牛犬"
+
+#. ~ Description for {'str': 'cattle dog'}
+#: .\dog_monsters.json
+msgid ""
+"An agile and sturdy breed that is welcome on any farm, the Australian Cattle"
+" Dog is adept at leaping fences and herding livestock.  Can be trained as an"
+" attack dog."
+msgstr "澳大利亚牧牛犬是一种敏捷而强健的品种，在任何农场都受欢迎，擅长跳跃栅栏和驱赶牲畜。可训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack cattle dog"
+msgid_plural "attack cattle dogs"
+msgstr[0] "攻击型牧牛犬"
+
+#. ~ Description for {'str': 'attack cattle dog'}
+#: .\dog_monsters.json
+msgid ""
+"A darting Australian Cattle Dog that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr "一只迅捷的澳大利亚牧牛犬，经过战斗训练。提升了敏捷性、攻击力、生命值、与主人的羁绊以及速度。"
+
+#: .\dog_monsters.json
+msgid "pit bull mix"
+msgid_plural "pit bull mixs"
+msgstr[0] "比特犬混种"
+
+#. ~ Description for {'str': 'pit bull mix'}
+#: .\dog_monsters.json
+msgid ""
+"The oft-misunderstood Pit Bull is not actually a single breed but a label "
+"for several such as American Pit Bull Terrier and American Staffordshire "
+"Terrier.  Average abilities and well-known for their 'lock jaw' which isn't "
+"real but their incredible determination is.  Can be trained as an attack "
+"dog."
+msgstr ""
+"常被误解的比特犬并非单一品种，而是对如美国比特斗牛梗和美国斯塔福郡梗等多个品种的统称。能力平均，以“锁颌”闻名（虽非真实），但其惊人的毅力是真实的。可训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack pit bull mix"
+msgid_plural "attack pit bull mixs"
+msgstr[0] "攻击型比特犬混种"
+
+#. ~ Description for {'str': 'attack pit bull mix'}
+#: .\dog_monsters.json
+msgid ""
+"A ferocious Pit Bull mix that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr "一只凶猛的比特犬混种，经过战斗训练。提升了敏捷性、攻击力、生命值、与主人的羁绊以及速度。"
+
+#: .\dog_monsters.json
+msgid "beagle"
+msgid_plural "beagles"
+msgstr[0] "比格犬"
+
+#. ~ Description for {'str': 'beagle'}
+#: .\dog_monsters.json
+msgid ""
+"An adorable Beagle that has managed to survive the apocalypse.  Being agile "
+"and small, they are difficult to shoot at.  Generally attacks in packs."
+msgstr "一只可爱的比格犬，成功在末日中幸存。因其敏捷和小巧体型，难以被射中。通常成群攻击。"
+
+#: .\dog_monsters.json
+msgid "attack beagle"
+msgid_plural "attack beagles"
+msgstr[0] "攻击型比格犬"
+
+#. ~ Description for {'str': 'attack beagle'}
+#: .\dog_monsters.json
+msgid ""
+"A regal Beagle that has been trained to fight.  Improved agility, attack, "
+"health, owner bond, and speed."
+msgstr "一只经过战斗训练的威严比格犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "border collie"
+msgid_plural "border collies"
+msgstr[0] "边境牧羊犬"
+
+#. ~ Description for {'str': 'border collie'}
+#: .\dog_monsters.json
+msgid ""
+"An athletic and hyperactive dog that loves to herd animals and jump, the "
+"Border Collie is an agile attacker.  Although they can be easy to train, "
+"they don't work well in packs.  Can be trained as an attack dog."
+msgstr "边境牧羊犬是一种精力充沛、活泼好动的犬种，喜欢驱赶动物和跳跃，是敏捷的攻击者。虽然它们易于训练，但不擅长群体协作。可被训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack border collie"
+msgid_plural "attack border collies"
+msgstr[0] "攻击型边境牧羊犬"
+
+#. ~ Description for {'str': 'attack border collie'}
+#: .\dog_monsters.json
+msgid ""
+"A hyper Border Collie that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练的亢奋边境牧羊犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "boxer mastiff"
+msgid_plural "boxer mastiffs"
+msgstr[0] "拳师獒犬"
+
+#. ~ Description for {'str': 'boxer mastiff'}
+#: .\dog_monsters.json
+msgid ""
+"An ordinary breed full of affection, the Boxer Mastiff doesn't stand out "
+"amongst other dogs but has mediocre abilities nonetheless.  Can be trained "
+"as an attack dog."
+msgstr "拳师獒犬是一种充满感情的普通犬种，虽不突出于其他犬类，但能力尚可。可被训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack boxer mastiff"
+msgid_plural "attack boxer mastiffs"
+msgstr[0] "攻击型拳师獒犬"
+
+#. ~ Description for {'str': 'attack boxer mastiff'}
+#: .\dog_monsters.json
+msgid ""
+"A stocky Boxer Mastiff that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练的壮实拳师獒犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "chihuahua"
+msgid_plural "chihuahuas"
+msgstr[0] "吉娃娃"
+
+#. ~ Description for {'str': 'chihuahua'}
+#: .\dog_monsters.json
+msgid ""
+"It's a tiny Chihuahua.  How it has managed to survive is a miracle; although"
+" its small size and aggressive nature may been useful."
+msgstr "这是一只小小的吉娃娃。它能存活下来简直是个奇迹；尽管它的小体型和好斗天性或许派上了用场。"
+
+#: .\dog_monsters.json
+msgid "attack chihuahua"
+msgid_plural "attack chihuahuas"
+msgstr[0] "攻击型吉娃娃"
+
+#. ~ Description for {'str': 'attack chihuahua'}
+#: .\dog_monsters.json
+msgid ""
+"A skittish Chihuahua that has been trained to embrace its bark rather than "
+"its bite.  Improved agility, attack, health, owner bond, and speed."
+msgstr "一只经过训练、学会发挥吠叫而非撕咬优势的易惊吉娃娃。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "dachshund"
+msgid_plural "dachshunds"
+msgstr[0] "腊肠犬"
+
+#. ~ Description for {'str': 'dachshund'}
+#: .\dog_monsters.json
+msgid ""
+"A weiner dog!  This awkward looking dog can be a useful watch dog, plus it "
+"looks adorable as it bumbles around, also making it hard to shoot."
+msgstr "一只腊肠犬！这只长相滑稽的狗可以成为有用的看门犬，而且它笨拙地四处走动时看起来很可爱，同时也难以被射中。"
+
+#: .\dog_monsters.json
+msgid "attack dachshund"
+msgid_plural "attack dachshunds"
+msgstr[0] "攻击型腊肠犬"
+
+#. ~ Description for {'str': 'attack dachshund'}
+#: .\dog_monsters.json
+msgid ""
+"A long-bodied Dachshund that has been trained to fight, or so it wants you "
+"to believe.  Improved agility, attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练的长身腊肠犬，或者说它想让你这么认为。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "german shepherd"
+msgid_plural "german shepherds"
+msgstr[0] "德国牧羊犬"
+
+#. ~ Description for {'str': 'german shepherd'}
+#: .\dog_monsters.json
+msgid ""
+"The original K-9 breed.  An easy to train and great attack dog that will "
+"also defend its owner to the death, however they don't work well in packs.  "
+"Can be trained as an attack dog."
+msgstr "最初的K-9犬种。一种易于训练的优秀攻击犬，会誓死保卫主人，但它们不擅长群体协作。可被训练为攻击犬。"
+
+#: .\dog_monsters.json
+msgid "attack german shepherd"
+msgid_plural "attack german shepherds"
+msgstr[0] "攻击型德国牧羊犬"
+
+#. ~ Description for {'str': 'attack german shepherd'}
+#: .\dog_monsters.json
+msgid ""
+"A noble German Shepherd that has been trained to fight and not flee.  "
+"Improved agility, attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练、绝不退缩的高贵德国牧羊犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "great pyrenees"
+msgid_plural "great pyreneess"
+msgstr[0] "大白熊犬"
+
+#. ~ Description for {'str': 'great pyrenees'}
+#: .\dog_monsters.json
+msgid ""
+"A large and powerful breed, the Great Pyrenees has a beautiful, thick white "
+"coat.  Originally bred to deter wolves and other predators, now faced with "
+"protecting livestock from shambling hordes of undead."
+msgstr "大白熊犬是一种大型强壮的犬种，拥有美丽浓密的白色被毛。最初被培育用于威慑狼和其他捕食者，如今则要保护牲畜免受蹒跚而行的亡灵群侵袭。"
+
+#: .\dog_monsters.json
+msgid "attack great pyrenees"
+msgid_plural "attack great pyreneess"
+msgstr[0] "攻击型大白熊犬"
+
+#. ~ Description for {'str': 'attack great pyrenees'}
+#: .\dog_monsters.json
+msgid ""
+"A resilient Great Pyrenees that has been trained to fight.  Improved "
+"agility, attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练的坚韧大白熊犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_monsters.json
+msgid "rottweiler"
+msgid_plural "rottweilers"
+msgstr[0] "罗威纳犬"
+
+#. ~ Description for {'str': 'rottweiler'}
+#: .\dog_monsters.json
+msgid ""
+"A terrifying breed to face feral, Rottweilers are descended from Roman "
+"legion mastiffs.  It's robust, vicious, and quite capable of mauling a human"
+" to death."
+msgstr "面对野生的罗威纳犬是一种可怕的经历，它们源自罗马军团獒犬的后代。它强壮、凶猛，完全有能力将人类撕咬致死。"
+
+#: .\dog_monsters.json
+msgid "attack rottweiler"
+msgid_plural "attack rottweilers"
+msgstr[0] "攻击型罗威纳犬"
+
+#. ~ Description for {'str': 'attack rottweiler'}
+#: .\dog_monsters.json
+msgid ""
+"A brutal Rottweiler that has been trained to fight.  Improved agility, "
+"attack, health, owner bond, and speed."
+msgstr "一只经过战斗训练的凶残罗威纳犬。提升了敏捷性、攻击力、生命值、主人羁绊和速度。"
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Amateur Dog Trainer"
+msgstr "业余训犬师"
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Amateur Dog Trainer"
+msgstr "业余训犬师"
+
+#. ~ Profession (male Amateur Dog Trainer) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"As a high school student, you were the only member of a canine training "
+"club.  You've always been into dogs, but you barely manage to get Fido to "
+"sit.  Unfortunately, you'll need to learn quick or you and Fido aren't going"
+" to last long in this new world."
+msgstr "高中时期，你是犬类训练社的唯一成员。你一直很喜欢狗，但连让菲多坐下都勉强。不幸的是，你必须快速学习，否则你和菲多在这个新世界活不了多久。"
+
+#. ~ Profession (female Amateur Dog Trainer) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"As a high school student, you were the only member of a canine training "
+"club.  You've always been into dogs, but you barely manage to get Fido to "
+"sit.  Unfortunately, you'll need to learn quick or you and Fido aren't going"
+" to last long in this new world."
+msgstr "高中时期，你是犬类训练社的唯一成员。你一直很喜欢狗，但连让菲多坐下都勉强。不幸的是，你必须快速学习，否则你和菲多在这个新世界活不了多久。"
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Dog Fighting Breeder"
+msgstr "斗狗繁殖者"
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Dog Fighting Breeder"
+msgstr "斗狗繁殖者"
+
+#. ~ Profession (male Dog Fighting Breeder) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You never cared for anything until you got caught up in a dog fighting ring."
+"  You weren't really any good, but now there's no one else to be better than"
+" you.  Time to train some dogs to take down the newly undead!"
+msgstr "你曾对一切漠不关心，直到卷入斗狗团伙。你并不在行，但现在没人比你更强了。是时候训练一些狗来对付新出现的亡灵了！"
+
+#. ~ Profession (female Dog Fighting Breeder) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You never cared for anything until you got caught up in a dog fighting ring."
+"  You weren't really any good, but now there's no one else to be better than"
+" you.  Time to train some dogs to take down the newly undead!"
+msgstr "你曾对一切漠不关心，直到卷入斗狗团伙。你并不在行，但现在没人比你更强了。是时候训练一些狗来对付新出现的亡灵了！"
+
+#: .\dog_professions.json
+msgctxt "profession_male"
+msgid "Professional Canine Handler"
+msgstr "专业犬类驯导师"
+
+#: .\dog_professions.json
+msgctxt "profession_female"
+msgid "Professional Canine Handler"
+msgstr "专业犬类驯导师"
+
+#. ~ Profession (male Professional Canine Handler) description
+#: .\dog_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been teaching dogs for all manner of things: movies, obedience, "
+"tricks, and sometimes fighting.  With all your experience and money, you're "
+"ready to take on the next step: the apocalypse!"
+msgstr "你一直训练狗从事各种工作：电影表演、服从指令、技巧展示，有时还包括打斗。凭借丰富的经验和资金，你已准备好迎接下一步：末世求生！"
+
+#. ~ Profession (female Professional Canine Handler) description
+#: .\dog_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been teaching dogs for all manner of things: movies, obedience, "
+"tricks, and sometimes fighting.  With all your experience and money, you're "
+"ready to take on the next step: the apocalypse!"
+msgstr "你一直训练狗从事各种工作：电影表演、服从指令、技巧展示，有时还包括打斗。凭借丰富的经验和资金，你已准备好迎接下一步：末世求生！"
+
+#: .\modinfo.json
+msgid "Draco's Dog Mod"
+msgstr "德拉科的犬类模组"
+
+#. ~ Description for Draco's Dog Mod
+#: .\modinfo.json
+msgid ""
+"Adds dog crates with trainable dogs to animal shelters that can be trained "
+"into attack dogs (stat boosts). Adds dog pet professions."
+msgstr "在动物收容所添加带可训练犬只的狗笼，可将其训练为攻击犬（属性提升）。新增犬类宠物职业。"
+
+#: .\items\dog_items_crate.json
+msgid "crated labrador mutt"
+msgid_plural "crated labrador mutts"
+msgstr[0] "笼中拉布拉多混种犬"
+
+#. ~ Use action friendly_msg for {'str': 'crated labrador mutt'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack labrador'}.
+#. ~ Use action friendly_msg for {'str': 'crated bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'crated cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'crated pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'crated beagle'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack beagle'}.
+#. ~ Use action friendly_msg for {'str': 'crated border collie'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack border collie'}.
+#. ~ Use action friendly_msg for {'str': 'crated boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'crated chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'crated dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'crated german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'crated great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'crated rottweiler'}.
+#. ~ Use action friendly_msg for {'str': 'crated attack rottweiler'}.
+#: .\items\dog_items_crate.json
+msgid "You release the dog from its crate."
+msgstr "你将狗从笼中释放。"
+
+#. ~ Description for {'str': 'crated labrador mutt'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Labrador Retriever in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr "笼中的拉布拉多寻回犬。你可以将其训练为攻击犬，或从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack labrador"
+msgid_plural "crated attack labradors"
+msgstr[0] "笼中攻击型拉布拉多犬"
+
+#. ~ Description for {'str': 'crated attack labrador'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Labrador Retriever in a crate.  You can release it from the crate."
+msgstr "笼中的攻击型拉布拉多寻回犬。你可以将其从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated bulldog"
+msgid_plural "crated bulldogs"
+msgstr[0] "笼中斗牛犬"
+
+#. ~ Description for {'str': 'crated bulldog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An American Bulldog in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr "笼中的美国斗牛犬。你可以将其训练为攻击犬，或从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack bulldog"
+msgid_plural "crated attack bulldogs"
+msgstr[0] "笼中攻击型斗牛犬"
+
+#. ~ Description for {'str': 'crated attack bulldog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack American Bulldog in a crate.  You can release it from the crate."
+msgstr "笼中的攻击型美国斗牛犬。你可以将其从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated cattle dog"
+msgid_plural "crated cattle dogs"
+msgstr[0] "笼中牧牛犬"
+
+#. ~ Description for {'str': 'crated cattle dog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An Australian Cattle Dog in a crate.  You can train it as an attack dog or "
+"release it from the crate."
+msgstr "笼中的澳大利亚牧牛犬。你可以将其训练为攻击犬，或从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack cattle dog"
+msgid_plural "crated attack cattle dogs"
+msgstr[0] "笼中攻击型牧牛犬"
+
+#. ~ Description for {'str': 'crated attack cattle dog'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Australian Cattle Dog in a crate.  You can release it from the "
+"crate."
+msgstr "笼中的攻击型澳大利亚牧牛犬。你可以将其从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated pit bull mix"
+msgid_plural "crated pit bull mixs"
+msgstr[0] "笼中比特犬混种"
+
+#. ~ Description for {'str': 'crated pit bull mix'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Pit Bull mix in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr "笼中的比特犬混种犬。你可以将其训练为攻击犬，或从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack pit bull mix"
+msgid_plural "crated attack pit bull mixs"
+msgstr[0] "笼中攻击型比特犬混种"
+
+#. ~ Description for {'str': 'crated attack pit bull mix'}
+#: .\items\dog_items_crate.json
+msgid "An attack Pit Bull mix in a crate.  You can release it from the crate."
+msgstr "笼中的攻击型比特犬混种犬。你可以将其从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated beagle"
+msgid_plural "crated beagles"
+msgstr[0] "笼中比格犬"
+
+#. ~ Description for {'str': 'crated beagle'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Beagle in a crate.  You can train it as an attack dog or release it from "
+"the crate."
+msgstr "笼中的比格犬。你可以将其训练为攻击犬，或从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack beagle"
+msgid_plural "crated attack beagles"
+msgstr[0] "笼中攻击型比格犬"
+
+#. ~ Description for {'str': 'crated attack beagle'}
+#: .\items\dog_items_crate.json
+msgid "An attack Beagle in a crate.  You can release it from the crate."
+msgstr "笼中的攻击型比格犬。你可以将其从笼中释放。"
+
+#: .\items\dog_items_crate.json
+msgid "crated border collie"
+msgid_plural "crated border collies"
+msgstr[0] "笼中边境牧羊犬"
+
+#. ~ Description for {'str': 'crated border collie'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Border Collie in a crate.  You can train it as an attack dog or release it"
+" from the crate."
+msgstr "一只关在板条箱里的边境牧羊犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack border collie"
+msgid_plural "crated attack border collies"
+msgstr[0] "关在箱中的攻击边境牧羊犬"
+
+#. ~ Description for {'str': 'crated attack border collie'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Border Collie in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击边境牧羊犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated boxer mastiff"
+msgid_plural "crated boxer mastiffs"
+msgstr[0] "关在箱中的拳师獒犬"
+
+#. ~ Description for {'str': 'crated boxer mastiff'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Boxer Mastiff in a crate.  You can train it as an attack dog or release it"
+" from the crate."
+msgstr "一只关在板条箱里的拳师獒犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack boxer mastiff"
+msgid_plural "crated attack boxer mastiffs"
+msgstr[0] "关在箱中的攻击拳师獒犬"
+
+#. ~ Description for {'str': 'crated attack boxer mastiff'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Boxer Mastiff in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击拳师獒犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated chihuahua"
+msgid_plural "crated chihuahuas"
+msgstr[0] "关在箱中的吉娃娃"
+
+#. ~ Description for {'str': 'crated chihuahua'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Chihuahua in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr "一只关在板条箱里的吉娃娃。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack chihuahua"
+msgid_plural "crated attack chihuahuas"
+msgstr[0] "关在箱中的攻击吉娃娃"
+
+#. ~ Description for {'str': 'crated attack chihuahua'}
+#: .\items\dog_items_crate.json
+msgid "An attack Chihuahua in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击吉娃娃。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated dachshund"
+msgid_plural "crated dachshunds"
+msgstr[0] "关在箱中的腊肠犬"
+
+#. ~ Description for {'str': 'crated dachshund'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Dachshund in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr "一只关在板条箱里的腊肠犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack dachshund"
+msgid_plural "crated attack dachshunds"
+msgstr[0] "关在箱中的攻击腊肠犬"
+
+#. ~ Description for {'str': 'crated attack dachshund'}
+#: .\items\dog_items_crate.json
+msgid "An attack Dachshund in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击腊肠犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated german shepherd"
+msgid_plural "crated german shepherds"
+msgstr[0] "关在箱中的德国牧羊犬"
+
+#. ~ Description for {'str': 'crated german shepherd'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A German Shepherd in a crate.  You can train it as an attack dog or release "
+"it from the crate."
+msgstr "一只关在板条箱里的德国牧羊犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack german shepherd"
+msgid_plural "crated attack german shepherds"
+msgstr[0] "关在箱中的攻击德国牧羊犬"
+
+#. ~ Description for {'str': 'crated attack german shepherd'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack German Shepherd in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击德国牧羊犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated great pyrenees"
+msgid_plural "crated great pyreneess"
+msgstr[0] "关在箱中的大白熊犬"
+
+#. ~ Description for {'str': 'crated great pyrenees'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Great Pyrenees in a crate.  You can train it as an attack dog or release "
+"it from the crate."
+msgstr "一只关在板条箱里的大白熊犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack great pyrenees"
+msgid_plural "crated attack great pyreneess"
+msgstr[0] "关在箱中的攻击大白熊犬"
+
+#. ~ Description for {'str': 'crated attack great pyrenees'}
+#: .\items\dog_items_crate.json
+msgid ""
+"An attack Great Pyrenees in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击大白熊犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated rottweiler"
+msgid_plural "crated rottweilers"
+msgstr[0] "关在箱中的罗威纳犬"
+
+#. ~ Description for {'str': 'crated rottweiler'}
+#: .\items\dog_items_crate.json
+msgid ""
+"A Rottweiler in a crate.  You can train it as an attack dog or release it "
+"from the crate."
+msgstr "一只关在板条箱里的罗威纳犬。你可以把它训练成攻击犬，或者从箱子里放出来。"
+
+#: .\items\dog_items_crate.json
+msgid "crated attack rottweiler"
+msgid_plural "crated attack rottweilers"
+msgstr[0] "关在箱中的攻击罗威纳犬"
+
+#. ~ Description for {'str': 'crated attack rottweiler'}
+#: .\items\dog_items_crate.json
+msgid "An attack Rottweiler in a crate.  You can release it from the crate."
+msgstr "一只关在板条箱里的攻击罗威纳犬。你可以把它从箱子里放出来。"
+
+#: .\items\dog_items_train.json
+msgid "train labrador"
+msgid_plural "train labradors"
+msgstr[0] "训练拉布拉多犬"
+
+#. ~ Use action friendly_msg for {'str': 'train labrador'}.
+#. ~ Use action friendly_msg for {'str': 'train bulldog'}.
+#. ~ Use action friendly_msg for {'str': 'train cattle dog'}.
+#. ~ Use action friendly_msg for {'str': 'train pit bull mix'}.
+#. ~ Use action friendly_msg for {'str': 'train beagle'}.
+#. ~ Use action friendly_msg for {'str': 'train border collie'}.
+#. ~ Use action friendly_msg for {'str': 'train boxer mastiff'}.
+#. ~ Use action friendly_msg for {'str': 'train chihuahua'}.
+#. ~ Use action friendly_msg for {'str': 'train dachshund'}.
+#. ~ Use action friendly_msg for {'str': 'train german shepherd'}.
+#. ~ Use action friendly_msg for {'str': 'train great pyrenees'}.
+#. ~ Use action friendly_msg for {'str': 'train rottweiler'}.
+#: .\items\dog_items_train.json
+msgid "You finish training the dog and reward it with a treat."
+msgstr "你完成了对这只狗的训练，并用零食奖励了它。"
+
+#. ~ Description for {'str': 'train labrador'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Labrador as an attack dog.  Activate "
+"to reward it with a treat."
+msgstr "你即将完成将这只拉布拉多犬训练成攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train bulldog"
+msgid_plural "train bulldogs"
+msgstr[0] "训练斗牛犬"
+
+#. ~ Description for {'str': 'train bulldog'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this American Bulldog as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只美国斗牛犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train cattle dog"
+msgid_plural "train cattle dogs"
+msgstr[0] "训练牧牛犬"
+
+#. ~ Description for {'str': 'train cattle dog'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Australian Cattle Dog as an attack "
+"dog.  Activate to reward it with a treat."
+msgstr "你已接近完成将这只澳大利亚牧牛犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train pit bull mix"
+msgid_plural "train pit bull mixs"
+msgstr[0] "训练混种斗牛犬"
+
+#. ~ Description for {'str': 'train pit bull mix'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Pit Bull mix as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只混种斗牛犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train beagle"
+msgid_plural "train beagles"
+msgstr[0] "训练比格犬"
+
+#. ~ Description for {'str': 'train beagle'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Beagle as an attack dog.  Activate to"
+" reward it with a treat."
+msgstr "你已接近完成将这只比格犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train border collie"
+msgid_plural "train border collies"
+msgstr[0] "训练边境牧羊犬"
+
+#. ~ Description for {'str': 'train border collie'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Border Collie as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只边境牧羊犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train boxer mastiff"
+msgid_plural "train boxer mastiffs"
+msgstr[0] "训练拳师獒犬"
+
+#. ~ Description for {'str': 'train boxer mastiff'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Boxer Mastiff as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只拳师獒犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train chihuahua"
+msgid_plural "train chihuahuas"
+msgstr[0] "训练吉娃娃"
+
+#. ~ Description for {'str': 'train chihuahua'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Chihuahua as an attack dog.  Activate"
+" to reward it with a treat."
+msgstr "你已接近完成将这只吉娃娃训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train dachshund"
+msgid_plural "train dachshunds"
+msgstr[0] "训练腊肠犬"
+
+#. ~ Description for {'str': 'train dachshund'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Dachshund as an attack dog.  Activate"
+" to reward it with a treat."
+msgstr "你已接近完成将这只腊肠犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train german shepherd"
+msgid_plural "train german shepherds"
+msgstr[0] "训练德国牧羊犬"
+
+#. ~ Description for {'str': 'train german shepherd'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this German Shepherd as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只德国牧羊犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train great pyrenees"
+msgid_plural "train great pyreneess"
+msgstr[0] "训练大白熊犬"
+
+#. ~ Description for {'str': 'train great pyrenees'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Great Pyrenees as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只大白熊犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\dog_items_train.json
+msgid "train rottweiler"
+msgid_plural "train rottweilers"
+msgstr[0] "训练罗威纳犬"
+
+#. ~ Description for {'str': 'train rottweiler'}
+#: .\items\dog_items_train.json
+msgid ""
+"You have nearly finished training this Rottweiler as an attack dog.  "
+"Activate to reward it with a treat."
+msgstr "你已接近完成将这只罗威纳犬训练为攻击犬。激活以用零食奖励它。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "Kevlar-lined small quadruped peto"
+msgid_plural "Kevlar-lined small quadruped petos"
+msgstr[0] "凯夫拉衬里小型四足宠物护甲"
+
+#. ~ Description for {'str': 'Kevlar-lined small quadruped peto'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A heavy mattress-like armor of cloth, leather and thick linings of Kevlar, "
+"originally used as protection in bullfighting. Nowadays usually worn by "
+"canines in the service of local law enforcement, that protects from "
+"shoulders to abdomen.  You could put this on a friendly small quadruped "
+"including a dog."
+msgstr ""
+"一种厚重的床垫式护甲，由布料、皮革和厚实的凯夫拉衬里制成，最初用于斗牛防护。如今通常由当地执法部门服务的犬只穿戴，保护范围从肩部到腹部。你可以将其穿在友好的小型四足动物身上，包括狗。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "biosilicified chitin small quadruped armor"
+msgid_plural "biosilicified chitin small quadruped armors"
+msgstr[0] "生物硅化几丁质小型四足护甲"
+
+#. ~ Description for {'str': 'biosilicified chitin small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A makeshift assembly of criniere, peytral and croupiere made from "
+"biosilicified chitin fitted to a thin mesh. Can be used for protecting the "
+"neck to flank of canines.  You could put this on a friendly small quadruped "
+"including a dog."
+msgstr ""
+"一套临时组装的护颈、胸甲和臀甲，由生物硅化几丁质制成，安装在薄网上。可用于保护犬只的颈部到侧腹。你可以将其穿在友好的小型四足动物身上，包括狗。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "chitin small quadruped armor"
+msgid_plural "chitin small quadruped armors"
+msgstr[0] "几丁质小型四足护甲"
+
+#. ~ Description for {'str': 'chitin small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A makeshift assembly of criniere, peytral and croupiere made from chitin "
+"fitted to a thin mesh. Can be used for protecting the neck to flank of "
+"canines.  You could put this on a friendly small quadruped including a dog."
+msgstr "一套临时组装的护颈、胸甲和臀甲，由几丁质制成，安装在薄网上。可用于保护犬只的颈部到侧腹。你可以将其穿在友好的小型四足动物身上，包括狗。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "chainmail small quadruped armor"
+msgid_plural "chainmail small quadruped armors"
+msgstr[0] "锁子甲小型四足护甲"
+
+#. ~ Description for {'str': 'chainmail small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"Protecteth yon hund fram ful daemons!  You could put this on a friendly "
+"small quadruped including a dog."
+msgstr "保护汝犬免受恶魔侵袭！你可以将其穿在友好的小型四足动物身上，包括狗。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "boiled leather small quadruped barding with caprison"
+msgid_plural "boiled leather small quadruped bardings with caprison"
+msgstr[0] "带马衣的煮制皮革小型四足动物马铠"
+
+#. ~ Description for {'str': 'boiled leather small quadruped barding with
+#. caprison', 'str_pl': 'boiled leather small quadruped bardings with
+#. caprison'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A full barding fofr small quadrupeds including dogs consisting of boiled "
+"leather and cloth undercovering. This caparison is depicting a battle "
+"between a monstrous dragon and regal griffin. Can be attached to a canine "
+"for protection.  You could put this on a friendly small quadruped including "
+"a dog."
+msgstr ""
+"一套为包括狗在内的小型四足动物设计的全套马铠，由煮制皮革和布料衬底制成。这件马衣描绘了凶恶巨龙与威严狮鹫之间的战斗。可附着于犬类身上提供防护。你可以将其穿戴在友好的小型四足动物（包括狗）身上。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "boiled leather small quadruped barding with bones"
+msgid_plural "boiled leather small quadruped bardings with bones"
+msgstr[0] "带骨饰的煮制皮革小型四足动物马铠"
+
+#. ~ Description for {'str': 'boiled leather small quadruped barding with
+#. bones', 'str_pl': 'boiled leather small quadruped bardings with bones'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"Decorative bones affixed to leather small quadruped barding to invoke fear "
+"in bandits and raiders and traders all!  You could put this on a friendly "
+"small quadruped including a dog."
+msgstr "装饰性骨骼附着于皮革制小型四足动物马铠上，用以震慑强盗、掠夺者和商旅！你可以将其穿戴在友好的小型四足动物（包括狗）身上。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "small quadruped rubber rainsuit"
+msgid_plural "small quadruped rubber rainsuits"
+msgstr[0] "小型四足动物橡胶雨衣"
+
+#. ~ Description for {'str': 'small quadruped rubber rainsuit'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A thin plastic covering adapted for small quadrupeds including dogs to "
+"protect from acid rain and other caustic sources.  You could put this on a "
+"friendly small quadruped including a dog."
+msgstr "为包括狗在内的小型四足动物适配的轻薄塑料覆盖物，用于防护酸雨及其他腐蚀性物质。你可以将其穿戴在友好的小型四足动物（包括狗）身上。"
+
+#: .\items\armor\dog_pets_dog_armor.json
+msgid "superalloy tactical small quadruped armor"
+msgid_plural "superalloy tactical small quadruped armors"
+msgstr[0] "超合金战术小型四足动物护甲"
+
+#. ~ Description for {'str': 'superalloy tactical small quadruped armor'}
+#: .\items\armor\dog_pets_dog_armor.json
+msgid ""
+"A thin mesh interwoven with superalloy plates and pouches for military "
+"working small quadrupeds including dogs that covers from the dewlap to the "
+"croup, down to the elbows.  You could put this on a friendly small quadruped"
+" including a dog."
+msgstr ""
+"由超合金板与储物袋交织而成的轻薄网状护甲，专为包括狗在内的军用工作型小型四足动物设计，覆盖范围从颈垂到臀部，延伸至肘部。你可以将其穿戴在友好的小型四足动物（包括狗）身上。"
+
+#. ~ Crafting recipes category name
+#: .\recipes\dog_recipes.json
+msgid "ANIMALS"
+msgstr "动物"
+
+#. ~ Crafting recipes subcategory all
+#: .\recipes\dog_recipes.json
+msgid "ALL"
+msgstr "全部"
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "CANINE ARMOR"
+msgstr "犬用护甲"
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "CANINE TRAINING"
+msgstr "犬类训练"
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "EQUINE ARMOR"
+msgstr "马用护甲"
+
+#. ~ Crafting recipes subcategory of 'ANIMALS' category
+#: .\recipes\dog_recipes.json
+msgid "EQUINE STORAGE"
+msgstr "马用储物"
+
+#: .\vehicles\dg_vehicles.json
+msgid "Animal Control Truck"
+msgstr "动物管控卡车"

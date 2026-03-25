@@ -1,0 +1,415 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: national_guard_camp\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\furniture.json
+msgid "tank trap"
+msgstr ""
+
+#: .\furniture.json
+msgid "metal screeching!"
+msgstr ""
+
+#: .\furniture.json
+msgid "clang!"
+msgstr ""
+
+#: .\military.json
+msgid "W11B10"
+msgid_plural "W11B10s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'W11B10'}
+#: .\military.json
+msgid ""
+"Wraitheon (11B) Infantry 10 Level.  Part of Wraitheon's series of one-to-one"
+" auxiliaries designed to seamlessly integrate with more traditional forces."
+msgstr ""
+
+#: .\military.json
+msgid "W11B10B4"
+msgid_plural "W11B10B4s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'W11B10B4'}
+#: .\military.json
+msgid ""
+"Wraitheon (11B) Infantry 20 Level (B4) Sniper.  Part of Wraitheon's series "
+"of one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces.  "
+msgstr ""
+
+#: .\military.json
+msgid "W12B10"
+msgid_plural "W12B10s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'W12B10'}
+#: .\military.json
+msgid ""
+"Wraitheon (12B) Combat Engineer 10 Level.  Part of Wraitheon's series of "
+"one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr ""
+
+#: .\military.json
+msgid "W11H10"
+msgid_plural "W11H10s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'W11H10'}
+#: .\military.json
+msgid ""
+"Wraitheon (11H) Anti-Tank Infantry 10 Level.  Part of Wraitheon's series of "
+"one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr ""
+
+#: .\military.json
+msgid "W12N10"
+msgid_plural "W12N10s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'W12N10'}
+#: .\military.json
+msgid ""
+"Wraitheon (12N) Construction Engineer 10 Level.  Part of Wraitheon's series "
+"of one-to-one auxiliaries designed to seamlessly integrate with more "
+"traditional forces."
+msgstr ""
+
+#: .\modinfo.json .\overmap_terrain.json
+msgid "National Guard Camp"
+msgstr ""
+
+#. ~ Description for National Guard Camp
+#: .\modinfo.json
+msgid ""
+"Gigantic national guard camp filled with military grade enemy robots.  "
+"Location is a bit unstable because of it's size so game can heavily lag near"
+" it if processing power is relatively low so use it if your computer can "
+"process it's size"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Heliport"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "road"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "motor pool"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "repair bay"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "barracks"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "parking lot"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "fuel point"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "company ops facility"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "arms room"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "dining facility"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "adv. warfare center"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "range"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "aid station"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "commo building"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "battalion HQ"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "flag pole"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "shoppette"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "gym"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "gate"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "house"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "ammunition supply point"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Launch Station"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "helipad"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "solid rock"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Military Complex"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "cavern"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "reactor"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "weapons lab"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "genetics lab"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "microbiology lab"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "rocketry lab"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "basement"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "sewer"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "National Guard Camp Locator Hologram"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Hologram Protection"
+msgstr ""
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\national_guard_camp\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Go to National Guard Camp'}'
+#: .\national_guard_camp\NPC_missions.json
+msgid "Go to National Guard Camp"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Good luck to you!"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Good work!"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Who or what are you?"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "About that mission..."
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "Thanks"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+
+#: .\national_guard_camp\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr ""
+
+#: .\national_guard_camp\items_NPC_missions.json
+msgid "Hologram Projector - Locator of National Guard Camp"
+msgid_plural "Hologram Projector - Locator of National Guard Camps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of National Guard
+#. Camp'}
+#: .\national_guard_camp\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate National Guard Camp"
+msgstr ""

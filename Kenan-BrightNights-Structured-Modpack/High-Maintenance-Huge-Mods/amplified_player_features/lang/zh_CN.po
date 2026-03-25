@@ -1,0 +1,1813 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: amplified_players_features\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Amplified @'s Features"
+msgstr "增强@的特性"
+
+#. ~ Description for Amplified @'s Features
+#: .\modinfo.json
+msgid ""
+"Attempt to bring more stuff into appearance traits, including NPC support.  "
+"PS.: Don't mix cute with default :D"
+msgstr "尝试将更多内容融入外观特征，包括NPC支持。PS.：不要将可爱与默认混用 :D"
+
+#: .\changes\0_reset_beard.json
+msgid "3-misc: No Beard"
+msgstr "3-杂项：无胡须"
+
+#. ~ Description for {'str': '3-misc: No Beard'}
+#: .\changes\0_reset_beard.json
+msgid "You either shaved or can't grown a beard."
+msgstr "你刮了胡子或无法长出胡须。"
+
+#: .\changes\0_reset_beard.json
+msgid "null"
+msgstr "null"
+
+#. ~ Description for {'str': 'null'}
+#: .\changes\0_reset_beard.json
+msgid "hidden by unnatural features mod"
+msgstr "被非自然特征模组隐藏"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "3-misc: No Hair"
+msgstr "3-杂项：无头发"
+
+#. ~ Description for {'str': '3-misc: No Hair'}
+#: .\changes\0_reset_hairstyle.json
+msgid "You are BALD™."
+msgstr "你是光头™。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Black"
+msgstr "4-爆炸头：黑色"
+
+#. ~ Description for {'str': '4-hair_fro: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: 'fro unisex."
+msgstr "黑色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Blond"
+msgstr "4-爆炸头：金色"
+
+#. ~ Description for {'str': '4-hair_fro: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: 'fro unisex."
+msgstr "金色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Brown"
+msgstr "4-爆炸头：棕色"
+
+#. ~ Description for {'str': '4-hair_fro: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: 'fro unisex."
+msgstr "棕色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Gray"
+msgstr "4-爆炸头：灰色"
+
+#. ~ Description for {'str': '4-hair_fro: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: 'fro unisex."
+msgstr "灰色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Pink"
+msgstr "4-爆炸头：粉色"
+
+#. ~ Description for {'str': '4-hair_fro: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: 'fro unisex."
+msgstr "粉色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Red"
+msgstr "4-爆炸头：红色"
+
+#. ~ Description for {'str': '4-hair_fro: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: 'fro unisex."
+msgstr "红色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: White"
+msgstr "4-爆炸头：白色"
+
+#. ~ Description for {'str': '4-hair_fro: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: 'fro unisex."
+msgstr "白色发型：爆炸头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Black"
+msgstr "4-hair_crewcut: 黑色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: crew-cut unisex."
+msgstr "黑色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Blond"
+msgstr "4-hair_crewcut: 金色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: crew-cut unisex."
+msgstr "金色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Brown"
+msgstr "4-hair_crewcut: 棕色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: crew-cut unisex."
+msgstr "棕色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Gray"
+msgstr "4-hair_crewcut: 灰色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: crew-cut unisex."
+msgstr "灰色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Pink"
+msgstr "4-hair_crewcut: 粉色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: crew-cut unisex."
+msgstr "粉色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Red"
+msgstr "4-hair_crewcut: 红色"
+
+#. ~ Description for {'str': '4-hair_crewcut: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: crew-cut unisex."
+msgstr "红色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: White"
+msgstr "4-hair_crewcut: 白色"
+
+#. ~ Description for {'str': '4-hair_crewcut: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: crew-cut unisex."
+msgstr "白色发型：男女通用平头。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Black"
+msgstr "4-hair_long: 黑色"
+
+#. ~ Description for {'str': '4-hair_long: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: long unisex."
+msgstr "黑色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Blond"
+msgstr "4-hair_long: 金色"
+
+#. ~ Description for {'str': '4-hair_long: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: long unisex."
+msgstr "金色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Brown"
+msgstr "4-hair_long: 棕色"
+
+#. ~ Description for {'str': '4-hair_long: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: long unisex."
+msgstr "棕色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Gray"
+msgstr "4-hair_long: 灰色"
+
+#. ~ Description for {'str': '4-hair_long: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: long unisex."
+msgstr "灰色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Pink"
+msgstr "4-hair_long: 粉色"
+
+#. ~ Description for {'str': '4-hair_long: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: long unisex."
+msgstr "粉色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Red"
+msgstr "4-hair_long: 红色"
+
+#. ~ Description for {'str': '4-hair_long: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: long unisex."
+msgstr "红色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: White"
+msgstr "4-hair_long: 白色"
+
+#. ~ Description for {'str': '4-hair_long: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: long unisex."
+msgstr "白色发型：男女通用长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Black"
+msgstr "4-hair_medium: 黑色"
+
+#. ~ Description for {'str': '4-hair_medium: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: medium unisex."
+msgstr "黑色发型：男女通用中长发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Blond"
+msgstr "4-hair_medium: 金色"
+
+#. ~ Description for {'str': '4-hair_medium: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: medium unisex."
+msgstr "金色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Brown"
+msgstr "4-hair_medium: 棕色"
+
+#. ~ Description for {'str': '4-hair_medium: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: medium unisex."
+msgstr "棕色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Gray"
+msgstr "4-hair_medium: 灰色"
+
+#. ~ Description for {'str': '4-hair_medium: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: medium unisex."
+msgstr "灰色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Pink"
+msgstr "4-hair_medium: 粉色"
+
+#. ~ Description for {'str': '4-hair_medium: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: medium unisex."
+msgstr "粉色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Red"
+msgstr "4-hair_medium: 红色"
+
+#. ~ Description for {'str': '4-hair_medium: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: medium unisex."
+msgstr "红色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: White"
+msgstr "4-hair_medium: 白色"
+
+#. ~ Description for {'str': '4-hair_medium: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: medium unisex."
+msgstr "白色发型：中等长度，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Black"
+msgstr "4-hair_mohawk: 黑色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: mohawk unisex."
+msgstr "黑色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Blond"
+msgstr "4-hair_mohawk: 金色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: mohawk unisex."
+msgstr "金色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Brown"
+msgstr "4-hair_mohawk: 棕色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: mohawk unisex."
+msgstr "棕色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Gray"
+msgstr "4-hair_mohawk: 灰色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: mohawk unisex."
+msgstr "灰色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Pink"
+msgstr "4-hair_mohawk: 粉色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: mohawk unisex."
+msgstr "粉色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Red"
+msgstr "4-hair_mohawk: 红色"
+
+#. ~ Description for {'str': '4-hair_mohawk: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: mohawk unisex."
+msgstr "红色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: White"
+msgstr "4-hair_mohawk: 白色"
+
+#. ~ Description for {'str': '4-hair_mohawk: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: mohawk unisex."
+msgstr "白色发型：莫霍克头，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Black"
+msgstr "4-hair_short: 黑色"
+
+#. ~ Description for {'str': '4-hair_short: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: short unisex."
+msgstr "黑色发型：短发，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Blond"
+msgstr "4-hair_short: 金色"
+
+#. ~ Description for {'str': '4-hair_short: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: short unisex."
+msgstr "金色发型：短发，男女通用。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Brown"
+msgstr "4-短发：棕色"
+
+#. ~ Description for {'str': '4-hair_short: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: short unisex."
+msgstr "棕色发型：中性短发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Gray"
+msgstr "4-短发：灰色"
+
+#. ~ Description for {'str': '4-hair_short: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: short unisex."
+msgstr "灰色发型：中性短发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Pink"
+msgstr "4-短发：粉色"
+
+#. ~ Description for {'str': '4-hair_short: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: short unisex."
+msgstr "粉色发型：中性短发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Red"
+msgstr "4-短发：红色"
+
+#. ~ Description for {'str': '4-hair_short: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: short unisex."
+msgstr "红色发型：中性短发。"
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: White"
+msgstr "4-短发：白色"
+
+#. ~ Description for {'str': '4-hair_short: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: short unisex."
+msgstr "白色发型：中性短发。"
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Dark Brown"
+msgstr "0-默认皮肤：深棕色"
+
+#. ~ Description for {'str': '0-skin_default: Dark Brown'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a dark brown skin tone."
+msgstr "你拥有深棕色的肤色。"
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Light Peach"
+msgstr "0-默认皮肤：浅桃色"
+
+#. ~ Description for {'str': '0-skin_default: Light Peach'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a fading peach skin tone."
+msgstr "你拥有渐褪的桃色肤色。"
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Light Brown"
+msgstr "0-默认皮肤：浅棕色"
+
+#. ~ Description for {'str': '0-skin_default: Light Brown'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a fading brown skin tone."
+msgstr "你拥有渐褪的棕色肤色。"
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Rose"
+msgstr "0-默认皮肤：玫瑰色"
+
+#. ~ Description for {'str': '0-skin_default: Rose'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a rosy pink skin tone."
+msgstr "你拥有玫瑰粉色的肤色。"
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Bronze"
+msgstr "0-默认皮肤：古铜色"
+
+#. ~ Description for {'str': '0-skin_default: Bronze'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a bronze or tan skin tone."
+msgstr "你拥有古铜色或棕褐色的肤色。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Black"
+msgstr "5-短络腮胡：黑色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你有一撮黑色的小胡子和两侧修剪整齐的短络腮胡。稀疏的毛发将两者连接起来，在嘴唇周围形成一个“方框”，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Black"
+msgstr "5-山羊胡：黑色"
+
+#. ~ Description for {'str': '5-beard_goatee: Black'}
+#: .\changes\1_add_beard.json
+msgid "You have a short black beard at the tip of your chin."
+msgstr "你的下巴尖上有一撮黑色的短山羊胡。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Black"
+msgstr "5-全脸胡：黑色"
+
+#. ~ Description for {'str': '5-beard_full: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你有一撮黑色的小胡子和长长的络腮胡，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Black"
+msgstr "5-八字胡：黑色"
+
+#. ~ Description for {'str': '5-beard_chevron: Black'}
+#: .\changes\1_add_beard.json
+msgid "You have a black moustache that covers your entire top lip."
+msgstr "你有一撮覆盖整个上唇的黑色八字胡。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Black"
+msgstr "5-颈须：黑色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你有一撮由下巴线以下颈部生长的毛发形成的黑色颈须。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Black"
+msgstr "5-胡须_小胡子：黑色"
+
+#. ~ Description for {'str': '5-beard_moustache: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你有一副黑色的小胡子，末端修剪得较短，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Black"
+msgstr "5-胡须_皇家式：黑色"
+
+#. ~ Description for {'str': '5-beard_royale: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard forming a patch under your "
+"lips."
+msgstr "你有一副黑色的小胡子和一小撮短胡须，在下唇下方形成一块胡须区域。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Black"
+msgstr "5-胡须_灵魂贴片：黑色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of black hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你在下唇下方的凹陷处有一小撮黑色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Black"
+msgstr "5-胡须_下巴带：黑色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你有一副沿着下颌线生长的黑色胡须，环绕着下巴，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Black"
+msgstr "5-胡须_圆圈式：黑色"
+
+#. ~ Description for {'str': '5-beard_circle: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr "你有一副黑色的小胡子和短胡须，两者共同在你的嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Blond"
+msgstr "5-胡须_短盒式：金色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你有一副金色的小胡子和修剪过两侧的短胡须。稀疏的胡须区域将两者连接起来，在嘴唇周围形成一个“盒子”，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Blond"
+msgstr "5-胡须_山羊胡：金色"
+
+#. ~ Description for {'str': '5-beard_goatee: Blond'}
+#: .\changes\1_add_beard.json
+msgid "You have a short blond beard at the tip of your chin."
+msgstr "你在下巴尖有一小撮金色的短胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Blond"
+msgstr "5-胡须_全须式：金色"
+
+#. ~ Description for {'str': '5-beard_full: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你有一副金色的小胡子和长胡须，两者都是通过让毛发自由生长形成的，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Blond"
+msgstr "5-胡须_山形：金色"
+
+#. ~ Description for {'str': '5-beard_chevron: Blond'}
+#: .\changes\1_add_beard.json
+msgid "You have a blond moustache that covers your entire top lip."
+msgstr "你有一副金色的小胡子，覆盖了整个上唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Blond"
+msgstr "5-胡须_颈须：金色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你有一副由下巴线以下颈部生长的毛发形成的金色胡须。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Blond"
+msgstr "5-胡须_小胡子：金色"
+
+#. ~ Description for {'str': '5-beard_moustache: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你有一副金色的小胡子，末端修剪得较短，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Blond"
+msgstr "5-胡须_皇家式：金色"
+
+#. ~ Description for {'str': '5-beard_royale: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard forming a patch under your "
+"lips."
+msgstr "你有一副金色的小胡子和一小撮短胡须，在下唇下方形成一块胡须区域。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Blond"
+msgstr "5-胡须_灵魂贴片：金色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of blond hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你在下唇下方的凹陷处有一小撮金色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Blond"
+msgstr "5-胡须_下巴带：金色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你有一副沿着下颌线生长的金色胡须，环绕着下巴，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Blond"
+msgstr "5-胡须_圆圈式：金色"
+
+#. ~ Description for {'str': '5-beard_circle: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr "你有一副金色的小胡子和短胡须，两者共同在你的嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Brown"
+msgstr "5-短络腮胡：棕色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你留着棕色的小胡子和短胡须，两侧经过修剪。稀疏的胡须将两者连接起来，在嘴唇周围形成一个“方框”，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Brown"
+msgstr "5-山羊胡：棕色"
+
+#. ~ Description for {'str': '5-beard_goatee: Brown'}
+#: .\changes\1_add_beard.json
+msgid "You have a short brown beard at the tip of your chin."
+msgstr "你的下巴尖上留着一小撮棕色胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Brown"
+msgstr "5-全脸胡：棕色"
+
+#. ~ Description for {'str': '5-beard_full: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你留着棕色的小胡子和长胡须，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Brown"
+msgstr "5-人字胡：棕色"
+
+#. ~ Description for {'str': '5-beard_chevron: Brown'}
+#: .\changes\1_add_beard.json
+msgid "You have a brown moustache that covers your entire top lip."
+msgstr "你留着棕色的小胡子，覆盖了整个上唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Brown"
+msgstr "5-颈须：棕色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你下巴线以下的脖子上长着棕色胡须，形成了胡型。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Brown"
+msgstr "5-小胡子：棕色"
+
+#. ~ Description for {'str': '5-beard_moustache: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你留着棕色的小胡子，两端较短，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Brown"
+msgstr "5-皇家胡：棕色"
+
+#. ~ Description for {'str': '5-beard_royale: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard forming a patch under your "
+"lips."
+msgstr "你留着棕色的小胡子和短胡须，在嘴唇下方形成一小片胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Brown"
+msgstr "5-灵魂补丁：棕色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of brown hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你的下唇凹陷处有一小撮棕色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Brown"
+msgstr "5-下巴带胡：棕色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你的下巴周围沿着下颌线长着棕色胡须，环绕着下巴，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Brown"
+msgstr "5-圆圈胡：棕色"
+
+#. ~ Description for {'str': '5-beard_circle: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr "你留着棕色的小胡子和短胡须，两者共同在嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Gray"
+msgstr "5-短络腮胡：灰色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你留着灰色的小胡子和短胡须，两侧经过修剪。稀疏的胡须将两者连接起来，在嘴唇周围形成一个“方框”，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Gray"
+msgstr "5-山羊胡：灰色"
+
+#. ~ Description for {'str': '5-beard_goatee: Gray'}
+#: .\changes\1_add_beard.json
+msgid "You have a short gray beard at the tip of your chin."
+msgstr "你的下巴尖上留着一小撮灰色胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Gray"
+msgstr "5-全脸胡：灰色"
+
+#. ~ Description for {'str': '5-beard_full: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你留着灰色的小胡子和长胡须，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Gray"
+msgstr "5-人字胡：灰色"
+
+#. ~ Description for {'str': '5-beard_chevron: Gray'}
+#: .\changes\1_add_beard.json
+msgid "You have a gray moustache that covers your entire top lip."
+msgstr "你留着灰色的小胡子，覆盖了整个上唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Gray"
+msgstr "5-颈须：灰色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你下巴线以下的脖子上长着灰色胡须，形成了胡型。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Gray"
+msgstr "5-胡须_小胡子：灰色"
+
+#. ~ Description for {'str': '5-beard_moustache: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你有一副灰色的小胡子，末端修剪过，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Gray"
+msgstr "5-胡须_皇家式：灰色"
+
+#. ~ Description for {'str': '5-beard_royale: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard forming a patch under your lips."
+msgstr "你有一副灰色的小胡子和一小撮在下唇下方形成的短胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Gray"
+msgstr "5-胡须_灵魂补丁：灰色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of gray hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你在下唇下方的凹陷处有一小撮灰色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Gray"
+msgstr "5-胡须_下巴带：灰色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你有一副沿着下颌线环绕下巴的灰色胡须，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Gray"
+msgstr "5-胡须_圆圈式：灰色"
+
+#. ~ Description for {'str': '5-beard_circle: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr "你有一副灰色的小胡子和短胡须，两者共同在你的嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Pink"
+msgstr "5-胡须_短盒式：粉色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你有一副粉色的小胡子和修剪过两侧的短胡须。稀疏的毛发连接两者，在嘴唇周围形成一个“盒子”，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Pink"
+msgstr "5-胡须_山羊胡：粉色"
+
+#. ~ Description for {'str': '5-beard_goatee: Pink'}
+#: .\changes\1_add_beard.json
+msgid "You have a short pink beard at the tip of your chin."
+msgstr "你在下巴尖有一小撮粉色的胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Pink"
+msgstr "5-胡须_全脸式：粉色"
+
+#. ~ Description for {'str': '5-beard_full: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你有一副粉色的小胡子和长胡须，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Pink"
+msgstr "5-胡须_山形：粉色"
+
+#. ~ Description for {'str': '5-beard_chevron: Pink'}
+#: .\changes\1_add_beard.json
+msgid "You have a pink moustache that covers your entire top lip."
+msgstr "你有一副粉色的小胡子，覆盖了整个上唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Pink"
+msgstr "5-胡须_颈须：粉色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你有一副由下巴线以下颈部生长的毛发形成的粉色胡须。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Pink"
+msgstr "5-胡须_小胡子：粉色"
+
+#. ~ Description for {'str': '5-beard_moustache: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你有一副粉色的小胡子，末端修剪过，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Pink"
+msgstr "5-胡须_皇家式：粉色"
+
+#. ~ Description for {'str': '5-beard_royale: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard forming a patch under your lips."
+msgstr "你有一副粉色的小胡子和一小撮在下唇下方形成的短胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Pink"
+msgstr "5-胡须_灵魂补丁：粉色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of pink hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你在下唇下方的凹陷处有一小撮粉色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Pink"
+msgstr "5-胡须_下巴带：粉色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你有一副沿着下颌线环绕下巴的粉色胡须，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Pink"
+msgstr "5-胡须_圆圈式：粉色"
+
+#. ~ Description for {'str': '5-beard_circle: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr "你有一副粉色的小胡子和短胡须，两者共同在你的嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Red"
+msgstr "5-短络腮胡（盒式）：红色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard with trimmed sides.  Thin patches"
+" connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你留着红色的小胡子和两侧修剪整齐的短络腮胡。稀疏的毛发将两者连接起来，在嘴唇周围形成一个“盒子”形状，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Red"
+msgstr "5-山羊胡：红色"
+
+#. ~ Description for {'str': '5-beard_goatee: Red'}
+#: .\changes\1_add_beard.json
+msgid "You have a short red beard at the tip of your chin."
+msgstr "你的下巴尖留着一小撮红色的山羊胡。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Red"
+msgstr "5-全脸胡：红色"
+
+#. ~ Description for {'str': '5-beard_full: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你留着红色的小胡子和长络腮胡，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Red"
+msgstr "5-人字胡：红色"
+
+#. ~ Description for {'str': '5-beard_chevron: Red'}
+#: .\changes\1_add_beard.json
+msgid "You have a red moustache that covers your entire top lip."
+msgstr "你留着红色的小胡子，完全覆盖了上嘴唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Red"
+msgstr "5-颈须：红色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red beard formed from hair grown on neck below the chin line.  No"
+" moustache included."
+msgstr "你留着红色的颈须，由下巴线以下的颈部毛发生长而成。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Red"
+msgstr "5-小胡子：红色"
+
+#. ~ Description for {'str': '5-beard_moustache: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你留着红色的小胡子，两端较短，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Red"
+msgstr "5-皇家胡：红色"
+
+#. ~ Description for {'str': '5-beard_royale: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard forming a patch under your lips."
+msgstr "你留着红色的小胡子和短络腮胡，在嘴唇下方形成一块胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Red"
+msgstr "5-灵魂补丁：红色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of red hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你的下唇凹陷处有一小撮红色的毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Red"
+msgstr "5-下巴带：红色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你留着红色的胡须，沿着下颌线环绕下巴，没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Red"
+msgstr "5-圆圈胡：红色"
+
+#. ~ Description for {'str': '5-beard_circle: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr "你留着红色的小胡子和短络腮胡，两者共同在嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: White"
+msgstr "5-短络腮胡（盒式）：白色"
+
+#. ~ Description for {'str': '5-beard_short_boxed: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr "你留着白色的小胡子和两侧修剪整齐的短络腮胡。稀疏的毛发将两者连接起来，在嘴唇周围形成一个“盒子”形状，因此得名。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: White"
+msgstr "5-山羊胡：白色"
+
+#. ~ Description for {'str': '5-beard_goatee: White'}
+#: .\changes\1_add_beard.json
+msgid "You have a short white beard at the tip of your chin."
+msgstr "你的下巴尖留着一小撮白色的山羊胡。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: White"
+msgstr "5-全脸胡：白色"
+
+#. ~ Description for {'str': '5-beard_full: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr "你留着白色的小胡子和长络腮胡，两者都是任由毛发自由生长而成，没有特别的造型。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: White"
+msgstr "5-人字胡：白色"
+
+#. ~ Description for {'str': '5-beard_chevron: White'}
+#: .\changes\1_add_beard.json
+msgid "You have a white moustache that covers your entire top lip."
+msgstr "你留着白色的小胡子，完全覆盖了上嘴唇。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: White"
+msgstr "5-颈须：白色"
+
+#. ~ Description for {'str': '5-beard_neckbeard: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr "你留着白色的颈须，由下巴线以下的颈部毛发生长而成。不包括小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: White"
+msgstr "5-胡须_小胡子：白色"
+
+#. ~ Description for {'str': '5-beard_moustache: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr "你有一副白色的小胡子，末端较短，仅覆盖上唇上方的皮肤。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: White"
+msgstr "5-胡须_皇家式：白色"
+
+#. ~ Description for {'str': '5-beard_royale: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard forming a patch under your "
+"lips."
+msgstr "你有一副白色的小胡子和一小撮在下唇下方形成的短胡须。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: White"
+msgstr "5-胡须_灵魂补丁：白色"
+
+#. ~ Description for {'str': '5-beard_soul_patch: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of white hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr "你在下唇下方的凹陷处有一小撮白色毛发，除此之外没有任何其他面部毛发。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: White"
+msgstr "5-胡须_下巴带：白色"
+
+#. ~ Description for {'str': '5-beard_chin_strap: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr "你有一副沿着下颌线环绕下巴的白色胡须，但没有小胡子。"
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: White"
+msgstr "5-胡须_圆圈式：白色"
+
+#. ~ Description for {'str': '5-beard_circle: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr "你有一副白色的小胡子和短胡须，两者共同在你的嘴唇周围形成一个圆圈。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Blue"
+msgstr "2-眼睛_默认：蓝色"
+
+#. ~ Description for {'str': '2-eyes_default: Blue'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is blue."
+msgstr "你的自然眼睛颜色是蓝色。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Brown"
+msgstr "2-眼睛_默认：棕色"
+
+#. ~ Description for {'str': '2-eyes_default: Brown'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is brown."
+msgstr "你的自然眼睛颜色是棕色。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Gray"
+msgstr "2-眼睛_默认：灰色"
+
+#. ~ Description for {'str': '2-eyes_default: Gray'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is gray."
+msgstr "你的自然眼睛颜色是灰色。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Green"
+msgstr "2-眼睛_默认：绿色"
+
+#. ~ Description for {'str': '2-eyes_default: Green'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is green."
+msgstr "你的自然眼睛颜色是绿色。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Red"
+msgstr "2-眼睛_默认：红色"
+
+#. ~ Description for {'str': '2-eyes_default: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on red coloured contacts."
+msgstr "你戴着红色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Yellow"
+msgstr "2-眼睛_默认：黄色"
+
+#. ~ Description for {'str': '2-eyes_default: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on yellow coloured contacts."
+msgstr "你戴着黄色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Blue"
+msgstr "2-眼睛_可爱明亮：蓝色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Blue'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright blue coloured contacts."
+msgstr "你戴着亮蓝色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Blue"
+msgstr "2-眼睛_可爱深色：蓝色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Blue'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark blue coloured contacts."
+msgstr "你戴着深蓝色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Brown"
+msgstr "2-眼睛_可爱明亮：棕色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Brown'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright brown coloured contacts."
+msgstr "你戴着亮棕色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Brown"
+msgstr "2-眼睛_可爱深色：棕色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Brown'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark brown coloured contacts."
+msgstr "你戴着深棕色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Gray"
+msgstr "2-眼睛_可爱明亮：灰色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Gray'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright gray coloured contacts."
+msgstr "你戴着亮灰色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Gray"
+msgstr "2-眼睛_可爱深色：灰色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Gray'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark gray coloured contacts."
+msgstr "你戴着深灰色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Green"
+msgstr "2-眼睛_可爱明亮：绿色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Green'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright green coloured contacts."
+msgstr "你戴着亮绿色的彩色隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Green"
+msgstr "2-眼睛_可爱_深色：绿色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Green'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark green coloured contacts."
+msgstr "你戴着深绿色的隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Purple"
+msgstr "2-眼睛_可爱_亮色：紫色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Purple'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright purple coloured contacts."
+msgstr "你戴着亮紫色的隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Purple"
+msgstr "2-眼睛_可爱_深色：紫色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Purple'}
+#: .\changes\1_add_eye.json
+msgid "You have on deep purple coloured contacts.  Heh."
+msgstr "你戴着深紫色的隐形眼镜。嘿嘿。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Red"
+msgstr "2-眼睛_可爱_亮色：红色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright red coloured contacts."
+msgstr "你戴着亮红色的隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Red"
+msgstr "2-眼睛_可爱_深色：红色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark red coloured contacts."
+msgstr "你戴着深红色的隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Yellow"
+msgstr "2-眼睛_可爱_亮色：黄色"
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright yellow coloured contacts."
+msgstr "你戴着亮黄色的隐形眼镜。"
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Yellow"
+msgstr "2-眼睛_可爱_深色：黄色"
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark yellow coloured contacts."
+msgstr "你戴着深黄色的隐形眼镜。"
+
+#: .\changes\1_add_freckle.json
+msgid "1-freckles: Dense"
+msgstr "1-雀斑：密集"
+
+#. ~ Description for {'str': '1-freckles: Dense'}
+#: .\changes\1_add_freckle.json
+msgid "Your face has a lot of freckles."
+msgstr "你的脸上有很多雀斑。"
+
+#: .\changes\1_add_freckle.json
+msgid "1-freckles: Light"
+msgstr "1-雀斑：稀疏"
+
+#. ~ Description for {'str': '1-freckles: Light'}
+#: .\changes\1_add_freckle.json
+msgid "Your face has some light freckles."
+msgstr "你的脸上有一些浅色雀斑。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Black"
+msgstr "4-发型_童花头_刘海：黑色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: pageboy for women, fringe for men."
+msgstr "黑色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Blond"
+msgstr "4-发型_童花头_刘海：金色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: pageboy for women, fringe for men."
+msgstr "金色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Brown"
+msgstr "4-发型_童花头_刘海：棕色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: pageboy for women, fringe for men."
+msgstr "棕色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Gray"
+msgstr "4-发型_童花头_刘海：灰色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: pageboy for women, fringe for men."
+msgstr "灰色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Pink"
+msgstr "4-发型_童花头_刘海：粉色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: pageboy for women, fringe for men."
+msgstr "粉色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Red"
+msgstr "4-发型_童花头_刘海：红色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: pageboy for women, fringe for men."
+msgstr "红色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: White"
+msgstr "4-发型_童花头_刘海：白色"
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: pageboy for women, fringe for men."
+msgstr "白色发型：女性为童花头，男性为刘海。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Black"
+msgstr "4-hair_lopsided_curtain: 黑色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: lopsided cut for women, curtained for men."
+msgstr "黑色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Blond"
+msgstr "4-hair_lopsided_curtain: 金色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: lopsided cut for women, curtained for men."
+msgstr "金色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Brown"
+msgstr "4-hair_lopsided_curtain: 棕色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: lopsided cut for women, curtained for men."
+msgstr "棕色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Gray"
+msgstr "4-hair_lopsided_curtain: 灰色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: lopsided cut for women, curtained for men."
+msgstr "灰色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Pink"
+msgstr "4-hair_lopsided_curtain: 粉色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: lopsided cut for women, curtained for men."
+msgstr "粉色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Red"
+msgstr "4-hair_lopsided_curtain: 红色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: lopsided cut for women, curtained for men."
+msgstr "红色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: White"
+msgstr "4-hair_lopsided_curtain: 白色"
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: lopsided cut for women, curtained for men."
+msgstr "白色发型：女性为不对称剪裁，男性为窗帘式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Black"
+msgstr "4-hair_baby_lifted: 黑色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: baby bangs for women, facelift for men."
+msgstr "黑色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Blond"
+msgstr "4-hair_baby_lifted: 金色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: baby bangs for women, facelift for men."
+msgstr "金色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Brown"
+msgstr "4-hair_baby_lifted: 棕色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: baby bangs for women, facelift for men."
+msgstr "棕色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Gray"
+msgstr "4-hair_baby_lifted: 灰色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: baby bangs for women, facelift for men."
+msgstr "灰色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Pink"
+msgstr "4-hair_baby_lifted: 粉色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: baby bangs for women, facelift for men."
+msgstr "粉色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Red"
+msgstr "4-hair_baby_lifted: 红色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: baby bangs for women, facelift for men."
+msgstr "红色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: White"
+msgstr "4-hair_baby_lifted: 白色"
+
+#. ~ Description for {'str': '4-hair_baby_lifted: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: baby bangs for women, facelift for men."
+msgstr "白色发型：女性为婴儿刘海，男性为提拉式。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Black"
+msgstr "4-hair_bangs_mullet: 黑色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: bangs for women, mullet for men."
+msgstr "黑色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Blond"
+msgstr "4-发型_刘海鲻鱼头：金色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: bangs for women, mullet for men."
+msgstr "金色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Brown"
+msgstr "4-发型_刘海鲻鱼头：棕色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: bangs for women, mullet for men."
+msgstr "棕色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Gray"
+msgstr "4-发型_刘海鲻鱼头：灰色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: bangs for women, mullet for men."
+msgstr "灰色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Pink"
+msgstr "4-发型_刘海鲻鱼头：粉色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: bangs for women, mullet for men."
+msgstr "粉色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Red"
+msgstr "4-发型_刘海鲻鱼头：红色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: bangs for women, mullet for men."
+msgstr "红色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: White"
+msgstr "4-发型_刘海鲻鱼头：白色"
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: bangs for women, mullet for men."
+msgstr "白色发型：女性为刘海，男性为鲻鱼头。"
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Dark Brown"
+msgstr "0-皮肤_可爱：深棕色"
+
+#. ~ Description for {'str': '0-skin_cute: Dark Brown'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like dark brown skin tone."
+msgstr "你拥有动漫风格的深棕色肤色。"
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Light Peach"
+msgstr "0-皮肤_可爱：浅桃色"
+
+#. ~ Description for {'str': '0-skin_cute: Light Peach'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like fading peach skin tone."
+msgstr "你拥有动漫风格的渐变桃色肤色。"
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Light Brown"
+msgstr "0-皮肤_可爱：浅棕色"
+
+#. ~ Description for {'str': '0-skin_cute: Light Brown'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like fading brown skin tone."
+msgstr "你拥有动漫风格的渐变棕色肤色。"
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Rose"
+msgstr "0-皮肤_可爱：玫瑰色"
+
+#. ~ Description for {'str': '0-skin_cute: Rose'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like rosy skin tone."
+msgstr "你拥有动漫风格的玫瑰色肤色。"
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Bronze"
+msgstr "0-皮肤_可爱：古铜色"
+
+#. ~ Description for {'str': '0-skin_cute: Bronze'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like bronze or tan skin tone."
+msgstr "你拥有动漫风格的古铜色或晒黑肤色。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Aqua"
+msgstr "4-假发：水绿色"
+
+#. ~ Description for {'str': '4-hair_wig: Aqua'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute aqua wig."
+msgstr "你戴着一顶可爱的水绿色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Black"
+msgstr "4-假发：黑色"
+
+#. ~ Description for {'str': '4-hair_wig: Black'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute black wig."
+msgstr "你戴着一顶可爱的黑色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Blonde"
+msgstr "4-假发：金色"
+
+#. ~ Description for {'str': '4-hair_wig: Blonde'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute blond wig."
+msgstr "你戴着一顶可爱的金色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Blue"
+msgstr "4-假发：蓝色"
+
+#. ~ Description for {'str': '4-hair_wig: Blue'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute blue wig."
+msgstr "你戴着一顶可爱的蓝色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Brown"
+msgstr "4-头发假发：棕色"
+
+#. ~ Description for {'str': '4-hair_wig: Brown'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute brown wig."
+msgstr "你戴着一顶可爱的棕色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Green"
+msgstr "4-头发假发：绿色"
+
+#. ~ Description for {'str': '4-hair_wig: Green'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute green wig."
+msgstr "你戴着一顶可爱的绿色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Gray"
+msgstr "4-头发假发：灰色"
+
+#. ~ Description for {'str': '4-hair_wig: Gray'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute gray wig."
+msgstr "你戴着一顶可爱的灰色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Orange"
+msgstr "4-头发假发：橙色"
+
+#. ~ Description for {'str': '4-hair_wig: Orange'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute orange wig."
+msgstr "你戴着一顶可爱的橙色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Pink"
+msgstr "4-头发假发：粉色"
+
+#. ~ Description for {'str': '4-hair_wig: Pink'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute pink wig."
+msgstr "你戴着一顶可爱的粉色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Purple"
+msgstr "4-头发假发：紫色"
+
+#. ~ Description for {'str': '4-hair_wig: Purple'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute purple wig."
+msgstr "你戴着一顶可爱的紫色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Red"
+msgstr "4-头发假发：红色"
+
+#. ~ Description for {'str': '4-hair_wig: Red'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute red wig."
+msgstr "你戴着一顶可爱的红色假发。"
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: White"
+msgstr "4-头发假发：白色"
+
+#. ~ Description for {'str': '4-hair_wig: White'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute white wig."
+msgstr "你戴着一顶可爱的白色假发。"

@@ -1,0 +1,576 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bioco\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\bionics.json
+msgid "Fire Extinguisher"
+msgstr ""
+
+#. ~ Description for {'str': 'Fire Extinguisher'}
+#: .\bionics.json
+msgid ""
+"A small, retractable launcher resides in the palm of your hand through your "
+"arm. The system will automatically produce small gelatinous orbs that when "
+"launched into fire will rapidly expand into a fire fighting foam. "
+msgstr ""
+
+#: .\modinfo.json
+msgid "BioCo Content"
+msgstr ""
+
+#. ~ Description for BioCo Content
+#: .\modinfo.json
+msgid "Adds many bionic centric items, curtosey of BioCo"
+msgstr ""
+
+#: .\tool_qualities.json .\items\tool_qualities.json
+msgid "Bionic Assembly"
+msgstr ""
+
+#: .\tool_qualities.json
+msgid "BioCo Chemical Making"
+msgstr ""
+
+#: .\construction\construction_group.json
+msgid "Build BioCo Assembly Machine"
+msgstr ""
+
+#: .\construction\construction_group.json
+msgid "Build BioCo Chemical Engine"
+msgstr ""
+
+#: .\construction\furniture.json
+msgid ""
+"A assembly machine capable of producing BioCo Tech given the correct "
+"software."
+msgstr ""
+
+#: .\construction\furniture.json
+msgid ""
+"A BioCo manufacturing device for various chemical components and medicines."
+msgstr ""
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Healing"
+msgstr ""
+
+#. ~ Description of effect 'XE037 Healing'.
+#: .\effects\medicine_effects.json
+msgid "Flesh stiching itself together is never a fun time. Testing."
+msgstr ""
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Rapid Healing"
+msgstr ""
+
+#. ~ Description of effect 'XE037 Rapid Healing'.
+#: .\effects\medicine_effects.json
+msgid "The ache of your muscles and bones mending temselves grows."
+msgstr ""
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Cell Breakdown"
+msgstr ""
+
+#. ~ Description of effect 'XE037 Cell Breakdown'.
+#: .\effects\medicine_effects.json
+msgid ""
+"Liquified flesh stings as your bone heats. Anymore XE037 is a gamble with "
+"death himself."
+msgstr ""
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Rejection"
+msgstr ""
+
+#. ~ Description of effect 'XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "Black ooze creeps from your wounds as numbness sets in..."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid ""
+"You slam the needle in and begin to feel the sensation of flesh crawling "
+"together..."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "The worst of the healing is over now."
+msgstr ""
+
+#. ~ Miss message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "A sick squlesh is heard from your insides..."
+msgstr ""
+
+#: .\effects\medicine_effects.json
+msgid "Nausea Medicine"
+msgstr ""
+
+#. ~ Description of effect 'Nausea Medicine'.
+#: .\effects\medicine_effects.json
+msgid "Medicine calms your sotmach and helps prevent vomitting."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Nausea Medicine'.
+#: .\effects\medicine_effects.json
+msgid "You pop a pill into your mouth. Bitter."
+msgstr ""
+
+#: .\furniture\furniture.json .\items\tools.json
+msgid "BioCo Assembly Machine"
+msgid_plural "BioCo Assembly Machines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for BioCo Assembly Machine
+#: .\furniture\furniture.json
+msgid ""
+"A BioCo Assembly Machine, capable of creating a wide range of BioCo tech."
+msgstr ""
+
+#: .\furniture\furniture.json .\furniture\furniture_override.json
+msgid "crunch!"
+msgstr ""
+
+#: .\furniture\furniture.json .\furniture\furniture_override.json
+msgid "whump."
+msgstr ""
+
+#: .\furniture\furniture.json .\items\tools.json
+msgid "BioCo Chemical Engine"
+msgid_plural "BioCo Chemical Engines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for BioCo Chemical Engine
+#: .\furniture\furniture.json
+msgid "A BioCo Chemical Engine, capable of creating a wide BioCo concoction."
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "Autodoc Mk. XI"
+msgstr ""
+
+#. ~ Description for Autodoc Mk. XI
+#: .\furniture\furniture_override.json
+msgid ""
+"A surgical apparatus used for installation and uninstallation of bionics.  "
+"It's only as skilled as its operator."
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "whack!"
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "Autodoc operation couch"
+msgstr ""
+
+#. ~ Description for Autodoc operation couch
+#: .\furniture\furniture_override.json
+msgid ""
+"A plush red sofa made less comfortable by the medical machinery directly "
+"above it.  It has a single leather strap on the right armrest."
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "smash!"
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "robotic arm"
+msgstr ""
+
+#. ~ Description for robotic arm
+#: .\furniture\furniture_override.json
+msgid "This is a robotic arm."
+msgstr ""
+
+#: .\furniture\furniture_override.json
+msgid "thunk."
+msgstr ""
+
+#: .\items\bionics.json
+msgid "Fire Extinguisher CBM"
+msgid_plural "Fire Extinguisher CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fire Extinguisher CBM'}
+#: .\items\bionics.json
+msgid ""
+"A small, retractable launcher resides in the palm of your hand through your "
+"arm. The system will automatically produce small gelatinous orbs that when "
+"launched into fire will rapidly expand into a fire fighting foam."
+msgstr ""
+
+#: .\items\books.json
+msgid "BioCo Chemical Reference"
+msgid_plural "BioCo Chemical References"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Chemical Reference', 'str_pl': 'BioCo
+#. Chemical References'}
+#: .\items\books.json
+msgid ""
+"A dense and oddly non-technical binder full of detailed descriptions of "
+"various chemical processes used by the BioCo Chemical Engine. While a lot of"
+" these are beyond you, there's a few you think you might be able to "
+"replicate."
+msgstr ""
+
+#: .\items\components.json .\items\machine_parts.json
+msgid "Autonmous Machine Part"
+msgid_plural "Autonmous Machine Parts"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Autonmous Machine Part'}
+#: .\items\components.json .\items\machine_parts.json
+msgid "A bundle of components essential in any advance crafting machine."
+msgstr ""
+
+#: .\items\components.json .\items\machine_parts.json
+msgid "BioCo AutoDoc Core"
+msgid_plural "BioCo AutoDoc Cores"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo AutoDoc Core'}
+#: .\items\components.json .\items\machine_parts.json
+msgid ""
+"A large processing unit on an electric board. An essential component to "
+"BioCo machines."
+msgstr ""
+
+#: .\items\components.json
+msgid "Pristine Bionic Components"
+msgid_plural "Pristine Bionic Componentss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pristine Bionic Components'}
+#: .\items\components.json
+msgid ""
+"A collection of top quality machine to human interfaces, advance "
+"semiconductors, and other important components to BioCo tech. Useful in both"
+" bionics and advance electronics."
+msgstr ""
+
+#: .\items\components.json
+msgid "BioCo Crude Chemical Precursor"
+msgid_plural "BioCo Crude Chemical Precursors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Crude Chemical Precursor', 'str_pl':
+#. 'BioCo Crude Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A very thin, purple concoction of various chemicals, used by BioCo Chemical "
+"Engines."
+msgstr ""
+
+#: .\items\components.json
+msgid "BioCo Chemical Precursor"
+msgid_plural "BioCo Chemical Precursors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Chemical Precursor', 'str_pl': 'BioCo
+#. Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A blue concoction of various chemicals, used by BioCo Chemical Engines."
+msgstr ""
+
+#: .\items\components.json
+msgid "BioCo Fine Chemical Precursor"
+msgid_plural "BioCo Fine Chemical Precursors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Fine Chemical Precursor', 'str_pl': 'BioCo
+#. Fine Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A slightly shimmering green concoction of various chemicals, used by BioCo "
+"Chemical Engines."
+msgstr ""
+
+#: .\items\fake_bionic_items.json
+msgid "Bionic Fire Extinguisher"
+msgid_plural "Bionic Fire Extinguishers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bionic Fire Extinguisher'}
+#: .\items\fake_bionic_items.json
+msgid "Testing"
+msgstr ""
+
+#: .\items\food.json
+msgid "BioCo Food Bar"
+msgid_plural "BioCo Food Bars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Food Bar'}
+#: .\items\food.json
+msgid ""
+"An on-the-go food bar created by BioCo. While the texture is certainly off "
+"putting, you're confident in its edibility."
+msgstr ""
+
+#: .\items\food.json
+msgid "BioCo Food Slurry"
+msgid_plural "BioCo Food Slurrys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Food Slurry'}
+#: .\items\food.json
+msgid "A thick slurry of calories and nutrients. Suprisingly tasty!"
+msgstr ""
+
+#: .\items\generic.json
+msgid "Broken BioCo ScavBot"
+msgid_plural "Broken BioCo ScavBots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Broken BioCo ScavBot'}
+#: .\items\generic.json
+msgid ""
+"A broken BioCo ScavBot. Disassembly should yield a handful of useful parts."
+msgstr ""
+
+#: .\items\medicine.json
+msgid "Emergency Trauma Foam"
+msgid_plural "Emergency Trauma Foam"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Emergency Trauma Foam', 'str_pl': 'Emergency
+#. Trauma Foam'}
+#: .\items\medicine.json
+msgid ""
+"A can full of water-soluble ETF, or Emergency Trauma Foam. When sprayed on a"
+" wound ETF rapidly expands, stopping bleeding, acting as a local painkiller,"
+" and also disinfecting the wound."
+msgstr ""
+
+#: .\items\medicine.json
+msgid "XE037 Emergency Injection"
+msgid_plural "XE037 Emergency Injection"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XE037 Emergency Injection', 'str_pl': 'XE037
+#. Emergency Injection'}
+#: .\items\medicine.json
+msgid ""
+"The cutting edge of publicly avalible medicine pre-cataclysm. Inscirbed "
+"along the case is [WARNING RAPID DOSES MAY CAUSE PAIN, NAUSEA, HUNGER, "
+"THIRST, AND DEATH]"
+msgstr ""
+
+#: .\items\medicine.json
+msgid "Nausea Medication"
+msgid_plural "Nausea Medications"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Nausea Medication'}
+#: .\items\medicine.json
+msgid "A bottle of pills meant for relieving nasuea and preventing vomitting."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Civilian Bionic Designs"
+msgid_plural "BioCo Civilian Bionic Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Civilian Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"civilian CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Military Bionic Designs"
+msgid_plural "BioCo Military Bionic Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Military Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"Military CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Experimental Bionic Designs"
+msgid_plural "BioCo Experimental Bionic Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Experimental Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"cutting-edge experimental CBMs created by BioCo. While gibberish to you, one"
+" of BioCo's assembly machines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Medical Bionic Designs"
+msgid_plural "BioCo Medical Bionic Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Medical Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the medical"
+" CBMs created by BioCo. While gibberish to you, one of BioCo's assembly "
+"machines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Medical Chemical Designs"
+msgid_plural "BioCo Medical Chemical Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Medical Chemical Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the medical"
+" supplies created by BioCo. While gibberish to you, one of BioCo's Chemical "
+"Engines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo AutoDoc Designs"
+msgid_plural "BioCo AutoDoc Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo AutoDoc Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"AutoDocs created by BioCo. While gibberish to you, one of BioCo's assembly "
+"machines could read this."
+msgstr ""
+
+#: .\items\software.json
+msgid "BioCo Power Storage Bionic Designs"
+msgid_plural "BioCo Power Storage Bionic Designss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Power Storage Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the power "
+"storage CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr ""
+
+#: .\items\tools.json
+msgid "BioCo Assembly Machine_USE"
+msgid_plural "BioCo Assembly Machine_USEs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Assembly Machine_USE'}
+#. ~ Description for {'str': 'BioCo_Chemical_Engine_USE'}
+#: .\items\tools.json
+msgid ""
+"@Poragon on the CDDA discord if you see this outside debug menu. I done "
+"goofed :c"
+msgstr ""
+
+#. ~ Description for {'str': 'BioCo Assembly Machine'}
+#: .\items\tools.json
+msgid ""
+"This large mechanism is a precision assembly machine loaded with BioCo "
+"software. Capable of creating BioCo tech given the correct instructions, and"
+" must be set up prior to use."
+msgstr ""
+
+#: .\items\tools.json
+msgid "BioCo_Chemical_Engine_USE"
+msgid_plural "BioCo_Chemical_Engine_USEs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo Chemical Engine'}
+#: .\items\tools.json
+msgid ""
+"A BioCo manufacturing device for various chemical components and medicines. "
+"Must be set up prior to use."
+msgstr ""
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s delivers a shocking jab to your torso!"
+msgstr ""
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s delivers a shocking jab to <npcname>'s torso!"
+msgstr ""
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s tries jab your torso, but the blow reflects off armor."
+msgstr ""
+
+#: .\monsters\monster_attacks.json
+msgid ""
+"The %1$s tries to jab <npcname>'s torso, but the blow reflects off armor."
+msgstr ""
+
+#: .\monsters\monsters.json
+msgid "BioCo ScavBot"
+msgid_plural "BioCo ScavBots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BioCo ScavBot'}
+#: .\monsters\monsters.json
+msgid ""
+"This knee height spider-robot skitters around on multiple legs, and has the "
+"BioCo emblem displayed on its top."
+msgstr ""
+
+#: .\monsters\speech.json
+msgid "the sound of mettalic skittering."
+msgstr ""
+
+#: .\npcs\npc_factions.json
+msgid "BioCo"
+msgstr ""
+
+#. ~ Description for BioCo
+#: .\npcs\npc_factions.json
+msgid "The elitest remnanets of preware BioCo corporation."
+msgstr ""

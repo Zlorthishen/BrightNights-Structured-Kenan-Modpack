@@ -1,0 +1,40 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: P_Caches\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\C_items.json
+msgid "prepper's map"
+msgid_plural "prepper's maps"
+msgstr[0] "末日准备者地图"
+
+#. ~ Use action message for {'str': "prepper's map", 'str_pl': "prepper's
+#. maps"}.
+#: .\C_items.json
+msgid "You update your map with the prepper locations."
+msgstr "你在地图上更新了末日准备者藏匿点的位置。"
+
+#. ~ Description for {'str': "prepper's map", 'str_pl': "prepper's maps"}
+#: .\C_items.json
+msgid ""
+"A surprisingly well-drawn map outlining the locations of prepper cache's."
+msgstr "一张绘制异常精细的地图，标明了末日准备者藏匿点的位置。"
+
+#: .\C_om_terrain.json
+msgid "prepper cache"
+msgstr "末日准备者藏匿点"
+
+#: .\modinfo.json
+msgid "Caches"
+msgstr "藏匿点"
+
+#. ~ Description for Caches
+#: .\modinfo.json
+msgid "Adds Prepper Caches, small bunkers full of supplies."
+msgstr "添加末日准备者藏匿点，即装满物资的小型掩体。"

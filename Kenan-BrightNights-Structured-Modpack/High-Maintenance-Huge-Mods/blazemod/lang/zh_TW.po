@@ -1,0 +1,3490 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: blazemod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\blaze_ammo_types.json .\items\fuel.json .\items\vehicle\blaze_blob.json
+msgid "blob feed"
+msgid_plural "blob feed"
+msgstr[0] "粘液團飼料"
+
+#: .\blaze_ammo_types.json
+msgid "heavy projectiles"
+msgstr "重型拋射物"
+
+#: .\blaze_ammo_types.json .\items\ammo\blaze_ammo.json
+msgid "harpoon"
+msgid_plural "harpoons"
+msgstr[0] "魚叉"
+
+#: .\blaze_ammo_types.json
+msgid "ballista bolt"
+msgstr "弩炮箭矢"
+
+#: .\blaze_ammo_types.json
+msgid "bladed disk"
+msgstr "刃盤"
+
+#: .\blaze_blob_monster.json
+msgid "\"SQUEE!\""
+msgstr "\"吱吱！\""
+
+#: .\blaze_blob_monster.json .\items\tools\blob_tools.json
+#: .\items\vehicle\blaze_blob.json
+msgid "gelatinous mass"
+msgid_plural "gelatinous mass"
+msgstr[0] "膠狀團塊"
+
+#. ~ Description for {'str': 'gelatinous mass', 'str_pl': 'gelatinous mass'}
+#. ~ Description for {'str': 'gray mass', 'str_pl': 'gray mass'}
+#: .\blaze_blob_monster.json
+msgid ""
+"An escaping noisy blob, catch it before it brings in every zombie for miles!"
+msgstr "一隻正在逃竄的吵鬧粘液團，在它引來方圓數里的所有殭屍前抓住它！"
+
+#: .\blaze_blob_monster.json .\items\tools\blob_tools.json
+#: .\items\vehicle\blaze_blob.json
+msgid "gray mass"
+msgid_plural "gray mass"
+msgstr[0] "灰色團塊"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "Gelatinous track"
+msgid_plural "Gelatinous tracks"
+msgstr[0] "膠狀履帶"
+
+#. ~ Description for {'str': 'Gelatinous track'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A set of continuous, interlocking tracks made out of blob.  They can be used"
+" in place of wheels, and provide good traction and off-road performance."
+msgstr "一套由粘液團製成的連續互鎖履帶。它們可替代車輪使用，提供良好的牽引力和越野性能。"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "Oozing track"
+msgid_plural "Oozing tracks"
+msgstr[0] "滲流履帶"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "Gray track"
+msgid_plural "Gray tracks"
+msgstr[0] "灰色履帶"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "biting blob"
+msgid_plural "biting blobs"
+msgstr[0] "噬咬粘液團"
+
+#. ~ Description for {'str': 'biting blob'}
+#. ~ Description for {'str': 'gel shooter'}
+#. ~ Description for {'str': 'snapping ooze'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, transformed into a heavy vehicle weapon."
+msgstr "一個活體凝膠團，被改造成重型載具武器。"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel shooter"
+msgid_plural "gel shooters"
+msgstr[0] "凝膠發射器"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "frost lancer"
+msgid_plural "frost lancers"
+msgstr[0] "霜凍長槍"
+
+#. ~ Description for {'str': 'frost lancer'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, existing in a super-cooled state and transformed into a heavy"
+" vehicle weapon."
+msgstr "一個活體凝膠團，處於超冷狀態，並被改造成重型載具武器。"
+
+#: .\blaze_blob_parts.json
+msgid "ice ram"
+msgstr "冰霜衝角"
+
+#. ~ Description for {'str': 'ice ram'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, existing in a super-cooled state.  It will absorb damage in a"
+" vehicle collision and deliver additional damage to the other object in the "
+"collision.  It should be mounted on the edge of the vehicle, preferably the "
+"front."
+msgstr "一個活體凝膠團，處於超冷狀態。它會在載具碰撞時吸收傷害，並對碰撞的另一物體造成額外傷害。應安裝在載具邊緣，最好是前部。"
+
+#: .\blaze_blob_parts.json
+msgid "ice pack"
+msgstr "冰霜包"
+
+#. ~ Description for {'str': 'ice pack'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, existing in a super-cooled state.  It will keep items stored "
+"in it cold, reducing the speed at which food and drink rots."
+msgstr "一個活體凝膠團，處於超冷狀態。它能保持儲存其中的物品低溫，減緩食物和飲料的腐敗速度。"
+
+#: .\blaze_blob_parts.json
+msgid "icy windshield"
+msgstr "冰霜擋風玻璃"
+
+#. ~ Description for {'str': 'icy windshield'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, existing in a super-cooled state.  It is transparent, and can"
+" be used to see out of the vehicle."
+msgstr "一個活體凝膠團，處於超冷狀態。它是透明的，可用於觀察載具外部。"
+
+#: .\blaze_blob_parts.json
+msgid "snow slider"
+msgstr "雪地滑板"
+
+#. ~ Description for {'str': 'snow slider'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, existing in a super-cooled state.  It acts as a wheel."
+msgstr "一個活體凝膠團，處於超冷狀態。它充當車輪使用。"
+
+#: .\blaze_blob_parts.json
+msgid "icy sea skimmer"
+msgstr "冰霜海面滑行器"
+
+#. ~ Description for {'str': 'icy sea skimmer'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, existing in a super-cooled state.  It acts as a boat hull."
+msgstr "一個活體凝膠團，處於超冷狀態。它充當船體使用。"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "snapping ooze"
+msgid_plural "snapping oozes"
+msgstr[0] "噬咬軟泥"
+
+#: .\blaze_blob_parts.json
+msgid "gel lamp"
+msgstr "凝膠燈"
+
+#. ~ Description for {'str': 'gel lamp'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living, glowing blob.  It produces a bright light that illuminates a "
+"narrow cone outside the vehicle when turned on.  During installation, you "
+"can choose what direction to point the light, so multiple gel lamps can "
+"illuminate the sides or rear, as well as the front."
+msgstr ""
+"一個活體發光凝膠團。開啟時，它會產生明亮的光線，照亮載具外部一個狹窄的錐形區域。安裝時，可以選擇光照方向，因此多個凝膠燈可以照亮側面或後方，以及前方。"
+
+#: .\blaze_blob_parts.json
+msgid "directed gel lamp"
+msgstr "定向凝膠燈"
+
+#: .\blaze_blob_parts.json
+msgid "gel retriever"
+msgstr "凝膠回收器"
+
+#. ~ Description for {'str': 'gel retriever'}
+#. ~ Description for {'str': 'gray retriever'}
+#. ~ Description for {'str': 'ooze retriever'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, formed to act as a scoop.  Use the vehicle controls to turn "
+"it on or off.  When turned on, it will scoop up any loose items that it "
+"travels over, putting them into the vehicle's storage."
+msgstr "一個活體凝膠團，被塑造成剷鬥形狀。使用載具控制裝置開啟或關閉它。開啟時，它會剷起經過的任何鬆散物品，並將其放入載具的存儲空間中。"
+
+#: .\blaze_blob_parts.json
+msgid "gel harness"
+msgstr "凝膠安全帶"
+
+#. ~ Description for {'str': 'gel harness'}
+#. ~ Description for {'str': 'gray harness'}
+#. ~ Description for {'str': 'ooze harness'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, reformed as a belt and attached to a seat."
+msgstr "一個活體凝膠團，被重塑為安全帶並連接到座椅上。"
+
+#: .\blaze_blob_parts.json
+msgid "capsule (10L)"
+msgstr "膠囊（10升）"
+
+#. ~ Description for {'str': 'capsule (10L)'}
+#. ~ Description for {'str': 'cocoon (30L)'}
+#. ~ Description for {'str': 'pod (20L)'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, formed into a storage space for holding liquids.  If filled "
+"with the appropriate fuel for the vehicle's engine, the engine will "
+"automatically draw fuel from the tank when the engine is on.  If filled with"
+" water, you can access the water from a water faucet, if one is installed in"
+" the vehicle.  You can also use a rubber hose to siphon liquids out of a "
+"tank."
+msgstr ""
+"一個活體凝膠團，被塑造成儲存液體的空間。如果填充了載具發動機的適當燃料，發動機開啟時會自動從油箱中抽取燃料。如果填充了水，可以從載具中安裝的水龍頭（如果已安裝）取水。也可以使用橡膠軟管從油箱中虹吸液體。"
+
+#: .\blaze_blob_parts.json
+msgid "gel tank (60L)"
+msgstr "凝膠油箱（60升）"
+
+#: .\blaze_blob_parts.json
+msgid "gel framework"
+msgstr "凝膠框架"
+
+#. ~ Description for {'str': 'gel framework'}
+#. ~ Description for {'str': 'gray frame'}
+#. ~ Description for {'str': 'ooze chassis'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, shaped to provide attachment points for other blobs.  Other "
+"vehicle components and blobs can be mounted on it.  If all the frames and "
+"components of a vehicle are foldable or made from blobs, the vehicle can be "
+"folding into a small package and picked up as a normal item."
+msgstr ""
+"一個活體凝膠團，被塑造成提供其他凝膠團的附著點。其他載具組件和凝膠團可以安裝在其上。如果載具的所有框架和組件都是可摺疊的或由凝膠團製成，則載具可以摺疊成一個小包裹，並作為普通物品拾取。"
+
+#: .\blaze_blob_parts.json
+msgid "gel reinforcement"
+msgstr "凝膠強化板"
+
+#. ~ Description for {'str': 'gel reinforcement'}
+#. ~ Description for {'str': 'gray reinforcement'}
+#. ~ Description for {'str': 'ooze reinforcement'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, acting as armor plate."
+msgstr "一個活體凝膠團，充當裝甲板。"
+
+#: .\blaze_blob_parts.json
+msgid "gel roof"
+msgstr "凝膠車頂"
+
+#. ~ Description for {'str': 'gel roof'}
+#. ~ Description for {'str': 'gray roof'}
+#. ~ Description for {'str': 'ooze roof'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, placed as roof."
+msgstr "一個活體凝膠團，用作屋頂。"
+
+#: .\blaze_blob_parts.json
+msgid "gel seat"
+msgstr "凝膠座椅"
+
+#. ~ Description for {'str': 'gel seat'}
+#. ~ Description for {'str': 'gray seat'}
+#. ~ Description for {'str': 'ooze seat'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, formed into a comfy couch.  You can sit here."
+msgstr "一個活體凝膠團，塑造成舒適的沙發。你可以坐在這裡。"
+
+#: .\blaze_blob_parts.json
+msgid "gel receptacle"
+msgstr "凝膠容器"
+
+#. ~ Description for {'str': 'gel receptacle'}
+#. ~ Description for {'str': 'gray receptacle'}
+#. ~ Description for {'str': 'ooze receptacle'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, shaped into a cargo space."
+msgstr "一個活體凝膠團，塑造成貨物空間。"
+
+#: .\blaze_blob_parts.json
+msgid "gel pouch (under)"
+msgstr "凝膠袋（下方）"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gelatinous wheel"
+msgid_plural "gelatinous wheels"
+msgstr[0] "凝膠輪"
+
+#. ~ Description for {'str': 'gelatinous wheel'}
+#. ~ Description for {'str': 'gray wheel'}
+#: .\blaze_blob_parts.json
+msgid "A living blob.  It acts as a wheel."
+msgstr "一個活體凝膠團。它充當車輪。"
+
+#: .\blaze_blob_parts.json
+msgid "gel walkway"
+msgstr "凝膠走道"
+
+#. ~ Description for {'str': 'gel walkway'}
+#. ~ Description for {'str': 'gray walkway'}
+#. ~ Description for {'str': 'ooze walkway'}
+#: .\blaze_blob_parts.json
+msgid "A living blob, formed into a walkway."
+msgstr "一個活體凝膠團，塑造成走道。"
+
+#: .\blaze_blob_parts.json
+msgid "gel panel"
+msgstr "凝膠面板"
+
+#: .\blaze_blob_parts.json
+msgid "gel hatch"
+msgstr "凝膠艙口"
+
+#. ~ Description for {'str': 'gel hatch'}
+#. ~ Description for {'str': 'gray hatch'}
+#. ~ Description for {'str': 'ooze hatch'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, acting as a door.  Has a transparent patch so you can see out"
+" of it, even when closed."
+msgstr "一個活體凝膠團，充當門。有一個透明區域，即使關閉時也能看到外面。"
+
+#: .\blaze_blob_parts.json
+msgid "opaque gel hatch"
+msgstr "不透明凝膠艙口"
+
+#. ~ Description for {'str': 'opaque gel hatch'}
+#. ~ Description for {'str': 'opaque gray hatch'}
+#. ~ Description for {'str': 'opaque ooze hatch'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, acting as a door.  Entirely opaque so you can't see through "
+"it when closed."
+msgstr "一個活體凝膠團，充當門。完全不透明，關閉時無法看透。"
+
+#: .\blaze_blob_parts.json
+msgid "gel battery"
+msgstr "凝膠電池"
+
+#. ~ Description for {'str': 'gel battery'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living, glowing blob.  Having been filled with electrical power, it stores"
+" that power and can release it to power other parts of the vehicle, allowing"
+" it to act as a storage battery."
+msgstr "一個活體發光凝膠團。充滿電能後，它儲存能量並可以釋放以驅動車輛的其他部分，使其充當蓄電池。"
+
+#: .\blaze_blob_parts.json
+msgid "gel battery (under)"
+msgstr "凝膠電池（下方）"
+
+#: .\blaze_blob_parts.json
+msgid "gel generator"
+msgstr "凝膠發電機"
+
+#. ~ Description for {'str': 'gel generator'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living, glowing blob.  It consumes blob feed and produces electrical "
+"power, allowing it to be used as a reactor.  It also glows, and can be "
+"turned on to illuminate several squares inside the vehicle."
+msgstr "一個活體發光凝膠團。它消耗凝膠飼料併產生電能，可用作反應堆。它還會發光，開啟時可以照亮車輛內的幾個方格。"
+
+#: .\blaze_blob_parts.json
+msgid "gray retriever"
+msgstr "灰色回收器"
+
+#: .\blaze_blob_parts.json
+msgid "gray harness"
+msgstr "灰色揹帶"
+
+#: .\blaze_blob_parts.json
+msgid "cocoon (30L)"
+msgstr "繭（30升）"
+
+#: .\blaze_blob_parts.json
+msgid "gray tank (100L)"
+msgstr "灰色儲罐（100升）"
+
+#: .\blaze_blob_parts.json
+msgid "gray frame"
+msgstr "灰色框架"
+
+#: .\blaze_blob_parts.json
+msgid "gray reinforcement"
+msgstr "灰色加固件"
+
+#: .\blaze_blob_parts.json
+msgid "gray roof"
+msgstr "灰色屋頂"
+
+#: .\blaze_blob_parts.json
+msgid "gray seat"
+msgstr "灰色座椅"
+
+#: .\blaze_blob_parts.json
+msgid "gray receptacle"
+msgstr "灰色容器"
+
+#: .\blaze_blob_parts.json
+msgid "gray pouch (under)"
+msgstr "灰色袋（下方）"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gray wheel"
+msgid_plural "gray wheels"
+msgstr[0] "灰色車輪"
+
+#: .\blaze_blob_parts.json
+msgid "gray walkway"
+msgstr "灰色走道"
+
+#: .\blaze_blob_parts.json
+msgid "gray wall"
+msgstr "灰色牆壁"
+
+#. ~ Description for {'str': 'gray wall'}
+#. ~ Description for {'str': 'ooze barrier'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, formed into a vehicle wall.  Keeps zombies outside the "
+"vehicle and prevents people from seeing through it."
+msgstr "一個活體團塊，塑造成車輛牆壁。能將殭屍擋在車外，並防止人們看穿它。"
+
+#: .\blaze_blob_parts.json
+msgid "gray hatch"
+msgstr "灰色艙口"
+
+#: .\blaze_blob_parts.json
+msgid "opaque gray hatch"
+msgstr "不透明灰色艙口"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "earthen roller"
+msgid_plural "earthen rollers"
+msgstr[0] "土質滾輪"
+
+#: .\blaze_blob_parts.json
+msgid "gel quarterpanel"
+msgstr "凝膠側板"
+
+#. ~ Description for {'str': 'gel quarterpanel'}
+#. ~ Description for {'str': 'gray barricade'}
+#. ~ Description for {'str': 'ooze screen'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A living blob, formed into a half-height vehicle wall.  Keeps zombies "
+"outside the vehicle but allows people to see over it."
+msgstr "一個活體團塊，塑造成半高車輛牆壁。能將殭屍擋在車外，但允許人們從上方看過去。"
+
+#: .\blaze_blob_parts.json
+msgid "gray barricade"
+msgstr "灰色路障"
+
+#: .\blaze_blob_parts.json
+msgid "ooze screen"
+msgstr "軟泥屏幕"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "blobsaw"
+msgid_plural "blobsaws"
+msgstr[0] "團塊鋸"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "fuel puffer"
+msgid_plural "fuel puffers"
+msgstr[0] "燃料噴發器"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "acid puffer"
+msgid_plural "acid puffers"
+msgstr[0] "酸液噴發器"
+
+#: .\blaze_blob_parts.json
+msgid "ooze retriever"
+msgstr "軟泥回收器"
+
+#: .\blaze_blob_parts.json
+msgid "ooze harness"
+msgstr "軟泥揹帶"
+
+#: .\blaze_blob_parts.json
+msgid "pod (20L)"
+msgstr "莢囊（20升）"
+
+#: .\blaze_blob_parts.json
+msgid "ooze tank (80L)"
+msgstr "軟泥罐（80升）"
+
+#: .\blaze_blob_parts.json
+msgid "ooze chassis"
+msgstr "軟泥底盤"
+
+#: .\blaze_blob_parts.json
+msgid "ooze reinforcement"
+msgstr "軟泥加固件"
+
+#: .\blaze_blob_parts.json
+msgid "ooze roof"
+msgstr "軟泥車頂"
+
+#: .\blaze_blob_parts.json
+msgid "ooze seat"
+msgstr "軟泥座椅"
+
+#: .\blaze_blob_parts.json
+msgid "ooze receptacle"
+msgstr "軟泥容器"
+
+#: .\blaze_blob_parts.json
+msgid "ooze pouch (under)"
+msgstr "軟泥袋（下方）"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "oozing wheel"
+msgid_plural "oozing wheels"
+msgstr[0] "滲流車輪"
+
+#: .\blaze_blob_parts.json
+msgid "ooze walkway"
+msgstr "軟泥走道"
+
+#: .\blaze_blob_parts.json
+msgid "ooze barrier"
+msgstr "軟泥屏障"
+
+#: .\blaze_blob_parts.json
+msgid "ooze hatch"
+msgstr "軟泥艙口"
+
+#: .\blaze_blob_parts.json
+msgid "opaque ooze hatch"
+msgstr "不透明軟泥艙口"
+
+#: .\blaze_blob_parts.json
+msgid "amorphous core"
+msgstr "無定形核心"
+
+#. ~ Description for {'str': 'amorphous core'}
+#: .\blaze_blob_parts.json
+msgid "An amorphous mass, the living heart and brain of a blob vehicle."
+msgstr "一團不定形物質，是黏液載具的活體心臟與大腦。"
+
+#: .\blaze_blob_parts.json
+msgid "inert core"
+msgstr "惰性核心"
+
+#. ~ Description for {'str': 'inert core'}
+#: .\blaze_blob_parts.json
+msgid ""
+"A sleeping amorphous core, acting as a rotating, universal mount for a "
+"weapon.  If your hands are empty, you can stand next to a tentacle and "
+"'f'ire the weapon by selecting the tile."
+msgstr "一個沉睡的不定形核心，作為武器的旋轉式通用支架。若你雙手空空，可站在觸手旁，通過選擇對應格子按'f'鍵開火使用武器。"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel spouter"
+msgid_plural "gel spouters"
+msgstr[0] "凝膠噴射器"
+
+#. ~ Description for {'str': 'gel spouter'}
+#. ~ Description for {'str': 'gel spiker'}
+#. ~ Description for {'str': 'gel lancer'}
+#. ~ Description for {'str': 'gel razor'}
+#. ~ Description for {'str': 'shock bulb'}
+#. ~ Description for {'str': 'gel puffer'}
+#. ~ Description for {'str': 'fire puffer'}
+#. ~ Description for {'str': 'spark blight'}
+#: .\blaze_blob_parts.json
+msgid "A living blob turned into a heavy vehicle weapon."
+msgstr "一個被改造成重型載具武器的活體黏液團。"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel spiker"
+msgid_plural "gel spikers"
+msgstr[0] "凝膠尖刺器"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel lancer"
+msgid_plural "gel lancers"
+msgstr[0] "凝膠長槍"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel razor"
+msgid_plural "gel razors"
+msgstr[0] "凝膠剃刀"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "shock bulb"
+msgid_plural "shock bulbs"
+msgstr[0] "電擊球莖"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "gel puffer"
+msgid_plural "gel puffers"
+msgstr[0] "凝膠膨脹體"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "fire puffer"
+msgid_plural "fire puffers"
+msgstr[0] "火焰膨脹體"
+
+#: .\blaze_blob_parts.json .\items\vehicle\blaze_blob.json
+msgid "spark blight"
+msgid_plural "spark blights"
+msgstr[0] "火花枯萎體"
+
+#: .\blaze_override.json
+msgid "manual flamethrower"
+msgstr "手動火焰噴射器"
+
+#: .\blaze_override.json
+msgid "BAR turret"
+msgstr "BAR機槍炮塔"
+
+#: .\blaze_override.json
+msgid "M249 turret"
+msgstr "M249機槍炮塔"
+
+#: .\blaze_override.json
+msgid "plasma turret"
+msgstr "等離子炮塔"
+
+#: .\blaze_override.json
+msgid "fusion turret"
+msgstr "聚變炮塔"
+
+#: .\blaze_override.json
+msgid "M2 Browning turret"
+msgstr "M2勃朗寧機槍炮塔"
+
+#: .\blaze_override.json
+msgid "M240 turret"
+msgstr "M240機槍炮塔"
+
+#: .\blaze_override.json .\vehicleparts\blaze_weapons_parts.json
+msgid "M60 turret"
+msgstr "M60機槍炮塔"
+
+#: .\blaze_override.json
+msgid "auto-shotgun turret"
+msgstr "自動霰彈槍炮塔"
+
+#: .\blaze_override.json
+msgid "M134D-H Minigun turret"
+msgstr "M134D-H迷你機槍炮塔"
+
+#: .\blaze_override.json
+msgid "Mark 19 turret"
+msgstr "Mark 19炮塔"
+
+#: .\blaze_override.json
+msgid "RM614 turret"
+msgstr "RM614炮塔"
+
+#: .\blaze_override.json
+msgid "RM298 turret"
+msgstr "RM298炮塔"
+
+#: .\blaze_override.json
+msgid "water cannon turret"
+msgstr "水炮炮塔"
+
+#: .\blaze_override.json
+msgid "pool ball"
+msgid_plural "pool balls"
+msgstr[0] "檯球"
+
+#: .\blaze_terrain_furniture.json
+msgid "mass of blob feed"
+msgstr "黏液飼料團塊"
+
+#: .\blaze_terrain_furniture.json
+msgid "squish!"
+msgstr "噗嘰！"
+
+#: .\blaze_terrain_furniture.json
+msgid "mound of blob feed"
+msgstr "黏液飼料堆"
+
+#: .\blaze_test.json
+msgid "vortex accelerator turret"
+msgstr "渦流加速炮塔"
+
+#: .\blaze_test.json
+msgid "automated vortex accelerator"
+msgstr "自動化渦流加速器"
+
+#: .\blaze_test.json
+msgid "vortex bolter turret"
+msgstr "渦流爆彈炮塔"
+
+#: .\blaze_test.json
+msgid "automated vortex bolter"
+msgstr "自動渦流爆彈炮"
+
+#: .\blaze_test.json
+msgid "vortex rifle turret"
+msgstr "渦流步槍炮塔"
+
+#: .\blaze_test.json
+msgid "automated vortex rifle"
+msgstr "自動渦流步槍"
+
+#: .\blaze_test.json
+msgid "charcoal"
+msgid_plural "charcoals"
+msgstr[0] "木炭"
+
+#: .\blaze_test.json
+msgid "diamond barrier"
+msgstr "鑽石屏障"
+
+#. ~ Description for {'str': 'diamond barrier'}
+#: .\blaze_test.json
+msgid "A transparent, solid sheet of self-sustaining crystals."
+msgstr "一塊透明、堅固的自持水晶薄板。"
+
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid "diamond cluster"
+msgid_plural "diamond clusters"
+msgstr[0] "鑽石簇"
+
+#. ~ Use action msg for {'str': 'diamond cluster'}.
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid "The cluster comes apart in your hands."
+msgstr "簇狀物在你手中散開。"
+
+#. ~ Description for {'str': 'diamond cluster'}
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid ""
+"A cluster of artificial crystals that have broken off of a diamond matrix.  "
+"While the substance usually decays when separated from the catalyst; this "
+"cluster seems to be self-sustaining by some unknown mechanism.  "
+msgstr "從鑽石矩陣上脫落的一簇人造晶體。雖然這種物質在脫離催化劑後通常會衰變；但這簇晶體似乎通過某種未知機制實現了自持。"
+
+#: .\blaze_test.json .\items\vehicle\diamond_vehicleparts.json
+msgid "diamond frame"
+msgid_plural "diamond frames"
+msgstr[0] "鑽石框架"
+
+#. ~ Description for {'str': 'diamond frame'}
+#: .\blaze_test.json
+msgid ""
+"A framework of super-strong crystal.  Other vehicle components can be "
+"mounted on it, and it can be attached to other frames to increase the "
+"vehicle's size."
+msgstr "一個由超強晶體構成的框架。其他載具組件可以安裝在其上，並且它可以連接到其他框架以增加載具尺寸。"
+
+#. ~ Description for {'str': 'diamond frame'}
+#: .\blaze_test.json .\items\vehicle\diamond_vehicleparts.json
+msgid ""
+"A brilliantly sparkling diamond vehicle frame.  Incredibly strong for its "
+"weight."
+msgstr "一個閃耀奪目的鑽石載具框架。以其重量而言，強度驚人。"
+
+#: .\blaze_test.json
+msgid "diamond lance"
+msgid_plural "diamond lances"
+msgstr[0] "鑽石長矛"
+
+#: .\blaze_test.json
+msgid ""
+"A weapon that is as deadly as it is dazzling.  The diamond matrix in this "
+"weapon's center acts as a catalyst; rapidly changing carbon-heavy materials "
+"into a crystalline substance that is nearly equal to diamond in hardness.  "
+"The substance rapidly decays when separated from the catalyst; thus a pre-"
+"shaped lump of carbon is brought into contact with the matrix, immediately "
+"crystallized and launched just as quickly.  The launcher requires a "
+"specialized chassis in order to be brought to bear on its unfortunate "
+"targets."
+msgstr ""
+"一件既致命又耀眼的武器。該武器中心的鑽石矩陣充當催化劑；將富含碳的材料迅速轉化為硬度幾乎與鑽石相當的晶體物質。該物質在脫離催化劑後會迅速衰變；因此，一塊預成型的碳塊被送入與矩陣接觸，立即結晶並同樣迅速地發射出去。發射器需要專門的底盤才能對準其不幸的目標。"
+
+#: .\blaze_test.json .\items\guns\blaze_weapons.json
+#: .\items\vehicle\blaze_blob.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "發射器"
+
+#: .\blaze_test.json
+msgid "diamond nova"
+msgid_plural "diamond novas"
+msgstr[0] "鑽石新星"
+
+#: .\blaze_test.json
+msgid ""
+"A weapon that is as deadly as it is dazzling.  The diamond matrix in this "
+"weapon's center acts as a catalyst; rapidly changing carbon-heavy materials "
+"into a crystalline substance that is nearly equal to diamond in hardness.  "
+"The substance rapidly decays when separated from the catalyst, and at sizes "
+"as large as the projectile used, also rapidly decays when in contact with "
+"other matter.  Thus the projectile is held and launched by the use of "
+"pressurized air from a vortex stone.  Upon striking its target, the "
+"projectile undergoes explosive decomposition; shattering into a brilliant "
+"burst of diamond fragments."
+msgstr ""
+"一件既致命又耀眼的武器。該武器中心的鑽石矩陣充當催化劑；將富含碳的材料迅速轉化為硬度幾乎與鑽石相當的晶體物質。該物質在脫離催化劑後會迅速衰變，並且在使用如此大的彈丸尺寸時，與其他物質接觸也會迅速衰變。因此，彈丸通過使用渦流石產生的壓縮空氣來保持和發射。擊中目標後，彈丸發生爆炸性分解；碎裂成一片耀眼的鑽石碎片。"
+
+#: .\blaze_test.json .\items\vehicle\diamond_vehicleparts.json
+msgid "diamond plating"
+msgid_plural "diamond platings"
+msgstr[0] "鑽石裝甲板"
+
+#. ~ Description for {'str': 'diamond plating'}
+#: .\blaze_test.json .\items\vehicle\diamond_vehicleparts.json
+msgid ""
+"A piece of armor plating made of clear diamond.  Incredibly strong for its "
+"weight."
+msgstr "一塊由透明鑽石製成的裝甲板。以其重量而言，強度驚人。"
+
+#: .\blaze_test.json
+msgid "diamond fragments"
+msgid_plural "diamond fragmentss"
+msgstr[0] "鑽石碎片"
+
+#. ~ Description for {'str': 'diamond fragments'}
+#: .\blaze_test.json
+msgid ""
+"These small fragments of diamond are formed as a byproduct from the "
+"crystallization process of a diamond matrix.  While the substance usually "
+"decays when separated from the catalyst; these fragments are small enough to"
+" remain stable."
+msgstr "這些細小的鑽石碎片是鑽石矩陣結晶過程的副產品。雖然這種物質在脫離催化劑後通常會衰變；但這些碎片足夠小，可以保持穩定。"
+
+#. ~ Description for {'str': 'diamond plating'}
+#: .\blaze_test.json
+msgid ""
+"Transparent crystal armor plate.  Will partially protect other components on"
+" the same frame from damage."
+msgstr "透明晶體裝甲板。將部分保護同一框架上的其他組件免受損壞。"
+
+#: .\blaze_test.json .\items\vehicle\blaze_other.json
+msgid "stabilized portal"
+msgid_plural "stabilized portals"
+msgstr[0] "穩定傳送門"
+
+#. ~ Description for {'str': 'stabilized portal'}
+#: .\blaze_test.json .\items\vehicle\blaze_other.json
+msgid ""
+"As you gaze into the seemingly infinite depths of this portable hole in "
+"reality, a phrase from a time forever gone echoes in your mind.  \"There are"
+" two things that are infinite: the universe and human kleptomania.\""
+msgstr "當你凝視著這個現實中的便攜式孔洞那看似無限的深處時，一個來自永遠逝去時代的話語在你腦海中迴響。\"有兩樣東西是無限的：宇宙和人類的偷竊癖。\""
+
+#: .\blaze_test.json
+msgid "cargo dimension"
+msgstr "貨品維度"
+
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid "diamond matrix"
+msgid_plural "diamond matrices"
+msgstr[0] "鑽石矩陣"
+
+#. ~ Use action msg for {'str': 'diamond matrix', 'str_pl': 'diamond
+#. matrices'}.
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid ""
+"Your senses dull as you gaze into the depths of this gemstone's center…"
+msgstr "當你凝視這顆寶石中心的深處時，你的感官變得遲鈍……"
+
+#. ~ Description for {'str': 'diamond matrix', 'str_pl': 'diamond matrices'}
+#: .\blaze_test.json .\items\tools\diamond_tools.json
+msgid ""
+"A sparkling diamond with a dazzling spiral pattern.  Small pieces of "
+"glittering crystal form on the edges as you hold it."
+msgstr "一顆帶有炫目螺旋圖案的閃亮鑽石。當你拿著它時，邊緣會形成細小的閃光晶體。"
+
+#: .\blaze_test.json .\items\tools\vortex_tools.json
+msgid "vortex engine"
+msgid_plural "vortex engines"
+msgstr[0] "渦流引擎"
+
+#. ~ Description for {'str': 'vortex engine'}
+#: .\blaze_test.json .\items\tools\vortex_tools.json
+msgid ""
+"A tornado in a box, so to speak.  Inside this innocuous tank contains either"
+" the culmination of human innovation in clean energy, or a weapon of mass "
+"destruction capable of wiping civilization - or what's left of it - off the "
+"map.  An external mechanism allows it to be attached to a vehicle to render "
+"it mobile."
+msgstr ""
+"可以說，這是一個裝在盒子裡的龍捲風。這個不起眼的容器內，要麼是人類清潔能源創新的巔峰，要麼是能夠將文明——或者說其殘餘——從地圖上抹去的大規模殺傷性武器。外部機制允許其連接到載具上，使其具備機動性。"
+
+#: .\blaze_test.json .\items\tools\vortex_tools.json
+msgid "vortex generator"
+msgid_plural "vortex generators"
+msgstr[0] "渦流發生器"
+
+#. ~ Description for {'str': 'vortex generator'}
+#: .\blaze_test.json .\items\tools\vortex_tools.json
+msgid ""
+"A tornado in a box, so to speak.  Inside this innocuous tank contains either"
+" the culmination of human innovation in clean energy, or a weapon of mass "
+"destruction capable of wiping civilization - or what's left of it - off the "
+"map.  An external mechanism allow it to be hooked up to a battery to store "
+"the power generated."
+msgstr ""
+"可以說，這是一個盒子裡的龍捲風。這個看似無害的容器內，要麼蘊藏著人類清潔能源創新的巔峰成果，要麼就是一件足以將文明——或者說其殘餘——從地圖上抹去的大規模殺傷性武器。外部機制允許將其連接到電池，以儲存產生的能量。"
+
+#: .\blaze_test.json
+msgid "vortex accelerator"
+msgid_plural "vortex accelerators"
+msgstr[0] "渦流加速器"
+
+#: .\blaze_test.json
+msgid ""
+"This weapon uses powerful bursts of air to launch sharp fragments at its "
+"target at high speed.  You'll need some form of platform to mount it on."
+msgstr "這種武器利用強大的空氣爆發，將鋒利的碎片高速射向目標。你需要某種形式的平臺來安裝它。"
+
+#: .\blaze_test.json .\items\guns\blaze_weapons.json
+#: .\items\vehicle\blaze_blob.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步槍"
+
+#: .\blaze_test.json
+msgid "vortex bolter"
+msgid_plural "vortex bolters"
+msgstr[0] "渦流弩炮"
+
+#: .\blaze_test.json
+msgid ""
+"This weapon uses powerful bursts of air to launch bolts at its target at "
+"high speed.  You'll need some form of platform to mount it on."
+msgstr "這種武器利用強大的空氣爆發，將弩箭高速射向目標。你需要某種形式的平臺來安裝它。"
+
+#: .\blaze_test.json .\items\guns\blaze_weapons.json
+#: .\items\vehicle\blaze_blob.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\blaze_test.json .\items\guns\blaze_weapons.json
+#: .\items\vehicle\blaze_blob.json
+msgid "auto"
+msgstr "自動"
+
+#: .\blaze_test.json
+msgid "vortex cannon"
+msgid_plural "vortex cannons"
+msgstr[0] "渦流炮"
+
+#: .\blaze_test.json
+msgid "vortex cannon turret"
+msgstr "渦流炮塔"
+
+#: .\blaze_test.json
+msgid ""
+"Essentially a large pneumatic gun made to hurl sharpened metal rails.  "
+"Instead of a mechanical system, you've managed to harness the vortex to "
+"power this gun.  While powerful for its size, you'll need some form of "
+"platform to mount it on."
+msgstr ""
+"本質上是一種大型氣動槍，用於投擲鋒利的金屬軌道。你沒有使用機械系統，而是設法利用渦流為這把槍提供動力。雖然就其尺寸而言威力強大，但你需要某種形式的平臺來安裝它。"
+
+#: .\blaze_test.json
+msgid "vortex rifle"
+msgid_plural "vortex rifles"
+msgstr[0] "渦流步槍"
+
+#: .\blaze_test.json
+msgid ""
+"This weapon uses powerful bursts of air to launch small projectiles at its "
+"target at high speed.  You'll need some form of platform to mount it on."
+msgstr "這種武器利用強大的空氣爆發，將小型射彈高速射向目標。你需要某種形式的平臺來安裝它。"
+
+#: .\blaze_test.json
+msgid "vortex energy"
+msgstr "渦流能量"
+
+#: .\blaze_test.json
+msgid "vortex core"
+msgid_plural "vortex core"
+msgstr[0] "渦流核心"
+
+#. ~ Description for {'str': 'vortex core', 'str_pl': 'vortex core'}
+#: .\blaze_test.json
+msgid "Seeing this is a bug."
+msgstr "看到這個是一個錯誤。"
+
+#: .\construction_group.json
+msgid "Harvest Blob Feed from Corpse Pit: Smash to Harvest"
+msgstr "從屍坑收穫粘液飼料：砸碎以收穫"
+
+#: .\construction_group.json
+msgid "Harvest Blob Feed from Slime Pit: Smash to Harvest"
+msgstr "從粘液坑收穫粘液飼料：砸碎以收穫"
+
+#: .\construction_group.json
+msgid ""
+"Converts a fridge to run off of vehicle power. You can 'e'xamine it "
+"afterwards to take it down for mounting"
+msgstr "將冰箱改裝為使用車輛電源供電。之後你可以按'e'鍵檢查它，以便拆下安裝。"
+
+#: .\construction_group.json
+msgid ""
+"Further modifies a converted fridge to function as a freezer. You can "
+"'e'xamine it afterwards to take it down for mounting"
+msgstr "進一步改裝已轉換的冰箱，使其具備冷凍功能。之後你可以按'e'鍵檢查它，以便拆下安裝。"
+
+#: .\materials.json
+msgid "slime"
+msgstr "粘液"
+
+#: .\materials.json
+msgid "dented"
+msgstr "凹陷"
+
+#: .\materials.json
+msgid "gouged"
+msgstr "鑿痕"
+
+#: .\materials.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\materials.json
+msgid "cut"
+msgstr "割破"
+
+#: .\materials.json
+msgid "cracked"
+msgstr "破解版"
+
+#: .\materials.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\modinfo.json
+msgid "Blazemod - Vehicle Additions Pack"
+msgstr "Blazemod - 載具附加包"
+
+#. ~ Description for Blazemod - Vehicle Additions Pack
+#: .\modinfo.json
+msgid ""
+"Gigantic vehicle parts additions mod. Adds lots of regular along with blob "
+"vehicle parts which includes new custom turrets, engines along with other "
+"vehicle parts, which are craftable."
+msgstr "龐大的載具部件附加模組。添加了大量常規部件以及粘液載具部件，包括新的定製炮塔、引擎以及其他可製作的載具部件。"
+
+#: .\snippets.json
+msgid ""
+"\"Agh, to See the Spiral in such a Distorted Shape!  Manipulated for its "
+"Vortex motion!  Its Perpetual Grace!  Its beauty Tarnished…\""
+msgstr "\"啊，竟見螺旋以如此扭曲之形！被操縱以取其渦流之動！其永恆之優雅！其美被玷汙……\""
+
+#: .\snippets.json
+msgid "\"My friend died, but at least I made her into a blob turret.\""
+msgstr "\"我的朋友死了，但至少我把她做成了粘液炮塔。\""
+
+#: .\snippets.json
+msgid ""
+"\"I have this laser cannon turret on my shopping cart.  I push it around and"
+" everything dies.  I think I'm gonna toss it in the lake-- this just isn't "
+"fair anymore.\""
+msgstr "\"我的購物車上裝了一門激光炮塔。我推著它到處走，所有東西都死了。我想我要把它扔進湖裡——這已經不公平了。\""
+
+#: .\snippets.json
+msgid ""
+"\"Day 40.  Controls broken-- car's magic reactor makes it goes inexorably "
+"forward.  Giant rollers on front demolish forest.  Maine, here I come.\""
+msgstr "\"第40天。控制失靈——車的魔法反應堆讓它不可阻擋地向前衝。前部的巨型滾輪摧毀了森林。緬因州，我來了。\""
+
+#: .\snippets.json
+msgid "\"my car is a diamond in the rough… literally\""
+msgstr "\"我的車是塊未經雕琢的鑽石……字面意思上\""
+
+#: .\snippets.json
+msgid "\"M249 TURRET NODDED.  IS TURRET ALIVE?  FINALLY, SOMEBODY TO TALK TO!\""
+msgstr "\"M249炮塔點頭了。炮塔是活的嗎？終於有人可以說話了！\""
+
+#: .\snippets.json
+msgid "\"Added so many things to my taxi that it went a-blaze.  Whoops.\""
+msgstr "\"給我的出租車加了太多東西，結果它著火了。哎呀。\""
+
+#: .\snippets.json
+msgid ""
+"\"If I put one cargo dimension into another cargo dimension, does the "
+"universe end?\""
+msgstr "\"如果我把一個貨運用次元空間放進另一個貨運用次元空間裡，宇宙會終結嗎？\""
+
+#: .\snippets.json
+msgid "\"one day, i will be part of car, too\""
+msgstr "\"總有一天，我也會成為車的一部分\""
+
+#: .\snippets.json
+msgid ""
+"\"Putta little bitta dynamite and halfa landmine in an old soda can…  WHAM!"
+"  You goin' somewhere.\""
+msgstr "\"往舊汽水罐裡塞點炸藥和半顆地雷……轟！你就飛上天了。\""
+
+#: .\species.json
+msgid "blob"
+msgid_plural "blobs"
+msgstr[0] "團塊"
+
+#: .\items\fuel.json .\items\vehicle\blaze_blob.json
+msgid "liquified blob feed"
+msgid_plural "bfeedfuel"
+msgstr[0] "液化團塊飼料"
+
+#. ~ Description for {'str': 'liquified blob feed', 'str_pl': 'bfeedfuel'}
+#: .\items\fuel.json .\items\vehicle\blaze_blob.json
+msgid ""
+"Liquified blob feed, useful for fueling certain blob based vehicle parts"
+msgstr "液化團塊飼料，可用於為某些基於團塊的載具部件提供燃料"
+
+#. ~ Description for {'str_sp': 'blob feed'}
+#. ~ Description for {'str': 'blob feed', 'str_pl': 'blob feed'}
+#: .\items\fuel.json .\items\vehicle\blaze_blob.json
+msgid ""
+"An amalgam of various types of organic material, contains everything the "
+"blob needs to be healthy.  You think…"
+msgstr "多種有機材料的混合物，包含了團塊保持健康所需的一切。你是這麼認為的……"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "IED"
+msgid_plural "IEDs"
+msgstr[0] "簡易爆炸裝置"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "blast canister"
+msgid_plural "blast canisters"
+msgstr[0] "爆破罐"
+
+#. ~ Description for {'str': 'blast canister'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a sealed container filled with a payload material that "
+"triggers on impact.  Carries a substantial explosive payload."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的密封容器構成，撞擊時觸發。攜帶大量爆炸性有效載荷。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "Big Bang canister"
+msgid_plural "Big Bang canisters"
+msgstr[0] "大爆炸罐"
+
+#. ~ Description for {'str': 'Big Bang canister'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a sealed container filled with a payload material that "
+"triggers on impact.  Carries a VERY substantial explosive payload."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的密封容器構成，撞擊時觸發。攜帶巨量爆炸性有效載荷。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "fire canister"
+msgid_plural "fire canisters"
+msgstr[0] "火焰罐"
+
+#. ~ Description for {'str': 'fire canister'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material and a means to"
+" trigger it.  Intended to be fired from a specialized launcher.  This one is"
+" designed to douse a small area with deadly flames."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料和觸發裝置的容器構成。設計用於從專用發射器發射。此型號旨在向小範圍區域噴灑致命火焰。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "inferno canister"
+msgid_plural "inferno canisters"
+msgstr[0] "地獄火罐"
+
+#. ~ Description for {'str': 'inferno canister'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material and a means to"
+" trigger it.  Intended to be fired from a specialized launcher.  This one is"
+" designed to douse a large area with deadly flames."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料和觸發裝置的容器構成。設計用於從專用發射器發射。此型號旨在向大範圍區域噴灑致命火焰。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "fragmentation canister"
+msgid_plural "fragmentation canisters"
+msgstr[0] "破片罐"
+
+#. ~ Description for {'str': 'fragmentation canister'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material and a means to"
+" trigger it.  Intended to be fired from a specialized launcher.  This one is"
+" designed to spray the immediate area with deadly shrapnel."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料和觸發裝置的容器構成。設計用於從專用發射器發射。此型號旨在向周圍區域噴灑致命破片。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "modified mininuke"
+msgid_plural "modified mininukes"
+msgstr[0] "改裝微型核彈"
+
+#. ~ Description for {'str': 'modified mininuke'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A heavy modified handheld nuclear device.  Intended to be fired from a "
+"specialized launcher, its case has been cut down and it has been rigged to "
+"explode on impact.  While it is now somewhat lighter than before, it can no "
+"longer be triggered manually."
+msgstr "一款經過重度改裝的便攜式核裝置。設計用於從專用發射器發射，其外殼已被削減，並改裝為撞擊時爆炸。雖然現在比之前輕了一些，但無法再手動觸發。"
+
+#. ~ Description for {'str': 'harpoon'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A large spear carved from wood.  This was fashioned specifically to be fired"
+" from a compatible weapon; thus unsuitable for melee combat."
+msgstr "一根用木頭雕刻而成的大型長矛。這是專門為從兼容武器發射而製作的；因此不適合近戰。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "IED on a bolt"
+msgid_plural "IED on a bolts"
+msgstr[0] "弩箭簡易爆炸裝置"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "nova bolt"
+msgid_plural "nova bolts"
+msgstr[0] "新星弩箭"
+
+#. ~ Description for {'str': 'nova bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a sealed container filled with a payload material affixed"
+" to the end of a large ballista bolt.  Intended to be fired from a "
+"specialized launcher.  Carries a substantial explosive payload."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的密封容器固定在大型弩箭末端構成。設計用於從專用發射器發射。攜帶大量爆炸性有效載荷。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "supernova bolt"
+msgid_plural "supernova bolts"
+msgstr[0] "超新星弩箭"
+
+#. ~ Description for {'str': 'supernova bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a sealed container filled with a payload material affixed"
+" to the end of a large ballista bolt.  Intended to be fired from a "
+"specialized launcher.  Carries a very substantial explosive payload."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的密封容器固定在大型弩箭末端構成。設計用於從專用發射器發射。攜帶巨量爆炸性有效載荷。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "searing bolt"
+msgid_plural "searing bolts"
+msgstr[0] "灼熱弩箭"
+
+#. ~ Description for {'str': 'searing bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material affixed to the"
+" end of a large ballista bolt.  Intended to be fired from a specialized "
+"launcher.  This one is designed to douse a small area with deadly flames."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的容器固定在大型弩箭末端構成。設計用於從專用發射器發射。此型號旨在向小範圍區域噴灑致命火焰。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "napalm bolt"
+msgid_plural "napalm bolts"
+msgstr[0] "凝固汽油弩箭"
+
+#. ~ Description for {'str': 'napalm bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material affixed to the"
+" end of a large ballista bolt.  Intended to be fired from a specialized "
+"launcher.  This one is designed to douse a large area with deadly flames."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的容器固定在大型弩箭末端構成。設計用於從專用發射器發射。此型號旨在向大範圍區域噴灑致命火焰。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "shatter bolt"
+msgid_plural "shatter bolts"
+msgstr[0] "碎裂弩箭"
+
+#. ~ Description for {'str': 'shatter bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"An IED composed of a container filled with a payload material affixed to the"
+" end of a large ballista bolt.  Intended to be fired from a specialized "
+"launcher.  This one is designed to spray the immediate area with deadly "
+"shrapnel."
+msgstr "一種簡易爆炸裝置，由裝滿有效載荷材料的容器固定在大型弩箭末端構成。設計用於從專用發射器發射。此型號旨在向周圍區域噴灑致命破片。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "steel ballista bolt"
+msgid_plural "steel ballista bolts"
+msgstr[0] "鋼製弩箭"
+
+#. ~ Description for {'str': 'steel ballista bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A long shaft carved from wood ending in a tip of sharpened metal.  It's "
+"quite heavy, capable of dealing large amounts of damage, but isn't "
+"particularly accurate.  Stands a good chance of remaining intact once fired."
+msgstr "一根木製長杆，末端為鋒利的金屬尖頭。它相當沉重，能造成大量傷害，但準頭不佳。發射後有較大幾率保持完好。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "nuclear bolt"
+msgid_plural "nuclear bolts"
+msgstr[0] "核能弩箭"
+
+#. ~ Description for {'str': 'nuclear bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A heavy modified handheld nuclear device affixed to the end of a large "
+"ballista bolt.  Its case has been cut down and it has been rigged to explode"
+" on impact.  It can no longer be triggered manually."
+msgstr "一支經過重度改裝的手持核裝置，固定在一根大型弩箭的末端。其外殼已被削減，並改裝為撞擊引爆。無法再手動觸發。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "wood ballista bolt"
+msgid_plural "wood ballista bolts"
+msgstr[0] "木質弩箭"
+
+#. ~ Description for {'str': 'wood ballista bolt'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A sharpened bolt carved from wood.  It's fairly heavy, capable of dealing "
+"large amounts of damage, but isn't particularly accurate.  Stands a good "
+"chance of remaining intact once fired."
+msgstr "一根由木材雕刻而成的鋒利弩箭。相當沉重，能造成大量傷害，但精度不高。發射後有很大幾率保持完好。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "lead ball"
+msgid_plural "lead balls"
+msgstr[0] "鉛球"
+
+#. ~ Description for {'str': 'lead ball'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A heavy lead ball about 8cm in diameter.  Could pack quite a bit of a punch "
+"if you had something to launch it."
+msgstr "一個直徑約8釐米的沉重鉛球。如果有東西能發射它，威力會相當可觀。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "serrated disc"
+msgid_plural "serrated discs"
+msgstr[0] "鋸齒圓盤"
+
+#. ~ Description for {'str': 'serrated disc'}
+#: .\items\ammo\blaze_ammo.json
+msgid ""
+"A metal disc surrounded by serrated edges.  It's as menacing as it sounds."
+msgstr "一個邊緣佈滿鋸齒的金屬圓盤。聽起來就令人膽寒。"
+
+#: .\items\ammo\blaze_ammo.json
+msgid "metal fragment"
+msgid_plural "metal fragments"
+msgstr[0] "金屬碎片"
+
+#. ~ Description for {'str': 'metal fragment'}
+#: .\items\ammo\blaze_ammo.json
+msgid "Small slivers of metal.  Can't see much use for them."
+msgstr "細小的金屬碎片。看不出有什麼大用處。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "storm bolter"
+msgid_plural "storm bolters"
+msgstr[0] "風暴弩炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This pneumatic bolt thrower has been greatly enhanced, allowing multiple "
+"bolts to be launched accurately and in quick succession.  It requires a "
+"support of some sort in order to be operated."
+msgstr "這把氣動弩炮經過大幅增強，能夠快速連續地精準發射多支弩箭。它需要某種支撐才能操作。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "slingshot cannon"
+msgid_plural "slingshot cannons"
+msgstr[0] "彈弓加農炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"Essentially several long drawstrings held by two long, reinforced sides and "
+"a mechanism attached to a crank to draw and fire it.  It's deceptively "
+"powerful and surprisingly accurate, but far too large to be used without "
+"some sort of stable platform."
+msgstr "本質上是由兩根加固長臂固定的多根長拉繩，以及一個連接曲柄用於拉弦和發射的機構。它威力驚人且出奇地精準，但體積過大，沒有穩定平臺無法使用。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "lacerator"
+msgid_plural "lacerators"
+msgstr[0] "撕裂者"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This weapon launches serrated metal disks at nearby enemies.  It draws its "
+"power from a vehicle's engines, and thus must be mounted on such in order to"
+" be operated."
+msgstr "這種武器向附近的敵人發射鋸齒金屬圓盤。它從車輛的引擎獲取動力，因此必須安裝在車輛上才能操作。"
+
+#: .\items\guns\blaze_weapons.json .\items\vehicle\blaze_blob.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid "rotary cannon"
+msgid_plural "rotary cannons"
+msgstr[0] "轉輪加農炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This fearsome weapon sports 3 barrels in a cyclic configuration.  A "
+"specialized mechanism loads the otherwise troublesome rounds; allowing it to"
+" be fired in quick succession.  However, this renders it incredibly "
+"unwieldy, and it must be mounted on a support structure in order to be "
+"fired."
+msgstr ""
+"這種可怕的武器採用三管循環配置。一個專門的機構裝填原本棘手的彈藥，使其能夠快速連續射擊。然而，這也使其極其笨重，必須安裝在支撐結構上才能開火。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "laser cannon"
+msgid_plural "laser cannons"
+msgstr[0] "激光加農炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This enhanced laser cannon sacrifices efficiency for destructive power.  The"
+" increased power requirements require a significant power source and the "
+"size of the firing mechanism also requires support."
+msgstr "這種增強型激光加農炮犧牲了效率以換取破壞力。增加的能量需求需要強大的電源，而發射機構的大小也需要支撐。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "pulse laser"
+msgid_plural "pulse lasers"
+msgstr[0] "脈衝激光器"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"Augmented damage capability and rapid bursts make this a powerful weapon.  "
+"The increased power requirements require a significant power source and the "
+"firing mechanism also requires a specialized chassis."
+msgstr "增強的傷害能力和快速連發使其成為一種強大的武器。增加的能量需求需要強大的電源，而發射機構也需要專門的底盤。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "turbolaser cannon"
+msgid_plural "turbolaser cannons"
+msgstr[0] "渦輪激光加農炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"With an augmented emitter and capacitor, this mounted laser is capable of "
+"superheating most materials to the point of exploding.  The firing mechanism"
+" also requires the services of a specialized chassis, and one must be wary "
+"of the prodigious power needs of such a weapon."
+msgstr "憑藉增強的發射器和電容器，這種架設式激光器能夠將大多數材料加熱到爆炸的程度。發射機構也需要專門的底盤，並且必須警惕這種武器巨大的能量需求。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "perforator"
+msgid_plural "perforators"
+msgstr[0] "穿孔者"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"A coilgun with improved electromagnetic circuits to be able to propel a "
+"metallic projectile at high speed and with great accuracy.  Capable of "
+"piercing armor with little issue, though the projectile itself lacks damage "
+"due to its small size.  It must be mounted on a specialized chassis in order"
+" to be fired."
+msgstr ""
+"一種改進了電磁電路的線圈炮，能夠高速且精準地發射金屬彈丸。能夠輕鬆穿透裝甲，但由於彈丸體積小，其本身傷害有限。必須安裝在專門的底盤上才能發射。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "needler"
+msgid_plural "needlers"
+msgstr[0] "針刺槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This improved nailgun features a special firing mechanism that is set to "
+"fire a spread of up to 5 nails at once; sure to drop the hammer on its "
+"unfortunate targets.  However, these features render it incredibly unwieldy,"
+" and it must be mounted on a supporting frame in order to be fired."
+msgstr ""
+"這種改進型射釘槍配備了一個特殊的發射機構，可以一次發射最多5枚釘子，足以讓不幸的目標吃盡苦頭。然而，這些特性使其極其笨重，必須安裝在支撐架上才能發射。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "hypervelocity driver"
+msgid_plural "hypervelocity drivers"
+msgstr[0] "超高速驅動器"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"A single-shot, electrically propelled, steel rail launcher.  The powerful, "
+"and frankly dangerous, improvements made to the power systems of this weapon"
+" is capable imbuing a massive charge into a single-rail; so much that it "
+"often shatters into deadly fragments on impact.  It's capabilities are "
+"limited by its prodigious power requirements however, and its large size "
+"necessitates an appropriately-equipped vehicle."
+msgstr ""
+"一種單發、電力推進的鋼軌發射器。對其動力系統進行的強大且相當危險的改進，能夠將巨大的電荷注入單根軌道；以至於彈丸在撞擊時常常會碎裂成致命的碎片。然而，其能力受到巨大能量需求的限制，龐大的體積也需要配備相應設備的車輛。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "ripper"
+msgid_plural "rippers"
+msgstr[0] "撕裂者"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This menacing weapon rapidly launches bladed disks that rips through enemies"
+" with devastating effect.  It draws its power from a vehicle's engines, and "
+"thus must be mounted on such in order to be operated."
+msgstr "這種威脅性武器能快速發射帶刃圓盤，以毀滅性效果撕裂敵人。它從車輛引擎汲取動力，因此必須安裝在車輛上才能操作。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "rotary speargun"
+msgid_plural "rotary spearguns"
+msgstr[0] "旋轉魚叉槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This pneumatic speargun features a revolving barrel behind its launcher, "
+"allowing projectiles to be rapidly loaded and fired.    However, the weight "
+"requires an external support measure."
+msgstr "這款氣動魚叉槍在發射器後方設有旋轉槍管，可快速裝填併發射彈丸。然而，其重量需要外部支撐措施。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "scorpion ballista"
+msgid_plural "scorpion ballistas"
+msgstr[0] "蠍弩"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"A massive tension-operated crossbow.  The hand-crank allows one to draw it "
+"without the need for heavy labor.  It's far too massive to be used on foot, "
+"and thus needs to be mounted on a vehicle in order to be operated."
+msgstr "一把巨大的張力驅動弩。手搖曲柄使其無需重體力即可上弦。它過於龐大，無法徒步使用，因此需要安裝在車輛上才能操作。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "splintergun"
+msgid_plural "splinterguns"
+msgstr[0] "碎片槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"A heavily modified coilgun that fires tiny fragments of metal at high speeds"
+" extremely quickly.  The resulting barrage is highly inaccurate, but can "
+"turn unarmored targets into pulp.  It must be mounted on a specialized "
+"chassis in order to be fired."
+msgstr "一款經過大幅改裝的線圈槍，能以極快速度高速發射微小金屬碎片。其彈幕極不精準，但能將無裝甲目標打成肉泥。必須安裝在專用底盤上才能發射。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "harpoon gun"
+msgid_plural "harpoon guns"
+msgstr[0] "捕鯨槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"A tension-operated speargun.  A hand-crank lets one draw the strings "
+"quickly, but it's too unwieldy to handle without a support of some sort."
+msgstr "一把張力驅動的魚叉槍。手搖曲柄可快速拉緊弓弦，但若無某種支撐，它過於笨重難以手持。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "Tesla cannon"
+msgid_plural "Tesla cannons"
+msgstr[0] "特斯拉炮"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This alteration of the Chain Lightning bionic fires artificial lightning "
+"bolts that arc to nearby enemies.  It must be attached to a large power "
+"source, but it allows for much more powerful bolts."
+msgstr "這是對“連鎖閃電”仿生體的改造，可發射人工閃電束，電弧會跳躍至附近敵人。它必須連接大型電源，但能釋放更強大的閃電束。"
+
+#: .\items\guns\blaze_weapons.json
+msgid "avalanche rifle"
+msgid_plural "avalanche rifles"
+msgstr[0] "雪崩步槍"
+
+#: .\items\guns\blaze_weapons.json
+msgid ""
+"This pneumatic assault rifle has been greatly enhanced, firing projectiles "
+"faster and with higher velocity.  However, these features render it "
+"incredibly unwieldy, and it must be mounted on a supporting platform in "
+"order to be fired."
+msgstr "這款氣動突擊步槍經過大幅增強，射彈更快、初速更高。然而，這些特性使其極其笨重，必須安裝在支撐平臺上才能發射。"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid ""
+"This heavy weapon is mounted on a turret, and can be fired from your vehicle"
+" controls."
+msgstr "這款重型武器安裝在炮塔上，可通過車輛控制裝置發射。"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual storm bolter"
+msgstr "手動風暴爆彈槍"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual slingshot cannon"
+msgstr "手動彈弓炮"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual rotary cannon"
+msgstr "手動旋轉機炮"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual laser cannon"
+msgstr "手動激光炮"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual pulse laser"
+msgstr "手動脈衝激光器"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual turbolaser"
+msgstr "手動渦輪激光炮"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual lacerator"
+msgstr "手動撕裂者"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual RM451 flamethrower"
+msgstr "手動RM451火焰噴射器"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual perforator"
+msgstr "手動穿孔器"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual needler"
+msgstr "手動針刺槍"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual hypervelocity driver"
+msgstr "手動超高速驅動器"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual ripper"
+msgstr "手動撕裂者"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual rotary speargun"
+msgstr "手動旋轉魚叉槍"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual scorpion ballista"
+msgstr "手動蠍弩"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual splintergun"
+msgstr "手動碎片槍"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual speargun"
+msgstr "手動魚叉槍"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual tesla cannon"
+msgstr "手動特斯拉炮"
+
+#: .\items\guns\blaze_weapons_parts.json
+msgid "manual avalanche rifle"
+msgstr "手動雪崩步槍"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "gelatinous capsule"
+msgid_plural "gelatinous capsules"
+msgstr[0] "凝膠膠囊"
+
+#. ~ Description for {'str': 'gelatinous capsule'}
+#. ~ Description for {'str': 'gray cocoon'}
+#. ~ Description for {'str': 'oozing pod'}
+#. ~ Description for {'str': 'gelatinous capsule', 'str_pl': 'gelatinous
+#. capsules'}
+#. ~ Description for {'str': 'gray cocoon', 'str_pl': 'gray cocoons'}
+#. ~ Description for {'str': 'oozing pod', 'str_pl': 'oozing pods'}
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid ""
+"While the blob is very eager to be fed, it's not as enthusiastic about "
+"giving up liquids.  A few alterations are necessary."
+msgstr "雖然這團粘液非常渴望被餵食，但它對釋放液體就沒那麼積極了。需要做一些調整。"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "gelatinous tank"
+msgid_plural "gelatinous tanks"
+msgstr[0] "凝膠罐"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "gray cocoon"
+msgid_plural "gray cocoons"
+msgstr[0] "灰色繭"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "gray tank"
+msgid_plural "gray tanks"
+msgstr[0] "灰色罐"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "oozing pod"
+msgid_plural "oozing pods"
+msgstr[0] "滲流莢"
+
+#: .\items\tools\blob_container.json .\items\vehicle\blaze_blob.json
+msgid "oozing tank"
+msgid_plural "oozing tanks"
+msgstr[0] "滲流罐"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing blob frame"
+msgid_plural "growing blob frames"
+msgstr[0] "生長中的粘液框架"
+
+#. ~ Use action msg for {'str': 'growing blob frame'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"You test the frame; It wiggles, and then collapses into an lump of goo."
+msgstr "你測試了框架；它扭動了一下，然後塌陷成一團粘液。"
+
+#. ~ Use action not_ready_msg for {'str': 'growing blob frame'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "You test the frame; it gives easily, it's still not sturdy enough"
+msgstr "你測試了框架；它輕易地變形了，仍然不夠堅固。"
+
+#. ~ Description for {'str': 'growing blob frame'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"A growing vehicle frame made of bone.  It's coated in a thick layer of ooze,"
+" though there's greater amounts on the bindings.  It's not quite tough "
+"enough to use."
+msgstr "一個由骨頭製成的生長中的載具框架。它覆蓋著一層厚厚的粘液，儘管在綁帶處更多。它還不夠堅韌，無法使用。"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing keratinous mass"
+msgid_plural "growing keratinous mass"
+msgstr[0] "生長中的角質團塊"
+
+#. ~ Use action msg for {'str_sp': 'growing keratinous mass'}.
+#. ~ Use action msg for {'str_sp': 'growing beaded mass'}.
+#. ~ Use action msg for {'str_sp': 'growing icy mass'}.
+#. ~ Use action msg for {'str_sp': 'growing cold mass'}.
+#. ~ Use action msg for {'str_sp': 'growing hairy mass'}.
+#. ~ Use action msg for {'str_sp': 'growing gelatinous mass'}.
+#. ~ Use action msg for {'str_sp': 'growing glowing mass'}.
+#. ~ Use action msg for {'str_sp': 'growing gray mass'}.
+#. ~ Use action msg for {'str_sp': 'growing spike-studded mass'}.
+#. ~ Use action msg for {'str_sp': 'growing gasoline-laced mass'}.
+#. ~ Use action msg for {'str_sp': 'growing acidic mass'}.
+#. ~ Use action msg for {'str_sp': 'growing ooze'}.
+#. ~ Use action msg for {'str_sp': 'growing mass of tendrils'}.
+#. ~ Use action msg for {'str_sp': 'growing spiked mass'}.
+#. ~ Use action msg for {'str_sp': 'growing spiny mass'}.
+#. ~ Use action msg for {'str_sp': 'growing spiky mass'}.
+#. ~ Use action msg for {'str_sp': 'growing bright mass'}.
+#. ~ Use action msg for {'str_sp': 'growing viscous mass'}.
+#. ~ Use action msg for {'str_sp': 'growing warm mass'}.
+#. ~ Use action msg for {'str_sp': 'growing electrified mass'}.
+#. ~ Use action msg for {'str': 'growing keratinous mass', 'str_pl': 'growing
+#. keratinous mass'}.
+#. ~ Use action msg for {'str': 'growing beaded mass', 'str_pl': 'growing
+#. beaded mass'}.
+#. ~ Use action msg for {'str': 'growing icy mass', 'str_pl': 'growing icy
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing cold mass', 'str_pl': 'growing cold
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing hairy mass', 'str_pl': 'growing hairy
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing gelatinous mass', 'str_pl': 'growing
+#. gelatinous mass'}.
+#. ~ Use action msg for {'str': 'growing glowing mass', 'str_pl': 'growing
+#. glowing mass'}.
+#. ~ Use action msg for {'str': 'growing gray mass', 'str_pl': 'growing gray
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing spike-studded mass', 'str_pl':
+#. 'growing spike-studded mass'}.
+#. ~ Use action msg for {'str': 'growing gasoline-laced mass', 'str_pl':
+#. 'growing gasoline-laced mass'}.
+#. ~ Use action msg for {'str': 'growing acidic mass', 'str_pl': 'growing
+#. acidic mass'}.
+#. ~ Use action msg for {'str': 'growing ooze', 'str_pl': 'growing ooze'}.
+#. ~ Use action msg for {'str': 'growing mass of tendrils', 'str_pl': 'growing
+#. mass of tendrils'}.
+#. ~ Use action msg for {'str': 'growing spiked mass', 'str_pl': 'growing
+#. spiked mass'}.
+#. ~ Use action msg for {'str': 'growing spiny mass', 'str_pl': 'growing spiny
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing spiky mass', 'str_pl': 'growing spiky
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing bright mass', 'str_pl': 'growing
+#. bright mass'}.
+#. ~ Use action msg for {'str': 'growing viscous mass', 'str_pl': 'growing
+#. viscous mass'}.
+#. ~ Use action msg for {'str': 'growing warm mass', 'str_pl': 'growing warm
+#. mass'}.
+#. ~ Use action msg for {'str': 'growing electrified mass', 'str_pl': 'growing
+#. electrified mass'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "The blob balloons to full size."
+msgstr "粘液團膨脹到完整大小。"
+
+#. ~ Use action not_ready_msg for {'str_sp': 'growing keratinous mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing beaded mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing icy mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing cold mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing hairy mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing gelatinous mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing glowing mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing gray mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing spike-studded mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing gasoline-laced mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing acidic mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing ooze'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing mass of tendrils'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing spiked mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing spiny mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing spiky mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing bright mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing viscous mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing warm mass'}.
+#. ~ Use action not_ready_msg for {'str_sp': 'growing electrified mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing keratinous mass', 'str_pl':
+#. 'growing keratinous mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing beaded mass', 'str_pl':
+#. 'growing beaded mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing icy mass', 'str_pl':
+#. 'growing icy mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing cold mass', 'str_pl':
+#. 'growing cold mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing hairy mass', 'str_pl':
+#. 'growing hairy mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing gelatinous mass', 'str_pl':
+#. 'growing gelatinous mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing glowing mass', 'str_pl':
+#. 'growing glowing mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing gray mass', 'str_pl':
+#. 'growing gray mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing spike-studded mass',
+#. 'str_pl': 'growing spike-studded mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing gasoline-laced mass',
+#. 'str_pl': 'growing gasoline-laced mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing acidic mass', 'str_pl':
+#. 'growing acidic mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing ooze', 'str_pl': 'growing
+#. ooze'}.
+#. ~ Use action not_ready_msg for {'str': 'growing mass of tendrils',
+#. 'str_pl': 'growing mass of tendrils'}.
+#. ~ Use action not_ready_msg for {'str': 'growing spiked mass', 'str_pl':
+#. 'growing spiked mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing spiny mass', 'str_pl':
+#. 'growing spiny mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing spiky mass', 'str_pl':
+#. 'growing spiky mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing bright mass', 'str_pl':
+#. 'growing bright mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing viscous mass', 'str_pl':
+#. 'growing viscous mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing warm mass', 'str_pl':
+#. 'growing warm mass'}.
+#. ~ Use action not_ready_msg for {'str': 'growing electrified mass',
+#. 'str_pl': 'growing electrified mass'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "Whatever it's doing, it's not done yet."
+msgstr "無論它在做什麼，都還沒完成。"
+
+#. ~ Description for {'str_sp': 'growing keratinous mass'}
+#. ~ Description for {'str_sp': 'growing beaded mass'}
+#. ~ Description for {'str_sp': 'growing icy mass'}
+#. ~ Description for {'str_sp': 'growing cold mass'}
+#. ~ Description for {'str_sp': 'growing hairy mass'}
+#. ~ Description for {'str_sp': 'growing gelatinous mass'}
+#. ~ Description for {'str_sp': 'growing glowing mass'}
+#. ~ Description for {'str_sp': 'growing gray mass'}
+#. ~ Description for {'str_sp': 'growing spike-studded mass'}
+#. ~ Description for {'str_sp': 'growing gasoline-laced mass'}
+#. ~ Description for {'str_sp': 'growing acidic mass'}
+#. ~ Description for {'str_sp': 'growing ooze'}
+#. ~ Description for {'str_sp': 'growing mass of tendrils'}
+#. ~ Description for {'str_sp': 'growing spiked mass'}
+#. ~ Description for {'str_sp': 'growing spiny mass'}
+#. ~ Description for {'str_sp': 'growing spiky mass'}
+#. ~ Description for {'str_sp': 'growing bright mass'}
+#. ~ Description for {'str_sp': 'growing viscous mass'}
+#. ~ Description for {'str_sp': 'growing warm mass'}
+#. ~ Description for {'str_sp': 'growing electrified mass'}
+#. ~ Description for {'str': 'growing keratinous mass', 'str_pl': 'growing
+#. keratinous mass'}
+#. ~ Description for {'str': 'growing beaded mass', 'str_pl': 'growing beaded
+#. mass'}
+#. ~ Description for {'str': 'growing icy mass', 'str_pl': 'growing icy mass'}
+#. ~ Description for {'str': 'growing cold mass', 'str_pl': 'growing cold
+#. mass'}
+#. ~ Description for {'str': 'growing hairy mass', 'str_pl': 'growing hairy
+#. mass'}
+#. ~ Description for {'str': 'growing gelatinous mass', 'str_pl': 'growing
+#. gelatinous mass'}
+#. ~ Description for {'str': 'growing glowing mass', 'str_pl': 'growing
+#. glowing mass'}
+#. ~ Description for {'str': 'growing gray mass', 'str_pl': 'growing gray
+#. mass'}
+#. ~ Description for {'str': 'growing spike-studded mass', 'str_pl': 'growing
+#. spike-studded mass'}
+#. ~ Description for {'str': 'growing gasoline-laced mass', 'str_pl': 'growing
+#. gasoline-laced mass'}
+#. ~ Description for {'str': 'growing acidic mass', 'str_pl': 'growing acidic
+#. mass'}
+#. ~ Description for {'str': 'growing ooze', 'str_pl': 'growing ooze'}
+#. ~ Description for {'str': 'growing mass of tendrils', 'str_pl': 'growing
+#. mass of tendrils'}
+#. ~ Description for {'str': 'growing spiked mass', 'str_pl': 'growing spiked
+#. mass'}
+#. ~ Description for {'str': 'growing spiny mass', 'str_pl': 'growing spiny
+#. mass'}
+#. ~ Description for {'str': 'growing spiky mass', 'str_pl': 'growing spiky
+#. mass'}
+#. ~ Description for {'str': 'growing bright mass', 'str_pl': 'growing bright
+#. mass'}
+#. ~ Description for {'str': 'growing viscous mass', 'str_pl': 'growing
+#. viscous mass'}
+#. ~ Description for {'str': 'growing warm mass', 'str_pl': 'growing warm
+#. mass'}
+#. ~ Description for {'str': 'growing electrified mass', 'str_pl': 'growing
+#. electrified mass'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"Not quite fully grown, this blob requires nourishment to fully develop."
+msgstr "尚未完全成熟，這個粘液團需要養分才能完全發育。"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing beaded mass"
+msgid_plural "growing beaded mass"
+msgstr[0] "生長中的珠狀團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing icy mass"
+msgid_plural "growing icy mass"
+msgstr[0] "生長中的冰狀團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "gelacier"
+msgid_plural "gelaciers"
+msgstr[0] "凝膠冰川"
+
+#. ~ Description for {'str': 'gelacier'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"A biological mystery, this blob's internal structures exist in within a pool"
+" of low-density fluid that remains liquid despite being in a super-cooled "
+"state; yet possesses all the malleability of its former self.  Fragments of "
+"frost continually flake off it.  It seems pliable enough to pull apart…"
+msgstr ""
+"一個生物學謎團，這團粘液的內部結構存在於一個低密度流體池中，儘管處於過冷狀態，卻仍保持液態；同時保留了其前身的所有可塑性。冰霜碎片不斷從它身上剝落。它似乎足夠柔韌，可以拉開……"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing cold mass"
+msgid_plural "growing cold mass"
+msgstr[0] "生長中的寒冷團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing hairy mass"
+msgid_plural "growing hairy mass"
+msgstr[0] "生長中的多毛團塊"
+
+#. ~ Use action msg for {'str_sp': 'gelatinous mass'}.
+#. ~ Use action msg for {'str_sp': 'gray mass'}.
+#. ~ Use action msg for {'str_sp': 'oozing mass'}.
+#. ~ Use action msg for {'str': 'gelatinous mass', 'str_pl': 'gelatinous
+#. mass'}.
+#. ~ Use action msg for {'str': 'gray mass', 'str_pl': 'gray mass'}.
+#. ~ Use action msg for {'str': 'oozing mass', 'str_pl': 'oozing mass'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "You fumble as the blob starts to multiply rapidly!"
+msgstr "當粘液開始迅速增殖時，你手忙腳亂！"
+
+#. ~ Description for {'str_sp': 'gelatinous mass'}
+#. ~ Description for {'str': 'gelatinous mass', 'str_pl': 'gelatinous mass'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"An experiment gone horribly right.  While the original intent was to combine"
+" the structure of a bone frame with the impact absorption of the blob; the "
+"blob seems to have completely consumed the bone.  Instead, what remains is "
+"an amorphous mass of goo with what seems to be numerous thin filaments "
+"floating within.  With a bit of effort, you can grasp the fibers and stretch"
+" the mass into a multitude of shapes.  The mass is able to retain the new "
+"shape even under force, though the mass yields at your touch.  With enough "
+"strength, you think you can pull it apart."
+msgstr ""
+"一個實驗取得了可怕的正確結果。雖然最初的意圖是將骨骼框架的結構與粘液的衝擊吸收能力結合；但粘液似乎完全吞噬了骨頭。取而代之的是一團無定形的粘液，內部似乎漂浮著無數細絲。稍加努力，你就可以抓住纖維，將團塊拉伸成多種形狀。即使在受力下，團塊也能保持新形狀，儘管在你的觸摸下它會屈服。如果有足夠的力量，你認為可以把它拉開。"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "multiplying gelatinous mass"
+msgid_plural "multiplying gelatinous mass"
+msgstr[0] "增殖的凝膠團塊"
+
+#. ~ Use action friendly_msg for {'str_sp': 'multiplying gelatinous mass'}.
+#. ~ Use action hostile_msg for {'str_sp': 'multiplying gelatinous mass'}.
+#. ~ Use action friendly_msg for {'str_sp': 'multiplying gray mass'}.
+#. ~ Use action hostile_msg for {'str_sp': 'multiplying gray mass'}.
+#. ~ Use action friendly_msg for {'str_sp': 'multiplying oozing mass'}.
+#. ~ Use action hostile_msg for {'str_sp': 'multiplying oozing mass'}.
+#. ~ Use action friendly_msg for {'str': 'multiplying gelatinous mass',
+#. 'str_pl': 'multiplying gelatinous mass'}.
+#. ~ Use action hostile_msg for {'str': 'multiplying gelatinous mass',
+#. 'str_pl': 'multiplying gelatinous mass'}.
+#. ~ Use action friendly_msg for {'str': 'multiplying gray mass', 'str_pl':
+#. 'multiplying gray mass'}.
+#. ~ Use action hostile_msg for {'str': 'multiplying gray mass', 'str_pl':
+#. 'multiplying gray mass'}.
+#. ~ Use action friendly_msg for {'str': 'multiplying oozing mass', 'str_pl':
+#. 'multiplying oozing mass'}.
+#. ~ Use action hostile_msg for {'str': 'multiplying oozing mass', 'str_pl':
+#. 'multiplying oozing mass'}.
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "A blob splits and bounces away!"
+msgstr "一團粘液分裂並彈開了！"
+
+#. ~ Description for {'str_sp': 'multiplying gelatinous mass'}
+#. ~ Description for {'str_sp': 'multiplying gray mass'}
+#. ~ Description for {'str_sp': 'multiplying oozing mass'}
+#. ~ Description for {'str': 'multiplying gelatinous mass', 'str_pl':
+#. 'multiplying gelatinous mass'}
+#. ~ Description for {'str': 'multiplying gray mass', 'str_pl': 'multiplying
+#. gray mass'}
+#. ~ Description for {'str': 'multiplying oozing mass', 'str_pl': 'multiplying
+#. oozing mass'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"Having been fed, this blob is now rapidly multiplying into other copies of "
+"itself; extremely noisy copies!  And even worse, it's stuck to your hands "
+"until whatever it's doing is done!  Catch those blobs before they bring in "
+"every zombie for miles!"
+msgstr ""
+"被餵食後，這團粘液正在迅速增殖成自身的其他副本；極其吵鬧的副本！更糟的是，在它完成所做之事之前，它會粘在你的手上！在它們引來數英里內的所有殭屍之前，抓住那些粘液！"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing gelatinous mass"
+msgid_plural "growing gelatinous mass"
+msgstr[0] "生長中的凝膠團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing glowing mass"
+msgid_plural "growing glowing mass"
+msgstr[0] "生長中的發光團塊"
+
+#. ~ Description for {'str_sp': 'gray mass'}
+#. ~ Description for {'str': 'gray mass', 'str_pl': 'gray mass'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"This internal structures of this creature have developed significantly.  "
+"While retaining the resilience and malleability of its once simpler form, it"
+" has gained the considerable abilities of perception and stimulus response."
+"  When directly threatened, it is able to shift and alter its microfibers, "
+"hardening its membrane to an almost steel-hard shell.  You can still pull it"
+" apart with enough force.  It's also really gray."
+msgstr ""
+"這個生物的內部結構已顯著發育。在保留其曾經更簡單形態的韌性和可塑性的同時，它獲得了可觀的感知和刺激反應能力。當直接受到威脅時，它能夠移動和改變其微纖維，將其膜硬化到幾乎如鋼鐵般堅硬的外殼。你仍然可以用足夠的力量將其拉開。它也確實非常灰。"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "multiplying gray mass"
+msgid_plural "multiplying gray mass"
+msgstr[0] "增殖的灰色團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing gray mass"
+msgid_plural "growing gray mass"
+msgstr[0] "生長的灰色團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing spike-studded mass"
+msgid_plural "growing spike-studded mass"
+msgstr[0] "生長的尖刺團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing gasoline-laced mass"
+msgid_plural "growing gasoline-laced mass"
+msgstr[0] "生長的汽油浸漬團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing acidic mass"
+msgid_plural "growing acidic mass"
+msgstr[0] "生長的酸性團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "oozing mass"
+msgid_plural "oozing mass"
+msgstr[0] "滲流團塊"
+
+#. ~ Description for {'str_sp': 'oozing mass'}
+#. ~ Description for {'str': 'oozing mass', 'str_pl': 'oozing mass'}
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid ""
+"An amorphous mass that has undergone a significant growth.  In addition to "
+"the increased amount of goo and sinuous filaments, it seems to have started "
+"developing other internal structures.  Like its smaller counterpart, it can "
+"be shaped into various structures; albeit with significantly greater tensile"
+" strength due to the increased number of supporting filaments.  You believe "
+"you can split it apart with enough force."
+msgstr ""
+"一團經歷了顯著增長的無定形團塊。除了增多的黏液和蜿蜒的絲狀結構外，它似乎已開始發育其他內部構造。與其較小版本類似，它可以塑造成各種結構；但由於支撐絲狀物數量增加，其抗拉強度顯著增強。你認為可以用足夠的力量將其撕裂。"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "multiplying oozing mass"
+msgid_plural "multiplying oozing mass"
+msgstr[0] "增殖的滲流團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing ooze"
+msgid_plural "growing ooze"
+msgstr[0] "生長的滲流物"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing mass of tendrils"
+msgid_plural "growing mass of tendrils"
+msgstr[0] "生長的觸鬚團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing spiked mass"
+msgid_plural "growing spiked mass"
+msgstr[0] "生長的尖刺團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing spiny mass"
+msgid_plural "growing spiny mass"
+msgstr[0] "生長的多刺團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing spiky mass"
+msgid_plural "growing spiky mass"
+msgstr[0] "生長的尖刺團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing bright mass"
+msgid_plural "growing bright mass"
+msgstr[0] "生長的明亮團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing viscous mass"
+msgid_plural "growing viscous mass"
+msgstr[0] "生長的粘稠團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing warm mass"
+msgid_plural "growing warm mass"
+msgstr[0] "生長的溫暖團塊"
+
+#: .\items\tools\blob_tools.json .\items\vehicle\blaze_blob.json
+msgid "growing electrified mass"
+msgid_plural "growing electrified mass"
+msgstr[0] "生長的帶電團塊"
+
+#. ~ Description for {'str': 'Gelatinous track'}
+#. ~ Description for {'str': 'Oozing track'}
+#. ~ Description for {'str': 'Gray track'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A short, interlocking set of tracks created out of some of your monstrosity "
+"blob based parts.  Similar with what you might see used on light "
+"construction vehicles.  It's significantly stronger than regular tires due "
+"to not being at risk of bursting; but is quite heavy."
+msgstr "一套由你的怪物團塊部件製成的短型互鎖履帶。類似於輕型工程車輛上使用的類型。由於沒有爆裂風險，它比普通輪胎堅固得多；但相當沉重。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon; meant to be stretched across"
+" a frame as a form of barrier.  It has evolved the ability to constantly "
+"generate calcified protrusions which are then controlled by sinuous tensile "
+"strands.  These \"teeth\" can then be used to latch and wound anything "
+"unfortunate enough to be nearby.  The outer membrane has also become "
+"significantly thicker in order to support its more strenuous movement; "
+"though it seems pliable enough to pull apart…"
+msgstr ""
+"一個活體團塊轉化成的自主武器；旨在拉伸在框架上作為屏障。它進化出了持續生成鈣化突起的能力，這些突起由蜿蜒的拉伸絲控制。這些“牙齒”可用於咬住並傷害任何不幸靠近的物體。外膜也顯著增厚以支撐其更劇烈的運動；不過它似乎足夠柔韌，可以撕裂……"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  It trawls the ground for "
+"material, which it then strips of nutrition.  The remainder is then expelled"
+" out at significant velocity towards any nearby threats.  The amorphous mass"
+" can be shaped and attached at your touch, but the weapon itself is inert "
+"without something to control it.  It seems pliable enough to pull apart…"
+msgstr ""
+"一個活體團塊轉化成的自主武器。它在地面拖曳搜尋材料，然後剝離其中的營養。剩餘物則以高速向附近威脅噴射。無定形團塊可在你觸碰時塑形並附著，但武器本身若無控制物則處於惰性狀態。它似乎足夠柔韌，可以撕裂……"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A biological aberration "
+"that exists at sub-zero temperatures.  After filtering nutrients from the "
+"water, it freezes the remainder into an incredibly sharp spear of ice; which"
+" it then launches at nearby threats.  The amorphous mass can be shaped and "
+"attached at your touch, but the weapon itself is inert without something to "
+"control it."
+msgstr ""
+"一個活體團塊轉化成的自主武器。一種存在於零下溫度的生物學畸變。從水中過濾營養後，它將剩餘物凍結成極其尖銳的冰矛；然後射向附近威脅。無定形團塊可在你觸碰時塑形並附著，但武器本身若無控制物則處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid "gelacier wheel"
+msgid_plural "gelacier wheels"
+msgstr[0] "凝膠冰川輪"
+
+#. ~ Description for {'str': 'gelacier wheel'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A biological mystery, this blob's internal structures exist in within a pool"
+" of low-density fluid that remains liquid despite being in a super-cooled "
+"state; yet possesses all the malleability of its former self.  Fragments of "
+"frost continually flake off it.  It has formed itself into a wide boat "
+"frame."
+msgstr ""
+"一個生物學謎團，這個團塊的內部結構存在於低密度流體池中，儘管處於超冷狀態卻保持液態；同時保留了其前身的所有可塑性。霜片不斷從它表面剝落。它已自行形成一個寬闊的船體框架。"
+
+#. ~ Description for {'str': 'gelacier wheel'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A biological mystery, this blob's internal structures exist in within a pool"
+" of low-density fluid that remains liquid despite being in a super-cooled "
+"state; yet possesses all the malleability of its former self.  Fragments of "
+"frost continually flake off it.  It has formed itself into a wide, crude "
+"wheel."
+msgstr ""
+"一個生物學謎團，這個團塊的內部結構存在於低密度流體池中，儘管處於超冷狀態卻保持液態；同時保留了其前身的所有可塑性。霜片不斷從它表面剝落。它已自行形成一個寬闊、粗糙的輪子。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A baffling mutation in an "
+"already baffling creature, this blob is encased in a thick coat of fur, "
+"which serves as a form of protection.  In addition, it is capable of "
+"projecting rows of calcified sharp fragments in a manner mimicking the jaw "
+"of a more recognizable creature.  The amorphous mass can be shaped and "
+"attached at your touch, but the weapon itself is inert without something to "
+"control it."
+msgstr ""
+"一個活體團塊轉化成的自主武器。在這個本已令人困惑的生物中發生的令人費解的突變，這個團塊被厚毛皮包裹，作為保護形式。此外，它能以模仿更常見生物頜部的方式投射成排的鈣化尖銳碎片。無定形團塊可在你觸碰時塑形並附著，但武器本身若無控制物則處於惰性狀態。"
+
+#. ~ Description for {'str': 'gelatinous wheel'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"Filling a gelatinous mass with water has resulted in something that appears "
+"to be a cross between a wheel, an otherworldly abomination, and one of those"
+" old squeezy toys."
+msgstr "向凝膠團塊注水後，產生了某種介於輪子、異界怪物和那些老式擠壓玩具之間的東西。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid "gelectrode"
+msgid_plural "gelectrodes"
+msgstr[0] "凝膠電極"
+
+#. ~ Description for {'str': 'gelectrode'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A biological mystery, this blob has evolved the ability to slowly generate "
+"electricity through some unknown process.  It emits a low phosphorescent "
+"glow while doing so.  It is also capable of storing electricity from other "
+"sources, but doing so renders it inactive.  It seems pliable enough to pull "
+"apart…"
+msgstr ""
+"一個生物學謎團，這個團塊進化出了通過某種未知過程緩慢發電的能力。在此過程中它會發出微弱的磷光。它也能儲存來自其他來源的電力，但這樣做會使它失去活性。它似乎足夠柔韌，可以撕裂……"
+
+#. ~ Description for {'str': 'gray wheel'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"Filling a gray mass with water has resulted in something that appears to be "
+"a cross between a wheel, an otherworldly abomination, and one of those old "
+"squeezy toys."
+msgstr "向灰色團塊注水後，產生了某種介於輪子、異界怪物和那些老式擠壓玩具之間的東西。"
+
+#. ~ Description for {'str': 'earthen roller'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A large, spherical blob the size of a large truck tire.  The outer layer has"
+" compacted itself into a solid shell; offering great resilience.  Having "
+"grown to full size, it seems content to simply sit there."
+msgstr "一個大型卡車輪胎大小的球形團塊。外層已壓實成堅固外殼；提供極強韌性。生長至完全尺寸後，它似乎滿足於僅僅待在那裡。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon; meant to be stretched across"
+" a frame as a form of barrier.  While its simpler cousins have a limit to "
+"the number of keratinous protrusions they can project and control; this blob"
+" can utilize hundreds of these sharp fangs to shred anything it detects as a"
+" threat into unrecognizable ribbons.  The amorphous mass can be shaped and "
+"attached at your touch, but the weapon itself is inert without something to "
+"control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器；設計用於拉伸覆蓋在框架上作為屏障。其較簡單的同類在可投射與控制的角質突起數量上有限制；而這團黏液能利用數百顆此類銳利尖牙，將任何它視為威脅之物撕碎成無法辨認的條狀物。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A rather picky eater, it "
+"feeds on chemicals found within gasoline.  The digestion process turns the "
+"result incredibly viscous which, when threats come near, is launched; "
+"ensnaring anything it hits.  The amorphous mass can be shaped and attached "
+"at your touch, but the weapon itself is inert without something to control "
+"it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。作為相當挑剔的食客，它以汽油中的化學物質為食。消化過程使產物變得極其粘稠，當威脅臨近時便會發射；纏住所擊中的一切。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A filter feeder, the "
+"digestion process produces highly acidic byproducts; which is then expelled "
+"at any nearby enemies.  The amorphous mass can be shaped and attached at "
+"your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。作為濾食者，其消化過程會產生高酸性副產物；隨後向附近任何敵人噴射。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#. ~ Description for {'str': 'oozing wheel'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"Filling an oozing mass with water has resulted in something that appears to "
+"be a cross between a wheel, an otherworldly abomination, and one of those "
+"old squeezy toys."
+msgstr "向一團滲流物質注水後，產生了某種看似介於輪子、異界怪物和那種老式擠壓玩具之間的東西。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid "amorphous heart"
+msgid_plural "amorphous hearts"
+msgstr[0] "不定形之心"
+
+#. ~ Description for {'str': 'amorphous heart'}
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"This amorphous mass seems to have finished developing; its advanced internal"
+" structures testifying to that.  It is capable of locomotion through "
+"internal hydraulic pressure, capable of moving substantial loads, and, in an"
+" astounding display of intelligence, is capable of manipulating anything "
+"it's attached to, whether blob-based or otherwise, through extended "
+"pseudopods.  You think you might be able to manipulate it, and through it, "
+"all its attached parts.  Though to do so you'll have to position yourself to"
+" be in contact with it; and it appears unnervingly willing to accommodate "
+"you…"
+msgstr ""
+"這團不定形物質似乎已完成發育；其先進的內在結構證明了這一點。它能通過內部液壓移動，可運載重物，並且以驚人的智能表現，能通過延伸的偽足操縱任何附著物，無論是黏液基還是其他類型。你認為或許可以操控它，並通過它操控所有連接部件。但要做到這點，你必須讓自己處於與之接觸的位置；而它似乎令人不安地樂於配合你……"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  Capable of calcifying large"
+" numbers of fang-like fragments within itself.  It hurls groups of these "
+"fragments along with a small portion of itself.  When it reaches its "
+"destination, the detached remains shoot these fragments in all directions, "
+"expiring in the process.  The amorphous mass can be shaped and attached at "
+"your touch, but the weapon itself is inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。能在體內鈣化大量尖牙狀碎片。它將成組碎片連同自身一小部分一同拋射。到達目的地後，分離的殘餘物會向四面八方發射這些碎片，自身隨之消亡。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  It can suck in water from a"
+" vehicle tank, and forcibly expel it in a wide cone.  The amorphous mass can"
+" be shaped and attached at your touch, but the weapon itself is inert "
+"without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。它能從車輛水箱中吸水，並強制以寬錐形噴射。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  Evolving incredible "
+"abilities of perception, it is capable of locating and discerning possible "
+"threats within a large radius.  When a potential threat is located, it fires"
+" a small, calcified projectile with incredible speed and accuracy.  The "
+"amorphous mass can be shaped and attached at your touch, but the weapon "
+"itself is inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。進化出驚人的感知能力，能在較大半徑內定位並識別潛在威脅。發現可能威脅時，它會以極高的速度和精度發射小型鈣化彈丸。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  An enhanced metabolism "
+"allows it to calcify large, toothy discs which are then launched towards any"
+" nearby threats.  The amorphous mass can be shaped and attached at your "
+"touch, but the weapon itself is inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。增強的新陳代謝使其能鈣化大型帶齒圓盤，隨後射向附近任何威脅。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  Shockingly, it somehow is "
+"able to project electricity, which it then discharges at any nearby threats."
+"  The amorphous mass can be shaped and attached at your touch, but the "
+"weapon itself is inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。令人震驚的是，它竟能投射電流，隨後向附近任何威脅釋放。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A filter feeder, it strips "
+"any water it processes of nutrients and expels the remainder towards any "
+"nearby threats.  The process of filter-feeding also makes the remaining "
+"liquid viscous, though it also dissipates fairly quickly.  The amorphous "
+"mass can be shaped and attached at your touch, but the weapon itself is "
+"inert without something to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。作為濾食者，它從處理的水中剝離養分，並將剩餘物噴向附近任何威脅。濾食過程也使剩餘液體變得粘稠，儘管消散得也相當快。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  A rather picky eater, it "
+"feeds on chemicals found within gasoline.  The digested material is still "
+"highly flammable, and when launched, also activates an ignition gland "
+"located on the outer membrane.  The amorphous mass can be shaped and "
+"attached at your touch, but the weapon itself is inert without something to "
+"control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。作為相當挑剔的食客，它以汽油中的化學物質為食。消化後的材料仍高度易燃，發射時還會激活位於外膜的引火腺體。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  It is capable of storing "
+"energy from sunlight inside itself in the form of electricity.  Then, in a "
+"truly baffling show of force, projects a highly concentrated stream of "
+"electricity towards any possible threats.  The amorphous mass can be shaped "
+"and attached at your touch, but the weapon itself is inert without something"
+" to control it."
+msgstr ""
+"一團活體黏液轉化而成的自主武器。它能以電能形式將太陽能儲存於體內。隨後，以真正令人困惑的力量展示，向任何可能威脅投射高度集中的電流束。這團不定形物質可隨你觸摸塑形並附著，但若無控制者，武器本身處於惰性狀態。"
+
+#: .\items\vehicle\blaze_gun.json
+msgid "modified Marlin 39A"
+msgid_plural "modified Marlin 39As"
+msgstr[0] "改裝型馬林39A"
+
+#: .\items\vehicle\blaze_gun.json
+msgid "A Marlin 39A, modified for use in a vehicle turret"
+msgstr "一支馬林39A步槍，經改裝適用於車輛炮塔"
+
+#: .\items\vehicle\blaze_gun.json
+msgid "modified SKS"
+msgid_plural "modified SKSs"
+msgstr[0] "改裝型SKS"
+
+#: .\items\vehicle\blaze_gun.json
+msgid "An SKS, modified to be suitable for use in a vehicle turret"
+msgstr "一支SKS步槍，經改裝適合用於車輛炮塔"
+
+#: .\items\vehicle\blaze_magazines.json
+msgid "BB hopper"
+msgid_plural "BB hoppers"
+msgstr[0] "BB彈料斗"
+
+#. ~ Description for {'str': 'BB hopper'}
+#. ~ Description for {'str': 'pebble hopper'}
+#: .\items\vehicle\blaze_magazines.json
+msgid ""
+"An improvised magazine for a vehicle mounted weapon.  A simple metal box "
+"with some plastic guide rails, it acts as a gravity fed hopper to drop a "
+"small round shot into the weapon's chamber below.  It is not very reliable, "
+"but quick to reload."
+msgstr "用於車載武器的簡易彈匣。一個帶塑料導軌的簡單金屬盒，作為重力供料斗將小型圓形彈丸落入下方武器膛室。可靠性不高，但裝填迅速。"
+
+#: .\items\vehicle\blaze_magazines.json
+msgid "bolt hopper"
+msgid_plural "bolt hoppers"
+msgstr[0] "弩箭料斗"
+
+#. ~ Description for {'str': 'bolt hopper'}
+#: .\items\vehicle\blaze_magazines.json
+msgid ""
+"An improvised magazine for a vehicle mounted crossbow.  A simple metal box "
+"with some plastic guide rails, it acts as a gravity fed hopper to drop a "
+"crossbow bolt into the weapon below.  It is awkward to reload and not "
+"especially reliable."
+msgstr "用於車載弩的簡易彈匣。一個帶塑料導軌的簡單金屬盒，作為重力供料斗將弩箭落入下方武器。裝填笨拙且可靠性一般。"
+
+#: .\items\vehicle\blaze_magazines.json
+msgid "canister rack"
+msgid_plural "canister racks"
+msgstr[0] "罐體支架"
+
+#. ~ Description for {'str': 'canister rack'}
+#: .\items\vehicle\blaze_magazines.json
+msgid ""
+"An improvised magazine for a vehicle mounted weapon.  A simple metal box "
+"with some plastic guide rails, it acts as a gravity fed hopper to drop a "
+"heavy canister into the weapon below.  It is awkward to reload and not "
+"especially reliable."
+msgstr "用於車載武器的簡易彈匣。一個帶塑料導軌的簡單金屬盒，作為重力供料斗將重型罐體落入下方武器。裝填笨拙且可靠性一般。"
+
+#: .\items\vehicle\blaze_magazines.json
+msgid "pebble hopper"
+msgid_plural "pebble hoppers"
+msgstr[0] "卵石料斗"
+
+#: .\items\vehicle\blaze_other.json
+msgid "vehicle shelving"
+msgid_plural "vehicle shelvings"
+msgstr[0] "車輛貨架"
+
+#. ~ Description for {'str': 'vehicle shelving'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"Several heavy frames retrofitted to be installed together which are "
+"outfitted with tie-downs and attachment points gallore for carrying an "
+"extended amount of cargo."
+msgstr "數個重型框架經改造可組合安裝，配備大量綁帶和連接點，用於承載大量貨物。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "MetalMaster forge buddy"
+msgid_plural "MetalMaster forge buddies"
+msgstr[0] "金屬大師鍛造夥伴"
+
+#. ~ Description for {'str': 'MetalMaster forge buddy', 'str_pl': 'MetalMaster
+#. forge buddies'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"From the makers of the best-selling* FOODCO kitchen buddy comes the "
+"MetalMaster forge buddy, for all your metalworking, firing, and welding "
+"needs!  It's just as clunky and awkward as the thing it's spinning off, and "
+"still requires a vehicle battery to function."
+msgstr "來自暢銷*FOODCO廚房夥伴製造商，金屬大師鍛造夥伴滿足你所有金屬加工、燒製和焊接需求！它和衍生原型一樣笨重不便，仍需車輛電池才能運作。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "KitchenMaster cooking buddy"
+msgid_plural "KitchenMaster cooking buddies"
+msgstr[0] "廚房大師烹飪夥伴"
+
+#. ~ Description for {'str': 'KitchenMaster cooking buddy', 'str_pl':
+#. 'KitchenMaster cooking buddies'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"Because it *clearly* needed one, this large all-in-one station provides the "
+"functions of FOODCO's kitchen buddy, now with complementary fume hoods and "
+"chemistry materials.  Why a chef would need a chemical rig is anyone's "
+"guess, but you can mount it on a vehicle to make use of it."
+msgstr ""
+"因為它*顯然*需要一個，這個大型一體化工作站提供了FOODCO廚房夥伴的功能，現在配有互補的通風罩和化學材料。為什麼廚師需要一個化學裝置誰也說不準，但你可以把它安裝在車輛上加以利用。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "cooking rig"
+msgid_plural "cooking rigs"
+msgstr[0] "烹飪裝置"
+
+#. ~ Description for {'str': 'cooking rig'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"Skillet, pot, hotplate, and chemistry set; everything you need to cook food "
+"and chemicals.  Includes proper fume vents and a separator, so you don't "
+"contaminate your food with toxic chemicals."
+msgstr "煎鍋、鍋、電爐和化學裝置；烹飪食物和化學品所需的一切。包含適當的通風口和分離器，因此你不會讓有毒化學品汙染食物。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "large steam engine"
+msgid_plural "large steam engines"
+msgstr[0] "大型蒸汽機"
+
+#. ~ Description for {'str': 'large steam engine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A large steam engine.  An integrated boiler burns coal to heat water into "
+"steam, driving a reciprocating shaft.  A condensor recaptures the water, "
+"making this a closed cycle system."
+msgstr "一臺大型蒸汽機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動往復軸。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "huge steam engine"
+msgid_plural "huge steam engines"
+msgstr[0] "巨型蒸汽機"
+
+#. ~ Description for {'str': 'huge steam engine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A huge steam engine.  An integrated boiler burns coal to heat water into "
+"steam, driving a reciprocating shaft.  A condensor recaptures the water, "
+"making this a closed cycle system."
+msgstr "一臺巨型蒸汽機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動往復軸。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "small steam turbine"
+msgid_plural "small steam turbines"
+msgstr[0] "小型蒸汽渦輪機"
+
+#. ~ Description for {'str': 'small steam turbine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A small steam turbine.  An integrated boiler burns coal to heat water into "
+"steam, driving a spinning turbine.  A condensor recaptures the water, making"
+" this a closed cycle system."
+msgstr "一臺小型蒸汽渦輪機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動旋轉渦輪。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "medium steam turbine"
+msgid_plural "medium steam turbines"
+msgstr[0] "中型蒸汽渦輪機"
+
+#. ~ Description for {'str': 'medium steam turbine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A medium sized steam turbine.  An integrated boiler burns coal to heat water"
+" into steam, driving a spinning turbine.  A condensor recaptures the water, "
+"making this a closed cycle system."
+msgstr "一臺中型蒸汽渦輪機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動旋轉渦輪。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "large steam turbine"
+msgid_plural "large steam turbines"
+msgstr[0] "大型蒸汽渦輪機"
+
+#. ~ Description for {'str': 'large steam turbine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A large steam turbine.  An integrated boiler burns coal to heat water into "
+"steam, driving a spinning turbine.  A condensor recaptures the water, making"
+" this a closed cycle system."
+msgstr "一臺大型蒸汽渦輪機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動旋轉渦輪。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "huge steam turbine"
+msgid_plural "huge steam turbines"
+msgstr[0] "巨型蒸汽渦輪機"
+
+#. ~ Description for {'str': 'huge steam turbine'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A huge steam turbine.  An integrated boiler burns coal to heat water into "
+"steam, driving a spinning turbine.  A condensor recaptures the water, making"
+" this a closed cycle system."
+msgstr "一臺巨型蒸汽渦輪機。集成鍋爐燃燒煤炭將水加熱成蒸汽，驅動旋轉渦輪。冷凝器回收水分，使其成為一個封閉循環系統。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "solar array"
+msgid_plural "solar arrays"
+msgstr[0] "太陽能陣列"
+
+#. ~ Description for {'str': 'solar array'}
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A vertical array of three solar panels set on a chassis rising above one "
+"another on a metal pole with rudimentary tracking and motors.  Due to the "
+"flimsy nature of the hydraulics and high surface area profile to maximize "
+"sunlight, they can't really be installed onto an existing vehicle.  Requires"
+" a jumper cable or similar to pull power from."
+msgstr ""
+"一個垂直陣列，由三塊太陽能板組成，安裝在一個底盤上，通過金屬桿依次升高，配有基本的追蹤和電機。由於液壓系統脆弱且表面積大以最大化陽光吸收，它們無法真正安裝在現有車輛上。需要跳線或類似設備來獲取電力。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "reinforced solar array"
+msgid_plural "reinforced solar arrays"
+msgstr[0] "加固太陽能陣列"
+
+#. ~ Description for {'str': 'reinforced solar array'}
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A vertical array of three reinforced solar panels set on a chassis rising "
+"above one another on a metal pole with rudimentary tracking and motors.  Due"
+" to the flimsy nature of the hydraulics and high surface area profile to "
+"maximize sunlight, they can't really be installed onto an existing vehicle."
+"  Requires a jumper cable or similar to pull power from."
+msgstr ""
+"一個垂直陣列，由三塊加固太陽能板組成，安裝在一個底盤上，通過金屬桿依次升高，配有基本的追蹤和電機。由於液壓系統脆弱且表面積大以最大化陽光吸收，它們無法真正安裝在現有車輛上。需要跳線或類似設備來獲取電力。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "upgraded solar array"
+msgid_plural "upgraded solar arrays"
+msgstr[0] "升級太陽能陣列"
+
+#. ~ Description for {'str': 'upgraded solar array'}
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A vertical array of three upgraded solar panels set on a chassis rising "
+"above one another on a metal pole with rudimentary tracking and motors.  Due"
+" to the flimsy nature of the hydraulics and high surface area profile to "
+"maximize sunlight, they can't really be installed onto an existing vehicle."
+"  Requires a jumper cable or similar to pull power from."
+msgstr ""
+"一個垂直陣列，由三塊升級太陽能板組成，安裝在一個底盤上，通過金屬桿依次升高，配有基本的追蹤和電機。由於液壓系統脆弱且表面積大以最大化陽光吸收，它們無法真正安裝在現有車輛上。需要跳線或類似設備來獲取電力。"
+
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid "upgraded reinforced solar array"
+msgid_plural "upgraded reinforced solar arrays"
+msgstr[0] "升級加固太陽能陣列"
+
+#. ~ Description for {'str': 'upgraded reinforced solar array'}
+#: .\items\vehicle\blaze_other.json .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A vertical array of three upgraded reinforced solar panels set on a chassis "
+"rising above one another on a metal pole with rudimentary tracking and "
+"motors.  Due to the flimsy nature of the hydraulics and high surface area "
+"profile to maximize sunlight, they can't really be installed onto an "
+"existing vehicle.  Requires a jumper cable or similar to pull power from."
+msgstr ""
+"一個垂直陣列，由三塊升級加固太陽能板組成，安裝在一個底盤上，通過金屬桿依次升高，配有基本的追蹤和電機。由於液壓系統脆弱且表面積大以最大化陽光吸收，它們無法真正安裝在現有車輛上。需要跳線或類似設備來獲取電力。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "Rubber Caterpillar Track"
+msgid_plural "Rubber Caterpillar Tracks"
+msgstr[0] "橡膠履帶"
+
+#. ~ Description for {'str': 'Rubber Caterpillar Track'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A short, interlocking set of hard rubber tracks reinforced by stiff wire "
+"held in place by a set of smaller wheels.  Similar with what you might see "
+"used on light construction vehicles.  It's significantly stronger than "
+"regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+"一套短的、互鎖的硬橡膠履帶，由硬線加固，通過一組小輪子固定。類似於你可能在輕型工程車輛上看到的那種。由於沒有爆胎風險，它比普通輪胎堅固得多；但相當重。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "Steel Caterpillar Track"
+msgid_plural "Steel Caterpillar Tracks"
+msgstr[0] "鋼製履帶"
+
+#. ~ Description for {'str': 'Steel Caterpillar Track'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on large construction "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is very heavy."
+msgstr "一套短的、互鎖的成型鋼履帶，通過一組小輪子固定。類似於你可能在大型工程車輛上看到的那種。由於沒有爆胎風險，它比普通輪胎堅固得多；但非常重。"
+
+#: .\items\vehicle\blaze_other.json
+msgid "Reinforced Caterpillar Track"
+msgid_plural "Reinforced Caterpillar Tracks"
+msgstr[0] "加固履帶"
+
+#. ~ Description for {'str': 'Reinforced Caterpillar Track'}
+#: .\items\vehicle\blaze_other.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on APCs and armored "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is extremely heavy."
+msgstr ""
+"一套短的、互鎖的成型鋼履帶，通過一組小輪子固定。類似於你可能在裝甲運兵車和裝甲車輛上看到的那種。由於沒有爆胎風險，它比普通輪胎堅固得多；但極其重。"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted slingshot cannon turret"
+msgstr "安裝式彈弓炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted lacerator turret"
+msgstr "車載撕裂者炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted rotary cannon turret"
+msgstr "車載轉輪機炮炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted laser cannon turret"
+msgstr "車載激光炮炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted pulse laser turret"
+msgstr "車載脈衝激光炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted turbolaser turret"
+msgstr "車載渦輪激光炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted ripper turret"
+msgstr "車載撕裂炮炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted scorpion ballista turret"
+msgstr "車載蠍式弩炮炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted speargun turret"
+msgstr "車載矛槍炮塔"
+
+#: .\vehicleparts\blaze_custom_turret.json
+msgid "mounted tesla cannon turret"
+msgstr "車載特斯拉炮炮塔"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A closed cycle, external combustion steam turbine.  Burns coal from a bunker"
+" in the vehicle to produce steam."
+msgstr "一種閉式循環、外燃式蒸汽輪機。燃燒車輛燃料艙中的煤炭以產生蒸汽。"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid "cargo shelving"
+msgstr "貨架"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid "rubber treads"
+msgstr "橡膠履帶"
+
+#. ~ Description for {'str': 'rubber treads'}
+#. ~ Description for {'str': 'steel treads'}
+#. ~ Description for {'str': 'tank treads'}
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A section of continuous track, the kind mounted on construction vehicles and"
+" military fighting vehicles.  It acts as a wheel, and the broad surface "
+"provides plenty of traction to move heavy vehicles off-road, but at the cost"
+" of speed due to the heavy weight."
+msgstr ""
+"一段連續履帶，安裝在工程車輛和軍用戰鬥車輛上的那種。它起到車輪的作用，寬闊的表面提供了充足的牽引力，使重型車輛能夠越野行駛，但由於重量大，會犧牲速度。"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid "steel treads"
+msgstr "鋼製履帶"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid "tank treads"
+msgstr "坦克履帶"
+
+#: .\vehicleparts\blaze_other_parts.json
+msgid "wiring"
+msgstr "電線"
+
+#. ~ Description for {'str': 'wiring'}
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A length of heavy duty copper wire, useful for routing power from one part "
+"of a vehicle to another part."
+msgstr "一段重型銅線，用於將電力從車輛的一個部分輸送到另一個部分。"
+
+#. ~ Description for {'str': 'MetalMaster forge buddy'}
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"A welding and metalworking station, powered by the vehicle's battery.  "
+"'e'xamine the forge rig to utilize its welder or soldering iron; you'll "
+"still need glare protection."
+msgstr "一個焊接和金屬加工站，由車輛電池供電。'e'鍵檢查鍛造臺以使用其焊槍或烙鐵；你仍需要防眩光保護。"
+
+#. ~ Description for {'str': 'cooking rig'}
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"An all-in-one kitchen unit and chemistry lab.  'e'xamine it to use its "
+"hotplate to heat up food or drinks."
+msgstr "一個一體式廚房單元和化學實驗室。'e'鍵檢查它以使用其電爐加熱食物或飲料。"
+
+#. ~ Description for {'str': 'KitchenMaster cooking buddy'}
+#: .\vehicleparts\blaze_other_parts.json
+msgid ""
+"An all-in-one kitchen unit, chemistry lab, and food preparation area.  "
+"'e'xamine it to use its hotplate to heat up food or drinks."
+msgstr "一個一體式廚房單元、化學實驗室和食品準備區。'e'鍵檢查它以使用其電爐加熱食物或飲料。"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted TDI Vector"
+msgstr "車載TDI Vector"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Remington ACR"
+msgstr "車載Remington ACR"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted AK47"
+msgstr "車載AK47"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted AK74"
+msgstr "車載AK74"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted American-180"
+msgstr "車載American-180"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted AN94"
+msgstr "車載AN94"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted AR-15"
+msgstr "車載AR-15"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted blunderbuss"
+msgstr "車載大口徑短槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Browning BLR"
+msgstr "車載Browning BLR"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Calico M960"
+msgstr "車載Calico M960"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted flintlock carbine"
+msgstr "架裝燧髮卡賓槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Cx4 Storm"
+msgstr "架裝Cx4風暴"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted flamethrower"
+msgstr "架裝火焰噴射器"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM451 flamethrower"
+msgstr "架裝RM451火焰噴射器"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted FN FAL"
+msgstr "架裝FN FAL"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted FN P90"
+msgstr "架裝FN P90"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K 416A5"
+msgstr "架裝H&K 416A5"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K G3"
+msgstr "架裝H&K G3"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K G36"
+msgstr "架裝H&K G36"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K G80"
+msgstr "架裝H&K G80"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K MP5"
+msgstr "架裝H&K MP5"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K MP7"
+msgstr "架裝H&K MP7"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted H&K UMP45"
+msgstr "架裝H&K UMP45"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Kel-Tec KSG"
+msgstr "架裝Kel-Tec KSG"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Tavor TS12"
+msgstr "架裝Tavor TS12"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted 40mm launcher"
+msgstr "架裝40毫米榴彈發射器"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M1014 shotgun"
+msgstr "架裝M1014霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Barrett M107A1"
+msgstr "架裝巴雷特M107A1"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M14-EBR"
+msgstr "架裝M14-EBR"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M1A"
+msgstr "架裝M1A"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M2010 ESR"
+msgstr "架裝M2010 ESR"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M27 IAR"
+msgstr "架裝M27 IAR"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted .50 caliber"
+msgstr "架裝.50口徑"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M320"
+msgstr "架裝M320"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M4A1"
+msgstr "架裝M4A1"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M60"
+msgstr "架裝M60"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted M79"
+msgstr "架裝M79"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted MAC-10"
+msgstr "架裝MAC-10"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Marlin 39A"
+msgstr "架裝馬林39A"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Milkor MGL"
+msgstr "架裝Milkor MGL"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Mossberg 500"
+msgstr "架設型莫斯伯格500"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted double pipe shotgun"
+msgstr "架設型雙管霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted pipe shotgun"
+msgstr "架設型管式霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Remington 700"
+msgstr "架設型雷明頓700"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Remington 870"
+msgstr "架設型雷明頓870"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted repeating crossbow"
+msgstr "架設型連發弩"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted revolver shotgun"
+msgstr "架設型轉輪霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted .22 pipe rifle"
+msgstr "架設型.22口徑管式步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted 7.62x51mm pipe rifle"
+msgstr "架設型7.62x51毫米管式步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted 9x19mm pipe rifle"
+msgstr "架設型9x19毫米管式步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted flintlock rifle"
+msgstr "架設型燧發步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM11B scout rifle"
+msgstr "架設型RM11B偵察步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM2000 SMG"
+msgstr "架設型RM2000衝鋒槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM51 assault rifle"
+msgstr "架設型RM51突擊步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM614 LMG"
+msgstr "架設型RM614輕機槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM802"
+msgstr "架設型RM802"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted RM88 battle rifle"
+msgstr "架設型RM88戰鬥步槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Ruger 10/22"
+msgstr "架設型魯格10/22"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Ruger mini-14"
+msgstr "架設型魯格迷你-14"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Saiga 12"
+msgstr "架設型賽加12"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Savage 111F"
+msgstr "架設型薩維奇111F"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted FN SCAR-H"
+msgstr "架設型FN SCAR-H"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted FN SCAR-L"
+msgstr "架設型FN SCAR-L"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted double shotgun"
+msgstr "架設型雙管霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted single shotgun"
+msgstr "架設型單管霰彈槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted SKS"
+msgstr "架設型SKS"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Steyr AUG"
+msgstr "架設型斯泰爾AUG"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted 5.56x45mm carbine"
+msgstr "架設型5.56x45毫米卡賓槍"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted TEC-9"
+msgstr "架設型TEC-9"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted Uzi"
+msgstr "架設型烏茲"
+
+#: .\vehicleparts\blaze_turrets_vanilla.json
+msgid "mounted V29 laser"
+msgstr "車載V29激光炮"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "TDI Vector turret"
+msgstr "TDI Vector炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "storm bolter turret"
+msgstr "風暴爆彈炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "slingshot cannon turret"
+msgstr "彈弓加農炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Remington ACR turret"
+msgstr "雷明頓ACR炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "rotary cannon turret"
+msgstr "轉輪機炮炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "AK47 turret"
+msgstr "AK47炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "AK74 turret"
+msgstr "AK74炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "laser cannon turret"
+msgstr "激光加農炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "pulse laser turret"
+msgstr "脈衝激光炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "turbolaser turret"
+msgstr "渦輪激光炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "American-180 turret"
+msgstr "American-180炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "AN94 turret"
+msgstr "AN94炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "perforator turret"
+msgstr "穿孔者炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "needler turret"
+msgstr "針刺槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "AR-15 turret"
+msgstr "AR-15炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "hypervelocity driver turret"
+msgstr "超高速驅動器炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "ripper turret"
+msgstr "撕裂者炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "scorpion turret"
+msgstr "蠍式炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "splintergun turret"
+msgstr "裂片槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "tesla turret"
+msgstr "特斯拉炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "avalanche turret"
+msgstr "雪崩炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "autoshotgun turret"
+msgstr "自動霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "blunderbuss turret"
+msgstr "大口徑短槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Browning BLR turret"
+msgstr "勃朗寧BLR炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Calico M960 turret"
+msgstr "Calico M960炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock carbine turret"
+msgstr "燧髮卡賓槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "coilgun turret"
+msgstr "線圈炮炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "lacerator turret"
+msgstr "撕裂者炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Cx4 Storm turret"
+msgstr "Cx4 Storm炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "flamethrower turret"
+msgstr "火焰噴射器炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM451 flamethrower turret"
+msgstr "RM451 火焰噴射器炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "FN FAL turret"
+msgstr "FN FAL 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "FN P90 turret"
+msgstr "FN P90 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K 416A5 turret"
+msgstr "H&K 416A5 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "heavy rail rifle turret"
+msgstr "重型軌道步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G3 turret"
+msgstr "H&K G3 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G36 turret"
+msgstr "H&K G36 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K G80 turret"
+msgstr "H&K G80 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP5 turret"
+msgstr "H&K MP5 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K MP7 turret"
+msgstr "H&K MP7 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "H&K UMP45 turret"
+msgstr "H&K UMP45 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Kel-Tec KSG turret"
+msgstr "Kel-Tec KSG 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Tavor TS12 turret"
+msgstr "Tavor TS12 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "40mm launcher turret"
+msgstr "40毫米榴彈發射器炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M1014 shotgun turret"
+msgstr "M1014 霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Barrett M107A1 turret"
+msgstr "Barrett M107A1 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M14-EBR turret"
+msgstr "M14-EBR 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M1A turret"
+msgstr "M1A 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M2010 ESR turret"
+msgstr "M2010 ESR 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M27 IAR turret"
+msgstr "M27 IAR 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid ".50 caliber turret"
+msgstr ".50 口徑炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M320 turret"
+msgstr "M320 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M4A1 turret"
+msgstr "M4A1 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "M79 turret"
+msgstr "M79 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "MAC-10 turret"
+msgstr "MAC-10 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Marlin 39A turret"
+msgstr "Marlin 39A 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Milkor MGL turret"
+msgstr "Milkor MGL 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Mossberg 500 turret"
+msgstr "Mossberg 500 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "nail rifle turret"
+msgstr "釘槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM216 SPIW turret"
+msgstr "RM216 SPIW 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "double pipe shotgun turret"
+msgstr "雙管霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "pipe shotgun turret"
+msgstr "管式霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "rail rifle turret"
+msgstr "軌道步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 700 turret"
+msgstr "雷明頓 700 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Remington 870 turret"
+msgstr "雷明頓 870 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "repeating crossbow turret"
+msgstr "連發弩炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "revolver shotgun turret"
+msgstr "轉輪霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid ".22 pipe rifle turret"
+msgstr ".22 管式步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "7.62x51mm pipe rifle turret"
+msgstr "7.62x51mm 管式步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "9x19mm pipe rifle turret"
+msgstr "9x19mm 管式步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "flintlock rifle turret"
+msgstr "燧發步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM11B scout rifle turret"
+msgstr "RM11B 偵察步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM2000 SMG turret"
+msgstr "RM2000 衝鋒槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM51 assault rifle turret"
+msgstr "RM51 突擊步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM614 LMG turret"
+msgstr "RM614 輕機槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM802 turret"
+msgstr "RM802 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "RM88 battle rifle turret"
+msgstr "RM88 戰鬥步槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "rotary speargun turret"
+msgstr "旋轉魚槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger 10/22 turret"
+msgstr "魯格 10/22 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Ruger mini-14 turret"
+msgstr "魯格迷你-14 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Saiga 12 turret"
+msgstr "賽加 12 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Savage 111F turret"
+msgstr "薩維奇 111F 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "FN SCAR-H turret"
+msgstr "FN SCAR-H 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "FN SCAR-L turret"
+msgstr "FN SCAR-L 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "double shotgun turret"
+msgstr "雙管霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "single shotgun turret"
+msgstr "單管霰彈槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "SKS turret"
+msgstr "SKS 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "speargun turret"
+msgstr "魚槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Steyr AUG turret"
+msgstr "斯泰爾 AUG 炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "5.56x45mm carbine turret"
+msgstr "5.56x45毫米卡賓槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "TEC-9 turret"
+msgstr "TEC-9炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "Uzi turret"
+msgstr "烏茲衝鋒槍炮塔"
+
+#: .\vehicleparts\blaze_weapons_parts.json
+msgid "V29 laser turret"
+msgstr "V29激光炮塔"

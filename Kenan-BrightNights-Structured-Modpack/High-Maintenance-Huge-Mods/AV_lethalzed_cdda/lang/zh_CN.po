@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: av_lethalzeds\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s bites as it grasps at you!"
+msgstr "%1$s 在抓住你时咬了一口！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s bites <npcname>!"
+msgstr "%1$s 咬了 <npcname> 一口！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s tries to bite you, but fails to penetrate your armor!"
+msgstr "%1$s 试图咬你，但未能穿透你的护甲！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s tries to bite <npcname>, but fails to penetrate their armor!"
+msgstr "%1$s 试图咬 <npcname>，但未能穿透其护甲！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s scratches you!"
+msgstr "%1$s 抓伤了你！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s scratches <npcname>!"
+msgstr "%1$s 抓伤了 <npcname>！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s tries to scratch you, but fails to penetrate your armor!"
+msgstr "%1$s 试图抓你，但未能穿透你的护甲！"
+
+#: .\+lethalzed_atks.json
+msgid ""
+"The %1$s tries to scratch <npcname>, but fails to penetrate their armor!"
+msgstr "%1$s 试图抓 <npcname>，但未能穿透其护甲！"
+
+#: .\+lethalzed_atks.json
+msgid "You were brought down by the %1$s's staggering charge!"
+msgstr "你被 %1$s 的猛烈冲撞击倒了！"
+
+#: .\+lethalzed_atks.json
+msgid "<npcname> were brought down into the floor!"
+msgstr "<npcname> 被击倒在地！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s charges at you, but you bat them away!"
+msgstr "%1$s 向你冲来，但你将其挡开！"
+
+#: .\+lethalzed_atks.json
+msgid "The %1$s charges at <npcname>, but they bat them away!"
+msgstr "%1$s 向 <npcname> 冲去，但被其挡开！"
+
+#: .\+lethalzed_atks.json
+msgid "You were brought down by the %1$s's charge!"
+msgstr "你被 %1$s 的冲撞击倒了！"
+
+#: .\+lethalzed_atks.json
+msgid "You were brought down by the %1$s's destructive charge!"
+msgstr "你被 %1$s 的毁灭性冲撞击倒了！"
+
+#: .\modinfo.json
+msgid "<color_light_red>Lethal Zeds</color>"
+msgstr "<color_light_red>致命丧尸</color>"
+
+#. ~ Description for <color_light_red>Lethal Zeds</color>
+#: .\modinfo.json
+msgid "Makes vanilla zeds deadly/annoying in combat."
+msgstr "使原版丧尸在战斗中变得致命/烦人。"

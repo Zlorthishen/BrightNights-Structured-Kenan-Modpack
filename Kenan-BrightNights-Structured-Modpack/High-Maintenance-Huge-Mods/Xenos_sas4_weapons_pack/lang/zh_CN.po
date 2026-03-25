@@ -1,0 +1,2055 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Xeno_SAS4\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Xeno's SAS4 weapons pack"
+msgstr "Xeno的SAS4武器包"
+
+#. ~ Description for Xeno's SAS4 weapons pack
+#: .\modinfo.json
+msgid ""
+"Adds all the weapons included inside the game SAS4 Zombie assault, only the "
+"base quality is present (aka, no red, no black), please do consider that "
+"these weapons are not a property of mine, and as that they belong to "
+"NInjaKiwi. all of these weapons are a work of finction, and are not in any "
+"way related to real guns, launchers or weapons."
+msgstr ""
+"添加了游戏SAS4僵尸突击中的所有武器，仅包含基础品质（即无红色、无黑色）。请注意，这些武器并非我的财产，它们属于NinjaKiwi。所有武器均为虚构作品，与真实枪支、发射器或武器无任何关联。"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 10 Magazine"
+msgid_plural "Z-AT 10 Magazines"
+msgstr[0] "Z-AT 10发弹匣"
+
+#. ~ Description for {'str': 'Z-AT 10 Magazine'}
+#. ~ Description for {'str': 'Z-AT 25 Magazine'}
+#. ~ Description for {'str': 'Z-AT 40 Magazine'}
+#. ~ Description for {'str': 'Z-AT 50 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Z-Arm Tech</info> <color_yellow>magazine</color>, colored black with a sleek square metal finish. it's held together by duct tape and will probably <bad>work pretty badly</bad>.\n"
+"Z-AT's logo is printed on the side of the magazine and will probably only work with Z-AT's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Z-Arm Tech</info><color_yellow>弹匣</color>，黑色涂装，带有光滑的方形金属饰面。由胶带固定，可能<bad>性能相当糟糕</bad>。\n"
+"Z-AT的徽标印在弹匣侧面，可能仅适用于Z-AT的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 25 Magazine"
+msgid_plural "Z-AT 25 Magazines"
+msgstr[0] "Z-AT 25发弹匣"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 40 Magazine"
+msgid_plural "Z-AT 40 Magazines"
+msgstr[0] "Z-AT 40发弹匣"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 50 Magazine"
+msgid_plural "Z-AT 50 Magazines"
+msgstr[0] "Z-AT 50发弹匣"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 65 Magazine"
+msgid_plural "Z-AT 65 Magazines"
+msgstr[0] "Z-AT 65发弹匣"
+
+#. ~ Description for {'str': 'Z-AT 65 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Z-Arm Tech</info> <color_yellow>magazine</color>, colored black with a sleek square slightly curved metal finish. it's held together by duct tape and will probably <bad>work pretty badly</bad>.\n"
+"Z-AT's logo is printed on the side of the magazine and will probably only work with Z-AT's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Z-Arm Tech</info><color_yellow>弹匣</color>，黑色涂装，带有光滑的方形微弯金属饰面。由胶带固定，可能<bad>性能相当糟糕</bad>。\n"
+"Z-AT的徽标印在弹匣侧面，可能仅适用于Z-AT的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 80 Magazine"
+msgid_plural "Z-AT 80 Magazines"
+msgstr[0] "Z-AT 80发弹匣"
+
+#. ~ Description for {'str': 'Z-AT 80 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Z-Arm Tech</info> <color_yellow>magazine</color>, colored black with a sleek square really curver metal finish. it's held together by duct tape and will probably <bad>work pretty badly</bad>.\n"
+"Z-AT's logo is printed on the side of the magazine and will probably only work with Z-AT's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Z-Arm Tech</info><color_yellow>弹匣</color>，黑色涂装，带有光滑的方形高度弯曲金属饰面。由胶带固定，可能<bad>性能相当糟糕</bad>。\n"
+"Z-AT的徽标印在弹匣侧面，可能仅适用于Z-AT的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 100 Ammo Box"
+msgid_plural "Z-AT 100 Ammo Boxs"
+msgstr[0] "Z-AT 100发弹药箱"
+
+#. ~ Description for {'str': 'Z-AT 100 Ammo Box'}
+#: .\xeno_magazine.json
+msgid ""
+"<info>Z-Arm Tech</info> <color_yellow>Ammo Box</color>, colored black. it's held together by duct tape and will probably work pretty badly.\n"
+"Z-AT's logo is printed on the side of the ammo box and will probably only work with Z-AT's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"<info>Z-Arm Tech</info><color_yellow>弹药箱</color>，黑色涂装。由胶带固定，可能性能相当糟糕。\n"
+"Z-AT的徽标印在弹药箱侧面，可能仅适用于Z-AT的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 120 Ammo Box"
+msgid_plural "Z-AT 120 Ammo Boxs"
+msgstr[0] "Z-AT 120发弹药箱"
+
+#. ~ Description for {'str': 'Z-AT 120 Ammo Box'}
+#. ~ Description for {'str': 'Z-AT 140 Ammo Box'}
+#: .\xeno_magazine.json
+msgid ""
+"<info>Z-Arm Tech</info> <color_yellow>ammo box</color>, colored black. it's held together by duct tape and will probably work pretty badly.\n"
+"Z-AT's logo is printed on the side of the ammo box and will probably only work with Z-AT's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"<info>Z-Arm Tech</info><color_yellow>弹药箱</color>，黑色涂装。由胶带固定，可能性能相当糟糕。\n"
+"Z-AT的徽标印在弹药箱侧面，可能仅适用于Z-AT的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Z-AT 140 Ammo Box"
+msgid_plural "Z-AT 140 Ammo Boxs"
+msgstr[0] "Z-AT 140发弹药箱"
+
+#: .\xeno_magazine.json
+msgid "HVM 25 Magazine"
+msgid_plural "HVM 25 Magazines"
+msgstr[0] "HVM 25发弹匣"
+
+#. ~ Description for {'str': 'HVM 25 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with a sleek square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>High Value Metrics</info><color_yellow>弹匣</color>，黑色涂装，带有光滑的方形金属饰面。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 50 Magazine"
+msgid_plural "HVM 50 Magazines"
+msgstr[0] "HVM 50发弹匣"
+
+#. ~ Description for {'str': 'HVM 50 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with a sleek long square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>高价值指标</info><color_yellow>弹匣</color>，采用黑色光滑长条形金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 75 Magazine"
+msgid_plural "HVM 75 Magazines"
+msgstr[0] "HVM 75发弹匣"
+
+#. ~ Description for {'str': 'HVM 75 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with a sleek long, slightly curved square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>高价值指标</info><color_yellow>弹匣</color>，采用黑色光滑长条形、略带弧度的方形金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 100 Magazine"
+msgid_plural "HVM 100 Magazines"
+msgstr[0] "HVM 100发弹匣"
+
+#. ~ Description for {'str': 'HVM 100 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with a sleek long, curved square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>高价值指标</info><color_yellow>弹匣</color>，采用黑色光滑长条形、弧形方形金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 2x50 Magazine"
+msgid_plural "HVM 2x50 Magazines"
+msgstr[0] "HVM 2x50发弹匣"
+
+#. ~ Description for {'str': 'HVM 2x50 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"double-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with a sleek long square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"双排<info>高价值指标</info><color_yellow>弹匣</color>，采用黑色光滑长条形金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 2x100 Magazine"
+msgid_plural "HVM 2x100 Magazines"
+msgstr[0] "HVM 2x100发弹匣"
+
+#. ~ Description for {'str': 'HVM 2x100 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"double-stack <info>High Value Metrics</info> <color_yellow>magazine</color>, colored black with sleek long, curved square metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"双排<info>高价值指标</info><color_yellow>弹匣</color>，采用黑色光滑长条形、弧形方形金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 180 Magazine"
+msgid_plural "HVM 180 Magazines"
+msgstr[0] "HVM 180发弹匣"
+
+#. ~ Description for {'str': 'HVM 180 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single belt <info>High Value Metrics</info> drum <color_yellow>magazine</color>, colored black with a sleek sculpted metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单链<info>高价值指标</info>鼓式<color_yellow>弹匣</color>，采用黑色光滑雕刻金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "HVM 2x180 Magazine"
+msgid_plural "HVM 2x180 Magazines"
+msgstr[0] "HVM 2x180发弹匣"
+
+#. ~ Description for {'str': 'HVM 2x180 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"big and bulky single belt <info>High Value Metrics</info> double drum <color_yellow>magazine</color>, colored black with a sleek sulpted metal finish.\n"
+"HVM's logo is printed on the side of the magazine and will probably only work with HVM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"庞大笨重的单链<info>高价值指标</info>双鼓<color_yellow>弹匣</color>，采用黑色光滑雕刻金属表面处理。\n"
+"HVM的徽标印在弹匣侧面，可能仅适用于HVM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Ronson 10 .45 Magazine"
+msgid_plural "Ronson 10 .45 Magazines"
+msgstr[0] "Ronson 10发 .45弹匣"
+
+#. ~ Description for {'str': 'Ronson 10 .45 Magazine'}
+#. ~ Description for {'str': 'Ronson 15 .45 Magazine'}
+#. ~ Description for {'str': 'Ronson 20 .45 Magazine'}
+#. ~ Description for {'str': 'Ronson 20 7.62x39mm Magazine'}
+#. ~ Description for {'str': 'Ronson 30 7.62x39mm Magazine'}
+#. ~ Description for {'str': 'Ronson 40 7.62x39mm Magazine'}
+#. ~ Description for {'str': 'Ronson 50 7.62x39mm Magazine'}
+#. ~ Description for {'str': 'Ronson 60 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Ronson</info> <color_yellow>magazine</color>, colored black with a sleek metal finish.\n"
+"Ronson's logo is printed on the side of the magazine and will probably only work with Ronson's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Ronson</info><color_yellow>弹匣</color>，采用黑色光滑金属表面处理。\n"
+"Ronson的徽标印在弹匣侧面，可能仅适用于Ronson的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Ronson 15 .45 Magazine"
+msgid_plural "Ronson 15 .45 Magazines"
+msgstr[0] "Ronson 15发 .45弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 20 .45 Magazine"
+msgid_plural "Ronson 20 .45 Magazines"
+msgstr[0] "Ronson 20发 .45弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 20 .50 BMG Magazine"
+msgid_plural "Ronson 20 .50 BMG Magazines"
+msgstr[0] "Ronson 20发 .50 BMG弹匣"
+
+#. ~ Description for {'str': 'Ronson 20 .50 BMG Magazine'}
+#. ~ Description for {'str': 'Ronson 30 .50 BMG Magazine'}
+#. ~ Description for {'str': 'Ronson 40 .50 BMG Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Ronson</info> <color_yellow>magazine</color>, colored black with a sleek metal finish.\n"
+"this magazine is specially thick to hold .50 BMG type of ammunition\n"
+"Ronson's logo is printed on the side of the magazine and will probably only work with Ronson's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Ronson</info><color_yellow>弹匣</color>，采用黑色光滑金属表面处理。\n"
+"此弹匣特别加厚以容纳.50 BMG类型弹药。\n"
+"Ronson的徽标印在弹匣侧面，可能仅适用于Ronson的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Ronson 30 .50 BMG Magazine"
+msgid_plural "Ronson 30 .50 BMG Magazines"
+msgstr[0] "Ronson 30发 .50 BMG弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 40 .50 BMG Magazine"
+msgid_plural "Ronson 40 .50 BMG Magazines"
+msgstr[0] "Ronson 40发 .50 BMG弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 60 .50 BMG Magazine"
+msgid_plural "Ronson 60 .50 BMG Magazines"
+msgstr[0] "Ronson 60发 .50 BMG弹匣"
+
+#. ~ Description for {'str': 'Ronson 60 .50 BMG Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Ronson</info> round <color_yellow>magazine</color>, colored black with a sleek metal finish.\n"
+"this magazine is specially thick to hold .50 BMG type of ammunition\n"
+"Ronson's logo is printed on the side of the magazine and will probably only work with Ronson's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Ronson</info>圆形<color_yellow>弹匣</color>，采用黑色光滑金属表面处理。\n"
+"此弹匣特别加厚以容纳.50 BMG类型弹药。\n"
+"Ronson的徽标印在弹匣侧面，可能仅适用于Ronson的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Ronson 100 .50 BMG Magazine"
+msgid_plural "Ronson 100 .50 BMG Magazines"
+msgstr[0] "Ronson 100发 .50 BMG弹匣"
+
+#. ~ Description for {'str': 'Ronson 100 .50 BMG Magazine'}
+#. ~ Description for {'str': 'Ronson 120 .50 BMG Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Ronson</info> circular <color_yellow>magazine</color>, colored black with a sleek metal finish.\n"
+"this magazine is specially thick to hold .50 BMG type of ammunition\n"
+"Ronson's logo is printed on the side of the magazine and will probably only work with Ronson's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Ronson</info>环形<color_yellow>弹匣</color>，采用黑色光滑金属表面处理。\n"
+"此弹匣特别加厚以容纳.50 BMG类型弹药。\n"
+"Ronson的徽标印在弹匣侧面，可能仅适用于Ronson的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Ronson 120 .50 BMG Magazine"
+msgid_plural "Ronson 120 .50 BMG Magazines"
+msgstr[0] "Ronson 120发 .50 BMG弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 20 7.62x39mm Magazine"
+msgid_plural "Ronson 20 7.62x39mm Magazines"
+msgstr[0] "Ronson 20发 7.62x39mm弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 30 7.62x39mm Magazine"
+msgid_plural "Ronson 30 7.62x39mm Magazines"
+msgstr[0] "Ronson 30发 7.62x39mm弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 40 7.62x39mm Magazine"
+msgid_plural "Ronson 40 7.62x39mm Magazines"
+msgstr[0] "Ronson 40发 7.62x39mm弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 50 7.62x39mm Magazine"
+msgid_plural "Ronson 50 7.62x39mm Magazines"
+msgstr[0] "Ronson 50发 7.62x39mm弹匣"
+
+#: .\xeno_magazine.json
+msgid "Ronson 60 7.62x39mm Magazine"
+msgid_plural "Ronson 60 7.62x39mm Magazines"
+msgstr[0] "Ronson 60 7.62x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 20 9mm Magazine"
+msgid_plural "RIA 20 9mm Magazines"
+msgstr[0] "RIA 20 9毫米弹匣"
+
+#. ~ Description for {'str': 'RIA 20 9mm Magazine'}
+#. ~ Description for {'str': 'RIA 30 9mm Magazine'}
+#. ~ Description for {'str': 'RIA 22 .44 Magazine'}
+#. ~ Description for {'str': 'RIA 45 5.7x28mm Magazine'}
+#. ~ Description for {'str': 'RIA 45 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Rubicon Industries</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"RI's logo is printed on the side of the magazine and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Rubicon Industries</info><color_yellow>弹匣</color>，黑色涂装，带有雕刻金属质感。\n"
+"RI的徽标印在弹匣侧面，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 10 9mm Speed Loader Magazine"
+msgid_plural "RIA 10 9mm Speed Loader Magazines"
+msgstr[0] "RIA 10 9毫米快速装填弹匣"
+
+#. ~ Description for {'str': 'RIA 10 9mm Speed Loader Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Rubicon Industries</info> Speed Loader <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"RI's logo is printed on the side of the magazine and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Rubicon Industries</info>快速装填<color_yellow>弹匣</color>，黑色涂装，带有雕刻金属质感。\n"
+"RI的徽标印在弹匣侧面，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 30 9mm Magazine"
+msgid_plural "RIA 30 9mm Magazines"
+msgstr[0] "RIA 30 9毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 22 .44 Magazine"
+msgid_plural "RIA 22 .44 Magazines"
+msgstr[0] "RIA 22 .44弹匣"
+
+#: .\xeno_magazine.json
+msgid "Bad RIA 35 .44 Magazine"
+msgid_plural "Bad RIA 35 .44 Magazines"
+msgstr[0] "劣质RIA 35 .44弹匣"
+
+#. ~ Description for {'str': 'Bad RIA 35 .44 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack 22 ria .44 <info>Rubicon Industries</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish, it has been <color_yellow>welded</color> with some extra metal to be longer, the welding seems to be of <bad>low quality</bad>.\n"
+"RI's logo is printed on the side of the magazine but is covered from the welding line and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排22发RIA .44<info>Rubicon Industries</info><color_yellow>弹匣</color>，黑色涂装，带有雕刻金属质感，已用额外金属<color_yellow>焊接</color>加长，焊接质量似乎<bad>较差</bad>。\n"
+"RI的徽标印在弹匣侧面，但被焊接线覆盖，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Good RIA 35 .44 Magazine"
+msgid_plural "Good RIA 35 .44 Magazines"
+msgstr[0] "优质RIA 35 .44弹匣"
+
+#. ~ Description for {'str': 'Good RIA 35 .44 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack 22 ria .44 <info>Rubicon Industries</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish, it has been <color_yellow>welded</color> with some extra metal to be longer, the welding seems to be of <good>good quality</good>.\n"
+"RI's logo is printed on the side of the magazine, even if it's covered from the welding line the logo has been redrawn on top of it for aesthetics purposes and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排22发RIA .44<info>Rubicon Industries</info><color_yellow>弹匣</color>，黑色涂装，带有雕刻金属质感，已用额外金属<color_yellow>焊接</color>加长，焊接质量<good>良好</good>。\n"
+"RI的徽标印在弹匣侧面，即使被焊接线覆盖，为美观起见，徽标已在其上方重新绘制，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 45 5.7x28mm Magazine"
+msgid_plural "RIA 45 5.7x28mm Magazines"
+msgstr[0] "RIA 45 5.7x28毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 2x45 5.7x28mm Magazine"
+msgid_plural "RIA 2x45 5.7x28mm Magazines"
+msgstr[0] "RIA 2x45 5.7x28毫米弹匣"
+
+#. ~ Description for {'str': 'RIA 2x45 5.7x28mm Magazine'}
+#. ~ Description for {'str': 'RIA 2x45 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"two single-stack <info>Rubicon Industries</info> <color_yellow>magazine</color> literally slapped together for immediate <good>swap</good>, colored black with a sculpted metal finish and some duct tape keeping the two magazines together.\n"
+"RI's logo is printed on the side of the magazine but is half covered by the tape and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"两个单排<info>Rubicon Industries</info><color_yellow>弹匣</color>简单地粘合在一起，以便快速<good>更换</good>，黑色涂装，带有雕刻金属质感，并用一些胶带将两个弹匣固定。\n"
+"RI的徽标印在弹匣侧面，但一半被胶带覆盖，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 80 5.7x28mm Magazine"
+msgid_plural "RIA 80 5.7x28mm Magazines"
+msgstr[0] "RIA 80 5.7x28毫米弹匣"
+
+#. ~ Description for {'str': 'RIA 80 5.7x28mm Magazine'}
+#. ~ Description for {'str': 'RIA 80 7.62x39mm Magazine'}
+#. ~ Description for {'str': 'RIA 100 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Rubicon Industries</info> curved <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"RI's logo is printed on the side of the magazine and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Rubicon Industries</info>弧形<color_yellow>弹匣</color>，黑色涂装，带有雕刻金属质感。\n"
+"RI的徽标印在弹匣侧面，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 45 7.62x39mm Magazine"
+msgid_plural "RIA 45 7.62x39mm Magazines"
+msgstr[0] "RIA 45 7.62x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 2x45 7.62x39mm Magazine"
+msgid_plural "RIA 2x45 7.62x39mm Magazines"
+msgstr[0] "RIA 2x45 7.62x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 80 7.62x39mm Magazine"
+msgid_plural "RIA 80 7.62x39mm Magazines"
+msgstr[0] "RIA 80 7.62x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 100 7.62x39mm Magazine"
+msgid_plural "RIA 100 7.62x39mm Magazines"
+msgstr[0] "RIA 100 7.62x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 2x80 7.62x39mm Magazine"
+msgid_plural "RIA 2x80 7.62x39mm Magazines"
+msgstr[0] "RIA 2x80 7.62x39毫米弹匣"
+
+#. ~ Description for {'str': 'RIA 2x80 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Rubicon Industries</info> curved <color_yellow>magazine</color>, there are two RIA 80 7.62x39mm magazines <color_yellow>welded</color> next to reach other for quick <good>hot-swapping</good> during conflict. colored black with a sculpted metal finish.\n"
+"RI's logo is printed on the side of the magazine, even if it's covered from the welding line the logo has been redrawn on the opposite side for aesthetics purposes and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>Rubicon Industries</info>弧形<color_yellow>弹匣</color>，两个RIA 80 7.62x39毫米弹匣<color_yellow>焊接</color>在一起，以便在冲突中快速<good>热插拔</good>。黑色涂装，带有雕刻金属质感。\n"
+"RI的徽标印在弹匣侧面，即使被焊接线覆盖，为美观起见，徽标已在另一侧重新绘制，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 120 7.62x39mm Magazine"
+msgid_plural "RIA 120 7.62x39mm Magazines"
+msgstr[0] "RIA 120 7.62x39毫米弹匣"
+
+#. ~ Description for {'str': 'RIA 120 7.62x39mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"this single-stack <info>Rubicon Industries</info> <color_yellow>magazine</color> is only compatable with the RIA 20 DSC, it has a trapezoid shape and is colored black with a metal finish.\n"
+"RI's designed a special shaped logo for this magazine which is printed on the side of the magazine and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"此单排<info>Rubicon Industries</info><color_yellow>弹匣</color>仅与RIA 20 DSC兼容，呈梯形，黑色涂装，带有金属质感。\n"
+"RI为此弹匣设计了特殊形状的徽标，印在弹匣侧面，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 5 .30-06 Magazine"
+msgid_plural "RIA 5 .30-06 Magazines"
+msgstr[0] "RIA 5 .30-06弹匣"
+
+#. ~ Description for {'str': 'RIA 5 .30-06 Magazine'}
+#. ~ Description for {'str': 'RIA 8 .30-06 Magazine'}
+#. ~ Description for {'str': 'RIA 12 .30-06 Magazine'}
+#. ~ Description for {'str': 'RIA 15 .30-06 Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"small single-stack <info>Rubicon Industries</info> <color_yellow>magazine</color> designed for snipers, colored black with a sculpted metal finish.\n"
+"RI's logo is printed on the side of the magazine, with an extra sticker of a long bullet, and will probably only work with RI's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"小型单排<info>Rubicon Industries</info><color_yellow>弹匣</color>，专为狙击手设计，黑色涂装，带有雕刻金属质感。\n"
+"RI的徽标印在弹匣侧面，并附有一枚长子弹的额外贴纸，可能仅适用于RI的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "RIA 8 .30-06 Magazine"
+msgid_plural "RIA 8 .30-06 Magazines"
+msgstr[0] "RIA 8 .30-06弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 12 .30-06 Magazine"
+msgid_plural "RIA 12 .30-06 Magazines"
+msgstr[0] "RIA 12 .30-06弹匣"
+
+#: .\xeno_magazine.json
+msgid "RIA 15 .30-06 Magazine"
+msgid_plural "RIA 15 .30-06 Magazines"
+msgstr[0] "RIA 15 .30-06弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 20 5.56x45mm Magazine"
+msgid_plural "CM 20 5.56x45mm Magazines"
+msgstr[0] "CM 20 5.56x45毫米弹匣"
+
+#. ~ Description for {'str': 'CM 20 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 35 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 40 9mm Magazine'}
+#. ~ Description for {'str': 'CM 60 9mm Magazine'}
+#. ~ Description for {'str': 'CM 2 12mm Magazine'}
+#. ~ Description for {'str': 'CM 4 12mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"small single-stack <info>Critical Mass</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"CM's logo is printed on the side of the magazine, and will probably only work with CM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"小型单排<info>临界质量</info><color_yellow>弹匣</color>，采用黑色雕刻金属漆面。\n"
+"CM的徽标印在弹匣侧面，可能仅适用于CM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "CM 35 5.56x45mm Magazine"
+msgid_plural "CM 35 5.56x45mm Magazines"
+msgstr[0] "CM 35发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 50 5.56x45mm Magazine"
+msgid_plural "CM 50 5.56x45mm Magazines"
+msgstr[0] "CM 50发5.56x45毫米弹匣"
+
+#. ~ Description for {'str': 'CM 50 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 65 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 100 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 120 5.56x45mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Critical Mass</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"CM's logo is printed on the side of the magazine, and will probably only work with CM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>临界质量</info><color_yellow>弹匣</color>，采用黑色雕刻金属漆面。\n"
+"CM的徽标印在弹匣侧面，可能仅适用于CM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "CM 65 5.56x45mm Magazine"
+msgid_plural "CM 65 5.56x45mm Magazines"
+msgstr[0] "CM 65发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 100 5.56x45mm Magazine"
+msgid_plural "CM 100 5.56x45mm Magazines"
+msgstr[0] "CM 100发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 120 5.56x45mm Magazine"
+msgid_plural "CM 120 5.56x45mm Magazines"
+msgstr[0] "CM 120发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 65+15 5.56x45mm Magazine"
+msgid_plural "CM 65+15 5.56x45mm Magazines"
+msgstr[0] "CM 65+15发5.56x45毫米弹匣"
+
+#. ~ Description for {'str': 'CM 65+15 5.56x45mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Critical Mass</info> <color_yellow>magazine</color>, this magazine has been <color_yellow>welded</color> with an extension to hold 15 more bullets, colored black with a sculpted metal finish.\n"
+"CM's logo is printed on the side of the magazine but is covered partially buu the welding line and will probably only work with CM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>临界质量</info><color_yellow>弹匣</color>，此弹匣已通过<color_yellow>焊接</color>延长以额外容纳15发子弹，采用黑色雕刻金属漆面。\n"
+"CM的徽标印在弹匣侧面，但部分被焊接线覆盖，可能仅适用于CM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#. ~ Description for {'str': 'CM 120 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'CM 220 5.56x45mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"single-stack <info>Critical Mass</info> circular drum <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"CM's logo is printed on the side of the magazine, and will probably only work with CM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"单排<info>临界质量</info>圆形弹鼓<color_yellow>弹匣</color>，采用黑色雕刻金属漆面。\n"
+"CM的徽标印在弹匣侧面，可能仅适用于CM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "CM 220 5.56x45mm Magazine"
+msgid_plural "CM 220 5.56x45mm Magazines"
+msgstr[0] "CM 220发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 40 9mm Magazine"
+msgid_plural "CM 40 9mm Magazines"
+msgstr[0] "CM 40发9毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 60 9mm Magazine"
+msgid_plural "CM 60 9mm Magazines"
+msgstr[0] "CM 60发9毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 2x40 9mm Magazine"
+msgid_plural "CM 2x40 9mm Magazines"
+msgstr[0] "CM 2x40发9毫米弹匣"
+
+#. ~ Description for {'str': 'CM 2x40 9mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"small double-stack <info>Critical Mass</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"CM's logo is printed on the side of the magazine, and will probably only work with CM's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"小型双排<info>临界质量</info><color_yellow>弹匣</color>，采用黑色雕刻金属漆面。\n"
+"CM的徽标印在弹匣侧面，可能仅适用于CM的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "CM 2 12mm Magazine"
+msgid_plural "CM 2 12mm Magazines"
+msgstr[0] "CM 2发12毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "CM 4 12mm Magazine"
+msgid_plural "CM 4 12mm Magazines"
+msgstr[0] "CM 4发12毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 15 .762x39mm Magazine"
+msgid_plural "Rancor 15 .762x39mm Magazines"
+msgstr[0] "Rancor 15发.762x39毫米弹匣"
+
+#. ~ Description for {'str': 'Rancor 15 .762x39mm Magazine'}
+#. ~ Description for {'str': 'Rancor 20 .762x39mm Magazine'}
+#. ~ Description for {'str': 'Rancor 25 .762x39mm Magazine'}
+#. ~ Description for {'str': 'Rancor 15 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'Rancor 25 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'Rancor 35 5.56x45mm Magazine'}
+#. ~ Description for {'str': 'Rancor 10 9mm Magazine'}
+#. ~ Description for {'str': 'Rancor 20 9mm Magazine'}
+#. ~ Description for {'str': 'Rancor 30 9mm Magazine'}
+#: .\xeno_magazine.json
+msgid ""
+"small single-stack <info>Rancor</info> <color_yellow>magazine</color>, colored black with a sculpted metal finish.\n"
+"Rancor's logo is printed on the side of the magazine, and will probably only work with Rancor's weapons.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"小型单排<info>Rancor</info><color_yellow>弹匣</color>，采用黑色雕刻金属漆面。\n"
+"Rancor的徽标印在弹匣侧面，可能仅适用于Rancor的武器。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_magazine.json
+msgid "Rancor 20 .762x39mm Magazine"
+msgid_plural "Rancor 20 .762x39mm Magazines"
+msgstr[0] "Rancor 20发.762x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 25 .762x39mm Magazine"
+msgid_plural "Rancor 25 .762x39mm Magazines"
+msgstr[0] "Rancor 25发.762x39毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 15 5.56x45mm Magazine"
+msgid_plural "Rancor 15 5.56x45mm Magazines"
+msgstr[0] "Rancor 15发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 25 5.56x45mm Magazine"
+msgid_plural "Rancor 25 5.56x45mm Magazines"
+msgstr[0] "Rancor 25发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 35 5.56x45mm Magazine"
+msgid_plural "Rancor 35 5.56x45mm Magazines"
+msgstr[0] "Rancor 35发5.56x45毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 10 9mm Magazine"
+msgid_plural "Rancor 10 9mm Magazines"
+msgstr[0] "Rancor 10发9毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 20 9mm Magazine"
+msgid_plural "Rancor 20 9mm Magazines"
+msgstr[0] "Rancor 20发9毫米弹匣"
+
+#: .\xeno_magazine.json
+msgid "Rancor 30 9mm Magazine"
+msgid_plural "Rancor 30 9mm Magazines"
+msgstr[0] "Rancor 30发9毫米弹匣"
+
+#: .\xeno_weapons.json
+msgid "Z-1 Assault"
+msgid_plural "Z-1 Assaults"
+msgstr[0] "Z-1突击步枪"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-1 Assault is a balanced and 'powerful' assault rifle suitable for short and medium range engagements produced by <info>Z-Arm Tech</info>.\n"
+"the Z-1 Assault uses <info>small caliber</info> ammunition, it is modeled after the M4 (most likely the Colt Commando variation) with a futuristic design. It has the word 'Z-1' right in front of its trigger. It has scratches and some duct tape wrapped over its stock, carry handle, grip and handguard, which proves this gun has been well used and is now in bad condition but still somewhat usable.\n"
+"\n"
+"This weapon is <bad>poorly made</bad> and will <bad>easily malfunction</bad> and will <bad>not handle much if any beating</bad>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-1突击步枪是由<info>Z-Arm科技</info>生产的一款平衡且“威力强大”的突击步枪，适用于中近距离交战。\n"
+"Z-1突击步枪使用<info>小口径</info>弹药，其设计以M4（很可能是Colt Commando变体）为蓝本，融合了未来主义风格。扳机正前方刻有“Z-1”字样。枪托、提把、握把和护木上布满划痕并缠有胶带，证明此枪已被频繁使用，目前状态不佳但仍勉强可用。\n"
+"\n"
+"此武器<bad>做工粗糙</bad>，<bad>容易发生故障</bad>，且<bad>无法承受过多磕碰</bad>\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\xeno_weapons.json
+msgid "auto"
+msgstr "自动"
+
+#: .\xeno_weapons.json
+msgid "5 rd"
+msgstr "5发"
+
+#: .\xeno_weapons.json
+msgid "Z-2 LMP"
+msgid_plural "Z-2 LMPs"
+msgstr[0] "Z-2 LMP"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-2 LMP is a <info>small caliber</info> SMG ideal for fast movement and maneuverability produced by <info>Z-Arm Tech</info>\n"
+"Z-2 LMP resembles a MP5 without the adjustable stock, the rear sight, has a reflex sight and a vertical foregrip. It has the word 'Z-2' right in front of its selective-fire switch. It has scratches & some duct tapes wrapped over its grip, which means this gun is now under bad condition but still usable.\n"
+"\n"
+"This weapon is <bad>poorly made</bad> and will <bad>easily malfunction</bad> and will <bad>not handle much if any beating</bad>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-2 LMP是一款由<info>Z-Arm Tech</info>生产的<info>小口径</info>冲锋枪，非常适合快速移动和机动。\n"
+"Z-2 LMP类似于没有可调枪托和后瞄准具的MP5，配有反射式瞄准镜和垂直前握把。其快慢机开关正前方刻有“Z-2”字样。枪身有划痕，握把处缠着一些胶带，这意味着这把枪目前状况不佳但仍可使用。\n"
+"\n"
+"此武器<bad>做工粗糙</bad>，<bad>容易发生故障</bad>，并且<bad>经不起多少磕碰</bad>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "3 rd"
+msgstr "3 发"
+
+#: .\xeno_weapons.json
+msgid "Z-5 Heavy"
+msgid_plural "Z-5 Heavy"
+msgstr[0] "Z-5 重型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-5 Heavy is described as 'Powerful machine gun ideal for suppressing enemy positions.' produced by <info>Z-Arm Tech</info>\n"
+"the Z-5 Heavy is based on Stone LMG 96. Its ammo box is appeared to be fed from the right side, mirrored to most real-life LMGs. However, this makes Z-5 look like another real-life MG called Stoner LMG 86. It has the word 'Z-5' on its cover latch. It has scratches & some duct tape wrapped over its stock and foregrip, which means this gun is under bad condition but still usable.\n"
+"\n"
+"This weapon is <bad>poorly made</bad> and will <bad>easily malfunction</bad> and will <bad>not handle much if any beating</bad>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-5 重型被描述为“压制敌方阵地的理想强力机枪”，由<info>Z-Arm Tech</info>生产。\n"
+"Z-5 重型基于Stone LMG 96。其弹匣似乎从右侧供弹，与大多数现实中的轻机枪镜像。然而，这使得Z-5看起来像另一款现实中的机枪Stoner LMG 86。其盖锁上刻有“Z-5”字样。枪托和前握把上有划痕并缠着一些胶带，这意味着这把枪状况不佳但仍可使用。\n"
+"\n"
+"此武器<bad>做工粗糙</bad>，<bad>容易发生故障</bad>，并且<bad>经不起多少磕碰</bad>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "6 rd"
+msgstr "6 发"
+
+#: .\xeno_weapons.json
+msgid "Fixed Z-1 Assault"
+msgid_plural "Fixed Z-1 Assaults"
+msgstr[0] "修复版 Z-1 突击"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-1 Assault is a balanced and 'powerful' assault rifle suitable for short and medium range engagements produced by <info>Z-Arm Tech</info>.\n"
+"the Z-1 Assault uses <info>small caliber</info> ammunition, it is modeled after the M4 (most likely the Colt Commando variation) with a futuristic design. It has the word 'Z-1' right in front of its trigger. It has scratches, but most of the damages have been repaired with some patience.\n"
+"\n"
+"This weapon is <color_yellow>okay</color> and will <color_yellow>rarely malfunction</color> and <color_yellow>will handle some beating.</color>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-1 突击是一款由<info>Z-Arm Tech</info>生产的平衡且“强力”的突击步枪，适合中近距离交战。\n"
+"Z-1 突击使用<info>小口径</info>弹药，以M4（很可能是Colt Commando变体）为蓝本，具有未来主义设计。其扳机正前方刻有“Z-1”字样。枪身有划痕，但大部分损伤已通过耐心修复。\n"
+"\n"
+"此武器<color_yellow>状况尚可</color>，<color_yellow>很少发生故障</color>，并且<color_yellow>能承受一定磕碰</color>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Fixed Z-2 LMP"
+msgid_plural "Fixed Z-2 LMPs"
+msgstr[0] "修复版 Z-2 LMP"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-2 LMP is a <info>small caliber</info> SMG ideal for fast movement and maneuverability produced by <info>Z-Arm Tech</info>.\n"
+"Z-2 LMP resembles a MP5 without the adjustable stock, the rear sight, has a reflex sight and a vertical foregrip. It has the word 'Z-2' right in front of its selective-fire switch. It has scratches, but most if not all the damage has been fixed with some patience.\n"
+"\n"
+"This weapon is <color_yellow>okay</color> and will <color_yellow>rarely malfunction</color> and <color_yellow>will handle some beating.</color>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-2 LMP是一款由<info>Z-Arm Tech</info>生产的<info>小口径</info>冲锋枪，非常适合快速移动和机动。\n"
+"Z-2 LMP类似于没有可调枪托和后瞄准具的MP5，配有反射式瞄准镜和垂直前握把。其快慢机开关正前方刻有“Z-2”字样。枪身有划痕，但大部分（即使不是全部）损伤已通过耐心修复。\n"
+"\n"
+"此武器<color_yellow>状况尚可</color>，<color_yellow>很少发生故障</color>，并且<color_yellow>能承受一定磕碰</color>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Fixed Z-5 Heavy"
+msgid_plural "Fixed Z-5 Heavy"
+msgstr[0] "修复版 Z-5 重型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-5 Heavy is described as 'Powerful machine gun ideal for suppressing enemy positions.' produced by <info>Z-Arm Tech</info>\n"
+"the Z-5 Heavy is based on Stone LMG 96. Its ammo box is appeared to be fed from the right side, mirrored to most real-life LMGs. However, this makes Z-5 look like another real-life MG called Stoner LMG 86. It has the word 'Z-5' on its cover latch. It has scratches but most of the damage has been fixed and will definitely work better.\n"
+"\n"
+"This weapon is <color_yellow>okay</color> and will <color_yellow>rarely malfunction</color> and <color_yellow>will handle some beating.</color>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-5 重型被描述为“压制敌方阵地的理想强力机枪”，由<info>Z-Arm Tech</info>生产。\n"
+"Z-5 重型基于Stone LMG 96。其弹匣似乎从右侧供弹，与大多数现实中的轻机枪镜像。然而，这使得Z-5看起来像另一款现实中的机枪Stoner LMG 86。其盖锁上刻有“Z-5”字样。枪身有划痕，但大部分损伤已修复，性能肯定会更好。\n"
+"\n"
+"此武器<color_yellow>状况尚可</color>，<color_yellow>很少发生故障</color>，并且<color_yellow>能承受一定磕碰</color>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Reinforced Z-1 Assault"
+msgid_plural "Reinforced Z-1 Assaults"
+msgstr[0] "强化版 Z-1 突击"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-1 Assault is a balanced and 'powerful' assault rifle suitable for short and medium range engagements produced by <info>Z-Arm Tech</info>\n"
+"the Z-1 Assault uses <info>small caliber</info> ammunition, it is modeled after the M4 (most likely the Colt Commando variation) with a futuristic design. It has the word 'Z-1' right in front of its trigger. It has scratches, but most of the damages have been repaired with some patience, it has also been reinforced with metal strips and it's barrel has been also upgraded.\n"
+"\n"
+"This weapon is <good>reinforced</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-1 突击是一款由<info>Z-Arm Tech</info>生产的平衡且“强力”的突击步枪，适合中近距离交战。\n"
+"Z-1 突击使用<info>小口径</info>弹药，以M4（很可能是Colt Commando变体）为蓝本，具有未来主义设计。其扳机正前方刻有“Z-1”字样。枪身有划痕，但大部分损伤已通过耐心修复，并且还用金属条进行了加固，枪管也进行了升级。\n"
+"\n"
+"此武器<good>经过强化</good>，<good>可能不会发生故障</good>，并且<good>能承受相当程度的磕碰</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Reinforced Z-2 LMP"
+msgid_plural "Reinforced Z-2 LMPs"
+msgstr[0] "强化版 Z-2 LMP"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-2 LMP is a <info>small caliber</info> SMG ideal for fast movement and maneuverability produced by <info>Z-Arm Tech</info>. \n"
+"Z-2 LMP resembles a MP5 without the adjustable stock, the rear sight, has a reflex sight and a vertical foregrip. It has the word 'Z-2' right in front of its selective-fire switch. It has scratches, but most if not all the damage has been fixed with some patience, it has also been reinforced with metal strips and it's barrel has been also upgraded.\n"
+"\n"
+"This weapon is <good>reinforced</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-2 LMP是一款由<info>Z-Arm Tech</info>生产的<info>小口径</info>冲锋枪，非常适合快速移动和机动。\n"
+"Z-2 LMP类似于没有可调枪托和后瞄准具的MP5，配有反射式瞄准镜和垂直前握把。其快慢机开关正前方刻有“Z-2”字样。枪身有划痕，但大部分（即使不是全部）损伤已通过耐心修复，并且还用金属条进行了加固，枪管也进行了升级。\n"
+"\n"
+"此武器<good>经过强化</good>，<good>可能不会发生故障</good>，并且<good>能承受相当程度的磕碰</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Reinforced Z-5 Heavy"
+msgid_plural "Reinforced Z-5 Heavy"
+msgstr[0] "强化版 Z-5 重型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Z-5 Heavy is described as 'Powerful machine gun ideal for suppressing enemy positions.' produced by <info>Z-Arm Tech</info>\n"
+"the Z-5 Heavy is based on Stone LMG 96. Its ammo box is appeared to be fed from the right side, mirrored to most real-life LMGs. However, this makes Z-5 look like another real-life MG called Stoner LMG 86. It has the word 'Z-5' on its cover latch. It has scratches but most of the damage has been fixed and will definitely work better, it has also been reinforced with metal strips and it's barrel has been also upgraded.\n"
+"\n"
+"This weapon is <good>reinforced</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"Z-5 重型被描述为“压制敌方阵地的理想强力机枪”，由<info>Z-Arm Tech</info>生产。\n"
+"Z-5 重型基于Stone LMG 96。其弹匣似乎从右侧供弹，与大多数现实中的轻机枪镜像。然而，这使得Z-5看起来像另一款现实中的机枪Stoner LMG 86。其盖锁上刻有“Z-5”字样。枪身有划痕，但大部分损伤已修复，性能肯定会更好，并且还用金属条进行了加固，枪管也进行了升级。\n"
+"\n"
+"此武器<good>经过强化</good>，<good>可能不会发生故障</good>，并且<good>能承受相当程度的磕碰</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM Advertisement paper"
+msgid_plural "HVM Advertisement papers"
+msgstr[0] "HVM 广告传单"
+
+#. ~ Description for {'str': 'HVM Advertisement paper', 'str_pl': 'HVM
+#. Advertisement papers'}
+#: .\xeno_weapons.json
+msgid ""
+"'High Value Metrics is proud to present it's latest HVM weapons line!' \n"
+"a broad number of images of weapons are placed across the flier, \n"
+"a picture of a pistol named HVM 001, \n"
+"a frail looking SMG named HVM 002, \n"
+"a sturdy but clunky assault rifle named HVM 005 G-Class, \n"
+"a very heavy looking LMG called HVM 008, \n"
+"and a shotgun across the background with 'HVM 004, where nanomaterials make the impossible come reality' written under it as 25 shotgun shells are placed under it, \n"
+"all weapons have green and light brown digital pattern camo panels ontop of very dark gray internals.\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"“高价值指标公司自豪地推出其最新的HVM武器系列！”\n"
+"传单上印有大量武器图片，\n"
+"包括一把名为HVM 001的手枪，\n"
+"一把看起来脆弱的冲锋枪HVM 002，\n"
+"一把坚固但笨重的突击步枪HVM 005 G-Class，\n"
+"一把看起来非常沉重的轻机枪HVM 008，\n"
+"以及背景中的一把霰弹枪，下方写着“HVM 004，纳米材料让不可能成为现实”，并配有25发霰弹枪子弹，\n"
+"所有武器都在深灰色内部结构上覆盖着绿色和浅棕色数字迷彩面板。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM 001"
+msgid_plural "HVM 001"
+msgstr[0] "HVM 001"
+
+#: .\xeno_weapons.json
+msgid ""
+"the HVM 001 is the first gun manufactured by <info>High Value Metrics (HVM)</info> \n"
+"it is the weakest gun in the line of weapons produced by this company. \n"
+"it uses a <info>small caliber</info> ammunition type, and looks like a futuristic Glock-shaped pistol that features its magazine placed under the barrel similar to the Mauser C96 with a stylish green camo pattern.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"HVM 001 是 <info>高价值指标公司（HVM）</info> 制造的第一款枪械。\n"
+"它是该公司生产的武器系列中最弱的一款。\n"
+"它使用 <info>小口径</info> 弹药，外形类似一把未来风格的格洛克式手枪，其弹匣置于枪管下方，类似于毛瑟 C96，并带有时尚的绿色迷彩涂装。\n"
+"\n"
+"此武器性能 <color_yellow>中等</color>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM 002"
+msgid_plural "HVM 002"
+msgstr[0] "HVM 002"
+
+#: .\xeno_weapons.json
+msgid ""
+"the HVM 002 is the second gun manufactured by <info>High Value Metrics (HVM)</info> \n"
+"it's the weakest SMG in the line of weapons produced by this company. \n"
+"it uses the same <info>small caliber</info> ammunition as the HVM 001, and is a bullpup SMG possibly modeled after an Uzi or an MP7 with a fixed stock, a vertical foregrip and an unused top rail with a stylish green camo pattern.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"HVM 002 是 <info>高价值指标公司（HVM）</info> 制造的第二款枪械。\n"
+"它是该公司生产的武器系列中最弱的冲锋枪。\n"
+"它使用与 HVM 001 相同的 <info>小口径</info> 弹药，是一款无托式冲锋枪，可能以乌兹或 MP7 为原型，配有固定枪托、垂直前握把、未使用的顶部导轨以及时尚的绿色迷彩涂装。\n"
+"\n"
+"此武器性能 <color_yellow>中等</color>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM 004"
+msgid_plural "HVM 004"
+msgstr[0] "HVM 004"
+
+#: .\xeno_weapons.json
+msgid ""
+"the HVM 004 is the fourth gun, and first shotgun, manufactured by <info>High Value Metrics (HVM)</info>. we are not sure why there isn't a third weapon in the line. \n"
+"it's a <color_yellow>very weak shotgun</color> compared to it's competitors, but it's unreal use of some sort of <info>compression or nano technology</info> inside it's chamber makes this shotgun capable of holding up to <good>25 shells</good>, but takes <bad>long to reload</bad>. \n"
+"this shotgun is possibly based on Beneli M4 (due to its famous semi-auto firing capability) with a gunstock grip and very squared green look.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"HVM 004 是 <info>高价值指标公司（HVM）</info> 制造的第四款枪械，也是第一款霰弹枪。我们不确定为何该系列没有第三款武器。\n"
+"与竞争对手相比，它是一款 <color_yellow>非常弱的霰弹枪</color>，但其枪膛内运用了某种 <info>压缩或纳米技术</info>，使得这把霰弹枪能够容纳多达 <good>25 发子弹</good>，但<bad>装填时间较长</bad>。\n"
+"这把霰弹枪可能基于伯奈利 M4（因其著名的半自动射击能力），带有枪托握把和非常方正、绿色的外观。\n"
+"\n"
+"此武器性能 <color_yellow>中等</color>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM 005 G-Class"
+msgid_plural "HVM 005 G-Class"
+msgstr[0] "HVM 005 G级"
+
+#: .\xeno_weapons.json
+msgid ""
+"the HVM 005 G-Class is an assault rifle produced by <info>High Value Metrics (HVM)</info> \n"
+"it's the <bad>weakest</bad> assault rifle compared to it's competitors. \n"
+"it uses the same <info>small caliber</info> ammunition as the HVM 001 and HVM 002, it's a bullpup rifle, it is inspired by the L85 or the FAMAS with a blocky design with a stylish green camo pattern.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"HVM 005 G级 是 <info>高价值指标公司（HVM）</info> 生产的一款突击步枪。\n"
+"与竞争对手相比，它是 <bad>最弱</bad> 的突击步枪。\n"
+"它使用与 HVM 001 和 HVM 002 相同的 <info>小口径</info> 弹药，是一款无托式步枪，设计灵感来自 L85 或 FAMAS，具有方正的外形和时尚的绿色迷彩涂装。\n"
+"\n"
+"此武器性能 <color_yellow>中等</color>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "HVM 008"
+msgid_plural "HVM 008"
+msgstr[0] "HVM 008"
+
+#: .\xeno_weapons.json
+msgid ""
+"the HVM 008 is a low class LMG produced by <info>High Value Metrics (HVM)</info> \n"
+"it's the <bad>weakest</bad> LMG compared to it's competitors. it uses the same <info>small caliber</info> ammunition as the HVM 001 and HVM 002 \n"
+"the HVM 008 is possibly inspired off of the combination of the M60 (appearance) and the MG34 (using drums as feed system) with a blocky design with a stylish green camo pattern.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"HVM 008 是 <info>高价值指标公司（HVM）</info> 生产的一款低级别轻机枪。\n"
+"与竞争对手相比，它是 <bad>最弱</bad> 的轻机枪。它使用与 HVM 001 和 HVM 002 相同的 <info>小口径</info> 弹药。\n"
+"HVM 008 的设计灵感可能结合了 M60（外观）和 MG34（使用弹鼓供弹系统），具有方正的外形和时尚的绿色迷彩涂装。\n"
+"\n"
+"此武器性能 <color_yellow>中等</color>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson 45"
+msgid_plural "Ronson 45"
+msgstr[0] "朗森45型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson 45 is the only pistol manufactured by <info>Ronson</info.\n"
+"One of the most <good>powerful</good> commercially available hand guns. What it lacks in its relatively <bad>small clip size</bad> it makes up for in sheer stopping power\n"
+"it has multiple blue panels on top of a black build.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森45型是<info>朗森</info>公司生产的唯一一款手枪。\n"
+"作为市面上最<good>威力强大</good>的手枪之一，它虽然<bad>弹匣容量较小</bad>，但凭借其纯粹的停止力弥补了这一不足。\n"
+"枪身以黑色为底，顶部配有多块蓝色面板。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson 50"
+msgid_plural "Ronson 50"
+msgstr[0] "朗森50型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson 50 is an almost <good>unreal</good> SMG produced by <info>Ronson<7info>.\n"
+"Nicknamed '<info>Boneshaker</info>' the 50 is an SMG that uses the <info>LBM</info> round making for a very manouverable yet <bad>loud</bad> and <good>powerful</good> small weapon.\n"
+"it has a blue panel on top of it's dark frame, it has a small grip and a base red dot sight with a rail to mount another sight, it also has a quite balanced rounded stock.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森50型是<info>朗森</info>生产的一款近乎<good>不可思议</good>的冲锋枪。\n"
+"绰号“<info>骨震器</info>”的50型冲锋枪使用<info>LBM</info>弹药，使其成为一款机动性极强但<bad>噪音大</bad>且<good>威力十足</good>的小型武器。\n"
+"深色枪身上方有一块蓝色面板，配有小握把、基础红点瞄准镜及可加装其他瞄具的导轨，还有一个相当平衡的圆形枪托。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson 55"
+msgid_plural "Ronson 55"
+msgstr[0] "朗森55型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson 55 is an almost <good>unreal</good> SMG produces by <info>Ronson</info>. it's the successor to the Ronson 50.\n"
+"<good>Twin 'recoilless' alternating barrels</good> allow for accuracy and an extremely <good>high rate of fire</good>. One of the most innovative and deadly submachine guns available anywhere.\n"
+"it has a blue panel on top of it's dark frame, it has a small grip and a base red dot sight with no rail to mount another sight, it also has a quite balanced rounded stock.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森55型是<info>朗森</info>生产的一款近乎<good>不可思议</good>的冲锋枪，是朗森50型的后继型号。\n"
+"<good>双管“无后坐力”交替射击</good>设计确保了精准度和极高的<good>射速</good>，是现有最具创新性和致命性的冲锋枪之一。\n"
+"深色枪身上方有一块蓝色面板，配有小握把和基础红点瞄准镜（无加装瞄具的导轨），还有一个相当平衡的圆形枪托。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson 65-a"
+msgid_plural "Ronson 65-a"
+msgstr[0] "朗森65-a型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson 65-a is an assault rifle produced by <info>Ronson</info>. it looks more like an smg but the weapon is advertised as an assault rifle, and as such the 'a' in the name can stand for 'assault'.\n"
+"Most soldiers know <info>Ronson</info> for the 65-a assault rifle. Perfectly balanced stock and narrow bore combine to create a very <good>easy to use</good> and <good>accurate</good> weapon.\n"
+"it has a blue panel on top of it's dark frame, it has a small grip and a base red dot sight with no rail to mount another sight, it also has a quite balanced rounded stock.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森65-a型是<info>朗森</info>生产的突击步枪。它看起来更像冲锋枪，但被宣传为突击步枪，因此名称中的“a”可代表“突击”。\n"
+"大多数士兵通过65-a突击步枪认识<info>朗森</info>。完美平衡的枪托和窄口径相结合，造就了这款非常<good>易于使用</good>且<good>精准</good>的武器。\n"
+"深色枪身上方有一块蓝色面板，配有小握把和基础红点瞄准镜（无加装瞄具的导轨），还有一个相当平衡的圆形枪托。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson 70"
+msgid_plural "Ronson 70"
+msgstr[0] "朗森70型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson 70 is an assault rifle produced by <good>Ronson</good>.\n"
+"Ronson's top of the range assault rifle. Highly tuned electromechanics generate incredibly accurate and powerful <info>plasma bolts</info>.\n"
+"it has a blue panel on top of it's dark frame, it has a small grip and a rail to mount a sight, it also has a quite balanced stock. the build can resemble an M16.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森70型是<good>朗森</good>生产的突击步枪。\n"
+"作为朗森的顶级突击步枪，其高度调校的机电系统能产生极其精准和强大的<info>等离子弹</info>。\n"
+"深色枪身上方有一块蓝色面板，配有小握把和可加装瞄具的导轨，还有一个相当平衡的枪托。外形类似M16。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Ronson LBM"
+msgid_plural "Ronson LBM"
+msgstr[0] "朗森LBM型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Ronson LBM is a heavy LMG produced by <info>Ronson</info>.\n"
+"Ronson Large Bore Machine Gun. Uses <info>heavy clip</info> instead of a belt to accommodate <info>extra large rounds</info>, the LBM can devastate most targets with ease.\n"
+"it has a blue panel on top of it's dark frame, it has a small grip and a rail to mount a sight, it also has a quite balanced stock. it also features an underbarrel bipod, making it <bad>impossible to mount</bad> anything under the barrel.\n"
+"\n"
+"This weapon is <good>decent</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"朗森LBM型是<info>朗森</info>生产的重型轻机枪。\n"
+"朗森大口径机枪。使用<info>重型弹匣</info>而非弹链来容纳<info>超大号弹药</info>，LBM型能轻松摧毁大多数目标。\n"
+"深色枪身上方有一块蓝色面板，配有小握把和可加装瞄具的导轨，还有一个相当平衡的枪托。它还配备了下挂式两脚架，使得枪管下方<bad>无法加装</bad>任何配件。\n"
+"\n"
+"此武器<good>性能尚可</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 313"
+msgid_plural "RIA 313"
+msgstr[0] "RIA 313型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the RIA 313 is one of the first pistols designed by <info>Rubicon Industries</info> \n"
+"it's a very light pistol and uses a <info>small caliber</info> ammunition type \n"
+"the weapon looks like a futuristic pistol that appears to be a combination of the M9 or SIG-Sauer P226 for its look and the Desert Eagle for its size, a large muzzle and a pair of re-designed sights, the weapon has a sleek dark gray and black metallic look to it.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 313型是<info>卢比孔工业</info>设计的第一批手枪之一。\n"
+"这是一款非常轻巧的手枪，使用<info>小口径</info>弹药。\n"
+"武器外观类似未来风格手枪，似乎是M9或SIG-Sauer P226的外观与沙漠之鹰尺寸的结合体，拥有大型枪口和一对重新设计的瞄具，整体呈现光滑的深灰色和黑色金属质感。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 1010"
+msgid_plural "RIA 1010"
+msgstr[0] "RIA 1010型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the RIA 1010 is one of the last pistols designed by <info>Rubicon Industries</info> before the cataclysm \n"
+"it's a very light pistol and uses a <info>medium ammunition</info> type \n"
+"the weapon looks like a possible variant of the RIA 313 with a slightly smaller size, a larger clip, a compensator and a unique grip/flashlight on the bottom, the weapon has a sleek dark gray and black metallic look to it.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 1010型是<info>卢比孔工业</info>在灾变前设计的最后一批手枪之一。\n"
+"这是一款非常轻巧的手枪，使用<info>中型弹药</info>。\n"
+"武器外观可能是RIA 313型的变体，尺寸略小，弹匣更大，配有补偿器和底部独特的握把/手电筒，整体呈现光滑的深灰色和黑色金属质感。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 7"
+msgid_plural "RIA 7"
+msgstr[0] "RIA 7型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the RIA 7 is a <good>lightweight</good> smg developed by <info>Rubicon Industries</info> \n"
+"it's a very light smg and uses <info>five-seven's 5.7mm</info> ammunition \n"
+"the weapon is a futuristic submachine gun which is similar to the MP5 due to its look. It has a short barrel, a slightly large magazine and a short buttstock, the weapon has a sleek dark gray and black metallic look to it.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 7型是<info>卢比孔工业</info>开发的<good>轻量化</good>冲锋枪。\n"
+"这是一款非常轻巧的冲锋枪，使用<info>五七式5.7毫米</info>弹药。\n"
+"武器外观类似MP5的未来风格冲锋枪，拥有短枪管、稍大的弹匣和短枪托，整体呈现光滑的深灰色和黑色金属质感。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA T7"
+msgid_plural "RIA T7"
+msgstr[0] "RIA T7型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the RIA T7 is a lightweight smg developed by <info>Rubicon Industries</info> \n"
+"it's a very light smg upgraded from it's brother, the RIA 7, and uses <info>five-seven's 5.7mm</info> ammunition\n"
+" the weapon is a futuristic submachine gun which is similar to the MP5 due to its look. It has a short barrel, a slightly large magazine and a short buttstock, the weapon has a sleek dark gray and black metallic look to it.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA T7型是<info>卢比孔工业</info>开发的轻量化冲锋枪。\n"
+"这是从其兄弟型号RIA 7型升级而来的非常轻巧的冲锋枪，使用<info>五七式5.7毫米</info>弹药。\n"
+"武器外观类似MP5的未来风格冲锋枪，拥有短枪管、稍大的弹匣和短枪托，整体呈现光滑的深灰色和黑色金属质感。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 20 Para"
+msgid_plural "RIA 20 Para"
+msgstr[0] "RIA 20伞兵型"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 20 Para is a light assault rifle produced by <info>Rubicon Industries</info> \n"
+"The RIA 20 Para is a futuristic rifle with the size of an SMG \n"
+"This makes it quite similar to the AKS-74U (an assault rifle that is popular and famous for its high power and small size), which is a variant of the AK-74, which replaces the AKM, a modified version of the latter. It has a telescopic sight and possible sling mounts.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 20伞兵型是<info>卢比孔工业</info>生产的轻型突击步枪。\n"
+"RIA 20伞兵型是一款未来风格步枪，尺寸与冲锋枪相当。\n"
+"这使得它非常类似于AKS-74U（一款以高威力和小尺寸而闻名流行的突击步枪），后者是AK-74的变体，取代了经过改良的AKM。它配备有伸缩式瞄准镜和可能的背带挂点。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 20 DSC"
+msgid_plural "RIA 20 DSC"
+msgstr[0] "RIA 20 DSC型"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 20 DSC is a light assault rifle produced by <info>Rubicon Industries</info> \n"
+"The RIA 20 DSC is a futuristic rifle, it's a bulkier & longer version of the RIA 20 Para. It has a different buttstock, barrel, telescopic sight, a quite unique magazine and a short muzzle.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 20 DSC型是<info>卢比孔工业</info>生产的轻型突击步枪。\n"
+"RIA 20 DSC型是一款未来风格步枪，是RIA 20伞兵型更庞大、更长的版本。它拥有不同的枪托、枪管、伸缩式瞄准镜、相当独特的弹匣和短枪口。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 20 Striker"
+msgid_plural "RIA 20 Striker"
+msgstr[0] "RIA 20打击者型"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 20 Striker is a light assault rifle produced by <info>Rubicon Industries</info> \n"
+"The RIA 20 Striker uses the same structure of the RIA 20 DSC with a longer muzzle, the same telescopic sight of the Para model, a more realistic magazine design. It also has a red glowing line on its body.\n"
+"\n"
+"This weapon is <color_yellow>average</color> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 20打击者型是<info>卢比孔工业</info>生产的轻型突击步枪。\n"
+"RIA 20打击者型采用与RIA 20 DSC型相同的结构，但枪口更长，配备与伞兵型号相同的伸缩式瞄准镜和更真实的弹匣设计。枪身上还有一条红色发光线条。\n"
+"\n"
+"此武器<color_yellow>性能一般</color>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA Trident"
+msgid_plural "RIA Trident"
+msgstr[0] "RIA三叉戟型"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA Trident is a heavy assault rifle produced by <info>Rubicon Industries</info> \n"
+"The RIA Trident is a futuristic rifle with its body based off of the M249, which is a LMG. It has a realistic buttstock, a rear sight and a visible ejection port, but with no bolt handle. It also has <good>three barrels</info>, each coloured differently to signify its damage type.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA三叉戟型是<info>卢比孔工业</info>生产的重型突击步枪。\n"
+"RIA三叉戟型是一款未来风格步枪，其枪身基于M249轻机枪。它拥有真实的枪托、后瞄准镜和可见的抛壳口，但没有拉机柄。它还拥有<good>三根枪管</good>，每根颜色不同以标示其伤害类型。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 30 Strikeforce"
+msgid_plural "RIA 30 Strikeforce"
+msgstr[0] "RIA 30打击力量型"
+
+#: .\xeno_weapons.json
+msgid ""
+"the RIA 30 Strikeforce is the only shotgun manufactured by <info>Rubicon Industries</info> \n"
+"The RIA 30 Strikeforce's design is similar to a sawn-off Ithaca 37 shotgun in terms of appearance. It has no front and rear sight and has a handguard that appears to be a shotgun pump on first glance.\n"
+" which is not.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 30打击力量型是<info>卢比孔工业</info>制造的唯一一款霰弹枪。\n"
+"RIA 30打击力量型的设计在外观上类似于截短版的伊萨卡37型霰弹枪。它没有前后瞄准镜，护木乍看之下像是霰弹枪的泵动装置，但实际上并非如此。\n"
+"\n"
+"此武器<good>性能良好</good>，<good>不易发生故障</good>，且<good>相当耐操</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 40"
+msgid_plural "RIA 40"
+msgstr[0] "RIA 40"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 40 is a LMG produced by <info>Rubicon Industries</info> \n"
+"The RIA 40 looks similar to the GPMG M240 with a telescopic sight, the RIA 40 has a <color_yellow>smaller magazine</color> compared to the other LMGs, but it packs a harder punch.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 40 是 <info>Rubicon 工业公司</info> 生产的一款轻机枪。\n"
+"RIA 40 外观类似 GPMG M240，配有伸缩式瞄准镜。与其他轻机枪相比，RIA 40 的 <color_yellow>弹匣容量较小</color>，但威力更强。\n"
+"\n"
+"此武器性能 <good>良好</good>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA T40"
+msgid_plural "RIA T40"
+msgstr[0] "RIA T40"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 40 is the second LMG produced by <info>Rubicon Industries</info> \n"
+"The RIA T40 is simply a slightly re-designed version of RIA 40. In addition, it has some glowing red lines, the RIA T40 has a <color_yellow>smaller magazine</color> compared to the other LMGs, but it packs an even harder punch.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA T40 是 <info>Rubicon 工业公司</info> 生产的第二款轻机枪。\n"
+"RIA T40 是 RIA 40 的略微重新设计版本。此外，它带有一些发光的红色线条。与其他轻机枪相比，RIA T40 的 <color_yellow>弹匣容量较小</color>，但威力更强。\n"
+"\n"
+"此武器性能 <good>良好</good>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "RIA 45"
+msgid_plural "RIA 45"
+msgstr[0] "RIA 45"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 45 is a LMG produced by <info>Rubicon Industries</info> \n"
+"it's an attempt to produce a <good>lighter</good> version of the RIA40. the RIA 45 Para is modeled after its linemate, the RIA 40. It has a telescopic sight as well. The only things that makes it different from the RIA 45 is a hollow buttstock and a shorter barrel.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 45 是 <info>Rubicon 工业公司</info> 生产的一款轻机枪。\n"
+"它是尝试生产 RIA40 的 <good>更轻</good> 版本。RIA 45 Para 以其同系列产品 RIA 40 为蓝本，同样配有伸缩式瞄准镜。它与 RIA 45 的唯一区别在于中空的枪托和更短的枪管。\n"
+"\n"
+"此武器性能 <good>良好</good>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "2 rd"
+msgstr "2 发"
+
+#: .\xeno_weapons.json
+msgid "RIA 50"
+msgid_plural "RIA 50"
+msgstr[0] "RIA 50"
+
+#: .\xeno_weapons.json
+msgid ""
+"The RIA 50 is a sniper rifle produced by <info>Rubicon industries</info> \n"
+"The RIA 50 appears to be a futuristic sniper rifle based on the Sako TRG-42 with a fitted Muzzle Break. However, the RIA 50 does not have a bolt like its possible real-life counterpart, most likely due to the fact that the rifle is <good>fully automatic</good>.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"RIA 50 是 <info>Rubicon 工业公司</info> 生产的一款狙击步枪。\n"
+"RIA 50 似乎是一款基于 Sako TRG-42 的未来风格狙击步枪，配有制式枪口制退器。然而，RIA 50 没有其现实原型那样的枪栓，很可能是因为这把步枪是 <good>全自动</good> 的。\n"
+"\n"
+"此武器性能 <good>良好</good>，<good>可能不易发生故障</good>且<good>相当耐用。</good>\n"
+"\n"
+"<info>Xeno 的 SAS4 武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 202"
+msgid_plural "CM 202"
+msgstr[0] "CM 202"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 202 is a pistol manufactured by <info>Critical Mass</info> \n"
+"The CM 202 is weaker than his brothers (the CM 205 and the CM 225), Its under-barrel magazine fed design is similar to the Mauser C96 and the TEC-9, despite the use of a very <info>high caliber</info> the magazines can hold a <good>decent ammount</good> of ammunition.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 202 是由 <info>Critical Mass</info> 制造的手枪。\n"
+"CM 202 比它的兄弟型号（CM 205 和 CM 225）要弱，其弹匣位于枪管下方的设计类似于毛瑟 C96 和 TEC-9，尽管使用了非常<info>大口径</info>的弹药，但弹匣仍能容纳<good>相当数量</good>的弹药。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 205"
+msgid_plural "CM 205"
+msgstr[0] "CM 205"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 205 is a pistol manufactured by <info>Critical Mass</info> \n"
+"The CM 205 seems to be a modified version of the CM 202, having a more detailed build on the exterior, a <good>larger magazine</good> and a telescopic sight, Its under-barrel magazine fed design is similar to the Mauser C96 and the TEC-9.\n"
+"the choice of using a <info>small caliber</info> makes this weapon's magazine <good>hold more bullets</good>, while the internals make the bullet <good>travels twice as fast</good>. also the small caliber and powerful internals make this weapons able to <good>shoot automatically</good>.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 205 是由 <info>Critical Mass</info> 制造的手枪。\n"
+"CM 205 似乎是 CM 202 的改进版本，外部结构更加精细，拥有<good>更大的弹匣</good>和一个伸缩式瞄准镜，其弹匣位于枪管下方的设计类似于毛瑟 C96 和 TEC-9。\n"
+"选择使用<info>小口径</info>弹药使得这把武器的弹匣<good>能容纳更多子弹</good>，同时内部结构使子弹<good>飞行速度加倍</good>。此外，小口径和强大的内部结构使这把武器能够<good>自动射击</good>。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "burst"
+msgstr "连发"
+
+#: .\xeno_weapons.json
+msgid "CM 225"
+msgid_plural "CM 225"
+msgstr[0] "CM 225"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 225 is a pistol manufactured by <info>Critical Mass</info> \n"
+"The CM 205 seems to be a modified version of the CM 202, being more detailed in build and having more size on containing the <good>much larger clip</good>, Its under-barrel magazine fed design is similar to the Mauser C96 and the TEC-9.\n"
+"the choice of using a <info>small caliber</info> makes this weapon's magazine hold <info>more bullets</info>, also being able to hold more bullets than its predecessor, while the internals make the bullets travel twice as fast. also the small caliber and powerful internals make this weapons able to <good>shoot automatically</good>.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 225 是由 <info>Critical Mass</info> 制造的手枪。\n"
+"CM 205 似乎是 CM 202 的改进版本，结构更加精细，尺寸更大以容纳<good>更大的弹匣</good>，其弹匣位于枪管下方的设计类似于毛瑟 C96 和 TEC-9。\n"
+"选择使用<info>小口径</info>弹药使得这把武器的弹匣能容纳<info>更多子弹</info>，比其前代型号能装更多子弹，同时内部结构使子弹飞行速度加倍。此外，小口径和强大的内部结构使这把武器能够<good>自动射击</good>。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手枪"
+
+#: .\xeno_weapons.json
+msgid "CM 307"
+msgid_plural "CM 307"
+msgstr[0] "CM 307"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 307 is an SMG manufactured by <info>Critical Mass</info> \n"
+"The CM 307 looks like an oversized squared desert eagle, it <bad>holds very little ammunition</bad>, but its <good>massive firerate</good> and very <good>little recoil</good> make it an effective weapon against armored enemies. it's covered in white paneling with gray lines and a bright blue LED, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 307 是由 <info>Critical Mass</info> 制造的冲锋枪。\n"
+"CM 307 看起来像一把放大的方形沙漠之鹰，它<bad>弹药容量很小</bad>，但其<good>极高的射速</good>和<good>极小的后坐力</good>使其成为对抗装甲敌人的有效武器。它覆盖着白色面板，带有灰色线条和明亮的蓝色 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 330"
+msgid_plural "CM 330"
+msgstr[0] "CM 330"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 330 is an SMG manufactured by <info>Critical Mass</info> \n"
+"The CM 330 is the upgraded version of it's predecessor, the CM 307, it's looks all around the same but it holds it's magazine slightly diagonally away from its handle. it holds <bad>very little ammunition</bad>, but its <good>massive firerate</good> and very <good>little recoil</good> make it an effective weapon against armored enemies. it's covered in white paneling with gray lines and a bright blue LED, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 330 是由 <info>Critical Mass</info> 制造的冲锋枪。\n"
+"CM 330 是其前代型号 CM 307 的升级版，外观大致相同，但其弹匣略微倾斜远离握把。它<bad>弹药容量很小</bad>，但其<good>极高的射速</good>和<good>极小的后坐力</good>使其成为对抗装甲敌人的有效武器。它覆盖着白色面板，带有灰色线条和明亮的蓝色 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 351 Sunflare"
+msgid_plural "CM 351 Sunflare"
+msgstr[0] "CM 351 日光闪耀"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 351 Sunflare is an SMG manufactured by <info>Critical Mass</info> \n"
+"The CM 351 is an attempt from CM to upgrade the CM 307's magazine size, it's looks all around the same but it's magazine is covered by a white holder placed inf ront of the grip and can use slightly longer magazines. its <good>massive firerate</good> and very <good>little recoil</good> make it an effective weapon against armored enemies. it's covered in white paneling with gray lines and a bright blue LED, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 351 日光闪耀是由 <info>Critical Mass</info> 制造的冲锋枪。\n"
+"CM 351 是 CM 公司试图升级 CM 307 弹匣容量的尝试，外观大致相同，但其弹匣被一个白色支架覆盖，放置在握把前方，并且可以使用稍长的弹匣。其<good>极高的射速</good>和<good>极小的后坐力</good>使其成为对抗装甲敌人的有效武器。它覆盖着白色面板，带有灰色线条和明亮的蓝色 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM Gigavolt"
+msgid_plural "CM Gigavolt"
+msgstr[0] "CM 千兆伏特"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM Gigavolt is an assault rifle manufactured by <info>Critical Mass</info> \n"
+"The CM Gigavolt is an assault rifle that looks quite heavy but instead is <good>relatively light</good>, it doesn't have a forward grip and has an integrated sight but has a rail to install a secon sight. it's covered in white paneling with gray lines and a bright blue LED in the middle and multiple smaller leds on the sides of the barrel, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 千兆伏特是由 <info>Critical Mass</info> 制造的突击步枪。\n"
+"CM 千兆伏特是一把看起来相当沉重但实际上<good>相对较轻</good>的突击步枪，它没有前握把，但有一个集成瞄准镜，并有一个导轨可以安装第二个瞄准镜。它覆盖着白色面板，带有灰色线条，中间有一个明亮的蓝色 LED 灯，枪管两侧有多个较小的 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 401 Planet Stormer"
+msgid_plural "CM 401 Planet Stormer"
+msgstr[0] "CM 401 行星风暴者"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 401 Planet Stormer is an assault rifle manufactured by <info>Critical Mass</info> \n"
+"The CM 401 is an assault rifle that looks quite heavy but instead is <good>relatively light</good>, it has been manufactured after the CM Gigavolt to compensate it's lack of easy mag removal. it's covered in white paneling with gray lines and a bright blue LED in the middle, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 401 行星风暴者是由 <info>Critical Mass</info> 制造的突击步枪。\n"
+"CM 401 是一把看起来相当沉重但实际上<good>相对较轻</good>的突击步枪，它在 CM 千兆伏特之后制造，以弥补其弹匣不易拆卸的缺点。它覆盖着白色面板，带有灰色线条，中间有一个明亮的蓝色 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 440 Titan"
+msgid_plural "CM 440 Titam"
+msgstr[0] "CM 440 泰坦"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 440 Titan is an assault rifle manufactured by <info>Critical Mass</info> \n"
+"The CM Titan has been manufactured after the CM Gigavolt to compensate it's lack of easy mag removal and also make it <good>more  versatile</good>, it has <good>two slots</good> to add <good>underbarrer</good> components and has <good>easier carrying capability</good>. it's covered in white paneling with gray lines and a bright blue LED in the middle, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 440 泰坦是由 <info>Critical Mass</info> 制造的突击步枪。\n"
+"CM 泰坦在 CM 千兆伏特之后制造，以弥补其弹匣不易拆卸的缺点，并使其<good>更加多功能</good>，它拥有<good>两个插槽</good>可以添加<good>下挂</good>组件，并具备<good>更便捷的携带能力</good>。它覆盖着白色面板，带有灰色线条，中间有一个明亮的蓝色 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 451 Starburst"
+msgid_plural "CM 451 Starburst"
+msgstr[0] "CM 451 星爆"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 451 Starburst is an assault rifle manufactured by <info>Critical Mass</info> \n"
+"The CM 451 is an assault rifle that looks quite heavy but instead is <good>relatively light</good>, it has been manufactured after the CM Gigavolt to compensate it's lack of easy mag removal and compatability with an <good>even bigger magazine</good>. it's covered in white paneling with gray lines and a bright blue LED in the middle and some LEDs on the barrel sides, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 451 星爆是由 <info>Critical Mass</info> 制造的突击步枪。\n"
+"CM 451 是一把看起来相当沉重但实际上<good>相对较轻</good>的突击步枪，它在 CM 千兆伏特之后制造，以弥补其弹匣不易拆卸的缺点，并兼容<good>更大的弹匣</good>。它覆盖着白色面板，带有灰色线条，中间有一个明亮的蓝色 LED 灯，枪管侧面有一些 LED 灯，全部安装在黑色结构上。\n"
+"\n"
+"这把武器<good>性能良好</good>，<good>可能不会发生故障</good>，并且<good>相当耐用</good>。\n"
+"\n"
+"<info>Xeno's SAS4 武器包 Mod 内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Sub-Light COM2 (CM)"
+msgid_plural "Sub-Light COM2 (CM)"
+msgstr[0] "亚光 COM2 (CM)"
+
+#: .\xeno_weapons.json
+msgid ""
+"Sublight COM2 rounds travel the last meter or so at <good>very high speeds</good> through <info>'Centre Of Mass Displacement'</info> technology. Recorded speeds of the 127mm COM2 rounds are close to 100,000 meters per second. Enough to leave a big hole in just about anything. it's covered in white paneling with gray lines and a bright blue LED in the middle and some LEDs on the barrel sides, all placed on top of a black structure.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"亚光速COM2弹药通过<info>“质心位移”</info>技术在最后约一米距离内以<good>极高速</good>飞行。记录的127毫米COM2弹药速度接近每秒100,000米，足以在几乎所有物体上留下大洞。武器表面覆盖白色镶板，带有灰色线条，中间有明亮的蓝色LED，枪管侧面也有一些LED灯，全部安装在黑色结构上。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "CM 505"
+msgid_plural "CM 505"
+msgstr[0] "CM 505"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 505 is a LMG produced by <info>critical mass</info> \n"
+"the CM 505 delivers a punishing rate of fire with incredible stopping power. A massive belt of rounds keeps it shooting harder, for longer. this weapon has a bright LED on it's side and uses a cylindrical shaped drum magazine.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 505是由<info>临界质量</info>生产的轻机枪，以惊人的停止威力提供惩罚性的射速。巨大的弹链使其能持续更长时间地猛烈射击。此武器侧面有明亮的LED灯，并使用圆柱形弹鼓。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "short burst"
+msgstr "短点射"
+
+#: .\xeno_weapons.json
+msgid "CM 530 BabyCOM"
+msgid_plural "CM 530 BabyCOM"
+msgstr[0] "CM 530 BabyCOM"
+
+#: .\xeno_weapons.json
+msgid ""
+"The CM 530 BabyCOMis a LMG produced by <info>critical mass</info>, \n"
+"the CM 530 BabyCOM delivers a punishing rate of fire with incredible stopping power. A massive belt of rounds keeps it shooting harder, for longer. it also uses COM (Center Of Mass) technology to increase the bullet's speed and damage. this weapon has a bright LED on it's side and uses a cylindrical shaped drum magazine.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"CM 530 BabyCOM是由<info>临界质量</info>生产的轻机枪，以惊人的停止威力提供惩罚性的射速。巨大的弹链使其能持续更长时间地猛烈射击。它还使用COM（质心）技术来提高子弹速度和伤害。此武器侧面有明亮的LED灯，并使用圆柱形弹鼓。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Hotspot"
+msgid_plural "Hotspots"
+msgstr[0] "热点"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Hotspot uses intensified <info>microwave energy</info> to destroy organic targets easily, Although the Hotspot is a laser, it still has a range. Because of this, the laser beam can terminate in midair. it's produced by <info>Rancor</info>\n"
+"\n"
+"This weapon is <good>unique</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"热点使用强化的<info>微波能量</info>轻松摧毁有机目标。尽管热点是激光武器，它仍有射程限制，因此激光束可能在半空中终止。它由<info>Rancor</info>生产。\n"
+"\n"
+"此武器<good>独特</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "very short stream"
+msgstr "极短流"
+
+#: .\xeno_weapons.json
+msgid "short stream"
+msgstr "短流"
+
+#: .\xeno_weapons.json
+msgid "long stream"
+msgstr "长流"
+
+#: .\xeno_weapons.json
+msgid "very long stream"
+msgstr "极长流"
+
+#: .\xeno_weapons.json
+msgid "Poison Claw"
+msgid_plural "Poison Claws"
+msgstr[0] "毒爪"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Poison Claw is one of the only pistol designed by Rancor \n"
+"the weapon can be inspired by the look of the Vita-Saw from TF2n\n"
+"it has a huge razor sharp blade under the weapon making it impossible to mount underbarrel accessories, and a small liquid tank on top covering the sights, the small liquid tank hold multiple liters of acid concentrated in an atomic shrinker enivoment, making for an effectively endless source of acid, the acid is then poured inside the bullet as you press the trigger to shoot off a bullet of concentrated acid inside of the enemy.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"毒爪是Rancor设计的少数手枪之一，其外观可能受《军团要塞2》中生命之锯的启发。武器下方有一把巨大的锋利刀刃，使其无法安装下挂配件，顶部有一个小液体罐覆盖瞄准具。小液体罐在原子压缩环境中储存多升浓缩酸液，提供几乎无限的酸液来源。扣动扳机时，酸液被注入子弹，向敌人射出浓缩酸弹。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Mixmaster"
+msgid_plural "Mixmasters"
+msgstr[0] "混音大师"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Mixmaster is an assault rifle produced by Rancor \n"
+"it shoots super powered molted plasma from the air using battery power and has the unique ability to shoot two flechettes per trigger pull \n"
+"This rifle is often designated as a crowd control gun thanks to the flechette, the metal weapon build is covered in metal spikes on top of it's red metal plates placed on top of the black metal frame.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"混音大师是Rancor生产的突击步枪，利用电池能量从空气中发射超强熔融等离子，并具有每次扣动扳机发射两枚箭弹的独特能力。由于箭弹特性，此步枪常被指定为人群控制武器。金属武器结构上覆盖金属尖刺，红色金属板安装在黑色金属框架上。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Hard Thorn"
+msgid_plural "Hard Thorns"
+msgstr[0] "硬棘"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Hard Thorn is an assault rifle produced by Rancor \n"
+"it shoots high caliber bullets, using super speed technology to burst the bullet in multiple shreds behaving like a shotgun with the same power and range of an assault rifle. \n"
+"This rifle is often designated as a crowd control gun thanks to the high spread and range, the metal weapon build is covered in metal spikes on top of it's red metal plates placed on top of the black metal frame.\n"
+"this weapon has a sharp blade with multiple spikes under it's barrel, making it impossible to attach underbarrel modifications but a very effective melee weapon.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"硬棘是Rancor生产的突击步枪，发射大口径子弹，利用超速技术使子弹爆裂成多块碎片，行为类似霰弹枪，但具有突击步枪的威力和射程。由于高扩散和射程，此步枪常被指定为人群控制武器。金属武器结构上覆盖金属尖刺，红色金属板安装在黑色金属框架上。枪管下方有一把带多个尖刺的锋利刀刃，使其无法安装下挂改装件，但作为近战武器非常有效。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Heartburn"
+msgid_plural "Heartburns"
+msgstr[0] "烧心"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Heartburn is an assault rifle manufactured by Rancor \n"
+"the bullets fired from this weapon are molten before exiting the muzzle using high powered molten metal glowing on the sides of the barrel, this molten iron does not provide heat outside of the weapon's build\n"
+" the metal weapon build is covered in metal spikes on top of it's red metal plates placed on top of the black metal frame, it has five razor sharp spikes under and above the barrel making it impossible to mount underbarrel modifications, also on the sides and on the front of the barrel there are bright red glowing lines and circles reminding you about it's unending molten power.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"烧心是Rancor制造的突击步枪，发射的子弹在离开枪口前通过枪管侧面高功率熔融金属加热而熔化，这种熔铁不会在武器结构外散发热量。金属武器结构上覆盖金属尖刺，红色金属板安装在黑色金属框架上。枪管上下各有五根锋利尖刺，使其无法安装下挂改装件。枪管侧面和前方还有明亮的红色发光线条和圆圈，提醒你其无尽的熔融力量。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"
+
+#: .\xeno_weapons.json
+msgid "Stripper"
+msgid_plural "Strippers"
+msgstr[0] "剥离者"
+
+#: .\xeno_weapons.json
+msgid ""
+"the Stripper is a heavy automatic shotgun manufactured by Rancor, The Stripper is lever action like the 1887 Shockfield (even though the Stripper is still fully automatic, oddly enough)\n"
+"the shotgun has a bayonet like blade under the barrel, but it's small enough so that it's possible to mount an underbarrel modification.\n"
+"\n"
+"This weapon is <good>good</good> and will <good>probably not malfunction</good> and <good>will handle quite the beating.</good>\n"
+"\n"
+"<info>Xeno's SAS4 Weapons pack Modded Content</info>"
+msgstr ""
+"剥离者是Rancor制造的重型自动霰弹枪，采用类似1887 Shockfield的杠杆动作（尽管剥离者仍然是全自动的，这很奇怪）。霰弹枪枪管下方有一把刺刀式刀刃，但足够小，因此可以安装下挂改装件。\n"
+"\n"
+"此武器<good>性能优良</good>，<good>可能不会发生故障</good>，且<good>能承受相当程度的打击</good>。\n"
+"\n"
+"<info>Xeno的SAS4武器包模组内容</info>"

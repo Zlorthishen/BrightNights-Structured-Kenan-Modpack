@@ -1,0 +1,915 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: CBM_Arms\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\cbma_ammo.json
+msgid "molded glaze"
+msgid_plural "molded glaze"
+msgstr[0] "成型釉料"
+
+#. ~ Description for {'str': 'molded glaze', 'str_pl': 'molded glaze'}
+#: .\cbma_ammo.json
+msgid ""
+"It is a molded glaze used for firing the glaze hammer. Steel exteriors are "
+"damaged at launch and can not be reused."
+msgstr "這是一種用於燒製釉錘的成型釉料。鋼製外殼在發射時受損，無法重複使用。"
+
+#: .\cbma_ammo.json
+msgid "iron electromagnetic projectile"
+msgid_plural "iron electromagnetic projectiles"
+msgstr[0] "鐵質電磁彈"
+
+#. ~ Description for {'str': 'iron electromagnetic projectile', 'str_pl':
+#. 'iron electromagnetic projectiles'}
+#: .\cbma_ammo.json
+msgid ""
+"A rod for electromagnetic projectile guns made of iron. It is easy to make, "
+"but it is fragile compared to other EM projectiles, so it lacks flight "
+"distance and stability."
+msgstr "一種由鐵製成的電磁彈射槍用彈杆。它易於製造，但與其他電磁彈相比較為脆弱，因此射程和穩定性不足。"
+
+#: .\cbma_ammo.json
+msgid "steel electromagnetic projectile"
+msgid_plural "steel electromagnetic projectiles"
+msgstr[0] "鋼質電磁彈"
+
+#. ~ Description for {'str': 'steel electromagnetic projectile', 'str_pl':
+#. 'steel electromagnetic projectiles'}
+#: .\cbma_ammo.json
+msgid ""
+"A rod for electromagnetic projectile guns made of steel. It is a standard "
+"projectile with stable performance."
+msgstr "一種由鋼製成的電磁彈射槍用彈杆。它是一種性能穩定的標準彈體。"
+
+#: .\cbma_ammo.json
+msgid "superalloy electromagnetic projectile"
+msgid_plural "superalloy electromagnetic projectiles"
+msgstr[0] "超級合金電磁彈"
+
+#. ~ Description for {'str': 'superalloy electromagnetic projectile',
+#. 'str_pl': 'superalloy electromagnetic projectiles'}
+#: .\cbma_ammo.json
+msgid ""
+"A rod for electromagnetic projectile guns made of superalloy. It is a "
+"projectile with high performance due to its excellent electrical and "
+"chemical properties."
+msgstr "一種由超級合金製成的電磁彈射槍用彈杆。由於其優異的電學和化學特性，它是一種高性能彈體。"
+
+#: .\cbma_ammo.json
+msgid "electromagnetic projectile magazine"
+msgid_plural "electromagnetic projectile magazines"
+msgstr[0] "電磁彈彈匣"
+
+#. ~ Description for {'str': 'electromagnetic projectile magazine', 'str_pl':
+#. 'electromagnetic projectile magazines'}
+#: .\cbma_ammo.json
+msgid ""
+"A magazine dedicated to the improved electromagnetic projectile gun. You can"
+" load up to 20 rods."
+msgstr "專為改進型電磁彈射槍設計的彈匣。最多可裝載20根彈杆。"
+
+#: .\cbma_ammo_types.json
+msgid "ammo pile"
+msgstr "彈藥堆"
+
+#: .\cbma_ammo_types.json
+msgid "electromagnetic projectiles"
+msgstr "電磁投射物"
+
+#: .\cbma_armors.json
+msgid "bionic armor"
+msgid_plural "bionic armors"
+msgstr[0] "仿生護甲"
+
+#. ~ Description for {'str': 'bionic armor'}
+#: .\cbma_armors.json
+msgid ""
+"A strong and lightweight protective suit that combines superalloy and "
+"Kevlar. It protects you firmly against physical factors."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護服。它能為你提供堅實的物理防護。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic armor (off)"
+msgid_plural "enhanced bionic armor (off)s"
+msgstr[0] "增強型仿生護甲（關閉）"
+
+#. ~ Use action msg for {'str': 'enhanced bionic armor (off)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic helmet (off)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic gloves (off)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic boots (off)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic duster (off)'}.
+#. ~ Use action msg for {'str': 'bionic transport frame (off)'}.
+#. ~ Use action msg for {'str': 'inner armored suit (off)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic armor (off) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced helmet (off) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic gloves (off) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic boots (off) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic duster (off) (UPS)'}.
+#. ~ Use action msg for {'str': 'inner armored suit (off) (UPS)'}.
+#: .\cbma_armors.json
+msgid "You activate your %s."
+msgstr "你激活了你的%s。"
+
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic armor (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic helmet (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic gloves (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic boots (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic duster (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'bionic transport frame (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'inner armored suit (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic armor (off)
+#. (UPS)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced helmet (off) (UPS)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic gloves (off)
+#. (UPS)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic boots (off)
+#. (UPS)'}.
+#. ~ Use action need_charges_msg for {'str': 'enhanced bionic duster (off)
+#. (UPS)'}.
+#. ~ Use action need_charges_msg for {'str': 'inner armored suit (off)
+#. (UPS)'}.
+#: .\cbma_armors.json
+msgid "The system started for a moment... and then went silent."
+msgstr "系統啟動了一瞬間……然後歸於沉寂。"
+
+#. ~ Description for {'str': 'enhanced bionic armor (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective suit that combines superalloys and "
+"Kevlar, this is a gem that should be called Survivor Power Armor. Power for "
+"normal operation is supplied by Solar and Ratchet."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護服，堪稱倖存者動力裝甲的瑰寶。正常運行所需的電力由太陽能與棘輪裝置提供。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic armor (on)"
+msgid_plural "enhanced bionic armor (on)s"
+msgstr[0] "增強型仿生護甲（開啟）"
+
+#. ~ Use action msg for {'str': 'enhanced bionic armor (on)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic helmet (on)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic gloves (on)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic boots (on)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic duster (on)'}.
+#. ~ Use action msg for {'str': 'bionic transport frame (on)'}.
+#. ~ Use action msg for {'str': 'inner armored suit (on)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic armor (on) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic helmet (on) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic gloves (on) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic boots (on) (UPS)'}.
+#. ~ Use action msg for {'str': 'enhanced bionic duster (on) (UPS)'}.
+#. ~ Use action msg for {'str': 'inner armored suit (on) (UPS)'}.
+#: .\cbma_armors.json
+msgid "Your %s deactivates."
+msgstr "你的%s已停用。"
+
+#. ~ Description for {'str': 'enhanced bionic armor (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective suit that combines superalloys and "
+"Kevlar, this is a gem that should be called Survivor Power Armor. The built-"
+"in mechanism that is activated strengthens the cardiopulmonary function and "
+"can exert greater power than usual."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護服，堪稱倖存者動力裝甲的瑰寶。激活的內置機制強化了心肺功能，能夠發揮出比平常更強大的力量。"
+
+#: .\cbma_armors.json
+msgid "bionic helmet"
+msgid_plural "bionic helmets"
+msgstr[0] "仿生頭盔"
+
+#. ~ Description for {'str': 'bionic helmet'}
+#: .\cbma_armors.json
+msgid ""
+"A tough, lightweight protective helmet that combines superalloys and Kevlar."
+" It protects you firmly against physical factors."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護頭盔。它能為你提供堅實的物理防護。"
+
+#: .\cbma_armors.json
+msgid "bionic mask"
+msgid_plural "bionic masks"
+msgstr[0] "仿生面罩"
+
+#. ~ Description for {'str': 'bionic mask'}
+#: .\cbma_armors.json
+msgid ""
+"A tough, lightweight protective mask that combines superalloys and Kevlar. "
+"It protects you strongly from various environmental factors besides physical"
+" factors."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護面罩。除了物理因素外，它還能強力保護你免受各種環境因素的影響。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic helmet (off)"
+msgid_plural "enhanced bionic helmet (off)s"
+msgstr[0] "增強型仿生頭盔（關閉）"
+
+#. ~ Description for {'str': 'enhanced bionic helmet (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective helmet that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. By "
+"activating various expansion systems installed inside, it is possible to "
+"operate under various environments."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護頭盔，堪稱倖存者動力裝甲的瑰寶。通過激活內部安裝的各種擴展系統，可以在各種環境下操作。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic helmet (on)"
+msgid_plural "enhanced bionic helmet (on)s"
+msgstr[0] "增強型仿生頭盔（開啟）"
+
+#. ~ Description for {'str': 'enhanced bionic helmet (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective helmet that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. It operates "
+"the built-in expansion system and is capable of aiming assistance, loud "
+"protection, and underwater activities."
+msgstr ""
+"一種結合了超級合金與凱夫拉縴維的堅固輕便防護頭盔，堪稱倖存者動力裝甲的瑰寶。它運行內置的擴展系統，能夠提供瞄準輔助、噪音防護和水下活動支持。"
+
+#: .\cbma_armors.json
+msgid "bionic gloves"
+msgid_plural "bionic glovess"
+msgstr[0] "仿生手套"
+
+#. ~ Description for {'str': 'bionic gloves'}
+#: .\cbma_armors.json
+msgid ""
+"A pair of superalloys and Kevlar combined with a strong, lightweight arm "
+"covering the entire arm. It protects you firmly against physical factors."
+msgstr "一副結合了超級合金與凱夫拉縴維的堅固輕便護臂，覆蓋整個手臂。它能為你提供堅實的物理防護。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic gloves (off)"
+msgid_plural "enhanced bionic gloves (off)s"
+msgstr[0] "增強型仿生手套（關閉）"
+
+#. ~ Description for {'str': 'enhanced bionic gloves (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight pair of superalloys and Kevlar combined with a "
+"further improvement to the hand, this is a gem that should be called "
+"Survivor Power Armor."
+msgstr "一副結合了超級合金與凱夫拉縴維的堅固輕便手套，對手部進行了進一步改進，堪稱倖存者動力裝甲的瑰寶。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic gloves (on)"
+msgid_plural "enhanced bionic gloves (on)s"
+msgstr[0] "增強型仿生手套（開啟）"
+
+#. ~ Description for {'str': 'enhanced bionic gloves (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight pair of superalloys and Kevlar combined with a "
+"further improvement to the hand, this is a gem that should be called "
+"Survivor Power Armor. The embedded electronic auxiliary system enables "
+"accurate operation and does not disturb the operation at all."
+msgstr ""
+"一副結合了超級合金與凱夫拉縴維的堅固輕便手套，對手部進行了進一步改進，堪稱倖存者動力裝甲的瑰寶。嵌入的電子輔助系統實現了精確操作，完全不會干擾操作。"
+
+#: .\cbma_armors.json
+msgid "bionic boots"
+msgid_plural "bionic bootss"
+msgstr[0] "仿生靴"
+
+#. ~ Description for {'str': 'bionic boots'}
+#: .\cbma_armors.json
+msgid ""
+"A tough, lightweight protective boot that combines superalloy and Kevlar. It"
+" protects you firmly against physical factors."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護靴。它能為你提供堅實的物理防護。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic boots (off)"
+msgid_plural "enhanced bionic boots (off)s"
+msgstr[0] "增強型仿生靴（關閉）"
+
+#. ~ Description for {'str': 'enhanced bionic boots (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective boot that combines superalloys and "
+"Kevlar, it is a gem to be called Survivor Power Armor. When activated, it "
+"activates the lower limb operation support device."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護靴，堪稱倖存者動力裝甲的瑰寶。激活時，它會啟動下肢操作支持裝置。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic boots (on)"
+msgid_plural "enhanced bionic boots (on)s"
+msgstr[0] "增強型仿生靴（開啟）"
+
+#. ~ Description for {'str': 'enhanced bionic boots (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective boot that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. The lower-"
+"limb aiding device is in operation and helps more accurate avoidance and "
+"positioning."
+msgstr "一種結合了超級合金與凱夫拉縴維的堅固輕便防護靴，堪稱倖存者動力裝甲的瑰寶。下肢輔助裝置正在運行，有助於更精準的閃避和定位。"
+
+#: .\cbma_armors.json
+msgid "bionic duster"
+msgid_plural "bionic dusters"
+msgstr[0] "仿生防塵大衣"
+
+#. ~ Description for {'str': 'bionic duster'}
+#: .\cbma_armors.json
+msgid ""
+"A carbon fiber and Kevlar composite coat for ease of movement and "
+"accommodation."
+msgstr "一件由碳纖維和凱夫拉複合材料製成的大衣，便於活動與適應。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic duster (off)"
+msgid_plural "enhanced bionic duster (off)s"
+msgstr[0] "增強型仿生防塵大衣（關閉）"
+
+#. ~ Description for {'str': 'enhanced bionic duster (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A specially made coat that incorporates superalloy point armor and a whole-"
+"body dielectric device into the bionic coat. By activating the dielectric "
+"device, the wearer can be protected from electrical damage."
+msgstr "一件特製大衣，將超級合金點狀裝甲和全身絕緣裝置融入仿生大衣中。通過啟動絕緣裝置，穿戴者可免受電擊傷害。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic duster (on)"
+msgid_plural "enhanced bionic duster (on)s"
+msgstr[0] "增強型仿生防塵大衣（開啟）"
+
+#. ~ Description for {'str': 'enhanced bionic duster (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A specially made coat that incorporates superalloy point armor and a whole-"
+"body dielectric device into the bionic coat. The dielectric device is "
+"activated and can protect the wearer from electrical damage."
+msgstr "一件特製大衣，將超級合金點狀裝甲和全身絕緣裝置融入仿生大衣中。絕緣裝置已激活，可保護穿戴者免受電擊傷害。"
+
+#: .\cbma_armors.json
+msgid "bionic transport frame (off)"
+msgid_plural "bionic transport frame (off)s"
+msgstr[0] "仿生運輸框架（關閉）"
+
+#. ~ Description for {'str': 'bionic transport frame (off)'}
+#: .\cbma_armors.json
+msgid ""
+"It is a modified version of the transport frame for Power Armor so that it "
+"can be used alone. It is currently without power."
+msgstr "這是動力裝甲運輸框架的改裝版本，以便單獨使用。目前未通電。"
+
+#: .\cbma_armors.json
+msgid "bionic transport frame (on)"
+msgid_plural "bionic transport frame (on)s"
+msgstr[0] "仿生運輸框架（開啟）"
+
+#. ~ Description for {'str': 'bionic transport frame (on)'}
+#: .\cbma_armors.json
+msgid ""
+"It is a modified version of the transport frame for Power Armor so that it "
+"can be used alone."
+msgstr "這是動力裝甲運輸框架的改裝版本，以便單獨使用。"
+
+#: .\cbma_armors.json
+msgid "inner armored suit (off)"
+msgid_plural "inner armored suit (off)s"
+msgstr[0] "內置裝甲服（關閉）"
+
+#. ~ Description for {'str': 'inner armored suit (off)'}
+#: .\cbma_armors.json
+msgid ""
+"A thin, strong Myamar inner suit covering the entire body. The artificial "
+"muscles are not powered and do not perform as expected. Power supply is "
+"started by starting up."
+msgstr "一件覆蓋全身的輕薄而堅固的邁亞瑪內置服。人造肌肉未通電，無法發揮預期性能。通過啟動來開始供電。"
+
+#: .\cbma_armors.json
+msgid "inner armored suit (on)"
+msgid_plural "inner armored suit (on)s"
+msgstr[0] "內置裝甲服（開啟）"
+
+#. ~ Description for {'str': 'inner armored suit (on)'}
+#: .\cbma_armors.json
+msgid ""
+"A thin, strong Myamar inner suit covering the entire body. Electric power is"
+" supplied to the artificial muscles, and the original performance is "
+"exhibited."
+msgstr "一件覆蓋全身的輕薄而堅固的邁亞瑪內置服。電力供應給人造肌肉，展現出原有性能。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic armor (off) (UPS)"
+msgid_plural "enhanced bionic armor (off) (UPS)s"
+msgstr[0] "增強型仿生裝甲（關閉）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic armor (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective suit that combines superalloys and "
+"Kevlar, this is a gem that should be called Survivor Power Armor. Power for "
+"normal operation is supplied by Solar and Ratchet. It has been modified so "
+"that UPS can supply power."
+msgstr "一套結合超級合金和凱夫拉的堅韌輕便防護服，堪稱倖存者動力裝甲的瑰寶。正常運作的電力由太陽能和棘輪裝置供應。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic armor (on) (UPS)"
+msgid_plural "enhanced bionic armor (on) (UPS)s"
+msgstr[0] "增強型仿生裝甲（開啟）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic armor (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective suit that combines superalloys and "
+"Kevlar, this is a gem that should be called Survivor Power Armor. The built-"
+"in mechanism that is activated strengthens the cardiopulmonary function and "
+"can exert greater power than usual. It has been modified so that the UPS can"
+" supply power."
+msgstr ""
+"一套結合超級合金和凱夫拉的堅韌輕便防護服，堪稱倖存者動力裝甲的瑰寶。激活的內置機制增強心肺功能，能發揮比平時更大的力量。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced helmet (off) (UPS)"
+msgid_plural "enhanced helmet (off) (UPS)s"
+msgstr[0] "增強型頭盔（關閉）（UPS）"
+
+#. ~ Description for {'str': 'enhanced helmet (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective helmet that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. By "
+"activating various expansion systems installed inside, it is possible to "
+"operate under various environments. It has been modified so that the UPS can"
+" supply power."
+msgstr ""
+"一頂結合超級合金和凱夫拉的堅韌輕便防護頭盔，堪稱倖存者動力裝甲的瑰寶。通過激活內部安裝的各種擴展系統，可在多種環境下操作。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic helmet (on) (UPS)"
+msgid_plural "enhanced bionic helmet (on) (UPS)s"
+msgstr[0] "增強型仿生頭盔（開啟）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic helmet (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective helmet that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. It operates "
+"the built-in expansion system and is capable of aiming assistance, loud "
+"protection, and underwater activities. It has been modified so that the UPS "
+"can supply power."
+msgstr ""
+"一頂結合超級合金和凱夫拉的堅韌輕便防護頭盔，堪稱倖存者動力裝甲的瑰寶。操作內置擴展系統，具備瞄準輔助、噪音防護和水下活動能力。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic gloves (off) (UPS)"
+msgid_plural "enhanced bionic gloves (off) (UPS)s"
+msgstr[0] "增強型仿生手套（關閉）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic gloves (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight pair of superalloys and Kevlar combined with a "
+"further improvement to the hand, this is a gem that should be called "
+"Survivor Power Armor. It has been modified so that the UPS can supply power."
+msgstr "一雙結合超級合金和凱夫拉並進一步改進手部功能的堅韌輕便手套，堪稱倖存者動力裝甲的瑰寶。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic gloves (on) (UPS)"
+msgid_plural "enhanced bionic gloves (on) (UPS)s"
+msgstr[0] "增強型仿生手套（開啟）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic gloves (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight pair of superalloys and Kevlar combined with a "
+"further improvement to the hand, this is a gem that should be called "
+"Survivor Power Armor. The embedded electronic auxiliary system enables "
+"accurate operation and does not disturb the operation at all. It has been "
+"modified so that the UPS can supply power."
+msgstr ""
+"一雙結合超級合金和凱夫拉並進一步改進手部功能的堅韌輕便手套，堪稱倖存者動力裝甲的瑰寶。嵌入的電子輔助系統實現精確操作，完全不影響行動。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic boots (off) (UPS)"
+msgid_plural "enhanced bionic boots (off) (UPS)s"
+msgstr[0] "增強型仿生靴（關閉）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic boots (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective boot that combines superalloys and "
+"Kevlar, it is a gem that should be called Survivor Power Armor. When "
+"activated, it activates the lower limb operation support device. It has been"
+" modified so that the UPS can supply power."
+msgstr "一雙結合超級合金和凱夫拉的堅韌輕便防護靴，堪稱倖存者動力裝甲的瑰寶。激活時，啟動下肢操作支持裝置。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic boots (on) (UPS)"
+msgid_plural "enhanced bionic boots (on) (UPS)s"
+msgstr[0] "增強型仿生靴（開啟）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic boots (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A tough and lightweight protective boot that combines superalloys and "
+"Kevlar, it is a gem to be called Survivor Power Armor. The lower-limb aiding"
+" device is in operation and helps more accurate avoidance and positioning. "
+"It has been modified so that the UPS can supply power."
+msgstr "一雙結合超級合金和凱夫拉的堅韌輕便防護靴，堪稱倖存者動力裝甲的瑰寶。下肢輔助裝置正在運行，幫助更精準的閃避和定位。已改裝以便UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic duster (off) (UPS)"
+msgid_plural "enhanced bionic duster (off) (UPS)s"
+msgstr[0] "增強型仿生防塵大衣（關閉）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic duster (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A specially made coat that incorporates superalloy point armor and a whole-"
+"body dielectric device into the bionic coat. By activating the dielectric "
+"device, the wearer can be protected from electrical damage. It has been "
+"modified so that the UPS can supply power."
+msgstr "一件特製大衣，將超合金點狀裝甲和全身絕緣裝置融入仿生大衣中。通過激活絕緣裝置，穿戴者可以免受電擊傷害。它經過改裝，可由UPS供電。"
+
+#: .\cbma_armors.json
+msgid "enhanced bionic duster (on) (UPS)"
+msgid_plural "enhanced bionic duster (on) (UPS)s"
+msgstr[0] "增強型仿生防塵大衣（開啟）（UPS）"
+
+#. ~ Description for {'str': 'enhanced bionic duster (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A specially made coat that incorporates superalloy point armor and a whole-"
+"body dielectric device into the bionic coat. The dielectric device is "
+"activated and can protect the wearer from electrical damage. It has been "
+"modified so that the UPS can supply power."
+msgstr "一件特製大衣，將超合金點狀裝甲和全身絕緣裝置融入仿生大衣中。絕緣裝置已激活，可以保護穿戴者免受電擊傷害。它經過改裝，可由UPS供電。"
+
+#: .\cbma_armors.json
+msgid "inner armored suit (off) (UPS)"
+msgid_plural "inner armored suit (off) (UPS)s"
+msgstr[0] "內置裝甲服（關閉）（UPS）"
+
+#. ~ Description for {'str': 'inner armored suit (off) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A thin and strong inner cover made of Myamar fiber that covers the entire "
+"body so that it can be fed by UPS. The artificial muscles are not powered "
+"and do not perform as expected. Power supply is started by starting up."
+msgstr "一件由邁亞瑪纖維製成的輕薄堅固內襯，覆蓋全身，可由UPS供電。人造肌肉未通電，無法發揮預期性能。通過啟動來開始供電。"
+
+#: .\cbma_armors.json
+msgid "inner armored suit (on) (UPS)"
+msgid_plural "inner armored suit (on) (UPS)s"
+msgstr[0] "內置裝甲服（開啟）（UPS）"
+
+#. ~ Description for {'str': 'inner armored suit (on) (UPS)'}
+#: .\cbma_armors.json
+msgid ""
+"A thin and strong inner cover made of Myamar fiber that covers the entire "
+"body so that it can be fed by UPS. Electric power is supplied to the "
+"artificial muscles, and the original performance is exhibited."
+msgstr "一件由邁亞瑪纖維製成的輕薄堅固內襯，覆蓋全身，可由UPS供電。電力供應給人造肌肉，展現出原有性能。"
+
+#: .\cbma_gun.json
+msgid "EM railgun"
+msgid_plural "EM railguns"
+msgstr[0] "電磁軌道炮"
+
+#: .\cbma_gun.json
+msgid ""
+"A type of railgun that accelerates and ejects a projectile by "
+"electromagnetic induction. The projectile to be ejected is semi-plasma and "
+"can not be reused because it dissolves at the time of impact."
+msgstr "一種通過電磁感應加速併發射彈丸的軌道炮。發射的彈丸為半等離子體，撞擊時會溶解，因此無法重複使用。"
+
+#: .\cbma_gun.json
+msgid "improved EM railgun"
+msgid_plural "improved EM railguns"
+msgstr[0] "改進型電磁軌道炮"
+
+#: .\cbma_gun.json
+msgid ""
+"A type of railgun that accelerates and ejects a projectile by "
+"electromagnetic induction. The acceleration rail is shortened, and multiple "
+"parallelization is provided with a pseudo blaze function. Also, because the "
+"ammunition is made into a magazine, the time for reloading is shortened."
+msgstr "一種通過電磁感應加速併發射彈丸的軌道炮。加速軌道縮短，並配備多重並行化及偽連發功能。此外，由於彈藥採用彈匣式，重新裝填時間縮短。"
+
+#: .\cbma_gun.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\cbma_gun.json
+msgid "burst"
+msgstr "連發"
+
+#: .\cbma_gun.json
+msgid "explosive pile hammer"
+msgid_plural "explosive pile hammers"
+msgstr[0] "爆破樁錘"
+
+#: .\cbma_gun.json
+msgid ""
+"It is a weapon that shoots a superalloy 'pile' at a super high speed and "
+"short distance by the explosive power of glaze loaded in the medicine room. "
+"It's terribly embarrassing and bad, but you can see as many blows as there "
+"is nothing to compare."
+msgstr "這是一種利用藥室中裝載的釉藥爆炸力，在超高速和短距離內發射超合金“樁”的武器。它極其笨重且不便，但其打擊力無與倫比。"
+
+#: .\cbma_gun.json
+msgctxt "gun_type_type"
+msgid "melee"
+msgstr "近戰"
+
+#: .\cbma_gun.json
+msgid "EM pile hammer"
+msgid_plural "EM pile hammers"
+msgstr[0] "電磁樁錘"
+
+#: .\cbma_gun.json
+msgid ""
+"Instead of the explosive power of glaze, it is a weapon that shoots a "
+"superalloy “pile” at an ultra-high speed and short distance by "
+"electromagnetic induction. Although it consumes a great deal of power and is"
+" less powerful than a glazed type, EMP generated by electromagnetic "
+"induction can be expected to cause more damage to robots etc."
+msgstr ""
+"這是一種利用電磁感應而非釉藥爆炸力，在超高速和短距離內發射超合金“樁”的武器。雖然耗電量巨大且威力不如釉藥型，但電磁感應產生的EMP可對機器人等造成更多傷害。"
+
+#: .\cbma_item_actions.json
+msgid "repair armor"
+msgstr "修復裝甲"
+
+#: .\cbma_materials.json
+msgid "myomer"
+msgstr "肌纖維"
+
+#: .\cbma_materials.json
+msgid "ripped"
+msgstr "撕裂"
+
+#: .\cbma_materials.json
+msgid "sliced"
+msgstr "切片"
+
+#: .\cbma_materials.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\cbma_materials.json
+msgid "cut"
+msgstr "割破"
+
+#: .\cbma_materials.json
+msgid "shredded"
+msgstr "粉碎"
+
+#: .\cbma_materials.json
+msgid "tattered"
+msgstr "破爛"
+
+#: .\cbma_materials.json
+msgid "Superalloy"
+msgstr "超級合金"
+
+#: .\cbma_materials.json
+msgid "dented"
+msgstr "凹陷"
+
+#: .\cbma_materials.json
+msgid "marked"
+msgstr "標記"
+
+#: .\cbma_materials.json
+msgid "smashed"
+msgstr "粉碎"
+
+#: .\cbma_materials.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\cbma_professions.json
+msgctxt "profession_male"
+msgid "Debugger for CBMA"
+msgstr "CBMA調試器"
+
+#: .\cbma_professions.json
+msgctxt "profession_female"
+msgid "Debugger for CBMA"
+msgstr "CBMA調試器"
+
+#. ~ Profession (male Debugger for CBMA) description
+#: .\cbma_professions.json
+msgctxt "prof_desc_male"
+msgid "For those cheaters out there."
+msgstr "獻給那些作弊者。"
+
+#. ~ Profession (female Debugger for CBMA) description
+#: .\cbma_professions.json
+msgctxt "prof_desc_female"
+msgid "For those cheaters out there."
+msgstr "獻給那些作弊者。"
+
+#: .\cbma_tools.json
+msgid "myomer repair tool"
+msgid_plural "myomer repair tools"
+msgstr[0] "肌纖維修復工具"
+
+#. ~ Description for {'str': 'myomer repair tool', 'str_pl': 'myomer repair
+#. tools'}
+#: .\cbma_tools.json
+msgid ""
+"A complete set of tools for repairing damaged myomeric fibers. In order to "
+"repair, it is necessary to cancel the power supply to the myomer fiber."
+msgstr "一套用於修復受損肌纖維的完整工具。為了進行修復，需要切斷對肌纖維的電力供應。"
+
+#: .\cbma_tools.json
+msgid "myomer fiber (in culture)"
+msgid_plural "myomer fibers (in culture)"
+msgstr[0] "肌纖維（培養中）"
+
+#. ~ Use action msg for {'str': 'myomer fiber (in culture)', 'str_pl': 'myomer
+#. fibers (in culture)'}.
+#: .\cbma_tools.json
+msgid "It seems that the culture of myomer fibers is complete."
+msgstr "肌纖維的培養似乎已完成。"
+
+#. ~ Use action not_ready_msg for {'str': 'myomer fiber (in culture)',
+#. 'str_pl': 'myomer fibers (in culture)'}.
+#: .\cbma_tools.json
+msgid "It does not seem to be completed yet."
+msgstr "似乎尚未完成。"
+
+#. ~ Description for {'str': 'myomer fiber (in culture)', 'str_pl': 'myomer
+#. fibers (in culture)'}
+#: .\cbma_tools.json
+msgid ""
+"The core of myomer fiber is immersed in the culture solution and grown. The "
+"process will be completed in one hour."
+msgstr "肌纖維核心浸泡在培養液中生長。該過程將在一小時內完成。"
+
+#: .\cbma_tools.json
+msgid "myomer fiber (done)"
+msgid_plural "myomer fibers (done)"
+msgstr[0] "肌纖維（完成）"
+
+#. ~ Description for {'str': 'myomer fiber (done)', 'str_pl': 'myomer fibers
+#. (done)'}
+#: .\cbma_tools.json
+msgid ""
+"The core of myomer fiber was soaked in culture medium and grown. It is "
+"possible to take out the myomer fiber by disassembling."
+msgstr "肌纖維核心已浸泡在培養基中生長。可通過拆卸取出肌纖維。"
+
+#: .\cbma_tools.json
+msgid "myomer fiber"
+msgid_plural "myomer fibers"
+msgstr[0] "肌纖維束"
+
+#. ~ Description for {'str': 'myomer fiber', 'str_pl': 'myomer fibers'}
+#: .\cbma_tools.json
+msgid ""
+"A bundle of refined myomer fibers. It can be used for making and repairing."
+msgstr "一束精煉的肌纖維。可用於製造和修復。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular blade (part)"
+msgid_plural "monomolecular blades (part)"
+msgstr[0] "單分子刀刃（部件）"
+
+#. ~ Description for {'str': 'monomolecular blade (part)', 'str_pl':
+#. 'monomolecular blades (part)'}
+#: .\cbma_weapons.json
+msgid "An extracted blade of a monomolecular blade."
+msgstr "從單分子刀刃上提取出的刀片。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular cutter"
+msgid_plural "monomolecular cutters"
+msgstr[0] "單分子切割器"
+
+#. ~ Description for {'str': 'monomolecular cutter', 'str_pl': 'monomolecular
+#. cutters'}
+#: .\cbma_weapons.json
+msgid ""
+"I have connected a simple handle to the blade of a monomolecular blade. It "
+"is difficult to treat as a weapon, but it looks like it can be treated as a "
+"tool."
+msgstr "我給單分子刀刃的刀片連接了一個簡易手柄。作為武器難以處理，但看起來可以作為工具使用。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular knife"
+msgid_plural "monomolecular knifes"
+msgstr[0] "單分子刀"
+
+#. ~ Description for {'str': 'monomolecular knife', 'str_pl': 'monomolecular
+#. knifes'}
+#: .\cbma_weapons.json
+msgid ""
+"The handle is welded to the blade of the monomolecular blade and can be used"
+" as a weapon. The connection is a bit gritty but maybe it's ok."
+msgstr "手柄已焊接到單分子刀刃的刀片上，可作為武器使用。連接處有點粗糙，但或許沒問題。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular sword"
+msgid_plural "monomolecular swords"
+msgstr[0] "單分子劍"
+
+#. ~ Description for {'str': 'monomolecular sword', 'str_pl': 'monomolecular
+#. swords'}
+#: .\cbma_weapons.json
+msgid ""
+"The durability as a weapon has been greatly improved by making the whole "
+"superalloy made of a monomolecular knife. If it is this, a weapon will be "
+"fine even if it is stepped on by a giant zombie."
+msgstr "通過將單分子刀整體制成超合金，其作為武器的耐久性已大幅提升。若是這樣，即使被巨型殭屍踩踏，武器也能完好無損。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular spear"
+msgid_plural "monomolecular spears"
+msgstr[0] "單分子矛"
+
+#. ~ Description for {'str': 'monomolecular spear', 'str_pl': 'monomolecular
+#. spears'}
+#: .\cbma_weapons.json
+msgid ""
+"A scaly weapon with a long handle attached to the blade of a monomolecular "
+"knife. Even a concrete wall is likely to be pierced... not really."
+msgstr "一種鱗片狀武器，將長柄連接到單分子刀的刀片上。即使是混凝土牆也可能被刺穿……其實不然。"
+
+#: .\cbma_weapons.json
+msgid "Superalloy spike"
+msgid_plural "Superalloy spike"
+msgstr[0] "超合金尖刺"
+
+#. ~ Description for {'str': 'Superalloy spike', 'str_pl': 'Superalloy spike'}
+#: .\cbma_weapons.json
+msgid ""
+"It is a heavy and large pile made of superalloy. There is nothing I can not "
+"treat as a weapon."
+msgstr "這是一根由超合金製成的沉重大型樁。沒有什麼不能作為武器處理的。"
+
+#: .\cbma_weapons.json
+msgid "monomolecular throwing dagger"
+msgid_plural "monomolecular throwing daggers"
+msgstr[0] "單分子飛刀"
+
+#. ~ Description for {'str': 'monomolecular throwing dagger', 'str_pl':
+#. 'monomolecular throwing daggers'}
+#: .\cbma_weapons.json
+msgid ""
+"It is a small knife that is easy to throw as a monomolecular blade. It is "
+"not suitable for swinging directly because it is processed to a shape and "
+"weight that is easy to throw."
+msgstr "這是一種易於投擲的小刀，作為單分子刀刃使用。因其加工成易於投擲的形狀和重量，不適合直接揮舞。"
+
+#: .\martialarts.json
+msgid "Eskrima"
+msgstr "埃斯克rima"
+
+#: .\martialarts.json
+msgid "Fencing"
+msgstr "擊劍術"
+
+#: .\martialarts.json
+msgid "Krav Maga"
+msgstr "以色列格鬥術"
+
+#: .\martialarts.json
+msgid "Medieval Swordsmanship"
+msgstr "中世紀劍術"
+
+#: .\martialarts.json
+msgid "Ninjutsu"
+msgstr "忍術"
+
+#: .\martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr "二天一流"
+
+#: .\martialarts.json
+msgid "Silat"
+msgstr "席拉特"
+
+#: .\martialarts.json
+msgid "Sojutsu"
+msgstr "槍術"
+
+#: .\modinfo.json
+msgid "CBM Equipment"
+msgstr "CBM裝備"
+
+#. ~ Description for CBM Equipment
+#: .\modinfo.json
+msgid "Add various equipment made from CBM."
+msgstr "添加各種由CBM製成的裝備。"

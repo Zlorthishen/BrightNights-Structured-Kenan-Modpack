@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eps_cbm\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\bionics.json
+msgid "Extra Power Storage"
+msgstr "额外能量存储"
+
+#. ~ Description for {'str': 'Extra Power Storage'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. This module alone increases the storage capacity by 150 "
+"kJ, but you can not use the same thing more than once."
+msgstr "这是一个中型模块，可独立于存储设备增加存储容量。仅此模块即可将存储容量提高150千焦，但同一模块不能使用超过一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage CBM"
+msgid_plural "Extra Power Storage CBMs"
+msgstr[0] "额外能量存储CBM"
+
+#. ~ Description for {'str': 'Extra Power Storage CBM', 'str_pl': 'Extra Power
+#. Storage CBMs'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. This module alone increases the storage capacity by "
+"1000, but you can not use the same thing more than once."
+msgstr "这是一个中型模块，可独立于存储设备增加存储容量。仅此模块即可将存储容量提高1000，但同一模块不能使用超过一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage MK.2"
+msgstr "额外能量存储MK.2"
+
+#. ~ Description for {'str': 'Extra Power Storage MK.2'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. Although this module alone increases storage capacity by"
+" 400 kJ, the same thing can not be used more than once."
+msgstr "这是一个中型模块，可独立于存储设备增加存储容量。虽然仅此模块即可将存储容量提高400千焦，但同一模块不能使用超过一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage Upgrade CBM"
+msgid_plural "Extra Power Storage Upgrade CBMs"
+msgstr[0] "额外能量存储升级CBM"
+
+#. ~ Description for {'str': 'Extra Power Storage Upgrade CBM', 'str_pl':
+#. 'Extra Power Storage Upgrade CBMs'}
+#: .\bionics.json
+msgid ""
+"This is an improved kit that strengthens the body expansion type storage "
+"device to MK.II. This module can not be handled alone."
+msgstr "这是一个改进套件，可将身体扩展型存储设备强化至MK.II。此模块无法单独使用。"
+
+#: .\modinfo.json
+msgid "Large capacity storage CBMs"
+msgstr "大容量存储型CBM"
+
+#. ~ Description for Large capacity storage CBMs
+#: .\modinfo.json
+msgid "Adds a large capacity storage device CBM."
+msgstr "添加一种大容量存储设备CBM。"

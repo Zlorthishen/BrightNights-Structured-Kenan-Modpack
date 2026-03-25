@@ -1,0 +1,1589 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: adv_gear\n"
+"POT-Creation-Date: 2026-03-14 05:21+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Crafting recipes category name
+#: .\definitions.json
+msgid "NANO"
+msgstr "纳米"
+
+#. ~ Crafting recipes subcategory all
+#: .\definitions.json
+msgid "ALL"
+msgstr "全部"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "AMMO"
+msgstr "弹药"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "WIELD"
+msgstr "挥舞"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "WEAR"
+msgstr "穿戴"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "TOOLS"
+msgstr "工具"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "MATERIALS"
+msgstr "材料"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "NANITES"
+msgstr "纳米机器人"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "VEHICLE"
+msgstr "载具"
+
+#. ~ Crafting recipes subcategory of 'NANO' category
+#: .\definitions.json
+msgid "OTHER"
+msgstr "其他"
+
+#: .\definitions.json
+msgid "nanotech monster"
+msgid_plural "nanotech monsters"
+msgstr[0] "纳米科技怪物"
+
+#: .\definitions.json
+msgid "nanotech"
+msgstr "纳米科技"
+
+#: .\definitions.json
+msgid "compressed"
+msgstr "压缩"
+
+#: .\definitions.json
+msgid "gouged"
+msgstr "凿痕"
+
+#: .\definitions.json
+msgid "80% integrity"
+msgstr "80% 完整度"
+
+#: .\definitions.json
+msgid "60% integrity"
+msgstr "60% 完整度"
+
+#: .\definitions.json
+msgid "40% integrity"
+msgstr "40% 完整度"
+
+#: .\definitions.json
+msgid "20% integrity"
+msgstr "20% 完整度"
+
+#: .\definitions.json
+msgid "nanite fabrication"
+msgstr "纳米机器人制造"
+
+#: .\definitions.json
+msgid "nanite programming"
+msgstr "纳米机器人编程"
+
+#: .\definitions.json
+msgid "fabrication feedstock"
+msgstr "制造原料"
+
+#: .\definitions.json .\items\production\nanites.json
+msgid "nanites"
+msgid_plural "nanites"
+msgstr[0] "纳米机器人"
+
+#: .\definitions.json .\items\gear\nanotech_ammo.json
+msgid "metal nanopowder"
+msgid_plural "metal nanopowders"
+msgstr[0] "金属纳米粉末"
+
+#: .\definitions.json
+msgid "nanotech ammo"
+msgstr "纳米科技弹药"
+
+#: .\definitions.json
+msgid "nanotech deathcloud"
+msgstr "纳米科技死亡云"
+
+#: .\material_overrides.json
+msgid "Superalloy"
+msgstr "超级合金"
+
+#: .\material_overrides.json
+msgid "dented"
+msgstr "凹陷"
+
+#: .\material_overrides.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\material_overrides.json
+msgid "marked"
+msgstr "标记"
+
+#: .\material_overrides.json
+msgid "smashed"
+msgstr "粉碎"
+
+#: .\material_overrides.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\modinfo.json
+msgid "Advanced Gear"
+msgstr "先进装备"
+
+#. ~ Description for Advanced Gear
+#: .\modinfo.json
+msgid ""
+"Extremely high-end items mod based around nanotech crafting and 3D printing,"
+" with basic materials that can be found in labs, mutations to be added "
+"later."
+msgstr "基于纳米科技制造和3D打印的极高阶物品模组，基础材料可在实验室中找到，后续将添加变异内容。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Nanotech Agent"
+msgstr "纳米科技特工"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Nanotech Agent"
+msgstr "纳米科技特工"
+
+#. ~ Profession (male Nanotech Agent) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"The nanotech project ALMOST finished in time to try to stop things.  But "
+"almost doesn't quite cut it these days.  You were tasked with keeping the "
+"prototypes safe, and trying to continue the research."
+msgstr "纳米科技项目几乎及时完成以试图阻止事态。但如今‘几乎’并不够用。你的任务是保护原型机安全，并尝试继续研究。"
+
+#. ~ Profession (female Nanotech Agent) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"The nanotech project ALMOST finished in time to try to stop things.  But "
+"almost doesn't quite cut it these days.  You were tasked with keeping the "
+"prototypes safe, and trying to continue the research."
+msgstr "纳米科技项目几乎及时完成以试图阻止事态。但如今‘几乎’并不够用。你的任务是保护原型机安全，并尝试继续研究。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech gear"
+msgid_plural "nanotech gears"
+msgstr[0] "纳米科技装备"
+
+#. ~ Description for {'str': 'nanotech gear'}
+#: .\items\gear\equipment.json
+msgid "You shouldn't see this - nanogear"
+msgstr "你不应看到此内容 - 纳米装备"
+
+#: .\items\gear\equipment.json
+msgid "nanotech shield"
+msgid_plural "nanotech shields"
+msgstr[0] "纳米科技护盾"
+
+#. ~ Use action msg for {'str': 'nanotech shield'}.
+#: .\items\gear\equipment.json
+msgid "Shield switched to active mode."
+msgstr "护盾切换至主动模式。"
+
+#. ~ Description for {'str': 'nanotech shield'}
+#: .\items\gear\equipment.json
+msgid ""
+"A large shield composed of a cluster of nanites, currently in passive mode, "
+"you can block attacks with it.  When not in use, it compresses itself into "
+"the handle."
+msgstr "由纳米机器人集群构成的大型护盾，当前处于被动模式，可用其格挡攻击。不使用时，它会压缩进手柄中。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech shield (active)"
+msgid_plural "nanotech shield (active)s"
+msgstr[0] "纳米科技护盾（主动）"
+
+#. ~ Use action msg for {'str': 'nanotech shield (active)'}.
+#: .\items\gear\equipment.json
+msgid "Shield switched to passive mode."
+msgstr "护盾切换至被动模式。"
+
+#. ~ Description for {'str': 'nanotech shield (active)'}
+#: .\items\gear\equipment.json
+msgid ""
+"A large shield composed of a cluster of nanites, currently in active mode, "
+"it will automatically attempt to block attacks for you, allowing you to make"
+" use of your hand.  When not in use, it compresses itself into the handle."
+msgstr "由纳米机器人集群构成的大型护盾，当前处于主动模式，将自动尝试为你格挡攻击，让你能自由使用双手。不使用时，它会压缩进手柄中。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech 'mini-shoggoth' storage"
+msgid_plural "nanotech 'mini-shoggoth' storages"
+msgstr[0] "纳米科技‘迷你修格斯’存储装置"
+
+#. ~ Description for {'str': "nanotech 'mini-shoggoth' storage"}
+#: .\items\gear\equipment.json
+msgid ""
+"A large blob of nanites with an AI, it actively branches out pseudopods to "
+"grasp items held near it and supports them as optimally as possible, "
+"including reaching down and forming 'legs' to support itself if needed."
+msgstr "一大团搭载AI的纳米机器人，会主动伸出伪足抓取附近的物品并以最优方式支撑它们，包括在需要时向下延伸形成‘腿’来自我支撑。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech holster"
+msgid_plural "nanotech holsters"
+msgstr[0] "纳米科技枪套"
+
+#. ~ Use action holster_msg for {'str': 'nanotech holster'}.
+#. ~ Use action holster_msg for {'str': 'nanotech sheath'}.
+#: .\items\gear\equipment.json
+msgid "You store your %s"
+msgstr "你存放了你的 %s"
+
+#. ~ Use action holster_prompt for {'str': 'nanotech holster'}.
+#. ~ Use action holster_prompt for {'str': 'nanotech sheath'}.
+#: .\items\gear\equipment.json
+msgid "Store weapon"
+msgstr "存放武器"
+
+#. ~ Description for {'str': 'nanotech holster'}
+#: .\items\gear\equipment.json
+msgid ""
+"A small blob of nanites with an AI, it actively branches out pseudopods to "
+"grasp guns held nearby it, and put them into the user's hands automatically "
+"as needed."
+msgstr "一小团搭载AI的纳米机器人，会主动伸出伪足抓取附近的枪支，并在需要时自动将其放入使用者手中。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech sheath"
+msgid_plural "nanotech sheaths"
+msgstr[0] "纳米科技刀鞘"
+
+#. ~ Description for {'str': 'nanotech sheath'}
+#: .\items\gear\equipment.json
+msgid ""
+"A small blob of nanites with an AI, it actively branches out pseudopods to "
+"grasp blades held nearby it, and put them into the user's hands "
+"automatically as needed."
+msgstr "一小团搭载AI的纳米机器人，会主动伸出伪足抓取附近的刀刃，并在需要时自动将其放入使用者手中。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech magazine holder"
+msgid_plural "nanotech magazine holders"
+msgstr[0] "纳米科技弹匣夹"
+
+#. ~ Use action holster_msg for {'str': 'nanotech magazine holder'}.
+#: .\items\gear\equipment.json
+msgid "You store your %s."
+msgstr "你存放了你的 %s。"
+
+#. ~ Use action holster_prompt for {'str': 'nanotech magazine holder'}.
+#: .\items\gear\equipment.json
+msgid "Store ammo"
+msgstr "存放弹药"
+
+#. ~ Description for {'str': 'nanotech magazine holder'}
+#: .\items\gear\equipment.json
+msgid ""
+"A small blob of nanites with an AI, it stores magazines and assists in "
+"loading them as needed."
+msgstr "一小团搭载AI的纳米机器人，用于存储弹匣并在需要时辅助装填。"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit"
+msgid_plural "nanosuits"
+msgstr[0] "纳米服"
+
+#. ~ Use action menu_text for {'str': 'nanosuit'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat++++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+++++)'}.
+#: .\items\gear\equipment.json
+msgid "Cycle heating"
+msgstr "循环加热"
+
+#. ~ Use action msg for {'str': 'nanosuit'}.
+#: .\items\gear\equipment.json
+msgid "Enabling nanosuit's heating mode."
+msgstr "启用纳米服的加热模式。"
+
+#. ~ Description for {'str': 'nanosuit'}
+#: .\items\gear\equipment.json
+msgid ""
+"A cluster of carefully programmed nanites designed to fully cover the body "
+"and defend against external threats.  Can be activated to produce heat."
+msgstr "一组精心编程的纳米机器人，设计用于完全覆盖身体并防御外部威胁。可激活以产生热量。"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit (heat+)"
+msgid_plural "nanosuit (heat+)s"
+msgstr[0] "纳米服（加热+）"
+
+#. ~ Use action msg for {'str': 'nanosuit (heat+)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat++)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat+++)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat++++)'}.
+#: .\items\gear\equipment.json
+msgid "Increasing nanosuit's heating mode."
+msgstr "正在提升纳米服的加热模式。"
+
+#. ~ Description for {'str': 'nanosuit (heat+)'}
+#: .\items\gear\equipment.json
+msgid ""
+"A cluster of carefully programmed nanites designed to fully cover the body "
+"and defend against external threats.  Currently heating itself."
+msgstr "一组精心编程的纳米机器人，旨在完全覆盖身体并抵御外部威胁。当前正在自我加热。"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit (heat++)"
+msgid_plural "nanosuit (heat++)s"
+msgstr[0] "纳米服（加热++）"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit (heat+++)"
+msgid_plural "nanosuit (heat+++)s"
+msgstr[0] "纳米服（加热+++）"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit (heat++++)"
+msgid_plural "nanosuit (heat++++)s"
+msgstr[0] "纳米服（加热++++）"
+
+#: .\items\gear\equipment.json
+msgid "nanosuit (heat+++++)"
+msgid_plural "nanosuit (heat+++++)s"
+msgstr[0] "纳米服（加热+++++）"
+
+#. ~ Use action msg for {'str': 'nanosuit (heat+++++)'}.
+#: .\items\gear\equipment.json
+msgid "Disabled nanosuit's heating mode."
+msgstr "已禁用纳米服的加热模式。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech liquid compressor"
+msgid_plural "nanotech liquid compressors"
+msgstr[0] "纳米科技液体压缩机"
+
+#. ~ Description for {'str': 'nanotech liquid compressor'}
+#: .\items\gear\equipment.json
+msgid ""
+"A heavily compressed liquid storage device, it is also capable of keeping "
+"its contents fresh and maintaining their temperature."
+msgstr "一种高度压缩的液体存储设备，它还能保持内容物新鲜并维持其温度。"
+
+#: .\items\gear\equipment.json
+msgid "nanotech liquid compressor d"
+msgid_plural "nanotech liquid compressor ds"
+msgstr[0] "纳米科技液体压缩机 d"
+
+#. ~ Description for {'str': 'nanotech liquid compressor d'}
+#: .\items\gear\equipment.json
+msgid ""
+"A heavily compressed liquid storage device, it is basically a debug crooked "
+"nail that you should not see"
+msgstr "一种高度压缩的液体存储设备，基本上是一个你不应该看到的调试用弯曲钉子。"
+
+#: .\items\gear\multitool.json
+msgid "nanite multitool (small)"
+msgid_plural "nanite multitool (small)s"
+msgstr[0] "纳米机器人多功能工具（小型）"
+
+#. ~ Use action menu_text for {'str': 'nanite multitool (small)'}.
+#. ~ Use action menu_text for {'str': 'nanite multitool (large)'}.
+#. ~ Use action menu_text for {'str': 'nanite multitool (laser welder)'}.
+#: .\items\gear\multitool.json
+msgid "Switch tool mode"
+msgstr "切换工具模式"
+
+#. ~ Use action msg for {'str': 'nanite multitool (small)'}.
+#: .\items\gear\multitool.json
+msgid "You switch your multitool to large tools mode."
+msgstr "你将多功能工具切换至大型工具模式。"
+
+#. ~ Description for {'str': 'nanite multitool (small)'}
+#: .\items\gear\multitool.json
+msgid ""
+"Nanite control unit that can mimic many tools, though some require different"
+" configurations.  Currently in default form, allowing access to numerous "
+"small tools."
+msgstr "可模拟多种工具的纳米机器人控制单元，尽管有些需要不同的配置。当前为默认形态，允许使用众多小型工具。"
+
+#: .\items\gear\multitool.json
+msgid "nanite multitool (large)"
+msgid_plural "nanite multitool (large)s"
+msgstr[0] "纳米机器人多功能工具（大型）"
+
+#. ~ Use action msg for {'str': 'nanite multitool (large)'}.
+#: .\items\gear\multitool.json
+msgid "You switch your multitool to laser welder mode."
+msgstr "你将多功能工具切换至激光焊接器模式。"
+
+#. ~ Description for {'str': 'nanite multitool (large)'}
+#: .\items\gear\multitool.json
+msgid ""
+"Nanite control unit that can mimic many tools, though some require different"
+" configurations.  Currently expanded into a larger form for bulkier tools."
+msgstr "可模拟多种工具的纳米机器人控制单元，尽管有些需要不同的配置。当前扩展为更大形态以容纳更笨重的工具。"
+
+#: .\items\gear\multitool.json
+msgid "nanite multitool (laser welder)"
+msgid_plural "nanite multitool (laser welder)s"
+msgstr[0] "纳米机器人多功能工具（激光焊接器）"
+
+#. ~ Use action msg for {'str': 'nanite multitool (laser welder)'}.
+#: .\items\gear\multitool.json
+msgid "You switch your multitool to small tools mode."
+msgstr "你将多功能工具切换至小型工具模式。"
+
+#. ~ Description for {'str': 'nanite multitool (laser welder)'}
+#: .\items\gear\multitool.json
+msgid ""
+"Nanite control unit that can mimic many tools, though some require different"
+" configurations.  Currently configured as a laser welder."
+msgstr "可模拟多种工具的纳米机器人控制单元，尽管有些需要不同的配置。当前配置为激光焊接器。"
+
+#. ~ Description for {'str': 'metal nanopowder'}
+#: .\items\gear\nanotech_ammo.json
+msgid ""
+"Incredibly finely powdered metal, it is useless for anything except use in "
+"specialized nanotech turrets."
+msgstr "极其精细的金属粉末，除了用于专门的纳米科技炮塔外，别无他用。"
+
+#: .\items\gear\nanotech_ammo.json
+msgid "monomolecular dart feedstock"
+msgid_plural "monomolecular dart feedstocks"
+msgstr[0] "单分子飞镖原料"
+
+#. ~ Description for {'str': 'monomolecular dart feedstock'}
+#: .\items\gear\nanotech_ammo.json
+msgid "Batch of material with instructions to produce bursts of darts."
+msgstr "一批带有生产飞镖爆发指令的材料。"
+
+#: .\items\gear\nanotech_ammo.json
+msgid "monomolecular blade feedstock"
+msgid_plural "monomolecular blade feedstocks"
+msgstr[0] "单分子刀刃原料"
+
+#. ~ Description for {'str': 'monomolecular blade feedstock'}
+#: .\items\gear\nanotech_ammo.json
+msgid "Batch of material with instructions to produce bursts of blades."
+msgstr "一批带有生产刀刃爆发指令的材料。"
+
+#: .\items\gear\nanotech_ammo.json
+msgid "monomolecular wire feedstock"
+msgid_plural "monomolecular wire feedstocks"
+msgstr[0] "单分子线原料"
+
+#. ~ Description for {'str': 'monomolecular wire feedstock'}
+#: .\items\gear\nanotech_ammo.json
+msgid ""
+"Batch of material with instructions to produce clouds of twisting wire.  "
+"WARNING: DEADLY TO USER!"
+msgstr "一批带有生产旋转线云指令的材料。警告：对使用者致命！"
+
+#: .\items\gear\nanotech_ammo.json
+msgid "xl monomolecular wire feedstock"
+msgid_plural "xl monomolecular wire feedstocks"
+msgstr[0] "超大单分子线原料"
+
+#. ~ Description for {'str': 'xl monomolecular wire feedstock'}
+#: .\items\gear\nanotech_ammo.json
+msgid ""
+"Large block of material for producing large clouds of monomolecular wire.  "
+"WARNING: DEADLY TO USER!"
+msgstr "用于产生大片单分子线云的大型材料块。警告：对使用者致命！"
+
+#: .\items\gear\nanotech_mags.json
+msgid "nanotech ammo core (wire)"
+msgid_plural "nanotech ammo core (wire)s"
+msgstr[0] "纳米技术弹药核心（线）"
+
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (wire)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (dart)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (blade)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (deathcloud)'}.
+#: .\items\gear\nanotech_mags.json
+msgid "Reset and empty"
+msgstr "重置并清空"
+
+#. ~ Use action msg for {'str': 'nanotech ammo core (wire)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (dart)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (blade)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (deathcloud)'}.
+#: .\items\gear\nanotech_mags.json
+msgid "You clear and reset your ammo core."
+msgstr "你清空并重置了弹药核心。"
+
+#. ~ Description for {'str': 'nanotech ammo core (wire)'}
+#. ~ Description for {'str': 'nanotech ammo core (dart)'}
+#. ~ Description for {'str': 'nanotech ammo core (blade)'}
+#. ~ Description for {'str': 'nanotech ammo core (deathcloud)'}
+#. ~ Description for {'str': 'nanotech ammo core'}
+#: .\items\gear\nanotech_mags.json
+msgid ""
+"An automated ammo production unit designed to process feedstock into usable "
+"ammo as needed, complete with integrated power source.  Unfortunately, it "
+"needs to be manually reset when emptied, and cannot be refilled by hand."
+msgstr "一种自动弹药生产单元，设计用于根据需要将原料加工成可用弹药，并配有集成电源。不幸的是，清空后需要手动重置，且无法手动重新填充。"
+
+#: .\items\gear\nanotech_mags.json
+msgid "nanotech ammo core (dart)"
+msgid_plural "nanotech ammo core (dart)s"
+msgstr[0] "纳米技术弹药核心（飞镖）"
+
+#: .\items\gear\nanotech_mags.json
+msgid "nanotech ammo core (blade)"
+msgid_plural "nanotech ammo core (blade)s"
+msgstr[0] "纳米技术弹药核心（刀刃）"
+
+#: .\items\gear\nanotech_mags.json
+msgid "nanotech ammo core (deathcloud)"
+msgid_plural "nanotech ammo core (deathcloud)s"
+msgstr[0] "纳米技术弹药核心（死亡云）"
+
+#: .\items\gear\nanotech_mags.json
+msgid "nanotech ammo core"
+msgid_plural "nanotech ammo cores"
+msgstr[0] "纳米技术弹药核心"
+
+#: .\items\gear\weapons.json
+msgid "nanotech blade"
+msgid_plural "nanotech blades"
+msgstr[0] "纳米技术刀刃"
+
+#. ~ Description for {'str': 'nanotech blade'}
+#: .\items\gear\weapons.json
+msgid ""
+"An incredibly sharp blade of active nanites with a small handle.  Compresses"
+" itself into the handle when not in use."
+msgstr "一把带有小握柄、由活性纳米机器人构成的极其锋利的刀刃。不使用时，它会自行压缩进握柄中。"
+
+#: .\items\gear\weapons.json
+msgid "nanotech dagger"
+msgid_plural "nanotech daggers"
+msgstr[0] "纳米技术匕首"
+
+#. ~ Description for {'str': 'nanotech dagger'}
+#: .\items\gear\weapons.json
+msgid ""
+"An incredibly sharp blade of active nanites with a small handle.  Compresses"
+" itself into the handle when not in use.  In addition to the typical blade, "
+"it can project blades around your fingers to be used as a claw or punching "
+"dagger."
+msgstr ""
+"一把带有小握柄、由活性纳米机器人构成的极其锋利的刀刃。不使用时，它会自行压缩进握柄中。除了典型的刀刃外，它还能在你的手指周围投射刀刃，用作爪或拳刺。"
+
+#: .\items\gear\weapons.json
+msgid "nanotech spear"
+msgid_plural "nanotech spears"
+msgstr[0] "纳米技术长矛"
+
+#. ~ Description for {'str': 'nanotech spear'}
+#: .\items\gear\weapons.json
+msgid ""
+"An incredibly sharp spike of active nanites on a long handle, it contains "
+"small but powerful boosters for sweeping strikes as a staff as well.  "
+"Compresses itself into a small tube when not in use."
+msgstr ""
+"一根安装在长柄上的、由活性纳米机器人构成的极其锋利的尖刺，它还包含小型但强大的助推器，用于作为长棍进行横扫攻击。不使用时，它会自行压缩成一个小管。"
+
+#: .\items\gear\weapons.json
+msgid "nanotech gun"
+msgid_plural "nanotech guns"
+msgstr[0] "纳米技术枪"
+
+#: .\items\gear\weapons.json
+msgid "You shouldn't see this."
+msgstr "你不应该看到这个。"
+
+#: .\items\gear\weapons.json .\monsters\turrets.json
+msgid "nanotech shredder"
+msgid_plural "nanotech shredders"
+msgstr[0] "纳米技术粉碎者"
+
+#: .\items\gear\weapons.json
+msgid ""
+"Nanotech shotgun, blasts out large clouds of different configurations of "
+"monomolecular ammo based on loaded ammo core."
+msgstr "纳米技术霰弹枪，根据装载的弹药核心，喷射出大片不同配置的单分子弹药云。"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgid "blast"
+msgstr "爆破"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgid "auto"
+msgstr "自动"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr "霰弹枪"
+
+#: .\items\gear\weapons.json .\monsters\turrets.json
+msgid "nanotech pistol"
+msgid_plural "nanotech pistols"
+msgstr[0] "纳米技术手枪"
+
+#: .\items\gear\weapons.json
+msgid ""
+"Nanotech pistol, fires bursts of different configurations of monomolecular "
+"ammo based on loaded ammo core."
+msgstr "纳米技术手枪，根据装载的弹药核心，发射不同配置的单分子弹药连发。"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgid "burst"
+msgstr "连发"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手枪"
+
+#: .\items\gear\weapons.json .\monsters\turrets.json
+msgid "nanotech rifle"
+msgid_plural "nanotech rifles"
+msgstr[0] "纳米技术步枪"
+
+#: .\items\gear\weapons.json
+msgid ""
+"Nanotech rifle, fires large bursts of different configurations of "
+"monomolecular ammo based on loaded ammo core."
+msgstr "纳米技术步枪，根据装载的弹药核心，发射大量不同配置的单分子弹药连发。"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步枪"
+
+#: .\items\gear\weapons.json .\monsters\turrets.json
+msgid "nanotech smg"
+msgid_plural "nanotech smgs"
+msgstr[0] "纳米科技冲锋枪"
+
+#: .\items\gear\weapons.json
+msgid ""
+"Nanotech smg, fires a storm of different configurations of monomolecular "
+"ammo based on loaded ammo core."
+msgstr "纳米科技冲锋枪，根据装载的弹药核心，发射多种配置的单分子弹药风暴。"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgid "maximum"
+msgstr "最大"
+
+#: .\items\gear\weapons.json .\items\vehicle\items.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "冲锋枪"
+
+#: .\items\gear\weapons.json
+msgid "nanotech launcher"
+msgid_plural "nanotech launchers"
+msgstr[0] "纳米科技发射器"
+
+#: .\items\gear\weapons.json
+msgid ""
+"Nanotech launcher, fires huge masses of monomolecular wire that shreds "
+"anything that isn't heavily protected."
+msgstr "纳米科技发射器，发射大量单分子线，能撕裂任何未受严密保护的物体。"
+
+#: .\items\gear\weapons.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "发射器"
+
+#: .\items\production\cores.json
+msgid "nanite core MK I"
+msgid_plural "nanite core MK Is"
+msgstr[0] "纳米核心 MK I"
+
+#. ~ Description for {'str': 'nanite core MK I'}
+#. ~ Description for {'str': 'nanite core MK II'}
+#. ~ Description for {'str': 'nanite core MK III'}
+#. ~ Description for {'str': 'nanite core MK IV'}
+#: .\items\production\cores.json
+msgid "Contains data on how to work with nanites."
+msgstr "包含如何使用纳米机器人的数据。"
+
+#: .\items\production\cores.json
+msgid "nanite guide"
+msgid_plural "nanite guides"
+msgstr[0] "纳米机器人指南"
+
+#. ~ Description for {'str': 'nanite guide'}
+#: .\items\production\cores.json
+msgid "Contains data on producing standard items from a nanofactory."
+msgstr "包含从纳米工厂生产标准物品的数据。"
+
+#: .\items\production\cores.json
+msgid "nanite core MK II"
+msgid_plural "nanite core MK IIs"
+msgstr[0] "纳米核心 MK II"
+
+#: .\items\production\cores.json
+msgid "nanite core MK III"
+msgid_plural "nanite core MK IIIs"
+msgstr[0] "纳米核心 MK III"
+
+#: .\items\production\cores.json
+msgid "nanite core MK IV"
+msgid_plural "nanite core MK IVs"
+msgstr[0] "纳米核心 MK IV"
+
+#: .\items\production\cores.json
+msgid "AI core (experimental)"
+msgid_plural "AI core (experimental)s"
+msgstr[0] "AI核心（实验性）"
+
+#. ~ Description for {'str': 'AI core (experimental)'}
+#: .\items\production\cores.json
+msgid "Experimental AI core, once used for high-end research tasks."
+msgstr "实验性AI核心，曾用于高端研究任务。"
+
+#: .\items\production\cores.json
+msgid "AI core (blank)"
+msgid_plural "AI core (blank)s"
+msgstr[0] "AI核心（空白）"
+
+#. ~ Description for {'str': 'AI core (blank)'}
+#: .\items\production\cores.json
+msgid "AI core, currently blank."
+msgstr "AI核心，当前为空白状态。"
+
+#: .\items\production\nanites.json
+msgid "nanite growth chamber (active)"
+msgid_plural "nanite growth chamber (active)s"
+msgstr[0] "纳米机器人培养舱（活跃）"
+
+#. ~ Use action msg for {'str': 'nanite growth chamber (active)'}.
+#: .\items\production\nanites.json
+msgid "The bio-compatible nanites gather into a cluster for easy removal."
+msgstr "生物兼容纳米机器人聚集为簇，便于移除。"
+
+#. ~ Use action not_ready_msg for {'str': 'nanite growth chamber (active)'}.
+#: .\items\production\nanites.json
+msgid "Spawning is not yet complete."
+msgstr "生成尚未完成。"
+
+#. ~ Description for {'str': 'nanite growth chamber (active)'}
+#: .\items\production\nanites.json
+msgid ""
+"A container full of materials and a small cluster of bio-compatible nanites "
+"programmed to replicate.  After they finish, they will enter an idle state "
+"and be ready to be removed."
+msgstr "一个装满材料的容器，以及一小簇编程用于复制的生物兼容纳米机器人。完成后，它们将进入空闲状态，准备被移除。"
+
+#: .\items\production\nanites.json
+msgid "nanite growth chamber (complete)"
+msgid_plural "nanite growth chamber (complete)s"
+msgstr[0] "纳米机器人培养舱（完成）"
+
+#. ~ Description for {'str': 'nanite growth chamber (complete)'}
+#: .\items\production\nanites.json
+msgid ""
+"A container full of bio-compatible nanites that have entered an idle state "
+"and are ready to be removed. (Disassemble to recover)"
+msgstr "一个装满生物兼容纳米机器人的容器，已进入空闲状态，准备被移除。（拆卸以回收）"
+
+#. ~ Description for {'str': 'nanites', 'str_pl': 'nanites'}
+#: .\items\production\nanites.json
+msgid "Batch of inactive nanites."
+msgstr "一批不活跃的纳米机器人。"
+
+#: .\items\production\nanites.json
+msgid "bio-compatible nanites"
+msgid_plural "bio-compatible nanites"
+msgstr[0] "生物兼容纳米机器人"
+
+#. ~ Description for {'str': 'bio-compatible nanites', 'str_pl': 'bio-
+#. compatible nanites'}
+#: .\items\production\nanites.json
+msgid "Batch of inactive bio-compatible nanites."
+msgstr "一批不活跃的生物兼容纳米机器人。"
+
+#: .\items\production\nanofactory.json
+msgid "programming laptop"
+msgid_plural "programming laptops"
+msgstr[0] "编程笔记本电脑"
+
+#. ~ Description for {'str': 'programming laptop'}
+#: .\items\production\nanofactory.json
+msgid ""
+"A repaired laptop usable for programming.  Requires external power source to"
+" charge."
+msgstr "一台修复后可编程的笔记本电脑。需要外部电源充电。"
+
+#: .\items\production\nanofactory.json
+msgid "feedstock (plastic)"
+msgid_plural "feedstock (plastic)s"
+msgstr[0] "原料（塑料）"
+
+#. ~ Description for {'str': 'feedstock (plastic)'}
+#: .\items\production\nanofactory.json
+msgid "Coiled plastic feedstock for advanced fabrication."
+msgstr "用于高级制造的卷绕塑料原料。"
+
+#: .\items\production\nanofactory.json
+msgid "feedstock (metal)"
+msgid_plural "feedstock (metal)s"
+msgstr[0] "原料（金属）"
+
+#. ~ Description for {'str': 'feedstock (metal)'}
+#: .\items\production\nanofactory.json
+msgid "Coiled metal stock for advanced fabrication."
+msgstr "用于高级制造的卷绕金属坯料。"
+
+#: .\items\production\nanofactory.json
+msgid "feedstock (electronic)"
+msgid_plural "feedstock (electronic)s"
+msgstr[0] "原料（电子）"
+
+#. ~ Description for {'str': 'feedstock (electronic)'}
+#: .\items\production\nanofactory.json
+msgid "Coiled high-conductivity metal for advanced fabrication."
+msgstr "用于高级制造的卷绕高导电性金属。"
+
+#: .\items\production\nanofactory.json
+msgid "3D printer stock"
+msgstr "3D打印机原料"
+
+#: .\items\production\nanofactory.json
+msgid "nanofactory (3D printer)"
+msgid_plural "nanofactory (3D printer)s"
+msgstr[0] "纳米工厂（3D打印机）"
+
+#. ~ Description for {'str': 'nanofactory (3D printer)'}
+#. ~ Description for {'str': 'nanofactory'}
+#: .\items\production\nanofactory.json
+msgid ""
+"Uses internal nanites to reassemble feedstock into products at high speed "
+"and efficiency."
+msgstr "利用内部纳米机器人以高速高效的方式将原料重组为产品。"
+
+#: .\items\production\nanofactory.json
+msgid "experimental nanite assembler"
+msgid_plural "experimental nanite assemblers"
+msgstr[0] "实验性纳米机器人组装器"
+
+#. ~ Description for {'str': 'experimental nanite assembler'}
+#: .\items\production\nanofactory.json
+msgid ""
+"Low quality, bulky, slow, but highly secured nanite fabrication system.  "
+"Designed for safety, not quality, but with some hard work you may be able to"
+" salvage something of use, or maybe use it."
+msgstr ""
+"质量低劣、体积庞大、速度缓慢但高度安全的纳米机器人制造系统。设计注重安全而非质量，但通过一些努力，你或许能从中抢救出有用的东西，或者直接使用它。"
+
+#: .\items\production\nanofactory.json
+msgid "nanotech ammo processor"
+msgid_plural "nanotech ammo processors"
+msgstr[0] "纳米技术弹药处理器"
+
+#. ~ Description for {'str': 'nanotech ammo processor'}
+#: .\items\production\nanofactory.json
+msgid ""
+"Uses internal nanites to pack feedstock into bricks in ammo cartridges, as "
+"well as program them for proper output.  Due to the highly limited products,"
+" it is more flexible and can take unprocessed raw materials as well."
+msgstr "利用内部纳米机器人将原料压制成弹药筒中的弹块，并编程使其正确输出。由于产品种类极为有限，它更具灵活性，也能接受未加工的原材料。"
+
+#: .\items\production\nanofactory.json
+msgid "nanotech power cell"
+msgid_plural "nanotech power cells"
+msgstr[0] "纳米技术动力电池"
+
+#. ~ Description for {'str': 'nanotech power cell'}
+#: .\items\production\nanofactory.json
+msgid "Plutonium processed into smaller chunks"
+msgstr "钚加工成更小的块状"
+
+#: .\items\production\nanofactory.json
+msgid "nanite programmer (basic)"
+msgid_plural "nanite programmer (basic)s"
+msgstr[0] "纳米机器人编程器（基础）"
+
+#. ~ Description for {'str': 'nanite programmer (basic)'}
+#: .\items\production\nanofactory.json
+msgid ""
+"A small terminal that interfaces with nearby nanites to upload preconfigured"
+" programs to them.  It is also able to hack into robots using remote groups "
+"of nanites."
+msgstr "一个小型终端，与附近的纳米机器人交互，向其上传预配置的程序。它还能通过远程纳米机器人集群入侵机器人。"
+
+#: .\items\production\nanofactory.json
+msgid "nanofactory"
+msgid_plural "nanofactorys"
+msgstr[0] "纳米工厂"
+
+#: .\items\production\nanofactory.json
+msgid "nanite programmer"
+msgid_plural "nanite programmers"
+msgstr[0] "纳米机器人编程器"
+
+#. ~ Description for {'str': 'nanite programmer'}
+#: .\items\production\nanofactory.json
+msgid ""
+"A small terminal that interfaces with nearby nanites to upload preconfigured"
+" programs to them."
+msgstr "一个小型终端，与附近的纳米机器人交互，向其上传预配置的程序。"
+
+#: .\items\production\nanofactory.json
+msgid "nanite construction tool"
+msgid_plural "nanite construction tools"
+msgstr[0] "纳米机器人建造工具"
+
+#. ~ Description for {'str': 'nanite construction tool'}
+#: .\items\production\nanofactory.json
+msgid ""
+"Controls nanites to reassemble feedstock into products at high speed and "
+"efficiency, contains a minor AI to assist with programming."
+msgstr "控制纳米机器人以高速高效的方式将原料重组为产品，内含一个辅助编程的初级人工智能。"
+
+#: .\items\production\nanofactory.json
+msgid "advanced nanite controller"
+msgid_plural "advanced nanite controllers"
+msgstr[0] "高级纳米机器人控制器"
+
+#. ~ Description for {'str': 'advanced nanite controller'}
+#: .\items\production\nanofactory.json
+msgid ""
+"Controls nanites to reassemble feedstock into products at high speed and "
+"efficiency, contains an advanced AI, and is capable of any nanofabrication "
+"currently developed."
+msgstr "控制纳米机器人以高速高效的方式将原料重组为产品，内含一个高级人工智能，能够执行当前已开发的任何纳米制造任务。"
+
+#: .\items\vehicle\frames-n-boards.json
+msgid "nanotech hybrid frame"
+msgid_plural "nanotech hybrid frames"
+msgstr[0] "纳米技术混合框架"
+
+#. ~ Description for {'str': 'nanotech hybrid frame'}
+#: .\items\vehicle\frames-n-boards.json
+msgid ""
+"A large frame made of steel and reinforced with nanites.  Useful for "
+"crafting."
+msgstr "一个由钢材制成并用纳米机器人加固的大型框架。适用于制作。"
+
+#. ~ Description for {'str': 'nanotech hybrid frame'}
+#: .\items\vehicle\frames-n-boards.json
+msgid ""
+"A heavy metal framework infused with nanites working to augment the "
+"durability.  Other vehicle components can be mounted on it, and it can be "
+"attached to other frames to increase the vehicle's size."
+msgstr "一个重型金属框架，注入纳米机器人以增强耐久性。其他车辆部件可安装其上，并可连接到其他框架以扩大车辆尺寸。"
+
+#: .\items\vehicle\frames-n-boards.json
+msgid "nanotech frame"
+msgstr "纳米技术框架"
+
+#. ~ Description for {'str': 'nanotech frame'}
+#: .\items\vehicle\frames-n-boards.json
+msgid ""
+"A large cluster of nanites actively forming a support network for other "
+"structures to attach to.  Other vehicle components can be mounted on it, and"
+" it can be attached to other frames to increase the vehicle's size."
+msgstr "一大群纳米机器人主动形成一个支撑网络，供其他结构附着。其他车辆部件可安装其上，并可连接到其他框架以扩大车辆尺寸。"
+
+#: .\items\vehicle\frames-n-boards.json
+msgid "nanotech board"
+msgstr "纳米技术板"
+
+#. ~ Description for {'str': 'nanotech board'}
+#: .\items\vehicle\frames-n-boards.json
+msgid ""
+"A strong metal wall.  Keeps zombies outside the vehicle and prevents people "
+"from seeing through it."
+msgstr "一面坚固的金属墙。能将僵尸挡在车外，并防止他人看透。"
+
+#: .\items\vehicle\frames-n-boards.json
+msgid "nanotech quarterpanel"
+msgstr "纳米科技四分之一面板"
+
+#. ~ Description for {'str': 'nanotech quarterpanel'}
+#: .\items\vehicle\frames-n-boards.json
+msgid ""
+"A half-height strong metal wall.  Keeps zombies outside the vehicle but "
+"allows people to see over it."
+msgstr "一种半高的坚固金属墙。能将僵尸挡在车外，同时允许人们从上方观察。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech turret gun"
+msgid_plural "nanotech turret guns"
+msgstr[0] "纳米科技炮塔枪"
+
+#: .\items\vehicle\items.json
+msgid "You shouldn't see this. nanoturretgun"
+msgstr "你不应该看到这个。纳米炮塔枪"
+
+#: .\items\vehicle\items.json
+msgid "nanotech turret"
+msgid_plural "nanotech turrets"
+msgstr[0] "纳米科技炮塔"
+
+#. ~ Description for {'str': 'nanotech turret'}
+#: .\items\vehicle\items.json
+msgid "You shouldn't see this. nanoturret"
+msgstr "你不应该看到这个。纳米炮塔"
+
+#: .\items\vehicle\items.json
+msgid "nanotech shredder turret (i)"
+msgid_plural "nanotech shredder turret (i)s"
+msgstr[0] "纳米科技粉碎者炮塔 (i)"
+
+#. ~ Use action menu_text for {'str': 'nanotech shredder turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech pistol turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech rifle turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech smg turret (i)'}.
+#: .\items\vehicle\items.json
+msgid "Switch to vehicle mode"
+msgstr "切换到载具模式"
+
+#. ~ Use action msg for {'str': 'nanotech shredder turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech pistol turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech rifle turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech smg turret (i)'}.
+#: .\items\vehicle\items.json
+msgid "Turret state switched."
+msgstr "炮塔状态已切换。"
+
+#. ~ Description for {'str': 'nanotech shredder turret (i)'}
+#: .\items\vehicle\items.json
+msgid ""
+"Nanotech shotgun turret, blasts out large clouds of monomolecular darts.  "
+"Each shot is 10x the projectiles as the unmounted version, leading to "
+"ability to hit at a longer distance and a bit more damage.  It feeds in "
+"powdered metal using a system similar to liquid transfer through the "
+"vehicle, then compresses it into ammo as needed."
+msgstr ""
+"纳米科技霰弹炮塔，能喷射出大片单分子飞镖云。每次射击的弹丸数量是未安装版本的10倍，从而能够命中更远距离并造成稍多伤害。它通过类似液体传输的系统将金属粉末输入载具，然后根据需要压缩成弹药。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech pistol turret (i)"
+msgid_plural "nanotech pistol turret (i)s"
+msgstr[0] "纳米科技手枪炮塔 (i)"
+
+#. ~ Description for {'str': 'nanotech pistol turret (i)'}
+#: .\items\vehicle\items.json
+msgid ""
+"Nanotech pistol turret, fires bursts of of monomolecular darts.  Each shot "
+"is 10x the projectiles as the unmounted version, leading to ability to hit "
+"at a longer distance and a bit more damage.  It feeds in powdered metal "
+"using a system similar to liquid transfer through the vehicle, then "
+"compresses it into ammo as needed."
+msgstr ""
+"纳米科技手枪炮塔，能连发射击单分子飞镖。每次射击的弹丸数量是未安装版本的10倍，从而能够命中更远距离并造成稍多伤害。它通过类似液体传输的系统将金属粉末输入载具，然后根据需要压缩成弹药。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech rifle turret (i)"
+msgid_plural "nanotech rifle turret (i)s"
+msgstr[0] "纳米科技步枪炮塔 (i)"
+
+#. ~ Description for {'str': 'nanotech rifle turret (i)'}
+#: .\items\vehicle\items.json
+msgid ""
+"Nanotech rifle turret, fires large bursts of monomolecular darts.  Each shot"
+" is 10x the projectiles as the unmounted version, leading to ability to hit "
+"at a longer distance and a bit more damage.  It feeds in powdered metal "
+"using a system similar to liquid transfer through the vehicle, then "
+"compresses it into ammo as needed."
+msgstr ""
+"纳米科技步枪炮塔，能大量连发射击单分子飞镖。每次射击的弹丸数量是未安装版本的10倍，从而能够命中更远距离并造成稍多伤害。它通过类似液体传输的系统将金属粉末输入载具，然后根据需要压缩成弹药。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech smg turret (i)"
+msgid_plural "nanotech smg turret (i)s"
+msgstr[0] "纳米科技冲锋枪炮塔 (i)"
+
+#. ~ Description for {'str': 'nanotech smg turret (i)'}
+#: .\items\vehicle\items.json
+msgid ""
+"Nanotech smg turret, fires a storm of monomolecular darts.  Each shot is 10x"
+" the projectiles as the unmounted version, leading to ability to hit at a "
+"longer distance and a bit more damage.  It feeds in powdered metal using a "
+"system similar to liquid transfer through the vehicle, then compresses it "
+"into ammo as needed."
+msgstr ""
+"纳米科技冲锋枪炮塔，能发射一阵单分子飞镖风暴。每次射击的弹丸数量是未安装版本的10倍，从而能够命中更远距离并造成稍多伤害。它通过类似液体传输的系统将金属粉末输入载具，然后根据需要压缩成弹药。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech shredder turret (v)"
+msgid_plural "nanotech shredder turret (v)s"
+msgstr[0] "纳米科技粉碎者炮塔 (v)"
+
+#: .\items\vehicle\items.json
+msgid "nanotech pistol turret (v)"
+msgid_plural "nanotech pistol turret (v)s"
+msgstr[0] "纳米科技手枪炮塔 (v)"
+
+#: .\items\vehicle\items.json
+msgid "nanotech rifle turret (v)"
+msgid_plural "nanotech rifle turret (v)s"
+msgstr[0] "纳米科技步枪炮塔 (v)"
+
+#: .\items\vehicle\items.json
+msgid "nanotech smg turret (v)"
+msgid_plural "nanotech smg turret (v)s"
+msgstr[0] "纳米科技冲锋枪炮塔 (v)"
+
+#: .\items\vehicle\items.json
+msgid "xl nanite cluster"
+msgid_plural "xl nanite clusters"
+msgstr[0] "超大纳米集群"
+
+#. ~ Description for {'str': 'xl nanite cluster'}
+#: .\items\vehicle\items.json
+msgid ""
+"A very large blob of nanites that can be easily programmed into multiple "
+"different forms."
+msgstr "一大团纳米机器人，可以轻松编程成多种不同形态。"
+
+#: .\items\vehicle\items.json
+msgid "xl nanite cluster(ai)"
+msgid_plural "xl nanite cluster(ai)s"
+msgstr[0] "超大纳米集群(ai)"
+
+#. ~ Description for {'str': 'xl nanite cluster(ai)'}
+#: .\items\vehicle\items.json
+msgid ""
+"A very large blob of nanites that can be easily programmed into multiple "
+"different complex forms due to the included AI."
+msgstr "一大团纳米机器人，由于包含人工智能，可以轻松编程成多种不同的复杂形态。"
+
+#: .\items\vehicle\items.json
+msgid "nanotech generator"
+msgid_plural "nanotech generators"
+msgstr[0] "纳米科技发电机"
+
+#. ~ Description for {'str': 'nanotech generator'}
+#. ~ Description for {'str': 'nanotech power generator'}
+#: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
+msgid "A mass of nanites and power cells optimized for generating power."
+msgstr "一团经过优化的纳米机器人和电池组，用于发电。"
+
+#: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
+msgid "nanotech storage array"
+msgid_plural "nanotech storage arrays"
+msgstr[0] "纳米科技存储阵列"
+
+#. ~ Description for {'str': 'nanotech storage array', 'str_pl': 'nanotech
+#. storage arrays'}
+#. ~ Description for {'str': 'nanotech storage array'}
+#: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
+msgid "A mass of nanites programmed to store vast amounts of power."
+msgstr "一团经过编程的纳米机器人，用于存储大量能量。"
+
+#: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
+msgid "nanotech crawler"
+msgid_plural "nanotech crawlers"
+msgstr[0] "纳米科技爬行者"
+
+#. ~ Description for {'str': 'nanotech crawler'}
+#: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
+msgid ""
+"A mass of nanites optimized for travel across any land-based surface while "
+"lifting a larger object."
+msgstr "一团经过优化的纳米机器人，用于在任何陆地表面移动，同时能举起更大的物体。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech vehicle part"
+msgstr "纳米科技车辆部件"
+
+#. ~ Description for {'str': 'nanotech vehicle part'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "Seeing this is a bug - nanovp"
+msgstr "看到此信息表示存在错误 - nanovp"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech vehicle part (foldable)"
+msgstr "纳米科技车辆部件（可折叠）"
+
+#. ~ Description for {'str': 'nanotech vehicle part (foldable)'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "Seeing this is a bug - nanovp_fold"
+msgstr "看到此信息表示存在错误 - nanovp_fold"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech door"
+msgstr "纳米科技门"
+
+#. ~ Description for {'str': 'nanotech door'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A very durable barrier composed of nanites acting as a door, it also "
+"contains a fine mesh that acts as a window."
+msgstr "一种由纳米机器人构成的非常耐用的屏障，用作门，同时包含一层细密的网格，起到窗户的作用。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech iris"
+msgstr "纳米科技虹膜"
+
+#. ~ Description for {'str': 'nanotech iris'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A highly durable iris composed of nanites, this blocks sight while also "
+"acting as a combination of door and armor."
+msgstr "一种由纳米机器人构成的高度耐用的虹膜，既能阻挡视线，又能兼具门和装甲的功能。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech boat coating"
+msgstr "纳米科技船只涂层"
+
+#. ~ Description for {'str': 'nanotech boat coating'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"An outer coating of nanites that work together to seal out water while also "
+"providing another layer of protection."
+msgstr "一层纳米机器人外部涂层，协同工作以防水，同时提供额外的保护层。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech vehicle turret"
+msgstr "纳米科技车辆炮塔"
+
+#: .\items\vehicle\vehicle_parts.json .\monsters\turrets.json
+msgid "nanotech shredder turret"
+msgid_plural "nanotech shredder turrets"
+msgstr[0] "纳米科技粉碎机炮塔"
+
+#. ~ Description for {'str': 'nanotech shredder turret'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech shredder adapted for vehicular usage."
+msgstr "一种适用于车辆使用的纳米科技粉碎机。"
+
+#: .\items\vehicle\vehicle_parts.json .\monsters\turrets.json
+msgid "nanotech pistol turret"
+msgid_plural "nanotech pistol turrets"
+msgstr[0] "纳米科技手枪炮塔"
+
+#. ~ Description for {'str': 'nanotech pistol turret'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech pistol adapted for vehicular usage."
+msgstr "一种适用于车辆使用的纳米科技手枪。"
+
+#: .\items\vehicle\vehicle_parts.json .\monsters\turrets.json
+msgid "nanotech rifle turret"
+msgid_plural "nanotech rifle turrets"
+msgstr[0] "纳米科技步枪炮塔"
+
+#. ~ Description for {'str': 'nanotech rifle turret'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech rifle adapted for vehicular usage."
+msgstr "一种适用于车辆使用的纳米科技步枪。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech SMG turret"
+msgstr "纳米科技冲锋枪炮塔"
+
+#. ~ Description for {'str': 'nanotech SMG turret'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech smg adapted for vehicular usage."
+msgstr "一种适用于车辆使用的纳米科技冲锋枪。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech aisle"
+msgstr "纳米科技通道"
+
+#. ~ Description for {'str': 'nanotech aisle'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech aisle, capable of assisting with lifting nearby objects."
+msgstr "一种纳米科技通道，能够协助提升附近的物体。"
+
+#: .\items\vehicle\vehicle_parts.json .\mapstuff\terrain.json
+msgid "nanotech roof"
+msgstr "纳米科技车顶"
+
+#. ~ Description for {'str': 'nanotech roof'}
+#: .\items\vehicle\vehicle_parts.json
+msgid "A nanotech roof that is capable of interfacing with a turret."
+msgstr "一种能够与炮塔交互的纳米科技车顶。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech solar panel"
+msgstr "纳米科技太阳能板"
+
+#. ~ Description for {'str': 'nanotech solar panel'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large sheet of nanites arranged to capture sunlight and convert it to "
+"electrical energy."
+msgstr "一大片排列好的纳米机器人，用于捕捉阳光并将其转化为电能。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech passive plating"
+msgstr "纳米科技被动装甲板"
+
+#. ~ Description for {'str': 'nanotech passive plating'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Nanites formed into a self-reinforcing mesh designed to reduce incoming "
+"damage."
+msgstr "纳米机器人形成的自增强网格，旨在减少受到的伤害。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech active plating"
+msgstr "纳米科技主动装甲板"
+
+#. ~ Description for {'str': 'nanotech active plating'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Nanites formed into a highly active mesh designed to shred anything they "
+"collide with."
+msgstr "纳米机器人形成的高度活跃网格，旨在粉碎任何与其碰撞的物体。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech compression tank (500L)"
+msgstr "纳米科技压缩罐（500升）"
+
+#. ~ Description for {'str': 'nanotech compression tank (500L)'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Collection of nanites formed into a hollow sphere with a complex mechanism "
+"to compress and decompress liquid to extreme levels."
+msgstr "由纳米机器人组成的空心球体，配备复杂机制，可将液体压缩或解压至极端水平。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech 'shoggoth' storage node"
+msgstr "纳米技术'修格斯'存储节点"
+
+#. ~ Description for {'str': "nanotech 'shoggoth' storage node"}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large blob of nanites with an AI, it actively branches out pseudopods to "
+"grasp items held near it and supports them as optimally as possible"
+msgstr "一大团搭载人工智能的纳米机器人，它会主动伸出伪足抓取附近的物品，并以最优方式支撑它们。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech crafting node"
+msgstr "纳米技术制作节点"
+
+#. ~ Description for {'str': 'nanotech crafting node'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large blob of nanites with an AI, it actively branches out pseudopods to "
+"assist with crafting efforts performed nearby.  Additionally, it will act as"
+" most tools upon command."
+msgstr "一大团搭载人工智能的纳米机器人，它会主动伸出伪足协助附近的制作工作。此外，它还能根据指令充当大多数工具使用。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech fridge"
+msgstr "纳米技术冰箱"
+
+#. ~ Description for {'str': 'nanotech fridge'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Collection of nanites formed into a hollow container, a large portion of "
+"their power is devoted to maintaining a cool temperature, leading to them "
+"being immobile and blocking passage."
+msgstr "由纳米机器人组成的空心容器，其大部分能量用于维持低温，导致无法移动并会阻挡通道。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech freezer"
+msgstr "纳米技术冷冻柜"
+
+#. ~ Description for {'str': 'nanotech freezer'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Collection of nanites formed into a hollow container, a large portion of "
+"their power is devoted to maintaining a frozen temperature, leading to them "
+"being immobile and blocking passage."
+msgstr "由纳米机器人组成的空心容器，其大部分能量用于维持冰冻温度，导致无法移动并会阻挡通道。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "installed nanofactory MK I"
+msgstr "已安装的纳米工厂 MK I"
+
+#. ~ Description for {'str': 'installed nanofactory MK I'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large and bulky prototype nanofactory sitting on a frame somehow not "
+"functioning properly"
+msgstr "一个庞大笨重的原型纳米工厂安装在框架上，但不知为何无法正常运作。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "installed nanofactory MK II"
+msgstr "已安装的纳米工厂 MK II"
+
+#. ~ Description for {'str': 'installed nanofactory MK II'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large and bulky nanofactory sitting on a frame somehow not functioning "
+"properly."
+msgstr "一个庞大笨重的纳米工厂安装在框架上，但不知为何无法正常运作。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech power generator"
+msgstr "纳米技术发电机"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech anima"
+msgstr "纳米技术动力核心"
+
+#. ~ Description for {'str': 'nanotech anima'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A mass of nanites programmed to locate mechanical power systems and "
+"interface with them to provide mechanical power."
+msgstr "一团经过编程的纳米机器人，用于定位机械动力系统并与之对接以提供机械动力。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech control pod"
+msgstr "纳米技术控制舱"
+
+#. ~ Description for {'str': 'nanotech control pod'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A large blob of nanites you can enter, it acts as a combined control system,"
+" chair, and camera control system all in one."
+msgstr "一大团可进入的纳米机器人，它集控制系统、座椅和摄像头控制系统于一体。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech shock mesh"
+msgstr "纳米技术防震网"
+
+#. ~ Description for {'str': 'nanotech shock mesh'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"A series of straps attached to the seat, intended to fasten together after "
+"going over your shoulders and hips and between your legs."
+msgstr "一系列固定在座椅上的绑带，设计用于跨过肩部、臀部及双腿之间后扣紧。"
+
+#: .\items\vehicle\vehicle_parts.json
+msgid "nanotech sensor array"
+msgstr "纳米技术传感器阵列"
+
+#. ~ Description for {'str': 'nanotech sensor array'}
+#: .\items\vehicle\vehicle_parts.json
+msgid ""
+"Advanced nanotech sensor array with basic armor, can transmit video to a "
+"camera control system or a nanotech control pod."
+msgstr "配备基础装甲的先进纳米技术传感器阵列，可将视频传输至摄像头控制系统或纳米技术控制舱。"
+
+#: .\mapstuff\terrain.json
+msgid "nanotech floor"
+msgstr "纳米技术地板"
+
+#. ~ Description for nanotech floor
+#: .\mapstuff\terrain.json
+msgid ""
+"A perfectly smooth floor with matching roof composed of nanites, can easily "
+"withstand almost anything."
+msgstr "由纳米机器人构成的完美光滑地板及匹配天花板，可轻松承受几乎任何冲击。"
+
+#: .\mapstuff\terrain.json
+msgid "sssssssss!"
+msgstr "嘶嘶嘶嘶嘶！"
+
+#: .\mapstuff\terrain.json
+msgid "whump!"
+msgstr "砰！"
+
+#: .\mapstuff\terrain.json
+msgid "nanotech wall"
+msgstr "纳米技术墙壁"
+
+#. ~ Description for nanotech wall
+#: .\mapstuff\terrain.json
+msgid ""
+"An incredibly durable and perfectly uniform wall composed of nanites.  More "
+"than capable of supporting a roof, as well as keeping out most practically "
+"anything."
+msgstr "由纳米机器人构成的极其耐用且完全均匀的墙壁。不仅能支撑屋顶，还能阻挡几乎所有实际威胁。"
+
+#: .\mapstuff\terrain.json
+msgid "sealed nanotech iris"
+msgstr "密封式纳米技术虹膜门"
+
+#. ~ Description for sealed nanotech iris
+#: .\mapstuff\terrain.json
+msgid ""
+"A sealed iris composed of nanites, this door is capable of withstanding "
+"nearly anything."
+msgstr "由纳米机器人构成的密封虹膜门，这道门能够承受几乎任何冲击。"
+
+#: .\mapstuff\terrain.json
+msgid "open nanotech iris"
+msgstr "开启纳米科技虹膜"
+
+#. ~ Description for open nanotech iris
+#: .\mapstuff\terrain.json
+msgid ""
+"An opened iris composed of nanites, this door is capable of withstanding "
+"nearly anything."
+msgstr "由纳米机器人组成的开启式虹膜，这扇门几乎能抵御任何冲击。"
+
+#. ~ Description for nanotech roof
+#: .\mapstuff\terrain.json
+msgid ""
+"A perfectly smooth roof composed of nanites, can easily withstand almost "
+"anything."
+msgstr "由纳米机器人构成的完美光滑屋顶，能轻松抵御几乎所有冲击。"
+
+#: .\monsters\turrets.json
+msgid "You shouldn't see this. nano_turret_pistol_weapon"
+msgstr "你不该看到这个。nano_turret_pistol_weapon"
+
+#: .\monsters\turrets.json
+msgid "You shouldn't see this. nano_turret_shredder_weapon"
+msgstr "你不该看到这个。nano_turret_shredder_weapon"
+
+#: .\monsters\turrets.json
+msgid "You shouldn't see this. nano_turret_rifle_weapon"
+msgstr "你不该看到这个。nano_turret_rifle_weapon"
+
+#: .\monsters\turrets.json
+msgid "You shouldn't see this. nano_turret_smg_weapon"
+msgstr "你不该看到这个。nano_turret_smg_weapon"
+
+#. ~ Description for {'str': 'nanotech pistol turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A shimmering pool of liquid metal with a small barrel sticking out, this "
+"turret specializes in accuracy, though it lacks in raw power."
+msgstr "一滩闪烁的液态金属，伸出一根小口径枪管，这座炮塔专精于精准射击，但威力有所欠缺。"
+
+#. ~ Description for {'str': 'nanotech shredder turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A shimmering pool of liquid metal with a wide barrel sticking out, this "
+"turret specializes in power, though it lacks in accuracy and range."
+msgstr "一滩闪烁的液态金属，伸出一根宽口径枪管，这座炮塔专精于威力，但精准度和射程有所不足。"
+
+#. ~ Description for {'str': 'nanotech rifle turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A shimmering pool of liquid metal with a long barrel sticking out, this "
+"turret specializes in accuracy, though it lacks in raw power."
+msgstr "一滩闪烁的液态金属，伸出一根长枪管，这座炮塔专精于精准射击，但威力有所欠缺。"
+
+#: .\monsters\turrets.json
+msgid "nanotech smg turret"
+msgid_plural "nanotech smg turrets"
+msgstr[0] "纳米科技冲锋枪炮塔"
+
+#. ~ Description for {'str': 'nanotech smg turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A shimmering pool of liquid metal with a short barrel sticking out, this "
+"turret specializes in speed, though it lacks in range and sustainability."
+msgstr "一滩闪烁的液态金属，伸出一根短枪管，这座炮塔专精于射速，但射程和持续作战能力有所不足。"

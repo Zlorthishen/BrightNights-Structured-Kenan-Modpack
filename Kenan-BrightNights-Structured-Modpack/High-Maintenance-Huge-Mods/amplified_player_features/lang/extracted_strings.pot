@@ -1,0 +1,1812 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: amplified_players_features\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Amplified @'s Features"
+msgstr ""
+
+#. ~ Description for Amplified @'s Features
+#: .\modinfo.json
+msgid ""
+"Attempt to bring more stuff into appearance traits, including NPC support.  "
+"PS.: Don't mix cute with default :D"
+msgstr ""
+
+#: .\changes\0_reset_beard.json
+msgid "3-misc: No Beard"
+msgstr ""
+
+#. ~ Description for {'str': '3-misc: No Beard'}
+#: .\changes\0_reset_beard.json
+msgid "You either shaved or can't grown a beard."
+msgstr ""
+
+#: .\changes\0_reset_beard.json
+msgid "null"
+msgstr ""
+
+#. ~ Description for {'str': 'null'}
+#: .\changes\0_reset_beard.json
+msgid "hidden by unnatural features mod"
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "3-misc: No Hair"
+msgstr ""
+
+#. ~ Description for {'str': '3-misc: No Hair'}
+#: .\changes\0_reset_hairstyle.json
+msgid "You are BALD™."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_fro: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_fro: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: 'fro unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_crewcut: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_crewcut: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: crew-cut unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_long: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_long: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: long unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_medium: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_medium: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: medium unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_mohawk: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_mohawk: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: mohawk unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Black'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Black hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Blond'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Blond hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Brown'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Brown hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Gray'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Gray hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Pink'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Pink hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: Red'}
+#: .\changes\0_reset_hairstyle.json
+msgid "Red hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_hairstyle.json
+msgid "4-hair_short: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_short: White'}
+#: .\changes\0_reset_hairstyle.json
+msgid "White hair style: short unisex."
+msgstr ""
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Dark Brown"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_default: Dark Brown'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a dark brown skin tone."
+msgstr ""
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Light Peach"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_default: Light Peach'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a fading peach skin tone."
+msgstr ""
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Light Brown"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_default: Light Brown'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a fading brown skin tone."
+msgstr ""
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Rose"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_default: Rose'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a rosy pink skin tone."
+msgstr ""
+
+#: .\changes\0_reset_skintone.json
+msgid "0-skin_default: Bronze"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_default: Bronze'}
+#: .\changes\0_reset_skintone.json
+msgid "You have a bronze or tan skin tone."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Black'}
+#: .\changes\1_add_beard.json
+msgid "You have a short black beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Black'}
+#: .\changes\1_add_beard.json
+msgid "You have a black moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard forming a patch under your "
+"lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of black hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Black"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Black'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a black moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Blond'}
+#: .\changes\1_add_beard.json
+msgid "You have a short blond beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Blond'}
+#: .\changes\1_add_beard.json
+msgid "You have a blond moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard forming a patch under your "
+"lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of blond hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Blond'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a blond moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Brown'}
+#: .\changes\1_add_beard.json
+msgid "You have a short brown beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Brown'}
+#: .\changes\1_add_beard.json
+msgid "You have a brown moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard forming a patch under your "
+"lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of brown hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Brown'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a brown moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Gray'}
+#: .\changes\1_add_beard.json
+msgid "You have a short gray beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Gray'}
+#: .\changes\1_add_beard.json
+msgid "You have a gray moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard forming a patch under your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of gray hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Gray'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a gray moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Pink'}
+#: .\changes\1_add_beard.json
+msgid "You have a short pink beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Pink'}
+#: .\changes\1_add_beard.json
+msgid "You have a pink moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard forming a patch under your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of pink hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Pink'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a pink moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard with trimmed sides.  Thin patches"
+" connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: Red'}
+#: .\changes\1_add_beard.json
+msgid "You have a short red beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: Red'}
+#: .\changes\1_add_beard.json
+msgid "You have a red moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red beard formed from hair grown on neck below the chin line.  No"
+" moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard forming a patch under your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of red hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: Red"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: Red'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a red moustache and a short beard, that both form a circle around "
+"your lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_short_boxed: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_short_boxed: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard with trimmed sides.  Thin "
+"patches connect them both, forming a 'box' around the lips, thus the name."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_goatee: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_goatee: White'}
+#: .\changes\1_add_beard.json
+msgid "You have a short white beard at the tip of your chin."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_full: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_full: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a long beard, both formed by allowing free "
+"growth of hair, with no particular styling."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chevron: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chevron: White'}
+#: .\changes\1_add_beard.json
+msgid "You have a white moustache that covers your entire top lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_neckbeard: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_neckbeard: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white beard formed from hair grown on neck below the chin line.  "
+"No moustache included."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_moustache: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_moustache: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache with shortened ends, that covers only the skin "
+"above your upper lip."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_royale: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_royale: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard forming a patch under your "
+"lips."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_soul_patch: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_soul_patch: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a little bit of white hair in the dip under your lower lip, and no "
+"other facial hair whatsoever."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_chin_strap: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_chin_strap: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white beard along the jaw lines, circling tha chin, and no "
+"moustache."
+msgstr ""
+
+#: .\changes\1_add_beard.json
+msgid "5-beard_circle: White"
+msgstr ""
+
+#. ~ Description for {'str': '5-beard_circle: White'}
+#: .\changes\1_add_beard.json
+msgid ""
+"You have a white moustache and a short beard, that both form a circle around"
+" your lips."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Blue"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Blue'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is blue."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Brown'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is brown."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Gray'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is gray."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Green"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Green'}
+#: .\changes\1_add_eye.json
+msgid "Your natural eye colour is green."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Red"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on red coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_default: Yellow"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_default: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on yellow coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Blue"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Blue'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright blue coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Blue"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Blue'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark blue coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Brown'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright brown coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Brown'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark brown coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Gray'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright gray coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Gray'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark gray coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Green"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Green'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright green coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Green"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Green'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark green coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Purple"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Purple'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright purple coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Purple"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Purple'}
+#: .\changes\1_add_eye.json
+msgid "You have on deep purple coloured contacts.  Heh."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Red"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright red coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Red"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Red'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark red coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_bright: Yellow"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_bright: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on bright yellow coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_eye.json
+msgid "2-eyes_cute_dark: Yellow"
+msgstr ""
+
+#. ~ Description for {'str': '2-eyes_cute_dark: Yellow'}
+#: .\changes\1_add_eye.json
+msgid "You have on dark yellow coloured contacts."
+msgstr ""
+
+#: .\changes\1_add_freckle.json
+msgid "1-freckles: Dense"
+msgstr ""
+
+#. ~ Description for {'str': '1-freckles: Dense'}
+#: .\changes\1_add_freckle.json
+msgid "Your face has a lot of freckles."
+msgstr ""
+
+#: .\changes\1_add_freckle.json
+msgid "1-freckles: Light"
+msgstr ""
+
+#. ~ Description for {'str': '1-freckles: Light'}
+#: .\changes\1_add_freckle.json
+msgid "Your face has some light freckles."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_pageboy_fringe: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_pageboy_fringe: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: pageboy for women, fringe for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_lopsided_curtain: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_lopsided_curtain: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: lopsided cut for women, curtained for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_baby_lifted: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_baby_lifted: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: baby bangs for women, facelift for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Black'}
+#: .\changes\1_add_hairstyle.json
+msgid "Black hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Blond"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Blond'}
+#: .\changes\1_add_hairstyle.json
+msgid "Blond hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Brown'}
+#: .\changes\1_add_hairstyle.json
+msgid "Brown hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Gray'}
+#: .\changes\1_add_hairstyle.json
+msgid "Gray hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Pink'}
+#: .\changes\1_add_hairstyle.json
+msgid "Pink hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: Red'}
+#: .\changes\1_add_hairstyle.json
+msgid "Red hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_hairstyle.json
+msgid "4-hair_bangs_mullet: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_bangs_mullet: White'}
+#: .\changes\1_add_hairstyle.json
+msgid "White hair style: bangs for women, mullet for men."
+msgstr ""
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Dark Brown"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_cute: Dark Brown'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like dark brown skin tone."
+msgstr ""
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Light Peach"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_cute: Light Peach'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like fading peach skin tone."
+msgstr ""
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Light Brown"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_cute: Light Brown'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like fading brown skin tone."
+msgstr ""
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Rose"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_cute: Rose'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like rosy skin tone."
+msgstr ""
+
+#: .\changes\1_add_skintone.json
+msgid "0-skin_cute: Bronze"
+msgstr ""
+
+#. ~ Description for {'str': '0-skin_cute: Bronze'}
+#: .\changes\1_add_skintone.json
+msgid "You have an anime-like bronze or tan skin tone."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Aqua"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Aqua'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute aqua wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Black"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Black'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute black wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Blonde"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Blonde'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute blond wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Blue"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Blue'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute blue wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Brown"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Brown'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute brown wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Green"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Green'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute green wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Gray"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Gray'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute gray wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Orange"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Orange'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute orange wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Pink"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Pink'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute pink wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Purple"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Purple'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute purple wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: Red"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: Red'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute red wig."
+msgstr ""
+
+#: .\changes\1_add_wig.json
+msgid "4-hair_wig: White"
+msgstr ""
+
+#. ~ Description for {'str': '4-hair_wig: White'}
+#: .\changes\1_add_wig.json
+msgid "You are wearing a cute white wig."
+msgstr ""

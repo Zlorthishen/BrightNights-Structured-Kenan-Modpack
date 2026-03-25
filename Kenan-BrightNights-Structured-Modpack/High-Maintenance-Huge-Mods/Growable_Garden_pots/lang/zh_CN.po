@@ -1,0 +1,514 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: growable-pots\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items.json
+msgid "garden pot"
+msgid_plural "garden pots"
+msgstr[0] "花园盆"
+
+#. ~ Description for {'str': 'garden pot'}
+#: .\items.json
+msgid ""
+"A special pot for growing plants, maintaining them at comfortable conditions"
+" for maximum yield.  It can be crafted with various seeds to plant them."
+msgstr "一种用于种植植物的特殊盆，保持舒适条件以获得最大产量。可以用各种种子制作以种植它们。"
+
+#: .\items.json
+msgid "garden pot (growing)"
+msgid_plural "garden pots (growing)"
+msgstr[0] "花园盆（生长中）"
+
+#. ~ Description for {'str': 'garden pot (growing)', 'str_pl': 'garden pots
+#. (growing)'}
+#: .\items.json
+msgid ""
+"A garden pot growing some tasty, unnameable plants.  You shouldn't see this "
+"item."
+msgstr "一个花园盆，里面种着一些美味但无法命名的植物。你不应该看到这个物品。"
+
+#: .\items.json
+msgid "garden pot (grown)"
+msgid_plural "garden pots (grown)"
+msgstr[0] "花园盆（已成熟）"
+
+#. ~ Description for {'str': 'garden pot (grown)', 'str_pl': 'garden pots
+#. (grown)'}
+#: .\items.json
+msgid ""
+"A garden pot with some ripe, unnameable plants.  You shouldn't see this "
+"item."
+msgstr "一个花园盆，里面有一些成熟但无法命名的植物。你不应该看到这个物品。"
+
+#: .\items.json
+msgid "garden pot (growing tomatoes)"
+msgid_plural "garden pots (growing tomatoes)"
+msgstr[0] "花园盆（生长番茄）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing tomatoes)', 'str_pl':
+#. 'garden pots (growing tomatoes)'}.
+#: .\items.json
+msgid "The tomatoes are ready to harvest!"
+msgstr "番茄已经可以收获了！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing tomatoes)',
+#. 'str_pl': 'garden pots (growing tomatoes)'}.
+#: .\items.json
+msgid "The tomatoes aren't done growing yet."
+msgstr "番茄尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing tomatoes)', 'str_pl':
+#. 'garden pots (growing tomatoes)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing tomatoes.  Once ripe, it can be activated to "
+"prepare them for harvest."
+msgstr "这是一个种植番茄的花盆。成熟后，可以激活以准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe tomatoes)"
+msgid_plural "garden pots (ripe tomatoes)"
+msgstr[0] "花盆（成熟番茄）"
+
+#. ~ Description for {'str': 'garden pot (ripe tomatoes)', 'str_pl': 'garden
+#. pots (ripe tomatoes)'}
+#: .\items.json
+msgid ""
+"This is a garden pot with a ripe tomato plant.  Disassemble to retrieve the "
+"tasty 'matos."
+msgstr "这是一个种有成熟番茄植株的花盆。拆解以获取美味的番茄。"
+
+#: .\items.json
+msgid "garden pot (growing wheat)"
+msgid_plural "garden pots (growing wheat)"
+msgstr[0] "花盆（生长中的小麦）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing wheat)', 'str_pl':
+#. 'garden pots (growing wheat)'}.
+#: .\items.json
+msgid "The wheat is ready to harvest!"
+msgstr "小麦已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing wheat)',
+#. 'str_pl': 'garden pots (growing wheat)'}.
+#: .\items.json
+msgid "The wheat isn't done growing yet."
+msgstr "小麦尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing wheat)', 'str_pl': 'garden
+#. pots (growing wheat)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing wheat.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植小麦的花盆。成熟后，可以激活以准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe wheat)"
+msgid_plural "garden pots (ripe wheat)"
+msgstr[0] "花盆（成熟小麦）"
+
+#. ~ Description for {'str': 'garden pot (ripe wheat)', 'str_pl': 'garden pots
+#. (ripe wheat)'}
+#: .\items.json
+msgid ""
+"This is a garden pot with wheat ready to harvest.  Disassemble to retrieve "
+"it."
+msgstr "这是一个种有可收获小麦的花盆。拆解以获取它。"
+
+#: .\items.json
+msgid "garden pot (growing hops)"
+msgid_plural "garden pots (growing hops)"
+msgstr[0] "花盆（生长中的啤酒花）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing hops)', 'str_pl': 'garden
+#. pots (growing hops)'}.
+#: .\items.json
+msgid "The hops are ready to harvest!"
+msgstr "啤酒花已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing hops)',
+#. 'str_pl': 'garden pots (growing hops)'}.
+#: .\items.json
+msgid "The hops aren't done growing yet."
+msgstr "啤酒花尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing hops)', 'str_pl': 'garden
+#. pots (growing hops)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing hops.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植啤酒花的花盆。成熟后，可以激活以准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe hops)"
+msgid_plural "garden pots (ripe hops)"
+msgstr[0] "花盆（成熟啤酒花）"
+
+#. ~ Description for {'str': 'garden pot (ripe hops)', 'str_pl': 'garden pots
+#. (ripe hops)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing blooming hops flowers.  Disassemble to "
+"harvest them."
+msgstr "这是一个装有盛开啤酒花的花盆。拆解以收获它们。"
+
+#: .\items.json
+msgid "garden pot (growing buckwheat)"
+msgid_plural "garden pots (growing buckwheat)"
+msgstr[0] "花盆（生长中的荞麦）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing buckwheat)', 'str_pl':
+#. 'garden pots (growing buckwheat)'}.
+#: .\items.json
+msgid "The buckwheat is ready to harvest!"
+msgstr "荞麦已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing buckwheat)',
+#. 'str_pl': 'garden pots (growing buckwheat)'}.
+#: .\items.json
+msgid "The buckwheat isn't done growing yet."
+msgstr "荞麦尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing buckwheat)', 'str_pl':
+#. 'garden pots (growing buckwheat)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing buckwheat.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植荞麦的花盆。成熟后，可以激活以准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe buckwheat)"
+msgid_plural "garden pots (ripe buckwheat)"
+msgstr[0] "花盆（成熟荞麦）"
+
+#. ~ Description for {'str': 'garden pot (ripe buckwheat)', 'str_pl': 'garden
+#. pots (ripe buckwheat)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing ripe buckwheat stalks.  Disassemble to "
+"harvest them."
+msgstr "这是一个装有成熟荞麦秆的花盆。拆解以收获它们。"
+
+#: .\items.json
+msgid "garden pot (growing broccoli)"
+msgid_plural "garden pots (growing broccoli)"
+msgstr[0] "花盆（生长中的西兰花）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing broccoli)', 'str_pl':
+#. 'garden pots (growing broccoli)'}.
+#: .\items.json
+msgid "The broccoli is ready to harvest!"
+msgstr "西兰花已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing broccoli)',
+#. 'str_pl': 'garden pots (growing broccoli)'}.
+#: .\items.json
+msgid "The broccoli isn't done growing yet."
+msgstr "西兰花尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing broccoli)', 'str_pl':
+#. 'garden pots (growing broccoli)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing broccoli.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植西兰花的花盆。成熟后，可以激活以准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe broccoli)"
+msgid_plural "garden pots (ripe broccoli)"
+msgstr[0] "花盆（成熟西兰花）"
+
+#. ~ Description for {'str': 'garden pot (ripe broccoli)', 'str_pl': 'garden
+#. pots (ripe broccoli)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing some fully-grown broccoli.  Disassemble to "
+"harvest it."
+msgstr "这是一个装有完全成熟西兰花的花盆。拆解以收获它。"
+
+#: .\items.json
+msgid "garden pot (growing oats)"
+msgid_plural "garden pots (growing oats)"
+msgstr[0] "花盆（生长中的燕麦）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing oats)', 'str_pl': 'garden
+#. pots (growing oats)'}.
+#: .\items.json
+msgid "The oats are ready to harvest!"
+msgstr "燕麦已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing oats)',
+#. 'str_pl': 'garden pots (growing oats)'}.
+#: .\items.json
+msgid "The oats aren't done growing yet."
+msgstr "燕麦尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing oats)', 'str_pl': 'garden
+#. pots (growing oats)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing oats.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植燕麦的花盆。成熟后，可以激活以准备收割。"
+
+#: .\items.json
+msgid "garden pot (ripe oats)"
+msgid_plural "garden pots (ripe oats)"
+msgstr[0] "花盆（成熟燕麦）"
+
+#. ~ Description for {'str': 'garden pot (ripe oats)', 'str_pl': 'garden pots
+#. (ripe oats)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing some golden, fully-grown oats.  Disassemble "
+"to harvest them."
+msgstr "这是一个装有金黄色、完全成熟的燕麦的花盆。拆卸以收割它们。"
+
+#: .\items.json
+msgid "garden pot (growing barley)"
+msgid_plural "garden pots (growing barley)"
+msgstr[0] "花盆（生长中的大麦）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing barley)', 'str_pl':
+#. 'garden pots (growing barley)'}.
+#: .\items.json
+msgid "The barley is ready to harvest!"
+msgstr "大麦已可收割！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing barley)',
+#. 'str_pl': 'garden pots (growing barley)'}.
+#: .\items.json
+msgid "The barley isn't done growing yet."
+msgstr "大麦尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing barley)', 'str_pl': 'garden
+#. pots (growing barley)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing barley.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植大麦的花盆。成熟后，可以激活以准备收割。"
+
+#: .\items.json
+msgid "garden pot (ripe barley)"
+msgid_plural "garden pots (ripe barley)"
+msgstr[0] "花盆（成熟大麦）"
+
+#. ~ Description for {'str': 'garden pot (ripe barley)', 'str_pl': 'garden
+#. pots (ripe barley)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing some ready-to-harvest barley.  Disassemble "
+"to harvest it."
+msgstr "这是一个装有已可收割的大麦的花盆。拆卸以收割它。"
+
+#: .\items.json
+msgid "garden pot (growing carrots)"
+msgid_plural "garden pots (growing carrots)"
+msgstr[0] "花盆（生长中的胡萝卜）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing carrots)', 'str_pl':
+#. 'garden pots (growing carrots)'}.
+#: .\items.json
+msgid "The carrots are ready to harvest!"
+msgstr "胡萝卜已可收割！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing carrots)',
+#. 'str_pl': 'garden pots (growing carrots)'}.
+#: .\items.json
+msgid "The carrots aren't done growing yet."
+msgstr "胡萝卜尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing carrots)', 'str_pl': 'garden
+#. pots (growing carrots)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing carrots.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植胡萝卜的花盆。成熟后，可以激活以准备收割。"
+
+#: .\items.json
+msgid "garden pot (ripe carrots)"
+msgid_plural "garden pots (ripe carrots)"
+msgstr[0] "花盆（成熟胡萝卜）"
+
+#. ~ Description for {'str': 'garden pot (ripe carrots)', 'str_pl': 'garden
+#. pots (ripe carrots)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing some ripe carrots.  Disassemble to harvest "
+"them.  Store away from rabbits."
+msgstr "这是一个装有成熟胡萝卜的花盆。拆卸以收割它们。请远离兔子存放。"
+
+#: .\items.json
+msgid "garden pot (growing cotton)"
+msgid_plural "garden pots (growing cotton)"
+msgstr[0] "花盆（生长中的棉花）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing cotton)', 'str_pl':
+#. 'garden pots (growing cotton)'}.
+#: .\items.json
+msgid "The cotton is ready to harvest!"
+msgstr "棉花已可收割！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing cotton)',
+#. 'str_pl': 'garden pots (growing cotton)'}.
+#: .\items.json
+msgid "The cotton isn't done growing yet."
+msgstr "棉花尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing cotton)', 'str_pl': 'garden
+#. pots (growing cotton)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing cotton.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植棉花的花盆。成熟后，可以激活以准备收割。"
+
+#: .\items.json
+msgid "garden pot (ripe cotton)"
+msgid_plural "garden pots (ripe cotton)"
+msgstr[0] "花盆（成熟棉花）"
+
+#. ~ Description for {'str': 'garden pot (ripe cotton)', 'str_pl': 'garden
+#. pots (ripe cotton)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing white, fluffy cotton bolls ready for the "
+"loom.  Disassemble to pluck them."
+msgstr "这是一个装有白色蓬松棉铃的花盆，已准备好用于织布机。拆卸以采摘它们。"
+
+#: .\items.json
+msgid "garden pot (growing cabbage)"
+msgid_plural "garden pots (growing cabbage)"
+msgstr[0] "花盆（生长中的卷心菜）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing cabbage)', 'str_pl':
+#. 'garden pots (growing cabbage)'}.
+#: .\items.json
+msgid "The cabbages are ready to harvest!"
+msgstr "卷心菜已可收割！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing cabbage)',
+#. 'str_pl': 'garden pots (growing cabbage)'}.
+#: .\items.json
+msgid "The cabbage isn't done growing yet."
+msgstr "卷心菜尚未成熟。"
+
+#. ~ Description for {'str': 'garden pot (growing cabbage)', 'str_pl': 'garden
+#. pots (growing cabbage)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing cabbage.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植卷心菜的花盆。成熟后，可以激活以准备收割。"
+
+#: .\items.json
+msgid "garden pot (ripe cabbage)"
+msgid_plural "garden pots (ripe cabbage)"
+msgstr[0] "花盆（成熟卷心菜）"
+
+#. ~ Description for {'str': 'garden pot (ripe cabbage)', 'str_pl': 'garden
+#. pots (ripe cabbage)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing a big cabbage leaf.  Disassemble to harvest "
+"it."
+msgstr "这是一个装有一片大卷心菜叶的花盆。拆卸以收割它。"
+
+#: .\items.json
+msgid "garden pot (growing cucumber)"
+msgid_plural "garden pots (growing cucumber)"
+msgstr[0] "花盆（生长中的黄瓜）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing cucumber)', 'str_pl':
+#. 'garden pots (growing cucumber)'}.
+#: .\items.json
+msgid "The cucumber is ready to harvest!"
+msgstr "黄瓜已可收割！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing cucumber)',
+#. 'str_pl': 'garden pots (growing cucumber)'}.
+#: .\items.json
+msgid "The cucumber isn't done growing yet."
+msgstr "黄瓜尚未长成。"
+
+#. ~ Description for {'str': 'garden pot (growing cucumber)', 'str_pl':
+#. 'garden pots (growing cucumber)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing cucumber.  Once ripe, it can be activated to "
+"prepare it for harvest."
+msgstr "这是一个种植黄瓜的花园盆。一旦成熟，可以激活它准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe cucumber)"
+msgid_plural "garden pots (ripe cucumber)"
+msgstr[0] "花园盆（成熟黄瓜）"
+
+#. ~ Description for {'str': 'garden pot (ripe cucumber)', 'str_pl': 'garden
+#. pots (ripe cucumber)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing ripe cucumber.  Disassemble to harvest it."
+msgstr "这是一个装有成熟黄瓜的花园盆。拆解以收获它。"
+
+#: .\items.json
+msgid "garden pot (growing garlic)"
+msgid_plural "garden pots (growing garlic)"
+msgstr[0] "花园盆（种植大蒜）"
+
+#. ~ Use action msg for {'str': 'garden pot (growing garlic)', 'str_pl':
+#. 'garden pots (growing garlic)'}.
+#: .\items.json
+msgid "The garlic is ready to harvest!"
+msgstr "大蒜已可收获！"
+
+#. ~ Use action not_ready_msg for {'str': 'garden pot (growing garlic)',
+#. 'str_pl': 'garden pots (growing garlic)'}.
+#: .\items.json
+msgid "The garlic isn't done growing yet."
+msgstr "大蒜尚未长成。"
+
+#. ~ Description for {'str': 'garden pot (growing garlic)', 'str_pl': 'garden
+#. pots (growing garlic)'}
+#: .\items.json
+msgid ""
+"This is a garden pot growing garlic bulbs.  Once ripe, it can be activated "
+"to prepare it for harvest."
+msgstr "这是一个种植大蒜的花园盆。一旦成熟，可以激活它准备收获。"
+
+#: .\items.json
+msgid "garden pot (ripe garlic)"
+msgid_plural "garden pots (ripe garlic)"
+msgstr[0] "花园盆（成熟大蒜）"
+
+#. ~ Description for {'str': 'garden pot (ripe garlic)', 'str_pl': 'garden
+#. pots (ripe garlic)'}
+#: .\items.json
+msgid ""
+"This is a garden pot containing pungent garlic bulbs.  Disassemble to "
+"harvest them, or wave it at vampires to scare them."
+msgstr "这是一个装有辛辣大蒜的花园盆。拆解以收获它们，或向吸血鬼挥舞以吓退它们。"
+
+#: .\modinfo.json
+msgid "Growable Garden Pots"
+msgstr "可种植花园盆"
+
+#. ~ Description for Growable Garden Pots
+#: .\modinfo.json
+msgid ""
+"Allows you to grow seeds of 12 different plants in craftable garden pots "
+"that can be carried around as items.  Perfect for the nomadic botanist."
+msgstr "允许你在可制作的花园盆中种植12种不同植物的种子，这些盆可作为物品携带。非常适合游牧植物学家。"

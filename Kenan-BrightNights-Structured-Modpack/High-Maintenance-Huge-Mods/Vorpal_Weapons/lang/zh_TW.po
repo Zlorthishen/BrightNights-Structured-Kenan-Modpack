@@ -1,0 +1,997 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: vorpal_weapons\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\item_actions.json
+msgid "Burn off metal"
+msgstr "燒熔金屬"
+
+#: .\item_actions.json
+msgid "use"
+msgstr "使用"
+
+#: .\kikai_tools.json
+msgid "Magnetic field generator (suit)"
+msgid_plural "Magnetic field generator (suit)s"
+msgstr[0] "磁場發生器（套裝）"
+
+#. ~ Description for {'str': 'Magnetic field generator (suit)'}
+#: .\kikai_tools.json
+msgid ""
+"You can manipulate the surrounding metal and create a machine. It consumes "
+"enormous power."
+msgstr "你可以操控周圍的金屬並製造機器。它消耗巨大的能量。"
+
+#: .\martialarts.json
+msgid "Eskrima"
+msgstr "埃斯克rima"
+
+#: .\martialarts.json
+msgid "Fencing"
+msgstr "擊劍術"
+
+#: .\martialarts.json
+msgid "Krav Maga"
+msgstr "以色列格鬥術"
+
+#: .\martialarts.json
+msgid "Medieval Swordsmanship"
+msgstr "中世紀劍術"
+
+#: .\martialarts.json
+msgid "Ninjutsu"
+msgstr "忍術"
+
+#: .\martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr "二天一流"
+
+#: .\martialarts.json
+msgid "Silat"
+msgstr "席拉特"
+
+#: .\martialarts.json
+msgid "Fior Di Battaglia"
+msgstr "戰鬥之花"
+
+#: .\mizu_item.json
+msgid "Snorkelling"
+msgid_plural "Snorkellings"
+msgstr[0] "浮潛"
+
+#. ~ Description for {'str': 'Snorkelling'}
+#: .\mizu_item.json
+msgid ""
+"It is a tool to let you breathe even underwater. However, you will feel "
+"stuffy while you are not used to it."
+msgstr "這是一種讓你即使在水下也能呼吸的工具。然而，在你習慣之前會感到悶熱。"
+
+#: .\mizu_item.json
+msgid "Simple snorkel"
+msgid_plural "Simple snorkels"
+msgstr[0] "簡易呼吸管"
+
+#. ~ Description for {'str': 'Simple snorkel'}
+#: .\mizu_item.json
+msgid ""
+"A snorkel made of duct tape and rubber hose is coming. It seems that my "
+"breath will suck."
+msgstr "一個由管道膠帶和橡膠軟管制成的呼吸管即將到來。看來我的呼吸會很費力。"
+
+#: .\modinfo.json
+msgid "vorpal weapons"
+msgstr "斬首武器"
+
+#. ~ Description for vorpal weapons
+#: .\modinfo.json
+msgid ""
+"A collection of assorted gear, weapons, recipes and more. Machine translated"
+" from Japanese."
+msgstr "一系列各式裝備、武器、配方等。由日語機器翻譯而來。"
+
+#: .\vo_ammo_types.json
+msgid "Blood transfusion pack"
+msgstr "輸血包"
+
+#: .\vo_ammo_types.json
+msgid "Blood for transfusion"
+msgid_plural "Blood for transfusion"
+msgstr[0] "輸血用血液"
+
+#. ~ Description for {'str': 'Blood for transfusion', 'str_pl': 'Blood for
+#. transfusion'}
+#: .\vo_ammo_types.json
+msgid "It is cleaned blood."
+msgstr "這是經過清潔的血液。"
+
+#: .\vo_ammo_types.json
+msgid "Blood transfusion pack (off)"
+msgid_plural "Blood transfusion pack (off)"
+msgstr[0] "輸血包（關閉）"
+
+#. ~ Use action msg for {'str': 'Blood transfusion pack (off)', 'str_pl':
+#. 'Blood transfusion pack (off)'}.
+#: .\vo_ammo_types.json
+msgid "I started blood transfusion."
+msgstr "我開始輸血了。"
+
+#. ~ Description for {'str': 'Blood transfusion pack (off)', 'str_pl': 'Blood
+#. transfusion pack (off)'}
+#: .\vo_ammo_types.json
+msgid "It is a transfusion pack kept clean. It can be used as it is."
+msgstr "這是一個保持清潔的輸血包。可以直接使用。"
+
+#: .\vo_ammo_types.json
+msgid "Blood transfusion pack (on)"
+msgid_plural "Blood transfusion pack (on)s"
+msgstr[0] "輸血包（開啟）"
+
+#. ~ Use action msg for {'str': 'Blood transfusion pack (on)'}.
+#: .\vo_ammo_types.json
+msgid "I stopped transfusing."
+msgstr "我停止了輸血。"
+
+#. ~ Description for {'str': 'Blood transfusion pack (on)'}
+#: .\vo_ammo_types.json
+msgid ""
+"It is a transfusion pack kept clean. It is strange to see blood coming "
+"inside of me."
+msgstr "這是一個保持清潔的輸血包。看到血液流入體內感覺很奇怪。"
+
+#: .\vo_ammo_types.json
+msgid "Blood transfusion pack (empty)"
+msgid_plural "Blood transfusion pack (empty)"
+msgstr[0] "輸血包（空）"
+
+#. ~ Description for {'str': 'Blood transfusion pack (empty)', 'str_pl':
+#. 'Blood transfusion pack (empty)'}
+#: .\vo_ammo_types.json
+msgid ""
+"It is an empty transfusion pack. It can be reused if it washes cleanly. "
+"Probably it will be okay."
+msgstr "這是一個空的輸血包。如果清洗乾淨可以重複使用。大概沒問題吧。"
+
+#: .\vo_armor.json
+msgid "Smoke-proof mask(XL)"
+msgid_plural "Smoke-proof mask(XL)s"
+msgstr[0] "防煙面具（XL）"
+
+#: .\vo_armor.json
+msgid "Arm Warmer(XL)"
+msgid_plural "Arm Warmer(XL)"
+msgstr[0] "護臂（XL）"
+
+#. ~ Description for {'str': 'Arm Warmer(XL)', 'str_pl': 'Arm Warmer(XL)'}
+#: .\vo_armor.json
+msgid "Large, soft, snug cloth sleeves to keep your exotic anatomy warm."
+msgstr "寬大、柔軟、貼合的布袖，為您奇特的解剖結構保暖。"
+
+#: .\vo_armor.json
+msgid "A quiver (leg)"
+msgid_plural "A quiver (leg)s"
+msgstr[0] "箭袋（腿部）"
+
+#. ~ Description for {'str': 'A quiver (leg)'}
+#: .\vo_armor.json
+msgid ""
+"It is a small quiver hanging from the waist. The drooping quiver interferes "
+"with one leg. You can put in 10 pieces."
+msgstr "這是一個掛在腰間的箭袋。垂下的箭袋會妨礙一條腿。可以放入10支箭。"
+
+#: .\vo_armor.json
+msgid "Power assist suit (off)"
+msgid_plural "Power assist suit (off)s"
+msgstr[0] "助力服（關閉）"
+
+#. ~ Use action msg for {'str': 'Power assist suit (off)'}.
+#: .\vo_armor.json
+msgid "I turned on the assist function."
+msgstr "我開啟了輔助功能。"
+
+#. ~ Description for {'str': 'Power assist suit (off)'}
+#. ~ Description for {'str': 'Power Assist Suit (On)'}
+#: .\vo_armor.json
+msgid ""
+"It is an auxiliary tool that makes it easy to lift heavy objects. It's not "
+"for battle, so it's not durable."
+msgstr "這是一種輔助工具，便於舉起重物。它不是為戰鬥設計的，因此不耐用。"
+
+#: .\vo_armor.json
+msgid "Power Assist Suit (On)"
+msgid_plural "Power Assist Suit (On)s"
+msgstr[0] "助力服（開啟）"
+
+#. ~ Use action msg for {'str': 'Power Assist Suit (On)'}.
+#: .\vo_armor.json
+msgid "Assist function turned off."
+msgstr "輔助功能已關閉。"
+
+#: .\vo_kaihen.json
+msgid "survivor belt"
+msgid_plural "survivor belts"
+msgstr[0] "倖存者腰帶"
+
+#. ~ Use action holster_msg for {'str': 'survivor belt'}.
+#: .\vo_kaihen.json
+msgid "You sheath your %s"
+msgstr "你將你的%s收鞘。"
+
+#. ~ Use action holster_prompt for {'str': 'survivor belt'}.
+#: .\vo_kaihen.json
+msgid "Sheath blade"
+msgstr "鞘刃"
+
+#: .\vo_kaihen.json
+msgid "noise emitter (on)"
+msgid_plural "noise emitter (on)s"
+msgstr[0] "噪音發射器（開啟）"
+
+#: .\vo_kaihen.json
+msgid "quarterstaff"
+msgid_plural "quarterstaffs"
+msgstr[0] "長棍"
+
+#: .\vo_kaihen.json
+msgid "ironshod quarterstaff"
+msgid_plural "ironshod quarterstaffs"
+msgstr[0] "鐵頭長棍"
+
+#: .\vo_kaihen.json
+msgid "powered quarterstaff"
+msgid_plural "powered quarterstaffs"
+msgstr[0] "動力長棍"
+
+#: .\vo_kaihen.json
+msgid "headgear"
+msgid_plural "headgears"
+msgstr[0] "頭飾"
+
+#: .\vo_kaihen.json
+msgid "lobotomizer"
+msgid_plural "lobotomizers"
+msgstr[0] "腦葉切除器"
+
+#. ~ Description for {'str': 'lobotomizer'}
+#: .\vo_kaihen.json
+msgid ""
+"This is a hand-forged collapsible tool that has two axe heads and sharp "
+"shovel-like tip on one end.  It can be used as a shovel, or you could chop "
+"some zombies with it instead."
+msgstr "這是一把手工鍛造的可摺疊工具，一端有兩個斧頭和一個鋒利的鏟狀尖端。它可以用作鏟子，或者你也可以用它來砍殺一些殭屍。"
+
+#: .\vo_kaihen.json
+msgid "dive knife"
+msgid_plural "dive knives"
+msgstr[0] "潛水刀"
+
+#: .\vo_kaihen.json
+msgid "halberd"
+msgid_plural "halberds"
+msgstr[0] "戟"
+
+#: .\vo_kaihen.json
+msgid "naginata"
+msgid_plural "naginatas"
+msgstr[0] "薙刀"
+
+#: .\vo_kaihen.json
+msgid "glaive"
+msgid_plural "glaives"
+msgstr[0] "斬矛"
+
+#: .\vo_kaihen.json
+msgid "battle axe"
+msgid_plural "battle axes"
+msgstr[0] "戰斧"
+
+#: .\vo_kaihen.json
+msgid "broadsword"
+msgid_plural "broadswords"
+msgstr[0] "闊劍"
+
+#: .\vo_kaihen.json
+msgid "flammenschwert (aus)"
+msgid_plural "flammenschwerter (aus)"
+msgstr[0] "火焰劍（熄滅）"
+
+#. ~ Use action lacks_fuel_message for {'str': 'flammenschwert (aus)',
+#. 'str_pl': 'flammenschwerter (aus)'}.
+#: .\vo_kaihen.json
+msgid "Dein Flammenschwert hat keinen Brennstoff mehr."
+msgstr "你的火焰劍燃料已耗盡。"
+
+#. ~ Use action success_message for {'str': 'flammenschwert (aus)', 'str_pl':
+#. 'flammenschwerter (aus)'}.
+#: .\vo_kaihen.json
+msgid "Die Klinge deines Schwertes brennt!"
+msgstr "你的劍刃燃燒起來了！"
+
+#. ~ Description for {'str': 'flammenschwert (aus)', 'str_pl':
+#. 'flammenschwerter (aus)'}
+#. ~ Description for {'str': 'flammenschwert', 'str_pl': 'flammenschwerter'}
+#: .\vo_kaihen.json
+msgid ""
+"Ein großes zweihändiges Schwert aus Deutschland, an dessen Klinge sich, "
+"unter Zuführung von Benzin, eine anhaltende Flamme erzeugen lässt.  Es ist "
+"eine sehr mächtige Waffe."
+msgstr "一把來自德國的巨大雙手劍，通過添加汽油，可以在劍刃上產生持續的火焰。這是一件非常強大的武器。"
+
+#: .\vo_kaihen.json
+msgid "flammenschwert"
+msgid_plural "flammenschwerter"
+msgstr[0] "火焰劍"
+
+#. ~ Use action charges_extinguish_message for {'str': 'flammenschwert',
+#. 'str_pl': 'flammenschwerter'}.
+#: .\vo_kaihen.json
+msgid "Deinem Flammenschwert ist der Brennstoff ausgegangen!"
+msgstr "你的火焰劍燃料用完了！"
+
+#. ~ Use action noise_message for {'str': 'flammenschwert', 'str_pl':
+#. 'flammenschwerter'}.
+#: .\vo_kaihen.json
+msgid "Das Feuer um deine Schwertklinge leuchtet hell!"
+msgstr "你劍刃周圍的火焰明亮地燃燒著！"
+
+#. ~ Use action voluntary_extinguish_message for {'str': 'flammenschwert',
+#. 'str_pl': 'flammenschwerter'}.
+#: .\vo_kaihen.json
+msgid "Die Flamme deines Schwertes erlischt."
+msgstr "你劍上的火焰熄滅了。"
+
+#. ~ Use action water_extinguish_message for {'str': 'flammenschwert',
+#. 'str_pl': 'flammenschwerter'}.
+#: .\vo_kaihen.json
+msgid "Dein Schwert zischt und erlischt."
+msgstr "你的劍發出嘶嘶聲並熄滅了。"
+
+#: .\vo_kaihen.json
+msgid "shishkebab (off)"
+msgid_plural "shishkebabs (off)"
+msgstr[0] "烤肉串劍（關閉）"
+
+#. ~ Use action failure_message for {'str': 'shishkebab (off)', 'str_pl':
+#. 'shishkebabs (off)'}.
+#: .\vo_kaihen.json
+msgid "Aw, dangit.  It fails to start!"
+msgstr "啊，糟糕。它啟動失敗了！"
+
+#. ~ Use action lacks_fuel_message for {'str': 'shishkebab (off)', 'str_pl':
+#. 'shishkebabs (off)'}.
+#: .\vo_kaihen.json
+msgid "This thing needs some fuel!"
+msgstr "這東西需要一些燃料！"
+
+#. ~ Use action success_message for {'str': 'shishkebab (off)', 'str_pl':
+#. 'shishkebabs (off)'}.
+#: .\vo_kaihen.json
+msgid "Let's dance, Zeds!"
+msgstr "來跳舞吧，殭屍們！"
+
+#. ~ Description for {'str': 'shishkebab (off)', 'str_pl': 'shishkebabs
+#. (off)'}
+#: .\vo_kaihen.json
+msgid ""
+"This is a large blade with a fuel pipe on the side, and a small tank and "
+"igniter built into the insulated hilt.  When filled with gasoline, the blade"
+" can be made scorching hot to singe enemies and light your way.  Use to "
+"ignite."
+msgstr "這是一把大型刀刃，側面有燃料管，絕緣刀柄內建有小油箱和點火器。當注入汽油時，刀刃可以變得灼熱，以灼傷敵人並照亮你的道路。使用以點燃。"
+
+#: .\vo_kaihen.json
+msgid "shishkebab (on)"
+msgid_plural "shishkebabs (on)"
+msgstr[0] "烤肉串劍（開啟）"
+
+#. ~ Use action auto_extinguish_message for {'str': 'shishkebab (on)',
+#. 'str_pl': 'shishkebabs (on)'}.
+#: .\vo_kaihen.json
+msgid "Bummer, man!  Your shishkebab's flame flickers and dies out."
+msgstr "真倒黴，夥計！你的烤肉串劍火焰閃爍並熄滅了。"
+
+#. ~ Use action charges_extinguish_message for {'str': 'shishkebab (on)',
+#. 'str_pl': 'shishkebabs (on)'}.
+#: .\vo_kaihen.json
+msgid "Uncool, outta gas!  Your shishkebab's flame goes out."
+msgstr "不妙，沒油了！你的烤肉串劍火焰熄滅了。"
+
+#. ~ Use action noise_message for {'str': 'shishkebab (on)', 'str_pl':
+#. 'shishkebabs (on)'}.
+#: .\vo_kaihen.json
+msgid "Your shishkebab crackles!"
+msgstr "你的烤肉串劍噼啪作響！"
+
+#. ~ Use action voluntary_extinguish_message for {'str': 'shishkebab (on)',
+#. 'str_pl': 'shishkebabs (on)'}.
+#: .\vo_kaihen.json
+msgid "Peace out.  Your shishkebab's flame dies."
+msgstr "熄火了。你的烤肉串劍火焰熄滅了。"
+
+#. ~ Use action water_extinguish_message for {'str': 'shishkebab (on)',
+#. 'str_pl': 'shishkebabs (on)'}.
+#: .\vo_kaihen.json
+msgid "Your shishkebab hisses in the water and goes out."
+msgstr "你的烤肉串劍在水中嘶嘶作響並熄滅了。"
+
+#. ~ Description for {'str': 'shishkebab (on)', 'str_pl': 'shishkebabs (on)'}
+#: .\vo_kaihen.json
+msgid ""
+"This is a large blade with a fuel pipe on the side, and a small tank and "
+"igniter built into the insulated hilt.  The blade is glowing brightly.  Use "
+"to shut off the gas."
+msgstr "這是一把大型刀刃，側面有燃料管，絕緣刀柄內建有小油箱和點火器。刀刃正明亮地發光。使用以關閉燃氣。"
+
+#: .\vo_kaihen.json
+msgid "katana"
+msgid_plural "katanas"
+msgstr[0] "武士刀"
+
+#: .\vo_kaihen.json
+msgid "torch (lit)"
+msgid_plural "torches (lit)"
+msgstr[0] "火炬（點燃）"
+
+#: .\vo_kaihen.json
+msgid "tiger claws"
+msgid_plural "tiger claws"
+msgstr[0] "虎爪"
+
+#: .\vo_kaihen.json .\vo_weapons.json
+msgid "bionic claws"
+msgid_plural "bionic claws"
+msgstr[0] "仿生爪"
+
+#: .\vo_kaihen.json .\vo_weapons.json
+msgid "monomolecular blade"
+msgid_plural "monomolecular blades"
+msgstr[0] "單分子刀片"
+
+#: .\vo_kaihen.json
+msgid "tinfoil hat"
+msgid_plural "tinfoil hats"
+msgstr[0] "錫箔帽"
+
+#: .\vo_kaihen.json
+msgid "pair of rollerskates"
+msgid_plural "pairs of rollerskates"
+msgstr[0] "一雙輪滑鞋"
+
+#: .\vo_ranged.json
+msgid "Rifle (stone / pneumatic assault rifle)"
+msgid_plural "Rifle (stone / pneumatic assault rifle)s"
+msgstr[0] "步槍（石制/氣動突擊步槍）"
+
+#: .\vo_ranged.json
+msgid ""
+"Large pneumatic rifle with spiral stones. Although not quiet, the killing "
+"power is extremely high."
+msgstr "大型氣動步槍，配備螺旋石彈。雖不安靜，但殺傷力極高。"
+
+#: .\vo_ranged.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\vo_ranged.json
+msgid "auto"
+msgstr "自動"
+
+#: .\vo_shield.json
+msgid "Ballistic shield (large)"
+msgid_plural "Ballistic shield (large)"
+msgstr[0] "防彈盾牌（大型）"
+
+#. ~ Description for {'str': 'Ballistic shield (large)', 'str_pl': 'Ballistic
+#. shield (large)'}
+#: .\vo_shield.json
+msgid ""
+"It is a big shield made by Kevlar. It has size enough to cover the whole "
+"body and high bulletproof performance, and it is adopted for security "
+"maintenance organization of each country."
+msgstr "這是一種由凱夫拉制成的大型盾牌。尺寸足以覆蓋全身，防彈性能高，被各國安保維護組織採用。"
+
+#: .\vo_shield.json
+msgid "Ballistic shield (middle)"
+msgid_plural "Ballistic shield (middle)"
+msgstr[0] "防彈盾牌（中型）"
+
+#. ~ Description for {'str': 'Ballistic shield (middle)', 'str_pl': 'Ballistic
+#. shield (middle)'}
+#: .\vo_shield.json
+msgid ""
+"It is a Kevlar shield. It is compatible with portability and minimal "
+"protection range, and it is mainly used in special forces."
+msgstr "這是一種凱夫拉盾牌。兼顧便攜性和最小防護範圍，主要用於特種部隊。"
+
+#: .\vo_shield.json
+msgid "Riot Shield"
+msgid_plural "Riot Shield"
+msgstr[0] "防暴盾牌"
+
+#. ~ Description for {'str': 'Riot Shield', 'str_pl': 'Riot Shield'}
+#: .\vo_shield.json
+msgid ""
+"It is a transparent shield made of reinforced resin. It is light in weight "
+"for size, has wide protection range and high visibility."
+msgstr "這是一種由增強樹脂製成的透明盾牌。重量輕，防護範圍廣，可見度高。"
+
+#: .\vo_shield.json
+msgid "Pot shield"
+msgid_plural "Pot shield"
+msgstr[0] "鍋蓋盾牌"
+
+#. ~ Description for {'str': 'Pot shield', 'str_pl': 'Pot shield'}
+#: .\vo_shield.json
+msgid ""
+"It is a lid of a pan. I cloth is wrapped around the handle so as not to "
+"damage my hands. If you look only at the form you will not be able to insist"
+" as a shield."
+msgstr "這是一個平底鍋的蓋子。手柄上纏有布料以防傷手。僅看外形，你很難堅持說它是盾牌。"
+
+#: .\vo_shield.json
+msgid "Bulletproof briefcase"
+msgid_plural "Bulletproof briefcase"
+msgstr[0] "防彈公文包"
+
+#. ~ Description for {'str': 'Bulletproof briefcase', 'str_pl': 'Bulletproof
+#. briefcase'}
+#: .\vo_shield.json
+msgid ""
+"Kevlar board is embedded inside this briefcase. The loading capacity is "
+"reduced by that much, but we will protect our lives as well as our luggage."
+msgstr "這個公文包內嵌有凱夫拉板。裝載容量因此減少，但它能保護你的生命和行李。"
+
+#: .\vo_tools.json
+msgid "Toy bomb"
+msgid_plural "Toy bombs"
+msgstr[0] "玩具炸彈"
+
+#. ~ Use action msg for {'str': 'Toy bomb'}.
+#: .\vo_tools.json
+msgid "I started a bomb."
+msgstr "我啟動了炸彈。"
+
+#. ~ Description for {'str': 'Toy bomb'}
+#: .\vo_tools.json
+msgid "Sprinkle homemade white sticky matter."
+msgstr "灑出自制的白色粘稠物質。"
+
+#: .\vo_tools.json
+msgid "Trouble bomb (start)"
+msgid_plural "Trouble bomb (start)s"
+msgstr[0] "麻煩炸彈（啟動）"
+
+#. ~ Use action no_deactivate_msg for {'str': 'Trouble bomb (start)'}.
+#: .\vo_tools.json
+msgid "You've already armed the %s, try throwing it instead."
+msgstr "你已經啟動了%s，試著把它扔出去吧。"
+
+#. ~ Use action sound_msg for {'str': 'Trouble bomb (start)'}.
+#: .\vo_tools.json
+msgid "*Pucchu*."
+msgstr "*噗嗤*。"
+
+#. ~ Description for {'str': 'Trouble bomb (start)'}
+#: .\vo_tools.json
+msgid ""
+"Sprinkle homemade white sticky matter. Please throw it before you get "
+"caught!"
+msgstr "灑出自制的白色粘稠物質。在被抓住前請把它扔出去！"
+
+#: .\vo_tools.json
+msgid "Telescopic mop"
+msgid_plural "Telescopic mops"
+msgstr[0] "伸縮拖把"
+
+#. ~ Description for {'str': 'Telescopic mop'}
+#: .\vo_tools.json
+msgid ""
+"It is a telescopic mop. Performance does not change even if it is less than "
+"half the size of conventional products."
+msgstr "這是一種伸縮拖把。即使尺寸不到傳統產品的一半，性能也不變。"
+
+#: .\vo_tools.json
+msgid "Autologous blood transfusion kit (off)"
+msgid_plural "Autologous blood transfusion kit (off)s"
+msgstr[0] "自體輸血套件（關閉）"
+
+#. ~ Use action msg for {'str': 'Autologous blood transfusion kit (off)'}.
+#: .\vo_tools.json
+msgid "I connected the blood collector to my body."
+msgstr "我將採血器連接到了身體上。"
+
+#. ~ Description for {'str': 'Autologous blood transfusion kit (off)'}
+#: .\vo_tools.json
+msgid ""
+"It is a kit for using blood for transfusion. Save it when you are healthy, "
+"and use it when you need it. Start turning blood on by turning it on."
+msgstr "這是一個用於輸血的套件。健康時保存血液，需要時使用。通過開啟來啟動輸血。"
+
+#: .\vo_tools.json
+msgid "Autologous blood transfusion kit (on)"
+msgid_plural "Autologous blood transfusion kit (on)s"
+msgstr[0] "自體輸血套件（開啟）"
+
+#. ~ Use action msg for {'str': 'Autologous blood transfusion kit (on)'}.
+#: .\vo_tools.json
+msgid "I pulled out the blood collector."
+msgstr "我取出了採血器。"
+
+#. ~ Description for {'str': 'Autologous blood transfusion kit (on)'}
+#: .\vo_tools.json
+msgid ""
+"It is a kit for using blood for transfusion. Blood is being accumulated ... "
+"· · ·. Saved blood can be used as it is, or it can be removed from "
+"production. Let's draw it out when it is full."
+msgstr "這是一個用於輸血的採血套件。血液正在積累中……· · ·。儲存的血液可以直接使用，也可以從生產中移除。等它滿了再抽取吧。"
+
+#: .\vo_tools.json
+msgid "Brain washing device (off)"
+msgid_plural "Brain washing device (off)s"
+msgstr[0] "洗腦裝置（關閉）"
+
+#. ~ Use action msg for {'str': 'Brain washing device (off)'}.
+#: .\vo_tools.json
+msgid "I have a headache···."
+msgstr "我頭痛欲裂···。"
+
+#. ~ Description for {'str': 'Brain washing device (off)'}
+#: .\vo_tools.json
+msgid ""
+"It is an electromagnetic wave weapon which acts on the opponent's brain "
+"using sunlight. Because of its nature, it can only be used while hitting the"
+" sun and once turned on it can not be turned off as long as the sun is out. "
+"You can defend by winding aluminum foil on the head."
+msgstr ""
+"這是一種利用陽光作用於對手大腦的電磁波武器。由於其特性，它只能在陽光照射時使用，並且一旦開啟，只要太陽還在，就無法關閉。可以通過在頭上纏繞鋁箔來防禦。"
+
+#: .\vo_tools.json
+msgid "Brain washing device (on）"
+msgid_plural "Brain washing device (on）s"
+msgstr[0] "洗腦裝置（開啟）"
+
+#. ~ Description for {'str': 'Brain washing device (on）'}
+#: .\vo_tools.json
+msgid ""
+"It is an electromagnetic wave weapon which acts on the opponent's brain "
+"using sunlight. Because of its nature, it can only be used while hitting the"
+" sun and once turned on it can not be turned off as long as the sun is out. "
+"Why is it also effective for machines?"
+msgstr ""
+"這是一種利用陽光作用於對手大腦的電磁波武器。由於其特性，它只能在陽光照射時使用，並且一旦開啟，只要太陽還在，就無法關閉。為什麼它對機器也有效？"
+
+#: .\vo_turret.json
+msgid "Objective turret (stop)"
+msgid_plural "Objective turret (stop)s"
+msgstr[0] "目標炮塔（停止）"
+
+#. ~ Description for {'str': 'Objective turret (stop)'}
+#: .\vo_turret.json
+msgid ""
+"Leadworks LLC's T-107A1 Interdictor, an automated .50BMG antimateriel rifle."
+"  Credited with forestalling countless car-bombing attempts, it has always "
+"been kept under extremely tight control, so as to itself maintain extremely "
+"tight control of its area.  And then the Cataclysm struck."
+msgstr ""
+"Leadworks "
+"LLC的T-107A1攔截者，一款自動化的.50BMG反器材步槍。它因阻止了無數汽車炸彈襲擊而備受讚譽，一直受到極其嚴格的控制，以便對其區域保持極嚴密的控制。然後大災變降臨了。"
+
+#: .\vo_turret.json
+msgid "Search light (MIL standard) (stop)"
+msgid_plural "Search light (MIL standard) (stop)s"
+msgstr[0] "探照燈（軍用標準）（停止）"
+
+#. ~ Description for {'str': 'Search light (MIL standard) (stop)'}
+#: .\vo_turret.json
+msgid ""
+"Three high-powered searchlights with automated search AI and mounting, "
+"continually seeking targets."
+msgstr "三個高功率探照燈，配備自動搜索AI和安裝座，持續尋找目標。"
+
+#: .\vo_turret.json
+msgid "Security robot (stop)"
+msgid_plural "Security robot (stop)s"
+msgstr[0] "安保機器人（停止）"
+
+#. ~ Description for {'str': 'Security robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"The Northrop Watchman X-1 is a production series of heavily armored combat "
+"robots.  Initially designed for military patrol and escort service, it rolls"
+" on a set of hydraulic treads and is armed with a 9x19mm SMG."
+msgstr ""
+"諾斯羅普守望者X-1是一款重型裝甲戰鬥機器人的生產系列。最初設計用於軍事巡邏和護送服務，它依靠一組液壓履帶移動，並裝備有一把9x19毫米衝鋒槍。"
+
+#: .\vo_turret.json
+msgid "Cleaning robot (stop)"
+msgid_plural "Cleaning robot (stop)s"
+msgstr[0] "清潔機器人（停止）"
+
+#. ~ Description for {'str': 'Cleaning robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"The Ford Sanitron, a utility robot designed for cleaning up waste material "
+"in hazardous conditions."
+msgstr "福特清潔機器人，一種專為在危險環境下清理廢棄物而設計的實用型機器人。"
+
+#: .\vo_turret.json
+msgid "Police Robot (Stop)"
+msgid_plural "Police Robot (Stop)s"
+msgstr[0] "警察機器人（停止）"
+
+#. ~ Description for {'str': 'Police Robot (Stop)'}
+#: .\vo_turret.json
+msgid ""
+"One of the many models of armored law enforcement robots employed shortly "
+"before the collapse of civilization.  Solar powered like many other robots, "
+"it maintains its programmed pursuit of law and order, propelled on a trio of"
+" omni wheels."
+msgstr ""
+"這是文明崩潰前不久部署的眾多裝甲執法機器人型號之一。像許多其他機器人一樣，它由太陽能驅動，依靠三個全向輪推進，持續執行其程序化的法律與秩序追求。"
+
+#: .\vo_turret.json
+msgid "Mining robot (stop)"
+msgid_plural "Mining robot (stop)s"
+msgstr[0] "採礦機器人（停止）"
+
+#. ~ Description for {'str': 'Mining robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"A snake-like, segmented robot built to tunnel into the ground and detonate "
+"landmines."
+msgstr "一種蛇形、分段的機器人，設計用於鑽入地面並引爆地雷。"
+
+#: .\vo_turret.json
+msgid "Tripod type robot (stop)"
+msgid_plural "Tripod type robot (stop)s"
+msgstr[0] "三足型機器人（停止）"
+
+#. ~ Description for {'str': 'Tripod type robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"The Honda Regnal, a tall robot walking on three spidery legs.  For weapons, "
+"it has a trio of spiked retractable cables and a flamethrower mounted on its"
+" head."
+msgstr "本田Regnal，一種高大的機器人，以三條蜘蛛般的腿行走。武器方面，它有三條帶刺的可伸縮電纜和一個安裝在頭部的火焰噴射器。"
+
+#: .\vo_turret.json
+msgid "Chicken Walker (stop)"
+msgid_plural "Chicken Walker (stop)s"
+msgstr[0] "雞足步行機（停止）"
+
+#. ~ Description for {'str': 'Chicken Walker (stop)'}
+#: .\vo_turret.json
+msgid ""
+"The Northrup ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"諾斯羅普 "
+"ATSV，一臺巨大的、全副武裝的重型機器人，依靠一對反關節腿行走。它配備了一門40毫米反車輛榴彈發射器、一把5.56毫米反人員槍械，並能對攻擊者進行電擊，是一款高效的自動哨兵，儘管由於法律糾紛，其生產數量有限。"
+
+#: .\vo_turret.json
+msgid "Unmanned Tank (Stop)"
+msgid_plural "Unmanned Tank (Stop)s"
+msgstr[0] "無人坦克（停止）"
+
+#. ~ Description for {'str': 'Unmanned Tank (Stop)'}
+#: .\vo_turret.json
+msgid ""
+"The Northrup Emancipator is the first and only automated tank ever produced,"
+" made shortly after the split-up of Northrup Grumman.  Clad in depleted "
+"uranium plating, and armed with advanced munitions and a 120-mm gun, it is "
+"capable of delivering extraordinary firepower."
+msgstr ""
+"諾斯羅普解放者是第一款也是唯一一款生產的自動化坦克，在諾斯羅普·格魯曼公司拆分後不久製造。它覆蓋著貧鈾裝甲，配備先進彈藥和一門120毫米火炮，能夠提供非凡的火力。"
+
+#: .\vo_turret.json
+msgid "Explorer (stop)"
+msgid_plural "Explorer (stop)s"
+msgstr[0] "探索者（停止）"
+
+#. ~ Description for {'str': 'Explorer (stop)'}
+#: .\vo_turret.json
+msgid ""
+"A small, round turret which extends from the floor.  Two SMG barrels swivel "
+"360 degrees."
+msgstr "一個從地板延伸出來的小型圓形炮塔。兩把衝鋒槍槍管可360度旋轉。"
+
+#: .\vo_turret.json
+msgid "Monitoring robot (stop)"
+msgid_plural "Monitoring robot (stop)s"
+msgstr[0] "監控機器人（停止）"
+
+#. ~ Description for {'str': 'Monitoring robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"A fusion-driven UAV largely comprised of a high-resolution camera lens, this"
+" spheroid robot hovers above the ground, silent witness to the carnage and "
+"mayhem around it."
+msgstr "一種聚變驅動的無人機，主要由高分辨率攝像頭鏡頭組成，這個球形機器人懸浮在地面上方，默默見證著周圍的屠殺與混亂。"
+
+#: .\vo_turret.json
+msgid "Broken cyborg (stop)"
+msgid_plural "Broken cyborg (stop)s"
+msgstr[0] "損壞的賽博格（停止）"
+
+#. ~ Description for {'str': 'Broken cyborg (stop)'}
+#: .\vo_turret.json
+msgid ""
+"A robot body with the head of a human.  All kinds of electronic wires and "
+"devices are implanted in its head.  Patches of skin look diseased or "
+"rotting.  This cyborg moves erratically and has a confused and deranged look"
+" in its eyes."
+msgstr ""
+"一個機器人身體，長著人類的頭顱。各種電子線路和設備植入其頭部。皮膚斑塊看起來像是病變或腐爛。這個賽博格行動怪異，眼中流露出困惑和瘋狂的神色。"
+
+#: .\vo_turret.json
+msgid "Riot suppressing robot (stop)"
+msgid_plural "Riot suppressing robot (stop)s"
+msgstr[0] "防暴鎮壓機器人（停止）"
+
+#. ~ Description for {'str': 'Riot suppressing robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"Nonviolent riot-control bot.  Designed to suppress riots and make mass "
+"arrests of those participating.  Though its relaxation gas is by far its "
+"best-known weapon, it carries a blinding flash and a low-powered stungun for"
+" self-defense--in addition to its supply of electronic handcuffs."
+msgstr ""
+"非暴力防暴機器人。設計用於鎮壓騷亂並大規模逮捕參與者。儘管其鬆弛氣體是其最著名的武器，但它還配備致盲閃光和低功率電擊槍用於自衛——此外還有電子手銬供應。"
+
+#: .\vo_turret.json
+msgid "High speed robot (stop)"
+msgid_plural "High speed robot (stop)s"
+msgstr[0] "高速機器人（停止）"
+
+#. ~ Description for {'str': 'High speed robot (stop)'}
+#: .\vo_turret.json
+msgid ""
+"A insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two close-range tazers, it can skate across the ground with great"
+" speed."
+msgstr "一種小型犬大小的昆蟲狀機器人，專為家庭安防設計。配備兩把近程電擊槍，能以極快速度滑過地面。"
+
+#: .\vo_vehicle_parts.json
+msgid "training wheels"
+msgstr "訓練輪"
+
+#: .\vo_vehicle_parts.json
+msgid "A floating ring"
+msgstr "一個漂浮的環"
+
+#: .\vo_weapons.json
+msgid "Boxing gloves with stone"
+msgid_plural "Boxing gloves with stone"
+msgstr[0] "嵌石拳擊手套"
+
+#. ~ Description for {'str': 'Boxing gloves with stone', 'str_pl': 'Boxing
+#. gloves with stone'}
+#: .\vo_weapons.json
+msgid ""
+"It is a stuffed stone divided into two into a large ounce red boxing glove. "
+"I only need to beat up on my strength, so I do not need any detailed work. "
+"It is about 19.6 ounces."
+msgstr "這是一塊填充石料分割成兩半製成的大型盎司紅色拳擊手套。我只需依靠力量擊打，無需任何精細加工。重量約為19.6盎司。"
+
+#. ~ Description for {'str': 'bionic claws', 'str_pl': 'bionic claws'}
+#: .\vo_weapons.json
+msgid "Short and sharp claws made from a high-tech metal."
+msgstr "由高科技金屬製成的短而鋒利的爪子。"
+
+#. ~ Description for {'str': 'monomolecular blade'}
+#: .\vo_weapons.json
+msgid ""
+"A foot-long blade made from high-tech alloy and edged with bonded "
+"nanocrystals."
+msgstr "一英尺長的高科技合金刀刃，邊緣鑲有結合納米晶體。"
+
+#: .\vo_weapons.json
+msgid "Pata"
+msgid_plural "Patas"
+msgstr[0] "帕塔拳劍"
+
+#. ~ Description for {'str': 'Pata'}
+#: .\vo_weapons.json
+msgid ""
+"It is a long sword with a structure resembling Jamadahar, which is fitted "
+"with swords in armor of a shape like a gauntlet covering the forearm, the "
+"outside of the fist. Although it is a powerful weapon, you can not pick up "
+"objects because the arms are fixed."
+msgstr "這是一把結構類似賈馬達爾的長劍，裝配在形如覆蓋前臂和拳背的臂甲中。雖是強力武器，但因手臂被固定而無法拾取物品。"
+
+#: .\vo_weapons.json
+msgid "Battle Hook"
+msgid_plural "Battle Hooks"
+msgstr[0] "戰鬥鉤"
+
+#. ~ Description for {'str': 'Battle Hook'}
+#: .\vo_weapons.json
+msgid ""
+"It is a simple weapon just having a claw attached to the long handle. I can "
+"only pull it down, but it may be tossed off as much as a rotten head."
+msgstr "這只是一種在長柄上附加爪鉤的簡單武器。僅能向下拉扯，但可能像腐爛頭顱般被甩脫。"
+
+#: .\vo_weapons.json
+msgid "Laser sword (off)"
+msgid_plural "Laser sword (off)s"
+msgstr[0] "激光劍（關閉）"
+
+#. ~ Use action lacks_fuel_message for {'str': 'Laser sword (off)'}.
+#: .\vo_weapons.json
+msgid "It seems that energy is not enough."
+msgstr "似乎能量不足。"
+
+#. ~ Use action success_message for {'str': 'Laser sword (off)'}.
+#: .\vo_weapons.json
+msgid "I heard a low groaning sound."
+msgstr "我聽到低沉的呻吟聲。"
+
+#. ~ Description for {'str': 'Laser sword (off)'}
+#: .\vo_weapons.json
+msgid ""
+"It is my original lightsaber that is supposed to work with UPS. Although it "
+"is possible to irradiate an illegal output laser and burn enemies, it is a "
+"drawback that electric power is applied too much. It is also a substitute "
+"for acetylene lamp."
+msgstr "這是我原創的光劍，本應與UPS配合使用。雖能發射非法輸出激光灼傷敵人，但耗電過大是缺點。也可替代乙炔燈。"
+
+#: .\vo_weapons.json
+msgid "Laser sword (on)"
+msgid_plural "Laser sword (on)s"
+msgstr[0] "激光劍（開啟）"
+
+#. ~ Use action charges_extinguish_message for {'str': 'Laser sword (on)'}.
+#: .\vo_weapons.json
+msgid "The energy expired."
+msgstr "能量已耗盡。"
+
+#. ~ Use action noise_message for {'str': 'Laser sword (on)'}.
+#: .\vo_weapons.json
+msgid "voooom... voooom..."
+msgstr "嗡……嗡……"
+
+#. ~ Use action voluntary_extinguish_message for {'str': 'Laser sword (on)'}.
+#: .\vo_weapons.json
+msgid "The light blade disappeared."
+msgstr "光刃消失了。"
+
+#. ~ Use action water_extinguish_message for {'str': 'Laser sword (on)'}.
+#: .\vo_weapons.json
+msgid "It seems he had forgotten waterproofing."
+msgstr "他似乎忘了做防水處理。"
+
+#. ~ Description for {'str': 'Laser sword (on)'}
+#: .\vo_weapons.json
+msgid ""
+"It is my original lightsaber that is supposed to work with UPS. Although it "
+"is possible to irradiate an illegal output laser and burn enemies, it is a "
+"drawback that electric power is applied too much. Since there is no "
+"substance, attacks can not be handled."
+msgstr "這是我原創的光劍，本應與UPS配合使用。雖能發射非法輸出激光灼傷敵人，但耗電過大是缺點。由於沒有實體，無法格擋攻擊。"
+
+#: .\vo_weapons.json
+msgid "Sword of plutonium"
+msgid_plural "Sword of plutoniums"
+msgstr[0] "鈈之劍"
+
+#. ~ Description for {'str': 'Sword of plutonium'}
+#: .\vo_weapons.json
+msgid "It is a beautiful sword that fires lightly."
+msgstr "這是一把微微發光的美麗長劍。"

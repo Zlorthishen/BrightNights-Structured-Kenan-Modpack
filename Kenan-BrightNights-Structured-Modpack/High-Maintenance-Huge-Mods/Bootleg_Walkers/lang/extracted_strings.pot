@@ -1,0 +1,749 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Bootleg_Walkers\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Bootleg Walkers"
+msgstr ""
+
+#. ~ Description for Bootleg Walkers
+#: .\modinfo.json
+msgid ""
+"Allows one to construct shoddy knock-offs of the Northrup ATSV chicken "
+"walker.  For more information, consult the README.md file."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "rifle"
+msgid_plural "rifles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid ""
+"The weapon occasionally tries to bite you with its many mouths, when it "
+"succeeds it purrs contentedly."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "shotgun"
+msgid_plural "shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid "This weapon spits lead pellets at you whenever you touch its tendrils."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "flaregun"
+msgid_plural "flareguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid ""
+"This small and toothsome weapon occasionally exhales smoke, and smells of "
+"burning magnesium."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "M2 Browning"
+msgid_plural "M2 Brownings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid ""
+"This weapon almost constantly trembles in rage, and is too large to "
+"comfortably hold."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "blaster"
+msgid_plural "blasters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid "This weapon glows in places, and is almost painfully hot to the touch."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "laser"
+msgid_plural "lasers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid ""
+"This weapon's many eyes constantly move, only settling for a mere moment "
+"before finding a new focus."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "flamethrower"
+msgid_plural "flamethrowers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid "This weapon gurgles softly, and occasionally drips burning liquid."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "semi auto"
+msgstr ""
+
+#: .\walker_gun.json
+msgid "auto"
+msgstr ""
+
+#: .\walker_gun.json
+msgid "slosh."
+msgstr ""
+
+#: .\walker_gun.json
+msgid "tesla coil"
+msgid_plural "tesla coils"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\walker_gun.json
+msgid "Blue-green electricity arcs between this weapons twitching cilia."
+msgstr ""
+
+#: .\walker_item.json
+msgid "Northrup ATSV schematics"
+msgid_plural "Northrup ATSV schematics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Northrup ATSV schematics', 'str_pl': 'Northrup
+#. ATSV schematics'}
+#: .\walker_item.json
+msgid ""
+"A heavily classified document containing schematics for Northrups ATSV "
+"combat walker."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken chickenbot"
+msgid_plural "broken chickenbots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken chickenbot'}
+#: .\walker_item.json
+msgid ""
+"A broken chicken walker.  Still looks intimidating despite being permanently"
+" inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr ""
+
+#: .\walker_item.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\walker_item.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\walker_item.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\walker_item.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+
+#: .\walker_item.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\walker_item.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr ""
+
+#: .\walker_item.json
+msgid "walker chassis"
+msgid_plural "walker chassiss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'walker chassis'}
+#: .\walker_item.json
+msgid ""
+"An ATSV chassis, hand-forged from scrap.  An integral component for bootleg "
+"walkers."
+msgstr ""
+
+#: .\walker_item.json
+msgid "super chassis"
+msgid_plural "super chassiss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'super chassis'}
+#: .\walker_item.json
+msgid ""
+"An ATSV chassis, carefully crafted with the best materials and to the "
+"highest standards possible in a post-Cataclysm world."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed chicken walker"
+msgid_plural "packed chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'packed chicken walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed scrap walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed unarmed walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed bootleg walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed tesla walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed fusion walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed buckshot walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed flare walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed laser walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed flamer walker'}.
+#: .\walker_item.json
+msgid "The walker begins scanning for hostiles."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'packed chicken walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed scrap walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed unarmed walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed bootleg walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed tesla walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed fusion walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed buckshot walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed flare walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed laser walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed flamer walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker; it's IFF identifies you as hostile!"
+msgstr ""
+
+#. ~ Description for {'str': 'packed chicken walker'}
+#: .\walker_item.json
+msgid ""
+"An Northrup ATSV, packed for transport.  Armed with a 5.56 anti-personnel "
+"rifle, an anti-vehicle 40mm grenade launcher and a tazer.  Use this item to "
+"unpack and load with up to 1000 5.56 NATO M855A1 and 50 40mm frag rounds."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed scrap walker"
+msgid_plural "packed scrap walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed scrap walker'}
+#: .\walker_item.json
+msgid ""
+"A severely damaged Northrup ATSV, packed for transport.  Armed with a 5.56 "
+"anti-personnel rifle, an anti-vehicle 40mm grenade launcher and a tazer.  "
+"Use this item to unpack and load with up to 220 5.56 NATO M855A1 and 12 40mm"
+" frag rounds."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed unarmed walker"
+msgid_plural "packed unarmed walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed unarmed walker'}
+#: .\walker_item.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap, packed for transport.  Armed "
+"with a only a tazer, it is ineffective in combat, and really should have "
+"some weapons installed before activation."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed unarmed super walker"
+msgid_plural "packed unarmed super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'packed unarmed super walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed super walker'}.
+#: .\walker_item.json
+msgid "You hear \"STARTUP CHECKLIST COMPLETE.  ALL SYSTEMS GREEN.\""
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'packed unarmed super walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker! Embrace Deus Machina's purification!"
+msgstr ""
+
+#. ~ Description for {'str': 'packed unarmed super walker'}
+#: .\walker_item.json
+msgid ""
+"A large combat walker based on the Northrup ATSV, packed for transport.  "
+"Though it is armed with electroshock and -magnet units alongside "
+"mechadendrite-mounted blades, you really should install its primary weapon "
+"systems before activation."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed super walker"
+msgid_plural "packed super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action hostile_msg for {'str': 'packed super walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker.  Oops."
+msgstr ""
+
+#. ~ Description for {'str': 'packed super walker'}
+#: .\walker_item.json
+msgid ""
+"A large combat walker based on the Northrup ATSV, packed for transport.  "
+"Armed with an M2 Browning .50 calibre machine gun, electroshock and -magnet "
+"units alongside six mechadendrite-mounted blades.  Use this item to unpack "
+"and load with up to 1000 .50 BMG Ball rounds."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed bootleg walker"
+msgid_plural "packed bootleg walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed bootleg walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive bootleg walker, packed for transport.  Armed with a pair of 5.56"
+" anti-personnel rifles and a tazer.  Use this item to unpack and load with "
+"up to 1000 5.56 NATO M855A1 rounds."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed tesla walker"
+msgid_plural "packed tesla walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed tesla walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive tesla walker, packed for transport.  Armed with a pair of "
+"powerful tesla coils and a tazer.  Use this item to unpack."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed fusion walker"
+msgid_plural "packed fusion walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed fusion walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive fusion walker, packed for transport.  Armed with a pair of "
+"fusion blasters and a tazer.  Use this item to unpack."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed buckshot walker"
+msgid_plural "packed buckshot walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed buckshot walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive buckshot walker, packed for transport.  Armed with a pair of "
+"automatic shotguns and a tazer.  Use this item to unpack and load with up to"
+" 500 00 shot."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed flare walker"
+msgid_plural "packed flare walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed flare walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive flare walker, packed for transport.  Equipped with a flare "
+"launcher.  Use this item to unpack and load with up to 500 signal flares."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed laser walker"
+msgid_plural "packed laser walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed laser walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive laser walker, packed for transport.  Armed with a trio of lasers"
+" and a tazer.  Use this item to unpack."
+msgstr ""
+
+#: .\walker_item.json
+msgid "packed flamer walker"
+msgid_plural "packed flamer walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'packed flamer walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive flamer walker, packed for transport.  Armed with a heavy "
+"flamethrower and a tazer.  Use this item to unpack and fuel with up to 10 "
+"litres of napalm."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken unarmed super walker"
+msgid_plural "broken unarmed super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken unarmed super walker'}
+#: .\walker_item.json
+msgid ""
+"A broken unarmed super walker.  Even without its gun, this was a force to be"
+" reckoned with.  What could have done this?  Still, you may be able to "
+"reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken unarmed walker"
+msgid_plural "broken unarmed walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken unarmed walker'}
+#: .\walker_item.json
+msgid ""
+"A broken unarmed walker.  Proof that refraining from installing weaponry was"
+" foolish.  Still, you may be able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken super walker"
+msgid_plural "broken super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken super walker'}
+#: .\walker_item.json
+msgid ""
+"A broken super walker.  What terrors could possibly do such a thing?  You "
+"shudder to think of the possibilities.  Still, you may be able to reclaim "
+"parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken flamer walker"
+msgid_plural "broken flamer walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken flamer walker'}
+#: .\walker_item.json
+msgid ""
+"A broken flamer walker.  Its lust for chaos has been extinguished.  Still, "
+"you may be able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken laser walker"
+msgid_plural "broken laser walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken laser walker'}
+#: .\walker_item.json
+msgid ""
+"A broken laser walker.  No longer shall you hear the snap of superheated "
+"air, smell the burning of flesh.  Still, you may be able to reclaim parts "
+"from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken bootleg walker"
+msgid_plural "broken bootleg walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken bootleg walker'}
+#: .\walker_item.json
+msgid ""
+"A broken bootleg walker.  Its guns are quiet now.  Still, you may be able to"
+" reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken flare walker"
+msgid_plural "broken flare walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken flare walker'}
+#: .\walker_item.json
+msgid ""
+"A broken flare walker.  Its flares shall remain dark, forevermore.  Still, "
+"you may be able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken tesla walker"
+msgid_plural "broken tesla walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken tesla walker'}
+#: .\walker_item.json
+msgid ""
+"A broken tesla walker.  The dance of lightning has ceased.  Still, you may "
+"be able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken fusion walker"
+msgid_plural "broken fusion walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken fusion walker'}
+#: .\walker_item.json
+msgid ""
+"A broken fusion walker.  City and forest need not fear its wrath any longer."
+"  Still, you may be able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken buckshot walker"
+msgid_plural "broken buckshot walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken buckshot walker'}
+#: .\walker_item.json
+msgid ""
+"A broken buckshot walker.  Deer and duck alike rejoice.  Still, you may be "
+"able to reclaim parts from the wreck."
+msgstr ""
+
+#: .\walker_item.json
+msgid "broken chicken walker"
+msgid_plural "broken chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken chicken walker'}
+#: .\walker_item.json
+msgid ""
+"A broken Northrup ATSV.  It lays quiet now, though looking upon it brings "
+"memories of fire and death.  Still, you may be able to reclaim parts from "
+"the wreck."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\walker_mon.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "scrap walker"
+msgid_plural "scrap walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'scrap walker'}
+#: .\walker_mon.json
+msgid ""
+"The Northrup ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry.  Or would be, if it "
+"wasn't held together with duct tape and hope."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "super walker"
+msgid_plural "super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'super walker'}
+#: .\walker_mon.json
+msgid ""
+"A large combat walker based on the Northrup ATSV.  Armed with an M2 Browning"
+" .50 calibre machine gun, electroshock and -magnet units alongside six "
+"mechadendrite-mounted blades.  Features  improved combat logic, thick "
+"superalloy-ceramic composite plating, enhanced optics, motors and sensors "
+"and an offensive defence system ."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "unarmed super walker"
+msgid_plural "unarmed super walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'unarmed super walker'}
+#: .\walker_mon.json
+msgid ""
+"A large combat walker based on the Northrup ATSV.  Though it is armed with "
+"electroshock and -magnet units alongside mechadendrite-mounted blades, you "
+"really should deactivate it to install its primary weapon systems."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "unarmed walker"
+msgid_plural "unarmed walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'unarmed walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a only a tazer, it "
+"is ineffective in combat, and really should be deactivated for weapon "
+"installation."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "bootleg walker"
+msgid_plural "bootleg walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bootleg walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of 5.56 "
+"rifles, it is quite deadly.  Still, you shouldn't expect the reliability and"
+" resilience of the real thing."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "buckshot walker"
+msgid_plural "buckshot walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'buckshot walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of automatic"
+" shotguns, it is quite deadly.  Still, you shouldn't expect the reliability "
+"and resilience of the real thing."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "flare walker"
+msgid_plural "flare walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flare walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Equipped with a flaregun and "
+"tazer, it functions as a spotter for more lethal models.  Still, you "
+"shouldn't expect the reliability and resilience of the real thing."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "laser walker"
+msgid_plural "laser walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'laser walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a trio of lasers, "
+"it is fairly deadly.  Still, you shouldn't expect the reliability and "
+"resilience of the real thing."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "fusion walker"
+msgid_plural "fusion walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fusion walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of fusion "
+"blasters, it is extremely deadly.  Still, you shouldn't expect the "
+"reliability and resilience of the real thing."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "tesla walker"
+msgid_plural "tesla walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tesla walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of tesla "
+"coils, it is fairly deadly.  Still, you shouldn't expect the reliability and"
+" resilience of the real thing, and it may be damaged by it's own lightning."
+msgstr ""
+
+#: .\walker_mon.json
+msgid "flamer walker"
+msgid_plural "flamer walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flamer walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a heavy "
+"flamethrower, it is extremely deadly.  Still, you shouldn't expect the "
+"reliability and resilience of the real thing."
+msgstr ""

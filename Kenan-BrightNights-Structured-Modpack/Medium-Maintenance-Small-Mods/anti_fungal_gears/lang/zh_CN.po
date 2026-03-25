@@ -1,0 +1,86 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anti_fungal_gears\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\ammo.json
+msgid "fungicidal gas warhead .203"
+msgid_plural "fungicidal gas warheads .203"
+msgstr[0] "杀真菌气体弹头 .203"
+
+#. ~ Description for {'str': 'fungicidal gas warhead .203', 'str_pl':
+#. 'fungicidal gas warheads .203'}
+#. ~ Description for {'str': 'fungicidal gas warhead 7.62x51mm', 'str_pl':
+#. 'fungicidal gas warheads 7.62x51mm'}
+#. ~ Description for {'str': 'fungicidal gas warhead .50 BMG', 'str_pl':
+#. 'fungicidal gas warheads .50 BMG'}
+#: .\ammo.json
+msgid ""
+"It is a specially-made bullet that sprays the fungicidal gas sealed in the "
+"warhead when it lands. There is almost no killing power and the amount of "
+"glaze is modest to avoid warhead damage at launch."
+msgstr "这是一种特制子弹，落地时会喷洒密封在弹头内的杀真菌气体。它几乎没有杀伤力，且釉料用量适中，以避免发射时弹头受损。"
+
+#: .\ammo.json
+msgid "fungicidal gas warhead 7.62x51mm"
+msgid_plural "fungicidal gas warheads 7.62x51mm"
+msgstr[0] "杀真菌气体弹头 7.62x51mm"
+
+#: .\ammo.json
+msgid "fungicidal gas warhead .50 BMG"
+msgid_plural "fungicidal gas warheads .50 BMG"
+msgstr[0] "杀真菌气体弹头 .50 BMG"
+
+#: .\ammo.json
+msgid "fungicide gas hand grenade"
+msgid_plural "fungicide gas hand grenades"
+msgstr[0] "杀真菌气体手榴弹"
+
+#. ~ Description for {'str': 'fungicide gas hand grenade', 'str_pl':
+#. 'fungicide gas hand grenades'}
+#: .\ammo.json
+msgid ""
+"A hand grenade filled with fungicidal gas. Use to pull the pin and ignite. "
+"It takes 5 turns to gas spout."
+msgstr "一枚填充了杀真菌气体的手榴弹。使用时需拉环并点燃。气体喷发需要5回合。"
+
+#: .\ammo.json
+msgid "fungicide gas hand grenade (active)"
+msgid_plural "fungicide gas hand grenades (active)"
+msgstr[0] "杀真菌气体手榴弹（激活中）"
+
+#. ~ Description for {'str': 'fungicide gas hand grenade (active)', 'str_pl':
+#. 'fungicide gas hand grenades (active)'}
+#: .\ammo.json
+msgid ""
+"A hand grenade filled with fungicidal gas. The pin is already pulled and is "
+"releasing gas."
+msgstr "一枚填充了杀真菌气体的手榴弹。拉环已拉开，正在释放气体。"
+
+#: .\ammo.json
+msgid "40mm fungicidal gas grenade"
+msgid_plural "40mm fungicidal gas grenades"
+msgstr[0] "40毫米杀真菌气体榴弹"
+
+#. ~ Description for {'str': '40mm fungicidal gas grenade', 'str_pl': '40mm
+#. fungicidal gas grenades'}
+#: .\ammo.json
+msgid ""
+"A 40 mm grenade bullet filled with fungicidal gas. For a while, we will keep"
+" releasing the sterilizing gas to the impact point."
+msgstr "一枚填充了杀真菌气体的40毫米榴弹子弹。撞击点将持续释放消毒气体一段时间。"
+
+#: .\modinfo.json
+msgid "anti-fungal gear"
+msgstr "抗真菌装备"
+
+#. ~ Description for anti-fungal gear
+#: .\modinfo.json
+msgid "All fungus shall be destroyed."
+msgstr "所有真菌都将被摧毁。"

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: psychiclysm\n"
-"POT-Creation-Date: 2021-11-23 18:01+0600\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,7 +12,7 @@ msgstr ""
 msgid "...monster spell. Fear"
 msgstr ""
 
-#. ~ Description for ...monster spell. Fear
+#. ~ Description for {'str': '...monster spell. Fear'}
 #: .\0_spells.json
 msgid "Scare the crap out of humans."
 msgstr ""
@@ -21,7 +21,7 @@ msgstr ""
 msgid "...monster spell. Stress"
 msgstr ""
 
-#. ~ Description for ...monster spell. Stress
+#. ~ Description for {'str': '...monster spell. Stress'}
 #: .\0_spells.json
 msgid "Drive people stupid."
 msgstr ""
@@ -30,7 +30,7 @@ msgstr ""
 msgid "...monster spell. Feedback"
 msgstr ""
 
-#. ~ Description for ...monster spell. Feedback
+#. ~ Description for {'str': '...monster spell. Feedback'}
 #: .\0_spells.json
 msgid "Cause Psychic Feedback to humans."
 msgstr ""
@@ -39,7 +39,7 @@ msgstr ""
 msgid "...monster spell. Flaming eye stare"
 msgstr ""
 
-#. ~ Description for ...monster spell. Flaming eye stare
+#. ~ Description for {'str': '...monster spell. Flaming eye stare'}
 #: .\0_spells.json
 msgid "Feedback + Daze"
 msgstr ""
@@ -48,7 +48,7 @@ msgstr ""
 msgid "...monster spell. Madness"
 msgstr ""
 
-#. ~ Description for ...monster spell. Madness
+#. ~ Description for {'str': '...monster spell. Madness'}
 #: .\0_spells.json
 msgid "Permanent crazy."
 msgstr ""
@@ -57,7 +57,7 @@ msgstr ""
 msgid "Psychic Fortress"
 msgstr ""
 
-#. ~ Description for Psychic Fortress
+#. ~ Description for {'str': 'Psychic Fortress'}
 #: .\0_spells.json
 msgid ""
 "A mental shield to resist psychic attacks.  Erects a towering fortress of "
@@ -68,7 +68,7 @@ msgstr ""
 msgid "Encage Instincts"
 msgstr ""
 
-#. ~ Description for Encage Instincts
+#. ~ Description for {'str': 'Encage Instincts'}
 #: .\0_spells.json
 msgid ""
 "A mental shield to resist fear.  Captures one's own instincts of self-"
@@ -80,7 +80,7 @@ msgstr ""
 msgid "Enforced Duality"
 msgstr ""
 
-#. ~ Description for Enforced Duality
+#. ~ Description for {'str': 'Enforced Duality'}
 #: .\0_spells.json
 msgid ""
 "A mental shield to resist damaging psychic attacks.  Strenthens the duality "
@@ -92,7 +92,7 @@ msgstr ""
 msgid "Inverse Microcosm"
 msgstr ""
 
-#. ~ Description for Inverse Microcosm
+#. ~ Description for {'str': 'Inverse Microcosm'}
 #: .\0_spells.json
 msgid ""
 "A short-term shield to block all psychic attacks.  Transforms the psyche "
@@ -103,7 +103,7 @@ msgstr ""
 msgid "...item spell. remove madness."
 msgstr ""
 
-#. ~ Description for ...item spell. remove madness.
+#. ~ Description for {'str': '...item spell. remove madness.'}
 #: .\0_spells.json
 msgid "A meditation to heal lasting psychic traumas."
 msgstr ""
@@ -112,7 +112,7 @@ msgstr ""
 msgid "Amplifying Mandala"
 msgstr ""
 
-#. ~ Description for Amplifying Mandala
+#. ~ Description for {'str': 'Amplifying Mandala'}
 #: .\0_spells.json
 msgid ""
 "Temporarily boosts Intelligence and Perception.  You form a spinning mandala"
@@ -124,7 +124,7 @@ msgstr ""
 msgid "Neural Delimiter"
 msgstr ""
 
-#. ~ Description for Neural Delimiter
+#. ~ Description for {'str': 'Neural Delimiter'}
 #: .\0_spells.json
 msgid ""
 "Temporarily boosts Speed.  Removes neural limits and conditioned inhibitors "
@@ -135,9 +135,9 @@ msgstr ""
 msgid "reduce fear "
 msgstr ""
 
-#. ~ Description for reduce fear
-#. ~ Description for ...bionic spell. psychic shield
-#. ~ Description for ...bionic spell. feedback
+#. ~ Description for {'str': 'reduce fear '}
+#. ~ Description for {'str': '...bionic spell. psychic shield'}
+#. ~ Description for {'str': '...bionic spell. feedback'}
 #. 
 #: .\0_spells.json .\TALK_MESMER.json
 msgid "..."
@@ -472,8 +472,8 @@ msgstr ""
 msgid "Bionic Lobotomy Kit"
 msgstr ""
 
-#. ~ Description for Bionic Lobotomy Kit
-#. ~ Description for Bionic Lobotomy CBM
+#. ~ Description for {'str': 'Bionic Lobotomy Kit'}
+#. ~ Description for {'str': 'Bionic Lobotomy CBM'}
 #: .\bionics.json .\items.json
 msgid ""
 "Microrobots programmed to sever malfunctioning neural pathways and balance "
@@ -484,7 +484,7 @@ msgstr ""
 msgid "Prototype Fear Reducer"
 msgstr ""
 
-#. ~ Description for Prototype Fear Reducer
+#. ~ Description for {'str': 'Prototype Fear Reducer'}
 #: .\bionics.json
 msgid ""
 "Your brain has been equipped with a microcomputer capable of releasing "
@@ -496,7 +496,7 @@ msgstr ""
 msgid "Prototype Mind Shield"
 msgstr ""
 
-#. ~ Description for Prototype Mind Shield
+#. ~ Description for {'str': 'Prototype Mind Shield'}
 #: .\bionics.json
 msgid ""
 "Your skull has been equipped with a mesh of charged nano-fibers which allow "
@@ -1309,7 +1309,7 @@ msgid_plural "crystals"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for crystal
+#. ~ Description for {'str': 'crystal'}
 #: .\items.json
 msgid "A mysterious crystal powder."
 msgstr ""
@@ -1326,7 +1326,7 @@ msgid_plural "PROTOTYPEs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for PROTOTYPE
+#. ~ Description for {'str': 'PROTOTYPE'}
 #: .\items.json
 msgid "this item shouldn't appear in the game."
 msgstr ""
@@ -1540,7 +1540,7 @@ msgstr[1] ""
 msgid "Test Psychic"
 msgstr ""
 
-#. ~ Description for Test Psychic
+#. ~ Description for {'str': 'Test Psychic'}
 #: .\mutations.json
 msgid "debug trait."
 msgstr ""
@@ -1549,7 +1549,7 @@ msgstr ""
 msgid "Awakened"
 msgstr ""
 
-#. ~ Description for Awakened
+#. ~ Description for {'str': 'Awakened'}
 #: .\mutations.json
 msgid ""
 "You have awakened to the dark realities of psychic phenomena and to the "
@@ -1560,7 +1560,7 @@ msgstr ""
 msgid "Fearless"
 msgstr ""
 
-#. ~ Description for Fearless
+#. ~ Description for {'str': 'Fearless'}
 #: .\mutations.json
 msgid ""
 "You fear nothing, at least from planet Earth.  You are also somewhat "
@@ -1572,7 +1572,7 @@ msgstr ""
 msgid "Willpower"
 msgstr ""
 
-#. ~ Description for Willpower
+#. ~ Description for {'str': 'Willpower'}
 #: .\mutations.json
 msgid ""
 "You have an indomitable will, and are resistant to psychic attacks.  "
@@ -1583,14 +1583,14 @@ msgstr ""
 msgid "Fear Resistant"
 msgstr ""
 
-#. ~ Description for Fear Resistant
+#. ~ Description for {'str': 'Fear Resistant'}
 #: .\mutations.json
 msgid ""
 "You have evolved past your primitive fight-or-flight instincts.  Penalties "
 "for fear are reduced."
 msgstr ""
 
-#. ~ Description for Mesmerist
+#. ~ Description for {'str': 'Mesmerist'}
 #: .\mutations.json
 msgid ""
 "Through strength of personality, you can persuade and entrance the weak "
@@ -1601,7 +1601,7 @@ msgstr ""
 msgid "Psychic Defense"
 msgstr ""
 
-#. ~ Description for Psychic Defense
+#. ~ Description for {'str': 'Psychic Defense'}
 #: .\mutations.json
 msgid ""
 "Your overly sensitive mind has adapted to constant psychic stress.  You can "
@@ -1612,7 +1612,7 @@ msgstr ""
 msgid "Psychic Projection"
 msgstr ""
 
-#. ~ Description for Psychic Projection
+#. ~ Description for {'str': 'Psychic Projection'}
 #: .\mutations.json
 msgid ""
 "Your expanding mind has begun to reach beyond the borders of your physical "
@@ -1627,7 +1627,7 @@ msgstr ""
 msgid "Psychic Strength"
 msgstr ""
 
-#. ~ Description for Psychic Strength
+#. ~ Description for {'str': 'Psychic Strength'}
 #: .\mutations.json
 msgid ""
 "Your growing consciousness has subsumed portions of your autonomous nervous "
@@ -1638,7 +1638,7 @@ msgstr ""
 msgid "Enthralled"
 msgstr ""
 
-#. ~ Description for Enthralled
+#. ~ Description for {'str': 'Enthralled'}
 #: .\mutations.json
 msgid "This person has been overcome by your mesmeric powers."
 msgstr ""
@@ -1647,7 +1647,7 @@ msgstr ""
 msgid "Unthrall"
 msgstr ""
 
-#. ~ Description for Unthrall
+#. ~ Description for {'str': 'Unthrall'}
 #: .\mutations.json
 msgid "This person is now immune to enthralling."
 msgstr ""
@@ -1656,7 +1656,7 @@ msgstr ""
 msgid "Lobotomized"
 msgstr ""
 
-#. ~ Description for Lobotomized
+#. ~ Description for {'str': 'Lobotomized'}
 #: .\mutations.json
 msgid ""
 "Either through surgery or purely psychic means, you have had your psychic "
@@ -1667,7 +1667,7 @@ msgstr ""
 msgid "Optimist"
 msgstr ""
 
-#. ~ Description for Optimist
+#. ~ Description for {'str': 'Optimist'}
 #: .\mutations_override.json
 msgid ""
 "Nothing gets you down!  You savor the joys of life, ignore its hardships, "
@@ -1678,7 +1678,7 @@ msgstr ""
 msgid "Schizophrenic"
 msgstr ""
 
-#. ~ Description for Schizophrenic
+#. ~ Description for {'str': 'Schizophrenic'}
 #: .\mutations_override.json
 msgid ""
 "You will periodically suffer from delusions, ranging from minor effects to "
@@ -1690,7 +1690,7 @@ msgstr ""
 msgid "Jittery"
 msgstr ""
 
-#. ~ Description for Jittery
+#. ~ Description for {'str': 'Jittery'}
 #: .\mutations_override.json
 msgid ""
 "During moments of great stress or under the effects of stimulants, you may "
@@ -1702,6 +1702,11 @@ msgctxt "profession_male"
 msgid "Awakened"
 msgstr ""
 
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Awakened"
+msgstr ""
+
 #. ~ Profession (male Awakened) description
 #: .\professions.json
 msgctxt "prof_desc_male"
@@ -1710,11 +1715,6 @@ msgid ""
 "whole world has gone crazy and reality is turning itself inside out, your "
 "mind has begun to awaken to the awful truths and dark mysteries of the "
 "cosmos."
-msgstr ""
-
-#: .\professions.json
-msgctxt "profession_female"
-msgid "Awakened"
 msgstr ""
 
 #. ~ Profession (female Awakened) description

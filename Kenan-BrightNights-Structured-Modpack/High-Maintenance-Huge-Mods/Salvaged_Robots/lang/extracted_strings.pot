@@ -1,0 +1,3027 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Salvaged_Robots\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\construction_group.json
+msgid "Place Workbench"
+msgstr ""
+
+#: .\corpses.json
+msgid "broken light auto armor"
+msgid_plural "broken light auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken light auto armor'}
+#. ~ Description for {'str': 'broken basic auto armor'}
+#. ~ Description for {'str': 'broken heavy auto armor'}
+#: .\corpses.json
+msgid ""
+"A broken set of power armor fitted with an AI core for automated use.  It "
+"cannot be worn or disassembled until re-crafted into an undamaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken basic auto armor"
+msgid_plural "broken basic auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken heavy auto armor"
+msgid_plural "broken heavy auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "dead craftbuddy"
+msgid_plural "dead craftbuddies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dead craftbuddy', 'str_pl': 'dead craftbuddies'}
+#: .\corpses.json
+msgid ""
+"A broken repair robot, now limp and unmoving.  Could be gutted for parts or "
+"re-crafted into a functioning pal."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken floating lantern"
+msgid_plural "broken floating lanterns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid ""
+"A broken floating lantern, now dark and motionless.  Could be gutted for "
+"parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid "A broken arson hack, now cold and burnt.  Could be gutted for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken floating lantern'}
+#: .\corpses.json
+msgid ""
+"A broken distract-o-hack, now silent and still.  Could be gutted for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken spore hack"
+msgid_plural "broken spore hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken spore hack'}
+#: .\corpses.json
+msgid ""
+"A broken spore hack.  Much less threatening now that it lies quiet on solid "
+"ground.  Could be gutted for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken watercannon turret"
+msgid_plural "broken watercannon turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken watercannon turret'}
+#: .\corpses.json
+msgid ""
+"A broken watercannon turret.  Much less threatening now that it lies limp on"
+" solid ground.  Could be gutted for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken floating heater"
+msgid_plural "broken floating heaters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken floating heater'}
+#: .\corpses.json
+msgid ""
+"A broken floating heater, now cold and motionless.  Could be stripped down "
+"or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken floating furnace"
+msgid_plural "broken floating furnaces"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken floating furnace'}
+#: .\corpses.json
+msgid ""
+"A broken floating furnace, now cold and motionless.  Could bestripped down "
+"or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken burning eye"
+msgid_plural "broken burning eyes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken burning eye'}
+#: .\corpses.json
+msgid ""
+"A broken burning eye, now dark and motionless.  Could be stripped down or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken butler-bot"
+msgid_plural "broken butler-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken butler-bot'}
+#: .\corpses.json
+msgid ""
+"A broken butler-bot, now silent and mangled.  Could be stripped down for "
+"parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken construction robot"
+msgid_plural "broken construction robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken construction robot'}
+#: .\corpses.json
+msgid ""
+"A broken construction robot, now wrecked and immobile.  Could be stripped "
+"down for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken firefighter robot"
+msgid_plural "broken firefighter robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken firefighter robot'}
+#: .\corpses.json
+msgid ""
+"A broken firefighter robot, now cold and inert.  Could be stripped down for "
+"parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken blob breeder"
+msgid_plural "broken blob breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken blob breeder'}
+#: .\corpses.json
+msgid ""
+"A broken robotic incubator for alien blobs.  Could be stripped down or re-"
+"crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken slime breeder"
+msgid_plural "broken slime breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken slime breeder'}
+#: .\corpses.json
+msgid ""
+"A broken robotic incubator for alien slimes.  Could be stripped down or re-"
+"crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken digestron"
+msgid_plural "broken digestrons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken digestron'}
+#: .\corpses.json
+msgid ""
+"A broken acid digestor robot, now cold and unmoving.  Could be stripped down"
+" or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken bee-bot"
+msgid_plural "broken bee-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken bee-bot'}
+#: .\corpses.json
+msgid ""
+"A broken beehive robot, now still and bee-less.  Could be stripped down or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken medical bot"
+msgid_plural "broken medical bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken medical bot'}
+#: .\corpses.json
+msgid ""
+"A broken medical robot, now crumpled and inert.  Could be stripped down for "
+"parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken disarmed medical robot"
+msgid_plural "broken disarmed medical robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken disarmed medical robot'}
+#: .\corpses.json
+msgid ""
+"A broken medical robot.  Its onboard pharma-crafter and integral surgical "
+"tools have been removed.  Could be gutted for parts or crafted into a "
+"salvaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken assassin robot"
+msgid_plural "broken assassin robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken assassin robot'}
+#: .\corpses.json
+msgid ""
+"A broken assassin robot, now limp and immobile.  Could be stripped down or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken elixirator"
+msgid_plural "broken elixirators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken elixirator'}
+#: .\corpses.json
+msgid ""
+"A broken elixirator, now shattered and lifeless.  Could be stripped down or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken party bot"
+msgid_plural "broken party bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken party bot'}
+#: .\corpses.json
+msgid ""
+"A broken party robot, now wasted and burnt out.  Looks like the party's "
+"over.  Could be stripped down or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken insane cyborg"
+msgid_plural "broken insane cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken insane cyborg'}
+#: .\corpses.json
+msgid ""
+"A broken cyborg, now limp and unmoving.  Could be gutted for parts or "
+"crafted into a salvaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken necrotic cyborg"
+msgid_plural "broken necrotic cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken necrotic cyborg'}
+#: .\corpses.json
+msgid ""
+"A broken cyborg, now limp and unmoving.  Could be stripped down or re-"
+"crafted into a salvaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken rat snatcher"
+msgid_plural "broken rat snatchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken rat snatcher'}
+#: .\corpses.json
+msgid ""
+"A broken rat snatcher, now harmless and inert.  Could be stripped down or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken grab-bot"
+msgid_plural "broken grab-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken grab-bot'}
+#: .\corpses.json
+msgid ""
+"A broken grabber robot, now limp and nonthreatening.  Could be stripped down"
+" or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken pest hunter"
+msgid_plural "broken pest hunters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken pest hunter'}
+#: .\corpses.json
+msgid ""
+"A broken pest hunter, now harmless and inert.  Could be gutted for parts or "
+"re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken security robot"
+msgid_plural "broken security robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken security robot'}
+#. ~ Description for {'str': 'broken defense bot'}
+#. ~ Description for {'str': 'broken riotcontrol robot'}
+#. ~ Description for {'str': 'broken disarmed military bot'}
+#: .\corpses.json
+msgid ""
+"A broken defense robot.  Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken defense bot"
+msgid_plural "broken defense bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken riotcontrol robot"
+msgid_plural "broken riotcontrol robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken junkyard cowboy"
+msgid_plural "broken junkyard cowboys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken junkyard cowboy'}
+#. ~ Description for {'str': 'broken shortcircuit samurai'}
+#. ~ Description for {'str': 'broken slapdash paladin'}
+#: .\corpses.json
+msgid "A broken salvaged robot.  Could be stripped for parts or re-crafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken shortcircuit samurai"
+msgid_plural "broken shortcircuit samurais"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken slapdash paladin"
+msgid_plural "broken slapdash paladins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken disarmed military bot"
+msgid_plural "broken disarmed military bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken military trainer robot"
+msgid_plural "broken military trainer robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken military trainer robot'}
+#: .\corpses.json
+msgid ""
+"A broken military trainer robot, shattered and inert.  This one is armed "
+"with an integrated paintball gun.  Could be stripped for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken military robot"
+msgid_plural "broken military robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 5.56mm firearm.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 7.62mm firearm.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 50 caliber firearm.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 8x40mm firearm.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated flechette gun.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken military robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated 40mm grenade launcher.  Could be stripped for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken military flame robot"
+msgid_plural "broken military flame robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken military flame robot'}
+#: .\corpses.json
+msgid ""
+"A broken military robot, shattered and inert.  This one is armed with an "
+"integrated flamethrower.  Could be stripped for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken robo-guardian"
+msgid_plural "broken robo-guardians"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken robo-guardian'}
+#. ~ Description for {'str': 'broken robo-protector'}
+#. ~ Description for {'str': 'broken robo-defender'}
+#. ~ Description for {'str': 'broken glittering lady', 'str_pl': 'broken
+#. glittering ladies'}
+#. ~ Description for {'str': 'broken bitter spinster'}
+#. ~ Description for {'str': 'broken fist king'}
+#. ~ Description for {'str': 'broken atomic sultan'}
+#: .\corpses.json
+msgid "A broken salvaged robot.  Could be stripped or recrafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken robote deluxe"
+msgid_plural "broken robote deluxes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken robote deluxe'}
+#: .\corpses.json
+msgid "A broken deluxe robot.  Could be stripped or recrafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken robo-protector"
+msgid_plural "broken robo-protectors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken robo-defender"
+msgid_plural "broken robo-defenders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken disarmed advanced bot"
+msgid_plural "broken disarmed advanced bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken disarmed advanced bot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  Its internal weapons have been removed.  Could be "
+"gutted for parts or crafted into a salvaged robot."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken advanced robot"
+msgid_plural "broken advanced robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated laser-"
+"emitter.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated plasma-"
+"ejector.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated electro-"
+"caster.  Could be stripped for parts."
+msgstr ""
+
+#. ~ Description for {'str': 'broken advanced robot'}
+#: .\corpses.json
+msgid ""
+"A broken advanced robot.  This one is armed with an integrated EMP "
+"projector.  Could be stripped for parts."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken glittering lady"
+msgid_plural "broken glittering ladies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken bitter spinster"
+msgid_plural "broken bitter spinsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken chainsaw horror"
+msgid_plural "broken chainsaw horrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken chainsaw horror'}
+#. ~ Description for {'str': 'broken screeching terror'}
+#. ~ Description for {'str': 'broken hooked nightmare'}
+#: .\corpses.json
+msgid ""
+"A broken salvaged robot.  Thank God it's finally dead.  Could be stripped or"
+" recrafted."
+msgstr ""
+
+#: .\corpses.json
+msgid "broken screeching terror"
+msgid_plural "broken screeching terrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken hooked nightmare"
+msgid_plural "broken hooked nightmares"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken fist king"
+msgid_plural "broken fist kings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken atomic sultan"
+msgid_plural "broken atomic sultans"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\corpses.json
+msgid "broken miner bot"
+msgid_plural "broken miner bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken miner bot'}
+#: .\corpses.json
+msgid ""
+"A broken miner bot.  Much less threatening now that it's no longer capable "
+"of drilling anything.  Could be gutted for parts."
+msgstr ""
+
+#: .\corpses.json .\items.json
+msgid "broken tribot"
+msgid_plural "broken tribots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken tribot'}
+#: .\corpses.json .\items.json
+msgid ""
+"A broken tribot.  Now that its legs lie broken and immobile, the world seems"
+" a little less threatening.  Could be gutted for parts."
+msgstr ""
+
+#: .\harvest.json
+msgid "You butcher the fallen zombie and hack off its head"
+msgstr ""
+
+#: .\items.json
+msgid "necrotic head"
+msgid_plural "necrotic heads"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'necrotic head'}
+#: .\items.json
+msgid ""
+"The severed head of a zombie necromancer.  Its eyes still roll in its head "
+"and its jaws snap menacingly."
+msgstr ""
+
+#: .\items.json
+msgid "mutagenic glob"
+msgid_plural "mutagenic globs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mutagenic glob'}
+#: .\items.json
+msgid "A gelatinous glob of mutagen."
+msgstr ""
+
+#: .\items.json
+msgid "honey"
+msgid_plural "honey"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'honey'}
+#: .\items.json
+msgid "Honey, that stuff bees make."
+msgstr ""
+
+#: .\items.json
+msgid "tripod schematics"
+msgid_plural "tripod schematics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'tripod schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Honda, those are assembly plans, design specs, and "
+"technical drawings for the tripod.  Most of this is useless to you, but you "
+"could use the assembly plans to re-assemble the robot from salvaged parts."
+msgstr ""
+
+#: .\items.json
+msgid "chicken walker schematics"
+msgid_plural "chicken walker schematics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'chicken walker schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Northrop, those are assembly plans, design specs, and "
+"technical drawings for the chicken walker.  Most of this is useless to you, "
+"but you could use the assembly plans to re-assemble the robot from salvaged "
+"parts."
+msgstr ""
+
+#: .\items.json
+msgid "tank drone schematics"
+msgid_plural "tank drone schematics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'tank drone schematics'}
+#: .\items.json
+msgid ""
+"Bearing the logo of Northrop, those are assembly plans, design specs, and "
+"technical drawings for the tank drone.  Most of this is useless to you, but "
+"you could use the assembly plans to re-assemble the robot from salvaged "
+"parts."
+msgstr ""
+
+#: .\items.json
+msgid "Hacking Robots for Fun & Profit"
+msgid_plural "copies of Hacking Robots for Fun & Profit"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hacking Robots for Fun & Profit', 'str_pl':
+#. 'copies of Hacking Robots for Fun & Profit'}
+#: .\items.json
+msgid ""
+"A book on illegally obtaining, reprogramming, and modifying robots.  It has "
+"lots of helpful step-by-step guides and example blueprints."
+msgstr ""
+
+#: .\items.json
+msgid "Popular Robotics"
+msgid_plural "issues of Popular Robotics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Popular Robotics', 'str_pl': 'issues of Popular
+#. Robotics'}
+#: .\items.json
+msgid "A magazine about building and altering your own robots."
+msgstr ""
+
+#: .\items.json
+msgid "AI core"
+msgid_plural "AI cores"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AI core'}
+#: .\items.json
+msgid "A computer module for controlling robots."
+msgstr ""
+
+#: .\items.json
+msgid "surgery module"
+msgid_plural "surgery modules"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'surgery module'}
+#: .\items.json
+msgid "A microsurgery module for a medical robot."
+msgstr ""
+
+#: .\items.json
+msgid "pharmaceutical module"
+msgid_plural "pharmaceutical modules"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pharmaceutical module'}
+#: .\items.json
+msgid "A pharmaceutical fabricating module for a medical robot."
+msgstr ""
+
+#: .\items.json .\roboguns.json
+msgid "integral paintball gun"
+msgid_plural "integral paintball guns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'integral paintball gun'}
+#: .\items.json
+msgid ""
+"A high-powered paintball module used for safely testing robots or training "
+"soldiers."
+msgstr ""
+
+#: .\items.json
+msgid "inactive CraftBuddy"
+msgid_plural "inactive CraftBuddies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive CraftBuddy', 'str_pl': 'inactive
+#. CraftBuddies'}
+#: .\items.json
+msgid ""
+"A robot crafting assistant. Useable in its current state as a portable all-"
+"purpose craft station, or deployable as a traveling companion. It's complex "
+"geometry doesn't allow it to provide workbench surface, which makes you a "
+"little disappointed. You can probably instal it as an more functional "
+"immobile crafting station."
+msgstr ""
+
+#: .\items.json .\monsters.json
+msgid "light auto armor"
+msgid_plural "light auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'light auto armor'}
+#. ~ Description for {'str': 'basic auto armor'}
+#. ~ Description for {'str': 'heavy auto armor'}
+#: .\items.json
+msgid ""
+"A set of light power armor fitted with an AI core for automated use.  "
+"Activate it to deploy the robot or disassemble it to use as armor."
+msgstr ""
+
+#: .\items.json
+msgid "basic auto armor"
+msgid_plural "basic auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json .\monsters.json
+msgid "heavy auto armor"
+msgid_plural "heavy auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive hack"
+msgid_plural "inactive hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive hack'}
+#: .\items.json
+msgid ""
+"This is an inactive manhack.  Manhacks are fist-sized robots that fly "
+"through the air.  They are covered with whirring blades and attack by "
+"throwing themselves against their target.  Use this item to reprogram and "
+"activate the manhack.  Electronics and computer skill determines if the "
+"targeting matrix is reprogrammed successfully."
+msgstr ""
+
+#: .\items.json
+msgid "inactive floating lantern"
+msgid_plural "inactive floating lanterns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive floating lantern'}.
+#: .\items.json
+msgid "The floating lantern flies from your hand and lights up the area!"
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive floating lantern'}.
+#: .\items.json
+msgid "You misprogram the lantern."
+msgstr ""
+
+#. ~ Description for {'str': 'inactive floating lantern'}
+#: .\items.json
+msgid ""
+"An inactive floating lantern, a fist-sized robots that flies through the air"
+" and illuminates its surroundings with bright LEDs.  The lantern is non "
+"aggressive and has no means of attack.  Activate this item to deploy the "
+"salvaged robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive distract-o-hack"
+msgid_plural "inactive distract-o-hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive distract-o-hack'}.
+#: .\items.json
+msgid "The distract-o-hack flies from your hand and begins sparking!"
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive distract-o-hack'}.
+#: .\items.json
+msgid "You misprogram the distract-o-hack!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive distract-o-hack'}
+#: .\items.json
+msgid ""
+"An inactive distract-o-hack, a fist-sized robot that flies through the air "
+"emitting noise, smoke, and sparks.  The salvaged robot has no weapons, but "
+"will harass hostile targets to draw their attention.  Activate this item to "
+"deploy the robot.  It cannot be recovered once activated."
+msgstr ""
+
+#: .\items.json
+msgid "inactive arson hack"
+msgid_plural "inactive arson hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive arson hack'}.
+#: .\items.json
+msgid "The arson hack flies from your hand!  Get clear!"
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive arson hack'}.
+#: .\items.json
+msgid "You misprogram the arson hack!  Run!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive arson hack'}
+#: .\items.json
+msgid ""
+"An inactive arson hack, a fist-sized robot that flies through the air "
+"chaotically spreading deadly fires.  The salvaged robot has no weapons, but "
+"will emit intermittent bursts of flame as it moves toward hostile targets.  "
+"Activate this item to deploy the robot.  It cannot be recovered once "
+"activated."
+msgstr ""
+
+#: .\items.json
+msgid "inactive spore hack"
+msgid_plural "inactive spore hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive spore hack'}.
+#: .\items.json
+msgid "The spore hack flies from your hand!"
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive spore hack'}.
+#: .\items.json
+msgid "You misprogram the spore hack!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive spore hack'}
+#: .\items.json
+msgid ""
+"An inactive spore hack, a fist-sized robot that flies through the air "
+"spreading alien contaminants.  The robot will dust hostile targets, and "
+"intermittently cover the terrain with puffs of fungal spores.  Activate this"
+" item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive water turret"
+msgid_plural "inactive water turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive water turret'}
+#: .\items.json
+msgid ""
+"An inactive watercannon defense turret.  Up to 1000 units of water will be "
+"automatically loaded from your inventory into the turret upon activation.  "
+"Place the turret and it will ID you as friendly with its advanced IFF "
+"software.  There is no safety manual."
+msgstr ""
+
+#: .\items.json
+msgid "inactive eyebot"
+msgid_plural "inactive eyebots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive floating heater"
+msgid_plural "inactive floating heaters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive floating heater'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of warm air to heat an enclosed space.  It is non-aggressive "
+"and has no weapons systems.  Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive floating furnace"
+msgid_plural "inactive floating furnaces"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive floating furnace'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of dangerously hot air to heat an enclosed space.  It is non-"
+"aggressive and has no weapons systems.  Activate this item to deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive burning eye"
+msgid_plural "inactive burning eyes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive burning eye'}
+#: .\items.json
+msgid ""
+"A salvaged eyebot refitted with a laser weapon which it will use on hostile "
+"targets.  Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive utilibot"
+msgid_plural "inactive utilibots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive blob breeder"
+msgid_plural "inactive blob breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive blob breeder'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It is non aggressive and has no weapon systems.  You can activate "
+"this item to deploy the robot and begin the incubation process, but you "
+"probably shouldn't."
+msgstr ""
+
+#: .\items.json
+msgid "inactive slime breeder"
+msgid_plural "inactive slime breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive slime breeder'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob, and upgraded to only produce friendly slimes.  It is non aggressive "
+"and has no weapon systems.  You can activate this item to deploy the robot "
+"and begin the incubation process."
+msgstr ""
+
+#: .\items.json
+msgid "inactive digestron"
+msgid_plural "inactive digestrons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive digestron'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into an automated vacuum cleaner.  It "
+"will suck stray items off the ground and dissolve them with its internal "
+"acid reserves.  It is non aggressive and has no weapon systems.  Activate "
+"this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive bee-bot"
+msgid_plural "inactive bee-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive bee-bot'}
+#: .\items.json
+msgid ""
+"A salvaged utility robot converted into an ambulatory bee hive that "
+"periodically removes and delivers segments of fresh honey comb.  It protects"
+" the insect colony with a mechanical crossbow mounted to its chassis.  "
+"Activate this item, with wooden bolts in your inventory, to load and deploy "
+"the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive medibot"
+msgid_plural "inactive medibots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive assassin robot"
+msgid_plural "inactive assassin robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive assassin robot'}
+#: .\items.json
+msgid ""
+"A salvaged medical robot repurposed into a murder machine.  It will attack "
+"hostile targets with a set of blades and a toxic needle.  Activate this item"
+" to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive elixirator"
+msgid_plural "inactive elixirators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive elixirator'}
+#: .\items.json
+msgid ""
+"A salvaged medibot with its internal pharma-fabricators repurposed to "
+"produce mutagen.  Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive party bot"
+msgid_plural "inactive party bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive party bot'}
+#: .\items.json
+msgid ""
+"A salvaged medibot stuffed with marijuana, covered in multicolored blinking "
+"lights, and programmed to dance.  Activate this item to get the party "
+"started."
+msgstr ""
+
+#: .\items.json
+msgid "inactive skitterbot"
+msgid_plural "inactive skitterbots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive rat snatcher"
+msgid_plural "inactive rat snatchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive rat snatcher'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot repurposed for hunting small game.  It attacks targets"
+" with pincers and an integrated tazer.  Activate this item to deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive grab-bot"
+msgid_plural "inactive grab-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive grab-bot'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot repurposed to grab onto and immobilize enemies.  "
+"Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive pest hunter"
+msgid_plural "inactive pest hunters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive pest hunter'}
+#: .\items.json
+msgid ""
+"A salvaged skitterbot refitted with an 8mm integrated firearm.  Activate "
+"this item, with ammo in your inventory, to load and deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive cyborg"
+msgid_plural "inactive cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive necrotic cyborg"
+msgid_plural "inactive necrotic cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive necrotic cyborg'}
+#: .\items.json
+msgid ""
+"A salvaged cyborg refitted with the head of a zombie necromancer.  The "
+"animate head retains some of its ability to revive zombies.  Activate this "
+"item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive defense robot"
+msgid_plural "inactive defense robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive junkyard cowboy"
+msgid_plural "inactive junkyard cowboys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive junkyard cowboy'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with a shotgun and two circular buzzsaws."
+"  Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive shortcircuit samurai"
+msgid_plural "inactive shortcircuit samurais"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive shortcircuit samurai'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with an integrated tazer and two "
+"electrified blades.  Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive slapdash paladin"
+msgid_plural "inactive slapdash paladins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive slapdash paladin'}
+#: .\items.json
+msgid ""
+"A salvaged defense robot refitted with a homemade flamethrower and two "
+"searing hot blades.  Activate this item, with gasoline in your inventory, to"
+" load and deploy the robot… preferably far from anything flammable"
+msgstr ""
+
+#: .\items.json
+msgid "inactive military robot"
+msgid_plural "inactive military robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive military robot'}
+#: .\items.json
+msgid ""
+"An unpowered military robot fitted with an integrated 7.62 firearm and "
+"electric prod.  Activate this item, with ammo in your inventory, to load and"
+" deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive robo-guardian"
+msgid_plural "inactive robo-guardians"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive robo-guardian'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with a pair of integrated 9mm firearms.  "
+"Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive robote deluxe"
+msgid_plural "inactive robote deluxes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive robote deluxe'}
+#: .\items.json
+msgid ""
+"A diamond-studded gold-plated robot armed with a pair of integrated 9mm "
+"firearms.  An opulent luxury-bot suitable for those who wish to survive the "
+"apocalypse in style.  Activate this item, with ammo in your inventory, to "
+"load and deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive robo-protector"
+msgid_plural "inactive robo-protectors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive robo-protector'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with an integrated 5.56mm rifle.  "
+"Activate this item, with ammo in your inventory, to load and deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive robo-defender"
+msgid_plural "inactive robo-defenders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive robo-defender'}
+#: .\items.json
+msgid ""
+"A salvaged military robot refitted with an integrated 50bmg rifle.  Activate"
+" this item, with ammo in your inventory, to load and deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive advanced robot"
+msgid_plural "inactive advanced robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive glittering lady"
+msgid_plural "inactive glittering ladies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive glittering lady', 'str_pl': 'inactive
+#. glittering ladies'}
+#: .\items.json
+msgid ""
+"A salvaged advanced robot transformed into a luminous beacon of destruction."
+"  It attacks hostile targets with its two integral lasers and blinding "
+"flashes.  Activate this item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive bitter spinster"
+msgid_plural "inactive bitter spinsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive bitter spinster'}
+#: .\items.json
+msgid ""
+"A salvaged military robot transformed into a caustic monster.  An internal "
+"acid fermenter feeds a ranged glob spitter and sprayer.  Activate this item "
+"to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive chickenwalker"
+msgid_plural "inactive chickenwalkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive chainsaw horror"
+msgid_plural "inactive chainsaw horrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive chainsaw horror'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of whirring "
+"chainsaws and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive screeching terror"
+msgid_plural "inactive screeching terrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive screeching terror'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of piston-driven "
+"lances and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive hooked nightmare"
+msgid_plural "inactive hooked nightmares"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive hooked nightmare'}
+#: .\items.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It attacks hostile targets with a pair of spinning hooks"
+" on chains and a deafening sound system.  Activate this item to deploy the "
+"robot."
+msgstr ""
+
+#: .\items.json
+msgid "broken chickenbot"
+msgid_plural "broken chickenbots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken chickenbot'}
+#: .\items.json
+msgid ""
+"A broken chicken walker.  Still looks intimidating despite being permanently"
+" inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr ""
+
+#: .\items.json
+msgid "broken tank drone"
+msgid_plural "broken tank drones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken tank drone'}
+#: .\items.json
+msgid ""
+"A broken tank drone.  Still looks intimidating despite being permanently "
+"inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr ""
+
+#: .\items.json
+msgid "inactive tripod"
+msgid_plural "inactive tripods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive tripod'}.
+#: .\items.json
+msgid "The tribot rises to its feet and scans the area for contaminants."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive tripod'}.
+#: .\items.json
+msgid ""
+"The tribot glowers down at you and ignites its flamethrower.  Turns out you "
+"hate the smell of napalm."
+msgstr ""
+
+#. ~ Description for {'str': 'inactive tripod'}
+#: .\items.json
+msgid ""
+"This is an inactive Honda Regnal.  Using this item involves placing it on "
+"the ground, wondering how it fuels its flamethrower and turning it on.  If "
+"reprogrammed and rewired successfully the tribot will then identify you as "
+"an ally, roam around or follow you, and impale hostiles with its spiked "
+"cable weapons."
+msgstr ""
+
+#: .\items.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\items.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\items.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+
+#: .\items.json
+msgid "inactive tank drone"
+msgid_plural "inactive tank drones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid "The tank drone rolls out and begins acquiring targets."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive tank drone'}.
+#: .\items.json
+msgid ""
+"The tank drone swivels its turret and aims directly at you.  Don your brown "
+"pants!"
+msgstr ""
+
+#. ~ Description for {'str': 'inactive tank drone'}
+#: .\items.json
+msgid ""
+"This is an inactive Beagle Mini-Tank UGV.  Using this item involves placing "
+"it on the ground, loading the unit with the factory-loaded 5.56 rounds and "
+"40mm cartridge grenades in your inventory (if you wish to divide your "
+"ammunition, set aside whatever ammunition you do NOT want to give the robot)"
+" and turning it on.  If reprogrammed and rewired successfully the tank drone"
+" will then identify you as a friendly, roam around or follow you, and attack"
+" all enemies with a built-in firearm and grenade launcher."
+msgstr ""
+
+#: .\items.json
+msgid "set of spidery legs"
+msgid_plural "sets of spidery legs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'set of spidery legs', 'str_pl': 'sets of spidery
+#. legs'}
+#: .\items.json
+msgid "A set of big pointy legs, like the ones found under a tripod."
+msgstr ""
+
+#: .\items.json
+msgid "tripod chassis"
+msgid_plural "tripod chassis"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'tripod chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the tripod."
+msgstr ""
+
+#: .\items.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr ""
+
+#: .\items.json
+msgid "Regulator chassis"
+msgid_plural "Regulator chassis"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Regulator chassis'}
+#: .\items.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the Regulator tank."
+msgstr ""
+
+#: .\items.json
+msgid "inactive tankbot"
+msgid_plural "inactive tankbots"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\items.json
+msgid "inactive fist king"
+msgid_plural "inactive fist kings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive fist king'}
+#. ~ Description for {'str': 'inactive atomic sultan'}
+#: .\items.json
+msgid ""
+"A salvaged tankbot refitted with a pair of powerful pneumatic hammers which "
+"it uses to crush anything in its way, including buildings.  Activate this "
+"item to deploy the robot."
+msgstr ""
+
+#: .\items.json
+msgid "inactive atomic sultan"
+msgid_plural "inactive atomic sultans"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modinfo.json
+msgid "Salvaged Robots"
+msgstr ""
+
+#. ~ Description for Salvaged Robots
+#: .\modinfo.json
+msgid ""
+"Expands the types of robots and allows players to jury-rig broken robots "
+"into functioning companions."
+msgstr ""
+
+#: .\monster_attacks.json
+msgid "The %1$s injects you with a syringe!"
+msgstr ""
+
+#: .\monster_attacks.json
+msgid "The %1$s injects <npcname> with a syringe!"
+msgstr ""
+
+#: .\monster_attacks.json
+msgid "The %1$s tries to inject you, but fails to penetrate your armor!"
+msgstr ""
+
+#: .\monster_attacks.json
+msgid ""
+"The %1$s tries to inject <npcname>, but fails to penetrate their armor!"
+msgstr ""
+
+#: .\monsters.json
+msgid "craftbuddy"
+msgid_plural "craftbuddies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'craftbuddy', 'str_pl': 'craftbuddies'}
+#: .\monsters.json
+msgid ""
+"A mobile crafting station used by workers in mines, on oil rigs, and in "
+"other remote locales.  In it's active state, the craftbuddy merely follows "
+"its user.  In it's deactivated state, the craft buddy is useable as a "
+"toolbench and multipurpose workstation."
+msgstr ""
+
+#: .\monsters.json
+msgid "automated armor"
+msgid_plural "automated armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'automated armor'}
+#: .\monsters.json
+msgid ""
+"A suit of power armor temporarily controlled by an attached AI-core.  "
+"Originally intended as a way to retrieve dead or wounded operators from "
+"combat, it was more commonly used for transporting the suit itself.  The AI "
+"is limited, and makes a poor combatant."
+msgstr ""
+
+#: .\monsters.json
+msgid "auto armor"
+msgid_plural "auto armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\monsters.json
+msgid "tripod"
+msgid_plural "tripods"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tripod'}
+#: .\monsters.json
+msgid ""
+"The Honda Crop King.  Originally designed for agriculture, it has a trio of "
+"spiked retractable cables and where it used to mount pesticide sprayer the "
+"PrepNet Phyle have modified it to have a flamethrower for their war against "
+"the Mycus."
+msgstr ""
+
+#: .\monsters.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monsters.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+
+#: .\monsters.json
+msgid "Beagle Mini-Tank UGV"
+msgid_plural "Beagle Mini-Tank UGVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monsters.json
+msgid ""
+"The Northrop Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr ""
+
+#: .\monsters.json
+msgid "floating lantern"
+msgid_plural "floating lanterns"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'floating lantern'}
+#: .\monsters.json
+msgid "A salvaged drone repurposed into a mobile lightsource."
+msgstr ""
+
+#: .\monsters.json
+msgid "distract-o-hack"
+msgid_plural "distract-o-hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'distract-o-hack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed into a makeshift diversion tactic.  Once "
+"activated it will light up, produce sound, emit sparks, and move towards "
+"hostile targets.  Although fragile, the distract-o-hack's erratic movements "
+"make it difficult to hit."
+msgstr ""
+
+#: .\monsters.json
+msgid "arsonhack"
+msgid_plural "arsonhacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'arsonhack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed to spread flame and cause property damage.  It's"
+" almost as dangerous to its user as it is to the surroundings.  The "
+"arsonhack cannot be recovered once activated.  Only a reckless madman would "
+"dare to build this."
+msgstr ""
+
+#: .\monsters.json
+msgid "spore hack"
+msgid_plural "spore hacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spore hack'}
+#: .\monsters.json
+msgid ""
+"A salvaged drone repurposed to spread alien contaminants.  It periodically "
+"releases a puff of fungal spores.  Who in their right mind would build such "
+"a thing?"
+msgstr ""
+
+#: .\monsters.json
+msgid "watercannon turret"
+msgid_plural "watercannon turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'watercannon turret'}
+#: .\monsters.json
+msgid ""
+"A turret equipped with a jury-rigged watercannon in place of a proper "
+"firearm.  It's highly ineffective but the ammo is cheap."
+msgstr ""
+
+#: .\monsters.json
+msgid "eyebot"
+msgid_plural "eyebots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'eyebot'}
+#: .\monsters.json
+msgid ""
+"A small aerial robot equipped with a suite of cameras and armed with a "
+"blinding flash.  No longer linked to police or security network, it "
+"continues its unending hunt for criminals and tresspassers."
+msgstr ""
+
+#: .\monsters.json
+msgid "floating heater"
+msgid_plural "floating heaters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'floating heater'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of warm air to heat an enclosed space."
+msgstr ""
+
+#: .\monsters.json
+msgid "floating furnace"
+msgid_plural "floating furnaces"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'floating furnace'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot repurposed into a floating space heater.  It emits a "
+"constant jet of dangerously hot air to heat an enclosed space.  Warning!  "
+"Can result in rapid heatstroke!"
+msgstr ""
+
+#: .\monsters.json
+msgid "burning eye"
+msgid_plural "burning eyes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'burning eye'}
+#: .\monsters.json
+msgid ""
+"A salvaged eyebot refitted with a laser weapon.  The lack of recoil allows "
+"the hovering robot to aim and fire without penalty.  It has decent range and"
+" damage, but requires an extended recharge time between shots."
+msgstr ""
+
+#: .\monsters.json
+msgid "utility robot"
+msgid_plural "utility robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'utility robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of utility robot formerly in use by government "
+"agencies, private corporations, and civilians alike."
+msgstr ""
+
+#: .\monsters.json
+msgid "hazmat bot"
+msgid_plural "hazmat bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hazmat bot'}
+#: .\monsters.json
+msgid ""
+"A utility robot designed for cleaning up waste material in hazardous "
+"conditions."
+msgstr ""
+
+#: .\monsters.json
+msgid "butler-bot"
+msgid_plural "butler-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'butler-bot'}
+#: .\monsters.json
+msgid "A luxury model utility robot for domestic use."
+msgstr ""
+
+#: .\monsters.json
+msgid "construction robot"
+msgid_plural "construction robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'construction robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of construction robot formerly in use by government "
+"agencies and private corporations.  It is equipped with an integrated "
+"welder, flashlight, nailgun, and jackhammer."
+msgstr ""
+
+#: .\monsters.json
+msgid "firefighter robot"
+msgid_plural "firefighter robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'firefighter robot'}
+#: .\monsters.json
+msgid ""
+"One of the many models of fire-fighting robot formerly in use by local fire "
+"departments and emergency services.  Designed for entering burning buildings"
+" and other situations deemed too dangerous for human firefighters."
+msgstr ""
+
+#: .\monsters.json
+msgid "blob breeder"
+msgid_plural "blob breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'blob breeder'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It will intermittently release a group of living blobs.  Why on Earth"
+" would you build this?"
+msgstr ""
+
+#: .\monsters.json
+msgid "slime breeder"
+msgid_plural "slime breeders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'slime breeder'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into a mobile incubator for the alien "
+"blob.  It will intermittently release a group of friendly blobs."
+msgstr ""
+
+#: .\monsters.json
+msgid "digestron"
+msgid_plural "digestrons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'digestron'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into an automated vacuum cleaner.  It "
+"will suck stray items off the ground and dissolve them with its internal "
+"acid reserves.  A useful helper for keeping your front lawn clean of debris…"
+" or corpses."
+msgstr ""
+
+#: .\monsters.json
+msgid "bee bot"
+msgid_plural "bee bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bee bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged utility robot converted into an ambulatory bee hive that "
+"periodically removes and delivers honey combs.  It protects the insect "
+"colony with a mechanical crossbow mounted to its chassis."
+msgstr ""
+
+#: .\monsters.json
+msgid "medical robot"
+msgid_plural "medical robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'medical robot'}
+#: .\monsters.json
+msgid ""
+"A free roaming medical robot capable of administering powerful anesthetics "
+"and performing complex surgical operations, usually in that order.  Faulty "
+"bio-diagnostic programs resulted in numerous lawsuits before the Cataclysm."
+msgstr ""
+
+#: .\monsters.json
+msgid "assassination robot"
+msgid_plural "assassination robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'assassination robot'}
+#: .\monsters.json
+msgid ""
+"A salvaged medical robot repurposed into a murder machine.  Its surgical "
+"tools have been replaced with a fearsome set of blades, and its hypodermic "
+"needle now delivers powerful toxins."
+msgstr ""
+
+#: .\monsters.json
+msgid "elixirator"
+msgid_plural "elixirators"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'elixirator'}
+#: .\monsters.json
+msgid ""
+"This doesn't work yet.  Don't build it… A salvaged medibot with its internal"
+" pharma-fabricators repurposed to produce mutagen."
+msgstr ""
+
+#: .\monsters.json
+msgid "party bot"
+msgid_plural "party bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'party bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged medibot stuffed with marijuana, covered in multicolored blinking "
+"lights, and programmed to dance.  Why on Earth would you build this crazy "
+"thing?"
+msgstr ""
+
+#: .\monsters.json
+msgid "skitterbot"
+msgid_plural "skitterbots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'skitterbot'}
+#: .\monsters.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two close-range tazers, it can skate across the ground with great"
+" speed."
+msgstr ""
+
+#: .\monsters.json
+msgid "rat snatcher"
+msgid_plural "rat snatchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rat snatcher'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot repurposed for hunting small game.  It's faster than "
+"the original model but far less sturdy."
+msgstr ""
+
+#: .\monsters.json
+msgid "grab-bot"
+msgid_plural "grab-bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grab-bot'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot repurposed to grab onto and immobilize enemies.  It's "
+"meant to work in a pack."
+msgstr ""
+
+#: .\monsters.json
+msgid "pest hunter"
+msgid_plural "pest hunters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pest hunter'}
+#: .\monsters.json
+msgid ""
+"A salvaged skitterbot refitted with an 8mm integrated firearm.  The robot's "
+"small size precludes rapid fire, due to recoil, and requires the use of "
+"lightweight caseless ammo."
+msgstr ""
+
+#: .\monsters.json
+msgid "insane cyborg"
+msgid_plural "insane cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'insane cyborg'}
+#: .\monsters.json
+msgid ""
+"A robot body with the head of a human.  All kinds of electronic wires and "
+"devices are implanted in its head.  This cyborg moves erratically and has a "
+"confused and deranged look in its eyes."
+msgstr ""
+
+#: .\monsters.json
+msgid "necrotic cyborg"
+msgid_plural "necrotic cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'necrotic cyborg'}
+#: .\monsters.json
+msgid ""
+"A salvaged cyborg refitted with the head of a zombie necromancer.  The "
+"animate head retains some of its ability to revive zombies.  Why on Earth "
+"would anyone build such an abomination?"
+msgstr ""
+
+#: .\monsters.json
+msgid "security robot"
+msgid_plural "security robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'security robot'}
+#: .\monsters.json
+msgid ""
+"An automated defense robot still active due to its internal power source.  "
+"This one is equipped with an electric prod and an integrated shotgun."
+msgstr ""
+
+#: .\monsters.json
+msgid "military robot"
+msgid_plural "military robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 5.56mm firearm."
+msgstr ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military training robot still operating due to its internal power core.  "
+"This one is armed with a high power paintball gun and a foam baton."
+msgstr ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 7.62mm firearm."
+msgstr ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 50 caliber firearm."
+msgstr ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 8mm firearm."
+msgstr ""
+
+#. ~ Description for {'str': 'military robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 5x50mm flechette gun."
+msgstr ""
+
+#: .\monsters.json
+msgid "grenadier robot"
+msgid_plural "grenadier robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grenadier robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated 40mm grenade launcher."
+msgstr ""
+
+#: .\monsters.json
+msgid "military flame robot"
+msgid_plural "military flame robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'military flame robot'}
+#: .\monsters.json
+msgid ""
+"A military robot still operating due to its internal power core.  This one "
+"is armed with an electric prod and an integrated flamethrower."
+msgstr ""
+
+#: .\monsters.json
+msgid "advanced robot"
+msgid_plural "advanced robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'advanced robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is armed with a powerful laser-emitter."
+msgstr ""
+
+#: .\monsters.json
+msgid "laser-emitting robot"
+msgid_plural "laser-emitting robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'laser-emitting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful laser-emitter."
+msgstr ""
+
+#: .\monsters.json
+msgid "plasma-ejecting robot"
+msgid_plural "plasma-ejecting robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'plasma-ejecting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful plasma-ejector."
+msgstr ""
+
+#: .\monsters.json
+msgid "railgun robot"
+msgid_plural "railgun robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'railgun robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful railgun."
+msgstr ""
+
+#: .\monsters.json
+msgid "electro-casting robot"
+msgid_plural "electro-casting robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'electro-casting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful electro-caster."
+msgstr ""
+
+#: .\monsters.json
+msgid "EMP-projecting robot"
+msgid_plural "EMP-projecting robots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'EMP-projecting robot'}
+#: .\monsters.json
+msgid ""
+"An advanced robot still functioning due to its internal fusion core.  This "
+"model is furnished with a powerful EMP-projector."
+msgstr ""
+
+#: .\monsters.json
+msgid "junkyard cowboy"
+msgid_plural "junkyard cowboys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'junkyard cowboy'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with a shotgun and two circular buzzsaws."
+"  Due to bootleg targeting software, it can only attack nearby targets."
+msgstr ""
+
+#: .\monsters.json
+msgid "shortcircuit samurai"
+msgid_plural "shortcircuit samurais"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shortcircuit samurai'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with two electrified blades.  The over-"
+"taxed power systems result in somewhat sluggish movement and occasional "
+"discharges.  Keep a safe distance!"
+msgstr ""
+
+#: .\monsters.json
+msgid "slapdash paladin"
+msgid_plural "slapdash paladins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'slapdash paladin'}
+#: .\monsters.json
+msgid ""
+"A salvaged defense robot refitted with a homemade flamethrower and two "
+"searing hot blades.  The burning fuel reserves make the robot noisy and "
+"smokey."
+msgstr ""
+
+#: .\monsters.json
+msgid "robo-guardian"
+msgid_plural "robo-guardians"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'robo-guardian'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with a pair of integrated 9mm firearms.  "
+"Multiple weapons provide a high rate of fire, but jury-rigged sensors limit "
+"the effective range and accuracy.  It makes for a good close range "
+"bodyguard."
+msgstr ""
+
+#: .\monsters.json
+msgid "robote deluxe"
+msgid_plural "robote deluxe"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'robote deluxe'}
+#: .\monsters.json
+msgid ""
+"A diamond-studded gold-plated robot armed with a pair of integrated 9mm "
+"firearms.  An opulent luxury-bot suitable for those who wish to survive the "
+"apocalypse in style."
+msgstr ""
+
+#: .\monsters.json
+msgid "robo-protector"
+msgid_plural "robo-protectors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'robo-protector'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with an integrated 5.56mm rifle.  The "
+"modified firearm is only capable of three round bursts, but range and "
+"accuracy are decent.  It makes for a solid combat ally."
+msgstr ""
+
+#: .\monsters.json
+msgid "robo-defender"
+msgid_plural "robo-defenders"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'robo-defender'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot refitted with an integrated 50bmg rifle.  Improved"
+" optics provide nightvision and excellent range, but glitchy targeting "
+"software requires an extended pause between shots.  It makes for a good long"
+" range sniper."
+msgstr ""
+
+#: .\monsters.json
+msgid "glittering lady"
+msgid_plural "glittering ladies"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'glittering lady', 'str_pl': 'glittering ladies'}
+#: .\monsters.json
+msgid ""
+"A salvaged advanced robot transformed into a luminous beacon of destruction."
+"  It has two integral lasers and emits a steady pulse of blinding flashes.  "
+"Due to mismatched focusing lenses, the lasers have limited range."
+msgstr ""
+
+#: .\monsters.json
+msgid "bitter spinster"
+msgid_plural "bitter spinsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bitter spinster'}
+#: .\monsters.json
+msgid ""
+"A salvaged military robot transformed into a caustic monster.  An internal "
+"acid fermenter feeds a ranged glob spitter and sprayer.  The many tanks and "
+"pipes weaken the robot structurally, making it somewhat fragile."
+msgstr ""
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\monsters.json
+msgid ""
+"The Northrup ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+
+#: .\monsters.json
+msgid "chainsaw horror"
+msgid_plural "chainsaw horrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chainsaw horror'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"whirring chainsaws.  A speaker system has been installed to blast terrifying"
+" shrieks of distorted music.  No one in their right mind would craft such an"
+" awful creature."
+msgstr ""
+
+#: .\monsters.json
+msgid "screeching terror"
+msgid_plural "screeching terrors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'screeching terror'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"piston-driven lances.  A speaker system has been installed to blast "
+"terrifying shrieks of distorted music.  No one in their right mind would "
+"craft such a hellish beast."
+msgstr ""
+
+#: .\monsters.json
+msgid "hooked nightmare"
+msgid_plural "hooked nightmares"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hooked nightmare'}
+#: .\monsters.json
+msgid ""
+"A salvaged chickenwalker modified into a horrific monster adorned with "
+"skulls and spikes.  It has traded its long range weapons for a set of "
+"spinning chains terminating in bloody hooks.  A speaker system has been "
+"installed to blast terrifying shrieks of distorted music.  No one in their "
+"right mind would craft such a twisted abomination."
+msgstr ""
+
+#. ~ Description for {'str': 'Beagle Mini-Tank UGV'}
+#: .\monsters.json
+msgid ""
+"The Northrup Beagle is a refrigerator-sized urban warfare UGV.  Sporting an "
+"anti-tank missile launcher, 40mm grenade launcher, and numerous anti-"
+"infantry weapons, it's designed for high-risk urban fighting."
+msgstr ""
+
+#: .\monsters.json
+msgid "fist king"
+msgid_plural "fist kings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fist king'}
+#: .\monsters.json
+msgid ""
+"A salvaged tankbot refitted with a pair of powerful pneumatic hammers which "
+"it uses to crush anything in its way, including buildings.  Although lacking"
+" ranged weapons, its armor and strength make it a match for the even the "
+"biggest monsters.  Only a madman would dare build such a reckless behemoth."
+msgstr ""
+
+#: .\monsters.json
+msgid "atomic sultan"
+msgid_plural "atomic sultans"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'atomic sultan'}
+#: .\monsters.json
+msgid ""
+"A salvaged tankbot refitted with burning hot man-crushers.  Although lacking"
+" ranged weapons, its armor and strength make it a match for even the biggest"
+" foes.  Multiple fusion cores give the robot ample power but also cause "
+"radioactive gas leaks.  Only a lunatic would dare build such a reckless "
+"monster."
+msgstr ""
+
+#: .\roboguns.json
+msgid "integral nailgun"
+msgid_plural "integral nailguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\roboguns.json
+msgid ""
+"This is a pseudo item for monster attacks. If you see this, it's a bug."
+msgstr ""
+
+#: .\roboguns.json
+msgid "auto"
+msgstr ""
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr ""
+
+#: .\roboguns.json
+msgid "mounted crossbow"
+msgid_plural "mounted crossbows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\roboguns.json
+msgid "single"
+msgstr ""
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#: .\roboguns.json
+msgid "Vortical plasma beam"
+msgid_plural "Vortical plasma beams"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\roboguns.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#: .\speech.json
+msgid "\"bzzzzzz.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beep?\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beep!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beeeeep beep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Bebebeeeep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beep boop beep?\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beedoo-Beep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Beep Beep.  Whirr.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Vrrrr Hrrrmmm.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Whirrrrr-click click.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Boodoobeep beep beep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Brannnnnnn Brzt Brmmmm.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Whshoooo.  Brzzzt.  Brzzzt.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Brrm Bum Brrm?\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Pwweeee Krsht.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Fshkt fshkt.  Booop.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Vzt.  Vzt.  Krshhhhhhhh.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Whhheeee-oooo.  Bedeep.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Grrrnd clang whirrrr.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Grrrrrrrnd.  Grrrnd.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Cla-clang cla-clang!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Klang!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Bzzzt.  Bzzzzt!\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Bedeep.  Whurrrrrmmmm.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Pwwowm.  Fsht fshrrrr.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Click.  Clicliclick.  Vrnnnk.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Shwwwrrrrnnnzzz bzzt.\""
+msgstr ""
+
+#: .\speech.json
+msgid "a high pitched alarm."
+msgstr ""
+
+#: .\speech.json
+msgid "a blaring siren."
+msgstr ""
+
+#: .\speech.json
+msgid "\"CHUG chug chug.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Creak!  Clang clang.\""
+msgstr ""
+
+#: .\speech.json
+msgid "\"Khr Khr Khr.\""
+msgstr ""
+
+#: .\speech.json
+msgid "a mechanical groaning."
+msgstr ""
+
+#: .\speech.json
+msgid "grinding gears."
+msgstr ""
+
+#: .\speech.json
+msgid "tortured machinery."
+msgstr ""
+
+#: .\robot_additions\40mm.json
+msgid "40mm EMP grenade"
+msgid_plural "40mm EMP grenades"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '40mm EMP grenade'}
+#: .\robot_additions\40mm.json
+msgid ""
+"A 40mm grenade with an EMP charge.  It will release an electromagnetic pulse"
+" capable of damaging robots and some equipment."
+msgstr ""
+
+#: .\robot_additions\40mm.json
+msgid "active EMP grenade"
+msgid_plural "active EMP grenades"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'active EMP grenade'}
+#: .\robot_additions\40mm.json
+msgid ""
+"This EMP grenade is active, and will shortly detonate, creating a large EMP "
+"field that damages robots and drains bionic energy.  You may not want to be "
+"holding it much longer."
+msgstr ""
+
+#: .\robot_additions\items.json
+msgid "robot carrier"
+msgid_plural "robot carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'robot carrier'}
+#: .\robot_additions\items.json
+msgid ""
+"A heavy frame outfitted with tie-downs and attachment points for carrying "
+"cargo, with additional railings to keep a large machine in place.  It is "
+"meant to hold large drones and robots for transport.  Use it on a suitable "
+"robot to capture, use it on an empty tile to release."
+msgstr ""
+
+#: .\robot_additions\items.json
+msgid "active glowball"
+msgid_plural "active glowballs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'active glowball'}.
+#: .\robot_additions\items.json
+msgid "The glowball goes dim."
+msgstr ""
+
+#. ~ Description for {'str': 'active glowball'}
+#: .\robot_additions\items.json
+msgid "A small plastic ball filled with glowing chemicals."
+msgstr ""
+
+#: .\robot_additions\overmap_terrain.json
+msgid "robot dispatch center"
+msgstr ""
+
+#: .\robot_additions\paintball.json
+msgid "glowball"
+msgid_plural "glowballs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'glowball'}
+#: .\robot_additions\paintball.json
+msgid ""
+"A tube of small glowballs taken off the market due to hazardous chemicals.  "
+"They deal virtually no damage, but light up on impact.  Useful for "
+"illuminating an area without lighting up yourself in the process."
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robo-Hacker"
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robo-Hacker"
+msgstr ""
+
+#. ~ Profession (male Robo-Hacker) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Before the end, your hobby was illegally reprogramming and repurposing "
+"commercial robots, but you never thought your survival might depend on it."
+msgstr ""
+
+#. ~ Profession (female Robo-Hacker) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Before the end, your hobby was illegally reprogramming and repurposing "
+"commercial robots, but you never thought your survival might depend on it."
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robotics Engineer"
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robotics Engineer"
+msgstr ""
+
+#. ~ Profession (male Robotics Engineer) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were a low-level engineer at a robotics manufacturer.  The management "
+"kept telling you putting flamethrowers on manhacks was 'unnecessary' and "
+"'too dangerous,' but there's nothing to stop you now."
+msgstr ""
+
+#. ~ Profession (female Robotics Engineer) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were a low-level engineer at a robotics manufacturer.  The management "
+"kept telling you putting flamethrowers on manhacks was 'unnecessary' and "
+"'too dangerous,' but there's nothing to stop you now."
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robotics Prodigy"
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robotics Prodigy"
+msgstr ""
+
+#. ~ Profession (male Robotics Prodigy) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been building robots since you could hold a soldering iron, and you "
+"don't intend to let the end of the world stop that from continuing."
+msgstr ""
+
+#. ~ Profession (female Robotics Prodigy) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been building robots since you could hold a soldering iron, and you "
+"don't intend to let the end of the world stop that from continuing."
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robot Adoptee"
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robot Adoptee"
+msgstr ""
+
+#. ~ Profession (male Robot Adoptee) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"During the riots a military robot came out of nowhere to rescue you.  Maybe "
+"it thinks you're someone important, who knows."
+msgstr ""
+
+#. ~ Profession (female Robot Adoptee) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"During the riots a military robot came out of nowhere to rescue you.  Maybe "
+"it thinks you're someone important, who knows."
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_male"
+msgid "Robo-hunter"
+msgstr ""
+
+#: .\robot_additions\professions.json
+msgctxt "profession_female"
+msgid "Robo-hunter"
+msgstr ""
+
+#. ~ Profession (male Robo-hunter) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You paid a local hacker to build you a robotic hunting dog.  It's almost as "
+"good as the real thing, but it doesn't respond well to being pet."
+msgstr ""
+
+#. ~ Profession (female Robo-hunter) description
+#: .\robot_additions\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You paid a local hacker to build you a robotic hunting dog.  It's almost as "
+"good as the real thing, but it doesn't respond well to being pet."
+msgstr ""
+
+#. ~ Name for scenario 'Robots' for a male character
+#: .\robot_additions\scenarios.json
+msgctxt "scenario_male"
+msgid "Robots"
+msgstr ""
+
+#. ~ Name for scenario 'Robots' for a female character
+#: .\robot_additions\scenarios.json
+msgctxt "scenario_female"
+msgid "Robots"
+msgstr ""
+
+#. ~ Description for scenario 'Robots' for a male character.
+#: .\robot_additions\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"During the riots and chaos, you hid in a robot dispatch center hoping the "
+"robots would protect you, but they may prove more dangerous than the "
+"zombies."
+msgstr ""
+
+#. ~ Description for scenario 'Robots' for a female character.
+#: .\robot_additions\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"During the riots and chaos, you hid in a robot dispatch center hoping the "
+"robots would protect you, but they may prove more dangerous than the "
+"zombies."
+msgstr ""
+
+#. ~ Starting location for scenario 'Robots'.
+#: .\robot_additions\scenarios.json
+msgctxt "start_name"
+msgid "In Town"
+msgstr ""
+
+#: .\robot_additions\start_locations.json
+msgid "Robot Dispatch Center"
+msgstr ""
+
+#: .\robot_additions\vehicle_parts.json
+msgid "robot_carrier"
+msgstr ""
+
+#. ~ Description for {'str': 'robot_carrier'}
+#: .\robot_additions\vehicle_parts.json
+msgid ""
+"A cargo space for carrying robots.  'e'xamine it to capture a robot next to "
+"you, or to release the robot currently contained.  When selecting a robot to"
+" capture, choose its tile relative to you, not the part."
+msgstr ""
+
+#: .\robot_additions\vehicles.json
+msgid "Robotic Taxi"
+msgstr ""
+
+#: .\robot_additions\vehicles.json
+msgid "Armored Robot Carrier"
+msgstr ""
+
+#: .\robot_additions\vehicles.json
+msgid "Humvee"
+msgstr ""
+
+#: .\robot_workbench\furniture-surfaces.json .\robot_workbench\items.json
+msgid "Stationary CraftBuddy"
+msgid_plural "Stationary CraftBuddys"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for Stationary CraftBuddy
+#: .\robot_workbench\furniture-surfaces.json
+msgid ""
+"A robot crafting assistant. Useable as stationary all-purpose craft station "
+"and as workbench with great boost to work speed, also help you butcher "
+"things near it. Unfolding it into stationary form produced some little "
+"AutoPack section you can use to create some auto-crafting packets with "
+"simple tasks. Can be dismantled retain it's portable form and functionality."
+msgstr ""
+
+#: .\robot_workbench\furniture-surfaces.json
+msgid "metal screeching!"
+msgstr ""
+
+#: .\robot_workbench\furniture-surfaces.json
+msgid "clang!"
+msgstr ""
+
+#. ~ Description for {'str': 'Stationary CraftBuddy'}
+#: .\robot_workbench\items.json
+msgid ""
+"This is a crafting_pseudo_item for craftbuddy bot functions and if you have "
+"it as an separate item, something is wrong, WATCH OUT."
+msgstr ""
+
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack: mending rope to thread"
+msgid_plural "AutoPack: mending rope to threads"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'AutoPack: mending rope to thread'}.
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack has finished it's production process."
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'AutoPack: mending rope to thread'}.
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack didn't finished the task yet."
+msgstr ""
+
+#. ~ Description for {'str': 'AutoPack: mending rope to thread'}
+#: .\robot_workbench\tailoring.json
+msgid ""
+"Packed automatic assembler that slowly but steadily produce many threads "
+"from single rope. Requires assembled and installed stationary CraftBuddy "
+"station nearby and some UPS to be packed. Activate it when it's done."
+msgstr ""
+
+#: .\robot_workbench\tailoring.json
+msgid "AutoPack with threads from a single long rope"
+msgid_plural "AutoPack with threads from a single long ropes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AutoPack with threads from a single long rope'}
+#: .\robot_workbench\tailoring.json
+msgid ""
+"A inactive AutoPack that finished it's work and disassembled single long "
+"rope into large units of thread."
+msgstr ""

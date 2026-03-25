@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: oa_early_game_mutations_mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. ~ Computer name
+#: .\cs_body_modification_clinic.json
+msgid "Secure Room Terminal"
+msgstr "安全室终端"
+
+#. ~ Computer option
+#: .\cs_body_modification_clinic.json
+msgid "Unlock Secure Room"
+msgstr "解锁安全室"
+
+#. ~ Computer option
+#: .\cs_body_modification_clinic.json
+msgid "Lock Secure Room"
+msgstr "锁定安全室"
+
+#: .\egm_NPCs.json
+msgid "Inpatient"
+msgstr "住院患者"
+
+#: .\egm_NPCs.json
+msgid "I'm bugged - I shouldn't talk to you."
+msgstr "我有bug——我不该和你说话。"
+
+#: .\egm_NPCs.json
+msgid "inpatient"
+msgstr "住院患者"
+
+#: .\egm_professions.json
+msgctxt "profession_male"
+msgid "Inpatient"
+msgstr "住院患者"
+
+#: .\egm_professions.json
+msgctxt "profession_female"
+msgid "Inpatient"
+msgstr "住院患者"
+
+#. ~ Profession (male Inpatient) description
+#: .\egm_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"After completing your pre-mutation psychological and physical training, you "
+"can honestly say that you have never felt healthier. Now, you sit in your "
+"room; in a stretchy jumpsuit and a pair of sandals you brought from home; "
+"eager to take your first steps into transhumanism."
+msgstr ""
+"完成突变前的心理与体能训练后，你可以诚实地说自己从未感觉如此健康。此刻，你身着弹性连体衣和从家带来的凉鞋，坐在房间里；渴望迈出跨入超人类主义的第一步。"
+
+#. ~ Profession (female Inpatient) description
+#: .\egm_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"After completing your pre-mutation psychological and physical training, you "
+"can honestly say that you have never felt healthier. Now, you sit in your "
+"room; in a stretchy jumpsuit and a pair of sandals you brought from home; "
+"eager to take your first steps into transhumanism."
+msgstr ""
+"完成突变前的心理与体能训练后，你可以诚实地说自己从未感觉如此健康。此刻，你身着弹性连体衣和从家带来的凉鞋，坐在房间里；渴望迈出跨入超人类主义的第一步。"
+
+#: .\egm_scenario.json
+msgid "BMC ground floor"
+msgstr "BMC一楼"
+
+#: .\egm_scenario.json
+msgid "BMC first floor"
+msgstr "BMC二楼"
+
+#. ~ Name for scenario 'Prospective Mutant' for a male character
+#: .\egm_scenario.json
+msgctxt "scenario_male"
+msgid "Prospective Mutant"
+msgstr "准突变者"
+
+#. ~ Name for scenario 'Prospective Mutant' for a female character
+#: .\egm_scenario.json
+msgctxt "scenario_female"
+msgid "Prospective Mutant"
+msgstr "准突变者"
+
+#. ~ Description for scenario 'Prospective Mutant' for a male character.
+#: .\egm_scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"After much deliberation, you finally register and check yourself in with one"
+" of the highly controversial transhuman advocacy clinics. Unfortunately "
+"during your psycho-physical prep month, the apocolyspe happened. So, close; "
+"now you have to take your evolution into your own hands."
+msgstr ""
+"经过深思熟虑，你最终在一家备受争议的超人类倡导诊所登记入住。不幸的是，在你进行心理生理准备的那个月，末日降临了。功亏一篑；现在你必须亲手掌控自己的进化之路。"
+
+#. ~ Description for scenario 'Prospective Mutant' for a female character.
+#: .\egm_scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"After much deliberation, you finally register and check yourself in with one"
+" of the highly controversial transhuman advocacy clinics. Unfortunately "
+"during your psycho-physical prep month, the apocolyspe happened. So, close; "
+"now you have to take your evolution into your own hands."
+msgstr ""
+"经过深思熟虑，你最终在一家备受争议的超人类倡导诊所登记入住。不幸的是，在你进行心理生理准备的那个月，末日降临了。功亏一篑；现在你必须亲手掌控自己的进化之路。"
+
+#. ~ Starting location for scenario 'Prospective Mutant'.
+#. ~ Starting location for scenario 'Custom Human'.
+#: .\egm_scenario.json
+msgctxt "start_name"
+msgid "Body Modification Clinic"
+msgstr "身体改造诊所"
+
+#. ~ Name for scenario 'Custom Human' for a male character
+#: .\egm_scenario.json
+msgctxt "scenario_male"
+msgid "Custom Human"
+msgstr "定制人类"
+
+#. ~ Name for scenario 'Custom Human' for a female character
+#: .\egm_scenario.json
+msgctxt "scenario_female"
+msgid "Custom Human"
+msgstr "定制人类"
+
+#. ~ Description for scenario 'Custom Human' for a male character.
+#: .\egm_scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You have just completed your post-mutation rehabilitation therapy; when the "
+"apocolypse decided to go and happen. Now you have to use your newly acquired"
+" gifts to take on this new world."
+msgstr "你刚完成突变后的康复治疗；末日却偏偏在此时降临。现在你必须运用新获得的天赋来面对这个新世界。"
+
+#. ~ Description for scenario 'Custom Human' for a female character.
+#: .\egm_scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You have just completed your post-mutation rehabilitation therapy; when the "
+"apocolypse decided to go and happen. Now you have to use your newly acquired"
+" gifts to take on this new world."
+msgstr "你刚完成突变后的康复治疗；末日却偏偏在此时降临。现在你必须运用新获得的天赋来面对这个新世界。"
+
+#: .\modinfo.json
+msgid "Oa's Early Game Mutations mod"
+msgstr "Oa的早期突变模组"
+
+#. ~ Description for Oa's Early Game Mutations mod
+#: .\modinfo.json
+msgid ""
+"Makes mutagens available early game. Adds a new building, as well as two "
+"start scenarios and a profession for it."
+msgstr "使突变剂在游戏早期即可获得。新增一栋建筑，以及两个起始场景和一个相关职业。"
+
+#: .\overmap_terrain.json
+msgid "Body Modification Clinic"
+msgstr "身体改造诊所"

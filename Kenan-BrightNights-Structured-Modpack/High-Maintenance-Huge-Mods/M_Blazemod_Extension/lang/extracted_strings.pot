@@ -1,0 +1,214 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: blaze_extension_M\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\blaze_ammo_types.json
+msgid "blob globs"
+msgstr ""
+
+#: .\blaze_blob.json
+msgid "blob_grow_base"
+msgid_plural "blob_grow_bases"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'blob_grow_base'}
+#. ~ Description for {'str': 'growing bladed mass', 'str_pl': 'growing bladed
+#. mass'}
+#: .\blaze_blob.json
+msgid ""
+"Not quite fully grown, this blob requires nourishment to fully develop."
+msgstr ""
+
+#: .\blaze_blob.json
+msgid "gel razor"
+msgid_plural "gel razors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\blaze_blob.json
+msgid ""
+"A living blob turned into an autonomous weapon.  Instead of calcifying large"
+" amounts of calcified teeth, it has instead calcified a single large blade-"
+"like mass; which it uses defensively and offensively.  The amorphous mass "
+"can be shaped and attached at your touch, but the weapon itself is inert "
+"without something to control it."
+msgstr ""
+
+#: .\blaze_blob.json
+msgctxt "gun_type_type"
+msgid "melee"
+msgstr ""
+
+#: .\blaze_blob.json
+msgid "growing bladed mass"
+msgid_plural "growing bladed mass"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'growing bladed mass', 'str_pl': 'growing
+#. bladed mass'}.
+#: .\blaze_blob.json
+msgid "The blob balloons to full size."
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'growing bladed mass', 'str_pl':
+#. 'growing bladed mass'}.
+#: .\blaze_blob.json
+msgid "It hasn't grown enough yet.."
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid part"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid frame"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid wall"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid hatch"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "opaque metalloid hatch"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid barrier"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid seat"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid reinforcement"
+msgstr ""
+
+#: .\blaze_blob_parts.json
+msgid "metalloid roof"
+msgstr ""
+
+#: .\blaze_override.json
+msgid "vortex stone"
+msgid_plural "vortex stones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'vortex stone'}
+#: .\blaze_override.json
+msgid ""
+"This is a stone with spirals all over it, and holes around its perimeter.  "
+"Though it is fairly large, it weighs next to nothing.  Air seems to gather "
+"around it."
+msgstr ""
+
+#: .\blaze_override.json
+msgid "spiral stone"
+msgid_plural "spiral stones"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spiral stone'}
+#: .\blaze_override.json
+msgid ""
+"A rock the size of your fist.  It is covered with intricate spirals; it is "
+"impossible to tell whether they are carved, naturally formed, or some kind "
+"of fossil."
+msgstr ""
+
+#: .\blaze_override.json
+msgid "blob glob"
+msgid_plural "blob globs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'blob glob'}
+#: .\blaze_override.json
+msgid ""
+"A little hunk of glop that fell off a blob monster.  It doesn't seem "
+"hostile, but it does wiggle occasionally."
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgid "crystal path"
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond obelisk"
+msgid_plural "diamond obelisks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond prism"
+msgid_plural "diamond prisms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A tall tower composed almost entirely of diamond, the cluster of diamond "
+"matrices focuses the energy from an array of solar panels into a terribly "
+"powerful laser.  It is also capable of storing energy from the sun and can "
+"fire even in the dark."
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgid "single"
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A smaller crystal that fell off the diamond obelisk upon creation.  Through "
+"some unknown mechanism, is able to link with the obelisk to fire a small, "
+"yet still powerful laser.  Even more perplexing is its ability to do so "
+"without guidance."
+msgstr ""
+
+#: .\blaze_vortex_diamonds.json
+msgid "diamond matrix"
+msgid_plural "diamond matrixs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'diamond matrix'}
+#: .\blaze_vortex_diamonds.json
+msgid ""
+"A sparkling diamond with a dazzling spiral pattern.  Small pieces of "
+"glittering crystal form on the edges as you hold it.  With enough base "
+"material, applying it to objects causes organic matter, wood in particular, "
+"to rapidly transform into diamond. However, this new crystalline compound "
+"quickly disintegrates without some other form of support."
+msgstr ""
+
+#: .\blaze_weapons.json
+msgid "blaze_base_gun1"
+msgid_plural "blaze_base_gun1s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\modinfo.json
+msgid "Vehicle Additions Additions"
+msgstr ""
+
+#. ~ Description for Vehicle Additions Additions
+#: .\modinfo.json
+msgid "Diamond Vehicle Parts, blob extensions."
+msgstr ""

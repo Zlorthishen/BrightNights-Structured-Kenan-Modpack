@@ -1,0 +1,688 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Soy mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\a_materials.json .\comestibles.json
+msgid "soy"
+msgstr ""
+
+#: .\a_materials.json
+msgid "squished"
+msgstr ""
+
+#: .\a_materials.json
+msgid "cut"
+msgstr ""
+
+#: .\a_materials.json
+msgid "lightly damaged"
+msgstr ""
+
+#: .\a_materials.json
+msgid "damaged"
+msgstr ""
+
+#: .\a_materials.json
+msgid "very damaged"
+msgstr ""
+
+#: .\a_materials.json
+msgid "throughly damaged"
+msgstr ""
+
+#: .\a_materials.json .\comestibles.json
+msgid "koji"
+msgid_plural "koji"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\comestibles.json
+msgid "soybean"
+msgid_plural "soybeans"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soybean', 'str_pl': 'soybeans'}
+#: .\comestibles.json
+msgid "Soybeans. These are indispensable in the Japanese diet."
+msgstr ""
+
+#: .\comestibles.json
+msgid "edamame"
+msgid_plural "edamame"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'edamame', 'str_pl': 'edamame'}
+#: .\comestibles.json
+msgid "An immature soybean. Tastes good on it's own."
+msgstr ""
+
+#: .\comestibles.json
+msgid "soybean seed"
+msgid_plural "soybean seeds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soybean seed', 'str_pl': 'soybean seeds'}
+#: .\comestibles.json
+msgid ""
+"It is a soybean seed. If you have a flower pot, you can plant it to harvest "
+"it in the form of edamame."
+msgstr ""
+
+#: .\comestibles.json
+msgid "soy sauce (unfermented)"
+msgid_plural "soy sauce (unfermented)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soy sauce (unfermented)', 'str_pl': 'soy sauce
+#. (unfermented)'}
+#: .\comestibles.json
+msgid "If fermented in a vat for 3 days, it will make fine soy sauce."
+msgstr ""
+
+#: .\comestibles.json
+msgid "miso (unripe)"
+msgid_plural "miso (unripe)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'miso (unripe)', 'str_pl': 'miso (unripe)'}.
+#: .\comestibles.json
+msgid "The Miso's aging was successful!"
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'miso (unripe)', 'str_pl': 'miso
+#. (unripe)'}.
+#: .\comestibles.json
+msgid "Miso is aged."
+msgstr ""
+
+#. ~ Description for {'str': 'miso (unripe)', 'str_pl': 'miso (unripe)'}
+#: .\comestibles.json
+msgid ""
+"Miso in the middle of aging. If left alone, it will be ferment in 8 days."
+msgstr ""
+
+#: .\comestibles.json
+msgid "miso"
+msgid_plural "miso"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'miso', 'str_pl': 'miso'}
+#: .\comestibles.json
+msgid ""
+"Miso that has been matured. This food was treated as a health food during "
+"the edo period."
+msgstr ""
+
+#: .\comestibles.json
+msgid "soy milk"
+msgid_plural "soy milk"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soy milk', 'str_pl': 'soy milk'}
+#: .\comestibles.json
+msgid ""
+"Squeezed soybeans. This looks like milk. But because it lacks fat, it can "
+"not replace milk."
+msgstr ""
+
+#: .\comestibles.json
+msgid "okara"
+msgid_plural "okara"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'okara', 'str_pl': 'okara'}
+#: .\comestibles.json
+msgid "The remnants of soy milk. Has a sweet taste."
+msgstr ""
+
+#: .\comestibles.json
+msgid "tofu"
+msgid_plural "tofu"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tofu', 'str_pl': 'tofu'}
+#: .\comestibles.json
+msgid "A traditional japanese mainstay. Solidified soy milk."
+msgstr ""
+
+#: .\comestibles.json
+msgid "aburage"
+msgid_plural "aburage"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'aburage', 'str_pl': 'aburage'}
+#: .\comestibles.json
+msgid ""
+"Aburaage, also known as usu-age, is a type of Japanese deep-fried tofu (bean"
+" curd)."
+msgstr ""
+
+#: .\comestibles.json
+msgid "unohana"
+msgid_plural "unohana"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'unohana', 'str_pl': 'unohana'}
+#: .\comestibles.json
+msgid ""
+"Stir-fried okara with vegetables and shiitake mushroom. Delicious and sweet."
+msgstr ""
+
+#: .\comestibles.json
+msgid "natto"
+msgid_plural "natto"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'natto', 'str_pl': 'natto'}
+#: .\comestibles.json
+msgid ""
+"Fermented soybeans using Bacillus natto. A mainstay of Japanese cuisine."
+msgstr ""
+
+#: .\comestibles.json
+msgid "natto (unripe)"
+msgid_plural "natto (unripe)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'natto (unripe)', 'str_pl': 'natto (unripe)'}.
+#: .\comestibles.json
+msgid "Now that's a unique smell! done!"
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'natto (unripe)', 'str_pl': 'natto
+#. (unripe)'}.
+#: .\comestibles.json
+msgid "Currently fermenting."
+msgstr ""
+
+#. ~ Description for {'str': 'natto (unripe)', 'str_pl': 'natto (unripe)'}
+#: .\comestibles.json
+msgid ""
+"Wrapped in soybeans. There are already natto bacteria in the beans, thus it "
+"is not necessary add any additional bacteria. It is only safe to leave them "
+"out for one day."
+msgstr ""
+
+#: .\comestibles.json
+msgid "dried natto"
+msgid_plural "dried natto"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dried natto', 'str_pl': 'dried natto'}
+#: .\comestibles.json
+msgid ""
+"Special product of Ibaraki mixed with natto. The natto is sun-dried to "
+"enable long-term storage. The bacteria does not die when sun-dried alone, "
+"does not die when boiled, and does it die from high concentration radiation."
+" Like little waterbears."
+msgstr ""
+
+#: .\comestibles.json
+msgid "miso soup"
+msgid_plural "miso soup"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'miso soup', 'str_pl': 'miso soup'}
+#: .\comestibles.json
+msgid "Japanese-style soup with miso. Eat with plenty of vegetables."
+msgstr ""
+
+#: .\comestibles.json
+msgid "natto soup"
+msgid_plural "natto soup"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'natto soup', 'str_pl': 'natto soup'}
+#: .\comestibles.json
+msgid ""
+"Miso soup with natto added. Looks good for you, but isn't particularly."
+msgstr ""
+
+#: .\comestibles.json
+msgid "sealed bottle (miso soup)"
+msgid_plural "sealed bottles (miso soup)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'sealed bottle (miso soup)', 'str_pl': 'sealed
+#. bottles (miso soup)'}.
+#. ~ Use action msg for {'str': 'sealed bottle (natto soup)', 'str_pl':
+#. 'sealed bottles (natto soup)'}.
+#: .\comestibles.json
+msgid "You opened the lid of the sealed bottle, exposing the contents."
+msgstr ""
+
+#. ~ Description for {'str': 'sealed bottle (miso soup)', 'str_pl': 'sealed
+#. bottles (miso soup)'}
+#: .\comestibles.json
+msgid "A sealed glass jar containing miso soup. Edible after opening the lid."
+msgstr ""
+
+#: .\comestibles.json
+msgid "sealed bottle (natto soup)"
+msgid_plural "sealed bottles (natto soup)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sealed bottle (natto soup)', 'str_pl': 'sealed
+#. bottles (natto soup)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing natto soup. You can eat if you open the lid."
+msgstr ""
+
+#: .\comestibles.json
+msgid "Tofu hamburger"
+msgid_plural "Tofu hamburgers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tofu hamburger', 'str_pl': 'Tofu hamburgers'}
+#: .\comestibles.json
+msgid ""
+"A baked patty of tofu and milled flour. A juicy morsel for all vegetarians."
+msgstr ""
+
+#: .\comestibles.json
+msgid "tofu cheeseburger"
+msgid_plural "tofu cheeseburgers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tofu cheeseburger', 'str_pl': 'tofu
+#. cheeseburgers'}
+#: .\comestibles.json
+msgid "A tofu hamburger with cheese."
+msgstr ""
+
+#: .\comestibles.json
+msgid "Tofu hamburger patty"
+msgid_plural "Tofu hamburger patties"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tofu hamburger patty', 'str_pl': 'Tofu hamburger
+#. patties'}
+#: .\comestibles.json
+msgid "Just a round of tofu and flour. Bake and eat."
+msgstr ""
+
+#: .\comestibles.json
+msgid "vacuum pack (tofu hamburger patty)"
+msgid_plural "vacuum packs (tofu hamburger patty)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'vacuum pack (tofu hamburger patty)',
+#. 'str_pl': 'vacuum packs (tofu hamburger patty)'}.
+#. ~ Use action msg for {'str': 'vacuum pack (natto bread)', 'str_pl': 'vacuum
+#. packs (natto bread)'}.
+#: .\comestibles.json
+msgid "You open the vacuum pack, exposing the contents."
+msgstr ""
+
+#. ~ Description for {'str': 'vacuum pack (tofu hamburger patty)', 'str_pl':
+#. 'vacuum packs (tofu hamburger patty)'}
+#: .\comestibles.json
+msgid ""
+"A vacuum pack of plastic packaging containing tofu hamburger patties. Bake "
+"after opening it."
+msgstr ""
+
+#: .\comestibles.json
+msgid "triple tofu burger"
+msgid_plural "triple tofu burgers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'triple tofu burger', 'str_pl': 'triple tofu
+#. burgers'}
+#: .\comestibles.json
+msgid ""
+"A legendary item off the menu of the burger chain sozai official name: "
+"triple toast."
+msgstr ""
+
+#: .\comestibles.json
+msgid "soymilk cheese"
+msgid_plural "soymilk cheese"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soymilk cheese', 'str_pl': 'soymilk cheese'}
+#: .\comestibles.json
+msgid ""
+"Cheese made from soy milk. Not as rich as normal cheese, but refreshing "
+"none-the-less."
+msgstr ""
+
+#. ~ Description for {'str': 'koji', 'str_pl': 'koji'}
+#: .\comestibles.json
+msgid ""
+"A food made in the Heian period. The alkali of wood ash kills only bacteria "
+"that prefer potassium and phosphorus."
+msgstr ""
+
+#: .\comestibles.json
+msgid "koji (immature)"
+msgid_plural "koji (immature)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'koji (immature)'}.
+#: .\comestibles.json
+msgid "Culture complete! done!"
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'koji (immature)'}.
+#: .\comestibles.json
+msgid "Culturing koji."
+msgstr ""
+
+#. ~ Description for {'str': 'koji (immature)'}
+#: .\comestibles.json
+msgid ""
+"Rice bran to grow on steamed rice and soybeans. Mixing wood ash is a recipe "
+"using Singa from the Heian period. Considered the best way to obtain proper "
+"bean sprouts."
+msgstr ""
+
+#: .\comestibles.json
+msgid "zunda"
+msgid_plural "zunda"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'zunda', 'str_pl': 'zunda'}
+#: .\comestibles.json
+msgid "A ground of edamame. Becomes the raw material of zunder sweets."
+msgstr ""
+
+#: .\comestibles.json
+msgid "kinako"
+msgid_plural "kinako"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'kinako', 'str_pl': 'kinako'}
+#: .\comestibles.json
+msgid "Mashed soybean. Becomes the raw material of Japanese sweets."
+msgstr ""
+
+#: .\comestibles.json
+msgid "mirin"
+msgid_plural "mirin"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mirin', 'str_pl': 'mirin'}
+#: .\comestibles.json
+msgid ""
+"Miso. One of the seasonings that adds sweet and sour taste to Japanese food."
+msgstr ""
+
+#: .\comestibles.json
+msgid "mirin (unfermented)"
+msgid_plural "mirin (unfermented)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mirin (unfermented)', 'str_pl': 'mirin
+#. (unfermented)'}
+#: .\comestibles.json
+msgid "Becomes miso when it is aged. Takes about 70 hours to ferment."
+msgstr ""
+
+#: .\comestibles.json
+msgid "nikujaga"
+msgid_plural "nikujaga"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'nikujaga', 'str_pl': 'nikujaga'}
+#: .\comestibles.json
+msgid ""
+"Japanese food that is said to have been made by a certain famous naval "
+"general. It is quite sweet."
+msgstr ""
+
+#: .\comestibles.json
+msgid "sealed jar (nikujaga)"
+msgid_plural "sealed jars (nikujaga)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'sealed jar (nikujaga)', 'str_pl': 'sealed
+#. jars (nikujaga)'}.
+#. ~ Use action msg for {'str': 'sealed jar (soymilk stew)', 'str_pl': 'sealed
+#. jars (soymilk stew)'}.
+#: .\comestibles.json
+msgid "You open the lid of the sealed bottle, exposing the contents."
+msgstr ""
+
+#. ~ Description for {'str': 'sealed jar (nikujaga)', 'str_pl': 'sealed jars
+#. (nikujaga)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing meat and potatoes. Eatable after the lid is "
+"opened."
+msgstr ""
+
+#: .\comestibles.json
+msgid "boiled edamame"
+msgid_plural "boiled edamame"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'boiled edamame', 'str_pl': 'boiled edamame'}
+#: .\comestibles.json
+msgid "Boiled green soybeans."
+msgstr ""
+
+#: .\comestibles.json
+msgid "inari"
+msgid_plural "inari"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inari', 'str_pl': 'inari'}
+#: .\comestibles.json
+msgid "A rice ball wrapped in sweetened fried rice."
+msgstr ""
+
+#: .\comestibles.json
+msgid "yuba"
+msgid_plural "yuba"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'yuba', 'str_pl': 'yuba'}
+#: .\comestibles.json
+msgid ""
+"Boiling soymilk changes the surface into a film. This is called the Ramsden "
+"phenomenon."
+msgstr ""
+
+#: .\comestibles.json
+msgid "grilled yuba"
+msgid_plural "grilled yuba"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grilled yuba', 'str_pl': 'grilled yuba'}
+#: .\comestibles.json
+msgid ""
+"A dish made out of grilled yuba. Yuba no Yakiyaki (grilled eel) and Seto bou"
+" (pickles)."
+msgstr ""
+
+#: .\comestibles.json
+msgid "soymilk stew"
+msgid_plural "soymilk stew"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'soymilk stew', 'str_pl': 'soymilk stew'}
+#: .\comestibles.json
+msgid "It is a stew made based on soymilk."
+msgstr ""
+
+#: .\comestibles.json
+msgid "sealed jar (soymilk stew)"
+msgid_plural "sealed jars (soymilk stew)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sealed jar (soymilk stew)', 'str_pl': 'sealed
+#. jars (soymilk stew)'}
+#: .\comestibles.json
+msgid ""
+"A sealed glass jar containing soymilk stew. Eatable once the lid is opened."
+msgstr ""
+
+#: .\comestibles.json
+msgid "natto bread"
+msgid_plural "natto bread"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'natto bread', 'str_pl': 'natto bread'}
+#: .\comestibles.json
+msgid "Bread containing natto."
+msgstr ""
+
+#: .\comestibles.json
+msgid "vacuum pack (natto bread)"
+msgid_plural "vacuum packs (natto bread)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'vacuum pack (natto bread)', 'str_pl': 'vacuum
+#. packs (natto bread)'}
+#: .\comestibles.json
+msgid ""
+"A vacuum pack of plastic packaging containing natto bread. Eatable once "
+"opened."
+msgstr ""
+
+#: .\containers.json
+msgid "straw pack"
+msgid_plural "straw packs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'straw pack', 'str_pl': 'straw packs'}
+#: .\containers.json
+msgid "It is a mochi which wrapped natto. Reusable."
+msgstr ""
+
+#: .\melee.json
+msgid "Flowerpot (developing green soybeans)"
+msgid_plural "Flowerpots (developing green soybeans)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'Flowerpot (developing green soybeans)',
+#. 'str_pl': 'Flowerpots (developing green soybeans)'}.
+#: .\melee.json
+msgid "Edamame is ripe!"
+msgstr ""
+
+#. ~ Use action not_ready_msg for {'str': 'Flowerpot (developing green
+#. soybeans)', 'str_pl': 'Flowerpots (developing green soybeans)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flowerpot (during soybean
+#. cultivation)', 'str_pl': 'Flowerpots (during soybean cultivation)'}.
+#: .\melee.json
+msgid "It's growing up quickly."
+msgstr ""
+
+#. ~ Description for {'str': 'Flowerpot (developing green soybeans)',
+#. 'str_pl': 'Flowerpots (developing green soybeans)'}
+#: .\melee.json
+msgid "It is a flowerpot that is raising edamame."
+msgstr ""
+
+#: .\melee.json
+msgid "Flowerpot (Edamame)"
+msgid_plural "Flowerpots (Edamame)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Flowerpot (Edamame)', 'str_pl': 'Flowerpots
+#. (Edamame)'}
+#: .\melee.json
+msgid "It is a flowerpot where edamame has grown."
+msgstr ""
+
+#: .\melee.json
+msgid "Flowerpot (during soybean cultivation)"
+msgid_plural "Flowerpots (during soybean cultivation)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'Flowerpot (during soybean cultivation)',
+#. 'str_pl': 'Flowerpots (during soybean cultivation)'}.
+#: .\melee.json
+msgid "Soy has been produced!"
+msgstr ""
+
+#. ~ Description for {'str': 'Flowerpot (during soybean cultivation)',
+#. 'str_pl': 'Flowerpots (during soybean cultivation)'}
+#: .\melee.json
+msgid "It is a plant pot that grows soybeans."
+msgstr ""
+
+#: .\melee.json
+msgid "Flowerpot (Soy)"
+msgid_plural "Flowerpots (Soy)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Flowerpot (Soy)', 'str_pl': 'Flowerpots (Soy)'}
+#: .\melee.json
+msgid "It is a plant pot that has grown soybeans."
+msgstr ""
+
+#: .\melee.json
+msgid "Miso barrel"
+msgid_plural "Miso barrels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Miso barrel', 'str_pl': 'Miso barrels'}
+#: .\melee.json
+msgid ""
+"It is a barrel for miso made of wood. It is safe to take out the finished "
+"miso and use it again."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Soy mod"
+msgstr ""
+
+#. ~ Description for Soy mod
+#: .\modinfo.json
+msgid "Adds soy and soy cooking related recipes. If you feel like it, please."
+msgstr ""

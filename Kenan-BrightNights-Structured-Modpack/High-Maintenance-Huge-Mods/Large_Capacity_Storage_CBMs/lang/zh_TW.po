@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: eps_cbm\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\bionics.json
+msgid "Extra Power Storage"
+msgstr "額外能量存儲"
+
+#. ~ Description for {'str': 'Extra Power Storage'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. This module alone increases the storage capacity by 150 "
+"kJ, but you can not use the same thing more than once."
+msgstr "這是一箇中型模塊，可獨立於存儲設備增加存儲容量。僅此模塊即可將存儲容量提高150千焦，但同一模塊不能使用超過一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage CBM"
+msgid_plural "Extra Power Storage CBMs"
+msgstr[0] "額外能量存儲CBM"
+
+#. ~ Description for {'str': 'Extra Power Storage CBM', 'str_pl': 'Extra Power
+#. Storage CBMs'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. This module alone increases the storage capacity by "
+"1000, but you can not use the same thing more than once."
+msgstr "這是一箇中型模塊，可獨立於存儲設備增加存儲容量。僅此模塊即可將存儲容量提高1000，但同一模塊不能使用超過一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage MK.2"
+msgstr "額外能量存儲MK.2"
+
+#. ~ Description for {'str': 'Extra Power Storage MK.2'}
+#: .\bionics.json
+msgid ""
+"It is a medium-sized module that increases storage capacity separately from "
+"the storage device. Although this module alone increases storage capacity by"
+" 400 kJ, the same thing can not be used more than once."
+msgstr "這是一箇中型模塊，可獨立於存儲設備增加存儲容量。雖然僅此模塊即可將存儲容量提高400千焦，但同一模塊不能使用超過一次。"
+
+#: .\bionics.json
+msgid "Extra Power Storage Upgrade CBM"
+msgid_plural "Extra Power Storage Upgrade CBMs"
+msgstr[0] "額外能量存儲升級CBM"
+
+#. ~ Description for {'str': 'Extra Power Storage Upgrade CBM', 'str_pl':
+#. 'Extra Power Storage Upgrade CBMs'}
+#: .\bionics.json
+msgid ""
+"This is an improved kit that strengthens the body expansion type storage "
+"device to MK.II. This module can not be handled alone."
+msgstr "這是一個改進套件，可將身體擴展型存儲設備強化至MK.II。此模塊無法單獨使用。"
+
+#: .\modinfo.json
+msgid "Large capacity storage CBMs"
+msgstr "大容量存儲型CBM"
+
+#. ~ Description for Large capacity storage CBMs
+#: .\modinfo.json
+msgid "Adds a large capacity storage device CBM."
+msgstr "添加一種大容量存儲設備CBM。"

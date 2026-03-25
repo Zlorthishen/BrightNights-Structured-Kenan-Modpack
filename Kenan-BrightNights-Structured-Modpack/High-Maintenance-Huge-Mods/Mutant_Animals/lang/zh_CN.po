@@ -1,0 +1,1525 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mutant_animals\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\ammo.json .\fake_item.json
+msgid "bile"
+msgid_plural "biles"
+msgstr[0] "胆汁"
+
+#. ~ Description for {'str': 'bile'}
+#: .\ammo.json
+msgid "Animal bile ejected from some orfice."
+msgstr "从某个孔道排出的动物胆汁。"
+
+#: .\ammo.json .\fake_item.json
+msgid "mucus"
+msgid_plural "mucuss"
+msgstr[0] "粘液"
+
+#. ~ Description for {'str': 'mucus'}
+#: .\ammo.json
+msgid "Animal mucus ejected from some orfice."
+msgstr "从某个孔道排出的动物粘液。"
+
+#: .\ammo.json
+msgid "watery plutonium slurry"
+msgid_plural "watery plutonium slurrys"
+msgstr[0] "稀钚浆"
+
+#. ~ Description for {'str': 'watery plutonium slurry'}
+#: .\ammo.json
+msgid ""
+"Highly radioactive slurry.  It is probably best to get far away from this."
+msgstr "高放射性泥浆。最好离这东西远点。"
+
+#: .\ammo_types.json
+msgid "Bile"
+msgstr "胆汁"
+
+#: .\ammo_types.json
+msgid "Mucus"
+msgstr "黏液"
+
+#: .\effects.json
+msgid "Rat Fever"
+msgstr "鼠热病"
+
+#. ~ Description of effect 'Rat Fever'.
+#: .\effects.json
+msgid "You have contracted a viral infection from a rat bite."
+msgstr "你因老鼠咬伤感染了病毒。"
+
+#. ~ Apply message for effect(s) 'Rat Fever'.
+#: .\effects.json
+msgid "You have contracted a fever."
+msgstr "你感染了发热症状。"
+
+#: .\fake_item.json
+msgid "water"
+msgid_plural "waters"
+msgstr[0] "水"
+
+#: .\fake_item.json
+msgid ""
+"This is a pseudo item for monster attacks. If you see this, it's a bug."
+msgstr "这是用于怪物攻击的伪物品。如果你看到这个，那是个错误。"
+
+#: .\fake_item.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\fake_item.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手枪"
+
+#: .\fake_item.json
+msgid "ink"
+msgid_plural "inks"
+msgstr[0] "墨水"
+
+#: .\harvest.json
+msgid "This animal is covered in thick layers of blubber."
+msgstr "这只动物覆盖着厚厚的脂肪层。"
+
+#: .\harvest.json
+msgid "This strange animal has metal bones."
+msgstr "这只奇怪的动物长着金属骨骼。"
+
+#: .\items_egg.json
+msgid "bird egg"
+msgid_plural "bird eggs"
+msgstr[0] "鸟蛋"
+
+#. ~ Description for {'str': 'bird egg'}
+#: .\items_egg.json
+msgid "Nutritious egg laid by a bird."
+msgstr "鸟类产下的营养丰富的蛋。"
+
+#: .\items_egg.json
+msgid "songbird egg"
+msgid_plural "songbird eggs"
+msgstr[0] "鸣禽蛋"
+
+#: .\items_egg.json
+msgid "vultch egg"
+msgid_plural "vultch eggs"
+msgstr[0] "秃鹫蛋"
+
+#: .\items_egg.json
+msgid "iridescent egg"
+msgid_plural "iridescent eggs"
+msgstr[0] "虹彩蛋"
+
+#: .\items_egg.json
+msgid "ghoul bird egg"
+msgid_plural "ghoul bird eggs"
+msgstr[0] "食尸鸟蛋"
+
+#. ~ Description for {'str': 'ghoul bird egg'}
+#: .\items_egg.json
+msgid "Poisonous egg laid by a bird."
+msgstr "鸟类产下的有毒蛋。"
+
+#: .\items_egg.json
+msgid "elephant egg"
+msgid_plural "elephant eggs"
+msgstr[0] "大象蛋"
+
+#: .\modinfo.json
+msgid "Mutant Animals"
+msgstr "变异动物"
+
+#. ~ Description for Mutant Animals
+#: .\modinfo.json
+msgid ""
+"Expansion for animals that makes them evolve over time into new mutated "
+"versions. Some of them, though, they are weird, become tameable, very "
+"friendly, useful mutated versions. Some of them, however, whether they are "
+"weird or not, become ferocious, grotesque, dangerous mutants."
+msgstr ""
+"动物扩展模组，使它们随时间进化成新的变异版本。其中一些变得古怪、可驯服、非常友好且有用；另一些则无论是否古怪，都会变成凶猛、怪异且危险的突变体。"
+
+#: .\monsters.json
+msgid "songbird"
+msgid_plural "songbirds"
+msgstr[0] "鸣禽"
+
+#. ~ Description for {'str': 'songbird'}
+#: .\monsters.json
+msgid "A tiny bird with a noteable singing voice."
+msgstr "一种以显著歌喉著称的小鸟。"
+
+#: .\monsters.json
+msgid "gargoyle"
+msgid_plural "gargoyles"
+msgstr[0] "石像鬼"
+
+#. ~ Description for {'str': 'gargoyle'}
+#: .\monsters.json
+msgid ""
+"A flying mutant beast. It's unclear whether this is a bear that has grown "
+"leathery wings or a bat that has grown to a massive size.  Either way, the "
+"result is ugly and unfriendly."
+msgstr "一种飞行的突变野兽。不清楚这是长出皮质翅膀的熊，还是体型巨大的蝙蝠。无论如何，结果都丑陋且不友好。"
+
+#: .\monsters.json
+msgid "jacked rabbit"
+msgid_plural "jacked rabbits"
+msgstr[0] "壮硕兔"
+
+#. ~ Description for {'str': 'jacked rabbit'}
+#: .\monsters.json
+msgid ""
+"A wild hare that has grown to the size of a horse. Despite its bulk, this "
+"mutant creature is incredibly fast-moving, capable of outrunning almost "
+"anything alive.  If only you could put a saddle on it..."
+msgstr "一种长到马匹大小的野兔。尽管体型庞大，这种突变生物移动速度惊人，几乎能超越任何活物。要是能给它装上鞍具就好了……"
+
+#: .\monsters.json
+msgid "aerostatic octopod"
+msgid_plural "aerostatic octopods"
+msgstr[0] "浮空八爪鱼"
+
+#. ~ Description for {'str': 'aerostatic octopod'}
+#: .\monsters.json
+msgid ""
+"A mutant octopus floating on a bladder of lighter-than-air gas.  Due to its "
+"inflated gas sac, it has the volume of a small car, but only has the mass as"
+" a human. A curious creature, it has drifted in from the ocean to explore "
+"dry land."
+msgstr ""
+"一种依靠轻于空气的气囊漂浮的突变章鱼。由于膨胀的气囊，其体积相当于一辆小型汽车，但质量仅如人类。这种好奇的生物从海洋漂流而来，探索干燥的陆地。"
+
+#: .\mutant_animals.json
+msgid "mutant animal"
+msgid_plural "mutant animals"
+msgstr[0] "变异动物"
+
+#. ~ Description for {'str': 'mutant animal'}
+#: .\mutant_animals.json
+msgid "Generic animal. Initial stats based off the groundhog."
+msgstr "通用动物。初始属性基于土拨鼠。"
+
+#: .\mutant_animals.json
+msgid "mutant tunneler"
+msgid_plural "mutant tunnelers"
+msgstr[0] "突变掘地兽"
+
+#. ~ Description for {'str': 'mutant tunneler'}
+#: .\mutant_animals.json
+msgid ""
+"A strange mutated creature about the size of a large cat.  It tunnels "
+"through the earth using spade-like teeth and long claws."
+msgstr "一种体型如大猫般大小的奇怪突变生物。它利用铲状牙齿和长爪在地下掘洞穿行。"
+
+#: .\mutant_animals.json
+msgid "mutant runner"
+msgid_plural "mutant runners"
+msgstr[0] "突变疾行兽"
+
+#. ~ Description for {'str': 'mutant runner'}
+#: .\mutant_animals.json
+msgid ""
+"An odd mutated creature about the size of a large cat.  A set of long "
+"spindly limbs carry its sleek form across the post apocalyptic landscape."
+msgstr "一种体型如大猫般大小的奇特突变生物。它用一组细长的四肢，在末日后的荒原上拖曳着光滑的身躯移动。"
+
+#: .\mutant_animals.json
+msgid "mutant flyer"
+msgid_plural "mutant flyers"
+msgstr[0] "突变飞行兽"
+
+#. ~ Description for {'str': 'mutant flyer'}
+#: .\mutant_animals.json
+msgid ""
+"A weird mutated creature about the size of a large cat.  It flies with its "
+"arms and legs which have become twon sets of bat-like wings."
+msgstr "一种体型如大猫般大小的怪异突变生物。它用已变成两对蝙蝠状翅膀的四肢飞行。"
+
+#: .\mutant_animals.json
+msgid "mutant swimmer"
+msgid_plural "mutant swimmers"
+msgstr[0] "突变游水兽"
+
+#. ~ Description for {'str': 'mutant swimmer'}
+#: .\mutant_animals.json
+msgid ""
+"A queer mutated creature about the size of a large cat.  It has adapted to "
+"life both in and out of water, having gills and fins, as well as two stubby "
+"legs."
+msgstr "一种体型如大猫般大小的奇异突变生物。它已适应水陆两栖生活，拥有鳃和鳍，以及两条粗短的腿。"
+
+#: .\mutant_animals.json
+msgid "mutant lurker"
+msgid_plural "mutant lurkers"
+msgstr[0] "突变潜行兽"
+
+#. ~ Description for {'str': 'mutant lurker'}
+#: .\mutant_animals.json
+msgid ""
+"A shy mutated creature about the size of a large cat.  It lopes through the "
+"night on a dozen tentacles terminating in sharp claws."
+msgstr "一种体型如大猫般大小的害羞突变生物。它在夜间用十二根末端带利爪的触手蹒跚而行。"
+
+#: .\mutant_animals.json
+msgid "mutant swallower"
+msgid_plural "mutant swallowers"
+msgstr[0] "突变吞噬兽"
+
+#. ~ Description for {'str': 'mutant swallower'}
+#: .\mutant_animals.json
+msgid ""
+"A bizarre mutated creature about the size of a large cat.  It snatches up "
+"prey with its expansive mouth and traps it within a large translucent neck-"
+"sack."
+msgstr "一种体型如大猫般大小的离奇突变生物。它用其宽阔的大口攫取猎物，并将其困在一个巨大的半透明颈囊中。"
+
+#: .\mutant_animals.json
+msgid "mutant babler"
+msgid_plural "mutant bablers"
+msgstr[0] "突变呢喃兽"
+
+#. ~ Description for {'str': 'mutant babler'}
+#: .\mutant_animals.json
+msgid ""
+"An odd mutated creature about the size of a large cat.  It makes weird "
+"mumbling sounds as it prowls through the forests."
+msgstr "一种体型如大猫般大小的奇特突变生物。它在森林中潜行时会发出怪异的咕哝声。"
+
+#: .\mutant_animals.json
+msgid "mutant gasser"
+msgid_plural "mutant gassers"
+msgstr[0] "突变喷气兽"
+
+#. ~ Description for {'str': 'mutant gasser'}
+#: .\mutant_animals.json
+msgid ""
+"An odd mutated creature about the size of a large cat.  It emits a toxic gas"
+" from spinal vents to ward off predators."
+msgstr "一种体型如大猫般大小的奇特突变生物。它会从脊柱的排气孔中释放有毒气体以驱赶捕食者。"
+
+#: .\mutant_birds.json
+msgid "mutant songbird"
+msgid_plural "mutant songbirds"
+msgstr[0] "突变鸣禽"
+
+#. ~ Description for {'str': 'mutant songbird'}
+#: .\mutant_birds.json
+msgid "A mutant songbird that makes otherworldy music."
+msgstr "一种能发出超凡脱俗音乐的突变鸣禽。"
+
+#: .\mutant_birds.json
+msgid "mutant bird"
+msgid_plural "mutant birds"
+msgstr[0] "突变鸟"
+
+#. ~ Description for {'str': 'mutant bird'}
+#: .\mutant_birds.json
+msgid "A mutating bird."
+msgstr "一只正在突变的鸟。"
+
+#: .\mutant_birds.json
+msgid "deformed bird chick"
+msgid_plural "deformed bird chicks"
+msgstr[0] "畸形雏鸟"
+
+#. ~ Description for {'str': 'deformed bird chick'}
+#: .\mutant_birds.json
+msgid ""
+"A sickly deformed bird chick.  If it survives it could mutate into something"
+" even stranger."
+msgstr "一只病态的畸形雏鸟。如果它能存活下来，可能会突变成更奇怪的东西。"
+
+#: .\mutant_birds.json
+msgid "malformed avian"
+msgid_plural "malformed avians"
+msgstr[0] "畸形禽类"
+
+#. ~ Description for {'str': 'malformed avian'}
+#: .\mutant_birds.json
+msgid ""
+"A mutating bird no longer capable of flight due to its twisted and "
+"asymetrical wings."
+msgstr "一只正在突变的鸟，因其扭曲且不对称的翅膀而无法再飞行。"
+
+#: .\mutant_birds.json
+msgid "irradiated bird"
+msgid_plural "irradiated birds"
+msgstr[0] "辐射鸟"
+
+#. ~ Description for {'str': 'irradiated bird'}
+#: .\mutant_birds.json
+msgid "A mutating bird afflicted with serious radiation burns."
+msgstr "一只遭受严重辐射灼伤的突变鸟。"
+
+#: .\mutant_birds.json
+msgid "plague bird"
+msgid_plural "plague birds"
+msgstr[0] "瘟疫鸟"
+
+#. ~ Description for {'str': 'plague bird'}
+#: .\mutant_birds.json
+msgid "A mutating bird suffering from the symptoms of a flesh eating virus."
+msgstr "一只正遭受食肉病毒症状折磨的突变鸟。"
+
+#: .\mutant_birds.json
+msgid "two headed vultch"
+msgid_plural "two headed vultchs"
+msgstr[0] "双头秃鹫"
+
+#. ~ Description for {'str': 'two headed vultch'}
+#: .\mutant_birds.json
+msgid ""
+"A mutated bird about the size of an eagle.  It has two featherless heads and"
+" necks growing from its squat body.  The vultch can eject streams of sticky "
+"bile when threatened."
+msgstr "一种体型如鹰般大小的突变鸟。它矮胖的身体上长着两个无毛的头和脖子。这种秃鹫在受到威胁时可以喷射出粘稠的胆汁流。"
+
+#: .\mutant_birds.json
+msgid "two headed chick"
+msgid_plural "two headed chicks"
+msgstr[0] "双头雏鸟"
+
+#. ~ Description for {'str': 'two headed chick'}
+#: .\mutant_birds.json
+msgid "A sickly deformed bird chick growing a second head."
+msgstr "一只病态畸形的雏鸟，长出了第二个头。"
+
+#: .\mutant_birds.json
+msgid "wing thing"
+msgid_plural "wing things"
+msgstr[0] "翼状怪"
+
+#. ~ Description for {'str': 'wing thing'}
+#: .\mutant_birds.json
+msgid ""
+"A mutated bird about the size of an albatross.  This monster is a grotesque "
+"mass of writhing tentacles and blinking eyes.  Only its eight feathered "
+"wings give any clue that it was once a common species of avian."
+msgstr "一只信天翁大小的变异鸟类。这怪物是一团扭曲触手与眨动眼睛的怪诞聚合体。唯有其八只羽翼暗示它曾是某种常见鸟类。"
+
+#: .\mutant_birds.json
+msgid "iridescent bird"
+msgid_plural "iridescent birds"
+msgstr[0] "虹彩鸟"
+
+#. ~ Description for {'str': 'iridescent bird'}
+#: .\mutant_birds.json
+msgid ""
+"A mutated bird about the size of a goose.  A proud creature covered in "
+"glittering feathers far more colorful than any parrot or peacock of the old "
+"world.  Unlike other mutants, this bird is agreeable enough to be tamed."
+msgstr "一只鹅大小的变异鸟类。这只骄傲的生物覆盖着闪亮的羽毛，比旧世界的任何鹦鹉或孔雀都更加绚丽。与其他变异体不同，这种鸟性情温顺，可被驯服。"
+
+#: .\mutant_birds.json
+msgid "ghoul bird"
+msgid_plural "ghoul birds"
+msgstr[0] "食尸鸟"
+
+#. ~ Description for {'str': 'ghoul bird'}
+#: .\mutant_birds.json
+msgid ""
+"A mutated bird about the size of a crow.  Although primarily a scavenger, it"
+" will attack agressively with a razor sharp beak capable of causing infected"
+" bite wounds.  Its ability to digest rotting and tainted flesh makes it well"
+" adapted to the current world."
+msgstr "一只乌鸦大小的变异鸟类。虽然主要食腐，但它会以能造成感染性咬伤的锋利鸟喙发起凶猛攻击。其消化腐烂与污染肉类的能力使其能很好适应当前世界。"
+
+#: .\mutant_birds.json
+msgid "elephant bird"
+msgid_plural "elephant birds"
+msgstr[0] "象鸟"
+
+#. ~ Description for {'str': 'elephant bird'}
+#: .\mutant_birds.json
+msgid ""
+"A mutated bird about the twice size of an ostrich and with a similar shape."
+"  Its beak has been replaced with a long sinuous trunk that can grab hold of"
+" smaller creatures.  The elephant bird is highly territorial and aggressive."
+msgstr "一只体型两倍于鸵鸟且外形相似的变异鸟类。其鸟喙被一条能抓握小型生物的长而蜿蜒的象鼻取代。象鸟具有强烈的领地意识且极具攻击性。"
+
+#: .\mutant_birds.json
+msgid "large deformed bird chick"
+msgid_plural "large deformed bird chicks"
+msgstr[0] "大型畸形雏鸟"
+
+#. ~ Description for {'str': 'large deformed bird chick'}
+#: .\mutant_birds.json
+msgid ""
+"A deformed bird chick already grown to the size of a turkey. How big will "
+"this thing get?"
+msgstr "一只已长到火鸡大小的畸形雏鸟。这东西究竟能长到多大？"
+
+#: .\mutant_canines.json
+msgid "mutant dog"
+msgid_plural "mutant dogs"
+msgstr[0] "变异犬"
+
+#. ~ Description for {'str': 'mutant dog'}
+#: .\mutant_canines.json
+msgid "A mutating canine."
+msgstr "一只正在变异的犬科动物。"
+
+#: .\mutant_canines.json
+msgid "mutant whelp"
+msgid_plural "mutant whelps"
+msgstr[0] "变异幼犬"
+
+#. ~ Description for {'str': 'mutant whelp'}
+#: .\mutant_canines.json
+msgid "A deformed and mutating canine whelp."
+msgstr "一只畸形且正在变异的幼犬。"
+
+#: .\mutant_canines.json
+msgid "scab dog"
+msgid_plural "scab dogs"
+msgstr[0] "痂皮犬"
+
+#. ~ Description for {'str': 'scab dog'}
+#: .\mutant_canines.json
+msgid ""
+"A mutating canine covered in scabs and bloody lesions.  Although weak from "
+"disease, the animal is deranged and highly aggressive."
+msgstr "一只覆盖着痂皮与血淋淋病灶的变异犬科动物。尽管因疾病而虚弱，但这动物精神错乱且极具攻击性。"
+
+#: .\mutant_canines.json
+msgid "blister dog"
+msgid_plural "blister dogs"
+msgstr[0] "水疱犬"
+
+#. ~ Description for {'str': 'blister dog'}
+#: .\mutant_canines.json
+msgid ""
+"A mutating canine covered in giant blisters.  Although weak from disease, "
+"the animal is deranged and highly aggressive."
+msgstr "一只覆盖着巨大水疱的变异犬科动物。尽管因疾病而虚弱，但这动物精神错乱且极具攻击性。"
+
+#: .\mutant_canines.json
+msgid "pus dog"
+msgid_plural "pus dogs"
+msgstr[0] "脓液犬"
+
+#. ~ Description for {'str': 'pus dog'}
+#: .\mutant_canines.json
+msgid ""
+"A mutating canine with rancid pus dripping from its patchy fur.  Although "
+"weak from disease, the animal is deranged and highly aggressive."
+msgstr "一只从其斑驳皮毛中滴下恶臭脓液的变异犬科动物。尽管因疾病而虚弱，但这动物精神错乱且极具攻击性。"
+
+#: .\mutant_canines.json
+msgid "deformed whelp"
+msgid_plural "deformed whelps"
+msgstr[0] "畸形幼犬"
+
+#. ~ Description for {'str': 'deformed whelp'}
+#: .\mutant_canines.json
+msgid "A mutating puppy with patchy fur and malformed limbs."
+msgstr "一只皮毛斑驳、四肢畸形的变异幼犬。"
+
+#: .\mutant_canines.json
+msgid "worm dog"
+msgid_plural "worm dogs"
+msgstr[0] "蠕虫犬"
+
+#. ~ Description for {'str': 'worm dog'}
+#: .\mutant_canines.json
+msgid ""
+"A former canine mutated into a hairless monster with a thick tail and long "
+"neck. Multifaceted eyes sprout irregularly atop its elongated skull."
+msgstr "一只由犬科动物变异而成的无毛怪物，拥有粗壮的尾巴与长颈。其细长的头骨上不规则地生长着复眼。"
+
+#: .\mutant_canines.json
+msgid "wormling"
+msgid_plural "wormlings"
+msgstr[0] "蠕虫幼体"
+
+#. ~ Description for {'str': 'wormling'}
+#: .\mutant_canines.json
+msgid ""
+"The wriggling offspring of a worm dog. Multifaceted eyes sprout irregularly "
+"atop its elongated skull."
+msgstr "蠕虫犬扭动着的后代。其细长的头骨上不规则地生长着复眼。"
+
+#: .\mutant_canines.json
+msgid "happysmile dog"
+msgid_plural "happysmile dogs"
+msgstr[0] "欢颜犬"
+
+#. ~ Description for {'str': 'happysmile dog'}
+#: .\mutant_canines.json
+msgid ""
+"A former canine mutated into a skinless monster with an oversized head and "
+"multiple rows of venomous fangs. Its absurdly wide mouth makes it appear to "
+"have a permanent smile."
+msgstr "一只由犬科动物变异而成的无皮怪物，拥有过大的头部与多排毒牙。其异常宽阔的嘴巴使其看起来永远保持着笑容。"
+
+#: .\mutant_canines.json
+msgid "happysmile puppy"
+msgid_plural "happysmile puppys"
+msgstr[0] "开心微笑幼犬"
+
+#. ~ Description for {'str': 'happysmile puppy'}
+#: .\mutant_canines.json
+msgid ""
+"The chittering whelp of a happysmile dog. It has a permanent grin of "
+"venomous fangs."
+msgstr "开心微笑犬的吱喳幼崽。它长着毒牙构成的永久咧嘴笑容。"
+
+#: .\mutant_canines.json
+msgid "digiridog"
+msgid_plural "digiridogs"
+msgstr[0] "迪吉里杜犬"
+
+#. ~ Description for {'str': 'digiridog'}
+#: .\mutant_canines.json
+msgid ""
+"A former canine mutated into a weird creature with bone tubes growing from "
+"its head and spine, from which it emits a stream of unearthly moans.  Its "
+"oily blue saliva can prevent blood from clotting."
+msgstr "由犬类变异而成的怪异生物，头部和脊柱长出骨管，从中发出非尘世的呻吟声。其油性的蓝色唾液能阻止血液凝固。"
+
+#: .\mutant_canines.json
+msgid "digiridog whelp"
+msgid_plural "digiridog whelps"
+msgstr[0] "迪吉里杜犬幼崽"
+
+#. ~ Description for {'str': 'digiridog whelp'}
+#: .\mutant_canines.json
+msgid ""
+"The offspring of a digiridog. Its bone tubes are not yet developed and it "
+"looks almost like a real dog."
+msgstr "迪吉里杜犬的后代。其骨管尚未发育，看起来几乎像真正的狗。"
+
+#: .\mutant_canines.json
+msgid "direwolf"
+msgid_plural "direwolfs"
+msgstr[0] "恐狼"
+
+#. ~ Description for {'str': 'direwolf'}
+#: .\mutant_canines.json
+msgid ""
+"A canine mutated into a wild beast the size of a grizzly bear. It can "
+"recover from disease and wounds with an alarming speed. The wild animal "
+"cannot be controlled, but perhaps a younger version could be tamed."
+msgstr "犬类变异为灰熊大小的野兽。它能以惊人的速度从疾病和伤口中恢复。这种野生动物无法被控制，但或许幼年个体可以被驯服。"
+
+#: .\mutant_canines.json
+msgid "dire whelp"
+msgid_plural "dire whelps"
+msgstr[0] "恐狼幼崽"
+
+#. ~ Description for {'str': 'dire whelp'}
+#: .\mutant_canines.json
+msgid ""
+"The offspring of a direwolf, already the size of an actual wolf. It seems "
+"almost as intelligent and friendly as a domestic dog."
+msgstr "恐狼的后代，体型已如真正的狼一般大。它似乎与家犬一样聪明和友好。"
+
+#: .\mutant_felines.json
+msgid "cat"
+msgid_plural "cats"
+msgstr[0] "猫"
+
+#. ~ Description for {'str': 'cat'}
+#: .\mutant_felines.json
+msgid "A deformed and mutating cat."
+msgstr "一只畸形且正在变异的猫。"
+
+#: .\mutant_felines.json
+msgid "hairless cat"
+msgid_plural "hairless cats"
+msgstr[0] "无毛猫"
+
+#. ~ Description for {'str': 'hairless cat'}
+#: .\mutant_felines.json
+msgid ""
+"A mutating feline that has lost its coat of fur, making it appear weird and "
+"sickly."
+msgstr "一只正在变异的猫科动物，失去了毛皮，使其看起来怪异且病态。"
+
+#: .\mutant_felines.json
+msgid "multilimbed cat"
+msgid_plural "multilimbed cats"
+msgstr[0] "多肢猫"
+
+#. ~ Description for {'str': 'multilimbed cat'}
+#: .\mutant_felines.json
+msgid ""
+"A mutating feline that has sprouted extra sets of vestigal legs and multiple"
+" tails.  Its movements are slow and clumsy."
+msgstr "一只正在变异的猫科动物，长出了额外的几组退化腿和多条尾巴。其动作缓慢而笨拙。"
+
+#: .\mutant_felines.json
+msgid "venomous cat"
+msgid_plural "venomous cats"
+msgstr[0] "毒牙猫"
+
+#. ~ Description for {'str': 'venomous cat'}
+#: .\mutant_felines.json
+msgid ""
+"A mutated feline that has acquired snake-like fangs and a powerful venom.  "
+"It often hunts in packs making it more dangerous than its small size "
+"suggests."
+msgstr "一种获得蛇状毒牙和强效毒液的变异猫科动物。它常成群狩猎，使其比其小体型所暗示的更危险。"
+
+#: .\mutant_felines.json
+msgid "vampire cat"
+msgid_plural "vampire cats"
+msgstr[0] "吸血猫"
+
+#. ~ Description for {'str': 'vampire cat'}
+#: .\mutant_felines.json
+msgid ""
+"A mutated feline grown to the size of a large dog.  It runs swiftly on six "
+"legs and possesses razor sharp fangs."
+msgstr "一种变异猫科动物，长到大狗般大小。它以六条腿快速奔跑，并拥有锋利的尖牙。"
+
+#: .\mutant_felines.json
+msgid "ink cat"
+msgid_plural "ink cats"
+msgstr[0] "墨汁猫"
+
+#. ~ Description for {'str': 'ink cat'}
+#: .\mutant_felines.json
+msgid ""
+"A dark mutated feline that hunts from the shadows.  It can spray a jet of "
+"ink from its mouth to blind predators or prey."
+msgstr "一种在阴影中狩猎的黑暗变异猫科动物。它能从口中喷射墨汁流，使捕食者或猎物失明。"
+
+#: .\mutant_felines.json
+msgid "whip tongue"
+msgid_plural "whip tongues"
+msgstr[0] "鞭舌猫"
+
+#. ~ Description for {'str': 'whip tongue'}
+#: .\mutant_felines.json
+msgid ""
+"A mutated feline grown to the size of a large dog.  Its fur has been "
+"replaced with hard lizard-like scales and thorny knobs.  The cat has no eyes"
+" but its long tongue continually sways back and forth tasting the air for "
+"signs of prey."
+msgstr "一种变异猫科动物，长到大狗般大小。其皮毛被坚硬的蜥蜴状鳞片和多刺的瘤状物取代。这只猫没有眼睛，但其长舌不断来回摆动，品尝空气中的猎物迹象。"
+
+#: .\mutant_fish.json
+msgid "fish"
+msgid_plural "fish"
+msgstr[0] "鱼"
+
+#. ~ Description for {'str': 'fish', 'str_pl': 'fish'}
+#: .\mutant_fish.json
+msgid "A mutant fish.  The favorite prey of mutant cats and survivors."
+msgstr "一种变异鱼。是变异猫和幸存者最爱的猎物。"
+
+#: .\mutant_fish.json
+msgid "puke fish"
+msgid_plural "puke fish"
+msgstr[0] "呕吐鱼"
+
+#. ~ Description for {'str': 'puke fish', 'str_pl': 'puke fish'}
+#: .\mutant_fish.json
+msgid ""
+"A disgustingly mutating fish about the size of a large carp.  It exudes a "
+"gooey brown gel and smells like rotting milk."
+msgstr "一种令人作呕的变异鱼，大小如大鲤鱼。它渗出粘稠的棕色凝胶，闻起来像腐烂的牛奶。"
+
+#: .\mutant_fish.json
+msgid "finger fish"
+msgid_plural "finger fish"
+msgstr[0] "手指鱼"
+
+#. ~ Description for {'str': 'finger fish', 'str_pl': 'finger fish'}
+#: .\mutant_fish.json
+msgid ""
+"A freakishly mutating fish about the size of a large carp.  A cluster of "
+"finger-like limbs have burst from its head."
+msgstr "一种怪诞变异的鱼，大小如大鲤鱼。一簇手指状的肢体从其头部爆裂而出。"
+
+#: .\mutant_fish.json
+msgid "tumor fish"
+msgid_plural "tumor fish"
+msgstr[0] "肿瘤鱼"
+
+#. ~ Description for {'str': 'tumor fish', 'str_pl': 'tumor fish'}
+#: .\mutant_fish.json
+msgid ""
+"An odious mutating fish about the size of a large carp. It's so covered in "
+"bleeding tumors and fleshy nodules that it can barely swim."
+msgstr "一种令人作呕的变异鱼，体型约如大鲤鱼。它浑身布满流血的肿瘤和肉质结节，几乎无法游动。"
+
+#: .\mutant_fish.json
+msgid "angelic fish"
+msgid_plural "angelic fish"
+msgstr[0] "天使鱼"
+
+#. ~ Description for {'str': 'angelic fish', 'str_pl': 'angelic fish'}
+#: .\mutant_fish.json
+msgid ""
+"A mutant fish about the size of a large carp.  Its internal organs glow with"
+" a pulsing light which readily shines through its translucent skin."
+msgstr "一种变异鱼，体型约如大鲤鱼。它的内脏发出脉动光芒，轻易透过半透明的皮肤显现。"
+
+#: .\mutant_fish.json
+msgid "bloatball fish"
+msgid_plural "bloatball fish"
+msgstr[0] "膨胀球鱼"
+
+#. ~ Description for {'str': 'bloatball fish', 'str_pl': 'bloatball fish'}
+#: .\mutant_fish.json
+msgid ""
+"A mutant fish the size and shape of a basketball.  When threatened the fish "
+"will inflate itself to massive size.  If attacked the fish and its attacker "
+"will be caught in a violent explosion."
+msgstr "一种变异鱼，体型和形状如篮球。受威胁时，鱼会膨胀至巨大尺寸。若遭攻击，鱼和攻击者将卷入剧烈爆炸。"
+
+#: .\mutant_fish.json
+msgid "ghoul in the water"
+msgid_plural "ghouls in the water"
+msgstr[0] "水中的食尸鬼"
+
+#. ~ Description for {'str': 'ghoul in the water', 'str_pl': 'ghouls in the
+#. water'}
+#: .\mutant_fish.json
+msgid ""
+"A large mutant fish the size of a tigershark.  It resembles a catfish but "
+"instead of barbels it possess a pair of long spindly arms terminating in "
+"disturbingly human hands.  The ghoul grabs prey on the water's edge and "
+"pulls it into the deep."
+msgstr "一种大型变异鱼，体型如虎鲨。它形似鲶鱼，但触须处有一对细长手臂，末端是令人不安的人手。食尸鬼抓住水边的猎物，将其拖入深水。"
+
+#: .\mutant_fish.json
+msgid "jawed terror"
+msgid_plural "jawed terrors"
+msgstr[0] "颚骨恐怖"
+
+#. ~ Description for {'str': 'jawed terror'}
+#: .\mutant_fish.json
+msgid ""
+"A large mutant fish the size of a tigershark.  It has a massive set of jaws "
+"lined with razor-sharp teeth."
+msgstr "一种大型变异鱼，体型如虎鲨。它拥有巨大的颚部，布满锋利的牙齿。"
+
+#: .\mutant_fish.json
+msgid "accordian fish"
+msgid_plural "accordian fish"
+msgstr[0] "手风琴鱼"
+
+#. ~ Description for {'str': 'accordian fish', 'str_pl': 'accordian fish'}
+#: .\mutant_fish.json
+msgid ""
+"A mutant fish the size of a carp.  It moves by strangely extending and "
+"contracting its body, giving it its odd name."
+msgstr "一种变异鱼，体型如鲤鱼。它通过奇怪地伸缩身体移动，因此得此怪名。"
+
+#: .\mutant_fish.json
+msgid "whisperwill"
+msgid_plural "whisperwills"
+msgstr[0] "低语鳐"
+
+#. ~ Description for {'str': 'whisperwill'}
+#: .\mutant_fish.json
+msgid ""
+"A large mutant fish the size of a tiger shark.  Its body is long and sleek "
+"like that of an eel.  The whisperwill can perfectly mimic any human whose "
+"flesh it has consumed, and will call out for help with the voices of the "
+"dead."
+msgstr "一种大型变异鱼，体型如虎鲨。身体长而光滑，似鳗鱼。低语鳐能完美模仿任何它吞噬过的人类，并用死者的声音呼救。"
+
+#: .\mutant_fish.json
+msgid "butter fish"
+msgid_plural "butter fish"
+msgstr[0] "黄油鱼"
+
+#. ~ Description for {'str': 'butter fish', 'str_pl': 'butter fish'}
+#: .\mutant_fish.json
+msgid ""
+"A mutant fish the size of a carp.  It controls its bouyancy by producing and"
+" releasing a thick oil which might be harvestable."
+msgstr "一种变异鱼，体型如鲤鱼。它通过产生和释放浓稠油脂来控制浮力，这种油脂或许可采集。"
+
+#: .\mutant_fish.json
+msgid "spitter fish"
+msgid_plural "spitter fish"
+msgstr[0] "喷水鱼"
+
+#. ~ Description for {'str': 'spitter fish', 'str_pl': 'spitter fish'}
+#: .\mutant_fish.json
+msgid ""
+"A mutant fish the size of a carp.  It hunts by squirting jets of water at "
+"passing birds and knocking them into the water."
+msgstr "一种变异鱼，体型如鲤鱼。它通过向经过的鸟类喷射水柱，将其击落水中来捕猎。"
+
+#: .\mutant_reptiles.json
+msgid "mutant snake"
+msgid_plural "mutant snakes"
+msgstr[0] "变异蛇"
+
+#. ~ Description for {'str': 'mutant snake'}
+#: .\mutant_reptiles.json
+msgid "A mutating snake."
+msgstr "一条正在变异的蛇。"
+
+#: .\mutant_reptiles.json
+msgid "molting snake"
+msgid_plural "molting snakes"
+msgstr[0] "蜕皮蛇"
+
+#. ~ Description for {'str': 'molting snake'}
+#: .\mutant_reptiles.json
+msgid ""
+"A mutating snake shedding its dried epidermis.  Although vulnerable and "
+"weak, this snake still has a venomous bite."
+msgstr "一条正在变异并蜕去干燥表皮的蛇。虽然脆弱且虚弱，此蛇仍具毒咬能力。"
+
+#: .\mutant_reptiles.json
+msgid "jaculus"
+msgid_plural "jaculi"
+msgstr[0] "标枪蛇"
+
+#. ~ Description for {'str': 'jaculus', 'str_pl': 'jaculi'}
+#: .\mutant_reptiles.json
+msgid ""
+"A mutated snake grown to the size of a python.  It can launch itself at its "
+"prey by uncoiling its body like a giant spring."
+msgstr "一条变异蛇，已长至蟒蛇大小。它能像巨型弹簧般展开身体，弹射向猎物。"
+
+#: .\mutant_reptiles.json
+msgid "bone snake"
+msgid_plural "bone snakes"
+msgstr[0] "骨蛇"
+
+#. ~ Description for {'str': 'bone snake'}
+#: .\mutant_reptiles.json
+msgid ""
+"A mutated snake grown to the size of python.  Bone plates cover its body and"
+" it bites with a hard beak as well as venomous fangs."
+msgstr "一条变异蛇，已长至蟒蛇大小。骨板覆盖其身体，它用坚硬的喙和毒牙咬击。"
+
+#: .\mutant_reptiles.json
+msgid "frostbite snake"
+msgid_plural "frostbite snakes"
+msgstr[0] "冻伤蛇"
+
+#. ~ Description for {'str': 'frostbite snake'}
+#: .\mutant_reptiles.json
+msgid ""
+"A mutated snake armed with a powerful poison.  Its bite causes flesh to "
+"wither and die, similar to a case of frostbite."
+msgstr "一条携带强力毒液的变异蛇。其咬伤会导致肉体枯萎死亡，类似冻伤症状。"
+
+#: .\mutant_reptiles.json
+msgid "devil frog"
+msgid_plural "devil frogs"
+msgstr[0] "魔鬼蛙"
+
+#. ~ Description for {'str': 'devil frog'}
+#: .\mutant_reptiles.json
+msgid ""
+"A mutated bullfrog with jagged teeth and horms.  Its bright red skin is said"
+" to produce hallucinagenic toxins."
+msgstr "一种变异的牛蛙，长有锯齿状牙齿和角。其鲜红的皮肤据说能产生致幻毒素。"
+
+#: .\mutant_reptiles.json
+msgid "gamma-toad"
+msgid_plural "gamma-toads"
+msgstr[0] "伽马蟾蜍"
+
+#. ~ Description for {'str': 'gamma-toad'}
+#: .\mutant_reptiles.json
+msgid ""
+"A common toad that has mutated into a huge radioactive monstrosity.  It "
+"pulses with heat, energy, and malice."
+msgstr "一只普通蟾蜍变异而成的巨大放射性怪物。它散发着热量、能量与恶意。"
+
+#: .\mutant_rodents.json
+msgid "mutant rat"
+msgid_plural "mutant rats"
+msgstr[0] "变异鼠"
+
+#. ~ Description for {'str': 'mutant rat'}
+#: .\mutant_rodents.json
+msgid "A worm-tailed rodent with long whiskers and beady eyes."
+msgstr "一种长着蠕虫般尾巴、长须和珠子般眼睛的啮齿动物。"
+
+#: .\mutant_rodents.json
+msgid "plague rat"
+msgid_plural "plague rats"
+msgstr[0] "瘟疫鼠"
+
+#. ~ Description for {'str': 'plague rat'}
+#: .\mutant_rodents.json
+msgid "A mutant rat that carries one or more dangerous diseases."
+msgstr "携带一种或多种危险疾病的变异鼠。"
+
+#: .\mutant_rodents.json
+msgid "piranha rat"
+msgid_plural "piranha rats"
+msgstr[0] "食人鼠"
+
+#. ~ Description for {'str': 'piranha rat'}
+#: .\mutant_rodents.json
+msgid ""
+"A mutant rat with a powerful set of sharp teeth.  Not that dangerous on its "
+"own, but deadly in a swarm."
+msgstr "一种长着锋利牙齿的变异鼠。单独一只并不危险，但成群结队时则致命。"
+
+#: .\mutant_rodents.json
+msgid "rat creature"
+msgid_plural "rat creatures"
+msgstr[0] "鼠怪"
+
+#. ~ Description for {'str': 'rat creature'}
+#: .\mutant_rodents.json
+msgid ""
+"A mutant rat that has impossibly crossbred with a spider and grown to the "
+"size of a wolf.  It has venomous mandibles and numerous eyes."
+msgstr "一种变异鼠，不可思议地与蜘蛛杂交，长到了狼一般大小。它长有毒颚和众多眼睛。"
+
+#: .\mutant_ungulates.json
+msgid "mutant cow"
+msgid_plural "mutant cows"
+msgstr[0] "变异奶牛"
+
+#: .\mutant_ungulates.json
+msgid "mutant cow calf"
+msgid_plural "mutant cow calfs"
+msgstr[0] "变异牛犊"
+
+#: .\mutant_ungulates.json
+msgid "twisthorn cow"
+msgid_plural "twisthorn kine"
+msgstr[0] "扭角牛"
+
+#. ~ Description for {'str': 'twisthorn cow', 'str_pl': 'twisthorn kine'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating cow with mutiple horns bursting from its skull at odd angles.  "
+"Its skin has dried and contracted, causing a network of bloody cracks to "
+"cover the unfortunate animal.  Due to extreme pain, the cow is violent and "
+"agitated."
+msgstr ""
+"一头正在变异的奶牛，多只角以怪异的角度从颅骨中爆出。它的皮肤干燥收缩，布满血痕裂纹，覆盖着这头不幸的动物。由于极度痛苦，这头牛变得狂暴而焦躁。"
+
+#: .\mutant_ungulates.json
+msgid "blubber cow"
+msgid_plural "blubber kine"
+msgstr[0] "肥脂牛"
+
+#. ~ Description for {'str': 'blubber cow', 'str_pl': 'blubber kine'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating cow so weighed down by fat and blubber that it can barely move.  "
+"It's unlikely this easy meal will survive for long in the post cataclysmic "
+"wastes. It will produce no milk, but you can wait and see if it mutates into"
+" something useful..."
+msgstr ""
+"一头正在变异的奶牛，因脂肪和肥膘过重而几乎无法移动。这顿美餐不太可能在灾后废土中存活太久。它不会产奶，但你可以等待，看它是否会变异成有用的东西……"
+
+#: .\mutant_ungulates.json
+msgid "ironthorn cow"
+msgid_plural "ironhorn kine"
+msgstr[0] "铁角牛"
+
+#. ~ Description for {'str': 'ironthorn cow', 'str_pl': 'ironhorn kine'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutated cow that has somehow grown a pair of metal horns which it can use "
+"to great effect.  It is a highly aggressive animal."
+msgstr "一头变异的奶牛，不知何故长出了一对金属角，并能有效利用。它是一种极具攻击性的动物。"
+
+#: .\mutant_ungulates.json
+msgid "ironhorn calf"
+msgid_plural "ironhorn calves"
+msgstr[0] "铁角牛犊"
+
+#. ~ Description for {'str': 'ironhorn calf', 'str_pl': 'ironhorn calves'}
+#: .\mutant_ungulates.json
+msgid "A young mutated cow with a pair of metal horns."
+msgstr "一头年轻的变异奶牛，长着一对金属角。"
+
+#: .\mutant_ungulates.json
+msgid "auroch"
+msgid_plural "auroch"
+msgstr[0] "原牛"
+
+#. ~ Description for {'str': 'auroch', 'str_pl': 'auroch'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutated cow that has evolved back into its prehistoric state.  It has "
+"grown larger and has a shaggy coat of thick fur.  Unlike most mutants, this "
+"beast still has the potential to be tamed."
+msgstr "一头变异奶牛，已进化回其史前状态。它体型更大，长有浓密的粗毛。与大多数突变体不同，这头野兽仍有被驯服的潜力。"
+
+#: .\mutant_ungulates.json
+msgid "auroch calf"
+msgid_plural "auroch calves"
+msgstr[0] "原牛犊"
+
+#. ~ Description for {'str': 'auroch calf', 'str_pl': 'auroch calves'}
+#: .\mutant_ungulates.json
+msgid "A young mutated cow that has evolved back into its prehistoric state."
+msgstr "一头年轻的变异奶牛，已进化回其史前状态。"
+
+#: .\mutant_ungulates.json
+msgid "moss bison"
+msgid_plural "moss bison"
+msgstr[0] "苔藓野牛"
+
+#. ~ Description for {'str': 'moss bison', 'str_pl': 'moss bison'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutated cow that can photosynthesize sunlight through its moss-like fur.  "
+"This green beast is quite lethargic and is often mistaken for a bush or "
+"hedge."
+msgstr "一头变异的奶牛，能通过苔藓般的皮毛进行光合作用。这头绿色野兽相当嗜睡，常被误认为是灌木或树篱。"
+
+#: .\mutant_ungulates.json
+msgid "moss bison calf"
+msgid_plural "moss bison calves"
+msgstr[0] "苔藓野牛犊"
+
+#. ~ Description for {'str': 'moss bison calf', 'str_pl': 'moss bison calves'}
+#: .\mutant_ungulates.json
+msgid ""
+"A young mutated cow that can photosynthesize sunlight through its moss-like "
+"fur.  This green beast is quite lethargic and is often mistaken for a bush "
+"or hedge."
+msgstr "一头年轻的变异奶牛，能通过苔藓般的皮毛进行光合作用。这头绿色野兽相当嗜睡，常被误认为是灌木或树篱。"
+
+#: .\mutant_ungulates.json
+msgid "mutant deer"
+msgid_plural "mutant deers"
+msgstr[0] "变异鹿"
+
+#: .\mutant_ungulates.json
+msgid "crying hind"
+msgid_plural "crying hinds"
+msgstr[0] "哀鸣雌鹿"
+
+#. ~ Description for {'str': 'crying hind', 'str_pl': 'crying hinds'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating deer covered in lesions dripping pus and fluid.  The animal "
+"frequently lets out sorrowful cries of pain."
+msgstr "一只变异鹿，浑身布满流脓渗液的病灶。这动物时常发出痛苦的哀嚎。"
+
+#: .\mutant_ungulates.json
+msgid "burnt hart"
+msgid_plural "burnt hart"
+msgstr[0] "焦灼雄鹿"
+
+#. ~ Description for {'str': 'burnt hart', 'str_pl': 'burnt hart'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating deer badly burnt by radiation and heat.  It's hide is blackened "
+"with ash and crusted with dried blood."
+msgstr "一只因辐射与高温严重灼伤的变异鹿。它的皮毛被灰烬熏黑，并结着干涸的血痂。"
+
+#: .\mutant_ungulates.json
+msgid "mutant horse"
+msgid_plural "mutant horses"
+msgstr[0] "变异马"
+
+#: .\mutant_ungulates.json
+msgid "famine mare"
+msgid_plural "famine mares"
+msgstr[0] "饥荒母马"
+
+#. ~ Description for {'str': 'famine mare'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating horse almost dead from starvation. It's skeleton is visible under"
+" its stretched hide. You can attract it with food if you'd like to see if it"
+" will mutate into something useful..."
+msgstr "一只因饥饿濒死的变异马。它的骨架在紧绷的皮下清晰可见。如果你想看看它是否会变异成有用的东西，可以用食物吸引它……"
+
+#: .\mutant_ungulates.json
+msgid "glue horse"
+msgid_plural "glue horses"
+msgstr[0] "胶水马"
+
+#. ~ Description for {'str': 'glue horse'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating horse that oozes a sticky substance from pulsing pores.  Driven "
+"mad by this affliction, the horse scratches itself against trees and "
+"buildings, leaving traces of disgusting glue everywhere it goes."
+msgstr "一匹从搏动毛孔渗出粘稠物质的变异马。这种折磨使它发狂，马匹在树木和建筑上摩擦自己，所到之处留下恶心的胶痕。"
+
+#: .\mutant_ungulates.json
+msgid "mutant sheep"
+msgid_plural "mutant sheep"
+msgstr[0] "变异绵羊"
+
+#: .\mutant_ungulates.json
+msgid "naked sheep"
+msgid_plural "naked sheep"
+msgstr[0] "裸体绵羊"
+
+#. ~ Description for {'str': 'naked sheep', 'str_pl': 'naked sheep'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating sheep that has lost all of its wool to radiation sickness, making"
+" it look weird and sickly."
+msgstr "一只因辐射病失去全部羊毛的变异绵羊，看起来怪异而病态。"
+
+#: .\mutant_ungulates.json
+msgid "gamma sheep"
+msgid_plural "gamma sheep"
+msgstr[0] "伽马绵羊"
+
+#. ~ Description for {'str': 'gamma sheep', 'str_pl': 'gamma sheep'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating sheep swollen with radioactive gas, which it occasionally "
+"releases into its surroundings."
+msgstr "一只因放射性气体肿胀的变异绵羊，它会偶尔向周围释放这些气体。"
+
+#: .\mutant_ungulates.json
+msgid "glass creature"
+msgid_plural "glass creatures"
+msgstr[0] "玻璃生物"
+
+#. ~ Description for {'str': 'glass creature'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutated ungulate whose flesh and bones have become almost completely "
+"transparent.  This natural camoflauge makes it difficult to see at a "
+"distance or at night."
+msgstr "一种变异有蹄动物，其血肉骨骼几乎完全透明。这种天然伪装使它在远处或夜间难以被察觉。"
+
+#: .\mutant_ungulates.json
+msgid "mutant unicorn"
+msgid_plural "mutant unicorns"
+msgstr[0] "变异独角兽"
+
+#. ~ Description for {'str': 'mutant unicorn'}
+#: .\mutant_ungulates.json
+msgid ""
+"A rare mutated ungulate with a single horn growing from its forehead, making"
+" it look somewhat like the mythical animal.  This unicorn, however, is not "
+"so friendly."
+msgstr "一种罕见的变异有蹄动物，前额长有单角，使其看起来有点像神话中的生物。但这只独角兽并不那么友好。"
+
+#: .\mutant_ungulates.json
+msgid "screech creature"
+msgid_plural "screech creatures"
+msgstr[0] "尖啸生物"
+
+#. ~ Description for {'str': 'screech creature'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutated ungulate that has grown an extra pair of legs and a long giraffe-"
+"like neck.  It can defend itself by spitting globs of foul smelling mucus "
+"and letting out ear-shattering screams."
+msgstr "一种变异有蹄动物，长出了额外的腿和长颈鹿般的脖子。它能通过吐出恶臭黏液团和发出震耳欲聋的尖叫来自卫。"
+
+#: .\mutant_ungulates.json
+msgid "screeching brat"
+msgid_plural "screeching brats"
+msgstr[0] "尖啸幼崽"
+
+#. ~ Description for {'str': 'screeching brat', 'str_pl': 'screeching brats'}
+#: .\mutant_ungulates.json
+msgid ""
+"A juvenile mutated ungulate that has grown an extra pair of legs and a long "
+"giraffe-like neck.  It can defend itself by spitting globs of foul smelling "
+"mucus and letting out ear-shattering screams."
+msgstr "一只幼年变异有蹄动物，长出了额外的腿和长颈鹿般的脖子。它能通过吐出恶臭黏液团和发出震耳欲聋的尖叫来自卫。"
+
+#: .\mutant_ungulates.json
+msgid "sleipnir"
+msgid_plural "sleipnir"
+msgstr[0] "斯莱普尼尔"
+
+#. ~ Description for {'str': 'sleipnir', 'str_pl': 'sleipnir'}
+#: .\mutant_ungulates.json
+msgid ""
+"A prodigious mutated horse with a third pair of legs. Despite its size, it's"
+" capable of running far faster than a normal horse. It appears to not mind "
+"human company."
+msgstr "一匹非凡的变异马，拥有第三对腿。尽管体型庞大，它却能跑得比普通马快得多。它似乎不介意人类的陪伴。"
+
+#: .\mutant_ungulates.json
+msgid "sleipnir foal"
+msgid_plural "sleipnir foals"
+msgstr[0] "斯莱普尼尔幼驹"
+
+#. ~ Description for {'str': 'sleipnir foal', 'str_pl': 'sleipnir foals'}
+#: .\mutant_ungulates.json
+msgid ""
+"A young mutated horse with a third pair of legs. It appears to not mind "
+"human company."
+msgstr "一匹年轻的变异马，拥有第三对腿。它似乎不介意人类的陪伴。"
+
+#: .\mutant_ungulates.json
+msgid "mutant pig"
+msgid_plural "mutant pigs"
+msgstr[0] "变异猪"
+
+#: .\mutant_ungulates.json
+msgid "mutant piglet"
+msgid_plural "mutant piglets"
+msgstr[0] "变异猪崽"
+
+#: .\mutant_ungulates.json
+msgid "fly-blown pig"
+msgid_plural "fly-blown pigs"
+msgstr[0] "蝇蛆猪"
+
+#. ~ Description for {'str': 'fly-blown pig'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating pig infested with fly larva. It can barely see or move due to its"
+" necrotic wounds."
+msgstr "一只感染蝇蛆的变异猪。由于坏死伤口，它几乎看不见也无法移动。"
+
+#: .\mutant_ungulates.json
+msgid "tumor pig"
+msgid_plural "tumor pigs"
+msgstr[0] "肿瘤猪"
+
+#. ~ Description for {'str': 'tumor pig'}
+#: .\mutant_ungulates.json
+msgid ""
+"A mutating pig that has inflamed tumors all over its body. It looks to be in"
+" constant pain and distress."
+msgstr "一只全身长满发炎肿瘤的变异猪。它看起来持续处于痛苦与煎熬之中。"
+
+#: .\mutant_ungulates.json
+msgid "rhino pig"
+msgid_plural "rhino pigs"
+msgstr[0] "犀角猪"
+
+#. ~ Description for {'str': 'rhino pig'}
+#: .\mutant_ungulates.json
+msgid ""
+"A large mutated pig that has grown a thick protective hide similar to that "
+"of a rhino."
+msgstr "一只大型变异猪，长出了类似犀牛的厚实防护皮。"
+
+#: .\mutant_ungulates.json
+msgid "rhino piglet"
+msgid_plural "rhino piglets"
+msgstr[0] "犀角猪崽"
+
+#. ~ Description for {'str': 'rhino piglet'}
+#: .\mutant_ungulates.json
+msgid ""
+"A juvenile mutated pig that is growing a thick protective hide similar to "
+"that of a rhino."
+msgstr "一只幼年变异猪，正在长出类似犀牛的厚实防护皮。"
+
+#: .\mutant_ungulates.json
+msgid "quill pig"
+msgid_plural "quill pigs"
+msgstr[0] "刺针猪"
+
+#. ~ Description for {'str': 'quill pig'}
+#: .\mutant_ungulates.json
+msgid ""
+"A large mutated pig with rows of venomous quills growing from its spine.  "
+"Despite it's fearsome appearance, it is fairly non aggressive."
+msgstr "一只大型变异猪，其脊柱上长出了一排排有毒的刺针。尽管外表骇人，它却相当温顺。"
+
+#: .\mutant_ungulates.json
+msgid "quill piglet"
+msgid_plural "quill piglets"
+msgstr[0] "刺针猪崽"
+
+#. ~ Description for {'str': 'quill piglet'}
+#: .\mutant_ungulates.json
+msgid "A juvenile mutated pig covered in small bone nubs."
+msgstr "一只覆盖着小骨突的幼年变异猪。"
+
+#: .\speech.json
+msgid "\"tweet tweet tweet.\""
+msgstr "\"啾啾啾。\""
+
+#: .\speech.json
+msgid "\"chirp chirp chirp.\""
+msgstr "\"叽叽喳喳。\""
+
+#: .\speech.json
+msgid "\"cookoo cookoo.\""
+msgstr "\"咕咕咕。\""
+
+#: .\speech.json
+msgid "\"caw-caw. caw-caw.\""
+msgstr "\"呱-呱。呱-呱。\""
+
+#: .\speech.json
+msgid "whistling and chirping."
+msgstr "口哨声与啁啾声。"
+
+#: .\speech.json
+msgid "birds singing."
+msgstr "鸟儿在歌唱。"
+
+#: .\speech.json
+msgid "singing birds."
+msgstr "歌唱的鸟儿。"
+
+#: .\speech.json
+msgid "a bird song."
+msgstr "一首鸟鸣曲。"
+
+#: .\speech.json
+msgid "the jargon of forest birds."
+msgstr "林鸟的啁啾声。"
+
+#: .\speech.json
+msgid "the calls of birds."
+msgstr "鸟儿的鸣叫声。"
+
+#: .\speech.json
+msgid "the warning cries of small birds."
+msgstr "小鸟的警戒叫声。"
+
+#: .\speech.json
+msgid "the uplifiting sounds of nature."
+msgstr "令人振奋的自然之声。"
+
+#: .\speech.json
+msgid "a loud caw-cawing."
+msgstr "响亮的呱呱叫声。"
+
+#: .\speech.json
+msgid "repetitive chirping."
+msgstr "重复的啁啾声。"
+
+#: .\speech.json
+msgid "whistles and trills."
+msgstr "口哨声与颤音。"
+
+#: .\speech.json
+msgid "otherworldly music."
+msgstr "异界之音。"
+
+#: .\speech.json
+msgid "the strange notes of mutant birds."
+msgstr "变异鸟类的奇异鸣叫。"
+
+#: .\speech.json
+msgid "wild discordant birdcalls."
+msgstr "狂野而不和谐的鸟鸣。"
+
+#: .\speech.json
+msgid "ethereal piping."
+msgstr "空灵的笛声。"
+
+#: .\speech.json
+msgid "unfamiliar bird calls."
+msgstr "陌生的鸟叫声。"
+
+#: .\speech.json
+msgid "the strange sounds of an alien forest."
+msgstr "异域森林的奇异声响。"
+
+#: .\speech.json
+msgid "the weird cries of mutant birds."
+msgstr "变异鸟类发出的怪异鸣叫。"
+
+#: .\speech.json
+msgid "an unnatural droning sound."
+msgstr "一种不自然的嗡嗡声。"
+
+#: .\speech.json
+msgid "the music of a new world."
+msgstr "新世界的音乐。"
+
+#: .\speech.json
+msgid "piercing cries of an unknown bird."
+msgstr "未知鸟类发出的刺耳鸣叫。"
+
+#: .\speech.json
+msgid "bird calls, unlike any you've heard before."
+msgstr "鸟鸣声，与你以往听到的任何声音都不同。"
+
+#: .\speech.json
+msgid "hideous death cries."
+msgstr "骇人的死亡哀嚎。"
+
+#: .\speech.json
+msgid "hypnotic birdcalls."
+msgstr "令人着迷的鸟鸣。"
+
+#: .\speech.json
+msgid "\"wlo wlo wlo wlooooowlowlo.\""
+msgstr "\"wlo wlo wlo wlooooowlowlo。\""
+
+#: .\speech.json
+msgid "\"raaaanrzh raaaanrzh raaaanrzh.\""
+msgstr "\"raaaanrzh raaaanrzh raaaanrzh。\""
+
+#: .\speech.json
+msgid "\"vrooonoo vroonoo vrooooonoo vroonoo.\""
+msgstr "\"vrooonoo vroonoo vrooooonoo vroonoo。\""
+
+#: .\speech.json
+msgid "\"bjyoooom bjyoooom bjyoooom.\""
+msgstr "\"bjyoooom bjyoooom bjyoooom。\""
+
+#: .\speech.json
+msgid "\"Hreeeeeeeech!\""
+msgstr "\"Hreeeeeeeech！\""
+
+#: .\speech.json
+msgid "\"Auuuuuuwuuu!\""
+msgstr "\"Auuuuuuwuuu！\""
+
+#: .\speech.json
+msgid "\"Raaaaahaaaaa!\""
+msgstr "\"Raaaaahaaaaa！\""
+
+#: .\speech.json
+msgid "\"Neeeeeeehuuuuuu!\""
+msgstr "\"Neeeeeeehuuuuuu！\""
+
+#: .\speech.json
+msgid "\"I could use some help over here.\""
+msgstr "\"我这边需要点帮助。\""
+
+#: .\speech.json
+msgid "\"Don't leave me behind.\""
+msgstr "\"别丢下我。\""
+
+#: .\speech.json
+msgid "\"We've always been friends, right?\""
+msgstr "\"我们一直是朋友，对吧？\""
+
+#: .\speech.json
+msgid "\"Come closer.\""
+msgstr "\"靠近点。\""
+
+#: .\speech.json
+msgid "\"Let's team up.\""
+msgstr "\"我们组队吧。\""
+
+#: .\speech.json
+msgid "\"Help!  I can't swim!\""
+msgstr "\"救命！我不会游泳！\""
+
+#: .\speech.json
+msgid "\"Help a guy out, would ya?\""
+msgstr "\"帮个忙，好吗？\""
+
+#: .\speech.json
+msgid "\"It's too dark to see.\""
+msgstr "\"太黑了，什么都看不见。\""
+
+#: .\speech.json
+msgid "\"Follow me.  I'll show you the way.\""
+msgstr "\"跟我来，我给你带路。\""
+
+#: .\speech.json
+msgid "\"We should stick together.\""
+msgstr "\"我们应该待在一起。\""

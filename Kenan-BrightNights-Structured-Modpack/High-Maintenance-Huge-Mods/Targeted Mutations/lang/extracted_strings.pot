@@ -1,0 +1,5864 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TaMu\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\effects.json
+msgid "Slowed falls"
+msgstr ""
+
+#. ~ Description of effect 'Slowed falls'.
+#: .\effects.json
+msgid "You should be able to walk away from most falls unscathed now."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Slowed falls'.
+#: .\effects.json
+msgid "Your wings are spread and ready to slow your fall."
+msgstr ""
+
+#. ~ Remove message for effect(s) 'Slowed falls'.
+#: .\effects.json
+msgid "Your wings tuck away."
+msgstr ""
+
+#: .\item.json
+msgid "Fleet-footed serum"
+msgid_plural "Fleet-footed serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fleet-footed serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you a little faster on flat surfaces."
+msgstr ""
+
+#: .\item.json
+msgid "Plant threshold serum"
+msgid_plural "Plant threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Plant threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more plant-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Insect threshold serum"
+msgid_plural "Insect threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insect threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more insect-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Spider threshold serum"
+msgid_plural "Spider threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Spider threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more arachnid-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Slime threshold serum"
+msgid_plural "Slime threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Slime threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more slime-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Fish threshold serum"
+msgid_plural "Fish threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fish threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more fish-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Rat threshold serum"
+msgid_plural "Rat threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rat threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more rat-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Beast threshold serum"
+msgid_plural "Beast threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Beast threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more beastial state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Ursine threshold serum"
+msgid_plural "Ursine threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ursine threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more bear-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Feline threshold serum"
+msgid_plural "Feline threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feline threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more cat-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Lupine threshold serum"
+msgid_plural "Lupine threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lupine threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more canine-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Cattle threshold serum"
+msgid_plural "Cattle threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cattle threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more cow-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Cephalopod threshold serum"
+msgid_plural "Cephalopod threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cephalopod threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more octopus-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Bird threshold serum"
+msgid_plural "Bird threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bird threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more avian-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Lizard threshold serum"
+msgid_plural "Lizard threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lizard threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more reptilian-like state permanently if your body"
+" supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Troglobite threshold serum"
+msgid_plural "Troglobite threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Troglobite threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more subterranean state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Alpha threshold serum"
+msgid_plural "Alpha threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will turn you into an alpha specimen permanently if your body supports such "
+"a change."
+msgstr ""
+
+#: .\item.json
+msgid "Medical threshold serum"
+msgid_plural "Medical threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Medical threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body into an experimental medical prototype permanently if "
+"your body supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Chimera threshold serum"
+msgid_plural "Chimera threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chimera threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will turn you into a chimera of species permanently if your body supports "
+"such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Elfa threshold serum"
+msgid_plural "Elfa threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Elfa threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more elf-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Raptor threshold serum"
+msgid_plural "Raptor threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Raptor threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more raptor-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Mouse threshold serum"
+msgid_plural "Mouse threshold serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mouse threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more mouse-like state permanently if your body "
+"supports such a change."
+msgstr ""
+
+#: .\item.json
+msgid "Relfexive photophore serum"
+msgid_plural "Relfexive photophore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Relfexive photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow an uncontrollable organ on your head that glows in "
+"response to your physical or emotional state."
+msgstr ""
+
+#: .\item.json
+msgid "Weak photophore serum"
+msgid_plural "Weak photophore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Weak photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow a controllable organ on your head that glows weakly, "
+"sufficient for reading."
+msgstr ""
+
+#: .\item.json
+msgid "Photophore serum"
+msgid_plural "Photophore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow a controllable organ on your head that glows brightly, "
+"bright enough to replace a lamp."
+msgstr ""
+
+#: .\item.json
+msgid "Hearing enhancement serum"
+msgid_plural "Hearing enhancement serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hearing enhancement serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"enhances your hearing."
+msgstr ""
+
+#: .\item.json
+msgid "Elven hearing serum"
+msgid_plural "Elven hearing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Elven hearing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you hear as good as elves of fantasy settings, if your body "
+"supports it."
+msgstr ""
+
+#: .\item.json
+msgid "Indefatigable serum"
+msgid_plural "Indefatigable serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Indefatigable serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you have more stamina and regenerate it faster."
+msgstr ""
+
+#: .\item.json
+msgid "Hyperactive serum"
+msgid_plural "Hyperactive serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hyperactive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will give you a lot more stamina and stamina recovery if your body supports "
+"it."
+msgstr ""
+
+#: .\item.json
+msgid "Quickening serum"
+msgid_plural "Quickening serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Quickening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make faster in general."
+msgstr ""
+
+#: .\item.json
+msgid "Fast healing serum"
+msgid_plural "Fast healing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fast healing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will increase your healing speed by a bit."
+msgstr ""
+
+#: .\item.json
+msgid "Light eater serum"
+msgid_plural "Light eater serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Light eater serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you require less food than most"
+msgstr ""
+
+#: .\item.json
+msgid "Accomplished sleeper serum"
+msgid_plural "Accomplished sleeper serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Accomplished sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make it easier for you to fall asleep."
+msgstr ""
+
+#: .\item.json
+msgid "Practised sleeper serum"
+msgid_plural "Practised sleeper serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Practised sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you capable of falling asleep just about anywhere, if your body "
+"supports it."
+msgstr ""
+
+#: .\item.json
+msgid "Pain resistance serum"
+msgid_plural "Pain resistance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pain resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you more resistant to pain."
+msgstr ""
+
+#: .\item.json
+msgid "Nightvision serum"
+msgid_plural "Nightvision serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" eyes a little more sensitive to light in low-light situations, granting a "
+"weak nightvision."
+msgstr ""
+
+#: .\item.json
+msgid "Poison resistance serum"
+msgid_plural "Poison resistance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Poison resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you more resistant to poisons."
+msgstr ""
+
+#: .\item.json
+msgid "Sheer bulk serum"
+msgid_plural "Sheer bulk serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sheer bulk serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop a very robust build."
+msgstr ""
+
+#: .\item.json
+msgid "Immense bulk serum"
+msgid_plural "Immense bulk serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Immense bulk serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop an incredibly robust build to such extent that you would "
+"not be allowed to compete in pre-Cataclysm sports."
+msgstr ""
+
+#: .\item.json
+msgid "Tough serum"
+msgid_plural "Tough serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tough serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"hardens your bones and muscles, increasing the amount of hits you can take."
+msgstr ""
+
+#: .\item.json
+msgid "Durability serum"
+msgid_plural "Durability serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Durability serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"further enhances your body's durability beyond simple toughness."
+msgstr ""
+
+#: .\item.json
+msgid "Unbreakable serum"
+msgid_plural "Unbreakable serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Unbreakable serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Basically "
+"super soldier body durability."
+msgstr ""
+
+#: .\item.json
+msgid "Thick skin serum"
+msgid_plural "Thick skin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Thick skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. It "
+"thickens your skin and gives you some resistance to being cut."
+msgstr ""
+
+#: .\item.json
+msgid "Strong back serum"
+msgid_plural "Strong back serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strong back serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. With this "
+"your spine reinforces itself and you become capable of carrying heavier "
+"loads."
+msgstr ""
+
+#: .\item.json
+msgid "Strong stomach serum"
+msgid_plural "Strong stomach serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strong stomach serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"fortitude of digestive systems."
+msgstr ""
+
+#: .\item.json
+msgid "Deftness serum"
+msgid_plural "Deftness serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Deftness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Improves "
+"recovery from attacks that didn't connect with a target via an increased "
+"fight response reflex."
+msgstr ""
+
+#: .\item.json
+msgid "Substance tolerance serum"
+msgid_plural "Substance tolerance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Substance tolerance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Improves "
+"your body's filtration of intoxicants."
+msgstr ""
+
+#: .\item.json
+msgid "Gourmand serum"
+msgid_plural "Gourmand serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gourmand serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"dopamine production in response to ingesting good-tasting foods and expands "
+"digestive system to accomodate more volume."
+msgstr ""
+
+#: .\item.json
+msgid "Addiction resistance serum"
+msgid_plural "Addiction resistance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Addiction resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lowers the"
+" brain's reliance on external dopamine sources, effectively increasing "
+"resistance to addictions."
+msgstr ""
+
+#: .\item.json
+msgid "Animal empathy serum"
+msgid_plural "Animal empathy serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Animal empathy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Inserts an"
+" instinctual movement pattern that activates in the presence of animals into"
+" your brain that makes animals less skittish or untrustworthy of you."
+msgstr ""
+
+#: .\item.json
+msgid "Animal kinship serum"
+msgid_plural "Animal kinship serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Animal kinship serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"certain parts of your brain to make you move in the presence of animals in "
+"such a way that makes most animals leave you alone or be curious enough that"
+" they act in a friendly manner to check you out."
+msgstr ""
+
+#: .\item.json
+msgid "Terrifier serum"
+msgid_plural "Terrifier serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Terrifier serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Modifies "
+"your pheromones and the way you carry yourself to instill fear into the "
+"minds of creatures, making them more likely to flee or be intimidated."
+msgstr ""
+
+#: .\item.json
+msgid "Disease resistance serum"
+msgid_plural "Disease resistance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Disease resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Enhances "
+"your immune system against diseases."
+msgstr ""
+
+#: .\item.json
+msgid "Adrenaline serum"
+msgid_plural "Adrenaline serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Adrenaline serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"the response and size of adrenal glands."
+msgstr ""
+
+#: .\item.json
+msgid "Less sleep serum"
+msgid_plural "Less sleep serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Less sleep serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lessens "
+"your body's reliance on sleep."
+msgstr ""
+
+#: .\item.json
+msgid "Self awareness serum"
+msgid_plural "Self awareness serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Self awareness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your awareness on your body's state of being."
+msgstr ""
+
+#: .\item.json
+msgid "Masochism serum"
+msgid_plural "Masochism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Masochism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"your brain to associate pain with pleasure."
+msgstr ""
+
+#: .\item.json
+msgid "Lighter steps serum"
+msgid_plural "Lighter steps serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lighter steps serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your movement patterns to make less noise while walking and lessens the "
+"chance of triggering traps."
+msgstr ""
+
+#: .\item.json
+msgid "Robust genetics serum"
+msgid_plural "Robust genetics serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Robust genetics serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Supplements your DNA with buffers against damage and degeneration. Works "
+"only with old mutations mod"
+msgstr ""
+
+#: .\item.json
+msgid "Scout serum"
+msgid_plural "Scout serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Scout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your sight range and allows you to see distant things better."
+msgstr ""
+
+#: .\item.json
+msgid "Cannibalism serum"
+msgid_plural "Cannibalism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cannibalism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"some sections of your brain to cause you to both crave and get an increase "
+"in dopamine production when eating your own kind."
+msgstr ""
+
+#: .\item.json
+msgid "Psychopathy serum"
+msgid_plural "Psychopathy serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Psychopathy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"your capacity to care about moralistic actions and morality in general."
+msgstr ""
+
+#: .\item.json
+msgid "Killer drive serum"
+msgid_plural "Killer drive serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Killer drive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Heightens "
+"dopamine production when killing something and as a result of that makes you"
+" crave it."
+msgstr ""
+
+#: .\item.json
+msgid "Weak scent serum"
+msgid_plural "Weak scent serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Weak scent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"most of your odour-producing sweat glands and general smelliness."
+msgstr ""
+
+#: .\item.json
+msgid "Prettification serum"
+msgid_plural "Prettification serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Prettification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Like "
+"beauty creams, except you inject this one, and it actually works. Makes you "
+"more appealing to look at."
+msgstr ""
+
+#: .\item.json
+msgid "Heavy sleeper serum"
+msgid_plural "Heavy sleeper serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Heavy sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lowers "
+"your environmental reactivity while asleep."
+msgstr ""
+
+#: .\item.json
+msgid "Albinism serum"
+msgid_plural "Albinism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Albinism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"the pigmentation from your body and removes your body's capability to "
+"produce pigmentation."
+msgstr ""
+
+#: .\item.json
+msgid "Rough skin serum"
+msgid_plural "Rough skin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rough skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives your"
+" skin a rough texture."
+msgstr ""
+
+#: .\item.json
+msgid "High nightvision serum"
+msgid_plural "High nightvision serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'High nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"the amount of light-sensitive cones in your eyes to enable very good "
+"nightvision."
+msgstr ""
+
+#: .\item.json
+msgid "Full nightvision serum"
+msgid_plural "Full nightvision serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Full nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"an abundance of light-sensitive cones in your eyes, granting better "
+"nightsight than most creatures have."
+msgstr ""
+
+#: .\item.json
+msgid "Cephalopod eyes serum"
+msgid_plural "Cephalopod eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cephalopod eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Mutates "
+"your eye structure into that of a cephalopod."
+msgstr ""
+
+#: .\item.json
+msgid "Fey eyes serum"
+msgid_plural "Fey eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fey eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Replaces "
+"the pigmentation of your eyes with self-modulating chromatophores that can "
+"only shift into various shades of green."
+msgstr ""
+
+#: .\item.json
+msgid "Feline eyes serum"
+msgid_plural "Feline eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feline eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Mutates "
+"your eyes into those of a cat. Nightvision not included."
+msgstr ""
+
+#: .\item.json
+msgid "Bird eyes serum"
+msgid_plural "Bird eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bird eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Structurally changes your eyes to be similar to that of avians, heightening "
+"visual acuity and perception."
+msgstr ""
+
+#: .\item.json
+msgid "Infrared vision serum"
+msgid_plural "Infrared vision serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Infrared vision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your eyes to see the infrared wavelengths, allowing you to see warm-blooded "
+"creatures in the dark."
+msgstr ""
+
+#: .\item.json
+msgid "Lizard eyes serum"
+msgid_plural "Lizard eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lizard eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Structurally mutates your eyes to be like a reptile's. Reptilian infrared "
+"not included."
+msgstr ""
+
+#: .\item.json
+msgid "Lizard infrared serum"
+msgid_plural "Lizard infrared serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lizard infrared serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grants "
+"your eyes the ability to see into the infrared spectrum like various "
+"reptiles, physical changes may apply."
+msgstr ""
+
+#: .\item.json
+msgid "Very fast healer serum"
+msgid_plural "Very fast healer serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Very fast healer serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"cell division rate in response to structural damage, improving your healing "
+"factor above normal."
+msgstr ""
+
+#: .\item.json
+msgid "Regeneration serum"
+msgid_plural "Regeneration serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Regeneration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Cell "
+"division rate in response to structural damage is increased to nearly "
+"unnatural levels, improving healing to a very high degree."
+msgstr ""
+
+#: .\item.json
+msgid "Reptilian healing serum"
+msgid_plural "Reptilian healing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Reptilian healing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grants "
+"self-setting and automatic fast repair to both skeletal breakage and wounds "
+"of the flesh."
+msgstr ""
+
+#: .\item.json
+msgid "Very little sleep serum"
+msgid_plural "Very little sleep serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Very little sleep serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows "
+"your brain to perform short bursts of functions similar to REM sleep while "
+"awake, lengthening times you're awake and lowering the amount of time you "
+"need to sleep."
+msgstr ""
+
+#: .\item.json
+msgid "Tireless serum"
+msgid_plural "Tireless serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tireless serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Your brain"
+" constantly performs similar functions to REM sleep all the time, "
+"effectively removing the need to sleep."
+msgstr ""
+
+#: .\item.json
+msgid "Fangs serum"
+msgid_plural "Fangs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fangs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a set of fangs."
+msgstr ""
+
+#: .\item.json
+msgid "Incisors serum"
+msgid_plural "Incisors serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Incisors serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows your"
+" frontal teeth into rodent-like incisors."
+msgstr ""
+
+#: .\item.json
+msgid "Nictitating membrane serum"
+msgid_plural "Nictitating membrane serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Nictitating membrane serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Restores "
+"the nictitating membrane that humans have lost, allowing you to see "
+"underwater. Side effects may apply."
+msgstr ""
+
+#: .\item.json
+msgid "Gills serum"
+msgid_plural "Gills serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"gills, allowing you to breathe underwater."
+msgstr ""
+
+#: .\item.json
+msgid "Cephalopodic gills serum"
+msgid_plural "Cephalopodic gills serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cephalopodic gills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the gills of an octopus or squid, allowing you to breathe underwater."
+msgstr ""
+
+#: .\item.json
+msgid "Scales serum"
+msgid_plural "Scales serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body with green reptilian scales."
+msgstr ""
+
+#: .\item.json
+msgid "Thick scales serum"
+msgid_plural "Thick scales serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Thick scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in thick, heavy green reptilian scales."
+msgstr ""
+
+#: .\item.json
+msgid "Sleek scales serum"
+msgid_plural "Sleek scales serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sleek scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in sleek, hydrodynamic scales like a fish."
+msgstr ""
+
+#: .\item.json
+msgid "Light bones serum"
+msgid_plural "Light bones serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Light bones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lightens "
+"your bones, making you faster but weaker."
+msgstr ""
+
+#: .\item.json
+msgid "Feathers serum"
+msgid_plural "Feathers serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feathers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in feathers."
+msgstr ""
+
+#: .\item.json
+msgid "Down serum"
+msgid_plural "Down serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Down serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a fine layer of down feathers."
+msgstr ""
+
+#: .\item.json
+msgid "Lightly furred serum"
+msgid_plural "Lightly furred serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lightly furred serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a fine layer of fur."
+msgstr ""
+
+#: .\item.json
+msgid "Furry serum"
+msgid_plural "Furry serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Furry serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a thick layer of fur."
+msgstr ""
+
+#: .\item.json
+msgid "Shaggy fur serum"
+msgid_plural "Shaggy fur serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Shaggy fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a very thick layer of fur like that of a bear."
+msgstr ""
+
+#: .\item.json
+msgid "Gray fur serum"
+msgid_plural "Gray fur serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gray fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a layer of fur like that of a wolf."
+msgstr ""
+
+#: .\item.json
+msgid "Sleek fur serum"
+msgid_plural "Sleek fur serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Sleek fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a layer of sleek brown fur like that of a feline."
+msgstr ""
+
+#: .\item.json
+msgid "Lynx fur serum"
+msgid_plural "Lynx fur serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lynx fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your cheeks and neck with longer fur for better insulation. Fur in other "
+"places may apply."
+msgstr ""
+
+#: .\item.json
+msgid "Patchwork skin serum"
+msgid_plural "Patchwork skin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Patchwork skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your skin mutate into an amalgamation of fur and scales."
+msgstr ""
+
+#: .\item.json
+msgid "Thickened patchwork skin serum"
+msgid_plural "Thickened patchwork skin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Thickened patchwork skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your skin mutate into an amalgamation of thickened fur and scales."
+msgstr ""
+
+#: .\item.json
+msgid "Chitin serum"
+msgid_plural "Chitin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a flexible thin layer of chitin."
+msgstr ""
+
+#: .\item.json
+msgid "Chitin armour serum"
+msgid_plural "Chitin armour serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chitin armour serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a hard layer of chitinous armour."
+msgstr ""
+
+#: .\item.json
+msgid "Chitin plate serum"
+msgid_plural "Chitin plate serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chitin plate serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in an inflexible layer of thick chitinous armour plating."
+msgstr ""
+
+#: .\item.json
+msgid "Hairy chitin serum"
+msgid_plural "Hairy chitin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hairy chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a slightly hairy chitin."
+msgstr ""
+
+#: .\item.json
+msgid "Furred chitin serum"
+msgid_plural "Furred chitin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Furred chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a very hairy layer of chitin."
+msgstr ""
+
+#: .\item.json
+msgid "Furred plate serum"
+msgid_plural "Furred plate serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Furred plate serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in furry chitinous carapace."
+msgstr ""
+
+#: .\item.json
+msgid "Urticating hairs serum"
+msgid_plural "Urticating hairs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Urticating hairs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Loosens "
+"the hairs on your chitin as a defense mechanism against melee attackers."
+msgstr ""
+
+#: .\item.json
+msgid "Spines serum"
+msgid_plural "Spines serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Spines serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin with sharp spines for defense."
+msgstr ""
+
+#: .\item.json
+msgid "Quills serum"
+msgid_plural "Quills serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Quills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your large sharp quills for defense."
+msgstr ""
+
+#: .\item.json
+msgid "Assault barbs serum"
+msgid_plural "Assault barbs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Assault barbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin with loose quills that you can fling at enemies or use as melee "
+"defense."
+msgstr ""
+
+#: .\item.json
+msgid "Phelloderm serum"
+msgid_plural "Phelloderm serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Phelloderm serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" skin green and slightly woody and better able to retain moisture."
+msgstr ""
+
+#: .\item.json
+msgid "Bark serum"
+msgid_plural "Bark serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bark serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin in light bark like a tree."
+msgstr ""
+
+#: .\item.json
+msgid "Thorns serum"
+msgid_plural "Thorns serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Thorns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin in small woody thorns."
+msgstr ""
+
+#: .\item.json
+msgid "Leaves serum"
+msgid_plural "Leaves serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" hair into long grass-like leaves."
+msgstr ""
+
+#: .\item.json
+msgid "Lush leaves serum"
+msgid_plural "Lush leaves serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lush leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"larger leaves."
+msgstr ""
+
+#: .\item.json
+msgid "Verdant leaves serum"
+msgid_plural "Verdant leaves serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Verdant leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"large and vibrant leaves that can act as a source of nutrition if uncovered."
+msgstr ""
+
+#: .\item.json
+msgid "Transpiration serum"
+msgid_plural "Transpiration serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Transpiration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your to use the evaporation of water as a way to move nutrients."
+msgstr ""
+
+#: .\item.json
+msgid "Flower serum"
+msgid_plural "Flower serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Flower serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes "
+"flowers bloom on your scalp."
+msgstr ""
+
+#: .\item.json
+msgid "Rosebud serum"
+msgid_plural "Rosebud serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rosebud serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes the "
+"top of your head bloom with rosebuds."
+msgstr ""
+
+#: .\item.json
+msgid "Long fingernails serum"
+msgid_plural "Long fingernails serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Long fingernails serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"longer fingernails capable of cutting people."
+msgstr ""
+
+#: .\item.json
+msgid "Claws serum"
+msgid_plural "Claws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws at the end of your fingertips."
+msgstr ""
+
+#: .\item.json
+msgid "Rat claws serum"
+msgid_plural "Rat claws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rat claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"rat-like claws."
+msgstr ""
+
+#: .\item.json
+msgid "Stainless claws serum"
+msgid_plural "Stainless claws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Stainless claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws as if made from stainless steel."
+msgstr ""
+
+#: .\item.json
+msgid "Retractable claws serum"
+msgid_plural "Retractable claws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Retractable claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws capable of retracting when not in use."
+msgstr ""
+
+#: .\item.json
+msgid "Tentacle rakes serum"
+msgid_plural "Tentacle rakes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tentacle rakes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives your"
+" tentacles large hook-barbed rakes."
+msgstr ""
+
+#: .\item.json
+msgid "Ink glands serum"
+msgid_plural "Ink glands serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ink glands serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"ink glands to spray and potentially blind things with."
+msgstr ""
+
+#: .\item.json
+msgid "Bulging reservoir serum"
+msgid_plural "Bulging reservoir serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bulging reservoir serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop a reservoir of fluids that buldges out of your abdomen "
+"allowing you to adapt to containing extra liquids."
+msgstr ""
+
+#: .\item.json
+msgid "Talons serum"
+msgid_plural "Talons serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Talons serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows your"
+" index fingers into hude talons."
+msgstr ""
+
+#: .\item.json
+msgid "Radiogenic serum"
+msgid_plural "Radiogenic serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Radiogenic serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"capable of healing from radiation."
+msgstr ""
+
+#: .\item.json
+msgid "Insect pheromones serum"
+msgid_plural "Insect pheromones serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insect pheromones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body produce insect pheromones and identifies you as friendly to most "
+"insects."
+msgstr ""
+
+#: .\item.json
+msgid "Mammal pheromones serum"
+msgid_plural "Mammal pheromones serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mammal pheromones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body produce mammal pheromones that calms most mammals and makes them more "
+"friendly."
+msgstr ""
+
+#: .\item.json
+msgid "Disease immunity serum"
+msgid_plural "Disease immunity serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Disease immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"immune to ambient diseases."
+msgstr ""
+
+#: .\item.json
+msgid "Infection immunity serum"
+msgid_plural "Infection immunity serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Infection immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"immune to infections."
+msgstr ""
+
+#: .\item.json
+msgid "Parasite immunity serum"
+msgid_plural "Parasite immunity serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Parasite immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body inhospitable to parasites, effectively immunizing you."
+msgstr ""
+
+#: .\item.json
+msgid "Venomous serum"
+msgid_plural "Venomous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Venomous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" biological attacks inject your enemies with venom."
+msgstr ""
+
+#: .\item.json
+msgid "Strongly venomous serum"
+msgid_plural "Strongly venomous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strongly venomous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" biological attacks inject your enemies with a strong venom."
+msgstr ""
+
+#: .\item.json
+msgid "Slime hands serum"
+msgid_plural "Slime hands serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Slime hands serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" hands produce a caustic slime."
+msgstr ""
+
+#: .\item.json
+msgid "Stretchy limbs serum"
+msgid_plural "Stretchy limbs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Stretchy limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives a "
+"bit more flexibility to your limbs."
+msgstr ""
+
+#: .\item.json
+msgid "Rubbery limbs serum"
+msgid_plural "Rubbery limbs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rubbery limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Signifigantly flexifies your limbs"
+msgstr ""
+
+#: .\item.json
+msgid "Pseudolimbs serum"
+msgid_plural "Pseudolimbs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pseudolimbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" limbs into pseudopod-like limbs."
+msgstr ""
+
+#: .\item.json
+msgid "Compound eyes serum"
+msgid_plural "Compound eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Compound eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"insect-like compound eyes."
+msgstr ""
+
+#: .\item.json
+msgid "Strong legs serum"
+msgid_plural "Strong legs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Strong legs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your legs gain muscle mass to propel you across any terrain, and help "
+"carry a bit more."
+msgstr ""
+
+#: .\item.json
+msgid "Toe talons serum"
+msgid_plural "Toe talons serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Toe talons serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"talons on your toes like those of raptors."
+msgstr ""
+
+#: .\item.json
+msgid "Hooves serum"
+msgid_plural "Hooves serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hooves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" feet into hooves."
+msgstr ""
+
+#: .\item.json
+msgid "Alcohol metabolism serum"
+msgid_plural "Alcohol metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alcohol metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows "
+"your digestive system to extract nutrients from alcohol and use it as a food"
+" source."
+msgstr ""
+
+#: .\item.json
+msgid "Troglobitic tunnel pain resistance serum"
+msgid_plural "Troglobitic tunnel pain resistance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Troglobitic tunnel pain resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Adapts "
+"your body to be fine with the aches and pains of underground living."
+msgstr ""
+
+#: .\item.json
+msgid "Troglobitic stockiness serum"
+msgid_plural "Troglobitic stockiness serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Troglobitic stockiness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Shortens "
+"you but converts the mass into muscle, increasing strength but lowering "
+"dexterity."
+msgstr ""
+
+#: .\item.json
+msgid "Saprovore serum"
+msgid_plural "Saprovore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Saprovore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat rotting food."
+msgstr ""
+
+#: .\item.json
+msgid "Saprophage serum"
+msgid_plural "Saprophage serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Saprophage serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a metabolic preference to root and photosynthesis-based sustenance and the "
+"occasional rotting food."
+msgstr ""
+
+#: .\item.json
+msgid "Gizzard serum"
+msgid_plural "Gizzard serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Gizzard serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a gizzard, like a bird's."
+msgstr ""
+
+#: .\item.json
+msgid "Ruminance serum"
+msgid_plural "Ruminance serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ruminance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat plants like shrubs and bushes directly."
+msgstr ""
+
+#: .\item.json
+msgid "Grazer serum"
+msgid_plural "Grazer serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Grazer serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"capable of eating grass."
+msgstr ""
+
+#: .\item.json
+msgid "Intestinal fortitude serum"
+msgid_plural "Intestinal fortitude serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Intestinal fortitude serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat poisonous food."
+msgstr ""
+
+#: .\item.json
+msgid "Eater of the dead serum"
+msgid_plural "Eater of the dead serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Eater of the dead serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. With this "
+"those zombies will be looking like a meal-ticket in no time."
+msgstr ""
+
+#: .\item.json
+msgid "Burrowing serum"
+msgid_plural "Burrowing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Burrowing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to dig through almost anything with your claws."
+msgstr ""
+
+#: .\item.json
+msgid "Saber teeth serum"
+msgid_plural "Saber teeth serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Saber teeth serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"grow extremely large and incredibly sharp fangs."
+msgstr ""
+
+#: .\item.json
+msgid "Hyper metabolism serum"
+msgid_plural "Hyper metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hyper metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hikes up "
+"your metabolism so much that it allows you to directly convert excess food "
+"into usable tissue for wounds and such."
+msgstr ""
+
+#: .\item.json
+msgid "Horns serum"
+msgid_plural "Horns serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"small horns on your head."
+msgstr ""
+
+#: .\item.json
+msgid "Curled horns serum"
+msgid_plural "Curled horns serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Curled horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"curled horns."
+msgstr ""
+
+#: .\item.json
+msgid "Pointed horns serum"
+msgid_plural "Pointed horns serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pointed horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"pointed horns."
+msgstr ""
+
+#: .\item.json
+msgid "Antlers serum"
+msgid_plural "Antlers serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Antlers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"antlers."
+msgstr ""
+
+#: .\item.json
+msgid "Antennae serum"
+msgid_plural "Antennae serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Antennae serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"antennae like an insect."
+msgstr ""
+
+#: .\item.json
+msgid "Road runner serum"
+msgid_plural "Road runner serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Road runner serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"move a lot faster on flat surfaces."
+msgstr ""
+
+#: .\item.json
+msgid "Stubby tail serum"
+msgid_plural "Stubby tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Stubby tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a stubby little tail."
+msgstr ""
+
+#: .\item.json
+msgid "Tail fin serum"
+msgid_plural "Tail fin serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tail fin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a tail like that of a shark or fish."
+msgstr ""
+
+#: .\item.json
+msgid "Long tail serum"
+msgid_plural "Long tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Long tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a cat-like tail."
+msgstr ""
+
+#: .\item.json
+msgid "Cattle tail serum"
+msgid_plural "Cattle tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cattle tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a tail like a cow's."
+msgstr ""
+
+#: .\item.json
+msgid "Rat tail serum"
+msgid_plural "Rat tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rat tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long rat-like tail."
+msgstr ""
+
+#: .\item.json
+msgid "Thick tail serum"
+msgid_plural "Thick tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Thick tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a thick reptilian tail serviceable as a whip."
+msgstr ""
+
+#: .\item.json
+msgid "Raptor tail serum"
+msgid_plural "Raptor tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Raptor tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long and somewhat stiff raptor's tail that helps with balance."
+msgstr ""
+
+#: .\item.json
+msgid "Fluffy tail serum"
+msgid_plural "Fluffy tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fluffy tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long and fluffy tail."
+msgstr ""
+
+#: .\item.json
+msgid "Spiked tail serum"
+msgid_plural "Spiked tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Spiked tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long tail with a spike at the end useful for stabbing things."
+msgstr ""
+
+#: .\item.json
+msgid "Club tail serum"
+msgid_plural "Club tail serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Club tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"tail with a club at its end useful for bashing things."
+msgstr ""
+
+#: .\item.json
+msgid "Hibernation serum"
+msgid_plural "Hibernation serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hibernation serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to store fat and sleep for really long periods of time."
+msgstr ""
+
+#: .\item.json
+msgid "Resilience serum"
+msgid_plural "Resilience serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Resilience serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body more resilient."
+msgstr ""
+
+#: .\item.json
+msgid "Solidly built serum"
+msgid_plural "Solidly built serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Solidly built serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body really resilient."
+msgstr ""
+
+#: .\item.json
+msgid "Tank serum"
+msgid_plural "Tank serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tank serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Might as "
+"well take a few hits for laughs now."
+msgstr ""
+
+#: .\item.json
+msgid "Pain recovery serum"
+msgid_plural "Pain recovery serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pain recovery serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to recover from pain faster."
+msgstr ""
+
+#: .\item.json
+msgid "Pain junkie serum"
+msgid_plural "Pain junkie serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pain junkie serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Start to "
+"crave and like pain."
+msgstr ""
+
+#: .\item.json
+msgid "Cenobite serum"
+msgid_plural "Cenobite serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cenobite serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"REALLY like pain."
+msgstr ""
+
+#: .\item.json
+msgid "Deadening serum"
+msgid_plural "Deadening serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Deadening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Essentially removes all pain nerves."
+msgstr ""
+
+#: .\item.json
+msgid "Bird wings serum"
+msgid_plural "Bird wings serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bird wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows "
+"feathery wings that won't fly but will stop falls form hurting."
+msgstr ""
+
+#: .\item.json
+msgid "Insect wings serum"
+msgid_plural "Insect wings serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insect wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"membranous wings like a bee or wasp."
+msgstr ""
+
+#: .\item.json
+msgid "Mouth tentacles serum"
+msgid_plural "Mouth tentacles serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mouth tentacles serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"tentacles around your mouth."
+msgstr ""
+
+#: .\item.json
+msgid "Mandibles serum"
+msgid_plural "Mandibles serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mandibles serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. TUrns your"
+" mouth into a system that uses insectoid mandibles."
+msgstr ""
+
+#: .\item.json
+msgid "Folding fangs serum"
+msgid_plural "Folding fangs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Folding fangs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns "
+"mandibles into spider fangs."
+msgstr ""
+
+#: .\item.json
+msgid "Canine ears serum"
+msgid_plural "Canine ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Canine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"dog ears."
+msgstr ""
+
+#: .\item.json
+msgid "Lupine ears serum"
+msgid_plural "Lupine ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lupine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"wolf ears."
+msgstr ""
+
+#: .\item.json
+msgid "Feline ears serum"
+msgid_plural "Feline ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feline ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"cat ears."
+msgstr ""
+
+#: .\item.json
+msgid "Ursine ears serum"
+msgid_plural "Ursine ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ursine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"bear ears."
+msgstr ""
+
+#: .\item.json
+msgid "Pointed ears serum"
+msgid_plural "Pointed ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pointed ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"elven ears."
+msgstr ""
+
+#: .\item.json
+msgid "Rodent ears serum"
+msgid_plural "Rodent ears serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rodent ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the ears of a rodent."
+msgstr ""
+
+#: .\item.json
+msgid "Web walker serum"
+msgid_plural "Web walker serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Web walker serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to walk through webs without being slowed."
+msgstr ""
+
+#: .\item.json
+msgid "Web weaver serum"
+msgid_plural "Web weaver serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Web weaver serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the capabilities to produce your own webbing."
+msgstr ""
+
+#: .\item.json
+msgid "Web diver serum"
+msgid_plural "Web diver serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Web diver serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to use your webs as a way to scale shear drops."
+msgstr ""
+
+#: .\item.json
+msgid "Rope webs serum"
+msgid_plural "Rope webs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rope webs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to make ropes from your spider silk."
+msgstr ""
+
+#: .\item.json
+msgid "Arachnitect serum"
+msgid_plural "Arachnitect serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Arachnitect serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to use webs to spin suspended walkways between ledges to span small gaps"
+msgstr ""
+
+#: .\item.json
+msgid "Whiskers serum"
+msgid_plural "Whiskers serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Whiskers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"gives you feline whiskers."
+msgstr ""
+
+#: .\item.json
+msgid "Wiry whiskers serum"
+msgid_plural "Wiry whiskers serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Wiry whiskers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"gives you rodent whiskers."
+msgstr ""
+
+#: .\item.json
+msgid "Fat deposits serum"
+msgid_plural "Fat deposits serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fat deposits serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"weight instantly! Fitness nuts hate this!"
+msgstr ""
+
+#: .\item.json
+msgid "Enlargening serum"
+msgid_plural "Enlargening serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Enlargening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Try this "
+"enlargement serum and get bigger, today! Large Inc. is not responsible for "
+"any lack of growth due to unsupported infratructure."
+msgstr ""
+
+#: .\item.json
+msgid "Enhugement serum"
+msgid_plural "Enhugement serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Enhugement serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"HUUUGE!!! If your body can support it..."
+msgstr ""
+
+#: .\item.json
+msgid "Extremely strong serum"
+msgid_plural "Extremely strong serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extremely strong serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Dude, "
+"you're ripped!"
+msgstr ""
+
+#: .\item.json
+msgid "Insanely strong serum"
+msgid_plural "Insanely strong serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insanely strong serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Argh! Look"
+" at my bulging muscles!"
+msgstr ""
+
+#: .\item.json
+msgid "Alpha strength serum"
+msgid_plural "Alpha strength serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha strength serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. It's only "
+"natural that an alpha such as I be this strong."
+msgstr ""
+
+#: .\item.json
+msgid "Extremely dextrous serum"
+msgid_plural "Extremely dextrous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extremely dextrous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You can do"
+" card tricks now."
+msgstr ""
+
+#: .\item.json
+msgid "Insanely dextrous serum"
+msgid_plural "Insanely dextrous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insanely dextrous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You can do"
+" that trick with the coin flipping between your knuckles."
+msgstr ""
+
+#: .\item.json
+msgid "Alpha dexterity serum"
+msgid_plural "Alpha dexterity serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha dexterity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Alphas "
+"ought to be this dextrous, yes."
+msgstr ""
+
+#: .\item.json
+msgid "Extremely intelligent serum"
+msgid_plural "Extremely intelligent serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extremely intelligent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Deep blue "
+"has no chance against you."
+msgstr ""
+
+#: .\item.json
+msgid "Insanely intelligent serum"
+msgid_plural "Insanely intelligent serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insanely intelligent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You've "
+"passed the singularity."
+msgstr ""
+
+#: .\item.json
+msgid "Alpha intelligence serum"
+msgid_plural "Alpha intelligence serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha intelligence serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Non-alphas"
+" are such intellectual plebeians."
+msgstr ""
+
+#: .\item.json
+msgid "Extremely perceptive serum"
+msgid_plural "Extremely perceptive serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extremely perceptive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Perceive "
+"most things."
+msgstr ""
+
+#: .\item.json
+msgid "Insanely perceptive serum"
+msgid_plural "Insanely perceptive serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insanely perceptive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum, designed to give you a single mutation. Perceive "
+"all there is around you."
+msgstr ""
+
+#: .\item.json
+msgid "Alpha perception serum"
+msgid_plural "Alpha perception serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha perception serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Alphas are"
+" able to perceive the smallest of details, of course."
+msgstr ""
+
+#: .\item.json
+msgid "Distributed neurology serum"
+msgid_plural "Distributed neurology serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Distributed neurology serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Distributes your brain across your slimy body. Become basically one big "
+"brain."
+msgstr ""
+
+#: .\item.json
+msgid "Distributed senses serum"
+msgid_plural "Distributed senses serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Distributed senses serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"capable of growing and retracting sensory organs at will."
+msgstr ""
+
+#: .\item.json
+msgid "Tiny serum"
+msgid_plural "Tiny serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tiny serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"half your original size."
+msgstr ""
+
+#: .\item.json
+msgid "Unassuming serum"
+msgid_plural "Unassuming serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Unassuming serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Master the"
+" tiny form."
+msgstr ""
+
+#: .\item.json
+msgid "Crafty serum"
+msgid_plural "Crafty serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Crafty serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become as "
+"crafty as a mouse."
+msgstr ""
+
+#: .\item.json
+msgid "Slit nostrils serum"
+msgid_plural "Slit nostrils serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Slit nostrils serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Flatten "
+"your nose and gain thin slits for nostrils."
+msgstr ""
+
+#: .\item.json
+msgid "Forked tongue serum"
+msgid_plural "Forked tongue serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Forked tongue serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"forked tongue."
+msgstr ""
+
+#: .\item.json
+msgid "Bat wings serum"
+msgid_plural "Bat wings serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bat wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"pair of leathery wings like that of a bat."
+msgstr ""
+
+#: .\item.json
+msgid "Butterfly wings serum"
+msgid_plural "Butterfly wings serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Butterfly wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"wings of a pretty butterfly."
+msgstr ""
+
+#: .\item.json
+msgid "Pale serum"
+msgid_plural "Pale serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Pale serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get pale "
+"skin."
+msgstr ""
+
+#: .\item.json
+msgid "Spots serum"
+msgid_plural "Spots serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Spots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Becomes "
+"the collection of polkadots you've always wanted to be."
+msgstr ""
+
+#: .\item.json
+msgid "Beautification serum"
+msgid_plural "Beautification serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Beautification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"beautiful."
+msgstr ""
+
+#: .\item.json
+msgid "Deluxe beautification serum"
+msgid_plural "Deluxe beautification serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Deluxe beautification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"very beautiful."
+msgstr ""
+
+#: .\item.json
+msgid "Glorification serum"
+msgid_plural "Glorification serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Glorification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"glorious."
+msgstr ""
+
+#: .\item.json
+msgid "Snout serum"
+msgid_plural "Snout serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Snout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get a "
+"snout."
+msgstr ""
+
+#: .\item.json
+msgid "Bovine snout serum"
+msgid_plural "Bovine snout serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bovine snout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become the"
+" source of cowlicks."
+msgstr ""
+
+#: .\item.json
+msgid "Lupine muzzle serum"
+msgid_plural "Lupine muzzle serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lupine muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You were "
+"always more of a dog person anyway."
+msgstr ""
+
+#: .\item.json
+msgid "Ursine muzzle serum"
+msgid_plural "Ursine muzzle serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ursine muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Maybe now "
+"you can lick out those honeypots."
+msgstr ""
+
+#: .\item.json
+msgid "Rodent muzzle serum"
+msgid_plural "Rodent muzzle serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rodent muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get a rat "
+"face."
+msgstr ""
+
+#: .\item.json
+msgid "Reptilian muzzle serum"
+msgid_plural "Reptilian muzzle serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Reptilian muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Reptile "
+"mouth ahoy."
+msgstr ""
+
+#: .\item.json
+msgid "Proboscis serum"
+msgid_plural "Proboscis serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Proboscis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Whether "
+"you're more like a fly or a mosquito after this is for you to figure out."
+msgstr ""
+
+#: .\item.json
+msgid "Hollow bones serum"
+msgid_plural "Hollow bones serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hollow bones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hollows "
+"out your bones like a bird's, making you faster but not capable of carrying "
+"a lot."
+msgstr ""
+
+#: .\item.json
+msgid "Vomitous serum"
+msgid_plural "Vomitous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vomitous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Why anyone"
+" would want to throw up a lot is their business."
+msgstr ""
+
+#: .\item.json
+msgid "Persistence hunter serum"
+msgid_plural "Persistence hunter serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Persistence hunter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to pursue prey for miles at a variety of paces until they stop from "
+"exhaustion."
+msgstr ""
+
+#: .\item.json
+msgid "Extreme persistence hunter serum"
+msgid_plural "Extreme persistence hunter serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extreme persistence hunter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to pursue prey for days until they literally die from exhaustion."
+msgstr ""
+
+#: .\item.json
+msgid "Fast metabolism serum"
+msgid_plural "Fast metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fast metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your metabolic rate, increasing caloric burn and stamina regeneration."
+msgstr ""
+
+#: .\item.json
+msgid "Rapid metabolism serum"
+msgid_plural "Rapid metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rapid metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"require more resources than most, but heal more rapidly."
+msgstr ""
+
+#: .\item.json
+msgid "Very fast metabolism serum"
+msgid_plural "Very fast metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Very fast metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"need to eat a lot but your stamina regeneration isn't anything to sneeze at."
+msgstr ""
+
+#: .\item.json
+msgid "Extreme metabolism serum"
+msgid_plural "Extreme metabolism serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Extreme metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. How you "
+"sustain yourself is anybody's guess but you've got a lot of endurance to "
+"show for it."
+msgstr ""
+
+#: .\item.json
+msgid "Metabolic rehydration serum"
+msgid_plural "Metabolic rehydration serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Metabolic rehydration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"moisture from what you eat and have your hunger and thirst be equal, like "
+"mice."
+msgstr ""
+
+#: .\item.json
+msgid "Very heavy sleeper serum"
+msgid_plural "Very heavy sleeper serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Very heavy sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sleep "
+"through gunfire."
+msgstr ""
+
+#: .\item.json
+msgid "Webbed extremities serum"
+msgid_plural "Webbed extremities serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Webbed extremities serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"webbed hands and feet."
+msgstr ""
+
+#: .\item.json
+msgid "Paws serum"
+msgid_plural "Paws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Paws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"hands into quasi-paws."
+msgstr ""
+
+#: .\item.json
+msgid "Broad paws serum"
+msgid_plural "Broad paws serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Broad paws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"hands into large paws that're better at swimming but manula dexteriry and "
+"manipulation is going to be a problem."
+msgstr ""
+
+#: .\item.json
+msgid "Beak serum"
+msgid_plural "Beak serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"beak of a bird that'll allow you to peck at things."
+msgstr ""
+
+#: .\item.json
+msgid "Woodpecker beak serum"
+msgid_plural "Woodpecker beak serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Woodpecker beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"beak of a woodpecker and peck at enemies all day long."
+msgstr ""
+
+#: .\item.json
+msgid "Hummingbird beak serum"
+msgid_plural "Hummingbird beak serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hummingbird beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"hummingbird beak, making those flowers look mighty tasty."
+msgstr ""
+
+#: .\item.json
+msgid "Radioactivity serum"
+msgid_plural "Radioactivity serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Radioactivity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"slightly radioactive for whatever reason."
+msgstr ""
+
+#: .\item.json
+msgid "Slimy serum"
+msgid_plural "Slimy serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Slimy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Be always "
+"coated in a fine layer of slime."
+msgstr ""
+
+#: .\item.json
+msgid "Viscous serum"
+msgid_plural "Viscous serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Viscous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increase "
+"your body's slime output to be sticky and gel-like"
+msgstr ""
+
+#: .\item.json
+msgid "Amorphous body serum"
+msgid_plural "Amorphous body serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Amorphous body serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Make your "
+"flesh and pleasing gel-like consistency."
+msgstr ""
+
+#: .\item.json
+msgid "Omnicellular serum"
+msgid_plural "Omnicellular serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Omnicellular serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become one"
+" big cell"
+msgstr ""
+
+#: .\item.json
+msgid "Herbivore serum"
+msgid_plural "Herbivore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Herbivore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become a "
+"herbivore"
+msgstr ""
+
+#: .\item.json
+msgid "Carnivore serum"
+msgid_plural "Carnivore serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Carnivore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become a "
+"carnivore."
+msgstr ""
+
+#: .\item.json
+msgid "Vine limbs serum"
+msgid_plural "Vine limbs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vine limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain vine-"
+"like limbs to lash at things with or rappel down drops."
+msgstr ""
+
+#: .\item.json
+msgid "Vine sprouter serum"
+msgid_plural "Vine sprouter serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vine sprouter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain full "
+"control over vine limbs and their detachment."
+msgstr ""
+
+#: .\item.json
+msgid "Hair roots serum"
+msgid_plural "Hair roots serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hair roots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Have roots"
+" growing from out of your hair."
+msgstr ""
+
+#: .\item.json
+msgid "Roots serum"
+msgid_plural "Roots serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Roots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain roots"
+" for feet."
+msgstr ""
+
+#: .\item.json
+msgid "Rooter serum"
+msgid_plural "Rooter serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rooter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"better at rooting yourself at the cost of being slower on diggable terrain."
+msgstr ""
+
+#: .\item.json
+msgid "Chloromorphosis serum"
+msgid_plural "Chloromorphosis serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Chloromorphosis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sleeping "
+"on diggable soil will satisfy any hunger or thirst you might have."
+msgstr ""
+
+#: .\item.json
+msgid "Mycorrhizal communion serum"
+msgid_plural "Mycorrhizal communion serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Mycorrhizal communion serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Talk to "
+"trees like a sane being."
+msgstr ""
+
+#: .\item.json
+msgid "Cold blooded serum"
+msgid_plural "Cold blooded serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Cold blooded serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You're "
+"slower the colder it gets but you don't have to eat as much."
+msgstr ""
+
+#: .\item.json
+msgid "Ectothermic serum"
+msgid_plural "Ectothermic serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ectothermic serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You're "
+"even slower the colder it gets but at least your food needs are even lower."
+msgstr ""
+
+#: .\item.json
+msgid "Growling serum"
+msgid_plural "Growling serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Growling serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"growl in your voice."
+msgstr ""
+
+#: .\item.json
+msgid "Snarling serum"
+msgid_plural "Snarling serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Snarling serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"snarl in your voice."
+msgstr ""
+
+#: .\item.json
+msgid "Hissing serum"
+msgid_plural "Hissing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hissing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"hiss in your voice."
+msgstr ""
+
+#: .\item.json
+msgid "Feathered arms serum"
+msgid_plural "Feathered arms serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feathered arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get "
+"feathers on your arms. Not much use beyond waterproofing and very minor "
+"protection."
+msgstr ""
+
+#: .\item.json
+msgid "Insect arms serum"
+msgid_plural "Insect arms serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Insect arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sprout two"
+" extra insect-like arms. They don't have much use currently."
+msgstr ""
+
+#: .\item.json
+msgid "Arachnid arms serum"
+msgid_plural "Arachnid arms serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Arachnid arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sprout "
+"four extra arachnidian arms. They don't have much use currently."
+msgstr ""
+
+#: .\item.json
+msgid "8 tentacle arms serum"
+msgid_plural "8 tentacle arms serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8 tentacle arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain 8 "
+"tentacle arms."
+msgstr ""
+
+#: .\item.json
+msgid "Shell serum"
+msgid_plural "Shell serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Shell serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"shell to protect you. Restricts and will destroy torso equipment on growth."
+msgstr ""
+
+#: .\item.json
+msgid "Roomy shell serum"
+msgid_plural "Roomy shell serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Roomy shell serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"shell into one you can sleep in and gain warmth in."
+msgstr ""
+
+#: .\item.json
+msgid "Tentacle legs serum"
+msgid_plural "Tentacle legs serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tentacle legs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Swap your "
+"legs for some tentacles."
+msgstr ""
+
+#: .\item.json
+msgid "Tentacle bracing serum"
+msgid_plural "Tentacle bracing serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tentacle bracing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Give your "
+"lower tentacles some suckers to keep you in place."
+msgstr ""
+
+#: .\item.json
+msgid "Feline flexibility serum"
+msgid_plural "Feline flexibility serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Feline flexibility serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"changes your muscles, joints, and the movement center of your brain "
+"internally somewhat, allowing you to traverse obstacles with ease, it also "
+"helps you avoid attacks a bit more easily."
+msgstr ""
+
+#: .\item.json
+msgid "Acidproof serum"
+msgid_plural "Acidproof serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Acidproof serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Make your "
+"flesh immune to acid."
+msgstr ""
+
+#: .\item.json
+msgid "Acid blood serum"
+msgid_plural "Acid blood serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Acid blood serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"blood into acid, make them regret hurting you."
+msgstr ""
+
+#: .\item.json
+msgid "Amphibious serum"
+msgid_plural "Amphibious serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Amphibious serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"amphibiousm comfortable both on land and in water."
+msgstr ""
+
+#: .\item.json
+msgid "Lidless eyes serum"
+msgid_plural "Lidless eyes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lidless eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Remove "
+"your eyelids and replace them with a see-through membrane."
+msgstr ""
+
+#: .\item.json
+msgid "Aqueous repose serum"
+msgid_plural "Aqueous repose serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Aqueous repose serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Falling "
+"asleep underwater should be easier now."
+msgstr ""
+
+#: .\item.json
+msgid "Freshwater osmosis serum"
+msgid_plural "Freshwater osmosis serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Freshwater osmosis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hydrate "
+"your body by being in water."
+msgstr ""
+
+#: .\item.json
+msgid "Electroreceptors serum"
+msgid_plural "Electroreceptors serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Electroreceptors serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"capable of seeing robots and electric creatures through walls but be weak to"
+" shocks."
+msgstr ""
+
+#: .\item.json
+msgid "Shark teeth serum"
+msgid_plural "Shark teeth serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Shark teeth serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain sharp"
+" teeth like those of a shark and shed and replace them frequently."
+msgstr ""
+
+#: .\item.json
+msgid "Fast reflexes serum"
+msgid_plural "Fast reflexes serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fast reflexes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"faster reflexes and improve your dodging."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Targeted Mutations"
+msgstr ""
+
+#. ~ Description for Targeted Mutations
+#: .\modinfo.json
+msgid ""
+"Adds the ability to make serums that will give you one specific mutation, as"
+" well as introducing a recipe for making the targeted purifier. I've chosen "
+"to only give a few bad mutations targeted mutation serums, as anyone using "
+"this likely wants to avoid bad mutations like the plague. Does not support "
+"mutations added by other mods, but it's not hard for modders to add the same"
+" sort of thing to their own mod. Post-threshold mutations still require you "
+"to be past its respective threshold, and if you're capable of reaching the "
+"mutation but it's several layers of mutations away you might not get there "
+"in one shot. If used and nothing happens or you get the yearning to be free "
+"message then it means you cannot get it currently or it is post-threshold. "
+"If you want to pass a threshold without risk of other mutations there are "
+"serums for that too but you'll need enough mutations in that line to pass it"
+" regardless. For an easier time of getting the mutations required to pass a "
+"threshold or get more advanced mutations, consult the wiki's mutations page."
+" Compatibility with other mods that modify vanilla mutations is unlikely. As"
+" a little bonus I've snuck in an ability for some wings that didn't before "
+"to slow your fall to safe levels like the bird wings after activating them, "
+"which includes the bat, butterfly, and insect wings."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Any"
+msgstr ""
+
+#. ~ Mutation class: Any mutagen_message
+#: .\mutation_category.json
+msgid "You feel strange."
+msgstr ""
+
+#. ~ Mutation class: Any iv_message
+#: .\mutation_category.json
+msgid "You inject yoursel-arRGH!"
+msgstr ""
+
+#. ~ Mutation class: Any iv_sleep_message
+#: .\mutation_category.json
+msgid "You writhe and collapse to the ground."
+msgstr ""
+
+#. ~ Mutation class: Any iv_sound_message
+#: .\mutation_category.json
+msgid "yourself scream in agony!"
+msgstr ""
+
+#. ~ Mutation class: Any junkie_message
+#: .\mutation_category.json
+msgid "You quiver with anticipation..."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Plant"
+msgstr ""
+
+#. ~ Mutation class: Plant mutagen_message
+#: .\mutation_category.json
+msgid "You feel much closer to nature."
+msgstr ""
+
+#. ~ Mutation class: Plant iv_message
+#: .\mutation_category.json
+msgid "You inject some nutrients into your phloem."
+msgstr ""
+
+#. ~ Mutation class: Plant Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Bloomed forth."
+msgstr ""
+
+#. ~ Mutation class: Plant Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Bloomed forth."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Insect"
+msgstr ""
+
+#. ~ Mutation class: Insect mutagen_message
+#: .\mutation_category.json
+msgid "You hear buzzing, and feel your body harden."
+msgstr ""
+
+#. ~ Mutation class: Insect iv_message
+#: .\mutation_category.json
+msgid "You sting yourself… for the Queen."
+msgstr ""
+
+#. ~ Mutation class: Insect Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Metamorphosed."
+msgstr ""
+
+#. ~ Mutation class: Insect Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Metamorphosed."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Spider"
+msgstr ""
+
+#. ~ Mutation class: Spider mutagen_message
+#: .\mutation_category.json
+msgid "You feel insidious."
+msgstr ""
+
+#. ~ Mutation class: Spider iv_message
+#: .\mutation_category.json
+msgid "Mmm… the *special* venom."
+msgstr ""
+
+#. ~ Mutation class: Spider Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found a place in the web of life."
+msgstr ""
+
+#. ~ Mutation class: Spider Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found a place in the web of life."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Slime"
+msgstr ""
+
+#. ~ Mutation class: Slime mutagen_message
+#: .\mutation_category.json
+msgid "Your body loses all rigidity for a moment."
+msgstr ""
+
+#. ~ Mutation class: Slime iv_message
+#: .\mutation_category.json
+msgid "This stuff takes you back.  Downright primordial!"
+msgstr ""
+
+#. ~ Mutation class: Slime junkie_message
+#: .\mutation_category.json
+msgid "Maybe if you drank enough, you'd become mutagen..."
+msgstr ""
+
+#. ~ Mutation class: Slime Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Gave up on rigid human norms."
+msgstr ""
+
+#. ~ Mutation class: Slime Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Gave up on rigid human norms."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Fish"
+msgstr ""
+
+#. ~ Mutation class: Fish mutagen_message
+#: .\mutation_category.json
+msgid "You are overcome by an overwhelming longing for the ocean."
+msgstr ""
+
+#. ~ Mutation class: Fish iv_message
+#: .\mutation_category.json
+msgid "Your pulse pounds as the waves."
+msgstr ""
+
+#. ~ Mutation class: Fish Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Went deep."
+msgstr ""
+
+#. ~ Mutation class: Fish Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Went deep."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Rat"
+msgstr ""
+
+#. ~ Mutation class: Rat mutagen_message
+#: .\mutation_category.json
+msgid "You feel a momentary nausea."
+msgstr ""
+
+#. ~ Mutation class: Rat iv_message
+#: .\mutation_category.json
+msgid "You squeak as the shot hits you."
+msgstr ""
+
+#. ~ Mutation class: Rat iv_sound_message
+#: .\mutation_category.json
+msgid "eep!"
+msgstr ""
+
+#. ~ Mutation class: Rat Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found that survival *is* everything."
+msgstr ""
+
+#. ~ Mutation class: Rat Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found that survival *is* everything."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Beast"
+msgstr ""
+
+#. ~ Mutation class: Beast mutagen_message
+#: .\mutation_category.json
+msgid "Your heart races and you see blood for a moment."
+msgstr ""
+
+#. ~ Mutation class: Beast iv_message
+#: .\mutation_category.json
+msgid "Your heart races wildly as the injection takes hold."
+msgstr ""
+
+#. ~ Mutation class: Beast Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Embraced his bestial nature."
+msgstr ""
+
+#. ~ Mutation class: Beast Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Embraced his bestial nature."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Bear"
+msgstr ""
+
+#. ~ Mutation class: Bear mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to… patrol?  the forests?"
+msgstr ""
+
+#. ~ Mutation class: Bear iv_message
+#: .\mutation_category.json
+msgid "You feel yourself quite equipped for wilderness survival."
+msgstr ""
+
+#. ~ Mutation class: Bear Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Became one with the bears."
+msgstr ""
+
+#. ~ Mutation class: Bear Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Became one with the bears."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Feline"
+msgstr ""
+
+#. ~ Mutation class: Feline mutagen_message
+#: .\mutation_category.json
+msgid "As you lap up the last of the mutagen, you wonder why..."
+msgstr ""
+
+#. ~ Mutation class: Feline iv_message
+#: .\mutation_category.json
+msgid "Your back arches as the mutagen takes hold."
+msgstr ""
+
+#. ~ Mutation class: Feline Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Realized the dream."
+msgstr ""
+
+#. ~ Mutation class: Feline Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Realized the dream."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Wolf"
+msgstr ""
+
+#. ~ Mutation class: Wolf mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to mark your territory.  But then it passes."
+msgstr ""
+
+#. ~ Mutation class: Wolf iv_message
+#: .\mutation_category.json
+msgid "As the mutagen hits you, your ears twitch and you stifle a yipe."
+msgstr ""
+
+#. ~ Mutation class: Wolf Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Wolfed out."
+msgstr ""
+
+#. ~ Mutation class: Wolf Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Wolfed out."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Cattle"
+msgstr ""
+
+#. ~ Mutation class: Cattle mutagen_message
+#: .\mutation_category.json
+msgid "Your mind and body slow down.  You feel peaceful."
+msgstr ""
+
+#. ~ Mutation class: Cattle iv_message
+#: .\mutation_category.json
+msgid "You wonder if this is what rBGH feels like..."
+msgstr ""
+
+#. ~ Mutation class: Cattle Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Stopped worrying and learned to love the cowbell."
+msgstr ""
+
+#. ~ Mutation class: Cattle Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Stopped worrying and learned to love the cowbell."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Cephalopod"
+msgstr ""
+
+#. ~ Mutation class: Cephalopod mutagen_message
+#: .\mutation_category.json
+msgid ""
+"Your mind is overcome by images of eldritch horrors… and then they pass."
+msgstr ""
+
+#. ~ Mutation class: Cephalopod iv_message
+#: .\mutation_category.json
+msgid ""
+"You watch the mutagen flow through a maze of little twisty passages.  All "
+"the same."
+msgstr ""
+
+#. ~ Mutation class: Cephalopod Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Began living the dreams."
+msgstr ""
+
+#. ~ Mutation class: Cephalopod Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Began living the dreams."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Bird"
+msgstr ""
+
+#. ~ Mutation class: Bird mutagen_message
+#: .\mutation_category.json
+msgid "Your body lightens and you long for the sky."
+msgstr ""
+
+#. ~ Mutation class: Bird iv_message
+#: .\mutation_category.json
+msgid "Your arms spasm in an oddly wavelike motion."
+msgstr ""
+
+#. ~ Mutation class: Bird Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Broke free of humanity."
+msgstr ""
+
+#. ~ Mutation class: Bird Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Broke free of humanity."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Lizard"
+msgstr ""
+
+#. ~ Mutation class: Lizard mutagen_message
+#: .\mutation_category.json
+msgid "For a heartbeat, your blood cools down."
+msgstr ""
+
+#. ~ Mutation class: Lizard iv_message
+#: .\mutation_category.json
+msgid "Your blood cools down.  The feeling is… different."
+msgstr ""
+
+#. ~ Mutation class: Lizard Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Shed the ugly human skin."
+msgstr ""
+
+#. ~ Mutation class: Lizard Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Shed the ugly human skin."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Troglobite"
+msgstr ""
+
+#. ~ Mutation class: Troglobite mutagen_message
+#: .\mutation_category.json
+msgid "You yearn for a cool, dark place to hide."
+msgstr ""
+
+#. ~ Mutation class: Troglobite iv_message
+#: .\mutation_category.json
+msgid "As you press the plunger, it all goes so bright..."
+msgstr ""
+
+#. ~ Mutation class: Troglobite Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Adapted to underground living."
+msgstr ""
+
+#. ~ Mutation class: Troglobite Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Adapted to underground living."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Alpha"
+msgstr ""
+
+#. ~ Mutation class: Alpha mutagen_message
+#: .\mutation_category.json
+msgid "You feel… better.  Somehow."
+msgstr ""
+
+#. ~ Mutation class: Alpha iv_message
+#: .\mutation_category.json
+msgid "You took that shot like a champ!"
+msgstr ""
+
+#. ~ Mutation class: Alpha Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Started representing."
+msgstr ""
+
+#. ~ Mutation class: Alpha Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Started representing."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Medical"
+msgstr ""
+
+#. ~ Mutation class: Medical mutagen_message
+#: .\mutation_category.json
+msgid ""
+"You can feel the blood rushing through your veins and a strange, medicated "
+"feeling washes over your senses."
+msgstr ""
+
+#. ~ Mutation class: Medical iv_message
+#: .\mutation_category.json
+msgid ""
+"You can feel the blood in your medication stream.  It's a strange feeling."
+msgstr ""
+
+#. ~ Mutation class: Medical junkie_message
+#: .\mutation_category.json
+msgid "Ahh, there it is.  You can feel the mutagen again."
+msgstr ""
+
+#. ~ Mutation class: Medical Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Resumed clinical trials."
+msgstr ""
+
+#. ~ Mutation class: Medical Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Resumed clinical trials."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Chimera"
+msgstr ""
+
+#. ~ Mutation class: Chimera mutagen_message
+#: .\mutation_category.json
+msgid "You need to roar, bask, bite, and flap.  NOW."
+msgstr ""
+
+#. ~ Mutation class: Chimera iv_message
+#: .\mutation_category.json
+msgid "everyanimalthateverlived.bursting.from.YOU!"
+msgstr ""
+
+#. ~ Mutation class: Chimera iv_sleep_message
+#: .\mutation_category.json
+msgid "With a final *pop*, you go out like a light."
+msgstr ""
+
+#. ~ Mutation class: Chimera iv_sound_message
+#: .\mutation_category.json
+msgid "yourself roar in agony!"
+msgstr ""
+
+#. ~ Mutation class: Chimera Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "United disunity."
+msgstr ""
+
+#. ~ Mutation class: Chimera Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "United disunity."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Fey"
+msgstr ""
+
+#. ~ Mutation class: Fey mutagen_message
+#: .\mutation_category.json
+msgid "Nature is becoming one with you..."
+msgstr ""
+
+#. ~ Mutation class: Fey iv_message
+#: .\mutation_category.json
+msgid "Everything goes green for a second."
+msgstr ""
+
+#. ~ Mutation class: Fey iv_sleep_message
+#: .\mutation_category.json
+msgid "It's painfully beautiful..."
+msgstr ""
+
+#. ~ Mutation class: Fey Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Accepted a more natural way of life."
+msgstr ""
+
+#. ~ Mutation class: Fey Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Accepted a more natural way of life."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Raptor"
+msgstr ""
+
+#. ~ Mutation class: Raptor mutagen_message
+#: .\mutation_category.json
+msgid "Mmm… sweet, bloody flavor… tastes like victory."
+msgstr ""
+
+#. ~ Mutation class: Raptor iv_message
+#: .\mutation_category.json
+msgid ""
+"You distinctly smell the mutagen mixing with your blood… and then it passes."
+msgstr ""
+
+#. ~ Mutation class: Raptor Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Hatched."
+msgstr ""
+
+#. ~ Mutation class: Raptor Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Hatched."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Mouse"
+msgstr ""
+
+#. ~ Mutation class: Mouse mutagen_message
+#: .\mutation_category.json
+msgid "You feel a desire to curl up in a nice, warm pile of… shredded paper."
+msgstr ""
+
+#. ~ Mutation class: Mouse iv_message
+#: .\mutation_category.json
+msgid "You feel… small.  But comfortable."
+msgstr ""
+
+#. ~ Mutation class: Mouse Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found the cheese."
+msgstr ""
+
+#. ~ Mutation class: Mouse Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found the cheese."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fleet"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum0"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum1"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodhearing"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feyhearing"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodcardio"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodcardio2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "quick"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fasthealer"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lighteater"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "easysleeper"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "easysleeper2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pain resist"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisresist"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bovine_bulk"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bovine_bulk2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thickskin"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strongstomach"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "deft"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tolerance"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gourmand"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nonaddictive"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "animalempath"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "animalempath2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "terrifying"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "disresistant"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "adrenaline"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "selfaware"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "masochist"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lightstep"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "robust"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eagleeyed"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "cannibal"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "psychopath"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "killer"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "weakscent"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pretty"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "heavysleeper"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "albino"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "skin_rough"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ceph_eyes"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "elfaeyes"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fel_eye"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bird_eye"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "infrared"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "liz_eye"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "liz_ir"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fasthealer2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "regen"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "regen_liz"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fangs"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "incisors"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "membrane"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gills"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gills_ceph"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "scales"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thick_scales"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "sleek_scales"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "light_bones"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feathers"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "down"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lightfur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ursine_fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lupine_fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lynx_fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "patchskin1"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "patchskin2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ch_hair"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "spines"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "quills"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "barbs"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "plantskin"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bark"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thorns"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "transpiration"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "flowers"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "rosebuds"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nails"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_rat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_st"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_retract"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_tentacle"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ink_glands"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "insect_reservoir"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "talons"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "radiogenic"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pheromone_insect"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pheromone_mammal"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "disimmune"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "infresist"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paraimmune"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisonous"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisonous2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slime_hands"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bendy1"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "BENDY2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "BENDY3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "compunds_eyes"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "padded_feet"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strong_legs"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "rap_talons"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hooves"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "alcmet"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "painresist_troglo"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "stocky_troglo"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "saprovore"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "SAPROPHAGE"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gizzard"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ruminant"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eatpoison"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eatdead"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "burrow"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "saber_teeth"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eathealth"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns_curled"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns_pointed"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "antlers"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "antennae"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fleet2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_stub"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_fin"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_long"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_cattle"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_rat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_thick"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_raptor"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_fluffy"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_sting"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_club"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hibernate"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mut_tough2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mut_tough3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "painrec1"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "masochist_med"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "cenobite"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nopain"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_bird"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_insect"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mouth_tentacles"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mandibles"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fangs_spider"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "canine_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lupine_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ursine_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "elfa_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mouse_ears"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_walker"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_spinner"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_weaver"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_rappel"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_rope"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_bridge"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "whiskers"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "whiskers_rat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "large_ok"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "huge_ok"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_up_3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_up_4"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_alpha"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_up_3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_up_4"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_alpha"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_up_3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_up_4"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_alpha"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_up_3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_up_4"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_alpha"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "small"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "small_ok"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "crafty"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slit_nostrils"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "forked_tongue"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_bat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_butterfly"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pale"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "spots"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "snout"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "minotaur"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_bear"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_rat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_long"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "proboscis"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hollow_bones"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vomitous"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "persistence_hunter"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "persistence_hunter2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "met_rat"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "no_thirst"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "HEAVYSLEEPER2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "webbed"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paws"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paws_large"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak_peck"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak_hum"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "radioactive"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slimy"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "viscous"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "amorphous"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slimespawner"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "herbivore"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "carnivore"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vines2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vines3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hairroots"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "roots2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "roots3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chloromorph"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tree_communion"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "coldblood3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "coldblood4"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "growl"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "snarl"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hiss"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shout1"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shout3"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arm_feathers"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "insect_arms_ok"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arachnid_arms_ok"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arm_tentacles_8"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shell"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shell2"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leg_tentacles"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leg_tent_brace"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_flexibility"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "acidproof"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "acidblood"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "amphibian"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "seesleep"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "watersleep"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "toxicflesh"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "freshwaterosmosis"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "electroreceptors"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "sharkteeth"
+msgstr ""
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strongback"
+msgstr ""

@@ -1,0 +1,355 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: More tea leaf\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "MOD to grow tea leaves"
+msgstr ""
+
+#. ~ Description for MOD to grow tea leaves
+#: .\modinfo.json
+msgid ""
+"Adds new tea leaf seeds and raw tea leaves crafting options, new types of "
+"tea leaves and tea."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "sugarless tea"
+msgid_plural "sugarless tea"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tl_drink.json
+msgid "fruit tea"
+msgid_plural "fruit tea"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tl_drink.json
+msgid "decaffeinated tea"
+msgid_plural "decaffeinated teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'decaffeinated tea'}
+#: .\tl_drink.json
+msgid ""
+"It is a tea extracted with water. It is safe to drink before going to bed "
+"because caffeine is significantly reduced, but it may not be enough because "
+"the taste has changed compared to those made with hot water."
+msgstr ""
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "green tea"
+msgid_plural "green teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'green tea'}
+#: .\tl_drink.json
+msgid ""
+"Green tea is a tea made from tea leaves, which is processed by heating the "
+"picked tea leaves to prevent fermentation. Vivid fresh green is beautiful."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "decaffeinated green tea"
+msgid_plural "decaffeinated green teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'decaffeinated green tea'}
+#: .\tl_drink.json
+msgid ""
+"水で抽出した緑茶です。カフェインが大幅に少なくなっているので就寝前に飲用しても安心ですが、お湯で作ったものよりも味が変化しているので物足りないかもしれません。"
+msgstr ""
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "oolong tea"
+msgid_plural "oolong teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"Oolong tea is a semi-fermented tea that is classified as blue tea among "
+"Chinese teas and stopped fermentation by heating during fermentation of tea "
+"leaves. I will refresh after drinking after meals."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "decaffeinated oolong tea"
+msgid_plural "decaffeinated oolong teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'decaffeinated oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"It is oolong tea extracted with water. It is safe to drink before going to "
+"bed, as caffeine is significantly reduced, but the taste may have changed "
+"and more than those made with hot water."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "boiled plum tea"
+msgid_plural "boiled plum teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'boiled plum tea'}
+#: .\tl_drink.json
+msgid ""
+"Sumomo simmered with black tea and sugar. The sweetness of the tea is good "
+"and the flavor of the tea is good."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "milk tea with banana and chocolate flavorings"
+msgid_plural "milk tea with banana and chocolate flavoringss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'milk tea with banana and chocolate flavorings'}
+#: .\tl_drink.json
+msgid ""
+"It has a sweet, rich, parfait-like flavor with a milk-rich black tea plus "
+"banana and chocolate flavors."
+msgstr ""
+
+#. ~ Description for {'str': 'fruit tea'}
+#: .\tl_drink.json
+msgid "It is black tea with added fruit juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "berry tea"
+msgid_plural "berry teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'berry tea'}
+#: .\tl_drink.json
+msgid "It is black tea with berry juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "apple tea"
+msgid_plural "apple teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'apple tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with apple juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "pear tea"
+msgid_plural "pear teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pear tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with pear juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "cherry tea"
+msgid_plural "cherry teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cherry tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with cherry juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "peach tea"
+msgid_plural "peach teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'peach tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with peach juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "apricot tea"
+msgid_plural "apricot teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'apricot tea'}
+#: .\tl_drink.json
+msgid "It is black tea with apricot juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "lemon tea"
+msgid_plural "lemon teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'lemon tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with lemon juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "mango tea"
+msgid_plural "mango teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'mango tea'}
+#: .\tl_drink.json
+msgid "It is black tea with mango juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "grape tea"
+msgid_plural "grape teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grape tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grape juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "grapefruit tea"
+msgid_plural "grapefruit teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'grapefruit tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grapefruit juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "papaya tea"
+msgid_plural "papaya teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'papaya tea'}
+#: .\tl_drink.json
+msgid "It is a tea with papaya juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "orange tea"
+msgid_plural "orange teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'orange tea'}
+#: .\tl_drink.json
+msgid "It is black tea with orange juice. Fruity and delicious."
+msgstr ""
+
+#: .\tl_drink.json
+msgid "pomegranate tea"
+msgid_plural "pomegranate teas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pomegranate tea'}
+#: .\tl_drink.json
+msgid "It is a tea with pomegranate juice added. Fruity and delicious."
+msgstr ""
+
+#: .\tl_materials.json
+msgid "squished"
+msgstr ""
+
+#: .\tl_materials.json
+msgid "cut"
+msgstr ""
+
+#: .\tl_materials.json
+msgid "lightly damaged"
+msgstr ""
+
+#: .\tl_materials.json
+msgid "damaged"
+msgstr ""
+
+#: .\tl_materials.json
+msgid "very damaged"
+msgstr ""
+
+#: .\tl_materials.json
+msgid "thoroughly damaged"
+msgstr ""
+
+#: .\tl_seed.json
+msgid "Tea Leaf template"
+msgid_plural "Tea Leaf template"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\tl_seed.json
+msgid "tea leaf seed"
+msgid_plural "tea leaf seeds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tea leaf seed', 'str_pl': 'tea leaf seeds'}
+#: .\tl_seed.json
+msgid "It is a species of tea leaves."
+msgstr ""
+
+#: .\tl_seed.json
+msgid "tea plant"
+msgstr ""
+
+#: .\tl_tea_leaf.json
+msgid "raw tea leaf"
+msgid_plural "raw tea leaves"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'raw tea leaf', 'str_pl': 'raw tea leaves'}
+#: .\tl_tea_leaf.json
+msgid "It is a raw tea leaf."
+msgstr ""
+
+#: .\tl_tea_leaf.json
+msgid "green tea leaf"
+msgid_plural "green tea leaves"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'green tea leaf', 'str_pl': 'green tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"It is green tea leaves. You can use green tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr ""
+
+#: .\tl_tea_leaf.json
+msgid "oolong tea leaf"
+msgid_plural "oolong tea leaves"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'oolong tea leaf', 'str_pl': 'oolong tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"Oolong tea leaves. You can use oolong tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr ""

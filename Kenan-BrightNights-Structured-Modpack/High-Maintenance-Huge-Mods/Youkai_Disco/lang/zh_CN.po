@@ -1,0 +1,609 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Youkai_Disco\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Youkai Enemies"
+msgstr "妖怪敌人"
+
+#. ~ Description for Youkai Enemies
+#: .\modinfo.json
+msgid "Adds some monsters based off Japanese folklore."
+msgstr "添加了一些基于日本民间传说的怪物。"
+
+#: .\monster_attacks.json
+msgid "The %1$s directs some dust into your eyes!"
+msgstr "%1$s 将一些灰尘吹进了你的眼睛！"
+
+#: .\monster_attacks.json
+msgid "The %1$s directs dust into <npcname>'s eyes!"
+msgstr "%1$s 将灰尘吹进了 <npcname> 的眼睛！"
+
+#: .\monster_attacks.json
+msgid ""
+"The %1$s tries to direct dust into your eyes, but it just flows around your "
+"face!"
+msgstr "%1$s 试图将灰尘吹进你的眼睛，但灰尘只是从你脸旁飘过！"
+
+#: .\monster_attacks.json
+msgid ""
+"The %1$s tries to direct dust into <npcname>'s eyes, but it just flows "
+"around their face!"
+msgstr "%1$s 试图将灰尘吹进 <npcname> 的眼睛，但灰尘只是从他们脸旁飘过！"
+
+#: .\overmap_terrain.json
+msgid "field"
+msgstr "田野"
+
+#: .\youkai.json
+msgid "tengu thug"
+msgid_plural "tengu thugs"
+msgstr[0] "天狗暴徒"
+
+#. ~ Description for {'str': 'tengu thug'}
+#: .\youkai.json
+msgid ""
+"A tall person with a red face and a long nose, covered in black feathers "
+"with wings on its back, wearing a kimono with a mischievous look in the eye."
+"  With a quick glance you also spot its sharp claws, and a wooden club by "
+"its belt."
+msgstr "一个高个子，红脸长鼻，浑身覆盖着黑色羽毛，背生双翼，身穿和服，眼中闪烁着顽皮的光芒。你快速一瞥，还看到了它锋利的爪子，以及腰间别着的木棍。"
+
+#: .\youkai.json
+msgid "tengu monk"
+msgid_plural "tengu monks"
+msgstr[0] "天狗僧侣"
+
+#. ~ Description for {'str': 'tengu monk'}
+#: .\youkai.json
+msgid ""
+"A tall person with a red face and a long nose, with most of its head however"
+" covered up by rags.  From under its kimono you can spot pieces of Japanese "
+"armor.  It often meditates and is probably best left to itself.  As for "
+"weapons, it's holding a naginata, a dangerous polearm."
+msgstr ""
+"一个高个子，红脸长鼻，但头部大部分被破布遮盖。从它的和服下，你可以看到日本盔甲的碎片。它经常冥想，最好别去打扰它。至于武器，它手持一把薙刀，一种危险的长柄武器。"
+
+#: .\youkai.json
+msgid "cat"
+msgid_plural "cats"
+msgstr[0] "猫"
+
+#. ~ Description for {'str': 'cat'}
+#: .\youkai.json
+msgid ""
+"A small domesticated predator gone feral in the absence of human "
+"stewardship.  Harried by the elements and the rigors of survival, it waggles"
+" its two tails...  Wait, nevermind, that's probably not your ordinary cat."
+msgstr "一只小型家养捕食者，在失去人类照料后变得狂野。饱受恶劣环境和生存艰辛的折磨，它摇晃着两条尾巴……等等，别在意，那可能不是普通的猫。"
+
+#: .\youkai.json
+msgid "kappa"
+msgid_plural "kappas"
+msgstr[0] "河童"
+
+#. ~ Description for {'str': 'kappa'}
+#: .\youkai.json
+msgid ""
+"A small humanoid the size of child, with frog-like skin and turtle-like "
+"carapace on it's back.  It carries water in a cavity in its skull, has a "
+"sharp beak and is known to drag people under the water in order to eat them."
+"  It would prefer cucumbers however."
+msgstr ""
+"一个孩童大小的小型人形生物，皮肤似蛙，背有龟壳般的甲壳。它的头骨凹陷处存有水，长着锋利的喙，以将人拖入水中吃掉而闻名。不过，它其实更喜欢黄瓜。"
+
+#: .\youkai.json
+msgid "kappa engineer"
+msgid_plural "kappa engineers"
+msgstr[0] "河童工程师"
+
+#. ~ Description for {'str': 'kappa engineer'}
+#: .\youkai.json
+msgid ""
+"A small humanoid the size of child, with frog-like skin and turtle-like "
+"carapace on it's back.  It carries water in a cavity in its skull and "
+"strangely enough in this case a bunch of tools.  What would it need those "
+"for?"
+msgstr "一个孩童大小的小型人形生物，皮肤似蛙，背有龟壳般的甲壳。它的头骨凹陷处存有水，奇怪的是，这次还带着一堆工具。它要这些做什么？"
+
+#: .\youkai.json
+msgid "mysterious robot"
+msgid_plural "mysterious robots"
+msgstr[0] "神秘机器人"
+
+#. ~ Description for {'str': 'mysterious robot'}
+#: .\youkai.json
+msgid ""
+"On the outside this robot seems to be of a very old design, similar in look "
+"to ancient Japanese automata.  Then you notice its giant size and the fact "
+"that, among many unfamiliar symbols, it has a three-leafed nuclear hazard "
+"sign."
+msgstr ""
+"从外表看，这个机器人似乎设计非常古老，外观类似于日本古代的自动人偶。然后你注意到它巨大的体型，以及一个事实：在许多陌生的符号中，它有一个三叶形的核辐射警告标志。"
+
+#: .\youkai.json
+msgid "oni bandit"
+msgid_plural "oni bandits"
+msgstr[0] "鬼族强盗"
+
+#. ~ Description for {'str': 'oni bandit'}
+#: .\youkai.json
+msgid ""
+"A huge, muscular person with blood red skin, glaring at you with rage, "
+"wearing animal skins and wielding a giant log as a makeshift club.  Under "
+"its singular horn stares at you a smaller, third eye, surrounded by unkempt "
+"hair."
+msgstr ""
+"一个高大、肌肉发达的人，皮肤血红，愤怒地瞪着你，身穿兽皮，挥舞着一根巨大的原木作为临时棍棒。在它那根独角下，一只较小的第三只眼正盯着你，周围是蓬乱的头发。"
+
+#: .\youkai.json
+msgid "kamaitachi"
+msgid_plural "kamaitachis"
+msgstr[0] "镰鼬"
+
+#. ~ Description for {'str': 'kamaitachi'}
+#: .\youkai.json
+msgid ""
+"A small weasel-like creature, with four sickles instead of its four paws. It"
+" flies on an unending gust of hot wind filled with dust and seems to be able"
+" to control its direction."
+msgstr "一只小型鼬鼠般的生物，四只爪子被四把镰刀取代。它乘着一股永不停歇、充满灰尘的热风飞行，似乎能够控制其方向。"
+
+#: .\youkai.json
+msgid "okka"
+msgid_plural "okkas"
+msgstr[0] "御加"
+
+#. ~ Description for {'str': 'okka'}
+#: .\youkai.json
+msgid ""
+"A small bulbous creature with red, frog-like skin. It runs around on its two"
+" tiny clawed feets, hiding from people's sight."
+msgstr "一个红色、蛙皮般的小型球状生物。它用两只带爪的小脚跑来跑去，躲避人们的视线。"
+
+#: .\youkai.json
+msgid "kanazuchibo"
+msgid_plural "kanazuchibos"
+msgstr[0] "金槌坊"
+
+#. ~ Description for {'str': 'kanazuchibo'}
+#: .\youkai.json
+msgid ""
+"A  tiny humanoid with grey, wrinkly skin and long, uncombed silver hair. It "
+"carries around absurdly large wooden hammer, given its size."
+msgstr "一个灰色皮肤皱巴巴、银色长发未梳理的微小类人生物。考虑到它的体型，它扛着一把大得离谱的木锤。"
+
+#: .\youkai_brewing.json
+msgid "sake"
+msgid_plural "sake"
+msgstr[0] "清酒"
+
+#. ~ Description for {'str': 'sake', 'str_pl': 'sake'}
+#: .\youkai_brewing.json
+msgid ""
+"A popular Japanese alcohol made by fermenting and filtering rice with the "
+"use of yeast and special mold called \"koji\".  This one is crystal clear "
+"and holding it makes you feel rather fancy."
+msgstr "一种流行的日本酒，通过用酵母和称为“麴”的特殊霉菌发酵并过滤大米制成。这款酒清澈透明，拿着它让你感觉相当精致。"
+
+#: .\youkai_brewing.json
+msgid "koji & yeast starter"
+msgid_plural "koji & yeast starters"
+msgstr[0] "麴与酵母起子"
+
+#. ~ Use action msg for {'str': 'koji & yeast starter'}.
+#: .\youkai_brewing.json
+msgid ""
+"The koji seems to have overtaken the entire batch of rice, you form it into "
+"a tiny \"cake\" for later use."
+msgstr "麴似乎已经覆盖了整批大米，你将其塑成一个小“饼”以备后用。"
+
+#. ~ Use action not_ready_msg for {'str': 'koji & yeast starter'}.
+#: .\youkai_brewing.json
+msgid "The koji still has plenty of room to grow..."
+msgstr "麴仍有很大的生长空间……"
+
+#. ~ Description for {'str': 'koji & yeast starter'}
+#: .\youkai_brewing.json
+msgid ""
+"Bunch of cooked table rice mixed with yeast and koji mold fragments, set a "
+"side to grow moldy so it can make a passable sake base."
+msgstr "一堆煮熟的米饭混合了酵母和麴霉碎片，放在一旁发霉，以便制成可用的清酒基料。"
+
+#: .\youkai_brewing.json
+msgid "koji covered rice"
+msgid_plural "koji covered rice"
+msgstr[0] "覆盖麴的米饭"
+
+#. ~ Description for {'str': 'koji covered rice', 'str_pl': 'koji covered
+#. rice'}
+#: .\youkai_brewing.json
+msgid ""
+"Bunch of rice covered in a distinct mold, mixed in with yeast.  Useful for "
+"making sake, but not really tasty on its own.  Smells vaguely of chestnuts."
+msgstr "一堆覆盖着独特霉菌的米饭，混有酵母。可用于制作清酒，但本身并不美味。闻起来隐约有栗子味。"
+
+#: .\youkai_brewing.json
+msgid "sake base"
+msgid_plural "sake bases"
+msgstr[0] "清酒基料"
+
+#. ~ Description for {'str': 'sake base'}
+#: .\youkai_brewing.json
+msgid ""
+"A fine mix of water, koji covered rice and yeast, ready to be fermented into"
+" sake once set in a fermenting vat."
+msgstr "水、覆盖麴的米饭和酵母的精细混合物，一旦放入发酵桶中即可发酵成清酒。"
+
+#: .\youkai_brewing.json
+msgid "nigori sake"
+msgid_plural "nigori sake"
+msgstr[0] "浊酒"
+
+#. ~ Description for {'str': 'nigori sake', 'str_pl': 'nigori sake'}
+#: .\youkai_brewing.json
+msgid ""
+"A Japanese alcohol made by fermenting rice with the use of yeast and special"
+" mold called \"koji\".  It hasn't been pressed so it has a white, cloudy "
+"texture because of rice base sendiments.  You can probaly filter it to make "
+"it look more refined."
+msgstr ""
+"一种日本酒，通过用酵母和称为“麴”的特殊霉菌发酵大米制成。它未经压榨，因此由于米基沉淀物而呈现白色浑浊质地。你或许可以过滤它，使其看起来更精致。"
+
+#: .\youkai_brewing.json
+msgid "koji"
+msgid_plural "koji"
+msgstr[0] "曲"
+
+#. ~ Description for {'str': 'koji', 'str_pl': 'koji'}
+#: .\youkai_brewing.json
+msgid ""
+"A powdered mix of ground rice and fragments of Aspergillus oryzae fungus, "
+"set aside for later use in making sake."
+msgstr "磨碎的大米和米曲霉碎片的粉末混合物，留待以后制作清酒时使用。"
+
+#: .\youkai_factions.json
+msgid "youkai"
+msgid_plural "youkais"
+msgstr[0] "妖怪"
+
+#. ~ Description for {'str': 'youkai'}
+#: .\youkai_factions.json
+msgid "Youkai"
+msgstr "妖怪"
+
+#: .\youkai_factions.json
+msgid "Order side youkai"
+msgid_plural "Order side youkais"
+msgstr[0] "秩序侧妖怪"
+
+#. ~ Description for {'str': 'Order side youkai'}
+#: .\youkai_factions.json
+msgid "Order side"
+msgstr "秩序侧"
+
+#: .\youkai_factions.json
+msgid "Chaos side youkai"
+msgid_plural "Chaos side youkais"
+msgstr[0] "混沌侧妖怪"
+
+#. ~ Description for {'str': 'Chaos side youkai'}
+#: .\youkai_factions.json
+msgid "Chaos side"
+msgstr "混沌侧"
+
+#: .\youkai_items.json
+msgid "broken mysterious robot"
+msgid_plural "broken mysterious robots"
+msgstr[0] "损坏的神秘机器人"
+
+#. ~ Description for {'str': 'broken mysterious robot'}
+#: .\youkai_items.json
+msgid ""
+"A gigantic heap of weird metal parts, hoses, pipes and plutonium.  It makes "
+"no sense as far as your electrical knowledge is concerned, but it can always"
+" be gutted for parts."
+msgstr "一堆巨大的怪异金属零件、软管、管道和钚。就你的电气知识而言，这毫无意义，但它总可以被拆解成零件。"
+
+#: .\youkai_items.json
+msgid "pair of nekomata tails"
+msgid_plural "pairs of nekomata tails"
+msgstr[0] "一对猫又尾巴"
+
+#. ~ Description for {'str': 'pair of nekomata tails', 'str_pl': 'pairs of
+#. nekomata tails'}
+#: .\youkai_items.json
+msgid ""
+"A pair of feline tails, grown together in a otherworldly but charming "
+"manner.  Eating them could potentially mutate you into a more purr-fect "
+"form."
+msgstr "一对猫科动物的尾巴，以超凡脱俗但迷人的方式长在一起。食用它们可能会让你变异成更完美的形态。"
+
+#: .\youkai_items.json
+msgid "wooden kine"
+msgid_plural "wooden kines"
+msgstr[0] "木杵"
+
+#. ~ Description for {'str': 'wooden kine'}
+#: .\youkai_items.json
+msgid ""
+"A large wooden mallet with elongated head, traditionally used to pound rice "
+"or millet. It can also smash heads in a pinch."
+msgstr "一把头部细长的大木槌，传统上用于捣米或小米。紧急时也能用来砸碎脑袋。"
+
+#: .\youkai_snippets.json
+msgid ""
+"GHOST SIGHTINGS: TRUTH OR FICTION? Some people have seen recently what they "
+"describe as \"paranormal activities\" such as strange lights seen near "
+"swamps or rivers, and more. \"I seen one of them, it was the size of a "
+"bobcat and pulled my poor dog under the water!\", said one of the supposed "
+"witnesses."
+msgstr ""
+"幽灵目击事件：真相还是虚构？最近有些人看到了他们描述的“超自然活动”，例如在沼泽或河流附近看到奇怪的光等等。“我见过其中一个，它和短尾猫一样大，把我可怜的狗拖到了水下！”一位所谓的目击者说道。"
+
+#: .\youkai_snippets.json
+msgid ""
+"LITTLE RED MEN: Among many recent strange sightings, there have been already"
+" more than 52 people claiming to have seen bizarrely dressed men vandalizing"
+" churches and synagogues. Supposedly these hooligans are wearing robes and "
+"are painted all red, head to toe. Government sources have since suspected "
+"\"Chinese communist agitators\"."
+msgstr ""
+"小红人：在众多最近的奇怪目击事件中，已有超过52人声称看到穿着奇装异服的男子破坏教堂和犹太教堂。据称这些流氓穿着长袍，从头到脚涂成红色。政府消息来源随后怀疑是“中国共产主义煽动者”。"
+
+#: .\youkai_snippets.json
+msgid ""
+"AN UNSUSPECTED TRAGEDY: Recently a young girl has been found dead near the "
+"road to a remote village. Her body was covered wholly in signs of animal "
+"claws, probably ones of a domesticated cat but the cause of death has not "
+"been yet uncovered by the police."
+msgstr "一场意想不到的悲剧：最近在通往一个偏远村庄的道路附近发现了一名年轻女孩的尸体。她的全身布满了动物爪痕，可能是家猫的，但死因尚未被警方查明。"
+
+#: .\youkai_snippets.json
+msgid ""
+"\"Among all of the demons I have seen I noticed many rivalries. I seen them "
+"tear each other apart because of them instead of slaughtering me, thank God."
+" The ones from our world really hate those new intruders but are not willing"
+" to put old grudges away...\""
+msgstr ""
+"“在我见过的所有恶魔中，我注意到许多敌对关系。我看到它们因为这些敌对关系而互相撕碎，而不是屠杀我，感谢上帝。来自我们世界的那些真的憎恨那些新入侵者，但又不愿放下旧怨……”"
+
+#: .\youkai_snippets.json
+msgid ""
+"\"The so called capital \"C\" \"CULT\", is just a bunch of heretics "
+"following those spirits alien to us. WE need to embrace OUR inner demons. "
+"REJOICE BROTHERS, FOR NEW DAWN IS COMING!\""
+msgstr ""
+"\"所谓的大写'C'的'邪教'，不过是一群追随那些与我们格格不入的异界灵体的异端罢了。我们应当拥抱内心的恶魔。欢庆吧，兄弟们，因为新的黎明即将来临！\""
+
+#: .\youkai_snippets.json
+msgid ""
+"\"WE SHOULDN'T HAVE ANGERED THE SPIRITS. WE SHOULDN'T HAVE CUTTED THOSE TREES. WE SHOULDN'T HAVE MINED THOSE MOUNTAINS. GOD LEFT US AND NOW GODS WILL DEVOUR US...\" \n"
+" Rest of the text is unintelligible and covered in dried up blood."
+msgstr ""
+"\"我们不该激怒那些灵体。我们不该砍伐那些树木。我们不该挖掘那些山脉。神已离我们而去，如今众神将吞噬我们……\"\n"
+"余下的文字难以辨认，且覆盖着干涸的血迹。"
+
+#: .\youkai_snippets.json
+msgid ""
+"RISING SUN: Recently an eccentric billionaire, known only by his online "
+"trading pseudonym \"Stephen\", started building a new chain of hotels in our"
+" state, one that claims to combine modern technology and traditional "
+"Japanese architecture to pose a unique experience for its guests."
+msgstr ""
+"旭日酒店：最近，一位仅以其在线交易化名\"斯蒂芬\"为人所知的古怪亿万富翁，开始在我们州建造一系列新酒店，声称将现代科技与传统日式建筑相结合，为客人提供独特的体验。"
+
+#: .\youkai_speech.json
+msgid "\"Leave what's dearest to you for me and I just might leave you alone.\""
+msgstr "\"把你最珍贵的东西留给我，我说不定就会放过你。\""
+
+#: .\youkai_speech.json
+msgid "\"Give me that trinket!\""
+msgstr "\"把那小玩意儿给我！\""
+
+#: .\youkai_speech.json
+msgid "\"I didn't expect less.\""
+msgstr "\"我早就料到了。\""
+
+#: .\youkai_speech.json
+msgid "\"We now rule in this world mortal, remember that.\""
+msgstr "\"如今是我们统治这个世界，凡人，记住这一点。\""
+
+#: .\youkai_speech.json
+msgid "\"Just don't call us mere \"demons\" mortal, we are far greater than that.\""
+msgstr "\"别把我们叫做区区'恶魔'，凡人，我们远比那更伟大。\""
+
+#: .\youkai_speech.json
+msgid "\"One more yon and I will buy me some sake at Boss's place.\""
+msgstr "\"再干一票，我就能去老板那儿买点清酒了。\""
+
+#: .\youkai_speech.json
+msgid "\"Our Boss would love to have another head mounted in his castle.\""
+msgstr "\"我们老板会很高兴在他的城堡里再挂上一颗头颅。\""
+
+#: .\youkai_speech.json
+msgid "\"Wait for Boss to hear about this!\""
+msgstr "\"等着让老板知道这事吧！\""
+
+#: .\youkai_speech.json
+msgid "a loud croak!"
+msgstr "一声响亮的呱叫！"
+
+#: .\youkai_speech.json
+msgid "a thunderclap-like battlecry!"
+msgstr "一声雷鸣般的战吼！"
+
+#: .\youkai_speech.json
+msgid "\"I am a god!  How could you kill a god?\""
+msgstr "\"我是神！你怎么可能杀死一位神？\""
+
+#: .\youkai_speech.json
+msgid "\"This is pathetic!\""
+msgstr "\"这太可悲了！\""
+
+#: .\youkai_speech.json
+msgid "\"You had it coming.\""
+msgstr "\"你这是自找的。\""
+
+#: .\youkai_speech.json
+msgid "\"Too bad.  I will have to clean my naginata after this!\""
+msgstr "\"真可惜。之后我得好好擦擦我的薙刀了！\""
+
+#: .\youkai_speech.json
+msgid "\"How much do people need to tell you to leave things how they are?\""
+msgstr "\"人们得说多少遍你才肯让事物保持原样？\""
+
+#: .\youkai_speech.json
+msgid "\"A mortal is most useful when it is away.\""
+msgstr "\"凡人最有用的时刻，就是他们不在的时候。\""
+
+#: .\youkai_speech.json
+msgid "a quiet whistle"
+msgstr "一声轻柔的口哨"
+
+#: .\youkai_speech.json
+msgid "\"All I need is to stay alone.\""
+msgstr "\"我只需要独自待着。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"Others of my race would rob your corpse naked but I will be more gentle "
+"with it.\""
+msgstr "\"我族中的其他家伙会把你的尸体扒个精光，但我会更温柔些。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"Your kind is so adaptive which always impressed me.  Too bad your time on "
+"Earth is over.\""
+msgstr "\"你们这类生物适应性如此之强，总是令我印象深刻。可惜你们在地球上的时日到头了。\""
+
+#: .\youkai_speech.json
+msgid "\"What's this?  A mortal who is putting up a fight? That's cute!\""
+msgstr "\"这是什么？一个敢于反抗的凡人？真可爱！\""
+
+#: .\youkai_speech.json
+msgid "\"My fur!  Now it's all icky.\""
+msgstr "\"我的毛！现在全弄脏了。\""
+
+#: .\youkai_speech.json
+msgid "\"I hope this human has some lamp oil, haven't tasted it in a while...\""
+msgstr "\"希望这个人类身上有点灯油，好久没尝过了……\""
+
+#: .\youkai_speech.json
+msgid "\"My claws are much sharper than those of a lesser feline!\""
+msgstr "\"我的爪子可比那些低等猫科动物锋利多了！\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"Hmmm, my fish bone comb makes my fur stink a bit. Should I get a human "
+"bone one instead?\""
+msgstr "\"嗯，我的鱼骨梳让我的毛有点臭。是不是该换个人骨梳子？\""
+
+#: .\youkai_speech.json
+msgid "a quiet meow."
+msgstr "一声轻柔的喵叫。"
+
+#: .\youkai_speech.json
+msgid "a loud meow!"
+msgstr "一声响亮的喵叫！"
+
+#: .\youkai_speech.json
+msgid ""
+"\"All of your kind that survived seem to have at least one mental defect.  "
+"Are you another case of a hoader?\""
+msgstr "\"你们这些幸存下来的同类，似乎至少都带点精神缺陷。你也是那种囤积癖患者吗？\""
+
+#: .\youkai_speech.json
+msgid "\"For how much yon does a fish sell this day anyway?\""
+msgstr "\"话说今儿个鱼卖多少钱来着？\""
+
+#: .\youkai_speech.json
+msgid "a bizarre croak!"
+msgstr "一声怪异的呱呱叫！"
+
+#: .\youkai_speech.json
+msgid "\"Cucumber, cucumber, delicious cucumber... ~\"."
+msgstr "\"黄瓜，黄瓜，美味的黄瓜……~\"。"
+
+#: .\youkai_speech.json
+msgid ""
+"\"There is one negative aspect to this apocalypse - no more mortal "
+"offsprings to eat.\""
+msgstr "\"这场末日浩劫有个坏处——再也吃不到凡人的子嗣了。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"Knowing that all humans left are potential youkai hunters always make me "
+"jumpy.\""
+msgstr "\"一想到剩下的人类都可能是妖怪猎人，我就总是提心吊胆的。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"You humans just work all day on the shore, let me take you where it's "
+"wetter and better!\""
+msgstr "\"你们人类整天在岸边忙活，让我带你去更湿润、更美妙的地方吧！\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"Humans are icky when they move, but nowadays they tend to carry a lot of "
+"useful parts.\""
+msgstr "\"人类动起来时黏糊糊的，不过如今他们身上常带着不少有用的零件。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"HEY!  You have tools, right?!  I mean, what fools don't walk with their "
+"tools?\""
+msgstr "\"嘿！你带着工具对吧？！我是说，哪个傻瓜出门会不带工具？\""
+
+#: .\youkai_speech.json
+msgid "\"Building robots while humans are gone is soooo much fun!\""
+msgstr "\"趁着人类消失的时候造机器人，简直太——好玩啦！\""
+
+#: .\youkai_speech.json
+msgid "\"On a scale from 1 to 10 I would give this idiocy a solid 9.\""
+msgstr "\"按1到10分来算，我给这种蠢事打9分，妥妥的。\""
+
+#: .\youkai_speech.json
+msgid "\"Gimmie all your stuff mortal!\""
+msgstr "\"把你所有的东西都交出来，凡人！\""
+
+#: .\youkai_speech.json
+msgid "\"I am gonna drink some sake after that one.\""
+msgstr "\"干完这一票，我得去喝点清酒。\""
+
+#: .\youkai_speech.json
+msgid "\"HAH! Is that all you have?\""
+msgstr "\"哈！你就这点本事？\""
+
+#: .\youkai_speech.json
+msgid "\"I'd love to eat something good at Boss's place.  Hope you deliver!\""
+msgstr "\"真想在老大那儿吃点好的。希望你能送货上门！\""
+
+#: .\youkai_speech.json
+msgid "a loud shout!"
+msgstr "一声大喊！"
+
+#: .\youkai_speech.json
+msgid "a loud stomp!"
+msgstr "一记重踏！"
+
+#: .\youkai_speech.json
+msgid "\"I smash mortals like you into dust.\""
+msgstr "\"我要把你这样的凡人砸成粉末。\""
+
+#: .\youkai_speech.json
+msgid ""
+"\"I spot with my little third eye that you will be quite a good catch for "
+"the day.\""
+msgstr "\"我用我的第三只小眼睛发现，你今天会是个不错的猎物。\""
+
+#: .\youkai_speech.json
+msgid "\"It's all over when you mess with an ogre.\""
+msgstr "\"惹上鬼族，你就完蛋了。\""

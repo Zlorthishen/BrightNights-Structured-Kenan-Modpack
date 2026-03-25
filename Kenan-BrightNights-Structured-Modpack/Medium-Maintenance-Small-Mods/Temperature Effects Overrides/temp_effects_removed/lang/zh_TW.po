@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\effects_override.json
+msgid "Chilly"
+msgstr "微寒"
+
+#. ~ Description of effect 'Chilly'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s is exposed to the cold."
+msgstr "你的%s暴露在寒冷中。"
+
+#. ~ Speed name of effect(s) 'Chilly, Cold, Freezing'.
+#: .\effects_override.json
+msgid "Cold"
+msgstr "寒冷"
+
+#. ~ Description of effect 'Cold'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s is very exposed to the cold."
+msgstr "你的%s嚴重暴露在寒冷中。"
+
+#: .\effects_override.json
+msgid "Freezing"
+msgstr "嚴寒"
+
+#. ~ Description of effect 'Freezing'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s is dangerously cold!"
+msgstr "你的%s處於危險的寒冷狀態！"
+
+#: .\effects_override.json
+msgid "Warm"
+msgstr "溫暖"
+
+#. ~ Description of effect 'Warm'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s feels warm."
+msgstr "你的%s感到溫暖。"
+
+#. ~ Speed name of effect(s) 'Warm, Hot, Scorching'.
+#: .\effects_override.json
+msgid "Hot"
+msgstr "炎熱"
+
+#. ~ Description of effect 'Hot'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s is sweating from the heat.  Be careful not to get sick."
+msgstr "你的%s因炎熱而冒汗。小心別生病。"
+
+#: .\effects_override.json
+msgid "Scorching"
+msgstr "酷熱"
+
+#. ~ Description of effect 'Scorching'.
+#: .\effects_override.json
+#, c-format
+msgid "Your %s is sweating profusely!"
+msgstr "你的%s大汗淋漓！"
+
+#: .\modinfo.json
+msgid "Temperature Effects Removed"
+msgstr "溫度效果移除"
+
+#. ~ Description for Temperature Effects Removed
+#: .\modinfo.json
+msgid ""
+"Removes temperature effects for your character. Never be hot or cold again! "
+"Warning: if mod is loaded into current save/game your character status will "
+"permanently display temperature state as of save though it has no effect on "
+"your character."
+msgstr ""
+"移除角色所受的溫度影響。從此不再感到炎熱或寒冷！警告：若將模組載入當前存檔/遊戲，角色狀態將永久顯示存檔時的溫度狀態，但這不會對角色產生實際影響。"

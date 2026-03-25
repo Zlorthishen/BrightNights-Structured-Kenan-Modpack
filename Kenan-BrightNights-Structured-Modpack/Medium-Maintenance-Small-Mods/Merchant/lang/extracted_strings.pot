@@ -1,0 +1,364 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Merchant\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\TALK_Merc_Food.json
+msgid ""
+"Batteries, fuel, irons, medicines...All right. Munitions are the best, they "
+"are preferred. I have edible things to trade. Do not think of robbing anyone"
+" here. We are all armed. Anyway, Let's Trade?"
+msgstr ""
+
+#: .\TALK_Merc_Food.json
+msgid ""
+"Batteries, fuel, irons, medicines...All right. Munitions are the best, "
+"preferred. I have edible things to trade. Do not think of robbing anyone "
+"here. We are all armed. Anyway, Let's Trade?"
+msgstr ""
+
+#: .\TALK_Merc_Food.json .\TALK_Merc_Mil.json .\Talk_Merc_Ammo.json
+#: .\Talk_Merc_Bro.json
+msgid "Is there anything I can help with?"
+msgstr ""
+
+#: .\TALK_Merc_Food.json .\TALK_Merc_Mil.json
+msgid "Let's see what you have got..."
+msgstr ""
+
+#: .\TALK_Merc_Food.json .\TALK_Merc_Mil.json .\Talk_Merc_Ammo.json
+#: .\Talk_Merc_Bro.json
+msgid "bye."
+msgstr ""
+
+#: .\TALK_Merc_Food.json
+msgid "Nope."
+msgstr ""
+
+#: .\TALK_Merc_Food.json .\TALK_Merc_Mil.json .\TALK_Merc_Smith.json
+#: .\Talk_Merc_Ammo.json .\Talk_Merc_Bro.json .\Talk_Merc_Med.json
+msgid "Got it."
+msgstr ""
+
+#: .\TALK_Merc_Mil.json
+msgid ""
+"Another survivor it is. I'm trading some military supplies and munitions "
+"smuggled from one of the camps nearby. You wanna trade?"
+msgstr ""
+
+#: .\TALK_Merc_Mil.json .\TALK_Merc_Smith.json
+msgid "No."
+msgstr ""
+
+#: .\TALK_Merc_Smith.json
+msgid "Makeshift firearms, tools, armors. What do you need?"
+msgstr ""
+
+#: .\TALK_Merc_Smith.json
+msgid "Do you take forging commisions?"
+msgstr ""
+
+#: .\TALK_Merc_Smith.json
+msgid "Let's trade."
+msgstr ""
+
+#: .\TALK_Merc_Smith.json .\Talk_Merc_Med.json
+msgid "Bye."
+msgstr ""
+
+#: .\Talk_Merc_Ammo.json
+msgid ""
+"Hey, you'll need some ammo to survive out there. What kind of ammo do you "
+"like? You prefer hand-reloaded, or military standard?"
+msgstr ""
+
+#: .\Talk_Merc_Ammo.json .\Talk_Merc_Bro.json
+msgid "I have came here to trade."
+msgstr ""
+
+#: .\Talk_Merc_Ammo.json .\Talk_Merc_Bro.json
+msgid "No, thanks."
+msgstr ""
+
+#: .\Talk_Merc_Bro.json
+msgid "<greet>, Where did you come from? Came here to trade?"
+msgstr ""
+
+#: .\Talk_Merc_Med.json
+msgid "<greet>, I deal with diseases and drugs. Want to buy some?"
+msgstr ""
+
+#: .\Talk_Merc_Med.json
+msgid "Are you a doctor? Can you treat me?"
+msgstr ""
+
+#: .\Talk_Merc_Med.json
+msgid "Let's see what you got..."
+msgstr ""
+
+#: .\Talk_Merc_Med.json
+msgid ""
+"Unfortunately, I'm not a real doctor. He died somewhat recently... I'm just "
+"selling some of his possessions."
+msgstr ""
+
+#: .\Talk_Merc_guard_gate.json
+msgid "Halt! Identify yourself."
+msgstr ""
+
+#: .\Talk_Merc_guard_gate.json
+msgid "I'm just passing. What is this place?"
+msgstr ""
+
+#: .\Talk_Merc_guard_gate.json
+msgid ""
+"Another survivor? <greet>. Here is... the Settlement. And maybe the Hub of "
+"caravans now. If you want to barter something, Then get in and check it out."
+" Also, if you are considering to rob us... I will not recommend it. Unless "
+"you are willing to take 7.62mm bullets."
+msgstr ""
+
+#: .\Talk_Merc_guard_gate.json
+msgid "Got it. Thanks."
+msgstr ""
+
+#: .\job.json
+msgid "Village Dweller"
+msgstr ""
+
+#. ~ Description for {'str': 'Village Dweller'}
+#: .\job.json
+msgid "You are a village dweller."
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Merchant guard"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Guard the shop"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Military goods Merchant"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells Military goods"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Foods Merchant"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells Foods"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Wasteland Broker"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells somethings"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Medicine Trader"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells Medicines"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Ammo Trader"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells Ammo"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Merchant Smith"
+msgstr ""
+
+#: .\merch_classes.json
+msgid "Sells Makeshift items"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Guard"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Military Supplies Dealer."
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Scrap Trader"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Groceries Dealer"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Doctor"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Ammunition Trader"
+msgstr ""
+
+#: .\merchant_npc.json
+msgid "The Smith"
+msgstr ""
+
+#: .\merchantitem.json
+msgid "Caravan Bag"
+msgid_plural "Caravan Bags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Caravan Bag'}
+#: .\merchantitem.json
+msgid ""
+"The luggage, often used by caravans. It is too bulky to carry. However, when"
+" it comes to trade in one area, this is one of the most perfect storage."
+msgstr ""
+
+#: .\merchantitem.json
+msgid "dead lightstrip"
+msgid_plural "dead lightstrips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'dead lightstrip'}
+#: .\merchantitem.json
+msgid "A broken, non-functional lightstrip. Cannot be used for anything."
+msgstr ""
+
+#: .\modinfo.json
+msgid "Merchant Mod"
+msgstr ""
+
+#. ~ Description for Merchant Mod
+#: .\modinfo.json
+msgid "Adds bunkers shops with merchants along with a survivors village."
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Trader's Hideout"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Abandoned Shelter Basement."
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Abandoned Shelter"
+msgstr ""
+
+#: .\overmap_terrain.json
+msgid "Survivors Settlement"
+msgstr ""
+
+#: .\profession.json
+msgctxt "profession_male"
+msgid "Novice Scavenger"
+msgstr ""
+
+#: .\profession.json
+msgctxt "profession_female"
+msgid "Novice Scavenger"
+msgstr ""
+
+#. ~ Profession (male Novice Scavenger) description
+#: .\profession.json
+msgctxt "prof_desc_male"
+msgid ""
+"The Novice Scavenger who came out from the hometown a minute ago. Still "
+"everything at 'Outside wasteland' is embarrassing. It seems I need to get "
+"some weapons like pipe rifles by trading something."
+msgstr ""
+
+#. ~ Profession (female Novice Scavenger) description
+#: .\profession.json
+msgctxt "prof_desc_female"
+msgid ""
+"The Novice Scavenger who came out from the hometown a minute ago. Still "
+"everything at 'Outside wasteland' is embarrassing. It seems I need to get "
+"some weapons like pipe rifles by trading something."
+msgstr ""
+
+#: .\profession.json
+msgctxt "profession_male"
+msgid "Wasteland Ranger"
+msgstr ""
+
+#: .\profession.json
+msgctxt "profession_female"
+msgid "Wasteland Ranger"
+msgstr ""
+
+#. ~ Profession (male Wasteland Ranger) description
+#: .\profession.json
+msgctxt "prof_desc_male"
+msgid ""
+"If the human race is to survive, the threats facing its existence must be "
+"eliminated, no matter the cost.  If it's hostile, you kill it."
+msgstr ""
+
+#. ~ Profession (female Wasteland Ranger) description
+#: .\profession.json
+msgctxt "prof_desc_female"
+msgid ""
+"If the human race is to survive, the threats facing its existence must be "
+"eliminated, no matter the cost.  If it's hostile, you kill it."
+msgstr ""
+
+#. ~ Name for scenario 'Village Dweller' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Village Dweller"
+msgstr ""
+
+#. ~ Name for scenario 'Village Dweller' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Village Dweller"
+msgstr ""
+
+#. ~ Description for scenario 'Village Dweller' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Some years have passed from the cataclysm. I learned some skills to survive "
+"in wasteland by my parents, who are not living now. And now, I have to get "
+"out from the hometown to get supplies, like my predecessors did."
+msgstr ""
+
+#. ~ Description for scenario 'Village Dweller' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Some years have passed from the cataclysm. I learned some skills to survive "
+"in wasteland by my parents, who are not living now. And now, I have to get "
+"out from the hometown to get supplies, like my predecessors did."
+msgstr ""
+
+#. ~ Starting location for scenario 'Village Dweller'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Survivors Settlement"
+msgstr ""
+
+#: .\startlocation.json
+msgid "Survivor village"
+msgstr ""

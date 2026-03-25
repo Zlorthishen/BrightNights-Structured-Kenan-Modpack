@@ -1,0 +1,1976 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: steampunk_arcanum\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Scientist Compound"
+msgid_plural "Hologram Projector - Locator of Scientist Compounds"
+msgstr[0] "全息投影儀 - 科學家園區定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Scientist
+#. Compound'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Scientist Compound"
+msgstr "這是一臺全息投影儀，激活時會生成交互式全息影像。全息影像可以與你對話，回答你的一些問題，但最重要的是，它能定位科學家園區。"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Shady Warehouse"
+msgid_plural "Hologram Projector - Locator of Shady Warehouses"
+msgstr[0] "全息投影儀 - 可疑倉庫定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Shady
+#. Warehouse'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Shady Warehouse"
+msgstr "這是一臺全息投影儀，激活時會生成交互式全息影像。全息影像可以與你對話，回答你的一些問題，但最重要的是，它能定位可疑倉庫。"
+
+#: .\modinfo.json
+msgid "Steampunk Mod"
+msgstr "蒸汽朋克模組"
+
+#. ~ Description for Steampunk Mod
+#: .\modinfo.json
+msgid ""
+"Adds a variety of steampunk items, enemies and locations inspired by the "
+"Arcanum crpg."
+msgstr "添加了多種受《奧秘》角色扮演遊戲啟發的蒸汽朋克物品、敵人和地點。"
+
+#. ~ Name for scenario 'Town Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Town Resident"
+msgstr "小鎮居民"
+
+#. ~ Name for scenario 'Town Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Town Resident"
+msgstr "小鎮居民"
+
+#. ~ Description for scenario 'Town Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Whether through birth or passing by on your travels, you have stumbled upon "
+"a quaint little town, seemingly stuck in an odd version of the 19th century."
+msgstr "無論是出生於此還是在旅途中經過，你偶然發現了一個古雅的小鎮，似乎被困在了一個奇特的19世紀版本中。"
+
+#. ~ Description for scenario 'Town Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Whether through birth or passing by on your travels, you have stumbled upon "
+"a quaint little town, seemingly stuck in an odd version of the 19th century."
+msgstr "無論是出生於此還是在旅途中經過，你偶然發現了一個古雅的小鎮，似乎被困在了一個奇特的19世紀版本中。"
+
+#. ~ Starting location for scenario 'Town Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "local town"
+msgstr "當地小鎮"
+
+#: .\sp_ammo.json
+msgid "large bore cartridge"
+msgid_plural "large bore cartridges"
+msgstr[0] "大口徑彈殼"
+
+#. ~ Description for {'str': 'large bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type."
+msgstr "一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大。"
+
+#: .\sp_ammo.json
+msgid "large bore shot cartridge"
+msgid_plural "large bore shot cartridges"
+msgstr[0] "大口徑霰彈彈殼"
+
+#. ~ Description for {'str': 'large bore shot cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and metallic shot.  Historically "
+"used to reload muzzleloaders in a more reasonable time. The cartridge is "
+"larger than most of its type."
+msgstr "一種裝有黑火藥和金屬霰彈的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大。"
+
+#: .\sp_ammo.json
+msgid "large bore shell"
+msgid_plural "large bore shells"
+msgstr[0] "大口徑炮彈"
+
+#. ~ Description for {'str': 'large bore shell'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type. Carries an explosive charge."
+msgstr "一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大，並攜帶爆炸裝藥。"
+
+#: .\sp_ammo.json
+msgid "large bean bore cartridge"
+msgid_plural "large bean bore cartridges"
+msgstr[0] "大口徑豆袋彈彈殼"
+
+#. ~ Description for {'str': 'large bean bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a large beanbag to "
+"heavily stun enemies."
+msgstr ""
+"一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大，內含一個大豆袋，能嚴重擊暈敵人。"
+
+#: .\sp_ammo.json
+msgid "large acid bore cartridge"
+msgid_plural "large acid bore cartridges"
+msgstr[0] "大口徑酸液彈彈殼"
+
+#. ~ Description for {'str': 'large acid bore cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains an acid bomb to "
+"create caustic area denial."
+msgstr ""
+"一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大，內含一枚酸液炸彈，可製造腐蝕性區域以阻止敵人。"
+
+#: .\sp_ammo.json
+msgid "large bore net cartridge"
+msgid_plural "large bore net cartridges"
+msgstr[0] "大口徑網彈彈殼"
+
+#. ~ Description for {'str': 'large bore net cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a net to entangle "
+"enemies."
+msgstr "一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大，內含一張網，可纏住敵人。"
+
+#: .\sp_ammo.json
+msgid "large bore flame cartridge"
+msgid_plural "large bore flame cartridges"
+msgstr[0] "大口徑火焰彈彈殼"
+
+#. ~ Description for {'str': 'large bore flame cartridge'}
+#: .\sp_ammo.json
+msgid ""
+"A paper cartridge containing black powder and a metallic projectile.  "
+"Historically used to reload muzzleloaders in a more reasonable time. The "
+"cartridge is larger than most of its type and contains a flammable charge to"
+" ignite terrain and enemies."
+msgstr ""
+"一種裝有黑火藥和金屬彈丸的紙質彈殼。歷史上用於在更合理的時間內重新裝填前裝槍。這種彈殼比大多數同類彈殼更大，內含易燃裝藥，可點燃地形和敵人。"
+
+#: .\sp_armor.json
+msgid "bowler hat of kinetic diversion"
+msgid_plural "bowler hat of kinetic diversions"
+msgstr[0] "動能偏轉圓頂禮帽"
+
+#. ~ Use action msg for {'str': 'bowler hat of kinetic diversion'}.
+#: .\sp_armor.json
+msgid "You turn the bowler hat on."
+msgstr "你打開了圓頂禮帽。"
+
+#. ~ Use action need_charges_msg for {'str': 'bowler hat of kinetic
+#. diversion'}.
+#: .\sp_armor.json
+msgid "The hat of kinetid diversion's batteries are dead."
+msgstr "動能偏轉禮帽的電池已耗盡。"
+
+#. ~ Description for {'str': 'bowler hat of kinetic diversion'}
+#. ~ Description for {'str': 'activated bowler hat of kinetic diversion'}
+#: .\sp_armor.json
+msgid ""
+"A bowler hat with an array of magnetic coils on its perimeter.  The hat can "
+"admit an electric field to protect the user when activated, running off of "
+"batteries."
+msgstr "一頂邊緣裝有磁線圈陣列的圓頂禮帽。激活時，帽子可以產生電場保護使用者，依靠電池運行。"
+
+#: .\sp_armor.json
+msgid "activated bowler hat of kinetic diversion"
+msgid_plural "activated bowler hat of kinetic diversions"
+msgstr[0] "已激活的動能偏轉圓頂禮帽"
+
+#. ~ Use action menu_text for {'str': 'activated bowler hat of kinetic
+#. diversion'}.
+#. ~ Use action menu_text for {'str': 'activated galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "Turn off"
+msgstr "關閉"
+
+#. ~ Use action msg for {'str': 'activated bowler hat of kinetic diversion'}.
+#. ~ Use action msg for {'str': 'activated galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "The %s flicks off."
+msgstr "%s 啪地一聲關掉了。"
+
+#: .\sp_armor.json
+msgid "eye gear"
+msgid_plural "eye gears"
+msgstr[0] "目鏡裝備"
+
+#. ~ Description for {'str': 'eye gear'}
+#: .\sp_armor.json
+msgid ""
+"An armored pair of lenses for sight magnification for those who are both "
+"near-sighted and far-sighted.  You can use them to focus sunlight. Increases"
+" perception by +1"
+msgstr "一副裝甲鏡片，用於為近視和遠視者提供視覺放大。你可以用它們聚焦陽光。感知 +1"
+
+#: .\sp_armor.json
+msgid "goggled helmet"
+msgid_plural "goggled helmets"
+msgstr[0] "護目頭盔"
+
+#. ~ Description for {'str': 'goggled helmet'}
+#: .\sp_armor.json
+msgid ""
+"An armored helmet with goggles affixed to its front. Boosts the user's "
+"vision while providing all around protection. Increases perception by +1"
+msgstr "一頂前部固定有護目鏡的裝甲頭盔。提升使用者的視野，同時提供全方位保護。感知 +1"
+
+#: .\sp_armor.json
+msgid "vision helmet"
+msgid_plural "vision helmets"
+msgstr[0] "視覺頭盔"
+
+#. ~ Description for {'str': 'vision helmet'}
+#: .\sp_armor.json
+msgid ""
+"An armored helmet with a meshed visor affixed to its front. Boosts the "
+"user's vision while providing all around protection. Increases perception by"
+" +1"
+msgstr "一頂前部固定有網狀面罩的裝甲頭盔。提升使用者的視野，同時提供全方位保護。感知 +1"
+
+#: .\sp_armor.json
+msgid "charged vambrace"
+msgid_plural "charged vambraces"
+msgstr[0] "充能護臂"
+
+#. ~ Description for {'str': 'charged vambrace'}
+#: .\sp_armor.json
+msgid ""
+"A vambrace imbued with a constant electrostatic charge. Gives the wearer "
+"minor boosts to speed and dexterity while worn."
+msgstr "一個灌注了持續靜電電荷的護臂。佩戴時給予穿戴者速度和敏捷度的輕微提升。"
+
+#: .\sp_armor.json
+msgid "wool jacket"
+msgid_plural "wool jackets"
+msgstr[0] "羊毛夾克"
+
+#. ~ Description for {'str': 'wool jacket'}
+#: .\sp_armor.json
+msgid ""
+"A professional-looking wool jacket.  Commonly worn by men in town guards. "
+"Features thick wool padding, but is still fairly easy to move in."
+msgstr "一件外觀專業的羊毛夾克。通常由城鎮衛隊的男性穿著。採用厚羊毛襯墊，但仍相當便於活動。"
+
+#: .\sp_armor.json
+msgid "smoking jacket"
+msgid_plural "smoking jackets"
+msgstr[0] "吸菸夾克"
+
+#. ~ Description for {'str': 'smoking jacket'}
+#: .\sp_armor.json
+msgid ""
+"A professional-looking smoking jacket.  Only for the most debonair of men."
+msgstr "一件外觀專業的吸菸夾克，專為最風度翩翩的男士設計。"
+
+#: .\sp_armor.json
+msgid "elegant dress"
+msgid_plural "elegant dress"
+msgstr[0] "優雅禮服"
+
+#. ~ Description for {'str_sp': 'elegant dress'}
+#: .\sp_armor.json
+msgid "An elegant-looking dress, fit only for women of the upper class."
+msgstr "一件外觀優雅的禮服，僅適合上流社會的女性穿著。"
+
+#: .\sp_armor.json
+msgid "plain dress"
+msgid_plural "plain dress"
+msgstr[0] "樸素連衣裙"
+
+#. ~ Description for {'str_sp': 'plain dress'}
+#: .\sp_armor.json
+msgid "A fine-looking dress, fit for women of all social classes"
+msgstr "一件外觀精緻的連衣裙，適合所有社會階層的女性。"
+
+#: .\sp_armor.json
+msgid "rustic dress"
+msgid_plural "rustic dress"
+msgstr[0] "鄉村風格連衣裙"
+
+#. ~ Description for {'str_sp': 'rustic dress'}
+#: .\sp_armor.json
+msgid ""
+"A somewhat rough but sturdy dress, equally suited for work on a farm or in a"
+" factory."
+msgstr "一件略顯粗糙但結實的連衣裙，同樣適合農場或工廠的工作。"
+
+#: .\sp_armor.json
+msgid "machined combat plate"
+msgid_plural "machined combat plates"
+msgstr[0] "機械戰鬥板甲"
+
+#. ~ Description for {'str': 'machined combat plate'}
+#: .\sp_armor.json
+msgid ""
+"Powered by the finest in minute steam engine technology and mechanical "
+"computing, this set of machined combat plate is head and shoulders above its"
+" peers on the field of battle.."
+msgstr "由最精密的微型蒸汽引擎技術和機械計算驅動，這套機械戰鬥板甲在戰場上遠超同類裝備。"
+
+#: .\sp_armor.json
+msgid "machined combat helmet"
+msgid_plural "machined combat helmets"
+msgstr[0] "機械戰鬥頭盔"
+
+#. ~ Description for {'str': 'machined combat helmet'}
+#: .\sp_armor.json
+msgid ""
+"A fully enclosed helmet to work in conjunction with the machined combat "
+"plate power armor."
+msgstr "一個全封閉式頭盔，與機械戰鬥板甲動力裝甲協同工作。"
+
+#: .\sp_armor.json
+msgid "outdoor dress"
+msgid_plural "outdoor dress"
+msgstr[0] "戶外連衣裙"
+
+#. ~ Description for {'str_sp': 'outdoor dress'}
+#: .\sp_armor.json
+msgid ""
+"A dress that has been made seemingly for use outdoors, fortified beyond "
+"usual feminine work. Includes pockets!"
+msgstr "一件似乎專為戶外使用設計的連衣裙，加固程度超越通常的女性工作服。包含口袋！"
+
+#: .\sp_armor.json
+msgid "mechanical dress"
+msgid_plural "mechanical dress"
+msgstr[0] "機械連衣裙"
+
+#. ~ Description for {'str_sp': 'mechanical dress'}
+#: .\sp_armor.json
+msgid ""
+"A dress that has been made seemingly for use outdoors, fortified beyond "
+"usual feminine work. Includes pockets! With the addition of a miniature "
+"steam engine and motors, this dress's capabilties are boosted far beyond "
+"normal levels."
+msgstr "一件似乎專為戶外使用設計的連衣裙，加固程度超越通常的女性工作服。包含口袋！加上微型蒸汽引擎和馬達，這件連衣裙的性能遠超普通水平。"
+
+#: .\sp_armor.json
+msgid "galvanic motor shoes"
+msgid_plural "galvanic motor shoess"
+msgstr[0] "電驅動馬達鞋"
+
+#. ~ Use action msg for {'str': 'galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "You turn the motor shoes."
+msgstr "你啟動了馬達鞋。"
+
+#. ~ Use action need_charges_msg for {'str': 'galvanic motor shoes'}.
+#: .\sp_armor.json
+msgid "The motor shoes batteries are drained."
+msgstr "馬達鞋的電池耗盡了。"
+
+#. ~ Description for {'str': 'galvanic motor shoes'}
+#: .\sp_armor.json
+msgid ""
+"A pair of shoes with attached electric motors near the heels. When "
+"activated, the user can accelerate far beyond normal speeds. Run on battery "
+"charge."
+msgstr "一雙在鞋跟附近裝有電動馬達的鞋子。激活時，使用者可以加速到遠超正常速度。依靠電池充電運行。"
+
+#: .\sp_armor.json
+msgid "activated galvanic motor shoes"
+msgid_plural "activated galvanic motor shoess"
+msgstr[0] "已激活的電驅動馬達鞋"
+
+#. ~ Description for {'str': 'activated galvanic motor shoes'}
+#: .\sp_armor.json
+msgid ""
+"A pair of shoes with attached electric motors near the heels. When "
+"activated, the user can accelerate far beyond normal speeds. The motor shoes"
+" are currently active, and running off battery charge."
+msgstr "一雙在鞋跟附近裝有電動馬達的鞋子。激活時，使用者可以加速到遠超正常速度。馬達鞋當前已激活，並依靠電池充電運行。"
+
+#: .\sp_drugs.json
+msgid "physical prowess enhanced"
+msgstr "體能增強"
+
+#. ~ Description of effect 'physical prowess enhanced'.
+#: .\sp_drugs.json
+msgid ""
+"Your strength and intelligence have been boosted by the elixir of physical "
+"prowess"
+msgstr "你的力量和智力已通過體能增強藥劑得到提升"
+
+#. ~ Apply message for effect(s) 'physical prowess enhanced'.
+#. ~ Apply message for effect(s) 'perception enhanced'.
+#. ~ Apply message for effect(s) 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "You inhale the elixir."
+msgstr "你吸入了藥劑。"
+
+#. ~ Remove message for effect(s) 'physical prowess enhanced'.
+#. ~ Remove message for effect(s) 'perception enhanced'.
+#. ~ Remove message for effect(s) 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "The elixir's effect wears off."
+msgstr "藥劑的效果消失了。"
+
+#: .\sp_drugs.json
+msgid "perception enhanced"
+msgstr "感知增強"
+
+#. ~ Description of effect 'perception enhanced'.
+#: .\sp_drugs.json
+msgid "Your perception have been boosted by the tonic of awareness"
+msgstr "你的感知已通過警覺藥劑得到提升"
+
+#: .\sp_drugs.json
+msgid "dexterity enhanced"
+msgstr "敏捷增強"
+
+#. ~ Description of effect 'dexterity enhanced'.
+#: .\sp_drugs.json
+msgid "Your dexterity have been boosted by the tonic of increased reflexes"
+msgstr "你的敏捷已通過反射增強藥劑得到提升"
+
+#: .\sp_drugs.json
+msgid "intelligence enhanced"
+msgstr "智力增強"
+
+#. ~ Description of effect 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "Your intelligence have been boosted by the mind boosting lozenge"
+msgstr "你的智力因思維增強含片而得到提升"
+
+#. ~ Apply message for effect(s) 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "You eat the lozenge."
+msgstr "你吃下了含片。"
+
+#. ~ Remove message for effect(s) 'intelligence enhanced'.
+#: .\sp_drugs.json
+msgid "The lozenge's effect wears off."
+msgstr "含片的效果逐漸消退。"
+
+#: .\sp_drugs.json
+msgid "speed enhanced"
+msgstr "速度增強"
+
+#. ~ Description of effect 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "Your speed have been boosted by quickdash powder"
+msgstr "你的速度因疾馳粉末而得到提升"
+
+#. ~ Apply message for effect(s) 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "You eat the powder."
+msgstr "你吃下了粉末。"
+
+#. ~ Remove message for effect(s) 'speed enhanced'.
+#: .\sp_drugs.json
+msgid "The powder's effect wears off."
+msgstr "粉末的效果逐漸消退。"
+
+#: .\sp_drugs.json
+msgid "physical prowess elixir"
+msgid_plural "physical prowess elixir"
+msgstr[0] "體能靈藥"
+
+#. ~ Use action activation_message for {'str_sp': 'physical prowess elixir'}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your muscles tension and your synapses activate as you drink the "
+"elixir."
+msgstr "飲下靈藥時，你感到肌肉緊繃，神經突觸活躍起來。"
+
+#. ~ Description for {'str_sp': 'physical prowess elixir'}
+#: .\sp_drugs.json
+msgid ""
+"A strong elixir designed to boost one's strength and intelligence for a "
+"short period of time."
+msgstr "一種強力靈藥，旨在短時間內提升使用者的力量與智力。"
+
+#: .\sp_drugs.json
+msgid "Addison's tonic of awareness"
+msgid_plural "Addison's tonic of awareness"
+msgstr[0] "艾迪森的感知滋補劑"
+
+#. ~ Use action activation_message for {'str_sp': "Addison's tonic of
+#. awareness"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your eyes dilate, and suddenly the world around you becomes more "
+"clear."
+msgstr "你感到瞳孔擴張，周圍的世界突然變得更加清晰。"
+
+#. ~ Description for {'str_sp': "Addison's tonic of awareness"}
+#: .\sp_drugs.json
+msgid ""
+"A strong tonic developed by the frenetic doctor Sneed Addison. A drug "
+"designed to boost one's perception for a short period of time."
+msgstr "由狂熱醫師斯尼德·艾迪森研發的強力滋補劑。一種旨在短時間內提升使用者感知的藥物。"
+
+#: .\sp_drugs.json
+msgid "Alfred's tonic of increased reflexes"
+msgid_plural "Alfred's tonic of increased reflexes"
+msgstr[0] "阿爾弗雷德的反射增強滋補劑"
+
+#. ~ Use action activation_message for {'str_sp': "Alfred's tonic of increased
+#. reflexes"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your nerves calm down considerably, as if your dexterity was now "
+"heightened beyond normal levels."
+msgstr "你感到神經顯著平靜下來，彷彿靈巧度已提升至超越正常水平。"
+
+#. ~ Description for {'str_sp': "Alfred's tonic of increased reflexes"}
+#: .\sp_drugs.json
+msgid ""
+"After imbibing the tonic of Alfred Mogus, the user will soon see marked "
+"increase in their dexterity for a period of time."
+msgstr "服用阿爾弗雷德·莫古斯的滋補劑後，使用者的靈巧度將在一段時間內顯著提升。"
+
+#: .\sp_drugs.json
+msgid "Boyce's patented mind boosting lozenge"
+msgid_plural "Boyce's patented mind boosting lozenge"
+msgstr[0] "博伊斯專利思維增強含片"
+
+#. ~ Use action activation_message for {'str_sp': "Boyce's patented mind
+#. boosting lozenge"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your thoughts appear more rapidly and with far more clarity, as if "
+"your intelligence was now heightened beyond normal levels."
+msgstr "你感到思維湧現得更快且更為清晰，彷彿智力已提升至超越正常水平。"
+
+#. ~ Description for {'str_sp': "Boyce's patented mind boosting lozenge"}
+#: .\sp_drugs.json
+msgid ""
+"A drug purported to increase the intelligence of the user beyond normal "
+"levels, beware though, as repeated use can cause health problems!"
+msgstr "一種據稱能提升使用者智力至超越正常水平的藥物，但需警惕，反覆使用可能導致健康問題！"
+
+#: .\sp_drugs.json
+msgid "Thorpe's certified quick-dash powder"
+msgid_plural "Thorpe's certified quick-dash powder"
+msgstr[0] "索普認證疾馳粉末"
+
+#. ~ Use action activation_message for {'str_sp': "Thorpe's certified quick-
+#. dash powder"}.
+#: .\sp_drugs.json
+msgid ""
+"You feel your muscles fill with energy, every tendon tensions up with power!"
+msgstr "你感到肌肉充滿能量，每一根肌腱都因力量而緊繃！"
+
+#. ~ Description for {'str_sp': "Thorpe's certified quick-dash powder"}
+#: .\sp_drugs.json
+msgid ""
+"A blueish-white powder that when ingested, drastically increases a user's "
+"mobility! Be warned, as continued use can be detrimental to one's health."
+msgstr "一種藍白色粉末，服用後可大幅提升使用者的機動性！請注意，持續使用可能對健康有害。"
+
+#: .\sp_items.json
+msgid "auto skeleton key"
+msgid_plural "auto skeleton keys"
+msgstr[0] "自動萬能鑰匙"
+
+#. ~ Description for {'str': 'auto skeleton key'}
+#: .\sp_items.json
+msgid ""
+"This is an artisan-crafted set of picks and torsion wrenches made from fine "
+"steel. Equipped with spring-tensioned tumbler mechanisms to ease "
+"lockpicking."
+msgstr "這是一套由精鋼製成、工匠打造的撬鎖工具與扭力扳手。配備彈簧張力鎖芯機構，以簡化開鎖過程。"
+
+#: .\sp_items.json
+msgid "Guide on Mechanical Knowledge"
+msgid_plural "copies ofGuide on Mechanical Knowledge"
+msgstr[0] "機械知識指南"
+
+#. ~ Description for {'str': 'Guide on Mechanical Knowledge', 'str_pl':
+#. 'copies ofGuide on Mechanical Knowledge'}
+#: .\sp_items.json
+msgid ""
+"An advanced guide on topics that seem relevant to mechanical engineering, "
+"electrical engineering and chemistry. Often written in somewhat stilted 19th"
+" century prose."
+msgstr "一本關於機械工程、電氣工程與化學相關主題的高級指南。常以略顯生硬的19世紀散文風格撰寫。"
+
+#: .\sp_items.json
+msgid "auto safecracker device"
+msgid_plural "auto safecracker devices"
+msgstr[0] "自動保險櫃破解裝置"
+
+#. ~ Description for {'str': 'auto safecracker device'}
+#: .\sp_items.json
+msgid ""
+"This is an mechanical diaphragm assisted safecracking device. Place on the "
+"safe and use to your heart's content! For legal usage only"
+msgstr "這是一臺機械隔膜輔助的保險櫃破解裝置。將其置於保險櫃上即可隨心使用！僅限合法用途"
+
+#: .\sp_items.json
+msgid "miniaturized steam engine"
+msgid_plural "miniaturized steam engines"
+msgstr[0] "微型蒸汽引擎"
+
+#. ~ Description for {'str': 'miniaturized steam engine'}
+#: .\sp_items.json
+msgid ""
+"A miniature, steam engine.  An integrated boiler burns coal to heat water "
+"into steam, driving a reciprocating shaft.  A condenser recaptures the "
+"water, making this a closed cycle system. Commonly used in machined power "
+"armor or mechanized automatons."
+msgstr "一臺微型蒸汽機。其內置鍋爐燃燒煤炭將水加熱為蒸汽，驅動往復軸運轉。冷凝器回收水分，構成封閉循環系統。常用於機械動力裝甲或機械化自動機。"
+
+#: .\sp_mobs.json
+msgid "melee gangster"
+msgid_plural "melee gangsters"
+msgstr[0] "近戰幫派分子"
+
+#. ~ Description for {'str': 'melee gangster'}
+#: .\sp_mobs.json
+msgid ""
+"A criminal who has been hardened by years of conflict in the slums of "
+"industrial districts. This one is sporting a pistol of some kind."
+msgstr "在工業區貧民窟歷經多年衝突磨礪的罪犯。此人正炫耀著某種手槍。"
+
+#: .\sp_mobs.json
+msgid "ranged gangster"
+msgid_plural "ranged gangsters"
+msgstr[0] "遠程幫派分子"
+
+#. ~ Description for {'str': 'ranged gangster'}
+#: .\sp_mobs.json
+msgid ""
+"A criminal who has been hardened by years of conflict in the slums of "
+"industrial districts. This one is sporting a knife of some kind."
+msgstr "在工業區貧民窟歷經多年衝突磨礪的罪犯。此人正炫耀著某種刀具。"
+
+#: .\sp_mobs.json
+msgid "The pistol fires with a loud pop!"
+msgstr "手槍發出響亮的爆鳴聲！"
+
+#: .\sp_mobs.json
+msgid "Mad Scientist"
+msgid_plural "Mad Scientists"
+msgstr[0] "瘋狂科學家"
+
+#. ~ Description for {'str': 'Mad Scientist'}
+#: .\sp_mobs.json
+msgid ""
+"A scientist who has honed their craft through study over decades. They've "
+"gone a bit mad though, and will have no qualms with killing you."
+msgstr "通過數十年鑽研磨礪技藝的科學家。但他們已陷入某種瘋狂，對殺害你毫無顧忌。"
+
+#: .\sp_mobs.json
+msgid "mechanical arachnid"
+msgid_plural "mechanical arachnids"
+msgstr[0] "機械蛛形機"
+
+#. ~ Description for {'str': 'mechanical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two large steel incisors, it can clatter across the ground with "
+"great speed."
+msgstr "一種小型犬尺寸的昆蟲形態機器人，專為家庭安防設計。配備兩枚鋼製巨顎，能以極快速度在地面疾行。"
+
+#: .\sp_mobs.json
+msgid "broken mechnical arachnid"
+msgid_plural "broken mechnical arachnids"
+msgstr[0] "損壞的機械蛛形機"
+
+#. ~ Description for {'str': 'broken mechnical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"A broken mechnaical arachnid, now wrecked and motionless.  It could be "
+"gutted for spare parts."
+msgstr "一臺損壞的機械蛛形機，現已報廢靜止。可拆解獲取備用零件。"
+
+#: .\sp_mobs.json
+msgid "inactive mechanical arachnid"
+msgid_plural "inactive mechanical arachnids"
+msgstr[0] "未激活的機械蛛形機"
+
+#. ~ Description for {'str': 'inactive mechanical arachnid'}
+#. ~ Description for {'str': 'fixed inactive mechanical arachnid'}
+#: .\sp_mobs.json
+msgid ""
+"An insectoid robot the size of a small dog, designed for home security.  "
+"Armed with two large steel incisors, it can clatter across the ground with "
+"great speed. It's currently inactive but ready to be deployed."
+msgstr "一種小型犬尺寸的昆蟲形態機器人，專為家庭安防設計。配備兩枚鋼製巨顎，能以極快速度在地面疾行。當前處於未激活狀態，但可隨時部署。"
+
+#: .\sp_mobs.json
+msgid "fixed inactive mechanical arachnid"
+msgid_plural "fixed inactive mechanical arachnids"
+msgstr[0] "修復的未激活機械蛛形機"
+
+#: .\sp_mobs.json
+msgid "mechanical automaton"
+msgid_plural "mechanical automatons"
+msgstr[0] "機械自動機"
+
+#. ~ Description for {'str': 'mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"Among the fiercest designs to be borne from the mechanical computing "
+"revolution, the automaton is a fearsome weapon of war. Watch out for its "
+"scythe blades!"
+msgstr "作為機械計算革命催生的最兇悍設計之一，自動機是令人膽寒的戰爭兵器。當心它的鐮刃！"
+
+#: .\sp_mobs.json
+msgid "broken mechanical automaton"
+msgid_plural "broken mechanical automatons"
+msgstr[0] "損壞的機械自動機"
+
+#. ~ Description for {'str': 'broken mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"A broken automaton, now wrecked and motionless.  It could be gutted for "
+"spare parts."
+msgstr "一臺損壞的自動機，現已報廢靜止。可拆解獲取備用零件。"
+
+#: .\sp_mobs.json
+msgid "inactive mechanical automaton"
+msgid_plural "inactive mechanical automatons"
+msgstr[0] "未激活的機械自動機"
+
+#. ~ Description for {'str': 'inactive mechanical automaton'}
+#. ~ Description for {'str': 'fixed inactive mechanical automaton'}
+#: .\sp_mobs.json
+msgid ""
+"Among the fiercest designs to be borne from the mechanical computing "
+"revolution, the automaton is a fearsome weapon of war. Watch out for its "
+"scythe blades! The automaton is currently inactive."
+msgstr "作為機械計算革命催生的最兇悍設計之一，自動機是令人膽寒的戰爭兵器。當心它的鐮刃！該自動機當前處於未激活狀態。"
+
+#: .\sp_mobs.json
+msgid "fixed inactive mechanical automaton"
+msgid_plural "fixed inactive mechanical automatons"
+msgstr[0] "修復的未激活機械自動機"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Engineer of Mechanics"
+msgstr "機械工程師"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Engineer of Mechanics"
+msgstr "機械工程師"
+
+#. ~ Profession (male Engineer of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences."
+msgstr "自年少時凝望城市工業區宏偉蒸汽機的那一刻起，你便夢想掌握物質與其運動背後的複雜世界。經年鑽研後，你終成所願，精通機械科學。"
+
+#. ~ Profession (female Engineer of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences."
+msgstr "自年少時凝望城市工業區宏偉蒸汽機的那一刻起，你便夢想掌握物質與其運動背後的複雜世界。經年鑽研後，你終成所願，精通機械科學。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Chemistry Practitioner"
+msgstr "化學實踐者"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Chemistry Practitioner"
+msgstr "化學實踐者"
+
+#. ~ Profession (male Chemistry Practitioner) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Whether you were from a working class neighborhood or the halls of high "
+"society, people around you had more than a passing interest in various "
+"substances. You on the other hand, were far more interested in the science "
+"of chemisty than imbibing various spirits and drugs."
+msgstr "無論出身工人街區還是上流社會，周遭人們對各類物質的興趣皆不止於淺嘗。而你卻遠比對暢飲烈酒或沉迷藥物更痴迷於化學科學。"
+
+#. ~ Profession (female Chemistry Practitioner) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Whether you were from a working class neighborhood or the halls of high "
+"society, people around you had more than a passing interest in various "
+"substances. You on the other hand, were far more interested in the science "
+"of chemisty than imbibing various spirits and drugs."
+msgstr "無論出身工人街區還是上流社會，周遭人們對各類物質的興趣皆不止於淺嘗。而你卻遠比對暢飲烈酒或沉迷藥物更痴迷於化學科學。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Engineer of Electricity"
+msgstr "電氣工程師"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Engineer of Electricity"
+msgstr "電氣工程師"
+
+#. ~ Profession (male Engineer of Electricity) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Most people around you were content to enjoy the glow of the new electric "
+"streetlamps, but you always yearned for more knowledge about this marvelous "
+"spark. After years of hard work, you have finally become well versed in the "
+"study of electricity and its myriad concepts."
+msgstr "當多數人滿足於欣賞新式電燈街燈的光芒時，你始終渴望更深入理解這奇妙火花。經年努力後，你終於通曉電力及其紛繁概念的研究。"
+
+#. ~ Profession (female Engineer of Electricity) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Most people around you were content to enjoy the glow of the new electric "
+"streetlamps, but you always yearned for more knowledge about this marvelous "
+"spark. After years of hard work, you have finally become well versed in the "
+"study of electricity and its myriad concepts."
+msgstr "當多數人滿足於欣賞新式電燈街燈的光芒時，你始終渴望更深入理解這奇妙火花。經年努力後，你終於通曉電力及其紛繁概念的研究。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Soldier"
+msgstr "城鎮士兵"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Soldier"
+msgstr "城鎮士兵"
+
+#. ~ Profession (male Town Soldier) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With a few years of "
+"experience under your belt, you've become quite an accomplished soldier."
+msgstr "或許是出於漫遊之念，抑或守護鎮民之願，你選擇加入本地城鎮軍隊。積累數年經驗後，已成為一名頗具建樹的士兵。"
+
+#. ~ Profession (female Town Soldier) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With a few years of "
+"experience under your belt, you've become quite an accomplished soldier."
+msgstr "或許是出於漫遊之念，抑或守護鎮民之願，你選擇加入本地城鎮軍隊。積累數年經驗後，已成為一名頗具建樹的士兵。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Guard"
+msgstr "城鎮守衛"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Guardswoman"
+msgstr "城鎮女守衛"
+
+#. ~ Profession (male Town Guard) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With only a few months of "
+"training, you don't know much about the art of warfare yet."
+msgstr "或許是出於漫遊的渴望，或是保護鎮上同胞的願望，你決定加入當地的城鎮軍隊。僅經過幾個月的訓練，你對戰爭藝術還知之甚少。"
+
+#. ~ Profession (female Town Guardswoman) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. With only a few months of "
+"training, you don't know much about the art of warfare yet."
+msgstr "或許是出於漫遊的渴望，或是保護鎮上同胞的願望，你決定加入當地的城鎮軍隊。僅經過幾個月的訓練，你對戰爭藝術還知之甚少。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Elite"
+msgstr "城鎮精英"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Elite"
+msgstr "城鎮精英"
+
+#. ~ Profession (male Town Elite) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. You are one of the select "
+"few deemed skilled enough to use machined plate armor."
+msgstr "或許是出於漫遊的渴望，或是保護鎮上同胞的願望，你決定加入當地的城鎮軍隊。你是少數被選中、技藝足以使用機械板甲的人之一。"
+
+#. ~ Profession (female Town Elite) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Perhaps out of wanderlust or a desire to protect your fellow townsfolk, you "
+"decided to enlist in the town's local military. You are one of the select "
+"few deemed skilled enough to use machined plate armor."
+msgstr "或許是出於漫遊的渴望，或是保護鎮上同胞的願望，你決定加入當地的城鎮軍隊。你是少數被選中、技藝足以使用機械板甲的人之一。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Professor of Mechanics"
+msgstr "機械學教授"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Professor of Mechanics"
+msgstr "機械學教授"
+
+#. ~ Profession (male Professor of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences. Comes"
+" equipped with your own personal mechanical arachnids."
+msgstr ""
+"自你年少時凝視著城市工業區那些偉大的蒸汽引擎起，你就夢想著掌握材料及其運動背後的複雜世界。經過多年的專注，你實現了夢想，精通機械科學。配備了你個人的機械蜘蛛。"
+
+#. ~ Profession (female Professor of Mechanics) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Ever since you were young and gazed upon the great steam engines of your "
+"city's local industrial district, you've dreamed of mastering the complex "
+"world behind materials and their motion. After years of devotion, you "
+"achieved your dream and became well versed in the mechanical sciences. Comes"
+" equipped with your own personal mechanical arachnids."
+msgstr ""
+"自你年少時凝視著城市工業區那些偉大的蒸汽引擎起，你就夢想著掌握材料及其運動背後的複雜世界。經過多年的專注，你實現了夢想，精通機械科學。配備了你個人的機械蜘蛛。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Unhinged Scientist"
+msgstr "瘋狂科學家"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Unhinged Scientist"
+msgstr "瘋狂科學家"
+
+#. ~ Profession (male Unhinged Scientist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Despite all your talent, despite all your intellect, nobody has EVER "
+"respected your genius! Well now, they'll all see, when your machines and "
+"weapons of war are unleashed upon polite society."
+msgstr "儘管你才華橫溢，儘管你智慧超群，但從未有人尊重過你的天才！好吧，現在他們都會看到的，當你的機器和戰爭武器被釋放到文明社會時。"
+
+#. ~ Profession (female Unhinged Scientist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Despite all your talent, despite all your intellect, nobody has EVER "
+"respected your genius! Well now, they'll all see, when your machines and "
+"weapons of war are unleashed upon polite society."
+msgstr "儘管你才華橫溢，儘管你智慧超群，但從未有人尊重過你的天才！好吧，現在他們都會看到的，當你的機器和戰爭武器被釋放到文明社會時。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Steam Adventurer"
+msgstr "蒸汽冒險家"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Steam Adventurer"
+msgstr "蒸汽冒險家"
+
+#. ~ Profession (male Steam Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam autocarriage, "
+"you drive off into another adventure into the unknown."
+msgstr "對蒸汽動力車輛初生的興趣很快發展成對旅行的深深熱愛。手握你信賴的蒸汽汽車方向盤，你駛向未知的又一次冒險。"
+
+#. ~ Profession (female Steam Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam autocarriage, "
+"you drive off into another adventure into the unknown."
+msgstr "對蒸汽動力車輛初生的興趣很快發展成對旅行的深深熱愛。手握你信賴的蒸汽汽車方向盤，你駛向未知的又一次冒險。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Man of Leisure"
+msgstr "悠閒紳士"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Upper Class Woman"
+msgstr "上流社會女性"
+
+#. ~ Profession (male Man of Leisure) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were born with a silver spoon firmly in your mouth. While the other "
+"classes of society labored and toiled, you were fit to rule, and learned the"
+" finer aspects of high society."
+msgstr "你生來就含著金湯匙。當社會其他階層辛勤勞作時，你生來適合統治，並學習了上流社會的精緻方面。"
+
+#. ~ Profession (female Upper Class Woman) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were born with a silver spoon firmly in your mouth. While the other "
+"classes of society labored and toiled, you were fit to rule, and learned the"
+" finer aspects of high society."
+msgstr "你生來就含著金湯匙。當社會其他階層辛勤勞作時，你生來適合統治，並學習了上流社會的精緻方面。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Aero Adventurer"
+msgstr "空中冒險家"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Aero Adventurer"
+msgstr "空中冒險家"
+
+#. ~ Profession (male Aero Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in naptha and hydrocarbon powered vehicles soon blossomed"
+" into a deep love of travel. With tremendous effort, you have managed to "
+"make a flying aero carriage. Who knows where it shall take you?"
+msgstr "對石腦油和碳氫化合物動力車輛初生的興趣很快發展成對旅行的深深熱愛。經過巨大努力，你成功製造了一輛飛行空中馬車。誰知道它會帶你去哪裡？"
+
+#. ~ Profession (female Aero Adventurer) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in naptha and hydrocarbon powered vehicles soon blossomed"
+" into a deep love of travel. With tremendous effort, you have managed to "
+"make a flying aero carriage. Who knows where it shall take you?"
+msgstr "對石腦油和碳氫化合物動力車輛初生的興趣很快發展成對旅行的深深熱愛。經過巨大努力，你成功製造了一輛飛行空中馬車。誰知道它會帶你去哪裡？"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Steam Motorcyclist"
+msgstr "蒸汽摩托車手"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Steam Motorcyclist"
+msgstr "蒸汽摩托車手"
+
+#. ~ Profession (male Steam Motorcyclist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam motorcycle, "
+"you drive off into another adventure into the unknown."
+msgstr "對蒸汽動力車輛初生的興趣很快發展成對旅行的深深熱愛。手握你信賴的蒸汽摩托車把手，你駛向未知的又一次冒險。"
+
+#. ~ Profession (female Steam Motorcyclist) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"A budding interest in steam powered vehicles soon blossomed into a deep love"
+" of travel. With your hands at the wheel of your trusty steam motorcycle, "
+"you drive off into another adventure into the unknown."
+msgstr "對蒸汽動力車輛初生的興趣很快發展成對旅行的深深熱愛。手握你信賴的蒸汽摩托車把手，你駛向未知的又一次冒險。"
+
+#: .\sp_professions.json
+msgctxt "profession_male"
+msgid "Town Thief"
+msgstr "城鎮竊賊"
+
+#: .\sp_professions.json
+msgctxt "profession_female"
+msgid "Town Thief"
+msgstr "城鎮竊賊"
+
+#. ~ Profession (male Town Thief) description
+#: .\sp_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Stealing always came easy to you, even from a young age. This talent took "
+"you far in life, and now that New England has seemingly gone to the dogs, "
+"you've found an entire new kind of heist."
+msgstr "偷竊對你來說總是輕而易舉，甚至從年幼時就是如此。這份天賦讓你在生活中走得很遠，而現在新英格蘭似乎已陷入混亂，你發現了一種全新的盜竊方式。"
+
+#. ~ Profession (female Town Thief) description
+#: .\sp_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Stealing always came easy to you, even from a young age. This talent took "
+"you far in life, and now that New England has seemingly gone to the dogs, "
+"you've found an entire new kind of heist."
+msgstr "偷竊對你來說總是輕而易舉，甚至從年幼時就是如此。這份天賦讓你在生活中走得很遠，而現在新英格蘭似乎已陷入混亂，你發現了一種全新的盜竊方式。"
+
+#: .\sp_terrain.json
+msgid "gaslight"
+msgstr "煤氣燈"
+
+#. ~ Description for gaslight
+#: .\sp_terrain.json
+msgid ""
+"A large lamp that combusts gas to light its surroundings.  Smashing it "
+"doesn't seem like it'd produce any worthwhile salvage."
+msgstr "一種通過燃燒氣體來照亮周圍的大型燈具。砸碎它似乎不會產生任何有價值的回收物。"
+
+#: .\sp_terrain.json
+msgid "SMASH!"
+msgstr "砰！"
+
+#. ~ Description for gaslight
+#: .\sp_terrain.json
+msgid ""
+"A lamp that combusts gas to light its surroundings.  Smashing it doesn't "
+"seem like it'd produce any worthwhile salvage."
+msgstr "一種通過燃燒氣體來照亮周圍的燈具。砸碎它似乎不會產生任何有價值的回收物。"
+
+#: .\sp_vehicles.json
+msgid "Steam Autocarriage"
+msgstr "蒸汽汽車"
+
+#: .\sp_vehicles.json
+msgid "Aero Carriage"
+msgstr "空中馬車"
+
+#: .\sp_vehicles.json
+msgid "1000 KW aero turbine engine"
+msgid_plural "1000 KW aero turbine engines"
+msgstr[0] "1000 千瓦航空渦輪發動機"
+
+#. ~ Description for {'str': '1000 KW aero turbine engine'}
+#: .\sp_vehicles.json
+msgid ""
+"An aero turbine engine, usually used for military vehicles.  Known for its "
+"high rate of fuel consumption. Can use a variety of fuels"
+msgstr "一種航空渦輪發動機，通常用於軍用車輛。以其高燃料消耗率而聞名。可以使用多種燃料"
+
+#: .\sp_vehicles.json
+msgid "Steam Motorcycle"
+msgstr "蒸汽摩托車"
+
+#: .\sp_weapon.json
+msgid "crank machine rifle"
+msgid_plural "crank machine rifles"
+msgstr[0] "手搖機槍"
+
+#: .\sp_weapon.json
+msgid ""
+"This is a compact hand-cycled gun capable of firing through paper cartidges "
+"with a rapidity once only seen in crew-served gatling guns!"
+msgstr "這是一種緊湊的手搖槍，能夠快速發射紙質彈殼，其速度曾僅見於多人操作的加特林機槍！"
+
+#: .\sp_weapon.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\sp_weapon.json
+msgid "auto"
+msgstr "自動"
+
+#: .\sp_weapon.json
+msgid "plunkett's long range pistol"
+msgid_plural "plunkett's long range pistols"
+msgstr[0] "普倫基特長程手槍"
+
+#: .\sp_weapon.json
+msgid ""
+"A beautifully decorated pistol.  Developed specifally for usage at long "
+"ranges beyond the range where most black powder pistols are useful."
+msgstr "一把裝飾精美的手槍。專為遠距離使用而設計，射程超越大多數黑火藥手槍的有效範圍。"
+
+#: .\sp_weapon.json
+msgid "Mk.I High Velocity Pistol"
+msgid_plural "Mk.I High Velocity Pistols"
+msgstr[0] "Mk.I高速手槍"
+
+#: .\sp_weapon.json
+msgid ""
+"A somewhat ugly, but entirely serviceable pistol.  Developed specifally for "
+"acclerating cartridge shot to a high velocity, thus increasing the lethality"
+" of the pistol."
+msgstr "一把略顯醜陋但完全實用的手槍。專為將彈殼加速至高速而設計，從而提升手槍的殺傷力。"
+
+#: .\sp_weapon.json
+msgid "Springfield Hand Cannon"
+msgid_plural "Springfield Hand Cannons"
+msgstr[0] "斯普林菲爾德手持火炮"
+
+#: .\sp_weapon.json
+msgid ""
+"An ornately-made and very large pistol.  Fires high-bore rounds made "
+"specifically for usage in rare firearms, this pistol's power is nearly "
+"unmatched."
+msgstr "一把裝飾華麗且體積巨大的手槍。發射專為稀有火器設計的大口徑彈藥，其威力幾乎無與倫比。"
+
+#: .\sp_weapon.json
+msgid "Armstrong rifled Cannon"
+msgid_plural "Armstrong rifled Cannons"
+msgstr[0] "阿姆斯特朗線膛炮"
+
+#: .\sp_weapon.json
+msgid ""
+"An ferocious firearm capable of firing high-bore ammunition. This rifle's "
+"power is nearly unmatched."
+msgstr "一種兇猛的火器，能夠發射大口徑彈藥。這把步槍的威力幾乎無與倫比。"
+
+#: .\sp_weapon.json
+msgid "westinghouse electricity projector"
+msgid_plural "westinghouse electricity projectors"
+msgstr[0] "西屋電氣投射器"
+
+#: .\sp_weapon.json
+msgid ""
+"A powerful electricity projector developed by the famed inventor \"C.H. "
+"Westinghouse\".  Especially effective against electronic targets."
+msgstr "由著名發明家“C.H. Westinghouse”開發的強大電氣投射器。對電子目標尤其有效。"
+
+#: .\sp_weapon.json
+msgid "Zalinski pyrotechnic gun"
+msgid_plural "Zalinski pyrotechnic guns"
+msgstr[0] "扎林斯基煙火槍"
+
+#: .\sp_weapon.json
+msgid ""
+"A compound gun that uses a small charge of fuel to superheat lead shot to "
+"near-incandescent temperatures. Does damage mainly via extreme heating of "
+"the target."
+msgstr "一種複合槍，使用少量燃料將鉛彈加熱至接近白熾溫度。主要通過極端加熱目標造成傷害。"
+
+#: .\sp_weapon.json
+msgid "Foch's Warbringer"
+msgid_plural "Foch's Warbringer"
+msgstr[0] "福煦的戰神使者"
+
+#: .\sp_weapon.json
+msgid ""
+"A very powerful five-round revolver.  Crafted by the powerful artisans of "
+"years long past, this weapon is exceedingly rare and hard to replicate."
+msgstr "一把非常強大的五發左輪手槍。由久遠年代的強大工匠打造，此武器極其稀有且難以複製。"
+
+#: .\sp_weapon.json
+msgid "shocking staff"
+msgid_plural "shocking staffs"
+msgstr[0] "電擊法杖"
+
+#. ~ Use action menu_text for {'str': 'shocking staff'}.
+#. ~ Use action menu_text for {'str': 'shocking staff (active)'}.
+#: .\sp_weapon.json
+msgid "Activate"
+msgstr "激活"
+
+#. ~ Use action msg for {'str': 'shocking staff'}.
+#: .\sp_weapon.json
+msgid "Staff starts to crackle with energy provided by current!"
+msgstr "法杖開始因電流提供的能量而噼啪作響！"
+
+#. ~ Use action need_charges_msg for {'str': 'shocking staff'}.
+#: .\sp_weapon.json
+msgid "The staff remains the same. It needs more energy to function."
+msgstr "法杖保持不變。它需要更多能量才能運作。"
+
+#. ~ Description for {'str': 'shocking staff'}
+#: .\sp_weapon.json
+msgid ""
+"A steel staff with an array of electrodes on its offensive end.  Activate to"
+" produce a current on the weapon, running off of batteries."
+msgstr "一根鋼製法杖，攻擊端裝有一組電極。激活後可在武器上產生電流，由電池供電。"
+
+#: .\sp_weapon.json
+msgid "shocking staff (active)"
+msgid_plural "shocking staff (active)s"
+msgstr[0] "電擊法杖（激活）"
+
+#. ~ Use action msg for {'str': 'shocking staff (active)'}.
+#: .\sp_weapon.json
+msgid "Current disappears from the staff."
+msgstr "電流從法杖上消失。"
+
+#. ~ Description for {'str': 'shocking staff (active)'}
+#: .\sp_weapon.json
+msgid ""
+"A steel staff with an array of electrodes on its offensive end.  The staff "
+"currently crackles with energy, running off of batteries."
+msgstr "一根鋼製法杖，攻擊端裝有一組電極。法杖目前因能量而噼啪作響，由電池供電。"
+
+#: .\sp_weapon.json
+msgid "Paterson mechanized gun"
+msgid_plural "Paterson mechanized guns"
+msgstr[0] "帕特森機械化槍"
+
+#: .\sp_weapon.json
+msgid ""
+"This is a compact recoil-cycled gun capable of firing through paper "
+"cartidges with a rapidity equivalent to that of five soldiers!"
+msgstr "這是一把緊湊的後坐力循環槍，能夠快速發射紙質彈殼，其射速相當於五名士兵！"
+
+#: .\sp_weapon.json
+msgid "3 rd."
+msgstr "3 發"
+
+#: .\sp_weapon.json
+msgid "Faraday staff"
+msgid_plural "Faraday staffs"
+msgstr[0] "法拉第法杖"
+
+#: .\sp_weapon.json
+msgid ""
+"An upgraded version of the shocking staff, allows one to fire bolts of "
+"electricity directly."
+msgstr "電擊法杖的升級版本，允許直接發射電擊束。"
+
+#: .\sp_weapon.json
+msgid "westinghouse charged accelerator"
+msgid_plural "westinghouse charged accelerators"
+msgstr[0] "西屋充能加速器"
+
+#: .\sp_weapon.json
+msgid ""
+"A powerful charged accelerator developed by the famed inventor \"C.H. "
+"Westinghouse\".  Uses a magnetic accelerator to propel minute charges to a "
+"very, very high velocity. Kill your enemies with a jolt of lightning!"
+msgstr "由著名發明家“C.H. Westinghouse”開發的強大充能加速器。使用磁力加速器將微小電荷推進至極高速度。用一道閃電擊殺你的敵人！"
+
+#: .\sp_weapon.json
+msgid "spring spear"
+msgid_plural "spring spears"
+msgstr[0] "彈簧矛"
+
+#. ~ Description for {'str': 'spring spear'}
+#: .\sp_weapon.json
+msgid "A stout wooden pole with a spring-tensioned metal spearhead."
+msgstr "一根堅固的木杆，配有彈簧張力的金屬矛頭。"
+
+#: .\startlocation.json .\map\steam_town\overmap_terrain.json
+msgid "local town"
+msgstr "當地小鎮"
+
+#: .\map\automaton_base\overmap_terrain.json
+msgid "scientist compound"
+msgstr "科學家化合物"
+
+#: .\map\automaton_base\overmap_terrain.json
+msgid "scientist compound roof"
+msgstr "科學家園區屋頂"
+
+#: .\map\crimhouse\overmap_terrain.json
+msgid "Shady Warehouse"
+msgstr "陰暗倉庫"
+
+#: .\map\crimhouse\overmap_terrain.json
+msgid "Shady Warehouse roof"
+msgstr "陰暗倉庫屋頂"
+
+#: .\map\steam_town\overmap_terrain.json
+msgid "local town roof"
+msgstr "本地小鎮屋頂"
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Locator Hologram"
+msgstr "蒸汽朋克模組定位器全息影像"
+
+#: .\npcs\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "全息影像防護"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\npcs\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"我的程序設定為不與遊蕩怪物交戰。\""
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Scientist Compound Locator Hologram"
+msgstr "蒸汽朋克模組科學家園區定位器全息影像"
+
+#: .\npcs\NPC_missions.json
+msgid "Steampunk Mod Shady Warehouse Locator Hologram"
+msgstr "蒸汽朋克模組陰暗倉庫定位器全息影像"
+
+#. ~ Description for mission '{'str': 'Go to Scientist Compound'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Scientist Compound"
+msgstr "前往科學家園區"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr "要我為你定位探索地點？沒問題，只需等我用網絡系統查找幾分鐘或更短時間"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr "你想讓我現在為你定位那個地點以便探索嗎？當然，告訴我吧，你只需要等幾分鐘或更短時間，我就能通過網絡系統找到它。"
+
+#: .\npcs\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "祝你好運！"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr "對新地點的探索不感興趣嗎？別急，希望如此。你可以稍後再來找我。我相信你會的，因為我覺得你不是個無聊的人。"
+
+#: .\npcs\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "也希望你運用智慧確保自身安全。"
+
+#: .\npcs\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "你去過我為你找到的那個探索地點了嗎？"
+
+#: .\npcs\NPC_missions.json
+msgid "Good work!"
+msgstr "幹得好！"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"對我撒謊有什麼意義？你以為我會獎勵你嗎？這次任務的獎勵就是你在那個地點找到的對你來說有價值的物品、生物或其他倖存者，那是我為你找到的探索地點。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr "說實話，你是個無聊又懶惰的人。我想懶惰這一點我們倆都適用。"
+
+#. ~ Description for mission '{'str': 'Go to Shady Warehouse'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Shady Warehouse"
+msgstr "前往陰暗倉庫"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"系統在線。啟動對話模式。看啊，倖存者輕鬆激活了全息投影儀！沒錯，我的創造者瞭解很多像你這樣的人，說實話他們甚至不讀物品上的說明。幸好你看起來是個相當聰明的人，希望如此。那麼，你想讓我通過網絡系統為你顯示這個地點的位置嗎？我可以授予你訪問存檔全球網絡系統的權限，那是我的創造者設法恢復的。不過，使用後我需要稍微充能，這意味著你需要等待才能再次使用這個功能，希望如此。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr "[任務] 我希望你通過你的網絡系統為我找到這個地點以便探索，希望如此。"
+
+#: .\npcs\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "你是誰或是什麼東西？"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "你的創造者是誰？製造這些投影儀的目的是什麼？"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr "[改善心情] 我希望你授予我訪問存檔全球網絡系統的權限。"
+
+#: .\npcs\NPC_missions.json
+msgid "About that mission..."
+msgstr "關於那個任務……"
+
+#: .\npcs\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[告別]"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"啟動搜索模式。請等待幾分鐘或更短時間。你聽清楚了。不過，我們的定位工具有所限制。如果定位器無法找到這個地點，那就簡單地創建另一個能成功找到該地點的全息定位器。"
+
+#: .\npcs\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "我能和你談談別的嗎？"
+
+#: .\npcs\NPC_missions.json
+msgid "Thanks"
+msgstr "謝謝。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+"我是魔法相機裡的魔法精靈。不，開個玩笑。這是什麼問題？你不喜歡探索，還是對自己的世界瞭解不多？你沒在實驗室裡見過東西嗎？軍事設施？絕密物品？外星人或那些生物？你以為你們自己人沒有能製造全息影像的技術嗎？我是個全息影像，是帶有附加技術的軟件，就這麼簡單。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"這個問題比上一個聰明多了。我的創造者可以說是一群高科技極客，說實話其中大多數是人類。他們既沒有太多戰鬥技能，也顯然不願讓自己的生命承受不必要的風險。他們只會在基本生存需要時與敵對生物交戰。他們試圖依靠自給自足，並憑藉應用智慧和自行發現或設計的技術取得相對成功。他們製造這些投影儀是為了我們能互相幫助。我們為你提供有危險生物的地點，以及有價值的物品或被囚禁的倖存者。你清理這些地點，從中獲取你想要的任何有價值物品或倖存者，使這些地點成為安全的庇護所，希望我們包括你也能在那裡生活。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+"你想做什麼？玩存檔遊戲？瀏覽存檔社交媒體？看存檔視頻？聽存檔音樂？閱讀存檔文件和存檔書籍？找點東西玩、讀、聽、看，為了樂趣、提升智力、精神提升、心智改善？"
+
+#: .\npcs\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "說實話，我很喜歡其中一些。健康的東西。"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Hello, Madam."
+msgstr "您好，夫人。"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Hello, Sir."
+msgstr "您好，先生。"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Thank you, Do you know where I am?"
+msgstr "謝謝，您知道我現在身處何處嗎？"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid ""
+"You've stumbled upon our little town, a bit of an oasis in these troubled "
+"times, if I do say so myself! Make yourself at home, but don't overstay your"
+" welcome."
+msgstr "您偶然發現了我們的小鎮，要我說，在這動盪時期，這裡可算是一片綠洲！請隨意安頓，但別逗留太久。"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "Got it. Thanks."
+msgstr "明白了，謝謝。"
+
+#: .\npcs\Talk_sp_town_guardnpc.json
+msgid "I shall return."
+msgstr "我會回來的。"
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"Welcome, dear madam, to our little village. Please make yourself "
+"comfortable, I think a woman of your stature is safer here than in the "
+"outside world."
+msgstr "歡迎，親愛的夫人，來到我們的小村莊。請隨意安頓，我認為像您這樣地位的女士在這裡比在外界更安全。"
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"Another wayfarer has found our oasis in the abyss of violence that surrounds"
+" us! Good sir, I think you'll have a fine time here, plenty of friendly men "
+"and women. Although sometimes the women can be a little too friendly, if you"
+" ask me!"
+msgstr ""
+"又一位旅人發現了我們這片暴力深淵中的綠洲！好先生，我想您在這裡會過得愉快，有許多友善的男男女女。不過，要我說，有時候女士們可能有點過於熱情了！"
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"So you're a man in this town? What does someone of your status do in these "
+"parts?"
+msgstr "那麼您是這鎮上的男人？像您這樣身份的人在這裡都做些什麼？"
+
+#: .\npcs\Talk_sp_town_mannpc.json .\npcs\Talk_sp_town_womnpc.json
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Goodbye, thank you for your time."
+msgstr "再見，謝謝你的時間。"
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"A woman like you should get the grasp of it, I act as the head of my "
+"household, work in the mill, and defend the town in times of trouble. Sure, "
+"it might not be fit for a woman, but what more could a man ask for in this "
+"life?"
+msgstr "像您這樣的女士應該能理解，我作為一家之主，在磨坊工作，並在危難時刻保衛小鎮。當然，這可能不適合女性，但一個男人這輩子還能要求什麼呢？"
+
+#: .\npcs\Talk_sp_town_mannpc.json
+msgid ""
+"A fellow gentleman like you should understand well enough, I act as the head"
+" of my household, work in the mill, and defend the town in times of trouble."
+" What more could a man ask for in this life?"
+msgstr "像您這樣的紳士應該很明白，我作為一家之主，在磨坊工作，並在危難時刻保衛小鎮。一個男人這輩子還能要求什麼呢？"
+
+#: .\npcs\Talk_sp_town_mannpc.json .\npcs\Talk_sp_town_womnpc.json
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Got it."
+msgstr "明白了。"
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Ah, I see another fine woman has come to visit our community. Please, do "
+"make yourself comfortable. We're very welcoming around here."
+msgstr "啊，看來又有一位優雅的女士來拜訪我們的社區了。請務必隨意安頓。我們這裡非常熱情好客。"
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Hello, fine gentleman, to our humble town. This is a quite a nice town, is "
+"it not? Perhaps a fine place to settle down in during these troubled times.."
+msgstr "您好，優雅的先生，歡迎來到我們簡陋的小鎮。這是個相當不錯的小鎮，不是嗎？或許是在這動盪時期安頓下來的好地方。"
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid "So you're a woman in this town? What do you do around here?"
+msgstr "那麼您是這鎮上的女人？您在這裡都做些什麼？"
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Oh the usual: cooking, cleaning, gardening and so on. It seems tedious at "
+"first, but you eventually get used to it. Seeing as how you're a woman, too,"
+" I imagine you have the same understanding."
+msgstr "哦，就是平常那些：做飯、打掃、園藝等等。起初可能覺得乏味，但最終會習慣的。既然您也是女性，我想您有同樣的理解。"
+
+#: .\npcs\Talk_sp_town_womnpc.json
+msgid ""
+"Oh the usual: cooking, cleaning, gardening and so on. It seems tedious at "
+"first, but you eventually get used to it. You're a man though, so I imagine "
+"you're more suited to the more authoritative parts of life."
+msgstr "哦，就是平常那些：做飯、打掃、園藝等等。起初可能覺得乏味，但最終會習慣的。不過您是男人，所以我想您更適合生活中那些更有權威的部分。"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"Hello, Sir. Do you perhaps have any interest in my wares? A firearm or tonic"
+" for your health perhaps?"
+msgstr "您好，先生。您或許對我的商品感興趣？來把槍械或健康藥水如何？"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"Hello, Madam. Do you perhaps have any interests in my wares? Perhaps a nice "
+"dress or some cookware to help you in your domestic pursuits."
+msgstr "您好，夫人。您或許對我的商品感興趣？也許是一件漂亮的連衣裙或一些廚具，以助您操持家務。"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "So you're a merchant in this town? What can you tell me about it?"
+msgstr "那麼您是這鎮上的商人？您能告訴我些什麼？"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid "Let me browse your wares."
+msgstr "讓我看看您的商品。"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"That's a good question, sir. This town has been around for some time, I "
+"don't really remember how long, but we first placed roots down here in the "
+"19th century. This is a place where an enterprising man such as yourself "
+"could become famous."
+msgstr ""
+"這是個好問題，先生。這個小鎮已經存在一段時間了，我不太記得具體多久，但我們最初在19世紀就在這裡紮根了。這是一個像您這樣有進取心的人可以成名的地方。"
+
+#: .\npcs\Talk_steamtown_merchant.json .\npcs\sp_merchants.json
+msgid ""
+"That's a good question, miss. This town has been around for some time, I "
+"don't really remember how long, but we first placed roots down here in the "
+"19th century. There's a lot of fine domestic pursuits here for a member of "
+"the fairer sex such as yourself."
+msgstr ""
+"問得好，小姐。這座城鎮已經存在一段時間了，我不太記得具體多久，但我們在19世紀首次在此紮根。對於像您這樣的淑女來說，這裡有許多優雅的居家消遣。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Retrieve three mechanics related books"
+msgstr "取回三本機械相關書籍"
+
+#. ~ Description for mission '{'str': 'Retrieve three mechanics related
+#. books'}'
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Retrieve three copies of the guide on Mechanical Knowledge the Steamtown "
+"Merchant."
+msgstr "取回三份《機械知識指南》交給蒸汽鎮商人。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"I need you to prove your worth to me first. Find three copies of the Guide "
+"on Mechanical Knowledge, then I might trust you some more."
+msgstr "我需要你先向我證明你的價值。找到三份《機械知識指南》，然後我或許會更信任你一些。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"The Guide on Mechanical Knowledge is the absolute foundation of our network "
+"of towns. Without it, we would still be woefully primitive. Get me three "
+"copies of it."
+msgstr "《機械知識指南》是我們城鎮網絡的絕對基石。沒有它，我們仍將處於可悲的原始狀態。給我找來三份。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Great news, now go out and find some for me, okay?"
+msgstr "好消息，現在出去幫我找一些來，好嗎？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Why ask about a task and then reject it?"
+msgstr "為什麼問了任務又拒絕？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Look around at a shady warehouse or a scientist compound for them. Beware of"
+" the thugs and automatons that hang out around those parts, though."
+msgstr "去那些陰暗的倉庫或科學家據點附近找找看。不過要小心那些地方遊蕩的暴徒和自動機械。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Have you found the books yet?"
+msgstr "你找到那些書了嗎？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Superlative work, I might have more tasks for you in the future"
+msgstr "幹得漂亮，將來我可能還有更多任務交給你。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "That's odd, I don't really know what to say."
+msgstr "真奇怪，我都不知道該說什麼了。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Oh well, at least you tried. That's more than what most people do around "
+"here."
+msgstr "唉，至少你嘗試過了。這比這裡大多數人做的都要多。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Kill the gangsters"
+msgstr "消滅幫派分子"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You seem to know a lot about the area around our little town, but the thugs "
+"do as well"
+msgstr "你似乎對我們小鎮周邊地區很瞭解，但那些暴徒也一樣。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You seem to have no small amount of grit and determination. How about this, "
+"you go out and kill a few criminals that have been plaguing us as of late. "
+"About seven should suffice."
+msgstr "你似乎頗有膽識和決心。這樣如何，你出去幹掉幾個最近一直困擾我們的罪犯。大約七個就夠了。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Thank you for accepting, you'll be reimbursed handsomely if you kill those "
+"ruffians for us."
+msgstr "感謝你接受，如果你為我們除掉那些惡棍，你會得到豐厚的報酬。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"It's shame that you would reject my offer, but I understand the risk. "
+"Getting stabbed to death by some criminal's shiv isn't a very tempting "
+"propect!"
+msgstr "你拒絕我的提議真是遺憾，但我理解其中的風險。被某個罪犯的刀捅死可不是什麼誘人的前景！"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"The criminals hide out at shady warehouses, and shady warehouses alone."
+msgstr "罪犯們藏匿在陰暗的倉庫裡，而且只在那裡。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Have the ruffians been dispatched yet?"
+msgstr "那些惡棍已經被解決了嗎？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Astounding work! Our town will be a little bit safer now, as will all of New"
+" England."
+msgstr "幹得驚人！現在我們的城鎮會安全一點，整個新英格蘭地區也會如此。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "I'm not entirely sure if you're telling the truth, but alright."
+msgstr "我不完全確定你說的是真話，但好吧。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "So you've decided to give up already?"
+msgstr "所以你已經決定放棄了？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Kill Mad Scientist"
+msgstr "消滅瘋狂科學家"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"You've done more than enough to gain our trust, but I have another task for "
+"you."
+msgstr "你已經做得足夠多，贏得了我們的信任，但我還有另一個任務給你。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"There are these people that have been causing massive problems recently. "
+"People of eccentric natures, poisoned with an awful intelligence. Them and "
+"their handiwork have terrorized our communities for a long while, and I "
+"think you should handle it what do you think?"
+msgstr ""
+"最近有一些人造成了巨大的問題。這些人性格古怪，被一種可怕的智慧所毒害。他們和他們的作品長期以來一直恐嚇著我們的社區，我認為你應該處理一下，你覺得呢？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"I appreciate your willingness to go after these wayward scientist, but do be"
+" careful."
+msgstr "我很感激你願意去追捕這些誤入歧途的科學家，但一定要小心。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "While I am disheartened by your reply, I understand entirely."
+msgstr "雖然你的回答讓我感到失望，但我完全理解。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Mad scientists can be found in the scientist compounds that dot the "
+"landscape. Be careful, as they are very skilled with electricity and the "
+"creation of automatons."
+msgstr "瘋狂科學家可以在遍佈各地的科學家據點中找到。小心點，因為他們非常擅長電學和製造自動機械。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "Are they dead yet?"
+msgstr "他們死了嗎？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"To be honest, I didn't think you would make it back alive. Here is a reward "
+"for your immense efforts."
+msgstr "說實話，我沒想到你能活著回來。這是對你巨大努力的獎勵。"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid ""
+"Are you sure you're telling the truth about these scientists you have "
+"killed?"
+msgstr "你確定你關於這些被你殺死的科學家說的是真話嗎？"
+
+#: .\npcs\Talk_steamtown_merchant.json
+msgid "What a shame, but I guess you weren't as strong as we expected."
+msgstr "真遺憾，但我想你並沒有我們預期的那麼強大。"
+
+#: .\npcs\sp_factions.json
+msgid "Secluded Towns"
+msgstr "隱秘城鎮"
+
+#. ~ Description for Secluded Towns
+#: .\npcs\sp_factions.json
+msgid ""
+"A collection of small industrial towns that dot the landscape. Curiously "
+"retrogade and retrofuturist in many of their characterstics."
+msgstr "一片散佈在景觀中的小型工業城鎮群。其許多特徵奇異地呈現出復古與復古未來主義的風格。"
+
+#: .\npcs\sp_merchants.json
+msgid "Steam Merchant"
+msgstr "蒸汽商人"
+
+#: .\npcs\sp_merchants.json .\npcs\sp_npc_classes.json
+msgid "I'm a local shopkeeper."
+msgstr "我是本地店主。"
+
+#: .\npcs\sp_merchants.json
+msgid "Do you have a task for me?"
+msgstr "你有任務給我嗎？"
+
+#: .\npcs\sp_npc_classes.json
+msgid "Town Guard"
+msgstr "城鎮守衛"
+
+#: .\npcs\sp_npc_classes.json
+msgid "town guard"
+msgstr "城鎮守衛"
+
+#: .\npcs\sp_npc_classes.json
+msgid "Protects the town from assailants"
+msgstr "保護城鎮免受襲擊者侵擾"
+
+#: .\npcs\sp_npc_classes.json
+msgid "Townswoman"
+msgstr "城鎮婦女"
+
+#: .\npcs\sp_npc_classes.json
+msgid "townswoman"
+msgstr "城鎮婦女"
+
+#: .\npcs\sp_npc_classes.json
+msgid "A woman who lives in a local town"
+msgstr "一位居住在本地城鎮的女性"
+
+#: .\npcs\sp_npc_classes.json
+msgid "Townsman"
+msgstr "城鎮男子"
+
+#: .\npcs\sp_npc_classes.json
+msgid "townsman"
+msgstr "城鎮男子"
+
+#: .\npcs\sp_npc_classes.json
+msgid "A man who lives in a local town"
+msgstr "一位居住在本地城鎮的男性"
+
+#: .\npcs\sp_npc_classes.json
+msgid "Steamtown Merchant"
+msgstr "蒸汽鎮商人"

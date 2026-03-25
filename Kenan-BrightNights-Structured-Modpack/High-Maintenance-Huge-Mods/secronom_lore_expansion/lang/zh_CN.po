@@ -1,0 +1,4256 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "<color_light_red>Secronom+ Lore Expansion</color>"
+msgstr "<color_light_red>Secronom+ 背景扩展</color>"
+
+#. ~ Description for <color_light_red>Secronom+ Lore Expansion</color>
+#: .\modinfo.json
+msgid "<color_cyan>An expansion mod for secronom.</color>"
+msgstr "<color_cyan>Secronom 的扩展模组。</color>"
+
+#: .\Modification Files\Items\secro_BOWs.json
+msgid "bio-organic sword"
+msgid_plural "bio-organic swords"
+msgstr[0] "生物有机剑"
+
+#. ~ Description for {'str': 'bio-organic sword'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting "
+"of membranous vein webbings."
+msgstr "一把大型生物有机武器，拥有锋利的钙化刃缘，剑柄由膜状静脉网构成。"
+
+#: .\Modification Files\Items\secro_BOWs.json
+msgid "bio-organic sword<color_light_green>+</color>"
+msgid_plural "bio-organic swords<color_light_green>+</color>"
+msgstr[0] "生物有机剑<color_light_green>+</color>"
+
+#. ~ Description for {'str': 'bio-organic sword<color_light_green>+</color>',
+#. 'str_pl': 'bio-organic swords<color_light_green>+</color>'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting of membranous vein webbings.\n"
+"\n"
+"It has <color_light_green>core</color> (blade zombie) in its mod slot, providing:\n"
+"<color_white>Cutting damage: <color_light_green>+30%</color></color>"
+msgstr ""
+"一把大型生物有机武器，拥有锋利的钙化刃缘，剑柄由膜状静脉网构成。\n"
+"\n"
+"其模组槽中装有<color_light_green>核心</color>（刃锋僵尸），提供：\n"
+"<color_white>切割伤害：<color_light_green>+30%</color></color>"
+
+#. ~ Description for {'str': 'bio-organic sword<color_light_green>+</color>',
+#. 'str_pl': 'bio-organic swords<color_light_green>+</color>'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting of membranous vein webbings.\n"
+"\n"
+"It has <color_light_green>core</color> (tendril zombie) in its mod slot, providing:\n"
+"<color_white>* Bonus on-hit attacks.</color>"
+msgstr ""
+"一把大型生物有机武器，拥有锋利的钙化刃缘，剑柄由膜状静脉网构成。\n"
+"\n"
+"其模组槽中装有<color_light_green>核心</color>（触须僵尸），提供：\n"
+"<color_white>* 命中时附加额外攻击。</color>"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+#: Files\Items\-Essentials\secro_ammo_types.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh"
+msgid_plural "flesh"
+msgstr[0] "血肉"
+
+#. ~ Description for {'str': 'flesh', 'str_pl': 'flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A throbbing, seemingly alive slab of meat. Not edible for you to eat, but it"
+" is a necessary catalyst for flesh weaving and as a \"fuel\" for bio-"
+"organics."
+msgstr "一块搏动、看似活着的肉块。对你来说不可食用，但它是血肉编织的必要催化剂，并可作为生物有机体的\"燃料\"。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "chunk of flesh"
+msgid_plural "chunk of flesh"
+msgstr[0] "肉块"
+
+#. ~ Description for {'str': 'chunk of flesh', 'str_pl': 'chunk of flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A big throbbing, seemingly alive slab of meat. Not edible for you to eat, "
+"but it is a necessary catalyst for flesh weaving and as a \"fuel\" for bio-"
+"organics."
+msgstr "一大块搏动、看似活着的肉块。对你来说不可食用，但它是血肉编织的必要催化剂，并可作为生物有机体的\"燃料\"。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "<color_light_blue>gunner creation</color> - bone needle"
+msgid_plural "<color_light_blue>gunner creation</color> - bone needles"
+msgstr[0] "<color_light_blue>枪手造物</color> - 骨针"
+
+#. ~ Description for {'str': '<color_light_blue>gunner creation</color> - bone
+#. needle'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"Formed using the flesh's versatile cell reconstruction. This bio-organic "
+"needle is tipped with a sharp end that can easily pierce through flesh and "
+"mildly-armoured targets."
+msgstr "利用血肉的多功能细胞重构形成。这种生物有机针尖端锋利，能轻易刺穿血肉和轻度装甲目标。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "flesh pouch"
+msgid_plural "flesh pouchs"
+msgstr[0] "血肉囊袋"
+
+#. ~ Description for {'str': 'flesh pouch'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A small orifice with small residue for storage. Usually located on small "
+"bio-organic devices."
+msgstr "带有小型残留物用于储存的小型孔口。通常位于小型生物有机装置上。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "flesh residue"
+msgid_plural "flesh residues"
+msgstr[0] "血肉残留物"
+
+#. ~ Description for {'str': 'flesh residue'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A some sort of pouched orifice that consumes a special type of flesh. "
+"Unifies permanently to a flesh vessel."
+msgstr "一种囊状孔口，消耗特殊类型的血肉。永久性地与某个血肉容器融合。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "massive flesh residue"
+msgid_plural "massive flesh residues"
+msgstr[0] "巨型血肉残留物"
+
+#. ~ Description for {'str': 'massive flesh residue'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A massive pouched orifice that consumes a special type of flesh. Unifies "
+"permanently to a certain flesh vessel."
+msgstr "一个巨大的囊状孔口，消耗特殊类型的血肉。永久性地与某个特定的血肉容器融合。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "Secronom module UPS"
+msgid_plural "Secronom module UPS"
+msgstr[0] "Secronom模块UPS"
+
+#. ~ Description for {'str': 'Secronom module UPS', 'str_pl': 'Secronom module
+#. UPS'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A UPS with an extremely high-capacity battery specially designed to be used "
+"for all Secronom module implant types."
+msgstr "一种配备极高容量电池的UPS，专为所有Secronom模块植入类型设计。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "SP experimental battery"
+msgid_plural "SP experimental batteries"
+msgstr[0] "SP实验电池"
+
+#. ~ Description for {'str': 'SP experimental battery', 'str_pl': 'SP
+#. experimental batteries'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A light, but high-capacity battery cell, for use with certain power armor "
+"modules."
+msgstr "一种轻量但高容量的电池单元，用于某些动力装甲模块。"
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "overcharged lump of flesh"
+msgid_plural "overcharged lump of fleshs"
+msgstr[0] "过载血肉块"
+
+#. ~ Description for {'str': 'overcharged lump of flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"This large lump of organic material stores incredibly high amount of energy "
+"produced by an artificial flesh core. Mainly used to power up a certain mech"
+" suit."
+msgstr "这块大型有机材料储存着由人造血肉核心产生的惊人能量。主要用于为某种机甲套装供能。"
+
+#: .\Modification Files\Items\secro_books.json
+msgid "Secronom Project \"Flesh\": Research Results"
+msgid_plural "copies of Secronom Project \"Flesh\": Research Results"
+msgstr[0] "Secronom项目“血肉”：研究成果"
+
+#. ~ Description for {'str': 'Secronom Project "Flesh": Research Results',
+#. 'str_pl': 'copies of Secronom Project "Flesh": Research Results'}
+#: .\Modification Files\Items\secro_books.json
+msgid ""
+"This binder of highly technical papers describe the recent findings to "
+"multiple tests involving the flesh.  It's stamped \"APPROVED\"…"
+msgstr "这本高度技术性的论文夹描述了近期对血肉进行的多项测试的发现。上面盖有“批准”印章…"
+
+#: .\Modification Files\Items\secro_books.json
+msgid "Secronom Project \"Flesh\": Field Research"
+msgid_plural "copies of Secronom Project \"Flesh\": Field Research"
+msgstr[0] "Secronom项目“血肉”：实地研究"
+
+#. ~ Description for {'str': 'Secronom Project "Flesh": Field Research',
+#. 'str_pl': 'copies of Secronom Project "Flesh": Field Research'}
+#: .\Modification Files\Items\secro_books.json
+msgid ""
+"This binder of highly technical papers describe the wearer's protocol in "
+"wearing the bio-organic power armor, with a simple demonstration in forming "
+"its \"food\"."
+msgstr "这本高度技术性的论文夹描述了穿戴者穿着生物有机动力装甲的协议，并简单演示了如何形成其“食物”。"
+
+#: .\Modification Files\Items\secro_bots.json Files\Items\secro_corpses.json
+msgid "inactive laser beam turret"
+msgid_plural "inactive laser beam turrets"
+msgstr[0] "未激活激光炮塔"
+
+#. ~ Use action friendly_msg for {'str': 'inactive laser beam turret'}.
+#: .\Modification Files\Items\secro_bots.json
+msgid "The SPD-L1 emits a beeping sound, then scans the vicinity..."
+msgstr "SPD-L1发出哔哔声，然后扫描周围环境..."
+
+#. ~ Use action hostile_msg for {'str': 'inactive laser beam turret'}.
+#: .\Modification Files\Items\secro_bots.json
+msgid "Oh no..."
+msgstr "哦不……"
+
+#. ~ Description for {'str': 'inactive laser beam turret'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "An inactive SDP-L1 turret. Use to place it."
+msgstr "一台未激活的SDP-L1炮塔。使用以放置它。"
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken reinforcer bot"
+msgid_plural "broken reinforcer bots"
+msgstr[0] "损坏的强化机器人"
+
+#. ~ Description for {'str': 'broken reinforcer bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A reinforcer bot broken beyond repair. Can be gutted for parts."
+msgstr "一台损坏到无法修复的强化机器人。可拆解获取零件。"
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken shocker bot"
+msgid_plural "broken shocker bots"
+msgstr[0] "损坏的电击机器人"
+
+#. ~ Description for {'str': 'broken shocker bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A shocker bot broken beyond repair. Can be gutted for parts."
+msgstr "一台损坏到无法修复的电击机器人。可拆解获取零件。"
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken walker bot"
+msgid_plural "broken walker bots"
+msgstr[0] "损坏的步行机器人"
+
+#. ~ Description for {'str': 'broken walker bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A walker bot broken beyond repair. Can be gutted for parts."
+msgstr "一台损坏到无法修复的步行机器人。可拆解获取零件。"
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken launcher bot"
+msgid_plural "broken launcher bots"
+msgstr[0] "损坏的发射机器人"
+
+#. ~ Description for {'str': 'broken launcher bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A launcher bot broken beyond repair. Can be gutted for parts."
+msgstr "一台损坏到无法修复的发射机器人。可拆解获取零件。"
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken flesh mech"
+msgid_plural "broken flesh mechs"
+msgstr[0] "损坏的血肉机甲"
+
+#. ~ Description for {'str': 'broken flesh mech'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "This is a broken flesh exoskeleton suit, it looks beyond repair."
+msgstr "这是一套损坏的血肉外骨骼装甲，看起来已无法修复。"
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken laser beam turret"
+msgid_plural "broken laser beam turrets"
+msgstr[0] "损坏的激光炮塔"
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken electroshock turret"
+msgid_plural "broken electroshock turrets"
+msgstr[0] "损坏的电击炮塔"
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken gaviton turret"
+msgid_plural "broken gaviton turrets"
+msgstr[0] "损坏的重力炮塔"
+
+#. ~ Description for {'str': 'inactive laser beam turret'}
+#: .\Modification Files\Items\secro_corpses.json
+msgid ""
+"An inactive turret. It needs to be recharged in order to be used again, or "
+"could be gutted for parts."
+msgstr "一台未激活的炮塔。需要重新充能才能再次使用，或可拆解获取零件。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "bio-organic splicer"
+msgid_plural "bio-organic splicers"
+msgstr[0] "生物有机拼接器"
+
+#. ~ Description for {'str': 'bio-organic splicer'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A disk-shaped bio-organic device used in DNA extraction suitable on living "
+"(or undead) subjects."
+msgstr "一种盘状生物有机装置，用于从活体（或不死）目标中提取DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (blade zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (blade zombie)"
+msgstr[0] "<color_red>拼接DNA</color>（刀锋僵尸）"
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (blade zombie)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (blade zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a blade zombie."
+msgstr "一块融合了刀锋僵尸基因结构的血肉组织。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (lying body)"
+msgid_plural "<color_red>spliced DNAs</color> (lying body)"
+msgstr[0] "<color_red>拼接DNA</color>（躺尸）"
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (lying body)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (lying body)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a lying body."
+msgstr "一块注入了躺尸遗传结构的肉块。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (mouthswell zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (mouthswell zombie)"
+msgstr[0] "<color_red>拼接DNA</color>（肿胀嘴僵尸）"
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (mouthswell
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (mouthswell zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A chunk of flesh infused with the genetic structure of a mouthswell zombie."
+msgstr "一块注入了肿胀嘴僵尸遗传结构的肉块。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (tendril zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (tendril zombie)"
+msgstr[0] "<color_red>拼接DNA</color>（触须僵尸）"
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (tendril
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (tendril zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A chunk of flesh infused with the genetic structure of a tendril zombie."
+msgstr "一块注入了触须僵尸遗传结构的肉块。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (titan)"
+msgid_plural "<color_red>spliced DNAs</color> (titan)"
+msgstr[0] "<color_red>拼接DNA</color>（泰坦）"
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (titan)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (titan)'}
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (unifier
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (unifier zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a titan."
+msgstr "一块注入了泰坦遗传结构的肉块。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (unifier zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (unifier zombie)"
+msgstr[0] "<color_red>拼接DNA</color>（统一者僵尸）"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (blade zombie)"
+msgid_plural "<color_light_green>cores</color> (blade zombie)"
+msgstr[0] "<color_light_green>核心</color>（刀锋僵尸）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (blade zombie)',
+#. 'str_pl': '<color_light_green>cores</color> (blade zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a blade zombie. Contains a potent DNA suitable"
+" for replication."
+msgstr "一块高度压缩的刀锋僵尸肉块。内含适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (lying body)"
+msgid_plural "<color_light_green>cores</color> (lying body)"
+msgstr[0] "<color_light_green>核心</color>（躺尸）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (lying body)',
+#. 'str_pl': '<color_light_green>cores</color> (lying body)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a lying body. Contains a potent DNA suitable "
+"for replication."
+msgstr "一块高度压缩的躺尸肉块。内含适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (mouthswell zombie)"
+msgid_plural "<color_light_green>cores</color> (mouthswell zombie)"
+msgstr[0] "<color_light_green>核心</color>（肿胀嘴僵尸）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (mouthswell
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (mouthswell zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a mouthswell zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr "一块高度压缩的肿胀嘴僵尸肉块。内含适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (tendril zombie)"
+msgid_plural "<color_light_green>cores</color> (tendril zombie)"
+msgstr[0] "<color_light_green>核心</color>（触须僵尸）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (tendril
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (tendril zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a tendril zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr "一块高度压缩的触须僵尸肉块。内含适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (titan)"
+msgid_plural "<color_light_green>cores</color> (titan)"
+msgstr[0] "<color_light_green>核心</color>（泰坦）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (titan)',
+#. 'str_pl': '<color_light_green>cores</color> (titan)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a titan. Contains a potent DNA suitable for "
+"replication."
+msgstr "一块高度压缩的泰坦肉块。内含适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (unifier zombie)"
+msgid_plural "<color_light_green>cores</color> (unifier zombie)"
+msgstr[0] "<color_light_green>核心</color>（统一者僵尸）"
+
+#. ~ Description for {'str': '<color_light_green>core</color> (unifier
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (unifier zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a unifier zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr "一块高度压缩的统一者僵尸血肉。含有适合复制的强效DNA。"
+
+#: .\Modification Files\Items\secro_flesh.json
+msgid "bio-organic flesh"
+msgid_plural "bio-organic fleshs"
+msgstr[0] "生物有机血肉"
+
+#. ~ Description for {'str': 'bio-organic flesh'}
+#: .\Modification Files\Items\secro_flesh.json
+msgid ""
+"A chunk of heavily compressed flesh. Rubbery yet stiff, its toughness is "
+"compared to that of kevlar."
+msgstr "一大块高度压缩的血肉。富有弹性却又坚硬，其韧性堪比凯夫拉纤维。"
+
+#: .\Modification Files\Items\secro_flesh.json
+msgid "molten flesh vessel"
+msgid_plural "molten flesh vessels"
+msgstr[0] "熔融血肉容器"
+
+#. ~ Description for {'str': 'molten flesh vessel'}
+#: .\Modification Files\Items\secro_flesh.json
+msgid ""
+"A bio-organic exoskeleton turned into a mish-mash of flesh and bones. "
+"Completely unusable in its form."
+msgstr "一个生物有机外骨骼变成了血肉与骨骼的混合物。以其当前形态完全无法使用。"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh bed"
+msgid_plural "<color_pink>[MARK]</color> flesh beds"
+msgstr[0] "<color_pink>[标记]</color>血肉床铺"
+
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh bed'}
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+msgid ""
+"Activate to set a mark and the hivemind will build the furniture on that "
+"spot. Marked spot must be near the hivemind's core."
+msgstr "激活以设置标记，蜂巢思维将在该位置建造家具。标记位置必须靠近蜂巢思维核心。"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> floor residue"
+msgid_plural "<color_pink>[MARK]</color> floor residues"
+msgstr[0] "<color_pink>[标记]</color>地面残留物"
+
+#. ~ Description for {'str': '<color_pink>[MARK]</color> floor residue'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> residue'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh rack'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh container'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> bioluminescent wart'}
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+msgid ""
+"Activate to set a mark and the flesh will build the furniture on that spot. "
+"Marked spot must be near the hivemind's core."
+msgstr "激活以设置标记，血肉将在该位置建造家具。标记位置必须靠近蜂巢思维核心。"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> residue"
+msgid_plural "<color_pink>[MARK]</color> residues"
+msgstr[0] "<color_pink>[标记]</color>残留物"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh rack"
+msgid_plural "<color_pink>[MARK]</color> flesh racks"
+msgstr[0] "<color_pink>[标记]</color>血肉架"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh container"
+msgid_plural "<color_pink>[MARK]</color> flesh containers"
+msgstr[0] "<color_pink>[标记]</color>血肉容器"
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> bioluminescent wart"
+msgid_plural "<color_pink>[MARK]</color> bioluminescent warts"
+msgstr[0] "<color_pink>[标记]</color>生物发光疣"
+
+#: .\Modification Files\Items\secro_key.json
+msgid "There's no available card readers here."
+msgstr "此处没有可用的读卡器。"
+
+#: .\Modification Files\Items\secro_key.json
+msgid "The door has opened."
+msgstr "门已打开。"
+
+#: .\Modification Files\Items\secro_key.json
+msgid "Identify"
+msgstr "识别"
+
+#. ~ Description for {'str': 'Identify'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"Item is swapped to the door's card reader. If successful, opens specific "
+"doors."
+msgstr "将物品与门禁读卡器交换。若成功，可打开特定门。"
+
+#: .\Modification Files\Items\secro_key.json
+msgid "Secronom ID card"
+msgid_plural "Secronom ID cards"
+msgstr[0] "Secronom身份卡"
+
+#. ~ Description for {'str': 'Secronom ID card'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"This ID card once belonged to a secronom researcher. One side shows the "
+"information about the owner, the other describes the use for it. \"Level 2 "
+"clearance\"."
+msgstr "这张身份卡曾属于一位Secronom研究员。一面显示持有者信息，另一面描述其用途。\"2级权限\"。"
+
+#. ~ Description for {'str': 'Secronom ID card'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"This ID card once belonged to a secronom researcher. One side shows the "
+"information about the owner, the other describes the use for it. \"Level 1 "
+"clearance\"."
+msgstr "这张身份卡曾属于一位Secronom研究员。一面显示持有者信息，另一面描述其用途。\"1级权限\"。"
+
+#: .\Modification Files\Items\secro_tools.json
+msgid "SP - flesh injector"
+msgid_plural "SP - flesh injectors"
+msgstr[0] "SP - 血肉注射器"
+
+#. ~ Description for SP - flesh injector
+#: .\Modification Files\Items\secro_tools.json
+msgid ""
+"An experimental, syringe-like device. Labeled with \"Secronom Project\", it "
+"is used to forcefully feed a flesh vessel."
+msgstr "一种实验性的、类似注射器的装置。标有“Secronom项目”标签，用于强制喂养血肉容器。"
+
+#: .\Modification Files\Items\-Essentials\secro_ammo_types.json
+msgid "bone needle"
+msgstr "骨针"
+
+#: .\Modification Files\Items\-Essentials\secro_clothing_mods.json
+msgid "Coat in bio-organic flesh"
+msgstr "涂覆生物有机血肉"
+
+#: .\Modification Files\Items\-Essentials\secro_clothing_mods.json
+msgid "Tear down bio-organic flesh"
+msgstr "撕毁生物有机血肉"
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "MUTATION CORES"
+msgstr "突变核心"
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "AMALGAMS"
+msgstr "融合体"
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "AMALGAM COMMANDS"
+msgstr "融合体指令"
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "DNAs"
+msgstr "DNA"
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "CORES"
+msgstr "核心"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "blood acid splatter"
+msgstr "血酸溅射"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "blood acid streak"
+msgstr "血酸痕迹"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "pool of blood acid"
+msgstr "血酸池"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json Files\Others\secro_mutation_magic.json
+msgid "a spell"
+msgstr "一个法术"
+
+#. ~ Description for {'str': 'a spell'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid ""
+"Target spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Caster locks its line of sight onto the target, then casts the Spell(s).'"
+msgstr ""
+"物品施放的目标法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'施法者锁定目标的视线，然后施放法术。'"
+
+#. ~ Message for SPELL '{'str': 'a spell'}'
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#, c-format
+msgid ""
+"<color_dark_gray>The bio-organic splicer's tentacles start to writhe violently...\n"
+"<color_light_green>The bio-organic splicer rakes %3$s!"
+msgstr ""
+"<color_dark_gray>生物有机拼接器的触手开始剧烈扭动...\n"
+"<color_light_green>生物有机拼接器猛击%3$s！"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid "Scan"
+msgstr "扫描"
+
+#. ~ Description for {'str': 'Scan'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Item scans the target...'"
+msgstr ""
+"物品施放的法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'物品扫描目标...'"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid "Collect"
+msgstr "收集"
+
+#. ~ Description for {'str': 'Collect'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Provides the specific DNA.'"
+msgstr ""
+"物品施放的法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'提供特定的DNA。'"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "Sweep"
+msgstr "横扫"
+
+#. ~ Description for {'str': 'Sweep'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon unleashes several tendrils, swinging wildly into the vicinity that deals bashing damage.'"
+msgstr ""
+"物品施放的法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'改装武器释放出数条触须，疯狂挥向周围区域，造成钝击伤害。'"
+
+#. ~ Description for {'str': 'a spell'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\Others\secro_mutation_magic.json
+msgid ""
+"Target spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Caster locks its line of sight onto the target, then randomly casts one of the Spell(s).'"
+msgstr ""
+"物品施放的目标法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'施法者锁定目标的视线，然后随机施放其中一个法术。'"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\Others\secro_techniques.json
+msgid "Slam"
+msgstr "猛击"
+
+#. ~ Description for {'str': 'Slam'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon's tendrils compresses, then slams into the target, dealing bashing damage and applying stun.'"
+msgstr ""
+"物品施放的法术。若你看到此信息，请改为阅读以下内容：\n"
+"'改装武器的触须压缩后猛击目标，造成钝击伤害并施加眩晕。'"
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "Thrust"
+msgstr "刺击"
+
+#. ~ Description for {'str': 'Thrust'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon's tendrils thrust at the target, dealing stabbing damage and applying stun.'"
+msgstr ""
+"物品施放的法术。若你看到此信息，请改为阅读以下内容：\n"
+"'改装武器的触须刺向目标，造成穿刺伤害并施加眩晕。'"
+
+#: .\Modification Files\Items\-Essentials\secro_item_qualities.json
+#: Files\Others\secro_skills.json
+msgid "flesh weaving"
+msgstr "血肉编织"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "Bio-organic Flesh"
+msgstr "生物有机血肉"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "bruised"
+msgstr "瘀伤"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "sliced"
+msgstr "切片"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "mutilated"
+msgstr "残缺"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "badly mutilated"
+msgstr "严重残缺"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "thoroughly mutilated"
+msgstr "彻底残缺"
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "Artificial Flesh"
+msgstr "人造血肉"
+
+#: .\Modification Files\Items\-Essentials\secro_qualities.json
+msgid "flesh infusion"
+msgstr "血肉灌注"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ammo pouch"
+msgid_plural "ammo pouches"
+msgstr[0] "弹药袋"
+
+#. ~ Description for {'str': 'ammo pouch', 'str_pl': 'ammo pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A small pouch that can be used to store most types of small ammunition; "
+"rockets, however, will not fit.  Use insert to store ammunition."
+msgstr "一个小型袋子，可用于存放大多数类型的小型弹药；但火箭弹无法放入。使用插入操作来存放弹药。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ammo satchel"
+msgid_plural "ammo satchels"
+msgstr[0] "弹药挎包"
+
+#. ~ Use action holster_msg for {'str': 'ammo satchel'}.
+#. ~ Use action holster_msg for {'str': 'chest ammo pouch', 'str_pl': 'chest
+#. ammo pouches'}.
+#. ~ Use action holster_msg for {'str': 'chest rig'}.
+#. ~ Use action holster_msg for {'str': 'javelin bag'}.
+#. ~ Use action holster_msg for {'str': 'ankle ammo pouch', 'str_pl': 'ankle
+#. ammo pouches'}.
+#. ~ Use action holster_msg for {'str': 'leg ammo pouch', 'str_pl': 'leg ammo
+#. pouches'}.
+#. ~ Use action holster_msg for {'str': 'tac vest'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "You stash your %s."
+msgstr "你藏起了你的%s。"
+
+#. ~ Use action holster_prompt for {'str': 'ammo satchel'}.
+#. ~ Use action holster_prompt for {'str': 'chest ammo pouch', 'str_pl':
+#. 'chest ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'chest rig'}.
+#. ~ Use action holster_prompt for {'str': 'ankle ammo pouch', 'str_pl':
+#. 'ankle ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'leg ammo pouch', 'str_pl': 'leg
+#. ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'tac vest'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "Stash ammo"
+msgstr "藏匿弹药"
+
+#. ~ Description for {'str': 'ammo satchel'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo bag worn at the waist.  It is capable of holding a single "
+"large magazine or speedloader close at hand."
+msgstr "一种系在腰间的肉质弹药袋。它能容纳一个大型弹匣或快速装弹器，便于随时取用。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "chest ammo pouch"
+msgid_plural "chest ammo pouches"
+msgstr[0] "胸前弹药袋"
+
+#. ~ Description for {'str': 'chest ammo pouch', 'str_pl': 'chest ammo
+#. pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo pouch that can be strapped to your chest and hold a single "
+"magazine or speedloader close at hand."
+msgstr "一种肉质弹药袋，可绑在胸前，容纳一个弹匣或快速装弹器，便于随时取用。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "chest rig"
+msgid_plural "chest rigs"
+msgstr[0] "胸挂"
+
+#. ~ Description for {'str': 'chest rig'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"Popularized during the Vietnam War, chest rigs like these are typically "
+"plain, barebones affairs consisting of three or more pouches in a row, with "
+"straps to secure them on your chest.  This one can hold four magazines or "
+"speedloaders in its pouches."
+msgstr ""
+"这类胸挂在越南战争期间流行起来，通常是朴素、基础的设计，包含一排三个或更多袋子，配有绑带固定在胸前。这个胸挂的袋子可容纳四个弹匣或快速装弹器。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "XL chest rig"
+msgid_plural "XL chest rigs"
+msgstr[0] "XL胸挂"
+
+#. ~ Description for {'str': 'XL chest rig'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"Popularized during the Vietnam War, chest rigs like these are typically "
+"plain, barebones affairs consisting of three or more pouches in a row, with "
+"straps to secure them on your chest.  This one can hold four magazines or "
+"speedloaders in its pouches and fits larger-than-human forms."
+msgstr ""
+"这类胸挂袋在越南战争期间开始流行，通常是朴素、基础的设计，由三个或更多并排的弹匣袋组成，配有绑带固定在胸前。这款胸挂袋的弹匣袋可容纳四个弹匣或快速装弹器，且适合比人类体型更大的形态。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "javelin bag"
+msgid_plural "javelin bags"
+msgstr[0] "标枪袋"
+
+#. ~ Use action holster_prompt for {'str': 'javelin bag'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "Stash javelins"
+msgstr "存放标枪"
+
+#. ~ Description for {'str': 'javelin bag'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"An open medieval-looking bag, designed to store javelins within easy reach."
+msgstr "一个敞开的中世纪风格袋子，设计用于存放标枪，便于取用。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ankle ammo pouch"
+msgid_plural "ankle ammo pouches"
+msgstr[0] "脚踝弹药袋"
+
+#. ~ Description for {'str': 'ankle ammo pouch', 'str_pl': 'ankle ammo
+#. pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A small fleshy ammo pouch that can be strapped to your ankle and hold a "
+"single small magazine or speedloader close at hand."
+msgstr "一个小型肉质弹药袋，可绑在脚踝上，随身携带一个小型弹匣或快速装弹器。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "leg ammo pouch"
+msgid_plural "leg ammo pouches"
+msgstr[0] "腿部弹药袋"
+
+#. ~ Description for {'str': 'leg ammo pouch', 'str_pl': 'leg ammo pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo pouch that can be strapped to your leg and hold two magazines "
+"or speedloaders close at hand."
+msgstr "一个肉质弹药袋，可绑在腿上，随身携带两个弹匣或快速装弹器。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "quiver"
+msgid_plural "quivers"
+msgstr[0] "箭袋"
+
+#. ~ Description for {'str': 'quiver'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy quiver worn at the waist that can hold 20 arrows or bolts.  Use "
+"insert to store arrows or bolts."
+msgstr "一个系在腰间的肉质箭袋，可容纳20支箭或弩箭。使用插入功能来存放箭或弩箭。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "large quiver"
+msgid_plural "large quivers"
+msgstr[0] "大型箭袋"
+
+#. ~ Description for {'str': 'large quiver'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A large fleshy quiver worn on the back, that can hold 60 arrows or bolts.  "
+"Historically used by horse archers, rather than foot archers, but neither of"
+" THEM had to fight zombies.  Use insert to store arrows or bolts."
+msgstr "一个背在背上的大型肉质箭袋，可容纳60支箭或弩箭。历史上多由骑射手使用，而非步弓手，但两者都无需对抗僵尸。使用插入功能来存放箭或弩箭。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "tac vest"
+msgid_plural "tac vests"
+msgstr[0] "战术背心"
+
+#. ~ Description for {'str': 'tac vest'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"This light vest is meant to carry your gear and ammunition comfortably "
+"distributed about your torso.  They are popular amongst law enforcement, but"
+" less so than combination tactical vests incorporating Kevlar.  Lightweight "
+"and easy to don, this vest can hold four magazines close at hand in its many"
+" pouches."
+msgstr ""
+"这款轻型背心旨在将装备和弹药舒适地分布在躯干上。它们在执法部门中很受欢迎，但不如结合了凯夫拉材质的组合战术背心。轻便易穿，这款背心的多个弹匣袋可随身携带四个弹匣。"
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "XL tac vest"
+msgid_plural "XL tac vests"
+msgstr[0] "加大战术背心"
+
+#. ~ Description for {'str': 'XL tac vest'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"This light vest is meant to carry your gear and ammunition comfortably "
+"distributed about your torso.  They are popular amongst law enforcement, but"
+" less so than combination tactical vests incorporating Kevlar.  Oversized "
+"and easy to don, this vest can hold four magazines close at hand in its many"
+" pouches."
+msgstr ""
+"这款轻型背心旨在将装备和弹药舒适地分布在躯干上。它们在执法部门中很受欢迎，但不如结合了凯夫拉材质的组合战术背心。超大尺寸且易于穿戴，这款背心的多个弹匣袋可随身携带四个弹匣。"
+
+#: .\Modification Files\Items\Armors\secro_cloak.json
+msgid "cloak"
+msgid_plural "cloaks"
+msgstr[0] "斗篷"
+
+#. ~ Description for {'str': 'cloak'}
+#: .\Modification Files\Items\Armors\secro_cloak.json
+msgid "A heavy cloak meant to be thrown over your body."
+msgstr "一件厚重的斗篷，设计用于披在身上。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "back holster"
+msgid_plural "back holsters"
+msgstr[0] "背部枪套"
+
+#. ~ Description for {'str': 'back holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A holster, big enough for a rifle or other large gun.  Designed to be "
+"strapped to the back.  Whilst initially cumbersome it becomes much easier to"
+" use with practice.  Activate to holster/draw a gun."
+msgstr "一个足够容纳步枪或其他大型枪支的枪套，设计用于绑在背部。虽然最初使用起来有些笨拙，但通过练习会变得容易得多。激活以收枪或拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "baldric holster"
+msgid_plural "baldric holsters"
+msgstr[0] "肩带式枪套"
+
+#. ~ Description for {'str': 'baldric holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A harness which can hold up to six pistol-sized guns in total, available for"
+" quick drawing.  Historically similar harnesses were used by pirates to "
+"carry multiple loaded flintlock pistols at once, as reloading them is a "
+"lengthy process.  Activate to holster/draw a gun."
+msgstr ""
+"一种可容纳最多六把手枪尺寸枪支的背带，便于快速拔枪。历史上，海盗曾使用类似的背带同时携带多把已装填的燧发手枪，因为重新装填过程耗时较长。激活以收枪/拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "ankle holster"
+msgid_plural "ankle holsters"
+msgstr[0] "脚踝枪套"
+
+#. ~ Description for {'str': 'ankle holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A small concealed holster worn on the ankle.  It is awkward to use without "
+"practice.  Activate to holster/draw a small pistol."
+msgstr "一种佩戴在脚踝上的小型隐蔽枪套。未经练习使用起来会有些笨拙。激活以收枪/拔出一把小口径手枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "holster"
+msgid_plural "holsters"
+msgstr[0] "枪套"
+
+#. ~ Description for {'str': 'holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A fleshy strap worn on the hip for holding pistol sized guns.  Activate to "
+"holster/draw a gun."
+msgstr "一条佩戴在臀部、用于携带手枪尺寸枪支的肉制带子。激活以收枪/拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "survivor harness"
+msgid_plural "survivor harnesses"
+msgstr[0] "幸存者背带"
+
+#. ~ Description for {'str': 'survivor harness', 'str_pl': 'survivor
+#. harnesses'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A custom-built light harness covered with pouches and including an integral "
+"tactical sling for a small rifle or other such weapon.  Durable and "
+"carefully crafted to be comfortable to wear.  Activate to holster/draw your "
+"weapon."
+msgstr "一件定制轻型背带，覆盖多个小袋，并内置用于携带小口径步枪或类似武器的战术枪带。耐用且精心制作，佩戴舒适。激活以收枪/拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "XL survivor harness"
+msgid_plural "XL survivor harnesses"
+msgstr[0] "加大幸存者背带"
+
+#. ~ Description for {'str': 'XL survivor harness', 'str_pl': 'XL survivor
+#. harnesses'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A custom-built light harness covered with pouches and including an integral "
+"tactical sling for a small rifle or other such weapon.  Durable and "
+"carefully crafted to be comfortable to wear and fitting the largest forms.  "
+"Activate to holster/draw your weapon."
+msgstr "一件定制轻型背带，覆盖多个小袋，并内置用于携带小口径步枪或类似武器的战术枪带。耐用且精心制作，佩戴舒适，适合最大体型。激活以收枪/拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "XL holster"
+msgid_plural "XL holsters"
+msgstr[0] "加大枪套"
+
+#. ~ Description for {'str': 'XL holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A belt holster consisting of a loop and strap intended for use with larger "
+"firearms.  Slightly more cumbersome than a standard holster due to the "
+"straps that hold it flat against your leg, Activate to holster/draw a gun."
+msgstr "一种腰带枪套，由环扣和带子组成，适用于较大型枪支。由于带子需将其平贴腿部固定，比标准枪套稍显笨重。激活以收枪/拔枪。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - bone blades"
+msgid_plural "<color_light_red>fighter armament</color> - bone blades"
+msgstr[0] "<color_light_red>战士武装</color> - 骨刃"
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> - bone
+#. blades', 'str_pl': '<color_light_red>fighter armament</color> - bone
+#. blades'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Protruding on your joints are sharp and deadly curved blades composed of "
+"flesh and bones."
+msgstr "你的关节处突出着由血肉与骨骼构成的锋利致命弯刃。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - twisted veins"
+msgid_plural "<color_light_red>fighter armament</color> - twisted veins"
+msgstr[0] "<color_light_red>战士武装</color> - 扭曲血管"
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. twisted veins', 'str_pl': '<color_light_red>fighter armament</color> -
+#. twisted veins'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Your hands have bursted into several slender tentacle outgrowths, each "
+"tipped with a barbed stinger."
+msgstr "你的双手爆裂出数条细长触须状增生，每条末端都带有倒刺毒刺。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - fleshpound"
+msgid_plural "<color_light_red>fighter armament</color> - fleshpounds"
+msgstr[0] "<color_light_red>战士武装</color> - 肉锤"
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. fleshpound'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"With compact mass of flesh covering your arms, every whack packs a wallop!"
+msgstr "致密的血肉覆盖着你的双臂，每次挥击都威力十足！"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - jawed biters"
+msgid_plural "<color_light_red>fighter armament</color> - jawed biters"
+msgstr[0] "<color_light_red>战士武装</color> - 颚嘴啃噬者"
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. jawed biters', 'str_pl': '<color_light_red>fighter armament</color> - jawed
+#. biters'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Large gaping orifices emerge from both of your hands, eager to nibble on "
+"anything."
+msgstr "你双手上浮现出巨大的裂口，渴望啃噬一切。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_yellow>juggernaut armament</color> - meat shield"
+msgid_plural "<color_yellow>juggernaut armament</color> - meat shield"
+msgstr[0] "<color_yellow>主宰武装</color> - 肉盾"
+
+#. ~ Description for {'str': '<color_yellow>juggernaut armament</color> - meat
+#. shield', 'str_pl': '<color_yellow>juggernaut armament</color> - meat
+#. shield'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Your hands have fused together to form a meaty shield. It significantly hampers your movement, but has great blocking ability.\n"
+"\n"
+"<color_yellow>Juggernaut armament</color> - meat shield provides:\n"
+"<color_white>Speed: <color_red>-50%</color>\n"
+"<color_white>Damage Reduction (physical): <color_light_green>-5</color></color>"
+msgstr ""
+"你的双手融合在一起，形成了一个肉质的盾牌。它严重阻碍了你的移动，但具有出色的格挡能力。\n"
+"\n"
+"<color_yellow>主宰武装</color> - 肉盾提供：\n"
+"<color_white>速度：<color_red>-50%</color>\n"
+"<color_white>伤害减免（物理）：<color_light_green>-5</color></color>"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - spitter"
+msgid_plural "<color_light_blue>gunner armament</color> - spitters"
+msgstr[0] "<color_light_blue>枪手武装</color> - 喷吐者"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"An acid-spitting elongated proboscis-like limb that morphs and protrudes "
+"from one's shoulder. Consumes flesh to produce globs of blood acid."
+msgstr "一个能喷射酸液的细长口器状肢体，从肩膀变形并突出。消耗血肉以产生血酸球。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+#: Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+#: Files\Monsters\-Essentials\secro_mech_weapons.json
+msgctxt "gun_type_type"
+msgid "secro_flesh_combat"
+msgstr "secro_flesh_combat"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "nothing to see here."
+msgstr "这里没什么可看的。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - bone lancer"
+msgid_plural "<color_light_blue>gunner armament</color> - bone lancers"
+msgstr[0] "<color_light_blue>枪手武装</color> - 骨矛枪"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"One of your arms have swollen into a mass of flesh, with half of its "
+"proportion imitates that of a gun barrel. If fed, lines of strangely-shaped "
+"teeth will grow from it and these can be launched with great power."
+msgstr "你的一只手臂肿胀成一团血肉，其一半比例模仿了枪管形状。如果喂食，会从中长出形状奇特的牙齿，这些牙齿可以以巨大力量发射出去。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - bone lancer (alternative)"
+msgid_plural ""
+"<color_light_blue>gunner armament</color> - bone lancer (alternative)s"
+msgstr[0] "<color_light_blue>枪手武装</color> - 骨矛枪（备用）"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"This is the other side of your arm. You can switch to this side to reload "
+"and have it process the flesh for later use."
+msgstr "这是你手臂的另一侧。你可以切换到这一侧来重新装填，并让它处理血肉以备后用。"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "alternate"
+msgstr "备用"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgctxt "gun_type_type"
+msgid "secro_power_armor_flesh_morphed_gun_bonelance"
+msgstr "secro_power_armor_flesh_morphed_gun_bonelance"
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "bioluminescent frond"
+msgid_plural "bioluminescent fronds"
+msgstr[0] "生物发光叶"
+
+#. ~ Description for {'str': 'bioluminescent frond'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Protruding from your shoulders are small, oddly-shaped and short-lived frond"
+" emitting strong light. Can be detached."
+msgstr "从你的肩膀突出的是小型、形状奇特且寿命短暂的叶片，能发出强光。可以拆卸。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "baldric"
+msgid_plural "baldrics"
+msgstr[0] "肩带鞘"
+
+#. ~ Use action holster_msg for {'str': 'baldric'}.
+#. ~ Use action holster_msg for {'str': 'ankle sheath'}.
+#. ~ Use action holster_msg for {'str': 'back scabbard'}.
+#. ~ Use action holster_msg for {'str': 'scabbard'}.
+#. ~ Use action holster_msg for {'str': 'sheath', 'str_pl': 'sheathes'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "You sheath your %s"
+msgstr "你将你的%s收鞘。"
+
+#. ~ Use action holster_prompt for {'str': 'baldric'}.
+#. ~ Use action holster_prompt for {'str': 'back scabbard'}.
+#. ~ Use action holster_prompt for {'str': 'scabbard'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Sheath sword"
+msgstr "鞘剑"
+
+#. ~ Description for {'str': 'baldric'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy scabbard, big enough for anything up to a longsword, or even a bit "
+"larger than that.  Designed to be worn at the waist, secured by a shoulder "
+"belt.  Activate to sheath/draw a sword."
+msgstr "一个肉质的剑鞘，大到足以容纳任何长达长剑的武器，甚至稍大一些。设计为佩戴在腰部，由肩带固定。激活以收剑/拔剑。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "ankle sheath"
+msgid_plural "ankle sheaths"
+msgstr[0] "脚踝鞘"
+
+#. ~ Use action holster_prompt for {'str': 'ankle sheath'}.
+#. ~ Use action holster_prompt for {'str': 'sheath', 'str_pl': 'sheathes'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Sheath knife"
+msgstr "收鞘刀"
+
+#. ~ Description for {'str': 'ankle sheath'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A small concealed knife sheath worn on the ankle.  It is awkward to use "
+"without practice.  Activate to sheathe/draw a weapon."
+msgstr "一个佩戴在脚踝的小型隐蔽刀鞘。未经练习使用起来会很笨拙。激活以收刀/拔刀。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "back scabbard"
+msgid_plural "back scabbards"
+msgstr[0] "背鞘"
+
+#. ~ Description for {'str': 'back scabbard'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy scabbard, big enough for almost any sword.  Designed to be strapped"
+" to the back, it's very difficult to draw from without considerable "
+"practice.  Activate to sheath/draw a sword."
+msgstr "一个肉质的剑鞘，大到足以容纳几乎任何剑。设计为绑在背上，未经大量练习很难从中拔剑。激活以收剑/拔剑。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "scabbard"
+msgid_plural "scabbards"
+msgstr[0] "剑鞘"
+
+#. ~ Description for {'str': 'scabbard'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A large, adjustable sheath for holding swords and other large blades.  "
+"Activate to sheathe/draw a weapon."
+msgstr "一个用于存放剑和其他大型刀刃的大型可调节鞘套。激活以收鞘/拔取武器。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "sheath"
+msgid_plural "sheathes"
+msgstr[0] "鞘套"
+
+#. ~ Description for {'str': 'sheath', 'str_pl': 'sheathes'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy sheath for holding knives and other small blades.  It is easy to "
+"use without much practice.  Activate to sheathe/draw a weapon."
+msgstr "一个用于存放刀和其他小型刀刃的肉质鞘套。无需太多练习即可轻松使用。激活以收鞘/拔取武器。"
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "spear strap"
+msgid_plural "spear straps"
+msgstr[0] "长矛背带"
+
+#. ~ Use action holster_msg for {'str': 'spear strap'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "You holster your %s."
+msgstr "你将你的%s收进了背带。"
+
+#. ~ Use action holster_prompt for {'str': 'spear strap'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Holster spear"
+msgstr "收起长矛"
+
+#. ~ Description for {'str': 'spear strap'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy strap tied around the torso for toting spears while keeping your "
+"hands free.  You have to duck to get through doors while one's in it, "
+"though.  Activate to holster/draw a weapon."
+msgstr "一条绑在躯干上的肉质背带，用于携带长矛，同时解放双手。不过，背着它时你得弯腰才能通过门。激活以收起/拔取武器。"
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "backpack"
+msgid_plural "backpacks"
+msgstr[0] "背包"
+
+#. ~ Description for {'str': 'backpack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "A small backpack.  Good storage for a little encumbrance."
+msgstr "一个小型背包。负重轻，存储空间不错。"
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "rucksack"
+msgid_plural "rucksacks"
+msgstr[0] "大背包"
+
+#. ~ Description for {'str': 'rucksack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "A huge rucksack, provides a lot of storage."
+msgstr "一个巨大的背包，提供大量存储空间。"
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "high-volume rucksack"
+msgid_plural "high-volume rucksacks"
+msgstr[0] "高容量大背包"
+
+#. ~ Description for {'str': 'high-volume rucksack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid ""
+"Also known as a \"bigpack\", this rucksack is prized by pack rats but may "
+"lead to a bad back."
+msgstr "也被称为“巨无霸背包”，这种背包深受囤积者喜爱，但可能导致背部不适。"
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "flesh strands"
+msgstr "血肉丝线"
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "thick flesh strands"
+msgstr "粗厚肉质纤维"
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "compact flesh strands"
+msgstr "紧凑肉质纤维"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed dirt"
+msgstr "血肉泥土"
+
+#. ~ Description for fleshed dirt
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "It's dirt, but covered in bloody veins."
+msgstr "这是泥土，但覆盖着血红的脉络。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash"
+msgstr "溅洒"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed grass"
+msgstr "血肉草丛"
+
+#. ~ Description for fleshed grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of tiny tentacles used to be the wild patch of living grass."
+msgstr "一簇细小的触手曾是这片野生的活草。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed long grass"
+msgstr "血肉长草"
+
+#. ~ Description for fleshed long grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of long, writhing tendrils about shin high."
+msgstr "一簇长长的、扭动的触须，约至小腿高。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed tall grass"
+msgstr "血肉高草"
+
+#. ~ Description for fleshed tall grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of tall, writhing tendrils about head high."
+msgstr "一簇高高的、扭动的触须，约至头部高。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed shrub"
+msgstr "血肉灌木"
+
+#. ~ Description for fleshed shrub
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A small shrub, now a dense tendril cluster."
+msgstr "一株小灌木，现已变成密集的触手簇。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash."
+msgstr "溅洒。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splat."
+msgstr "啪嗒。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed young tree"
+msgstr "血肉幼树"
+
+#. ~ Description for fleshed young tree
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Devoured by the flesh, this young sapling has its twigs covered in "
+"membranous veins and blood-dripping gore as its leaves."
+msgstr "被血肉吞噬，这棵幼树的枝条覆盖着膜状脉络和滴血的肉块作为叶子。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash!"
+msgstr "哗啦！"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splat!"
+msgstr "啪嗒！"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed tree"
+msgstr "血肉树"
+
+#. ~ Description for fleshed tree
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A fully grown tree, standing tall even though its already been overwhelmed "
+"by the flesh."
+msgstr "一棵完全成熟的树，尽管已被血肉淹没，仍屹立不倒。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed small boulder"
+msgstr "血肉小圆石"
+
+#. ~ Description for fleshed small boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A small rock that has succumbed to the flesh."
+msgstr "一块已屈服于血肉的小石头。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed medium boulder"
+msgstr "血肉中圆石"
+
+#. ~ Description for fleshed medium boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A rock that has succumbed to the flesh."
+msgstr "一块已屈服于血肉的石头。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed large boulder"
+msgstr "血肉大圆石"
+
+#. ~ Description for fleshed large boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A large rock that has succumbed to the flesh."
+msgstr "一块已屈服于血肉的大石头。"
+
+#. ~ Description for flesh
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Disgusting mounds of meat, slimy and organic as it seems to live. This "
+"pinkish flesh is rotten to the core, and setting it on fire may not be the "
+"cure."
+msgstr "令人作呕的肉堆，滑腻而有生机，仿佛活着。这粉红色的血肉从核心腐烂，点燃它可能并非解决之道。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+#: Files\Maps\-Essentials\omt.json
+msgid "flesh wall"
+msgstr "血肉墙"
+
+#. ~ Description for flesh wall
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Disgusting wall of meat, slimy and organic as it seems to live. This compact"
+" lumps of flesh is sinister to the core, and setting it on fire may not be "
+"the cure."
+msgstr "令人作呕的肉墙，滑腻而有生机，仿佛活着。这团紧实的肉块从核心透着邪恶，点燃它可能并非解决之道。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "vein wall"
+msgstr "脉络墙"
+
+#. ~ Description for vein wall
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A wall composed of vein-like tendrils, seemingly made on the fly."
+msgstr "一堵由静脉状触须构成的墙壁，似乎是临时形成的。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splook!"
+msgstr "噗噜！"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh bed"
+msgstr "肉质床铺"
+
+#. ~ Description for flesh bed
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A lump of flesh carefully molded into a bed. Although it may be sticky, "
+"it'll keep you warm."
+msgstr "一块精心塑造成床铺的肉块。虽然可能有些黏腻，但能保暖。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "floor residue"
+msgstr "地面残留物"
+
+#. ~ Description for floor residue
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A gaping mouth on the floor. Good for storing items, just don't fall into "
+"it."
+msgstr "地面上一个张开的嘴巴。适合存放物品，只是别掉进去。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "residue"
+msgstr "残留物"
+
+#. ~ Description for residue
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A gaping mouth protruding from the floor. Great for storing items, just "
+"don't go inside it."
+msgstr "一张从地面突出的血盆大口。非常适合存放物品，只是别走进去。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh rack"
+msgstr "血肉货架"
+
+#. ~ Description for flesh rack
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "Lay your items here. Worry not, they won't dissolve."
+msgstr "将物品放置于此。别担心，它们不会溶解。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh container"
+msgstr "血肉容器"
+
+#. ~ Description for flesh container
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A large sack of flesh for storing liquids, with a vented suction point for "
+"ease of use."
+msgstr "一个用于储存液体的大型血肉袋，带有通风吸口以便使用。"
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "bioluminescent wart"
+msgstr "生物发光疣"
+
+#. ~ Description for bioluminescent wart
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "This bulbous clump of warts emit bioluminescent lights."
+msgstr "这团球状疣簇会发出生物荧光。"
+
+#. ~ Description for <color_pink>[MARK]</color> flesh bed
+#. ~ Description for <color_pink>[MARK]</color> floor residue
+#. ~ Description for <color_pink>[MARK]</color> residue
+#. ~ Description for <color_pink>[MARK]</color> flesh rack
+#. ~ Description for <color_pink>[MARK]</color> flesh container
+#. ~ Description for <color_pink>[MARK]</color> bioluminescent wart
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid ""
+"This location is marked for building. Destroy the mark to cancel ongoing "
+"progress."
+msgstr "此地已标记为建筑区域。摧毁标记可取消进行中的进度。"
+
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "SS Carrier"
+msgstr "SS 载体"
+
+#. ~ Description for {'str': 'SS Carrier'}
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "Secronom Project's specimen trailer was left here."
+msgstr "Secronom 项目的样本拖车被遗弃在此。"
+
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "Field Test"
+msgstr "实地测试"
+
+#. ~ Description for {'str': 'Field Test'}
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "A field test were done here."
+msgstr "此处曾进行过实地测试。"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom bunker"
+msgstr "塞克洛诺姆地堡"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "underground secronom lab"
+msgstr "地下塞克洛诺姆实验室"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "field"
+msgstr "田野"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "military bunker"
+msgstr "军事地堡"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom research lab"
+msgstr "塞克洛诺姆研究实验室"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom research lab basement"
+msgstr "塞克洛诺姆研究实验室地下室"
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "flesh research lab"
+msgstr "血肉研究实验室"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF bone launcher"
+msgid_plural "SPEMF bone launchers"
+msgstr[0] "SPEMF骨刺发射器"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"This is a rather vague integral weapon system for the Secronom Project's "
+"Experimental Mech \"Flesh\". Possesses wide variety of bio-organic guns to "
+"shoot different projectiles which consumes flesh as ammunition. Mech's hand "
+"have currently turned into a bone launcher, which volleys bone spikes at a "
+"high rate."
+msgstr ""
+"这是塞克洛诺姆计划实验机甲“血肉”的一套相当模糊的集成武器系统。拥有多种生物有机枪械，可发射不同弹体，并以血肉作为弹药消耗。机甲的手部目前已转变为骨刺发射器，能够高速连发骨刺。"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "high auto"
+msgstr "高速全自动"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF bone cannon"
+msgid_plural "SPEMF bone cannons"
+msgstr[0] "SPEMF骨炮"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"Morphs the mech's hands into bone cannons which launches and sprays bone "
+"spikes. Consumes chunks of flesh."
+msgstr "将机甲双手变形为骨炮，可发射并喷洒骨刺。消耗肉块。"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF gun morphs"
+msgstr "SPEMF枪械变形"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgctxt "gun_type_type"
+msgid "secro_fleshmech_gun_spikes"
+msgstr "secro_fleshmech_gun_spikes"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF acid launcher"
+msgid_plural "SPEMF acid launchers"
+msgstr[0] "SPEMF酸液发射器"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"Morphs the mech's hands into heavy acid launchers, allowing one to spray "
+"large amounts of blood acid. Consumes chunks of flesh."
+msgstr "将机甲双手变形为重酸液发射器，可喷洒大量血液酸液。消耗肉块。"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF acid spitter"
+msgid_plural "SPEMF acid spitters"
+msgstr[0] "SPEMF酸液喷射器"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"A large, elongated limb-like proboscis that sprouts from the back of the "
+"mech when activated. Bursts globs of blood acid."
+msgstr "激活时从机甲背部伸出的细长肢状口器。可爆裂出血液酸液团。"
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF accessories"
+msgstr "SPEMF配件"
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#: Files\Monsters\Bots\SecronomTurrets_modded.json
+msgid "laser beam turret"
+msgid_plural "laser beam turrets"
+msgstr[0] "激光炮塔"
+
+#. ~ Description for {'str': 'laser beam turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-L1, also known as Secronom Defense Project Type \"Laser\", is an "
+"advanced laser turret based from the miniature TX-5LR Cerberus. Its "
+"autonomous laser cannon fires a concentrated beam of pure heat that pierces "
+"through targets. Every shot requires an immensive power from its source."
+msgstr ""
+"SDP-L1，也称为塞克诺防御计划“激光”型，是一种基于微型TX-5LR "
+"Cerberus的先进激光炮塔。其自主激光炮发射一道集中的纯热光束，穿透目标。每次射击都需要其能源提供巨大功率。"
+
+#. ~ Attack message of monster "{'str': 'laser beam turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#: Files\Monsters\Bots\SecronomTurrets_modded.json
+#, c-format
+msgid "<color_yellow>%1$s shoots a ray of heat at %3$s!</color>"
+msgstr "<color_yellow>%1$s向%3$s射出一道热射线！</color>"
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid "electroshock turret"
+msgid_plural "electroshock turrets"
+msgstr[0] "电击炮塔"
+
+#. ~ Description for {'str': 'electroshock turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-E3, a highly modified turret developed for immobilizing nearby creatures"
+" with the use of its electrifying tesla-coil. Its 360 degree AI sensor cam "
+"allows it to identify foes and discharge the turret automatically. Firmly "
+"embedded to the terrain, it requires a huge amount of power from its source "
+"to operate."
+msgstr ""
+"SDP-E3，一种经过高度改装的炮塔，旨在利用其带电的特斯拉线圈使附近的生物无法动弹。其360度AI传感器摄像头可识别敌人并自动发射炮塔。它牢固地嵌入地形中，需要从电源获取大量电力才能运作。"
+
+#. ~ Attack message of monster "{'str': 'electroshock turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#, c-format
+msgid "<color_yellow>%1$s sends an electric current!</color>"
+msgstr "<color_yellow>%1$s释放了一道电流！</color>"
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid "graviton turret"
+msgid_plural "graviton turrets"
+msgstr[0] "引力子炮塔"
+
+#. ~ Description for {'str': 'graviton turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-G7P, a small turret that disorient movements of its target using strong "
+"magnetic fields that is generated under its large, gaping barrel. The turret"
+" is slow to recharge and the generated field doesn't last long, as it is a "
+"prototype version of its predecessor."
+msgstr ""
+"SDP-G7P，一种小型炮塔，利用其巨大、敞开的炮管下生成的强磁场扰乱目标的行动。该炮塔充电缓慢，生成的磁场持续时间不长，因为它是其前代的原型版本。"
+
+#. ~ Attack message of monster "{'str': 'graviton turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#, c-format
+msgid "<color_magenta>%1$s generates a energized field under %3$s!</color>"
+msgstr "<color_magenta>%1$s在%3$s下方生成了一个充能场！</color>"
+
+#. ~ Description for {'str': 'laser beam turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets_modded.json
+msgid ""
+"SDP-L1, also known as Secronom Defense Project Type \"Laser\", is an "
+"advanced laser turret based from the miniature TX-5LR Cerberus. Its "
+"autonomous laser cannon fires a concentrated beam of pure heat that pierces "
+"through targets. It uses a modified storage battery that allows the turret "
+"to operate on its own."
+msgstr ""
+"SDP-L1，又称Secronom防御计划“激光”型，是一种基于微型TX-5LR "
+"Cerberus的先进激光炮塔。其自主激光炮发射一道集中的纯热光束，可穿透目标。它使用改良的蓄电池，使炮塔能够独立运作。"
+
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid "vessel experimental"
+msgid_plural "vessel experimentals"
+msgstr[0] "实验型容器"
+
+#. ~ Description for {'str': 'vessel experimental'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid ""
+"A human who fell and succumbed to the flesh vessel exoskeleton - an "
+"experimental battle suit developed by the Secronom Project. It has "
+"completely fused with the body, and seem to have full control over it."
+msgstr "一个倒下并屈服于血肉容器外骨骼的人类——这是Secronom项目开发的实验性战斗服。它已与身体完全融合，似乎能完全控制宿主。"
+
+#. ~ Attack message of monster "{'str': 'vessel experimental'}"'s spell "None"
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+#, c-format
+msgid "<color_magenta>%1$s aims at %3$s!</color>"
+msgstr "<color_magenta>%1$s 瞄准了 %3$s！</color>"
+
+#. ~ Description for {'str': 'vessel experimental'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid ""
+"A human who fell and succumbed to the flesh vessel exoskeleton - an "
+"experimental battle suit developed by the Secronom Project - and by the "
+"looks of it, the body has been recently devoured. Strands of flesh writhe "
+"incessantly around it."
+msgstr ""
+"一个倒下并屈服于血肉容器外骨骼的人类——这是Secronom项目开发的实验性战斗服——从外观判断，其身体最近刚被吞噬。血肉细丝在周围不停地扭动。"
+
+#. ~ Attack message of monster "{'str': 'vessel experimental'}"'s spell "None"
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+#, c-format
+msgid ""
+"<color_magenta>A gunner armament emerges from %1$s's body, aiming at "
+"%3$s!</color>"
+msgstr "<color_magenta>一门枪械武装从 %1$s 体内浮现，瞄准了 %3$s！</color>"
+
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid "SP Experimental Mech \"Flesh\""
+msgid_plural "SP Experimental Mech \"Flesh\"s"
+msgstr[0] "SP实验机甲“血肉”"
+
+#. ~ Description for {'str': 'SP Experimental Mech "Flesh"'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid ""
+"This experimental mech type \"Flesh\" is the most recent (and last) mechsuit"
+" produced by the engineers of the Secronom Project. Very scarce and limited "
+"to military use only, it was designed to take on the main force of the "
+"battlefield thanks to its exotic yet nigh indestructible material, "
+"especially supplemented with a variety of gun morphs. Unfortunately, it "
+"requires one to wear a bio-organic power and link it with the mech to accept"
+" you as its rider."
+msgstr ""
+"这款实验型机甲“血肉”是Secronom项目工程师制造的最新（也是最后）的机甲服。数量极为稀少且仅限于军事用途，它被设计用于应对战场主力，这得益于其奇特且近乎坚不可摧的材料，特别是辅以多种枪械变形能力。不幸的是，它需要穿戴者配备生物有机动力装置，并将其与机甲链接以接受你作为骑手。"
+
+#. ~ Description for {'str': 'SP Experimental Mech "Flesh"'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid ""
+"This experimental mech type \"Flesh\" is the most recent (and last) mechsuit"
+" produced by the engineers of the Secronom Project. Very scarce and limited "
+"to military use only, it was designed to take on the main force of the "
+"battlefield thanks to its exotic yet nigh indestructible material, "
+"especially supplemented with a variety of gun morphs."
+msgstr ""
+"这款实验型机甲“血肉”是Secronom项目工程师制造的最新（也是最后）的机甲服。数量极为稀少且仅限于军事用途，它被设计用于应对战场主力，这得益于其奇特且近乎坚不可摧的材料，特别是辅以多种枪械变形能力。"
+
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "desaturated resin"
+msgid_plural "desaturated resins"
+msgstr[0] "褪色树脂"
+
+#. ~ Description for {'str': 'desaturated resin'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "A chunk of thick, charred resin."
+msgstr "一块厚重、焦黑的树脂。"
+
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "SS sampler kit - enigma"
+msgid_plural "SS sampler kit - enigmas"
+msgstr[0] "SS采样套件 - 谜团"
+
+#. ~ Description for {'str': 'SS sampler kit - enigma'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"A small, chip-like device with a built-in scanner that checks for \"enigma\""
+" specimens. Activate to scan and obtain a sample from the target."
+msgstr "一种内置扫描器的小型芯片状设备，用于检测“谜团”样本。激活后可扫描目标并获取样本。"
+
+#. ~ Message for SPELL '{'str': 'a spell'}'
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"<color_dark_gray>The sampler kit starts to scan...\n"
+"<color_light_green>The sampler kit shreds the shapeshifter!"
+msgstr ""
+"<color_dark_gray>采样套件开始扫描...\n"
+"<color_light_green>采样套件撕碎了变形体！"
+
+#. ~ Description for {'str': 'Collect'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Provides a desaturated resin.'"
+msgstr ""
+"物品施放的法术。如果你看到这条信息，请改为阅读：\n"
+"‘提供一块褪色树脂。’"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Reach the BOW Chamber"
+msgstr "抵达BOW实验室"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+#: Files\NPCs\Dialogues\secro_s1.json
+msgid "…"
+msgstr "……"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"You've heard the plan. Ask the other survivors for our short, bloody travel "
+"once you have accepted my request."
+msgstr "你已经知晓计划。接受我的请求后，向其他幸存者询问我们短暂而血腥的行程。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Good. Now go, we can't waste time in our current situation."
+msgstr "很好。现在出发吧，我们当前的处境不容浪费时间。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Well then... Lets talk about it again later."
+msgstr "那么……我们稍后再谈此事。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Those specimens are nasty in close range."
+msgstr "那些样本在近距离非常棘手。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "We've got to get going."
+msgstr "我们得继续前进了。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Thank you. Now we've got more spaces to move around. That being said, tell "
+"the others to stay put in this area... they also need your assistance."
+msgstr "谢谢。现在我们有了更多活动空间。话虽如此，告诉其他人留在这个区域……他们也需要你的帮助。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+#: Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "..."
+msgstr "..."
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Gather materials for SDP-L1 turret"
+msgstr "收集SDP-L1炮塔的材料"
+
+#. ~ Description for mission '{'str': 'Gather materials for SDP-L1 turret'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Collect <color_light_green>4 chunks of steel</color>, <color_light_green>18 "
+"scrap metals</color>, <color_light_green>9 electronic scraps</color>, "
+"<color_light_green>9 power converters</color>, <color_light_green>5 copper "
+"wires</color> and <color_light_green>a broken laser beam turret</color>."
+msgstr ""
+"收集<color_light_green>4块钢锭</color>、<color_light_green>18个金属废料</color>、<color_light_green>9个电子废料</color>、<color_light_green>9个电源转换器</color>、<color_light_green>5根铜线</color>和<color_light_green>一个损坏的激光束炮塔</color>。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"I'd like you to retrieve a broken SDP-L1 from the bunker and other essential"
+" parts for me to fully repair the turret."
+msgstr "我希望你从掩体中取回一个损坏的SDP-L1以及其他必要零件，以便我完全修复炮塔。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Then go, give them all to me afterwards."
+msgstr "然后去吧，之后把所有东西都交给我。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "If it's too heavy, haul it."
+msgstr "如果太重，就拖过来。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Good. The process may take an hour. While I'm repairing it, you should talk "
+"to others if they need your assistance."
+msgstr "很好。这个过程可能需要一个小时。在我修复期间，你应该问问其他人是否需要帮助。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Clear the enigma chamber"
+msgstr "清理谜团密室"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"So she wants you to clear out the enigma chamber, and you need my help to "
+"access that room. But are you ready? You can refuse if it felt like a "
+"deathwish."
+msgstr "所以她想要你清理谜团密室，而你需要我的帮助才能进入那个房间。但你准备好了吗？如果感觉像送死，你可以拒绝。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Let's head to that chamber real quick!"
+msgstr "我们快去那个密室吧！"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Just ask me again once you're ready to take on."
+msgstr "等你准备好接手时再问我一次。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Since this facility have come into chaos, we might see creatures other than "
+"them."
+msgstr "自从这个设施陷入混乱以来，我们可能会看到除了它们之外的其他生物。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Did you killed them?"
+msgstr "你干掉它们了吗？"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Great! Lets head back to others and see if they need anything else. Enigma "
+"chamber is pretty messed up anyway."
+msgstr "太好了！我们回去找其他人，看看他们是否还需要什么。反正谜团密室已经一团糟了。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Really? I've come alongside you and yet you lied to something you obviously "
+"didn't do?"
+msgstr "真的吗？我一直跟你在一起，你却对明明没做的事撒谎？"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Obtain a sample from the shapeshifter"
+msgstr "从变形者身上获取样本"
+
+#. ~ Description for mission '{'str': 'Obtain a sample from the
+#. shapeshifter'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Collect a <color_light_green>desaturated resin</color> from a "
+"<color_light_red>shapeshifter</color>. Use the tool provided to obtain the "
+"required item then bring it back once you've complete the task."
+msgstr ""
+"从<color_light_red>变形者</color>身上收集一份<color_light_green>脱饱和树脂</color>。使用提供的工具获取所需物品，完成任务后带回。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"You must obtain a sample from that creature using a sampler kit I'm about to"
+" provide once you're ready."
+msgstr "你必须使用我即将提供的采样工具包从那个生物身上获取样本，等你准备好。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Okay, here's the kit. It is set to scan for an enigma specimen. I've sent "
+"the coordinates to our guard and talk to him about this, he'll show you the "
+"way. But remember, this creature uses deception to hide itself."
+msgstr "好的，这是工具包。它已设置为扫描谜团样本。我已将坐标发送给我们的守卫，跟他谈谈这个，他会给你指路。但记住，这种生物会使用欺骗手段隐藏自己。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Be cautious on using the sampler kit, as it scans only the enigma, otherwise"
+" you'll waste batteries."
+msgstr "使用采样工具包时要小心，因为它只扫描谜团生物，否则你会浪费电池。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "How's the sample?"
+msgstr "样本怎么样？"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Well done, survivor. I'll start to identify this resin, and hope it can of "
+"good use."
+msgstr "干得好，幸存者。我会开始鉴定这种树脂，希望它能派上用场。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Slay the shapeshifter?"
+msgstr "击杀变形者？"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"She gave me the coordinates as soon as the drone reported her. I'll help you"
+" out collecting the sample, and fend off this creature from you. So, are you"
+" ready?"
+msgstr "无人机一报告她的位置，她就给了我坐标。我会帮你收集样本，并帮你抵挡这个生物。那么，你准备好了吗？"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Good. The target is not far from here."
+msgstr "很好。目标离这里不远。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "I never encountered this creature..."
+msgstr "我从未遇到过这种生物……"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Wait. It's not the right one... I guess we lost it."
+msgstr "等等。这不是我们要找的那个……我想我们跟丢了。"
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Feed your flesh"
+msgstr "喂养你的血肉"
+
+#. ~ Description for mission '{'str': 'Feed your flesh'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"\"Feed\" the bio-organic exoskeleton by activating <color_light_blue>Feed</color> command under the spellcasting tab (undefined by default). Alternatively, you can activate the <color_yellow>Metabolic Distribution</color> bionic, but it is advisable to use it only if you ran out of flesh.\n"
+"\n"
+"To complete this mission, obtain a <color_light_green>blob glob</color>. It's the main ingredient in creating food for your suit."
+msgstr ""
+"通过激活施法标签下的<color_light_blue>喂养</color>命令（默认未定义）来“喂养”生物有机外骨骼。或者，你可以激活<color_yellow>代谢分配</color>仿生体，但建议仅在血肉耗尽时使用。\n"
+"\n"
+"要完成此任务，获取一个<color_light_green>粘液团块</color>。它是为你的套装制造食物的主要成分。"
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "Secronom Researchers"
+msgstr "塞克诺姆研究员"
+
+#. ~ Description for Secronom Researchers
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid ""
+"A small group of scientists working under a certain project. Their advanced "
+"development of utilities is their fortitude for survival."
+msgstr "在某个项目下工作的一小群科学家。他们先进的实用工具开发是他们生存的支柱。"
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+#: Files\Others\secro_mutation.json
+msgid "Flesh"
+msgstr "血肉"
+
+#. ~ Description for Flesh
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid ""
+"A uniformed groups of humans/monsters created by the Secronom Project. They "
+"rarely appear in the world, and is motivated to dominate the world."
+msgstr "由塞克诺姆项目创造的统一着装的人类/怪物群体。他们很少在世界上出现，并以统治世界为动机。"
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "Secronom Scientist"
+msgstr "塞克诺姆科学家"
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "I'm one of the mfs who made secronom and shit."
+msgstr "我就是搞出塞克诺姆这些破事的人之一。"
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "scientist"
+msgstr "科学家"
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "researcher"
+msgstr "研究员"
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "guard"
+msgstr "守卫"
+
+#: .\Modification Files\NPCs\+Essentials\secro_dialogue_effects.json
+msgid "Some tendrils came off of the flesh after its relocation!"
+msgstr "一些触须在血肉转移后脱落了！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_researcher.json
+msgid "What do you want?"
+msgstr "你想要什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"We seem to find nothing...\n"
+"We should go back."
+msgstr ""
+"我们似乎什么都没找到……\n"
+"我们应该回去了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You need something, survivor?"
+msgstr "你需要什么吗，幸存者？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We've got to go to the enigma chamber."
+msgstr "我们得去谜题密室。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "What is it, survivor?"
+msgstr "怎么了，幸存者？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You're skilled more than what I've expected from you. Good job!"
+msgstr "你的技能比我对你的预期还要出色。干得好！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Focus on our path! There's no time for chit-chats!"
+msgstr "集中注意力在我们的路线上！没时间闲聊了！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I heard it. We will protect these people from the mutant hordes."
+msgstr "我听说了。我们会保护这些人免受突变体群的侵袭。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You are not suppose to be in here, survivor."
+msgstr "你不该在这里的，幸存者。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Okay. Follow my lead."
+msgstr "好的。跟着我走。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I know, now stand still and be a real guard."
+msgstr "我知道，现在站好，做个真正的守卫。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "No, you're staying here."
+msgstr "不，你得留在这里。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Do you need help?"
+msgstr "你需要帮助吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I need to go to enigma chamber."
+msgstr "我需要去谜题密室。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We're here now."
+msgstr "我们现在到了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "About the coordinates..."
+msgstr "关于坐标……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We're here..."
+msgstr "我们到了……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Okay then..."
+msgstr "好吧，那么……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Nothing..."
+msgstr "没什么……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We better go..."
+msgstr "我们最好走吧……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Nope. Bye."
+msgstr "不。再见。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Not yet."
+msgstr "还没呢。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_researcher.json
+msgid "Nothing."
+msgstr "没什么。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"I do need your help about a thing, but you should talk to our researcher "
+"about this first."
+msgstr "我确实有件事需要你帮忙，但你应该先和我们的研究员谈谈这个。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "I will."
+msgstr "我会的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"Good. Since I don't have any problems at all, you should check others of "
+"their needs."
+msgstr "很好。既然我没有任何问题，你应该去检查其他人的需求。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Not until we get back to the others."
+msgstr "等我们回到其他人那里再说。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Will do."
+msgstr "会的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "What is this place?"
+msgstr "这是什么地方？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "What are you doing?"
+msgstr "你在做什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "Who are you?"
+msgstr "你是谁？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_s1.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "Bye."
+msgstr "再见。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid ""
+"Currently this building is military outpost. M1 might give you more specific"
+" information."
+msgstr "目前这栋建筑是军事前哨站。M1可能会给你更具体的信息。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Okay…"
+msgstr "好吧……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "I just clean here. Go talk with M1."
+msgstr "我只是在这里打扫。去和M1谈谈吧。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Will do. Bye."
+msgstr "会的。再见。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "I'm security of this area. I serving under Sgt M1."
+msgstr "我是这个区域的安全人员。我在M1中士手下服务。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_s1.json
+msgid "I see."
+msgstr "我明白了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Great job, survivor. I never expect an outsider help us with our dilemma, "
+"yet here you are."
+msgstr "干得好，幸存者。我从没指望一个外来者能帮我们解决困境，但你却做到了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "You better get going."
+msgstr "你最好赶紧出发。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What is it?"
+msgstr "是什么事？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "You are not authorized to this area."
+msgstr "你无权进入这个区域。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "We need to go."
+msgstr "我们得走了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Yeah, and I want to know more about your plans."
+msgstr "是的，而且我想了解更多关于你们的计划。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The guard told me you need assistance."
+msgstr "守卫告诉我你需要帮助。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What's your plan?"
+msgstr "你有什么计划？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "We've clear the enigma chamber."
+msgstr "我们已经清理了谜团室。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Anything else I can do?"
+msgstr "还有其他我能做的吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "How's the search for specimen?"
+msgstr "样本搜寻进展如何？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Bye then..."
+msgstr "那就再见了……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "I am."
+msgstr "我是。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "I know. Just lead us all to that chamber."
+msgstr "我知道。只需带领我们所有人去那个房间。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+#: Files\NPCs\Dialogues\secro_s1.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+#: Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Okay."
+msgstr "好的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Yes, since you've proven yourself worthy for our plans, I'll be glad if you "
+"help me with this rather odd request."
+msgstr "是的，既然你已证明自己配得上我们的计划，如果你能帮我处理这个相当奇怪的请求，我会很高兴。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Since you've proven yourself worthy for our future plans, I'll be glad if "
+"you help me with this rather odd request."
+msgstr "既然你已证明自己配得上我们未来的计划，如果你能帮我处理这个相当奇怪的请求，我会很高兴。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Tell me."
+msgstr "告诉我。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"But first, let me tell you a subtle understanding on our facility. There are"
+" a total of 3 specimen variants: the failed, BOW and enigma, each in their "
+"respective rooms."
+msgstr "但首先，让我告诉你对我们设施的简要了解。总共有3种样本变体：失败型、BOW型和谜团型，各自位于相应的房间。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Failed? BOW? Enigma? What are those?"
+msgstr "失败型？BOW型？谜团型？那些是什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Just describe what needs to be done."
+msgstr "只需描述需要做什么。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Failed specimens are the results of unsuccessful mutations, otherwise they "
+"are called BOWs. Enigmas, on the other hand, were formed using potent "
+"mutagens."
+msgstr "失败样本是突变不成功的产物，否则它们被称为BOW。而谜团型则是使用强效诱变剂形成的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "So what should I do?"
+msgstr "那么我该做什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Clear out the enigma chamber. That room were locked down due to extremely "
+"anomalous threats, and you'll need authorization from someone to open it up."
+" If you're ready, talk to the guard about this."
+msgstr "清理谜团室。那个房间因极端异常威胁而被封锁，你需要获得某人的授权才能打开它。如果你准备好了，就和守卫谈谈这件事。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay. I will go now"
+msgstr "好的。我现在就去。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Excellent. Have you found anything of interest?"
+msgstr "很好。你发现什么有趣的东西了吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Nope."
+msgstr "不。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"If you notice anything strange, just ask me and I'll tell everything I know "
+"about that."
+msgstr "如果你注意到任何奇怪的事情，尽管问我，我会告诉你我所知道的一切。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay. Bye."
+msgstr "好的。再见。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Well, I'm curious about a mysterious, wandering specimen. Its the result of "
+"our recent experiment using a highly unstable mutagen who, I believe, takes "
+"form of a human."
+msgstr "嗯，我对一个神秘的、游荡的样本很好奇。它是我们最近使用一种高度不稳定的诱变剂进行实验的结果，我相信它以人类的形式存在。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What do you from it?"
+msgstr "你想从它那里得到什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Unlike other enigmas, its genetic structure is of unknown form, and I need a"
+" sample from it for deeper understanding of this otherworldly creature."
+msgstr "与其他谜团不同，它的遗传结构形式未知，我需要从它那里获取样本，以更深入地理解这种异界生物。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "So where can I find it?"
+msgstr "那么我在哪里能找到它？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"That's not necessary, as while you were dealing with the enigma chamber, "
+"I've sent a scout drone to search for that specimen using a tracker device, "
+"and it may take a while for its report."
+msgstr "那没必要，因为在你处理谜团密室时，我已经派出一架侦察无人机，使用追踪设备搜索那个样本，它的报告可能需要一段时间。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay... I'll wait for it."
+msgstr "好的……我会等待。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The drone's still on the search..."
+msgstr "无人机仍在搜索中……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay..."
+msgstr "好吧……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The drone has revealed the location of our target."
+msgstr "无人机已经揭示了目标的位置。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay, what should I do?"
+msgstr "好的，我该做什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "… oh… yes?"
+msgstr "……哦……是的？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "What are you working on here?"
+msgstr "你在这里做什么工作？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "So, this is your lab?"
+msgstr "那么，这是你的实验室？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "I'm working on the Flesh. Most of the time."
+msgstr "我在研究血肉。大部分时间都是。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "The flesh? So you are kind of a doctor?"
+msgstr "血肉？所以你算是医生？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh not exactly, rather scientist. The Flesh is organic flesh-like matter "
+"designed for wide variety of purposes. In short, it can be grown into "
+"various tissues with various structure. It can create muscles, bones, "
+"organs, glands, even whole self sufficient micro and macro organisms."
+msgstr ""
+"哦，不完全是，更准确说是科学家。血肉是一种有机的、类似肉体的物质，设计用于多种目的。简而言之，它可以生长成具有各种结构的组织。它能创造肌肉、骨骼、器官、腺体，甚至整个自给自足的微观和宏观生物体。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"My lab and my home. I created this lab long time ago when I decided to do "
+"something useful. I believed that research on stem cells, cultured meat and "
+"synthetic organs would solve many problems. "
+msgstr "我的实验室和我的家。很久以前，当我决定做些有用的事情时，我创建了这个实验室。我相信对干细胞、培养肉和合成器官的研究会解决许多问题。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "That sounds interesting, what kind of problems you had on mind?"
+msgstr "听起来很有趣，你当时想到了哪些问题？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "You created this whole lab yourself?"
+msgstr "这整个实验室都是你自己建造的？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Well nothing too specific in particular. Back then, goal of my research was "
+"anything from efficient edible meat production, growing organs for "
+"transplatology, various therapies with stem cells and most importantly "
+"getting funds for my living and playing with life."
+msgstr ""
+"其实也没什么特别具体的方向。那时候，我的研究目标五花八门，从高效食用肉生产、为移植学培育器官、各种干细胞疗法，最重要的是获取维持生活和玩弄生命的资金。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh yes, it took many years to gather funds, collect gear and set it all up "
+"down here. Through years of my research I was leading various projects and "
+"collected quite a lot of funds. Later on I had to tightly lock this place "
+"and move permanently to other facility."
+msgstr ""
+"哦，是的，我花了好多年才筹集资金、收集设备，并把这里的一切都布置妥当。多年的研究里，我主导了各种项目，积累了相当可观的资金。后来我不得不把这里严密封锁，永久转移到其他设施去。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "Quite remarkable achievement, what forced you to move from here?"
+msgstr "真是了不起的成就，是什么迫使你从这里搬走的？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"I could either move with my research to more secured facility or loose "
+"control over my research on the Flesh. I wasn't happy by that, boss hovering"
+" over my shoulder, evaluating my work was hard to accept. Though considering"
+" how it all turned out I'm glad they forced me back then."
+msgstr ""
+"我当时要么带着研究搬到更安全的设施，要么就得失去对“血肉”研究的控制。我对此并不满意，老板在背后盯着，评估我的工作，这很难接受。不过考虑到后来发生的一切，我很庆幸他们当时逼我搬走了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "So the work under someone wasn't so bad?"
+msgstr "所以，在别人手下工作也没那么糟？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh it was, it's just that when everything went to hell, we had a little "
+"accident there. Instead of me having little accident here."
+msgstr "哦，其实很糟，只是当一切都乱套时，我们在那边出了点小事故。而不是我在这里出点小事故。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "I see…"
+msgstr "我明白了……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What do you need, survivor?"
+msgstr "你需要什么，幸存者？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "You need something?"
+msgstr "你需要什么吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Now that we're here, we won't be bothered by those shambling maneaters... "
+"for now."
+msgstr "既然我们在这里，暂时不会被那些蹒跚的食人者打扰了……目前是这样。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "No, this is not the BOW chamber..."
+msgstr "不，这不是BOW实验室……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Perhaps I've told you everything I know..."
+msgstr "也许我已经把我知道的都告诉你了……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "You need to know more information?"
+msgstr "你需要了解更多信息吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"A survivor? What are you doing here despite the raging chaos?\n"
+"Anyway, you'll be safe in here."
+msgstr ""
+"一个幸存者？尽管外面一片混乱，你在这里做什么？\n"
+"不管怎样，你在这里会很安全。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So what are your future plans?"
+msgstr "那你未来的计划是什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm ready to push forward."
+msgstr "我准备好继续前进了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'd like to know more about the secronom project."
+msgstr "我想了解更多关于secronom项目的信息。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Is there anything I can do to help?"
+msgstr "有什么我能帮忙的吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm ready for the job."
+msgstr "我准备好接受任务了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "About the repairs..."
+msgstr "关于修理的事……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm a researcher."
+msgstr "我是一名研究员。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Of what exactly?"
+msgstr "具体研究什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Its not important, but if you wish to know, I don't mind ... since "
+"everything's messed up already."
+msgstr "这不重要，但如果你想知道，我不介意……反正一切都乱套了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Then tell me your secrets."
+msgstr "那就告诉我你的秘密吧。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Lets talk about that later."
+msgstr "我们晚点再谈这个。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"... Its the secronom project, a project that involves human augmentation "
+"using animal and alien genetics."
+msgstr "……是塞克洛诺姆计划，一个利用动物和外星基因进行人体强化的项目。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "And what's the purpose of the secronom project?"
+msgstr "塞克洛诺姆项目的目的是什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Human augmentation?"
+msgstr "人体强化？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What about genetics?"
+msgstr "那基因方面呢？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I guess I've asked everything..."
+msgstr "我想我已经问完所有问题了……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"For military, yet I'm not sure if there's beyond that case. I don't know "
+"what it is, but the ones who can answer that are not in here anymore."
+msgstr "为了军事用途，但我不确定是否还有其他目的。我不知道具体是什么，但能回答这个问题的人已经不在这里了。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"You heard it. The government permits this project to perform human "
+"experimentation. Don't worry, the subjects here are outlaws of the society."
+msgstr "你听到了。政府允许这个项目进行人体实验。别担心，这里的实验对象都是社会上的不法之徒。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "And what's the purpose of secronom?"
+msgstr "那塞克洛诺姆的目的是什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... but they didn't deserve this."
+msgstr "……但他们不该遭受这些。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"We've extracted the genes of an animal, then mixed with a catalyst. The "
+"catalyst is a classified object, so I can't tell you what it is."
+msgstr "我们提取了动物的基因，然后与催化剂混合。催化剂是机密物品，所以我不能告诉你它是什么。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"This is the secronom bunker, built solely as our last option for survival."
+msgstr "这里是塞克洛诺姆地堡，是作为我们最后的生存选择而建造的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So why won't you escape this place?"
+msgstr "那你为什么不逃离这个地方？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Why is it connected to the lab?"
+msgstr "为什么它与实验室相连？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Well? What have you earned for doing those?"
+msgstr "那么？你做这些得到了什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"I know escaping is our best option, but what lies beyond the wastelands is "
+"our main reason why we shouldn't travel."
+msgstr "我知道逃离是最好的选择，但废土之外的存在正是我们不应远行的主要原因。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So why is it connected to the lab?"
+msgstr "那它为什么与实验室相连？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "(pussies)"
+msgstr "（胆小鬼）"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"That's because we work in there, and performing scientific experiments and "
+"discovering newfound technologies is our foundation."
+msgstr "因为我们在那里工作，进行科学实验和发现新技术是我们的根基。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Why won't you escape this place?"
+msgstr "你为什么不逃离这个地方？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Regrets. I know you have encountered those ugly bastards, but they are the "
+"result of our experiments. And the tech? All of them are incomplete."
+msgstr "遗憾。我知道你遇到过那些丑陋的混蛋，但他们是实验的产物。而那些技术？全都未完成。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... So, is there anything else I need to know about the lab?"
+msgstr "……那么，关于实验室还有什么我需要知道的吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "That's unfortunate, but there's nothing I can do."
+msgstr "这很不幸，但我无能为力。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Well, if you're interested, I can tell you one thing... Deep below this "
+"facility is a weapon of mass destruction, created for military \"use\"."
+msgstr "好吧，如果你感兴趣，我可以告诉你一件事……这个设施深处有一件大规模杀伤性武器，是为军事“用途”而造的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Thanks for the info, I guess..."
+msgstr "多谢告知，我想……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "My plan is a bit risky, and I'll need you to guide us all."
+msgstr "我的计划有点冒险，需要你来引导我们所有人。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm in for that!"
+msgstr "我加入！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Maybe later."
+msgstr "也许晚点再说。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Now, let's plow through the horde!"
+msgstr "现在，让我们杀出一条血路！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Good. We need you to help us take over the BOW's chamber. With that, we can "
+"once again perform scientific experiments solely for our survival."
+msgstr "很好。我们需要你帮忙接管BOW的舱室。这样我们就能再次进行科学实验，只为我们自己的生存。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Lets go!"
+msgstr "出发吧！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... later, I need to gear up."
+msgstr "……稍等，我得准备装备。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'll lead the way!"
+msgstr "我来带路！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"This is science, you see? You may think we're the gruesome ones, but what we want is to open up new discoveries for us all. Yes, we messed up, but we're still here, struggling and helping each other to survive this nightmare.\n"
+"I can't change your opinion towards us, but if you want to know more about the secronom project, talk to our researcher."
+msgstr ""
+"这就是科学，明白吗？你可能觉得我们很可怕，但我们想要的是为所有人开辟新的发现。是的，我们搞砸了，但我们还在这里，挣扎着互相帮助，在这场噩梦中求生。\n"
+"我无法改变你对我们的看法，但如果你想了解更多关于secronom项目的信息，去和我们的研究员谈谈。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I see, you're curious about our \"unexpecting\" creations..."
+msgstr "我明白了，你对我们的“意外”造物很好奇……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What's on your mind?"
+msgstr "你在想什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Are those mutants in the city were the result of secronom project?"
+msgstr "城市里的那些突变体是塞克诺姆项目的产物吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Are there some other threats this project has created that I need to be "
+"aware of?"
+msgstr "这个项目还制造了其他我需要警惕的威胁吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "...."
+msgstr "……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"What? That can't be good...\n"
+"You know, secronom has an extreme potency of alteration once it comes in contact with a viable victim. If mixed with the catalyst, this will turn one's body into an adaptive living weapon, but that doesn't always end to the same result."
+msgstr ""
+"什么？那可不太妙……\n"
+"要知道，塞克诺姆一旦接触合适的受害者，就会展现出极强的改造能力。如果与催化剂混合，它能把人的身体变成适应性活体武器，但结果并不总是相同。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So how did it spread?"
+msgstr "那它是怎么传播的？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"It is an unstable pathogen - evolving more by time, and due to the outbreak,"
+" this facility falls into chaos; everyone panics, and got their body ripped "
+"to shred. Secronom were doomed to spread throughout the world in that "
+"incident."
+msgstr ""
+"这是一种不稳定的病原体——随时间推移不断进化，而由于那次爆发，设施陷入混乱；人人恐慌，身体被撕成碎片。塞克诺姆在那次事件中注定要蔓延至全世界。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Actually, there are 3 that we've discovered so far and maybe there's more to"
+" appear."
+msgstr "实际上，我们目前发现了3种，可能还有更多会出现。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Where are they? And what do you mean by \"discovered\"?"
+msgstr "它们在哪里？你说的“发现”是什么意思？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Those mutants think different than a zombified egghead, and probably they're in the woods, having a stroll.\n"
+"We discovered them by applying a super concentrated type of mutagen into each of our subjects, and the results, few of them transformed into these abominations, while the rest died... which is unfortunate, as our team thought their masculine body can handle such potential power."
+msgstr ""
+"那些突变体的思维方式与僵尸化的书呆子不同，它们可能在树林里闲逛。\n"
+"我们通过向每个实验对象注射超浓缩型诱变剂发现了它们，结果少数变成了这些怪物，其余的则死了……这很不幸，因为我们团队原以为他们强健的体魄能承受这种潜在力量。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Well, now I know your team did an inhumane act..."
+msgstr "好吧，现在我知道你的团队做了不人道的事……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"There is something I want to work on for our defenses, but they require time"
+" and vast amounts of materials for the process."
+msgstr "我想为我们的防御工事做点东西，但这需要时间和大量材料。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Defenses? You mean turrets?"
+msgstr "防御工事？你是指炮塔吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Take your time while you gather them."
+msgstr "收集材料时请慢慢来。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Yes, the autonomous turrets that you saw on the bunker is what I want to "
+"acquire. Do you accept my request?"
+msgstr "是的，你在掩体看到的自动炮塔就是我想要获取的。你接受我的请求吗？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Yes."
+msgstr "是的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'll do it later."
+msgstr "我稍后再做。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'm currently working on repairs..."
+msgstr "我正在修理中……"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "What do you want to repair?"
+msgstr "你想修理什么？"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Let me check the progress of SDP-L1 turret's repair."
+msgstr "让我检查一下SDP-L1炮塔的修理进度。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "SDP-L1 turret."
+msgstr "SDP-L1炮塔。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'll check them later."
+msgstr "我稍后再检查它们。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I got nothing."
+msgstr "我没什么可说的。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid ""
+"It is done. I modified the turret and made it cheaper in power usage, with a"
+" built-in storage battery."
+msgstr "完成了。我改装了炮塔，降低了它的能耗，还加装了内置蓄电池。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'll take it!"
+msgstr "我要了！"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I need more time to fully repair the turret."
+msgstr "我需要更多时间来彻底修复炮塔。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid ""
+"To repair the SDP-L1 turret, I need the following resources:\n"
+"\n"
+"4 chunks of steel\n"
+"18 scrap metals\n"
+"9 electronic scraps\n"
+"9 power converters\n"
+"5 copper wires\n"
+"\n"
+"It takes more than an hour to complete the process."
+msgstr ""
+"要修复SDP-L1炮塔，我需要以下资源：\n"
+"\n"
+"4块钢锭\n"
+"18块废金属\n"
+"9个电子废料\n"
+"9个电源转换器\n"
+"5根铜线\n"
+"\n"
+"整个过程需要一个多小时。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "[REPAIR]"
+msgstr "[修复]"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Perform the repair later."
+msgstr "稍后再进行修复。"
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I need more resources."
+msgstr "我需要更多资源。"
+
+#. ~ Please leave anything in <angle brackets> unchanged.
+#: .\Modification Files\Others\secro_flags.json
+msgid ""
+"This gear has been coated in bio-organic mesh, increasing its "
+"<good>protection</good>."
+msgstr "这件装备已涂覆生物有机网层，提升了其<good>防护性</good>。"
+
+#. ~ Mutation class name
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Experimental"
+msgstr "实验性"
+
+#. ~ Mutation class: Experimental mutagen_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You feel so strange."
+msgstr "你感觉非常奇怪。"
+
+#. ~ Mutation class: Experimental iv_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You inject yoursel-arRGH!"
+msgstr "你给自己注射——啊！"
+
+#. ~ Mutation class: Experimental iv_sleep_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You were knocked unconscious and spasm to the ground."
+msgstr "你被击昏，痉挛倒地。"
+
+#. ~ Mutation class: Experimental iv_sound_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "yourself scream in agony!"
+msgstr "你自己在痛苦中尖叫！"
+
+#. ~ Mutation class: Experimental Male memorial messsage
+#: .\Modification Files\Others\secro_mutation.json
+msgctxt "memorial_male"
+msgid "Burst out of humanity."
+msgstr "人性崩坏。"
+
+#. ~ Mutation class: Experimental Female memorial messsage
+#: .\Modification Files\Others\secro_mutation.json
+msgctxt "memorial_female"
+msgid "Burst out of humanity."
+msgstr "人性崩坏。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Mutant"
+msgstr "突变体"
+
+#. ~ Description for {'str': 'Mutant'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You're still bothered why'd you choose this mess..."
+msgstr "你仍在困惑为何选择这团糟……"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "experimental mutagen"
+msgid_plural "experimental mutagens"
+msgstr[0] "实验性突变剂"
+
+#. ~ Description for {'str': 'experimental mutagen'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Mutagen developed by the secronom team. Unstable."
+msgstr "由secronom团队研发的突变剂。不稳定。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "experimental serum"
+msgid_plural "experimental serums"
+msgstr[0] "实验性血清"
+
+#. ~ Description for {'str': 'experimental serum'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Super-concentrated mutagen developed by the secronom team. Highly unstable. "
+msgstr "由secronom团队研发的超浓缩突变剂。极不稳定。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendrils"
+msgstr "触须"
+
+#. ~ Description for {'str': 'Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your arms were replaced by a pair of tough, skinny tendrils. Good for "
+"combat, but it's stiff and prevents you from wearing gloves."
+msgstr "你的双臂被一对坚韧而细长的触须所取代。这有利于战斗，但触须僵硬，让你无法佩戴手套。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slap %s with your tendrils"
+msgstr "你用触须拍击了%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s strikes %2$s with their tendrils"
+msgstr "%1$s用他们的触须攻击了%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Thick Tendrils"
+msgstr "粗壮触须"
+
+#. ~ Description for {'str': 'Thick Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got a pair of large, thick tendrils sprouting from your arms. They "
+"decreases your dex by 2, but impacts more damage and has increased bash "
+"resistance."
+msgstr "你的双臂长出了一对又大又粗的触须。它们使你的敏捷降低2点，但能造成更多伤害，并提高了钝击抗性。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slap %s with your thick tendrils"
+msgstr "你用粗壮的触须拍击了%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s strikes %2$s with their thick tendrils"
+msgstr "%1$s用他们粗壮的触须攻击了%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendricles"
+msgstr "触须丛"
+
+#. ~ Description for {'str': 'Tendricles'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your whole body has small wriggly tentacle outgrowths, while your tendril "
+"pairs became shorter in length, increasing dex by 1 and decreasing their "
+"encumbrance and impact damage. The outgrowths are tough, providing 1 bash "
+"resistance to all body parts, yet increases their encumbrance by 5 and "
+"becomes much more uncomfortable when wearing tight clothes."
+msgstr ""
+"你的全身长出了细小的蠕动触须状增生，同时你的成对触须长度变短，这使敏捷增加1点，并降低了它们的累赘度和冲击伤害。这些增生很坚韧，为所有身体部位提供1点钝击抗性，但会使累赘度增加5点，并且在穿着紧身衣物时变得非常不适。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You pierced %s with your tendrils"
+msgstr "你用触须刺穿了%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s pierces %2$s with their tendrils"
+msgstr "%1$s用他们的触须刺穿了%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Tendril"
+msgstr "核心 - 触须"
+
+#. ~ Description for {'str': 'Core - Tendril'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tendrils limbs have become tougher, stronger and darker in hue due to "
+"prolonged mutations. Permanently increases your strength by 2, bash damage "
+"by 4 and their physical resistance by 4."
+msgstr "由于长期的突变，你的触须肢体变得更坚韧、更强壮，色泽也更深沉。永久增加你的力量2点，钝击伤害4点，以及物理抗性4点。"
+
+#. ~ Description for {'str': 'Core - Tendril'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"One of your tendril limbs have swollen a bit, and faintly pulsates in "
+"velvety hue. If activated, this tendril hardens, extends and becomes a "
+"special whip-like weapon for a few turns."
+msgstr "你的一条触须肢体略微肿胀，并以天鹅绒般的色泽微弱地搏动着。如果激活，这条触须会硬化、延伸，并在数回合内变成一种特殊的鞭状武器。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bone Blade"
+msgstr "骨刃"
+
+#. ~ Description for {'str': 'Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your left hand has lost its flesh, revealing only a stout bone blade. It "
+"prevents you from wearing gloves nor handling anything with, but has great "
+"resistance against physical damage plus it packs a wallop."
+msgstr "你的左手失去了血肉，只剩下一把粗壮的骨刃。它让你无法佩戴手套或用手处理任何物品，但对物理伤害有很强的抗性，并且威力巨大。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Sharpened Bone Blade"
+msgstr "锋锐骨刃"
+
+#. ~ Description for {'str': 'Sharpened Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone blade became lighter, thinner and has a sharpened edge, like that "
+"of a sword. Instead of impact damage, it cuts through flesh with ease."
+msgstr "你的骨刃变得更轻、更薄，并且拥有像剑一样锋利的刃口。它不再造成冲击伤害，而是能轻易地切割血肉。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Serrated Bone Blade"
+msgstr "锯齿骨刃"
+
+#. ~ Description for {'str': 'Serrated Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone blade has greatly altered, forming irregular bone outgrowths all "
+"around the surface. It is heavier and very unpleasant to the sight, but "
+"beneficial for both defense and offense."
+msgstr "你的骨刃发生了巨大的变化，表面形成了不规则的骨质增生。它更重且外观非常令人不适，但对防御和进攻都有益处。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Blade"
+msgstr "核心 - 刀刃"
+
+#. ~ Description for {'str': 'Core - Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your blade has been engulfed by veins, pulsating in sync with your beats. It"
+" glows brighter whenever you take damage from a foe. Receiving damage from "
+"an enemy attack increases your combat abilities for a short period of time."
+msgstr "你的刀刃已被血管吞噬，随着你的心跳同步搏动。每当你受到敌人伤害时，它会发出更明亮的光芒。受到敌人攻击伤害会在短时间内提升你的战斗能力。"
+
+#. ~ Description for {'str': 'Core - Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your blade were overwhelmed by flesh strands, throbbing at a constant rate. "
+"These strands react from enemy attacks, which causes them to spread and "
+"cover your extremities. Whenever you take damage from a foe, your chance of "
+"blocking their attacks will increase for a few moments, but also decreases "
+"your mobility and attack speed."
+msgstr ""
+"你的刀刃被肉丝覆盖，以恒定速率悸动。这些肉丝会对敌人攻击产生反应，导致它们扩散并覆盖你的四肢。每当你受到敌人伤害时，你格挡其攻击的几率会短暂提升，但也会降低你的移动速度和攻击速度。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Irregular Bone Outgrowths"
+msgstr "不规则骨刺增生"
+
+#. ~ Description for {'str': 'Irregular Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Sharp bones protrude through your skin, extending at random angles. In "
+"exchange of mobility and 10 encumbrance to all body parts, they greatly "
+"protect you from harm."
+msgstr "尖锐的骨头刺穿你的皮肤，以随机角度延伸。以牺牲移动性和所有身体部位增加10点负重为代价，它们极大地保护你免受伤害。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Plated Bone Outgrowths"
+msgstr "板状骨刺增生"
+
+#. ~ Description for {'str': 'Plated Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"The bone outgrowths has extended further, and their angles has slightly "
+"adjusted. Underneath them are irregular bone plates that spread over your "
+"skin, expanding their coverage. Significantly improves your defensive "
+"capabilities, however, they harshly affect your mobility and increases "
+"encumbrance by 15 caused by additional weight."
+msgstr ""
+"骨刺增生进一步延伸，其角度略有调整。下方是不规则的骨板，在你的皮肤上蔓延，扩大了覆盖范围。显著提升你的防御能力，但会严重影响移动性，并因额外重量增加15点负重。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bone Cuirass"
+msgstr "骨制胸甲"
+
+#. ~ Description for {'str': 'Bone Cuirass'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone outgrowths became an external layer of armor, which fits and "
+"excels at protecting your body while severely reducing the length of the "
+"spikes. The spikes have adjusted enough to reduce movement penalties and "
+"encumbrance to 8, but permanently disables the ability to pierce the "
+"attackers."
+msgstr ""
+"你的骨刺增生形成了一层外部护甲，贴合身体并擅长防护，同时大幅缩短了尖刺长度。尖刺经过调整，将移动惩罚和负重降低至8点，但永久失去了刺穿攻击者的能力。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Massive Bone Outgrowths"
+msgstr "巨型骨刺增生"
+
+#. ~ Description for {'str': 'Massive Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone outgrowths have altered to a great extent - bone plates have "
+"swollen and the spikes grew unnecessary sets of smaller variations. Aside "
+"from its significantly improved defense that adds 12 physical resistance to "
+"all body parts, its weight and thickness are a hassle, permanently "
+"increasing encumbrance by 20 and a greatly reduced mobility."
+msgstr ""
+"你的骨刺增生发生了巨大改变——骨板肿胀，尖刺生长出多余的小型变体。除了显著提升防御，为所有身体部位增加12点物理抗性外，其重量和厚度成为负担，永久增加20点负重并大幅降低移动性。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Arachnid Limbs"
+msgstr "蛛形肢体"
+
+#. ~ Description for {'str': 'Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You grew 2 additional pairs of arms sticking out from the sides of your "
+"torso close to the abdominal part. They seem to function as duplicates of "
+"normal ones, gaining 1 permanent dex and making them beneficial for "
+"crafting, combat and vaulting through objects, but increases torsal "
+"encumbrance by 10 which triples when you wear a tight clothing."
+msgstr ""
+"你从躯干侧面靠近腹部的位置长出了两对额外的手臂。它们似乎能像正常手臂一样运作，永久增加1点敏捷，对制作、战斗和翻越物体有益，但增加躯干负重10点，穿着紧身衣物时该效果会变为三倍。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Augmented Arachnid Limbs"
+msgstr "强化蛛形肢体"
+
+#. ~ Description for {'str': 'Augmented Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your additional limbs have become more responsive, which eases your control "
+"over them. They permanently increases your dex by 2 and slightly improving "
+"its basic modifiers."
+msgstr "你的额外肢体变得更加灵敏，便于你控制它们。它们永久增加2点敏捷，并略微提升基础修正值。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Deformed Arachnid Limbs"
+msgstr "畸形蛛形肢体"
+
+#. ~ Description for {'str': 'Deformed Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your extra limbs became twisted and malformed, which slightly affects the "
+"movements of your arms. They removed your permanent dex, increased your "
+"torsal encumbrance by 15 and a drastic reduction to its basic modifiers."
+msgstr "你的额外肢体变得扭曲畸形，略微影响手臂动作。它们移除了你的永久敏捷加成，增加躯干负重15点，并大幅降低基础修正值。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Superior Arachnid Limbs"
+msgstr "卓越蛛形肢体"
+
+#. ~ Description for {'str': 'Superior Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Further mutations has caused your limbs to unify with your cerebral cortex, "
+"accepting them as part of your body. With full control over them, they "
+"permanently increases your dex by 3 and significantly improves the basic "
+"modifiers."
+msgstr "进一步的突变使你的肢体与大脑皮层融合，被身体完全接纳。在完全控制下，它们永久增加3点敏捷，并显著提升基础修正值。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Lushen Tongue"
+msgstr "繁茂之舌"
+
+#. ~ Description for {'str': 'Lushen Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue have become long and slender that stretches and retracts at your"
+" will. It somewhat helps you in sensing scents and movements."
+msgstr "你的舌头变得细长，能随你心意伸缩。这在一定程度上帮助你感知气味和动静。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You lick %s"
+msgstr "你舔了舔%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s licks %2$s"
+msgstr "%1$s舔了舔%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Malformed Tongue"
+msgstr "畸形舌头"
+
+#. ~ Description for {'str': 'Malformed Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has deformed into a large, unpleasant tendril-like flesh strand."
+" It greatly hampers your breathing, reducing your stamina by 30% and is "
+"useless when it comes to sensing nearby creatures."
+msgstr "你的舌头已变形为一条粗大、令人不适的触手状肉条。它严重妨碍你的呼吸，使耐力降低30%，且在感知附近生物方面毫无用处。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Callous Tongue"
+msgstr "硬茧舌头"
+
+#. ~ Description for {'str': 'Callous Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"From prolonged alteration, your tongue have sightly become thicker and "
+"harder, yet still retains its flexibility."
+msgstr "由于长期变异，你的舌头略微变厚变硬，但仍保持其柔韧性。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tongue Hypertrophy"
+msgstr "舌头肥大"
+
+#. ~ Description for {'str': 'Tongue Hypertrophy'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has hardened and swollen a bit. You find conversations tricky "
+"and its larger scale has greatly reduced their sensing capability, yet their"
+" resistance helps alot in blocking incoming damage."
+msgstr "你的舌头变硬并略微肿胀。你发现交谈变得困难，其增大的尺寸极大降低了感知能力，但其增强的抵抗力在抵挡来袭伤害时大有帮助。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Succulent Tongue"
+msgstr "多汁舌头"
+
+#. ~ Description for {'str': 'Succulent Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has slightly become thinner and longer, which further improves "
+"your senses and combat capabilities."
+msgstr "你的舌头变得更细更长，进一步提升了你的感知能力和战斗效能。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tongue Lasher"
+msgstr "鞭舌者"
+
+#. ~ Description for {'str': 'Tongue Lasher'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Due to further alteration, your tongue have become broader and has developed"
+" a set of retractable bony blades on either sides of its surface. Despite "
+"its significant improvements on senses and offensive capabilities, your "
+"conversations with other people also becomes much more difficult to "
+"handle... but find it great for terrorizing."
+msgstr ""
+"由于进一步变异，你的舌头变得更宽，并在其表面两侧长出了一组可伸缩的骨刃。尽管它在感知和攻击能力上显著提升，但与他人的交谈也变得难以进行……不过用来恐吓倒是效果绝佳。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You lashed %s with your tongue"
+msgstr "你用舌头鞭打了%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s lashes %2$s with their tongue"
+msgstr "%1$s用舌头鞭打了%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Licker"
+msgstr "核心 - 舔食者"
+
+#. ~ Description for {'str': 'Core - Licker'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue secretes concentrated saliva whenever it gets stretched. This "
+"allows your lick attacks to enlow the target in combat."
+msgstr "你的舌头在伸展时会分泌浓缩唾液。这使你的舔舐攻击能在战斗中削弱目标。"
+
+#. ~ Description for {'str': 'Core - Licker'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"The blades on your tongue were sharpened and is pulsating in dark, velvety "
+"streaks. This greatly improves the damage of lick attacks, as well as its "
+"potency in combat."
+msgstr "你舌头上的骨刃变得锋利，并脉动着暗色天鹅绒般的纹路。这极大提升了舔舐攻击的伤害及其在战斗中的效力。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Shoulder Bumps"
+msgstr "肩部隆起"
+
+#. ~ Description for {'str': 'Shoulder Bumps'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You've got a bumps on both of your shoulder joints."
+msgstr "你的双肩关节处出现了隆起。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Membranous Wings"
+msgstr "膜状翅膀"
+
+#. ~ Description for {'str': 'Membranous Wings'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got wing-like appendages sprouting on your shoulder joints stretching"
+" down to your pelvis. The wing is composed of muscle tissues and fiber "
+"webbings, with each ends tipped with a sharp, bony blade appendixes. They "
+"might be encumbering and heavy, but their strong build provides +2 strength."
+msgstr ""
+"你的肩关节处长出了翅膀状的附肢，一直延伸到骨盆。翅膀由肌肉组织和纤维网构成，末端带有尖锐的骨刃附肢。它们可能笨重且累赘，但其坚固的结构提供了+2力量。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You rake %s"
+msgstr "你抓挠%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s rakes %2$s"
+msgstr "%1$s抓挠%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Skeletal Wings"
+msgstr "骨骼翅膀"
+
+#. ~ Description for {'str': 'Skeletal Wings'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Protruding from your shoulder is a thin, flexible pair of endoskeletal "
+"wings. Though bulky and encumbering, they can be used to balance your "
+"movements, handling heavy stuff and shredding anyone you dislike."
+msgstr "从你的肩膀伸出一对纤细灵活的内骨骼翅膀。虽然笨重且累赘，但它们可以用来平衡你的动作，处理重物，并撕碎任何你不喜欢的人。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You thrust you wings towards %s"
+msgstr "你将翅膀刺向%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s thrusts their wings %2$s"
+msgstr "%1$s将翅膀刺向%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Fleshed Mantle"
+msgstr "肉膜披风"
+
+#. ~ Description for {'str': 'Fleshed Mantle'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've grown a mass of flabby flesh from your shoulders to the back of your "
+"body. Aside from being able to deflect physical harm, it severely hampers "
+"your movements and actions that requires finesse."
+msgstr "你的肩膀到背部生长出一大块松弛的肉膜。除了能够偏转物理伤害外，它严重妨碍了你的移动和需要精细操作的动作。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slam %s with your mantle"
+msgstr "你用披风猛击%s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s slams %2$s with their mantle"
+msgstr "%1$s用披风猛击%2$s"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tumors"
+msgstr "肿瘤"
+
+#. ~ Description for {'str': 'Tumors'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You have small head bumps scattered underneath your scalp."
+msgstr "你的头皮下散布着一些小肿块。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Eyegrowths"
+msgstr "眼芽"
+
+#. ~ Description for {'str': 'Eyegrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You have several eyesprouts scattered throughout your hair, and they are "
+"sometimes painful when covered by a headgear. Provides additional vision "
+"bonuses and increases your perception by 3, but increases head encumbrance "
+"by 20."
+msgstr "你的头发中散布着几个眼芽，戴头饰时有时会感到疼痛。提供额外的视觉加成，感知增加3，但头部负重增加20。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Writhing Proboscides"
+msgstr "扭动口器"
+
+#. ~ Description for {'str': 'Writhing Proboscides'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got a few, slender proboscides on your head. They twitch "
+"occasionally, and involuntarily, increasing head encumbrance by 25.  If "
+"conditions are met, they can suck the lifeforce out of your victim... only "
+"if they're alive."
+msgstr "你的头上有几个细长的口器。它们偶尔会不自主地抽动，使头部负重增加25。如果条件满足，它们可以从受害者身上吸取生命力……前提是对方还活着。"
+
+#. ~ Description for {'str': 'Flesh'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Who needs veggy?"
+msgstr "谁还需要蔬菜？"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Debug Hivemind"
+msgstr "调试蜂巢思维"
+
+#. ~ Description for {'str': 'Debug Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "How's in charge now?!"
+msgstr "现在谁负责？！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Flesh Hivemind"
+msgstr "血肉蜂巢思维"
+
+#. ~ Description for {'str': 'Flesh Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You might be immobile, but you have the power to dominate the world!"
+msgstr "你或许无法移动，但你有力量主宰世界！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Flesh Hivemind - Active"
+msgstr "血肉蜂巢思维 - 活跃"
+
+#. ~ Description for {'str': 'Flesh Hivemind - Active'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tentacles has detached from the ground! This causes you to take damage "
+"until you reattach to a terrain."
+msgstr "你的触手已从地面脱离！这会导致你受到伤害，直到你重新附着到地形上。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Unstable Hivemind"
+msgstr "不稳定蜂巢思维"
+
+#. ~ Description for {'str': 'Unstable Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your body slowly melts away!"
+msgstr "你的身体正逐渐融化！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Infectious Tendrils"
+msgstr "感染触须"
+
+#. ~ Description for {'str': 'Infectious Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your tendrils can infect the entire area."
+msgstr "你的触须能感染整个区域。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Potent Tendrils"
+msgstr "强力触须"
+
+#. ~ Description for {'str': 'Potent Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your tendrils can infect the entire area further."
+msgstr "你的触须能进一步感染整个区域。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendril Domination"
+msgstr "触须主宰"
+
+#. ~ Description for {'str': 'Tendril Domination'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tendrils can infect the entire area even further and can convert "
+"terrain much faster."
+msgstr "你的触须能更深入地感染整个区域，并能更快地转化地形。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bio-organic Construction"
+msgstr "生物有机构造"
+
+#. ~ Description for {'str': 'Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can build a variety of structures using flesh."
+msgstr "你可以使用血肉建造多种结构。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Widespread Bio-organic Construction"
+msgstr "广泛生物有机构造"
+
+#. ~ Description for {'str': 'Widespread Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your construction range allows building of defenses."
+msgstr "你的建造范围允许建造防御设施。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Advanced Bio-organic Construction"
+msgstr "高级生物有机构造"
+
+#. ~ Description for {'str': 'Advanced Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can build a variety of advanced structures using flesh."
+msgstr "你可以使用血肉建造多种高级结构。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bio-organic Infusion"
+msgstr "生物有机灌注"
+
+#. ~ Description for {'str': 'Bio-organic Infusion'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can fuse creature cores to certain buildings."
+msgstr "你可以将生物核心融合到特定建筑中。"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Hivemind Spawn"
+msgstr "蜂巢思维生成"
+
+#. ~ Description for {'str': 'Hivemind Spawn'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You're like the hivemind, but limited to actions!"
+msgstr "你就像蜂巢思维，但行动受限！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Stronger Weavers"
+msgstr "更强的编织者"
+
+#. ~ Description for {'str': 'Stronger Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create much stronger crafts!"
+msgstr "你的编织者能制作更强大的工艺品！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Advanced Weavers"
+msgstr "高级编织者"
+
+#. ~ Description for {'str': 'Advanced Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create much intricate crafts!"
+msgstr "你的编织者能制作更精密的工艺品！"
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Hivemind Weavers"
+msgstr "蜂巢思维编织者"
+
+#. ~ Description for {'str': 'Hivemind Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create high-end fleshy crafts!"
+msgstr "你的编织者能制作高端肉质工艺品！"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You had an odd vision of a mutant."
+msgstr "你看到了一个突变体的诡异幻象。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of sprouting tentacles."
+msgstr "你梦见自己长出了触手。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of a rather strange form of yourself."
+msgstr "你梦见了一个相当怪异的自己。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of an isolated facility."
+msgstr "你梦见了一个隔离设施。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "M O R E ! M O -"
+msgstr "更 多 ！ 更 -"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You are horrified of becoming a loathsome abomination."
+msgstr "你害怕自己变成可憎的怪物。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You imagine yourself as a rampaging monster."
+msgstr "你想象自己是一个狂暴的怪物。"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "Something's still missing..."
+msgstr "还缺少些什么……"
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "F L E S H ! F U S E ! F L -"
+msgstr "血 肉 ！ 融 合 ！ 血 -"
+
+#: .\Modification Files\Others\secro_mutation_effects.json
+msgid "Licked"
+msgstr "被舔舐"
+
+#. ~ Description of effect 'Licked'.
+#: .\Modification Files\Others\secro_mutation_effects.json
+msgid "You were licked by a gruesome tongue!"
+msgstr "你被一条可怕的舌头舔了！"
+
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid "tendril whip"
+msgid_plural "tendril whips"
+msgstr[0] "触须鞭"
+
+#. ~ Description for {'str': 'tendril whip'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"Your tendril in its swollen, fleshy form, throbbing at unstable rate. You feel its power flowing through you.\n"
+"<color_white>Strength: <color_light_green>+2</color>\n"
+"Block: <color_light_green>+2</color>\n"
+"Attack cost: <color_red>+5%</color></color>"
+msgstr ""
+"你的触须呈现肿胀的肉质形态，以不稳定的频率搏动着。你感受到它的力量在你体内流动。\n"
+"<color_white>力量：<color_light_green>+2</color>\n"
+"格挡：<color_light_green>+2</color>\n"
+"攻击消耗：<color_red>+5%</color></color>"
+
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid "<color_light_green>blade core</color>"
+msgid_plural "<color_light_green>blade core</color>s"
+msgstr[0] "<color_light_green>刃核</color>"
+
+#. ~ Description for {'str': '<color_light_green>blade core</color>'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"This core provides temporary passive effects. Stacks with other cores.\n"
+"<color_white>Attack cost: <color_light_green>-3%</color>\n"
+"Damage: <color_light_green>+2%</color></color>"
+msgstr ""
+"此核心提供临时被动效果。可与其他核心叠加。\n"
+"<color_white>攻击消耗：<color_light_green>-3%</color>\n"
+"伤害：<color_light_green>+2%</color></color>"
+
+#. ~ Description for {'str': '<color_light_green>blade core</color>'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"This core provides temporary passive effects. Stacks with other cores.\n"
+"<color_white>Attack cost: <color_red>+3%</color>\n"
+"Speed: <color_red>-2%</color>\n"
+"Dodge: <color_red>+2</color></color>"
+msgstr ""
+"此核心提供临时被动效果。可与其他核心叠加。\n"
+"<color_white>攻击消耗：<color_red>+3%</color>\n"
+"速度：<color_red>-2%</color>\n"
+"闪避：<color_red>+2</color></color>"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "<color_light_red>Tendril Core</color>"
+msgstr "<color_light_red>触须核心</color>"
+
+#. ~ Description for {'str': '<color_light_red>Tendril Core</color>'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Activate this core to temporarily morph your tendril into a powerful weapon."
+msgstr "激活此核心，可暂时将你的触须变形为强力武器。"
+
+#. ~ Message for SPELL '{'str': '<color_light_red>Tendril Core</color>'}'
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Your tendril flows with immense power!"
+msgstr "你的触须涌动着强大的力量！"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Core"
+msgstr "核心"
+
+#. ~ Description for {'str': 'Core'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your blade core becomes active, providing passive effects.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'你的刃核激活，提供被动效果。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+#: Files\Others\secro_techniques.json
+msgid "Arc Slash"
+msgstr "弧光斩"
+
+#. ~ Description for {'str': 'Arc Slash'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Slashes through a wide arc, dealing cutting damage to all affected creatures.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'挥出宽阔的弧光斩击，对所有受影响的生物造成切割伤害。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Spikes"
+msgstr "骨刺"
+
+#. ~ Description for {'str': 'Spikes'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your bone outgrowths harm the attacker, dealing light stabbing damage.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'你的骨质增生会伤害攻击者，造成轻度刺击伤害。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Great Spikes"
+msgstr "巨骨刺"
+
+#. ~ Description for {'str': 'Great Spikes'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your bone outgrowths harm the attacker, dealing stabbing damage.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'你的骨质增生会伤害攻击者，造成刺击伤害。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Lasher Thrust"
+msgstr "鞭舌突刺"
+
+#. ~ Description for {'str': 'Lasher Thrust'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User stretches its tongue towards the target, piercing through them that deals stabbing damage.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'使用者将舌头伸向目标，刺穿目标造成刺击伤害。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Lush Licks"
+msgstr "丰润舔舐"
+
+#. ~ Description for {'str': 'Lush Licks'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User strikes the target with their tongue, dealng bashing damage and enslowing them.'"
+msgstr ""
+"由突变或特性施放的法术，可为被动或主动。如果你看到此信息，请改为阅读以下内容：\n"
+"'使用者用舌头攻击目标，造成钝击伤害并使其减速。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Suck"
+msgstr "吸取"
+
+#. ~ Description for {'str': 'Suck'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User's proboscides shoot towards the target and suck them.'"
+msgstr ""
+"由突变或特性施放的法术，可能是被动或主动的。如果你看到这条信息，请改为阅读以下内容：\n"
+"'使用者的吸管射向目标并吸取他们。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Succ - Heal"
+msgstr "吸取 - 治疗"
+
+#. ~ Description for {'str': 'Succ - Heal'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You sucked the target, healing you by 2.'"
+msgstr ""
+"由突变或特性施放的法术，可能是被动或主动的。如果你看到这条信息，请改为阅读以下内容：\n"
+"'你吸取了目标，为你恢复了2点生命值。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Succ - Damage"
+msgstr "吸取 - 伤害"
+
+#. ~ Description for {'str': 'Succ - Damage'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You sucked them - dealing 5 damage.'"
+msgstr ""
+"由突变或特性施放的法术，可能是被动或主动的。如果你看到这条信息，请改为阅读以下内容：\n"
+"'你吸取了他们 - 造成5点伤害。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Devour"
+msgstr "吞噬"
+
+#. ~ Description for {'str': 'Devour'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster guides the flesh to spread to nearby tiles.'"
+msgstr ""
+"怪物施放的法术。如果你看到这条信息，请阅读以下替代说明：\n"
+"'施法者引导血肉蔓延至邻近区域。'"
+
+#. ~ Description for {'str': 'Devour'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster guides the flesh to spread to nearby tiles. This spreading reaches further.'"
+msgstr ""
+"怪物施放的法术。如果你看到这条信息，请阅读以下替代说明：\n"
+"'施法者引导血肉蔓延至邻近区域。此次蔓延范围更广。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Disable"
+msgstr "禁用"
+
+#. ~ Description for {'str': 'Disable'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You are nothing, but a mere builder...'"
+msgstr ""
+"由突变或特性施放的法术，可能是被动或主动的。如果你看到这条信息，请改为阅读以下内容：\n"
+"'你什么都不是，不过是个卑微的建造者...'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Check Player"
+msgstr "检查玩家"
+
+#. ~ Description for {'str': 'Check Player'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You check the player if they're adjacent to you.'"
+msgstr ""
+"由突变或特性施放的法术，可能是被动或主动的。如果你看到这条信息，请改为阅读以下内容：\n"
+"'你检查相邻的玩家。'"
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Build"
+msgstr "建造"
+
+#. ~ Description for {'str': 'Build'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster builds at the marked spot.'"
+msgstr ""
+"由怪物施放的法术。如果你看到这条信息，请改为阅读以下内容：\n"
+"'施法者在标记位置进行建造。'"
+
+#. ~ Name for scenario 'Challenge - Crimson Horror' for a male character
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scenario_male"
+msgid "Challenge - Crimson Horror"
+msgstr "挑战 - 猩红恐怖"
+
+#. ~ Name for scenario 'Challenge - Crimson Horror' for a female character
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scenario_female"
+msgid "Challenge - Crimson Horror"
+msgstr "挑战 - 猩红恐怖"
+
+#. ~ Description for scenario 'Challenge - Crimson Horror' for a male
+#. character.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scen_desc_male"
+msgid ""
+"The pungent aroma of uncooked  meat insults your nostrils as soon as your "
+"mind wakes. The ground seemingly pulses in a macabre rhythm and when opening"
+" your eyes, you're met with a horrible sight! The forest you once knew is "
+"covered in red, cyst-like growths. Thoughts race through your mind but one "
+"sticks out: \"How am I gonna get out of this mess?\""
+msgstr ""
+"意识苏醒的瞬间，生肉的刺鼻气味便侮辱着你的鼻腔。地面仿佛以诡异的节奏脉动，睁开双眼，你目睹了骇人的景象！曾经熟悉的森林被红色囊肿般的增生覆盖。思绪在脑海中飞驰，但有一个念头格外突出：“我该如何摆脱这团糟？”"
+
+#. ~ Description for scenario 'Challenge - Crimson Horror' for a female
+#. character.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scen_desc_female"
+msgid ""
+"The pungent aroma of uncooked  meat insults your nostrils as soon as your "
+"mind wakes. The ground seemingly pulses in a macabre rhythm and when opening"
+" your eyes, you're met with a horrible sight! The forest you once knew is "
+"covered in red, cyst-like growths. Thoughts race through your mind but one "
+"sticks out: \"How am I gonna get out of this mess?\""
+msgstr ""
+"意识苏醒的瞬间，生肉的刺鼻气味便侮辱着你的鼻腔。地面仿佛以诡异的节奏脉动，睁开双眼，你目睹了骇人的景象！曾经熟悉的森林被红色囊肿般的增生覆盖。思绪在脑海中飞驰，但有一个念头格外突出：“我该如何摆脱这团糟？”"
+
+#. ~ Starting location for scenario 'Challenge - Crimson Horror'.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "start_name"
+msgid "Flesh Forest"
+msgstr "血肉森林"
+
+#. ~ Description for {'str': 'flesh weaving'}
+#: .\Modification Files\Others\secro_skills.json
+msgid ""
+"Your skill in manipulating the flesh.  A higher skill allows for faster "
+"repair and crafting of flesh-based items."
+msgstr "你操纵血肉的技能。更高的技能允许更快地修复和制作基于血肉的物品。"
+
+#: .\Modification Files\Others\secro_skills.json
+msgid "bio-organic weapons"
+msgstr "生物有机武器"
+
+#. ~ Description for {'str': 'bio-organic weapons'}
+#: .\Modification Files\Others\secro_skills.json
+msgid "Your efficiency over flesh weapons that your body morphs into."
+msgstr "你对身体变形而成的血肉武器的掌控效率。"
+
+#: .\Modification Files\Others\secro_start_locs.json
+msgid "Somewhere Fleshy"
+msgstr "某处血肉之地"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Slash"
+msgstr "劈砍"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+15% cut, +10% movecost"
+msgstr "+15% 切割伤害，+10% 移动消耗"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s"
+msgstr "你劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slashes %s"
+msgstr "<npcname> 劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+15% cut, +20% movecost, crit only, wide"
+msgstr "+15% 切割伤害，+20% 移动消耗，仅暴击，范围攻击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s in an arc"
+msgstr "你弧形劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slashes %s in an arc"
+msgstr "<npcname> 弧形劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Precision Slash"
+msgstr "精准劈砍"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+76% cut, +66% movecost, stun 2 turns, crit only"
+msgstr "+76% 切割伤害，+66% 移动消耗，击晕 2 回合，仅暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s with precise accuracy"
+msgstr "你以精准的准确度劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> precisely slashes %s"
+msgstr "<npcname> 精准地劈砍了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Strike"
+msgstr "打击"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "-10% bash, -30% movecost"
+msgstr "-10% 钝击伤害，-30% 移动消耗"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles strike %s"
+msgstr "你的触手打击了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles strike %s"
+msgstr "<npcname> 的触手打击了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles slap at %s"
+msgstr "你的触手拍打了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles slap at %s"
+msgstr "<npcname> 的触手拍打了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles hit %s"
+msgstr "你的触手击中了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles hit %s"
+msgstr "<npcname> 的触手击中了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Quick Strike"
+msgstr "快速打击"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "-20% bash, -50% movecost"
+msgstr "-20% 钝击伤害，-50% 移动消耗"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles swiftly strikes %s"
+msgstr "你的触手迅速击中了 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles quickly slaps at %s"
+msgstr "你的触手快速拍打 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles swiftly hit %s"
+msgstr "你的触手迅速击中 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Compact Swing"
+msgstr "紧凑挥击"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+100% bash, +66% movecost, down 2 turns, crit only"
+msgstr "+100% 猛击，+66% 移动消耗，倒地 2 回合，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles form into a mass as it's swung into %s"
+msgstr "你的触手聚集成一团，挥向 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> swings a compact tentacle at %s"
+msgstr "<npcname> 向 %s 挥出一记紧凑的触手"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+30% bash, +40% movecost, stun 1 turn, crit only"
+msgstr "+30% 猛击，+40% 移动消耗，眩晕 1 回合，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slam %s with your arms"
+msgstr "你用双臂猛击 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slams %s with their arms"
+msgstr "<npcname> 用他们的双臂猛击 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Pound"
+msgstr "重击"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+70% bash, +90% movecost, stun 2 turns, crit only"
+msgstr "+70% 猛击，+90% 移动消耗，眩晕 2 回合，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You heavily pound at %s"
+msgstr "你重重地捶打 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> heavily pounds at %s"
+msgstr "<npcname> 重重地捶打 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Heavy Swing"
+msgstr "强力挥击"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+100% bash, +125% movecost, stun 3 turns, knock 2 tiles, crit only"
+msgstr "+100% 猛击，+125% 移动消耗，眩晕 3 回合，击退 2 格，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You swing an arm with great momentum at %s"
+msgstr "你以巨大动量挥臂击向 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> swings their arm with great momentum at %s"
+msgstr "<npcname> 以巨大动量挥臂击向 %s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Bite"
+msgstr "撕咬"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+20% bash/cut, +10% movecost"
+msgstr "+20% 猛击/切割，+10% 移动消耗"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm bites %s"
+msgstr "你的手臂撕咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm bites %s"
+msgstr "<npcname>的手臂撕咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm gnaws at %s"
+msgstr "你的手臂啃噬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm gnaws at %s"
+msgstr "<npcname>的手臂啃噬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm nibbles at %s"
+msgstr "你的手臂轻咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm nibbles at %s"
+msgstr "<npcname>的手臂轻咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Crunch"
+msgstr "咬碎"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+45% bash/cut, +35% movecost, stun 1 turn, crit only"
+msgstr "+45% 钝击/切割伤害，+35% 移动消耗，击晕1回合，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm crunches at %s"
+msgstr "你的手臂猛咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm crunches at %s"
+msgstr "<npcname>的手臂猛咬%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Munch"
+msgstr "大嚼"
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+90% bash/cut, +66% movecost, stun 1 turn, down 2 turn, crit only"
+msgstr "+90% 钝击/切割伤害，+66% 移动消耗，击晕1回合，倒地2回合，仅限暴击"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your bite down %s with your arms"
+msgstr "你用双臂狠狠咬住%s"
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm bites down %s"
+msgstr "<npcname>的手臂狠狠咬住%s"

@@ -1,0 +1,947 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: NM_wpns\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Nimian Manufacture Guns"
+msgstr "尼米安制造枪械"
+
+#. ~ Description for Nimian Manufacture Guns
+#: .\modinfo.json
+msgid ""
+"Adds a new set of guns, light and accurate, as well as some other toys."
+msgstr "新增一套轻便精准的枪械，以及其他一些玩具。"
+
+#: .\nm_ammo.json
+msgid "32mm concussive"
+msgid_plural "32mm concussive"
+msgstr[0] "32毫米震荡弹"
+
+#. ~ Description for {'str': '32mm concussive', 'str_pl': '32mm concussive'}
+#: .\nm_ammo.json
+msgid "A 32mm grenade with a concussive explosion load."
+msgstr "一枚装载震荡爆炸装药的32毫米榴弹。"
+
+#: .\nm_ammo.json
+msgid "32mm frag"
+msgid_plural "32mm frag"
+msgstr[0] "32毫米破片弹"
+
+#. ~ Description for {'str': '32mm frag', 'str_pl': '32mm frag'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm grenade with a small explosive load and a high number of damaging "
+"fragments."
+msgstr "一枚装载少量炸药和大量伤害性破片的32毫米榴弹。"
+
+#: .\nm_ammo.json
+msgid "32mm incendiary"
+msgid_plural "32mm incendiary"
+msgstr[0] "32毫米燃烧弹"
+
+#. ~ Description for {'str': '32mm incendiary', 'str_pl': '32mm incendiary'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm grenade with a small napalm load, designed to create a burst of "
+"flame."
+msgstr "一枚装载少量凝固汽油的32毫米榴弹，旨在制造一阵火焰。"
+
+#: .\nm_ammo.json
+msgid "32mm teargas"
+msgid_plural "32mm teargas"
+msgstr[0] "32毫米催泪弹"
+
+#. ~ Description for {'str': '32mm teargas', 'str_pl': '32mm teargas'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm grenade with a teargas load.  It will burst in a cloud of highly "
+"incapacitating gas."
+msgstr "一枚装载催泪瓦斯的32毫米榴弹。它将在高致残性气体云中爆炸。"
+
+#: .\nm_ammo.json
+msgid "32mm smoke cover"
+msgid_plural "32mm smoke cover"
+msgstr[0] "32毫米烟雾掩护弹"
+
+#. ~ Description for {'str': '32mm smoke cover', 'str_pl': '32mm smoke cover'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm grenade with a smoke load.  It will burst in a cloud of harmless gas,"
+" and will also leave a streak of smoke cover in its wake."
+msgstr "一枚装载烟雾剂的32毫米榴弹。它将在无害气体云中爆炸，并在其轨迹上留下一道烟雾掩护。"
+
+#: .\nm_ammo.json
+msgid "32mm flare"
+msgid_plural "32mm flares"
+msgstr[0] "32毫米信号弹"
+
+#. ~ Description for {'str': '32mm flare'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm signal flare.  It will burn brightly for up to a minute, and will "
+"also leave a streak of smoke cover in its wake."
+msgstr "一枚32毫米信号弹。它将明亮燃烧长达一分钟，并在其轨迹上留下一道烟雾掩护。"
+
+#: .\nm_ammo.json
+msgid "32mm flashbang"
+msgid_plural "32mm flashbangs"
+msgstr[0] "32毫米闪光弹"
+
+#. ~ Description for {'str': '32mm flashbang'}
+#: .\nm_ammo.json
+msgid ""
+"A 32mm grenade with a flashbang load.  It will detonate with a blast of "
+"light and sound, designed to blind, deafen, and disorient anyone nearby."
+msgstr "一枚装载闪光弹装药的32毫米榴弹。它将引爆一阵光和声，旨在致盲、致聋并迷惑附近任何人。"
+
+#: .\nm_ammo.json
+msgid "32mm acid bomb"
+msgid_plural "32mm acid bombs"
+msgstr[0] "32毫米酸液炸弹"
+
+#. ~ Description for {'str': '32mm acid bomb'}
+#: .\nm_ammo.json
+msgid "A 32mm grenade with an acid bomb load."
+msgstr "一枚装载酸液炸弹装药的32毫米榴弹。"
+
+#: .\nm_ammo.json
+msgid "32mm buckshot"
+msgid_plural "32mm buckshots"
+msgstr[0] "32毫米鹿弹"
+
+#. ~ Description for {'str': '32mm buckshot'}
+#: .\nm_ammo.json
+msgid "A 32mm grenade with a buckshot load."
+msgstr "一枚装载鹿弹的32毫米榴弹。"
+
+#: .\nm_ammo.json
+msgid "32mm flechette"
+msgid_plural "32mm flechettes"
+msgstr[0] "32毫米箭弹"
+
+#. ~ Description for {'str': '32mm flechette'}
+#: .\nm_ammo.json
+msgid "A 32mm grenade with an armor-piercing flechette load."
+msgstr "一枚装载穿甲箭弹的32毫米榴弹。"
+
+#: .\nm_ammo.json
+msgid "32mm canister"
+msgid_plural "32mm canisters"
+msgstr[0] "32毫米弹壳"
+
+#. ~ Description for {'str': '32mm canister'}
+#: .\nm_ammo.json
+msgid "A canister from a spent 32mm grenade."
+msgstr "一枚用过的32毫米榴弹弹壳。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm concussive"
+msgid_plural "reloaded 32mm concussive"
+msgstr[0] "重装32毫米震荡弹"
+
+#. ~ Description for {'str': 'reloaded 32mm concussive', 'str_pl': 'reloaded
+#. 32mm concussive'}
+#: .\nm_ammo.json
+msgid "Hand-reloaded 32mm grenade with a concussive explosion load."
+msgstr "手工重装的32毫米榴弹，装载震荡爆炸装药。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm frag"
+msgid_plural "reloaded 32mm frag"
+msgstr[0] "重装32毫米破片弹"
+
+#. ~ Description for {'str': 'reloaded 32mm frag', 'str_pl': 'reloaded 32mm
+#. frag'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm grenade with a small explosive load and a high number of "
+"damaging fragments."
+msgstr "手工重装的32毫米榴弹，装载少量炸药和大量伤害性破片。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm incendiary"
+msgid_plural "reloaded 32mm incendiary"
+msgstr[0] "重装32毫米燃烧弹"
+
+#. ~ Description for {'str': 'reloaded 32mm incendiary', 'str_pl': 'reloaded
+#. 32mm incendiary'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm grenade with a small napalm load, designed to create a "
+"burst of flame."
+msgstr "手工重装的32毫米榴弹，装载少量凝固汽油，旨在制造一阵火焰。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm teargas"
+msgid_plural "reloaded 32mm teargas"
+msgstr[0] "重装32毫米催泪弹"
+
+#. ~ Description for {'str': 'reloaded 32mm teargas', 'str_pl': 'reloaded 32mm
+#. teargas'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm grenade with a teargas load.  It will burst in a cloud of"
+" highly incapacitating gas."
+msgstr "手工重装的32毫米催泪弹。它会在爆炸时释放出高度致残性气体云。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm smoke cover"
+msgid_plural "reloaded 32mm smoke cover"
+msgstr[0] "重装32毫米烟雾掩护弹"
+
+#. ~ Description for {'str': 'reloaded 32mm smoke cover', 'str_pl': 'reloaded
+#. 32mm smoke cover'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm grenade with a smoke load.  It will burst in a cloud of "
+"harmless gas, and will also leave a streak of smoke cover in its wake."
+msgstr "手工重装的32毫米烟雾弹。它会在爆炸时释放出无害气体云，并在其轨迹上留下一道烟雾掩护。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm flare"
+msgid_plural "reloaded 32mm flares"
+msgstr[0] "重装32毫米信号弹"
+
+#. ~ Description for {'str': 'reloaded 32mm flare'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm signal flare.  It will burn brightly for up to a minute, "
+"and will also leave a streak of smoke cover in its wake."
+msgstr "手工重装的32毫米信号弹。它能明亮燃烧长达一分钟，并在其轨迹上留下一道烟雾掩护。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm flashbang"
+msgid_plural "reloaded 32mm flashbangs"
+msgstr[0] "重装32毫米闪光弹"
+
+#. ~ Description for {'str': 'reloaded 32mm flashbang'}
+#: .\nm_ammo.json
+msgid ""
+"Hand-reloaded 32mm grenade with a flashbang load.  It will detonate with a "
+"blast of light and sound, designed to blind, deafen, and disorient anyone "
+"nearby."
+msgstr "手工重装的32毫米闪光弹。它会以强光和巨响引爆，旨在致盲、致聋并扰乱附近人员。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm acid bomb"
+msgid_plural "reloaded 32mm acid bombs"
+msgstr[0] "重装32毫米酸液炸弹"
+
+#. ~ Description for {'str': 'reloaded 32mm acid bomb'}
+#: .\nm_ammo.json
+msgid "Hand-reloaded 32mm grenade with an acid bomb load."
+msgstr "手工重装的32毫米酸液炸弹。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm buckshot"
+msgid_plural "reloaded 32mm buckshots"
+msgstr[0] "重装32毫米鹿弹"
+
+#. ~ Description for {'str': 'reloaded 32mm buckshot'}
+#: .\nm_ammo.json
+msgid "Hand-reloaded 32mm grenade with a buckshot load."
+msgstr "手工重装的32毫米鹿弹。"
+
+#: .\nm_ammo.json
+msgid "reloaded 32mm flechette"
+msgid_plural "reloaded 32mm flechettes"
+msgstr[0] "重装32毫米箭弹"
+
+#. ~ Description for {'str': 'reloaded 32mm flechette'}
+#: .\nm_ammo.json
+msgid "Hand-reloaded 32mm grenade with an armor-piercing flechette load."
+msgstr "手工重装的32毫米穿甲箭弹。"
+
+#: .\nm_ammo.json .\nm_ammo_types.json
+msgid "laser charge"
+msgid_plural "laser charges"
+msgstr[0] "激光充能弹"
+
+#. ~ Description for {'str': 'laser charge'}
+#: .\nm_ammo.json
+msgid "Prepared laser charge, ready to be used in compatible laser weapons."
+msgstr "预制激光充能弹，可用于兼容的激光武器。"
+
+#: .\nm_ammo.json
+msgid "handmade laser charge"
+msgid_plural "handmade laser charges"
+msgstr[0] "手工激光充能弹"
+
+#. ~ Description for {'str': 'handmade laser charge'}
+#: .\nm_ammo.json
+msgid ""
+"Prepared handmade laser charge, ready to be used in compatible laser "
+"weapons."
+msgstr "预制手工激光充能弹，可用于兼容的激光武器。"
+
+#: .\nm_ammo.json
+msgid "plutonium laser charge"
+msgid_plural "plutonium laser charges"
+msgstr[0] "钚激光充能弹"
+
+#. ~ Description for {'str': 'plutonium laser charge'}
+#: .\nm_ammo.json
+msgid ""
+"Prepared handmade laser charge, made from plutonium cell. Isn't supposed to "
+"work at all, but for some reason does. Deals large amount of damage."
+msgstr "预制手工激光充能弹，由钚电池制成。本不应工作，但不知为何可行。造成大量伤害。"
+
+#: .\nm_ammo.json .\nm_ammo_types.json
+msgid "heavy laser charge"
+msgid_plural "heavy laser charges"
+msgstr[0] "重型激光充能弹"
+
+#. ~ Description for {'str': 'heavy laser charge'}
+#: .\nm_ammo.json
+msgid "Prepared laser charge, designed for use in heavy laser."
+msgstr "预制激光充能弹，专为重型激光武器设计。"
+
+#: .\nm_ammo.json
+msgid "handmade heavy laser charge"
+msgid_plural "handmade heavy laser charges"
+msgstr[0] "手工重型激光充能弹"
+
+#. ~ Description for {'str': 'handmade heavy laser charge'}
+#: .\nm_ammo.json
+msgid "Prepared handmade laser charge, designed for use in heavy laser."
+msgstr "预制手工激光充能弹，专为重型激光武器设计。"
+
+#: .\nm_ammo.json
+msgid "plutonium heavy laser charge"
+msgid_plural "plutonium heavy laser charges"
+msgstr[0] "钚重型激光充能弹"
+
+#. ~ Description for {'str': 'plutonium heavy laser charge'}
+#: .\nm_ammo.json
+msgid ""
+"Prepared handmade plutonium laser charge, designed for use in heavy laser. "
+"An entire power of a plutonium cell, concentrated in a single pack, it's "
+"obviously an overkill for anything less than a tank."
+msgstr "预制手工钚激光充能弹，专为重型激光武器设计。将钚电池的全部能量集中在一个弹包中，显然对坦克以下的任何目标都是过度杀伤。"
+
+#: .\nm_ammo.json
+msgid "10x62mm caseless subsonic"
+msgid_plural "10x62mm caseless subsonic"
+msgstr[0] "10x62毫米无壳亚音速弹"
+
+#. ~ Description for {'str': '10x62mm caseless subsonic', 'str_pl': '10x62mm
+#. caseless subsonic'}
+#: .\nm_ammo.json
+msgid ""
+"Experimental round for an experimental weapon. Desinged to be as silent as "
+"possible while still maintaining some killing potential."
+msgstr "实验性武器的实验性弹药。设计旨在尽可能保持静音，同时仍保留一定的杀伤力。"
+
+#: .\nm_ammo.json
+msgid "25mm AP"
+msgid_plural "25mm AP"
+msgstr[0] "25毫米穿甲弹"
+
+#. ~ Description for {'str': '25mm AP', 'str_pl': '25mm AP'}
+#: .\nm_ammo.json
+msgid ""
+"An 25mm armor-piercing bullet. Effective against lightly armored vehicles."
+msgstr "25毫米穿甲弹。对轻装甲车辆有效。"
+
+#: .\nm_ammo.json
+msgid "25mm HE"
+msgid_plural "25mm HE"
+msgstr[0] "25毫米高爆弹"
+
+#. ~ Description for {'str': '25mm HE', 'str_pl': '25mm HE'}
+#: .\nm_ammo.json
+msgid ""
+"An 25mm high-explosive bullet. Explodes on impact, effective against "
+"unarmored vehicles and infantry."
+msgstr "一种25毫米高爆子弹。撞击时爆炸，对无装甲车辆和步兵有效。"
+
+#: .\nm_ammo.json
+msgid "25mm HEI"
+msgid_plural "25mm HEI"
+msgstr[0] "25毫米高爆燃烧弹"
+
+#. ~ Description for {'str': '25mm HEI', 'str_pl': '25mm HEI'}
+#: .\nm_ammo.json
+msgid ""
+"An 25mm high-explosive incendiary bullet. Explodes on impact, effective "
+"against unarmored vehicles and infantry."
+msgstr "一种25毫米高爆燃烧子弹。撞击时爆炸，对无装甲车辆和步兵有效。"
+
+#: .\nm_ammo.json
+msgid "25mm HEFI"
+msgid_plural "25mm HEFI"
+msgstr[0] "25毫米高爆破片燃烧弹"
+
+#. ~ Description for {'str': '25mm HEFI', 'str_pl': '25mm HEFI'}
+#: .\nm_ammo.json
+msgid ""
+"An 25mm high-explosive fragmentation incendiary bullet. Explodes on impact, "
+"effective against unarmored vehicles and infantry."
+msgstr "一种25毫米高爆破片燃烧子弹。撞击时爆炸，对无装甲车辆和步兵有效。"
+
+#: .\nm_ammo.json
+msgid "25mm APDS"
+msgid_plural "25mm APDS"
+msgstr[0] "25毫米脱壳穿甲弹"
+
+#. ~ Description for {'str': '25mm APDS', 'str_pl': '25mm APDS'}
+#: .\nm_ammo.json
+msgid "An 25mm armor-piercing discarding sabot bullet."
+msgstr "一种25毫米脱壳穿甲弹。"
+
+#: .\nm_ammo.json
+msgid "25mm casing"
+msgid_plural "25mm casings"
+msgstr[0] "25毫米弹壳"
+
+#. ~ Description for {'str': '25mm casing'}
+#: .\nm_ammo.json
+msgid "A casing from a 25mm bullet."
+msgstr "一枚25毫米子弹的弹壳。"
+
+#: .\nm_ammo.json .\nm_ammo_types.json
+msgid "7x30mm"
+msgid_plural "7x30mm"
+msgstr[0] "7x30毫米"
+
+#. ~ Description for {'str': '7x30mm', 'str_pl': '7x30mm'}
+#: .\nm_ammo.json
+msgid ""
+"7x30mm pistol bullet, developed by Nimian Manufacture. Designed to improve "
+"capacity of their guns, this bullet still deals a good amount of damage."
+msgstr "7x30毫米手枪子弹，由尼米安制造公司开发。旨在提高其枪支的载弹量，这种子弹仍能造成可观的伤害。"
+
+#: .\nm_ammo.json
+msgid "7x30mm light load"
+msgid_plural "7x30mm light load"
+msgstr[0] "7x30毫米轻装弹"
+
+#. ~ Description for {'str': '7x30mm light load', 'str_pl': '7x30mm light
+#. load'}
+#: .\nm_ammo.json
+msgid "7x30mm light load pistol bullet."
+msgstr "7x30毫米轻装手枪子弹。"
+
+#: .\nm_ammo.json
+msgid "7x30mm P+"
+msgid_plural "7x30mm P+"
+msgstr[0] "7x30毫米P+"
+
+#. ~ Description for {'str': '7x30mm P+', 'str_pl': '7x30mm P+'}
+#: .\nm_ammo.json
+msgid "7x30mm pistol bullet with increased internal pressure."
+msgstr "7x30毫米手枪子弹，内部压力增加。"
+
+#: .\nm_ammo.json
+msgid "7x30mm P++"
+msgid_plural "7x30mm P++"
+msgstr[0] "7x30毫米P++"
+
+#. ~ Description for {'str': '7x30mm P++', 'str_pl': '7x30mm P++'}
+#: .\nm_ammo.json
+msgid "7x30mm pistol bullet with even more increased internal pressure."
+msgstr "7x30毫米手枪子弹，内部压力进一步提升。"
+
+#: .\nm_ammo.json
+msgid "7x30mm match"
+msgid_plural "7x30mm match"
+msgstr[0] "7x30毫米竞赛弹"
+
+#. ~ Description for {'str': '7x30mm match', 'str_pl': '7x30mm match'}
+#: .\nm_ammo.json
+msgid ""
+"7x30mm match-grade pistol bullet. Allows for much greater accuracy than "
+"other rounds."
+msgstr "7x30毫米竞赛级手枪子弹。相比其他子弹，能提供更高的精度。"
+
+#: .\nm_ammo.json
+msgid "7x30mm FMJ"
+msgid_plural "7x30mm FMJ"
+msgstr[0] "7x30毫米全金属被甲弹"
+
+#. ~ Description for {'str': '7x30mm FMJ', 'str_pl': '7x30mm FMJ'}
+#: .\nm_ammo.json
+msgid ""
+"7x30mm full metal jacketed pistol bullet. Allows for much greater armor "
+"penetration."
+msgstr "7x30毫米全金属被甲手枪子弹。能显著提升穿甲能力。"
+
+#: .\nm_ammo.json
+msgid "7x30mm JHP"
+msgid_plural "7x30mm JHP"
+msgstr[0] "7x30毫米被甲空尖弹"
+
+#. ~ Description for {'str': '7x30mm JHP', 'str_pl': '7x30mm JHP'}
+#: .\nm_ammo.json
+msgid "7x30mm jacketed hollow point pistol bullet."
+msgstr "7x30毫米被甲空尖手枪子弹。"
+
+#: .\nm_ammo.json
+msgid "reloaded 7x30mm"
+msgid_plural "reloaded 7x30mm"
+msgstr[0] "复装7x30毫米"
+
+#. ~ Description for {'str': 'reloaded 7x30mm', 'str_pl': 'reloaded 7x30mm'}
+#: .\nm_ammo.json
+msgid ""
+"Reloaded 7x30mm pistol bullet, developed by Nimian Manufacture. Designed to "
+"improve capacity of their guns, this bullet still deals a good amount of "
+"damage."
+msgstr "复装7x30毫米手枪子弹，由尼米安制造公司开发。旨在提高其枪支的载弹量，这种子弹仍能造成可观的伤害。"
+
+#: .\nm_ammo.json
+msgid "reloaded 7x30mm light load"
+msgid_plural "reloaded 7x30mm light load"
+msgstr[0] "复装7x30毫米轻装弹"
+
+#. ~ Description for {'str': 'reloaded 7x30mm light load', 'str_pl': 'reloaded
+#. 7x30mm light load'}
+#: .\nm_ammo.json
+msgid "Reloaded 7x30mm light load pistol bullet."
+msgstr "复装7x30毫米轻装手枪子弹。"
+
+#: .\nm_ammo.json
+msgid "reloaded 7x30mm P+"
+msgid_plural "reloaded 7x30mm P+"
+msgstr[0] "复装7x30毫米P+"
+
+#. ~ Description for {'str': 'reloaded 7x30mm P+', 'str_pl': 'reloaded 7x30mm
+#. P+'}
+#: .\nm_ammo.json
+msgid "Reloaded 7x30mm pistol bullet with increased internal pressure."
+msgstr "复装7x30毫米手枪子弹，内部压力增加。"
+
+#: .\nm_ammo.json
+msgid "reloaded 7x30mm P++"
+msgid_plural "reloaded 7x30mm P++"
+msgstr[0] "复装7x30毫米P++"
+
+#. ~ Description for {'str': 'reloaded 7x30mm P++', 'str_pl': 'reloaded 7x30mm
+#. P++'}
+#: .\nm_ammo.json
+msgid ""
+"Reloaded 7x30mm pistol bullet with even more increased internal pressure."
+msgstr "重新装填的7x30毫米手枪子弹，内部压力进一步增大。"
+
+#: .\nm_ammo.json
+msgid "7x30mm casing"
+msgid_plural "7x30mm casings"
+msgstr[0] "7x30毫米弹壳"
+
+#. ~ Description for {'str': '7x30mm casing'}
+#: .\nm_ammo.json
+msgid "A casing from a 7x30mm bullet."
+msgstr "一枚7x30毫米子弹的弹壳。"
+
+#: .\nm_ammo_types.json
+msgid "32mm"
+msgstr "32毫米"
+
+#: .\nm_ammo_types.json
+msgid "10x62mm caseless"
+msgstr "10x62毫米无壳弹"
+
+#: .\nm_ammo_types.json
+msgid "25mm"
+msgstr "25毫米"
+
+#: .\nm_armor.json
+msgid "NM1001 watch"
+msgid_plural "NM1001 watchs"
+msgstr[0] "NM1001手表"
+
+#. ~ Description for {'str': 'NM1001 watch'}
+#: .\nm_armor.json
+msgid ""
+"A small device developed by Nimian Manufacture. When fixed near the eye, "
+"accurately shows time and temperature, and can provide more information on "
+"the weather upon activation."
+msgstr "尼米安制造公司开发的小型设备。固定在眼睛附近时，能准确显示时间和温度，激活后还可提供更多天气信息。"
+
+#: .\nm_misc.json
+msgid "Nimian's Manufacture Hunter Pack"
+msgid_plural "Nimian's Manufacture Hunter Packs"
+msgstr[0] "尼米安制造猎人套装"
+
+#. ~ Description for {'str': "Nimian's Manufacture Hunter Pack", 'str_pl':
+#. "Nimian's Manufacture Hunter Packs"}
+#: .\nm_misc.json
+msgid ""
+"Heavy case which contains NM150 sniper rifle, some ammo for it, maintenance "
+"kit (sadly, without batteries), and Last Hope pistol-shotgun as a... free "
+"gift? The label says it's preferred choice for hunters."
+msgstr ""
+"重型箱子，内含NM150狙击步枪、配套弹药、维护工具包（可惜没有电池），以及一把“最后希望”手枪式霰弹枪作为……免费赠品？标签上写着这是猎人的首选。"
+
+#: .\nm_misc.json
+msgid "Nimian's Manufacture Improved Flaregun Pack"
+msgid_plural "Nimian's Manufacture Improved Flaregun Pack"
+msgstr[0] "尼米安制造改进型信号枪套装"
+
+#. ~ Description for {'str': "Nimian's Manufacture Improved Flaregun Pack",
+#. 'str_pl': "Nimian's Manufacture Improved Flaregun Pack"}
+#: .\nm_misc.json
+msgid ""
+"Heavy case which contains NM456, some flares for it and maintenance kit "
+"(sadly, without batteries)."
+msgstr "重型箱子，内含NM456、配套信号弹和维护工具包（可惜没有电池）。"
+
+#: .\nm_weapons_cheap.json
+msgid "NM377 12g"
+msgid_plural "NM377s 12g"
+msgstr[0] "NM377 12号口径"
+
+#: .\nm_weapons_cheap.json
+msgid ""
+"Nimian's Manufacture pistol, also nicknamed 'Last Hope'. Essentially a "
+"factory-made one-shot short shotgun, more accurate than home-made ones, but "
+"still only doing well in close-range. Developed in a few months before "
+"cataclysm to earn money on common people's paranoia, it did well in that."
+msgstr ""
+"尼米安制造的手枪，绰号“最后希望”。本质上是一把工厂制造的单发短霰弹枪，比自制型号更精准，但仍只适合近距离使用。在大灾变前几个月为利用民众的恐慌心理赚钱而开发，效果显著。"
+
+#: .\nm_weapons_cheap.json
+msgid "NM379 9mm"
+msgid_plural "NM377s 9mm"
+msgstr[0] "NM379 9毫米"
+
+#: .\nm_weapons_cheap.json
+msgid ""
+"Nimian's Manufacture pistol, a small, light and cheap weapon designed for "
+"self-defense. Holds 2 rounds, and every single one has to be inserted "
+"manually, making reload difficult."
+msgstr "尼米安制造的手枪，一种为自卫设计的小型、轻量且廉价的武器。可容纳2发子弹，每发都需手动装填，使得重新装弹困难。"
+
+#: .\nm_weapons_cheap.json
+msgid "NM338"
+msgid_plural "NM338s"
+msgstr[0] "NM338"
+
+#: .\nm_weapons_cheap.json
+msgid ""
+"Nimian's Manufacture laser pistol, brings the power of laser to a common "
+"man. Uses charged battery packs, unlike most energy weapons out there."
+msgstr "尼米安制造的激光手枪，将激光的力量带给普通人。与大多数能量武器不同，它使用充电电池包。"
+
+#: .\nm_weapons_cheap.json
+msgid "NM392 7x30mm"
+msgid_plural "NM392s 7x30mm"
+msgstr[0] "NM392 7x30毫米"
+
+#: .\nm_weapons_cheap.json
+msgid ""
+"Nimian's Manufacture six-shot revolver chambered for 7x30mm, made with low "
+"cost and durability in mind."
+msgstr "尼米安制造的六发左轮手枪，使用7x30毫米弹药，设计注重低成本和耐用性。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM103 9mm"
+msgid_plural "NM103s 9mm"
+msgstr[0] "NM103 9毫米"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"First gun ever to be developed by Nimian's Manufacture, this lightweight "
+"rifle is very accurate and durable, but clip size is very small as a result."
+msgstr "尼米安制造公司开发的第一把枪，这种轻量步枪非常精准耐用，但因此弹匣容量很小。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM302 .50"
+msgid_plural "NM302s .50"
+msgstr[0] "NM302 .50口径"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"This pistol, developed by Nimian's Manufacture in around 2038, employs "
+"several creative ideas and lots of superalloy to make firing .50 BMG round "
+"in a pistol worthwhile."
+msgstr "这把由尼米安制造公司约在2038年开发的手枪，采用了几项创意设计和大量超级合金，使得在手枪中发射.50 BMG子弹变得有价值。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM322 .22"
+msgid_plural "NM322s .22"
+msgstr[0] "NM322 .22口径"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture .22 pistol. Small size of the round actually allowed "
+"engineers to make the pistol hold more than 4 rounds, while also adding a "
+"burst-fire mode."
+msgstr "尼米安制造的.22口径手枪。子弹的小尺寸实际上让工程师能够使手枪容纳超过4发子弹，同时还增加了连发模式。"
+
+#: .\nm_weapons_civvie.json .\nm_weapons_military.json
+msgid "semi auto"
+msgstr "半自动"
+
+#: .\nm_weapons_civvie.json .\nm_weapons_military.json
+msgid "burst"
+msgstr "连发"
+
+#: .\nm_weapons_civvie.json
+msgid "NM380 .45"
+msgid_plural "NM380s .45"
+msgstr[0] "NM380 .45口径"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture .45 pistol. Advertised as 'sniper pistol', this little "
+"beauty has anything a good marksman needs: an built-in scope, a stock that "
+"can also be used as holster and incredible accuracy to boot. Holds only 4 "
+"rounds though."
+msgstr ""
+"尼米安制造的.45口径手枪。广告宣传为“狙击手枪”，这个小美人拥有优秀射手所需的一切：内置瞄准镜、可兼作枪套的枪托，以及惊人的精准度。但只能容纳4发子弹。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM380 7x30mm"
+msgid_plural "NM380s 7x30mm"
+msgstr[0] "NM380 7x30毫米"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture 7x30mm pistol, copy of the .45 pistol that was adapted "
+"to use Nimian own ammunition. Advertised as 'sniper pistol', this little "
+"beauty has anything a good marksman needs: an built-in scope, a stock that "
+"can also be used as holster and incredible accuracy to boot. Holds 6 rounds."
+" Best to use with match rounds."
+msgstr ""
+"尼米安制造的7x30毫米手枪，是.45口径手枪的改型，适配尼米安自家弹药。广告宣传为“狙击手枪”，这个小美人拥有优秀射手所需的一切：内置瞄准镜、可兼作枪套的枪托，以及惊人的精准度。可容纳6发子弹。最好配合比赛级弹药使用。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM323 5.56x45mm"
+msgid_plural "NM323s 5.56x45mm"
+msgstr[0] "NM323 5.56x45mm"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture pistol, chambered for 5.56x45mm ammo. It's still more "
+"accurate than most guns out there, and still lightweight, but light weight "
+"still makes it hard to control recoil, and it only holds 3 bullets."
+msgstr "尼米安制造的手枪，使用5.56x45mm弹药。它仍然比大多数枪支更精准，且重量轻，但轻量化也使其难以控制后坐力，且仅能装填3发子弹。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM333"
+msgid_plural "NM333s"
+msgstr[0] "NM333"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture laser pistol, draws power from integrated plutonium "
+"cell, so it can fire about 5.5 million times before discharging. The beam is"
+" very weak though."
+msgstr "尼米安制造的激光手枪，从内置钚电池获取能量，因此可发射约550万次才耗尽。不过光束非常微弱。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM808 9mm"
+msgid_plural "NM808s 9mm"
+msgstr[0] "NM808 9mm"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture 9mm submachine gun, pretty light for its size due to "
+"superalloy, and rather damaging. Still has rather small clip, though this "
+"one is big compared to other Nimian weapons."
+msgstr "尼米安制造的9mm冲锋枪，因采用超级合金，尺寸虽大却相当轻便，且威力不俗。弹匣容量仍较小，但相比其他尼米安武器已算较大。"
+
+#: .\nm_weapons_civvie.json
+msgid "auto"
+msgstr "自动"
+
+#: .\nm_weapons_civvie.json
+msgid "NM808-S 9mm"
+msgid_plural "NM808-Ss 9mm"
+msgstr[0] "NM808-S 9mm"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture 9mm submachine gun, this extremely rare variant is made"
+" for the extremely rich people who can afford it. It has superalloy almost "
+"everywhere, extensively modified and tuned extremely well."
+msgstr "尼米安制造的9mm冲锋枪，这款极为稀有的变种专为极富人群打造，几乎全身采用超级合金，经过大量改装与精细调校。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM104 9mm"
+msgid_plural "NM104s 9mm"
+msgstr[0] "NM104 9mm"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture 9mm rifle, slightly heavier than NM103 but is more "
+"accurate and can contain more ammunition."
+msgstr "尼米安制造的9mm步枪，比NM103稍重，但更精准且能容纳更多弹药。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM220"
+msgid_plural "NM220"
+msgstr[0] "NM220"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture light shotgun, one of the not-so-succesful designs "
+"since improved accuracy isn't very important for shotguns. Holds 3 rounds."
+msgstr "尼米安制造的轻型霰弹枪，因提升精准度对霰弹枪并不重要，属于不太成功的设计之一。可装填3发弹药。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM310 7x30mm"
+msgid_plural "NM310s 7x30mm"
+msgstr[0] "NM310 7x30mm"
+
+#: .\nm_weapons_civvie.json
+msgid "Nimian's Manufacture 7x30mm pistol, lightweight, accurate and durable."
+msgstr "尼米安制造的7x30mm手枪，轻量、精准且耐用。"
+
+#: .\nm_weapons_civvie.json
+msgid "NM810 7x30mm"
+msgid_plural "NM810s 7x30mm"
+msgstr[0] "NM810 7x30mm"
+
+#: .\nm_weapons_civvie.json
+msgid ""
+"Nimian's Manufacture 7x30mm submachine gun, lightweight, accurate and "
+"durable."
+msgstr "尼米安制造的7x30mm冲锋枪，轻量、精准且耐用。"
+
+#: .\nm_weapons_military.json
+msgid "NM112 5.56x45mm"
+msgid_plural "NM112s 5.56x45mm"
+msgstr[0] "NM112 5.56x45mm"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture 5.56x45mm marksman rifle, developed with accuracy in "
+"mind, lightweight and decent. Overall a good weapon, but has a small clip."
+msgstr "尼米安制造的5.56x45mm精确射手步枪，专为精准度设计，轻量且性能尚可。总体是款好武器，但弹匣容量小。"
+
+#: .\nm_weapons_military.json
+msgid "NM113 5.56x45mm"
+msgid_plural "NM113s 5.56x45mm"
+msgstr[0] "NM113 5.56x45mm"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture 5.56x45mm battle rifle, that weapon was designed for "
+"military and as such, is heavier than most Nimian weapons but has a not-"
+"THAT-small clip, and can fire in 3-shot bursts."
+msgstr "尼米安制造的5.56x45mm战斗步枪，专为军事用途设计，因此比大多数尼米安武器更重，但弹匣容量不算太小，且可进行3发点射。"
+
+#: .\nm_weapons_military.json
+msgid "NM185"
+msgid_plural "NM185s"
+msgstr[0] "NM185"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture laser rifle, designed for military as UPS-independent "
+"laser weapon. Instead, it uses charged battery packs to shoot. 7 shots per "
+"reload."
+msgstr "尼米安制造的激光步枪，作为独立于UPS的激光武器为军事设计。它使用充电电池包射击，每次装填可发射7次。"
+
+#: .\nm_weapons_military.json
+msgid "NM192"
+msgid_plural "NM192s"
+msgstr[0] "NM192"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture heavy laser rifle, designed for military as laser anti-"
+"materiel rifle, whatever that means. Rumours are that it was accepted only "
+"because laser caused certain... effects on whatever was targeted. Works by "
+"draining power from overcharged battery packs. Can hold 2."
+msgstr ""
+"尼米安制造的重型激光步枪，作为激光反器材步枪为军事设计，无论这意味着什么。传闻称其被接受仅因激光对目标能产生某种...效果。通过消耗过充电池包的能量运作，可容纳2个电池包。"
+
+#: .\nm_weapons_military.json
+msgid "NM150 .30-06"
+msgid_plural "NM150s .30-06"
+msgstr[0] "NM150 .30-06"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture .30-06 sniper rifle, holds only two rounds, but can and"
+" will fire them very accurately. Has an built-in scope."
+msgstr "尼米安制造的.30-06狙击步枪，仅能装填两发子弹，但可极其精准地发射。配有内置瞄准镜。"
+
+#: .\nm_weapons_military.json
+msgid "NM221"
+msgid_plural "NM221"
+msgstr[0] "NM221"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture heavy shotgun, holds 5 shotgun shells and is able to "
+"fire them all in one quick burst"
+msgstr "尼米安制造的重型霰弹枪，可装填5发霰弹，并能一次性快速齐射。"
+
+#: .\nm_weapons_military.json
+msgid "NM456 32mm"
+msgid_plural "NM456 32mm"
+msgstr[0] "NM456 32mm"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture 'flaregun', as they call it, actually looks like an "
+"grenade launcher, with a stock and iron sights to aim your 32mm 'flares'."
+msgstr "尼米安制造的'信号枪'，如其名，实际外观类似榴弹发射器，配有枪托和机械瞄具，用于瞄准32mm'信号弹'。"
+
+#: .\nm_weapons_military.json
+msgid "NM100 25mm"
+msgid_plural "NM100s 25mm"
+msgstr[0] "NM100 25毫米"
+
+#: .\nm_weapons_military.json
+msgid ""
+"Nimian's Manufacture anti-materiel rifle. Presented for military as a "
+"replacement for older anti-materiel rifles, this heavy weapon fires powerful"
+" 25mm rounds. Effective against pretty much everything a survivor might "
+"encounter, but has to be reloaded after each shot, and ammo is rare."
+msgstr ""
+"尼米安制造的反器材步枪。作为旧式反器材步枪的替代品向军方推出，这款重型武器发射威力强大的25毫米弹药。对幸存者可能遇到的几乎所有目标都有效，但每次射击后需重新装填，且弹药稀有。"
+
+#: .\nm_weapons_proto.json
+msgid "NMT01"
+msgid_plural "NMT01s"
+msgstr[0] "NMT01"
+
+#: .\nm_weapons_proto.json
+msgid ""
+"Nimian's Manufacture handheld tesla cannon. Rumours are that this weapon was"
+" developed in Soviet Union back then, and that Nimian paid a lot for the "
+"specifications of this magnificent weapon. This weapon is extremely "
+"damaging, but requires a lot of power to fire."
+msgstr "尼米安制造的手持特斯拉炮。传闻此武器早年于苏联开发，尼米安为这款卓越武器的规格支付了巨额费用。此武器伤害极高，但发射需要大量能量。"
+
+#: .\nm_weapons_proto.json
+msgid "NMT01 mk. 2"
+msgid_plural "NMT01s mk. 2"
+msgstr[0] "NMT01 改进型 2"
+
+#: .\nm_weapons_proto.json
+msgid ""
+"Nimian's Manufacture handheld tesla cannon. Rumours are that this weapon was"
+" developed in Soviet Union back then, and that Nimian paid a lot for the "
+"specifications of this magnificent weapon. This weapon is extremely "
+"damaging, but requires a lot of power to fire. The mark 2 is even more "
+"damaging, and lightning can jump between targets, but it'll drain through "
+"charges even faster."
+msgstr ""
+"尼米安制造的手持特斯拉炮。传闻此武器早年于苏联开发，尼米安为这款卓越武器的规格支付了巨额费用。此武器伤害极高，但发射需要大量能量。改进型2的伤害更高，且闪电可在目标间跳跃，但会更快耗尽充能。"
+
+#: .\nm_weapons_proto.json
+msgid "NM199 10x62mm"
+msgid_plural "NM199s 10x62mm"
+msgstr[0] "NM199 10x62毫米"
+
+#: .\nm_weapons_proto.json
+msgid ""
+"Nimian's Manufacture prototype sniper rifle, firing powerful 10x62mm "
+"caseless rounds. Made to be as quiet as possible, and also has all that "
+"high-tech stuff to reduce weight, recoil and make the gun easy to handle. "
+"Holds 3 rounds."
+msgstr ""
+"尼米安制造的原型狙击步枪，发射威力强大的10x62毫米无壳弹。设计力求尽可能安静，并采用高科技材料减轻重量和后坐力，使枪支易于操控。可装填3发弹药。"

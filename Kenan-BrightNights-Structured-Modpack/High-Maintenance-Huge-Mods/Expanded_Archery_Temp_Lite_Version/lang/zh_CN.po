@@ -1,0 +1,259 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ExArch\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\Attachments.json
+msgid "tuned mechanism"
+msgid_plural "tuned mechanisms"
+msgstr[0] "调校机构"
+
+#: .\Attachments.json
+msgid ""
+"A set of finely tuned internal components which increase the precision and "
+"reliably of a firearm."
+msgstr "一套精密调校的内部组件，可提高枪械的精度和可靠性。"
+
+#: .\Attachments.json
+msgid "mechanism"
+msgstr "机械装置"
+
+#: .\Attachments.json
+msgid "aftermarket bow limbs"
+msgid_plural "aftermarket bow limbss"
+msgstr[0] "改装弓臂"
+
+#: .\Attachments.json
+msgid ""
+"A set of competition-grade composite replacement bow and crossbow limbs, to "
+"squeeze out some extra energy during your draw. It even has a super-cool "
+"decal running down the limbs."
+msgstr "一套竞赛级复合替换弓和弩臂，可在拉弓时挤出额外能量。弓臂上甚至有一条超酷的贴花。"
+
+#: .\Attachments.json
+msgid "limbs"
+msgstr "弓臂"
+
+#: .\Attachments.json
+msgid "high-quality bow string"
+msgid_plural "high-quality bow strings"
+msgstr[0] "高品质弓弦"
+
+#: .\Attachments.json
+msgid ""
+"A strong and precise polymer string for a bow or crossbow. Helps to keep the"
+" bow constant, and retain as much energy as possible. Oddly enough, it's "
+"even your favourite color!"
+msgstr "一根用于弓或弩的坚固精密聚合物弦。有助于保持弓的稳定性，并尽可能保留能量。奇怪的是，它甚至是你最喜欢的颜色！"
+
+#: .\Attachments.json
+msgid "string"
+msgstr "弓弦"
+
+#: .\Attachments.json
+msgid "adjustable bow riser"
+msgid_plural "adjustable bow risers"
+msgstr[0] "可调弓把"
+
+#: .\Attachments.json
+msgid ""
+"A precision machined superalloy riser, with enough dials to tune it to your "
+"exact liking. It even has cool engravings, and feels surprisingly warm and "
+"comfortable in your hand."
+msgstr "一个精密加工的超合金弓把，配有足够多的调节旋钮，可按您的喜好精确调校。它甚至还有酷炫的雕刻，握在手中出奇地温暖舒适。"
+
+#: .\Attachments.json
+msgid "riser"
+msgstr "弓把"
+
+#: .\Attachments.json
+msgid "performance bow cams"
+msgid_plural "performance bow camss"
+msgstr[0] "高性能弓滑轮"
+
+#: .\Attachments.json
+msgid ""
+"A set of precision machined shaped cams, with a dial to tune it to your "
+"exact draw. The spokes even make a cool pattern."
+msgstr "一套精密加工的成型滑轮，带有一个旋钮，可精确调节您的拉距。辐条甚至构成了酷炫的图案。"
+
+#: .\Attachments.json
+msgid "cams"
+msgstr "滑轮"
+
+#: .\modinfo.json
+msgid "Expanded Archery"
+msgstr "扩展弓箭"
+
+#. ~ Description for Expanded Archery
+#: .\modinfo.json
+msgid "Bows, crossbows and pneumatic weapons expanded."
+msgstr "扩展了弓、弩和气动武器。"
+
+#: .\Ammo\Arrows.json
+msgid "metal incendiary arrow"
+msgid_plural "metal incendiary arrows"
+msgstr[0] "金属燃烧箭"
+
+#. ~ Description for {'str': 'metal incendiary arrow'}
+#: .\Ammo\Arrows.json
+msgid ""
+"This metal arrow has been dipped in an incendiary powder and rigged to light"
+" on impact. It can't be retrieved, but why would you want to?"
+msgstr "这支金属箭浸过燃烧粉末，并设置为撞击时点燃。它无法回收，但您又何必回收呢？"
+
+#: .\Ammo\Arrows.json
+msgid "metal stun arrow"
+msgid_plural "metal stun arrows"
+msgstr[0] "金属眩晕箭"
+
+#. ~ Description for {'str': 'metal stun arrow'}
+#: .\Ammo\Arrows.json
+msgid ""
+"This metal arrow has a simple taser built into the tip. It can't be "
+"retrieved, so don't miss."
+msgstr "这支金属箭的箭头上内置了一个简易泰瑟枪。它无法回收，所以别射偏了。"
+
+#: .\Ammo\Arrows.json
+msgid "metal emp arrow"
+msgid_plural "metal emp arrows"
+msgstr[0] "金属电磁脉冲箭"
+
+#. ~ Description for {'str': 'metal emp arrow'}
+#: .\Ammo\Arrows.json
+msgid ""
+"This metal arrow has a simple emp generator built into the tip. It can't be "
+"retrieved, so don't miss."
+msgstr "这支金属箭的箭头上内置了一个简易电磁脉冲发生器。它无法回收，所以别射偏了。"
+
+#: .\Ammo\Arrows.json
+msgid "experimental smart arrow"
+msgid_plural "experimental smart arrows"
+msgstr[0] "实验性智能箭"
+
+#. ~ Description for {'str': 'experimental smart arrow'}
+#: .\Ammo\Arrows.json
+msgid ""
+"This experimental arrow is equipped with active stabilization and targeting "
+"systems for perfect accuracy, even when hitting small or moving targets. "
+"While only decently damaging, this arrow was designed for special forces "
+"when stealth is necessary. A simple teleport system even returns the arrow "
+"to the user after firing."
+msgstr ""
+"这支实验性箭配备了主动稳定和瞄准系统，即使命中小型或移动目标也能保证完美精度。虽然伤害只是中等，但这支箭是为需要隐秘行动的特种部队设计的。一个简易的传送系统甚至能在发射后将箭传送回使用者手中。"
+
+#: .\Ammo\Bolts.json
+msgid "steel incendiary bolt"
+msgid_plural "steel incendiary bolts"
+msgstr[0] "钢制燃烧弩箭"
+
+#. ~ Description for {'str': 'steel incendiary bolt'}
+#: .\Ammo\Bolts.json
+msgid ""
+"A sharp bolt made from steel and dipped in an incendiary powder. Goes off on"
+" impact."
+msgstr "一支由钢制成并浸过燃烧粉末的锋利弩箭。撞击时引爆。"
+
+#: .\Ammo\Bolts.json
+msgid "steel stun bolt"
+msgid_plural "steel stun bolts"
+msgstr[0] "钢制眩晕弩箭"
+
+#. ~ Description for {'str': 'steel stun bolt'}
+#: .\Ammo\Bolts.json
+msgid ""
+"This steel bolt has a simple taser built into the tip. It can't be "
+"retrieved, so don't miss."
+msgstr "这支钢制弩箭的箭头上内置了一个简易泰瑟枪。它无法回收，所以别射偏了。"
+
+#: .\Ammo\Bolts.json
+msgid "steel emp bolt"
+msgid_plural "steel emp bolts"
+msgstr[0] "钢制电磁脉冲弩箭"
+
+#. ~ Description for {'str': 'steel emp bolt'}
+#: .\Ammo\Bolts.json
+msgid ""
+"This steel bolt has a simple emp generator built into the tip. It can't be "
+"retrieved, so don't miss."
+msgstr "这支钢制弩箭的箭头上内置了一个简易电磁脉冲发生器。它无法回收，所以别射偏了。"
+
+#: .\Weapons\Pneumatics.json
+msgid "pneumatic arrow rifle"
+msgid_plural "pneumatic arrow rifles"
+msgstr[0] "气动箭步枪"
+
+#: .\Weapons\Pneumatics.json
+msgid ""
+"A powerful pneumatic arrow thrower handcrafted from scrap. Powerful and "
+"accurate to a long range, but surprising loud, and it takes a long time to "
+"pump up to full pressure."
+msgstr "一个用废料手工制作的强力气动射箭器。威力强大，远程精准，但出奇地响亮，并且需要很长时间才能泵到全压。"
+
+#: .\Weapons\Pneumatics.json
+msgid "airbower"
+msgid_plural "airbowers"
+msgstr[0] "气弓手"
+
+#: .\Weapons\Pneumatics.json
+msgid ""
+"A top-of-the-line pneumatic arrow launcher. Silent and deadly, designed for "
+"hunting, but splits zombie skulls just as easily. Holding three standard "
+"arrows and enough compressed air for each, the Airbower is versatile and "
+"powerful. Activate to turn on the internal air compressor and reload faster "
+"at the cost of some power and noise."
+msgstr ""
+"一款顶级的充气箭发射器。静音且致命，专为狩猎设计，但同样能轻易劈开僵尸的头骨。气弓手可容纳三支标准箭矢并为每支提供足够的压缩空气，功能多样且威力强大。激活可开启内部空气压缩机，以牺牲部分威力和增加噪音为代价更快地装填。"
+
+#: .\Weapons\Pneumatics.json
+msgid "airbower (on)"
+msgid_plural "airbower (on)s"
+msgstr[0] "气弓手（开启）"
+
+#: .\Weapons\Pneumatics.json
+msgid ""
+"A top-of-the-line pneumatic arrow launcher. Silent and deadly, designed for "
+"hunting, but splits zombie skulls just as easily. Holding three standard "
+"arrows and enough compressed air for each, the Airbower is versatile and "
+"powerful. Activate to turn off the internal air compressor, which is "
+"currently helping you to reload faster at the cost of some power and noise."
+msgstr ""
+"一款顶级的充气箭发射器。静音且致命，专为狩猎设计，但同样能轻易劈开僵尸的头骨。气弓手可容纳三支标准箭矢并为每支提供足够的压缩空气，功能多样且威力强大。激活可关闭内部空气压缩机，该压缩机目前正以牺牲部分威力和增加噪音为代价帮助您更快地装填。"
+
+#: .\Weapons\Pneumatics.json
+msgid "A22 bolter"
+msgid_plural "A22 bolters"
+msgstr[0] "A22 弩弹枪"
+
+#: .\Weapons\Pneumatics.json
+msgid ""
+"An experimental, military-grade bolt launcher designed by Aerial Labs for "
+"spec ops teams, when stealth and versatility is required. As powerful as it "
+"is sleek, this short rifle accepts standard crossbow bolts and spits them "
+"out with power and accuracy, even at full auto. A combined air compressor "
+"and magnetic rails propel the bolts at high speed, but give this a fairly "
+"substantial energy cost. Unfortunately, the bulky ammunition and integral "
+"magazine made it fairly unwieldy, and it never really left the prototype "
+"stage."
+msgstr ""
+"一款由 Aerial Labs "
+"为需要隐秘和多功能性的特种作战部队设计的实验性军用级弩箭发射器。既强大又流畅，这把短步枪接受标准弩箭，并以强大的威力和精准度将其射出，即使是全自动模式。一个结合了空气压缩机和磁轨的系统以高速推进弩箭，但也带来了相当可观的能量消耗。不幸的是，笨重的弹药和一体式弹匣使其相当难以操作，它从未真正脱离原型阶段。"
+
+#: .\Weapons\Pneumatics.json
+msgid "semi-auto"
+msgstr "半自动"
+
+#: .\Weapons\Pneumatics.json
+msgid "auto"
+msgstr "自动"
+
+#: .\Weapons\Pneumatics.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "冲锋枪"

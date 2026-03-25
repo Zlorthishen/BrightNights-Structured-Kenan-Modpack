@@ -1,0 +1,110 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: mug_NPCs\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\TALK_MUG_NPC.json
+msgid "I'm not asking anymore.  Give me your stuff or else!"
+msgstr "我不想再問了。把你的東西交出來，否則！"
+
+#: .\TALK_MUG_NPC.json
+msgid "Stick 'em up, <name_g>!  This is a hiest!"
+msgstr "舉起手來，<name_g>！這是搶劫！"
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"How about you give me all your gear, and I let you walk away in one piece."
+msgstr "不如把你所有的裝備都給我，我就讓你完整地離開。"
+
+#: .\TALK_MUG_NPC.json
+msgid "You're gonna give me your gear, or get ripped to shreds."
+msgstr "你要麼把裝備交給我，要麼被撕成碎片。"
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"No, I think you're the one who's gonna back down.  Hand over your goods, "
+"<name_g>."
+msgstr "不，我覺得你才是該退讓的那個。交出你的貨物，<name_g>。"
+
+#: .\TALK_MUG_NPC.json
+msgid "Now hand over your loot."
+msgstr "現在交出你的戰利品。"
+
+#: .\TALK_MUG_NPC.json
+msgid "No, you'll be the one giving me your loot, if you want to live."
+msgstr "不，如果你想活命，你才該把戰利品交給我。"
+
+#: .\TALK_MUG_NPC.json
+msgid "OK, OK.  I'm cooperating."
+msgstr "好吧，好吧。我配合。"
+
+#: .\TALK_MUG_NPC.json
+msgid "Lay your weapon on the ground, real slow like."
+msgstr "把你的武器慢慢放到地上，動作要非常慢。"
+
+#: .\TALK_MUG_NPC.json
+msgid "Let's see what you've got."
+msgstr "讓我看看你有什麼。"
+
+#: .\TALK_MUG_NPC.json
+msgid "You don't have anything else worth taking.  Get lost."
+msgstr "你沒什麼其他值得拿的東西了。滾吧。"
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"[PSYCHO] Did you really think I'd let you live?  Nah, I'm going to kill you "
+"anyway."
+msgstr "[精神變態] 你真以為我會讓你活嗎？不，我無論如何都要殺了你。"
+
+#: .\TALK_MUG_NPC.json
+msgid "[CANNIBAL] You still have to hand over all that tasty human meat."
+msgstr "[食人族] 你還得交出所有那些美味的人肉。"
+
+#: .\TALK_MUG_NPC.json
+msgid "[PREDATOR] Thank you for your cooperation.  Now you must die."
+msgstr "[捕食者] 感謝你的配合。現在你必須死。"
+
+#: .\TALK_MUG_NPC.json
+msgid ""
+"Regrettable, but I'm sure you understand that this is just how the world "
+"works now.  No hard feelings?"
+msgstr "很遺憾，但我相信你明白這就是現在世界的運作方式。沒有惡意吧？"
+
+#: .\effects.json
+msgid "Mugged By Player"
+msgstr "被玩家搶劫"
+
+#. ~ Description of effect 'Mugged By Player'.
+#: .\effects.json
+msgid ""
+"AI tag for when NPCs have been recently mugged by the player.  This is a bug"
+" if you have it."
+msgstr "當NPC最近被玩家搶劫時使用的AI標籤。如果你有這個標籤，那是個bug。"
+
+#: .\modinfo.json
+msgid "Mug NPCs"
+msgstr "搶劫NPC"
+
+#. ~ Description for Mug NPCs
+#: .\modinfo.json
+msgid ""
+"Gives a few dialog options for robbing NPCs of their items without killing "
+"them first.  Some available lines based on character traits. e.g. "
+"psychopath, pacifist, etc.  Currently only works on dynamic and shelter "
+"NPCs, not faction NPCs."
+msgstr ""
+"提供幾個對話選項，用於在不先殺死NPC的情況下搶劫他們的物品。部分臺詞基於角色特質，例如精神變態者、和平主義者等。目前僅對動態NPC和避難所NPC有效，對陣營NPC無效。"

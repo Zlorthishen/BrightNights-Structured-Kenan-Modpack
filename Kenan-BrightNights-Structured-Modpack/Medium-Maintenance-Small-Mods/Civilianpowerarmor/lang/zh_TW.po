@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: CIVILIANPOWAAA\n"
+"POT-Creation-Date: 2026-03-14 07:29+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "CIVILIAN POWER ARMOR"
+msgstr "民用動力裝甲"
+
+#. ~ Description for CIVILIAN POWER ARMOR
+#: .\modinfo.json
+msgid "Adds a few power armor items"
+msgstr "新增幾件動力裝甲物品"
+
+#: .\power_armor.json
+msgid "Commercial Depowered armor"
+msgid_plural "Commercial Depowered armors"
+msgstr[0] "商用無動力裝甲"
+
+#. ~ Description for {'str': 'Commercial Depowered armor'}
+#: .\power_armor.json
+msgid ""
+"The DoubleTech civilian Power Armor,: A heavy suit of basic power armor that"
+" has been modified for civilian use, And Has Been Made For Storage, This "
+"suit has had its servos and cooling system stripped out, meaning it no "
+"longer requires power."
+msgstr "雙科民用動力裝甲：一套經過民用改裝的重型基礎動力裝甲，專為儲存設計。該裝甲的伺服系統和冷卻系統已被移除，意味著不再需要動力。"
+
+#: .\power_armor.json
+msgid "Commercial power armor"
+msgid_plural "Commercial power armors"
+msgstr[0] "商用動力裝甲"
+
+#. ~ Use action msg for {'str': 'Commercial power armor'}.
+#: .\power_armor.json
+msgid "The %s engages."
+msgstr "%s啟動。"
+
+#. ~ Description for {'str': 'Commercial power armor'}
+#: .\power_armor.json
+msgid ""
+"A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For "
+"Commercial Use, This Model Was Very Common To See On Rich Members Of "
+"society. Like all DoubleTech power armor, the control and climate-regulation"
+" systems require direct skin contact."
+msgstr ""
+"一套雙科動力裝甲，Mk. I-C型。此型號專為商業用途製造，曾常見於社會富裕階層。與所有雙科動力裝甲一樣，其控制和氣候調節系統需要直接皮膚接觸。"
+
+#: .\power_armor.json
+msgid "Commercial power armor (active)"
+msgid_plural "Commercial power armors (active)"
+msgstr[0] "商用動力裝甲（激活狀態）"
+
+#. ~ Use action menu_text for {'str': 'Commercial power armor (active)',
+#. 'str_pl': 'Commercial power armors (active)'}.
+#: .\power_armor.json
+msgid "Turn off"
+msgstr "關閉"
+
+#. ~ Use action msg for {'str': 'Commercial power armor (active)', 'str_pl':
+#. 'Commercial power armors (active)'}.
+#: .\power_armor.json
+msgid "The %s disengages."
+msgstr "%s關閉。"
+
+#. ~ Description for {'str': 'Commercial power armor (active)', 'str_pl':
+#. 'Commercial power armors (active)'}
+#: .\power_armor.json
+msgid ""
+"A suit of DoubleTech Power Armor, Mk. I-C.  This model Is Made For "
+"Commercial Use, This Model Was Very Common To See On Rich Members Of "
+"society. Like all DoubleTech power armor, the control and climate-regulation"
+" systems require direct skin contact.  It is currently turned on, activate "
+"it to turn it off."
+msgstr ""
+"一套雙科動力裝甲，Mk. "
+"I-C型。此型號專為商業用途製造，曾常見於社會富裕階層。與所有雙科動力裝甲一樣，其控制和氣候調節系統需要直接皮膚接觸。當前為開啟狀態，激活以關閉。"

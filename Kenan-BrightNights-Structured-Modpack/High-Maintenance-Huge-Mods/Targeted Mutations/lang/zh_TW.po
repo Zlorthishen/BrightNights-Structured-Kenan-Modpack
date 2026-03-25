@@ -1,0 +1,5586 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: TaMu\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\effects.json
+msgid "Slowed falls"
+msgstr "緩落"
+
+#. ~ Description of effect 'Slowed falls'.
+#: .\effects.json
+msgid "You should be able to walk away from most falls unscathed now."
+msgstr "你現在應能從大多數墜落中安然無恙地走開。"
+
+#. ~ Apply message for effect(s) 'Slowed falls'.
+#: .\effects.json
+msgid "Your wings are spread and ready to slow your fall."
+msgstr "你的翅膀已展開，準備減緩墜落速度。"
+
+#. ~ Remove message for effect(s) 'Slowed falls'.
+#: .\effects.json
+msgid "Your wings tuck away."
+msgstr "你的翅膀收攏起來。"
+
+#: .\item.json
+msgid "Fleet-footed serum"
+msgid_plural "Fleet-footed serums"
+msgstr[0] "迅足血清"
+
+#. ~ Description for {'str': 'Fleet-footed serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you a little faster on flat surfaces."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。此血清將使你在平坦地面上移動得更快一些。"
+
+#: .\item.json
+msgid "Plant threshold serum"
+msgid_plural "Plant threshold serums"
+msgstr[0] "植物閾值血清"
+
+#. ~ Description for {'str': 'Plant threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more plant-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持此類變化，此血清將使你的身體永久適應更類似植物的狀態。"
+
+#: .\item.json
+msgid "Insect threshold serum"
+msgid_plural "Insect threshold serums"
+msgstr[0] "昆蟲閾值血清"
+
+#. ~ Description for {'str': 'Insect threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more insect-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持此類變化，此血清將使你的身體永久適應更類似昆蟲的狀態。"
+
+#: .\item.json
+msgid "Spider threshold serum"
+msgid_plural "Spider threshold serums"
+msgstr[0] "蜘蛛閾值血清"
+
+#. ~ Description for {'str': 'Spider threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more arachnid-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持此類變化，此血清將使你的身體永久適應更類似蛛形綱的狀態。"
+
+#: .\item.json
+msgid "Slime threshold serum"
+msgid_plural "Slime threshold serums"
+msgstr[0] "黏液閾值血清"
+
+#. ~ Description for {'str': 'Slime threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more slime-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近黏液的狀態。"
+
+#: .\item.json
+msgid "Fish threshold serum"
+msgid_plural "Fish threshold serums"
+msgstr[0] "魚類閾值血清"
+
+#. ~ Description for {'str': 'Fish threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more fish-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近魚類的狀態。"
+
+#: .\item.json
+msgid "Rat threshold serum"
+msgid_plural "Rat threshold serums"
+msgstr[0] "鼠類閾值血清"
+
+#. ~ Description for {'str': 'Rat threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more rat-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近鼠類的狀態。"
+
+#: .\item.json
+msgid "Beast threshold serum"
+msgid_plural "Beast threshold serums"
+msgstr[0] "野獸閾值血清"
+
+#. ~ Description for {'str': 'Beast threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more beastial state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近野獸的狀態。"
+
+#: .\item.json
+msgid "Ursine threshold serum"
+msgid_plural "Ursine threshold serums"
+msgstr[0] "熊類閾值血清"
+
+#. ~ Description for {'str': 'Ursine threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more bear-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近熊類的狀態。"
+
+#: .\item.json
+msgid "Feline threshold serum"
+msgid_plural "Feline threshold serums"
+msgstr[0] "貓科閾值血清"
+
+#. ~ Description for {'str': 'Feline threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more cat-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近貓科的狀態。"
+
+#: .\item.json
+msgid "Lupine threshold serum"
+msgid_plural "Lupine threshold serums"
+msgstr[0] "犬科閾值血清"
+
+#. ~ Description for {'str': 'Lupine threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more canine-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近犬科的狀態。"
+
+#: .\item.json
+msgid "Cattle threshold serum"
+msgid_plural "Cattle threshold serums"
+msgstr[0] "牛類閾值血清"
+
+#. ~ Description for {'str': 'Cattle threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more cow-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近牛類的狀態。"
+
+#: .\item.json
+msgid "Cephalopod threshold serum"
+msgid_plural "Cephalopod threshold serums"
+msgstr[0] "頭足類閾值血清"
+
+#. ~ Description for {'str': 'Cephalopod threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more octopus-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近章魚的狀態。"
+
+#: .\item.json
+msgid "Bird threshold serum"
+msgid_plural "Bird threshold serums"
+msgstr[0] "鳥類閾值血清"
+
+#. ~ Description for {'str': 'Bird threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more avian-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近鳥類的狀態。"
+
+#: .\item.json
+msgid "Lizard threshold serum"
+msgid_plural "Lizard threshold serums"
+msgstr[0] "蜥蜴閾值血清"
+
+#. ~ Description for {'str': 'Lizard threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more reptilian-like state permanently if your body"
+" supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近爬行類的狀態。"
+
+#: .\item.json
+msgid "Troglobite threshold serum"
+msgid_plural "Troglobite threshold serums"
+msgstr[0] "穴居生物閾值血清"
+
+#. ~ Description for {'str': 'Troglobite threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more subterranean state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久適應更接近地下生活的狀態。"
+
+#: .\item.json
+msgid "Alpha threshold serum"
+msgid_plural "Alpha threshold serums"
+msgstr[0] "阿爾法閾值血清"
+
+#. ~ Description for {'str': 'Alpha threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will turn you into an alpha specimen permanently if your body supports such "
+"a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你永久轉變為阿爾法樣本。"
+
+#: .\item.json
+msgid "Medical threshold serum"
+msgid_plural "Medical threshold serums"
+msgstr[0] "醫療閾值血清"
+
+#. ~ Description for {'str': 'Medical threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body into an experimental medical prototype permanently if "
+"your body supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你的身體永久轉變為實驗性醫療原型。"
+
+#: .\item.json
+msgid "Chimera threshold serum"
+msgid_plural "Chimera threshold serums"
+msgstr[0] "嵌合體閾值血清"
+
+#. ~ Description for {'str': 'Chimera threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will turn you into a chimera of species permanently if your body supports "
+"such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這一劑將使你永久轉變為多種物種的嵌合體。"
+
+#: .\item.json
+msgid "Elfa threshold serum"
+msgid_plural "Elfa threshold serums"
+msgstr[0] "精靈閾值血清"
+
+#. ~ Description for {'str': 'Elfa threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more elf-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這種血清將使你的身體永久適應更接近精靈的狀態。"
+
+#: .\item.json
+msgid "Raptor threshold serum"
+msgid_plural "Raptor threshold serums"
+msgstr[0] "迅猛龍閾值血清"
+
+#. ~ Description for {'str': 'Raptor threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more raptor-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這種血清將使你的身體永久適應更接近迅猛龍的狀態。"
+
+#: .\item.json
+msgid "Mouse threshold serum"
+msgid_plural "Mouse threshold serums"
+msgstr[0] "老鼠閾值血清"
+
+#. ~ Description for {'str': 'Mouse threshold serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will adapt your body to a more mouse-like state permanently if your body "
+"supports such a change."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持這種變化，這種血清將使你的身體永久適應更接近老鼠的狀態。"
+
+#: .\item.json
+msgid "Relfexive photophore serum"
+msgid_plural "Relfexive photophore serums"
+msgstr[0] "反射性發光器血清"
+
+#. ~ Description for {'str': 'Relfexive photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow an uncontrollable organ on your head that glows in "
+"response to your physical or emotional state."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你在頭上長出一個不可控的器官，它會根據你的身體或情緒狀態發光。"
+
+#: .\item.json
+msgid "Weak photophore serum"
+msgid_plural "Weak photophore serums"
+msgstr[0] "弱效發光器血清"
+
+#. ~ Description for {'str': 'Weak photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow a controllable organ on your head that glows weakly, "
+"sufficient for reading."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你在頭上長出一個可控的器官，發出微弱的光，足以用於閱讀。"
+
+#: .\item.json
+msgid "Photophore serum"
+msgid_plural "Photophore serums"
+msgstr[0] "發光器血清"
+
+#. ~ Description for {'str': 'Photophore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you grow a controllable organ on your head that glows brightly, "
+"bright enough to replace a lamp."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你在頭上長出一個可控的器官，發出明亮的光，亮度足以替代一盞燈。"
+
+#: .\item.json
+msgid "Hearing enhancement serum"
+msgid_plural "Hearing enhancement serums"
+msgstr[0] "聽力增強血清"
+
+#. ~ Description for {'str': 'Hearing enhancement serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"enhances your hearing."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會增強你的聽力。"
+
+#: .\item.json
+msgid "Elven hearing serum"
+msgid_plural "Elven hearing serums"
+msgstr[0] "精靈聽力血清"
+
+#. ~ Description for {'str': 'Elven hearing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you hear as good as elves of fantasy settings, if your body "
+"supports it."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持，這種血清會讓你擁有如奇幻設定中精靈般出色的聽力。"
+
+#: .\item.json
+msgid "Indefatigable serum"
+msgid_plural "Indefatigable serums"
+msgstr[0] "不知疲倦血清"
+
+#. ~ Description for {'str': 'Indefatigable serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you have more stamina and regenerate it faster."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你擁有更多耐力並加快其恢復速度。"
+
+#: .\item.json
+msgid "Hyperactive serum"
+msgid_plural "Hyperactive serums"
+msgstr[0] "亢奮血清"
+
+#. ~ Description for {'str': 'Hyperactive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will give you a lot more stamina and stamina recovery if your body supports "
+"it."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持，這種血清會大幅提升你的耐力和耐力恢復速度。"
+
+#: .\item.json
+msgid "Quickening serum"
+msgid_plural "Quickening serums"
+msgstr[0] "加速血清"
+
+#. ~ Description for {'str': 'Quickening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make faster in general."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你整體上行動更快。"
+
+#: .\item.json
+msgid "Fast healing serum"
+msgid_plural "Fast healing serums"
+msgstr[0] "快速癒合血清"
+
+#. ~ Description for {'str': 'Fast healing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will increase your healing speed by a bit."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會略微提升你的癒合速度。"
+
+#: .\item.json
+msgid "Light eater serum"
+msgid_plural "Light eater serums"
+msgstr[0] "輕食者血清"
+
+#. ~ Description for {'str': 'Light eater serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you require less food than most"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你比大多數人需要更少的食物。"
+
+#: .\item.json
+msgid "Accomplished sleeper serum"
+msgid_plural "Accomplished sleeper serums"
+msgstr[0] "熟睡者血清"
+
+#. ~ Description for {'str': 'Accomplished sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make it easier for you to fall asleep."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清會讓你更容易入睡。"
+
+#: .\item.json
+msgid "Practised sleeper serum"
+msgid_plural "Practised sleeper serums"
+msgstr[0] "熟練睡眠者血清"
+
+#. ~ Description for {'str': 'Practised sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you capable of falling asleep just about anywhere, if your body "
+"supports it."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。如果你的身體支持，這種血清會讓你幾乎能在任何地方入睡。"
+
+#: .\item.json
+msgid "Pain resistance serum"
+msgid_plural "Pain resistance serums"
+msgstr[0] "疼痛抗性血清"
+
+#. ~ Description for {'str': 'Pain resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you more resistant to pain."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會使你對疼痛更具抵抗力。"
+
+#: .\item.json
+msgid "Nightvision serum"
+msgid_plural "Nightvision serums"
+msgstr[0] "夜視血清"
+
+#. ~ Description for {'str': 'Nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" eyes a little more sensitive to light in low-light situations, granting a "
+"weak nightvision."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。在低光環境下使你的眼睛對光線更敏感，提供微弱的夜視能力。"
+
+#: .\item.json
+msgid "Poison resistance serum"
+msgid_plural "Poison resistance serums"
+msgstr[0] "毒素抗性血清"
+
+#. ~ Description for {'str': 'Poison resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"will make you more resistant to poisons."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會使你對毒物更具抵抗力。"
+
+#: .\item.json
+msgid "Sheer bulk serum"
+msgid_plural "Sheer bulk serums"
+msgstr[0] "純粹體格血清"
+
+#. ~ Description for {'str': 'Sheer bulk serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop a very robust build."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會使你發展出非常健壯的體格。"
+
+#: .\item.json
+msgid "Immense bulk serum"
+msgid_plural "Immense bulk serums"
+msgstr[0] "巨大體格血清"
+
+#. ~ Description for {'str': 'Immense bulk serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop an incredibly robust build to such extent that you would "
+"not be allowed to compete in pre-Cataclysm sports."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會使你發展出極其健壯的體格，以至於你將不被允許參加大災變前的體育競賽。"
+
+#: .\item.json
+msgid "Tough serum"
+msgid_plural "Tough serums"
+msgstr[0] "堅韌血清"
+
+#. ~ Description for {'str': 'Tough serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"hardens your bones and muscles, increasing the amount of hits you can take."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會強化你的骨骼和肌肉，增加你能承受的攻擊次數。"
+
+#: .\item.json
+msgid "Durability serum"
+msgid_plural "Durability serums"
+msgstr[0] "耐久血清"
+
+#. ~ Description for {'str': 'Durability serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"further enhances your body's durability beyond simple toughness."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一種會進一步增強你身體的耐久性，超越單純的堅韌。"
+
+#: .\item.json
+msgid "Unbreakable serum"
+msgid_plural "Unbreakable serums"
+msgstr[0] "不破血清"
+
+#. ~ Description for {'str': 'Unbreakable serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Basically "
+"super soldier body durability."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。基本上就是超級士兵的身體耐久性。"
+
+#: .\item.json
+msgid "Thick skin serum"
+msgid_plural "Thick skin serums"
+msgstr[0] "厚皮血清"
+
+#. ~ Description for {'str': 'Thick skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. It "
+"thickens your skin and gives you some resistance to being cut."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會增厚你的皮膚，並賦予你一些對切割傷害的抵抗力。"
+
+#: .\item.json
+msgid "Strong back serum"
+msgid_plural "Strong back serums"
+msgstr[0] "強背血清"
+
+#. ~ Description for {'str': 'Strong back serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. With this "
+"your spine reinforces itself and you become capable of carrying heavier "
+"loads."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使用後，你的脊柱會自我強化，使你能夠承載更重的負荷。"
+
+#: .\item.json
+msgid "Strong stomach serum"
+msgid_plural "Strong stomach serums"
+msgstr[0] "強胃血清"
+
+#. ~ Description for {'str': 'Strong stomach serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"fortitude of digestive systems."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。增強消化系統的堅韌性。"
+
+#: .\item.json
+msgid "Deftness serum"
+msgid_plural "Deftness serums"
+msgstr[0] "靈巧血清"
+
+#. ~ Description for {'str': 'Deftness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Improves "
+"recovery from attacks that didn't connect with a target via an increased "
+"fight response reflex."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。通過增強戰鬥反應反射，改善從未能命中目標的攻擊中恢復的能力。"
+
+#: .\item.json
+msgid "Substance tolerance serum"
+msgid_plural "Substance tolerance serums"
+msgstr[0] "物質耐受血清"
+
+#. ~ Description for {'str': 'Substance tolerance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Improves "
+"your body's filtration of intoxicants."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。改善你身體對麻醉劑的過濾能力。"
+
+#: .\item.json
+msgid "Gourmand serum"
+msgid_plural "Gourmand serums"
+msgstr[0] "美食家血清"
+
+#. ~ Description for {'str': 'Gourmand serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"dopamine production in response to ingesting good-tasting foods and expands "
+"digestive system to accomodate more volume."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。增加攝入美味食物時多巴胺的分泌，並擴展消化系統以容納更多食物。"
+
+#: .\item.json
+msgid "Addiction resistance serum"
+msgid_plural "Addiction resistance serums"
+msgstr[0] "成癮抗性血清"
+
+#. ~ Description for {'str': 'Addiction resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lowers the"
+" brain's reliance on external dopamine sources, effectively increasing "
+"resistance to addictions."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。降低大腦對外部多巴胺來源的依賴，有效增加對成癮的抵抗力。"
+
+#: .\item.json
+msgid "Animal empathy serum"
+msgid_plural "Animal empathy serums"
+msgstr[0] "動物共情血清"
+
+#. ~ Description for {'str': 'Animal empathy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Inserts an"
+" instinctual movement pattern that activates in the presence of animals into"
+" your brain that makes animals less skittish or untrustworthy of you."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會在你的大腦中植入一種在動物面前激活的本能運動模式，使動物對你減少警惕或不信任。"
+
+#: .\item.json
+msgid "Animal kinship serum"
+msgid_plural "Animal kinship serums"
+msgstr[0] "動物親和血清"
+
+#. ~ Description for {'str': 'Animal kinship serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"certain parts of your brain to make you move in the presence of animals in "
+"such a way that makes most animals leave you alone or be curious enough that"
+" they act in a friendly manner to check you out."
+msgstr ""
+"一種特殊的誘變血清，旨在賦予你單一突變。它會重寫你大腦的某些部分，使你在動物面前以某種方式移動，讓大多數動物對你置之不理或產生足夠的好奇心，從而以友好的方式接近你。"
+
+#: .\item.json
+msgid "Terrifier serum"
+msgid_plural "Terrifier serums"
+msgstr[0] "恐嚇者血清"
+
+#. ~ Description for {'str': 'Terrifier serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Modifies "
+"your pheromones and the way you carry yourself to instill fear into the "
+"minds of creatures, making them more likely to flee or be intimidated."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會修改你的信息素和舉止方式，將恐懼植入生物的意識中，使它們更可能逃跑或被震懾。"
+
+#: .\item.json
+msgid "Disease resistance serum"
+msgid_plural "Disease resistance serums"
+msgstr[0] "疾病抗性血清"
+
+#. ~ Description for {'str': 'Disease resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Enhances "
+"your immune system against diseases."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它能增強你的免疫系統以抵抗疾病。"
+
+#: .\item.json
+msgid "Adrenaline serum"
+msgid_plural "Adrenaline serums"
+msgstr[0] "腎上腺素血清"
+
+#. ~ Description for {'str': 'Adrenaline serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"the response and size of adrenal glands."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它能增加腎上腺的反應能力和大小。"
+
+#: .\item.json
+msgid "Less sleep serum"
+msgid_plural "Less sleep serums"
+msgstr[0] "少眠血清"
+
+#. ~ Description for {'str': 'Less sleep serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lessens "
+"your body's reliance on sleep."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它能減少你身體對睡眠的依賴。"
+
+#: .\item.json
+msgid "Self awareness serum"
+msgid_plural "Self awareness serums"
+msgstr[0] "自我感知血清"
+
+#. ~ Description for {'str': 'Self awareness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your awareness on your body's state of being."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它能增強你對自身身體狀態的感知能力。"
+
+#: .\item.json
+msgid "Masochism serum"
+msgid_plural "Masochism serums"
+msgstr[0] "受虐狂血清"
+
+#. ~ Description for {'str': 'Masochism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"your brain to associate pain with pleasure."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會重寫你的大腦，將痛苦與愉悅聯繫起來。"
+
+#: .\item.json
+msgid "Lighter steps serum"
+msgid_plural "Lighter steps serums"
+msgstr[0] "輕盈步伐血清"
+
+#. ~ Description for {'str': 'Lighter steps serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your movement patterns to make less noise while walking and lessens the "
+"chance of triggering traps."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會改變你的移動模式，使行走時發出更少的噪音，並降低觸發陷阱的幾率。"
+
+#: .\item.json
+msgid "Robust genetics serum"
+msgid_plural "Robust genetics serums"
+msgstr[0] "強健基因血清"
+
+#. ~ Description for {'str': 'Robust genetics serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Supplements your DNA with buffers against damage and degeneration. Works "
+"only with old mutations mod"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會為你的DNA補充緩衝機制，以抵抗損傷和退化。僅適用於舊版突變模組。"
+
+#: .\item.json
+msgid "Scout serum"
+msgid_plural "Scout serums"
+msgstr[0] "偵察兵血清"
+
+#. ~ Description for {'str': 'Scout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your sight range and allows you to see distant things better."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它能增加你的視野範圍，並讓你更好地看清遠處的事物。"
+
+#: .\item.json
+msgid "Cannibalism serum"
+msgid_plural "Cannibalism serums"
+msgstr[0] "食人血清"
+
+#. ~ Description for {'str': 'Cannibalism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Rewrites "
+"some sections of your brain to cause you to both crave and get an increase "
+"in dopamine production when eating your own kind."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會重寫你大腦的某些部分，使你在食用同類時產生渴望並增加多巴胺的分泌。"
+
+#: .\item.json
+msgid "Psychopathy serum"
+msgid_plural "Psychopathy serums"
+msgstr[0] "精神病血清"
+
+#. ~ Description for {'str': 'Psychopathy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"your capacity to care about moralistic actions and morality in general."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會移除你對道德行為和一般道德觀念的關注能力。"
+
+#: .\item.json
+msgid "Killer drive serum"
+msgid_plural "Killer drive serums"
+msgstr[0] "殺戮驅動血清"
+
+#. ~ Description for {'str': 'Killer drive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Heightens "
+"dopamine production when killing something and as a result of that makes you"
+" crave it."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會在你殺死某物時提高多巴胺的分泌，並因此讓你對此產生渴望。"
+
+#: .\item.json
+msgid "Weak scent serum"
+msgid_plural "Weak scent serums"
+msgstr[0] "微弱氣味血清"
+
+#. ~ Description for {'str': 'Weak scent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"most of your odour-producing sweat glands and general smelliness."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。它會移除你大部分產生氣味的汗腺和一般體味。"
+
+#: .\item.json
+msgid "Prettification serum"
+msgid_plural "Prettification serums"
+msgstr[0] "美化血清"
+
+#. ~ Description for {'str': 'Prettification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Like "
+"beauty creams, except you inject this one, and it actually works. Makes you "
+"more appealing to look at."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。類似於美容霜，但這是注射用的，而且確實有效。讓你看起來更具吸引力。"
+
+#: .\item.json
+msgid "Heavy sleeper serum"
+msgid_plural "Heavy sleeper serums"
+msgstr[0] "沉睡者血清"
+
+#. ~ Description for {'str': 'Heavy sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lowers "
+"your environmental reactivity while asleep."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。降低你睡眠時對環境的反應性。"
+
+#: .\item.json
+msgid "Albinism serum"
+msgid_plural "Albinism serums"
+msgstr[0] "白化病血清"
+
+#. ~ Description for {'str': 'Albinism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Removes "
+"the pigmentation from your body and removes your body's capability to "
+"produce pigmentation."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。移除你身體的色素沉著，並消除身體產生色素的能力。"
+
+#: .\item.json
+msgid "Rough skin serum"
+msgid_plural "Rough skin serums"
+msgstr[0] "粗糙皮膚血清"
+
+#. ~ Description for {'str': 'Rough skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives your"
+" skin a rough texture."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你的皮膚粗糙的質地。"
+
+#: .\item.json
+msgid "High nightvision serum"
+msgid_plural "High nightvision serums"
+msgstr[0] "高夜視血清"
+
+#. ~ Description for {'str': 'High nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"the amount of light-sensitive cones in your eyes to enable very good "
+"nightvision."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。增加你眼睛中對光敏感的視錐細胞數量，以實現非常好的夜視能力。"
+
+#: .\item.json
+msgid "Full nightvision serum"
+msgid_plural "Full nightvision serums"
+msgstr[0] "完全夜視血清"
+
+#. ~ Description for {'str': 'Full nightvision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"an abundance of light-sensitive cones in your eyes, granting better "
+"nightsight than most creatures have."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你眼睛中豐富的對光敏感的視錐細胞，提供比大多數生物更好的夜視能力。"
+
+#: .\item.json
+msgid "Cephalopod eyes serum"
+msgid_plural "Cephalopod eyes serums"
+msgstr[0] "頭足類眼睛血清"
+
+#. ~ Description for {'str': 'Cephalopod eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Mutates "
+"your eye structure into that of a cephalopod."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的眼睛結構突變為頭足類動物的眼睛。"
+
+#: .\item.json
+msgid "Fey eyes serum"
+msgid_plural "Fey eyes serums"
+msgstr[0] "精靈眼睛血清"
+
+#. ~ Description for {'str': 'Fey eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Replaces "
+"the pigmentation of your eyes with self-modulating chromatophores that can "
+"only shift into various shades of green."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用只能轉變為各種綠色色調的自調節色素細胞替換你眼睛的色素沉著。"
+
+#: .\item.json
+msgid "Feline eyes serum"
+msgid_plural "Feline eyes serums"
+msgstr[0] "貓眼血清"
+
+#. ~ Description for {'str': 'Feline eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Mutates "
+"your eyes into those of a cat. Nightvision not included."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的眼睛突變為貓的眼睛。不包含夜視能力。"
+
+#: .\item.json
+msgid "Bird eyes serum"
+msgid_plural "Bird eyes serums"
+msgstr[0] "鳥眼血清"
+
+#. ~ Description for {'str': 'Bird eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Structurally changes your eyes to be similar to that of avians, heightening "
+"visual acuity and perception."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。結構上改變你的眼睛，使其類似於鳥類，提高視覺敏銳度和感知能力。"
+
+#: .\item.json
+msgid "Infrared vision serum"
+msgid_plural "Infrared vision serums"
+msgstr[0] "紅外視覺血清"
+
+#. ~ Description for {'str': 'Infrared vision serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your eyes to see the infrared wavelengths, allowing you to see warm-blooded "
+"creatures in the dark."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。改變你的眼睛以看到紅外波長，讓你能在黑暗中看到溫血生物。"
+
+#: .\item.json
+msgid "Lizard eyes serum"
+msgid_plural "Lizard eyes serums"
+msgstr[0] "蜥蜴眼睛血清"
+
+#. ~ Description for {'str': 'Lizard eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Structurally mutates your eyes to be like a reptile's. Reptilian infrared "
+"not included."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。結構上突變你的眼睛，使其類似於爬行動物的眼睛。不包含爬行動物的紅外視覺。"
+
+#: .\item.json
+msgid "Lizard infrared serum"
+msgid_plural "Lizard infrared serums"
+msgstr[0] "蜥蜴紅外血清"
+
+#. ~ Description for {'str': 'Lizard infrared serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grants "
+"your eyes the ability to see into the infrared spectrum like various "
+"reptiles, physical changes may apply."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你的眼睛像各種爬行動物一樣看到紅外光譜的能力，可能會伴隨物理變化。"
+
+#: .\item.json
+msgid "Very fast healer serum"
+msgid_plural "Very fast healer serums"
+msgstr[0] "極速癒合血清"
+
+#. ~ Description for {'str': 'Very fast healer serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"cell division rate in response to structural damage, improving your healing "
+"factor above normal."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。提高細胞對結構損傷的分裂速率，將你的癒合因子提升至正常水平以上。"
+
+#: .\item.json
+msgid "Regeneration serum"
+msgid_plural "Regeneration serums"
+msgstr[0] "再生血清"
+
+#. ~ Description for {'str': 'Regeneration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Cell "
+"division rate in response to structural damage is increased to nearly "
+"unnatural levels, improving healing to a very high degree."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。細胞對結構損傷的分裂速率提高到近乎非自然的水平，將癒合能力提升到非常高的程度。"
+
+#: .\item.json
+msgid "Reptilian healing serum"
+msgid_plural "Reptilian healing serums"
+msgstr[0] "爬行類癒合血清"
+
+#. ~ Description for {'str': 'Reptilian healing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grants "
+"self-setting and automatic fast repair to both skeletal breakage and wounds "
+"of the flesh."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。提供骨骼斷裂與肉體傷口的自我復位與自動快速修復能力。"
+
+#: .\item.json
+msgid "Very little sleep serum"
+msgid_plural "Very little sleep serums"
+msgstr[0] "極微睡眠血清"
+
+#. ~ Description for {'str': 'Very little sleep serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows "
+"your brain to perform short bursts of functions similar to REM sleep while "
+"awake, lengthening times you're awake and lowering the amount of time you "
+"need to sleep."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你的大腦在清醒時執行類似快速眼動睡眠的短暫功能爆發，延長清醒時間並減少所需睡眠時長。"
+
+#: .\item.json
+msgid "Tireless serum"
+msgid_plural "Tireless serums"
+msgstr[0] "不知疲倦血清"
+
+#. ~ Description for {'str': 'Tireless serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Your brain"
+" constantly performs similar functions to REM sleep all the time, "
+"effectively removing the need to sleep."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你的大腦持續執行類似快速眼動睡眠的功能，有效消除了睡眠需求。"
+
+#: .\item.json
+msgid "Fangs serum"
+msgid_plural "Fangs serums"
+msgstr[0] "尖牙血清"
+
+#. ~ Description for {'str': 'Fangs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a set of fangs."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你一副尖牙。"
+
+#: .\item.json
+msgid "Incisors serum"
+msgid_plural "Incisors serums"
+msgstr[0] "門齒血清"
+
+#. ~ Description for {'str': 'Incisors serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows your"
+" frontal teeth into rodent-like incisors."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的前牙生長成類似齧齒動物的門齒。"
+
+#: .\item.json
+msgid "Nictitating membrane serum"
+msgid_plural "Nictitating membrane serums"
+msgstr[0] "瞬膜血清"
+
+#. ~ Description for {'str': 'Nictitating membrane serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Restores "
+"the nictitating membrane that humans have lost, allowing you to see "
+"underwater. Side effects may apply."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。恢復人類已失去的瞬膜，使你能在水下視物。可能產生副作用。"
+
+#: .\item.json
+msgid "Gills serum"
+msgid_plural "Gills serums"
+msgstr[0] "鰓血清"
+
+#. ~ Description for {'str': 'Gills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"gills, allowing you to breathe underwater."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你鰓，使你能在水下呼吸。"
+
+#: .\item.json
+msgid "Cephalopodic gills serum"
+msgid_plural "Cephalopodic gills serums"
+msgstr[0] "頭足類鰓血清"
+
+#. ~ Description for {'str': 'Cephalopodic gills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the gills of an octopus or squid, allowing you to breathe underwater."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你章魚或魷魚般的鰓，使你能在水下呼吸。"
+
+#: .\item.json
+msgid "Scales serum"
+msgid_plural "Scales serums"
+msgstr[0] "鱗片血清"
+
+#. ~ Description for {'str': 'Scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body with green reptilian scales."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用綠色的爬行類鱗片覆蓋你的身體。"
+
+#: .\item.json
+msgid "Thick scales serum"
+msgid_plural "Thick scales serums"
+msgstr[0] "厚鱗血清"
+
+#. ~ Description for {'str': 'Thick scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in thick, heavy green reptilian scales."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用厚重、堅實的綠色爬行類鱗片覆蓋你的身體。"
+
+#: .\item.json
+msgid "Sleek scales serum"
+msgid_plural "Sleek scales serums"
+msgstr[0] "光滑鱗片血清"
+
+#. ~ Description for {'str': 'Sleek scales serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in sleek, hydrodynamic scales like a fish."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用如魚般光滑、流線型的鱗片覆蓋你的身體。"
+
+#: .\item.json
+msgid "Light bones serum"
+msgid_plural "Light bones serums"
+msgstr[0] "輕骨血清"
+
+#. ~ Description for {'str': 'Light bones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Lightens "
+"your bones, making you faster but weaker."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。減輕你的骨骼，使你更快但更弱。"
+
+#: .\item.json
+msgid "Feathers serum"
+msgid_plural "Feathers serums"
+msgstr[0] "羽毛血清"
+
+#. ~ Description for {'str': 'Feathers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in feathers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用羽毛覆蓋你的身體。"
+
+#: .\item.json
+msgid "Down serum"
+msgid_plural "Down serums"
+msgstr[0] "絨羽血清"
+
+#. ~ Description for {'str': 'Down serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a fine layer of down feathers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你一層細密的絨羽。"
+
+#: .\item.json
+msgid "Lightly furred serum"
+msgid_plural "Lightly furred serums"
+msgstr[0] "輕度毛皮血清"
+
+#. ~ Description for {'str': 'Lightly furred serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a fine layer of fur."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用一層細密的毛皮覆蓋你的身體。"
+
+#: .\item.json
+msgid "Furry serum"
+msgid_plural "Furry serums"
+msgstr[0] "毛皮血清"
+
+#. ~ Description for {'str': 'Furry serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a thick layer of fur."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的身體覆蓋一層厚厚的毛皮。"
+
+#: .\item.json
+msgid "Shaggy fur serum"
+msgid_plural "Shaggy fur serums"
+msgstr[0] "蓬鬆毛皮血清"
+
+#. ~ Description for {'str': 'Shaggy fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a very thick layer of fur like that of a bear."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的身體覆蓋一層如熊般非常厚的毛皮。"
+
+#: .\item.json
+msgid "Gray fur serum"
+msgid_plural "Gray fur serums"
+msgstr[0] "灰色毛皮血清"
+
+#. ~ Description for {'str': 'Gray fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a layer of fur like that of a wolf."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的身體覆蓋一層如狼般的毛皮。"
+
+#: .\item.json
+msgid "Sleek fur serum"
+msgid_plural "Sleek fur serums"
+msgstr[0] "光滑毛皮血清"
+
+#. ~ Description for {'str': 'Sleek fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your body in a layer of sleek brown fur like that of a feline."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的身體覆蓋一層如貓科動物般光滑的棕色毛皮。"
+
+#: .\item.json
+msgid "Lynx fur serum"
+msgid_plural "Lynx fur serums"
+msgstr[0] "猞猁毛皮血清"
+
+#. ~ Description for {'str': 'Lynx fur serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your cheeks and neck with longer fur for better insulation. Fur in other "
+"places may apply."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的臉頰和頸部覆蓋更長的毛皮以增強保溫。其他部位也可能長出毛皮。"
+
+#: .\item.json
+msgid "Patchwork skin serum"
+msgid_plural "Patchwork skin serums"
+msgstr[0] "拼合皮膚血清"
+
+#. ~ Description for {'str': 'Patchwork skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your skin mutate into an amalgamation of fur and scales."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清使你的皮膚突變為毛皮與鱗片的混合體。"
+
+#: .\item.json
+msgid "Thickened patchwork skin serum"
+msgid_plural "Thickened patchwork skin serums"
+msgstr[0] "增厚拼合皮膚血清"
+
+#. ~ Description for {'str': 'Thickened patchwork skin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your skin mutate into an amalgamation of thickened fur and scales."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這種血清使你的皮膚突變為增厚毛皮與鱗片的混合體。"
+
+#: .\item.json
+msgid "Chitin serum"
+msgid_plural "Chitin serums"
+msgstr[0] "幾丁質血清"
+
+#. ~ Description for {'str': 'Chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a flexible thin layer of chitin."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋一層柔韌的薄幾丁質層。"
+
+#: .\item.json
+msgid "Chitin armour serum"
+msgid_plural "Chitin armour serums"
+msgstr[0] "幾丁質護甲血清"
+
+#. ~ Description for {'str': 'Chitin armour serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a hard layer of chitinous armour."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋一層堅硬的幾丁質護甲。"
+
+#: .\item.json
+msgid "Chitin plate serum"
+msgid_plural "Chitin plate serums"
+msgstr[0] "幾丁質板甲血清"
+
+#. ~ Description for {'str': 'Chitin plate serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in an inflexible layer of thick chitinous armour plating."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋一層不靈活的厚幾丁質裝甲板。"
+
+#: .\item.json
+msgid "Hairy chitin serum"
+msgid_plural "Hairy chitin serums"
+msgstr[0] "多毛幾丁質血清"
+
+#. ~ Description for {'str': 'Hairy chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a slightly hairy chitin."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋一層略帶毛髮的幾丁質。"
+
+#: .\item.json
+msgid "Furred chitin serum"
+msgid_plural "Furred chitin serums"
+msgstr[0] "覆毛幾丁質血清"
+
+#. ~ Description for {'str': 'Furred chitin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in a very hairy layer of chitin."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋一層多毛的幾丁質層。"
+
+#: .\item.json
+msgid "Furred plate serum"
+msgid_plural "Furred plate serums"
+msgstr[0] "覆毛板甲血清"
+
+#. ~ Description for {'str': 'Furred plate serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your epidermis in furry chitinous carapace."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的表皮覆蓋毛茸茸的幾丁質甲殼。"
+
+#: .\item.json
+msgid "Urticating hairs serum"
+msgid_plural "Urticating hairs serums"
+msgstr[0] "刺毛血清"
+
+#. ~ Description for {'str': 'Urticating hairs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Loosens "
+"the hairs on your chitin as a defense mechanism against melee attackers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的幾丁質上的毛髮鬆動，作為對抗近戰攻擊者的防禦機制。"
+
+#: .\item.json
+msgid "Spines serum"
+msgid_plural "Spines serums"
+msgstr[0] "尖刺血清"
+
+#. ~ Description for {'str': 'Spines serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin with sharp spines for defense."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的皮膚覆蓋尖銳的尖刺用於防禦。"
+
+#: .\item.json
+msgid "Quills serum"
+msgid_plural "Quills serums"
+msgstr[0] "尖刺血清"
+
+#. ~ Description for {'str': 'Quills serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your large sharp quills for defense."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。覆蓋你身體的大型鋒利尖刺，用於防禦。"
+
+#: .\item.json
+msgid "Assault barbs serum"
+msgid_plural "Assault barbs serums"
+msgstr[0] "突擊倒刺血清"
+
+#. ~ Description for {'str': 'Assault barbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin with loose quills that you can fling at enemies or use as melee "
+"defense."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用鬆散的尖刺覆蓋你的皮膚，你可以將其投擲向敵人或用作近戰防禦。"
+
+#: .\item.json
+msgid "Phelloderm serum"
+msgid_plural "Phelloderm serums"
+msgstr[0] "栓皮血清"
+
+#. ~ Description for {'str': 'Phelloderm serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" skin green and slightly woody and better able to retain moisture."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的皮膚變綠並略帶木質，能更好地保持水分。"
+
+#: .\item.json
+msgid "Bark serum"
+msgid_plural "Bark serums"
+msgstr[0] "樹皮血清"
+
+#. ~ Description for {'str': 'Bark serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin in light bark like a tree."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。像樹一樣用輕質樹皮覆蓋你的皮膚。"
+
+#: .\item.json
+msgid "Thorns serum"
+msgid_plural "Thorns serums"
+msgstr[0] "荊棘血清"
+
+#. ~ Description for {'str': 'Thorns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Covers "
+"your skin in small woody thorns."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。用小型木質荊棘覆蓋你的皮膚。"
+
+#: .\item.json
+msgid "Leaves serum"
+msgid_plural "Leaves serums"
+msgstr[0] "葉片血清"
+
+#. ~ Description for {'str': 'Leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" hair into long grass-like leaves."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的頭髮變成長長的草狀葉片。"
+
+#: .\item.json
+msgid "Lush leaves serum"
+msgid_plural "Lush leaves serums"
+msgstr[0] "茂盛葉片血清"
+
+#. ~ Description for {'str': 'Lush leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"larger leaves."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你更大的葉片。"
+
+#: .\item.json
+msgid "Verdant leaves serum"
+msgid_plural "Verdant leaves serums"
+msgstr[0] "翠綠葉片血清"
+
+#. ~ Description for {'str': 'Verdant leaves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"large and vibrant leaves that can act as a source of nutrition if uncovered."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你大而充滿活力的葉片，如果暴露在外，可以作為營養來源。"
+
+#: .\item.json
+msgid "Transpiration serum"
+msgid_plural "Transpiration serums"
+msgstr[0] "蒸騰血清"
+
+#. ~ Description for {'str': 'Transpiration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Changes "
+"your to use the evaporation of water as a way to move nutrients."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。改變你的身體，利用水分蒸發作為移動養分的方式。"
+
+#: .\item.json
+msgid "Flower serum"
+msgid_plural "Flower serums"
+msgstr[0] "花朵血清"
+
+#. ~ Description for {'str': 'Flower serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes "
+"flowers bloom on your scalp."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使花朵在你的頭皮上綻放。"
+
+#: .\item.json
+msgid "Rosebud serum"
+msgid_plural "Rosebud serums"
+msgstr[0] "玫瑰花蕾血清"
+
+#. ~ Description for {'str': 'Rosebud serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes the "
+"top of your head bloom with rosebuds."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的頭頂綻放玫瑰花蕾。"
+
+#: .\item.json
+msgid "Long fingernails serum"
+msgid_plural "Long fingernails serums"
+msgstr[0] "長指甲血清"
+
+#. ~ Description for {'str': 'Long fingernails serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"longer fingernails capable of cutting people."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你更長的指甲，能夠切割他人。"
+
+#: .\item.json
+msgid "Claws serum"
+msgid_plural "Claws serums"
+msgstr[0] "利爪血清"
+
+#. ~ Description for {'str': 'Claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws at the end of your fingertips."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。在你的指尖末端賦予你利爪。"
+
+#: .\item.json
+msgid "Rat claws serum"
+msgid_plural "Rat claws serums"
+msgstr[0] "鼠爪血清"
+
+#. ~ Description for {'str': 'Rat claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"rat-like claws."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你類似老鼠的爪子。"
+
+#: .\item.json
+msgid "Stainless claws serum"
+msgid_plural "Stainless claws serums"
+msgstr[0] "不鏽鋼利爪血清"
+
+#. ~ Description for {'str': 'Stainless claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws as if made from stainless steel."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你如同不鏽鋼製成的利爪。"
+
+#: .\item.json
+msgid "Retractable claws serum"
+msgid_plural "Retractable claws serums"
+msgstr[0] "可伸縮利爪血清"
+
+#. ~ Description for {'str': 'Retractable claws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"claws capable of retracting when not in use."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你獲得可伸縮的利爪，在不使用時能夠收回。"
+
+#: .\item.json
+msgid "Tentacle rakes serum"
+msgid_plural "Tentacle rakes serums"
+msgstr[0] "觸手耙爪血清"
+
+#. ~ Description for {'str': 'Tentacle rakes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives your"
+" tentacles large hook-barbed rakes."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的觸手長出帶有鉤刺的大型耙爪。"
+
+#: .\item.json
+msgid "Ink glands serum"
+msgid_plural "Ink glands serums"
+msgstr[0] "墨腺血清"
+
+#. ~ Description for {'str': 'Ink glands serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"ink glands to spray and potentially blind things with."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你墨腺，可以噴射墨汁並可能致盲目標。"
+
+#: .\item.json
+msgid "Bulging reservoir serum"
+msgid_plural "Bulging reservoir serums"
+msgstr[0] "膨大儲液囊血清"
+
+#. ~ Description for {'str': 'Bulging reservoir serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes you develop a reservoir of fluids that buldges out of your abdomen "
+"allowing you to adapt to containing extra liquids."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這個突變讓你在腹部形成一個膨出的儲液囊，使你能夠適應容納額外的液體。"
+
+#: .\item.json
+msgid "Talons serum"
+msgid_plural "Talons serums"
+msgstr[0] "猛禽爪血清"
+
+#. ~ Description for {'str': 'Talons serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows your"
+" index fingers into hude talons."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的食指生長成巨大的猛禽爪。"
+
+#: .\item.json
+msgid "Radiogenic serum"
+msgid_plural "Radiogenic serums"
+msgstr[0] "輻射適應血清"
+
+#. ~ Description for {'str': 'Radiogenic serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"capable of healing from radiation."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你能夠從輻射中恢復。"
+
+#: .\item.json
+msgid "Insect pheromones serum"
+msgid_plural "Insect pheromones serums"
+msgstr[0] "昆蟲信息素血清"
+
+#. ~ Description for {'str': 'Insect pheromones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body produce insect pheromones and identifies you as friendly to most "
+"insects."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的身體產生昆蟲信息素，使大多數昆蟲將你識別為友好目標。"
+
+#: .\item.json
+msgid "Mammal pheromones serum"
+msgid_plural "Mammal pheromones serums"
+msgstr[0] "哺乳動物信息素血清"
+
+#. ~ Description for {'str': 'Mammal pheromones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body produce mammal pheromones that calms most mammals and makes them more "
+"friendly."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的身體產生哺乳動物信息素，能安撫大多數哺乳動物並使它們更加友好。"
+
+#: .\item.json
+msgid "Disease immunity serum"
+msgid_plural "Disease immunity serums"
+msgstr[0] "疾病免疫血清"
+
+#. ~ Description for {'str': 'Disease immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"immune to ambient diseases."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你免疫環境疾病。"
+
+#: .\item.json
+msgid "Infection immunity serum"
+msgid_plural "Infection immunity serums"
+msgstr[0] "感染免疫血清"
+
+#. ~ Description for {'str': 'Infection immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"immune to infections."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你免疫感染。"
+
+#: .\item.json
+msgid "Parasite immunity serum"
+msgid_plural "Parasite immunity serums"
+msgstr[0] "寄生蟲免疫血清"
+
+#. ~ Description for {'str': 'Parasite immunity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body inhospitable to parasites, effectively immunizing you."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的身體變得不適合寄生蟲生存，從而有效免疫寄生蟲。"
+
+#: .\item.json
+msgid "Venomous serum"
+msgid_plural "Venomous serums"
+msgstr[0] "劇毒血清"
+
+#. ~ Description for {'str': 'Venomous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" biological attacks inject your enemies with venom."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的生物攻擊能夠向敵人注入毒液。"
+
+#: .\item.json
+msgid "Strongly venomous serum"
+msgid_plural "Strongly venomous serums"
+msgstr[0] "強效劇毒血清"
+
+#. ~ Description for {'str': 'Strongly venomous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" biological attacks inject your enemies with a strong venom."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的生物攻擊能夠向敵人注入強效毒液。"
+
+#: .\item.json
+msgid "Slime hands serum"
+msgid_plural "Slime hands serums"
+msgstr[0] "粘液手血清"
+
+#. ~ Description for {'str': 'Slime hands serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" hands produce a caustic slime."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的雙手產生腐蝕性粘液。"
+
+#: .\item.json
+msgid "Stretchy limbs serum"
+msgid_plural "Stretchy limbs serums"
+msgstr[0] "彈性肢體血清"
+
+#. ~ Description for {'str': 'Stretchy limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives a "
+"bit more flexibility to your limbs."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的肢體更具柔韌性。"
+
+#: .\item.json
+msgid "Rubbery limbs serum"
+msgid_plural "Rubbery limbs serums"
+msgstr[0] "橡膠肢體血清"
+
+#. ~ Description for {'str': 'Rubbery limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Signifigantly flexifies your limbs"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。顯著增強你肢體的柔韌性。"
+
+#: .\item.json
+msgid "Pseudolimbs serum"
+msgid_plural "Pseudolimbs serums"
+msgstr[0] "偽肢血清"
+
+#. ~ Description for {'str': 'Pseudolimbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" limbs into pseudopod-like limbs."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的肢體轉變為偽足狀肢體。"
+
+#: .\item.json
+msgid "Compound eyes serum"
+msgid_plural "Compound eyes serums"
+msgstr[0] "複眼血清"
+
+#. ~ Description for {'str': 'Compound eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"insect-like compound eyes."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你昆蟲般的複眼。"
+
+#: .\item.json
+msgid "Strong legs serum"
+msgid_plural "Strong legs serums"
+msgstr[0] "強健腿部血清"
+
+#. ~ Description for {'str': 'Strong legs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"makes your legs gain muscle mass to propel you across any terrain, and help "
+"carry a bit more."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。此血清使你的腿部肌肉增加，以推動你穿越任何地形，並幫助攜帶更多物品。"
+
+#: .\item.json
+msgid "Toe talons serum"
+msgid_plural "Toe talons serums"
+msgstr[0] "趾爪血清"
+
+#. ~ Description for {'str': 'Toe talons serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"talons on your toes like those of raptors."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你類似猛禽的趾爪。"
+
+#: .\item.json
+msgid "Hooves serum"
+msgid_plural "Hooves serums"
+msgstr[0] "蹄足血清"
+
+#. ~ Description for {'str': 'Hooves serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns your"
+" feet into hooves."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的雙腳轉變為蹄足。"
+
+#: .\item.json
+msgid "Alcohol metabolism serum"
+msgid_plural "Alcohol metabolism serums"
+msgstr[0] "酒精代謝血清"
+
+#. ~ Description for {'str': 'Alcohol metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows "
+"your digestive system to extract nutrients from alcohol and use it as a food"
+" source."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你的消化系統從酒精中提取營養，並將其用作食物來源。"
+
+#: .\item.json
+msgid "Troglobitic tunnel pain resistance serum"
+msgid_plural "Troglobitic tunnel pain resistance serums"
+msgstr[0] "穴居隧道疼痛抗性血清"
+
+#. ~ Description for {'str': 'Troglobitic tunnel pain resistance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Adapts "
+"your body to be fine with the aches and pains of underground living."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的身體適應地下生活的疼痛與不適。"
+
+#: .\item.json
+msgid "Troglobitic stockiness serum"
+msgid_plural "Troglobitic stockiness serums"
+msgstr[0] "穴居粗壯血清"
+
+#. ~ Description for {'str': 'Troglobitic stockiness serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Shortens "
+"you but converts the mass into muscle, increasing strength but lowering "
+"dexterity."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。縮短你的身高，但將質量轉化為肌肉，增加力量但降低敏捷。"
+
+#: .\item.json
+msgid "Saprovore serum"
+msgid_plural "Saprovore serums"
+msgstr[0] "食腐血清"
+
+#. ~ Description for {'str': 'Saprovore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat rotting food."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你食用腐爛的食物。"
+
+#: .\item.json
+msgid "Saprophage serum"
+msgid_plural "Saprophage serums"
+msgstr[0] "腐食血清"
+
+#. ~ Description for {'str': 'Saprophage serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a metabolic preference to root and photosynthesis-based sustenance and the "
+"occasional rotting food."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你對根莖與光合作用類食物以及偶爾腐爛食物的代謝偏好。"
+
+#: .\item.json
+msgid "Gizzard serum"
+msgid_plural "Gizzard serums"
+msgstr[0] "砂囊血清"
+
+#. ~ Description for {'str': 'Gizzard serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a gizzard, like a bird's."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你類似鳥類的砂囊。"
+
+#: .\item.json
+msgid "Ruminance serum"
+msgid_plural "Ruminance serums"
+msgstr[0] "反芻血清"
+
+#. ~ Description for {'str': 'Ruminance serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat plants like shrubs and bushes directly."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你直接食用灌木和矮樹等植物。"
+
+#: .\item.json
+msgid "Grazer serum"
+msgid_plural "Grazer serums"
+msgstr[0] "食草血清"
+
+#. ~ Description for {'str': 'Grazer serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"capable of eating grass."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你能夠食用草類。"
+
+#: .\item.json
+msgid "Intestinal fortitude serum"
+msgid_plural "Intestinal fortitude serums"
+msgstr[0] "腸道堅韌血清"
+
+#. ~ Description for {'str': 'Intestinal fortitude serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to eat poisonous food."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你食用有毒食物。"
+
+#: .\item.json
+msgid "Eater of the dead serum"
+msgid_plural "Eater of the dead serums"
+msgstr[0] "死者吞噬者血清"
+
+#. ~ Description for {'str': 'Eater of the dead serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. With this "
+"those zombies will be looking like a meal-ticket in no time."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使用後，那些殭屍很快便會成為你的盤中餐。"
+
+#: .\item.json
+msgid "Burrowing serum"
+msgid_plural "Burrowing serums"
+msgstr[0] "掘地者血清"
+
+#. ~ Description for {'str': 'Burrowing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to dig through almost anything with your claws."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能用爪子挖掘幾乎任何東西。"
+
+#: .\item.json
+msgid "Saber teeth serum"
+msgid_plural "Saber teeth serums"
+msgstr[0] "劍齒血清"
+
+#. ~ Description for {'str': 'Saber teeth serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"grow extremely large and incredibly sharp fangs."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出極其巨大且異常鋒利的尖牙。"
+
+#: .\item.json
+msgid "Hyper metabolism serum"
+msgid_plural "Hyper metabolism serums"
+msgstr[0] "超代謝血清"
+
+#. ~ Description for {'str': 'Hyper metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hikes up "
+"your metabolism so much that it allows you to directly convert excess food "
+"into usable tissue for wounds and such."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。大幅提升你的新陳代謝，使你能直接將多餘食物轉化為可用組織，用於癒合傷口等。"
+
+#: .\item.json
+msgid "Horns serum"
+msgid_plural "Horns serums"
+msgstr[0] "犄角血清"
+
+#. ~ Description for {'str': 'Horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"small horns on your head."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你頭上長出小犄角。"
+
+#: .\item.json
+msgid "Curled horns serum"
+msgid_plural "Curled horns serums"
+msgstr[0] "卷角血清"
+
+#. ~ Description for {'str': 'Curled horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"curled horns."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出捲曲的犄角。"
+
+#: .\item.json
+msgid "Pointed horns serum"
+msgid_plural "Pointed horns serums"
+msgstr[0] "尖角血清"
+
+#. ~ Description for {'str': 'Pointed horns serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"pointed horns."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出尖尖的犄角。"
+
+#: .\item.json
+msgid "Antlers serum"
+msgid_plural "Antlers serums"
+msgstr[0] "鹿角血清"
+
+#. ~ Description for {'str': 'Antlers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"antlers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出鹿角。"
+
+#: .\item.json
+msgid "Antennae serum"
+msgid_plural "Antennae serums"
+msgstr[0] "觸角血清"
+
+#. ~ Description for {'str': 'Antennae serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"antennae like an insect."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出類似昆蟲的觸角。"
+
+#: .\item.json
+msgid "Road runner serum"
+msgid_plural "Road runner serums"
+msgstr[0] "疾跑者血清"
+
+#. ~ Description for {'str': 'Road runner serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes you "
+"move a lot faster on flat surfaces."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你在平坦地面上移動得更快。"
+
+#: .\item.json
+msgid "Stubby tail serum"
+msgid_plural "Stubby tail serums"
+msgstr[0] "短粗尾血清"
+
+#. ~ Description for {'str': 'Stubby tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a stubby little tail."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條短粗的小尾巴。"
+
+#: .\item.json
+msgid "Tail fin serum"
+msgid_plural "Tail fin serums"
+msgstr[0] "尾鰭血清"
+
+#. ~ Description for {'str': 'Tail fin serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a tail like that of a shark or fish."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出類似鯊魚或魚類的尾巴。"
+
+#: .\item.json
+msgid "Long tail serum"
+msgid_plural "Long tail serums"
+msgstr[0] "長尾血清"
+
+#. ~ Description for {'str': 'Long tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a cat-like tail."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出貓一樣的尾巴。"
+
+#: .\item.json
+msgid "Cattle tail serum"
+msgid_plural "Cattle tail serums"
+msgstr[0] "牛尾血清"
+
+#. ~ Description for {'str': 'Cattle tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a tail like a cow's."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出像牛一樣的尾巴。"
+
+#: .\item.json
+msgid "Rat tail serum"
+msgid_plural "Rat tail serums"
+msgstr[0] "鼠尾血清"
+
+#. ~ Description for {'str': 'Rat tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long rat-like tail."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出長長的、類似老鼠的尾巴。"
+
+#: .\item.json
+msgid "Thick tail serum"
+msgid_plural "Thick tail serums"
+msgstr[0] "粗尾血清"
+
+#. ~ Description for {'str': 'Thick tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a thick reptilian tail serviceable as a whip."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條粗壯的爬行動物尾巴，可用作鞭子。"
+
+#: .\item.json
+msgid "Raptor tail serum"
+msgid_plural "Raptor tail serums"
+msgstr[0] "迅猛龍尾血清"
+
+#. ~ Description for {'str': 'Raptor tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long and somewhat stiff raptor's tail that helps with balance."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條長而略顯僵硬的迅猛龍尾巴，有助於保持平衡。"
+
+#: .\item.json
+msgid "Fluffy tail serum"
+msgid_plural "Fluffy tail serums"
+msgstr[0] "蓬鬆尾血清"
+
+#. ~ Description for {'str': 'Fluffy tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long and fluffy tail."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條長而蓬鬆的尾巴。"
+
+#: .\item.json
+msgid "Spiked tail serum"
+msgid_plural "Spiked tail serums"
+msgstr[0] "尖刺尾血清"
+
+#. ~ Description for {'str': 'Spiked tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"a long tail with a spike at the end useful for stabbing things."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條末端帶刺的長尾巴，可用於刺擊物體。"
+
+#: .\item.json
+msgid "Club tail serum"
+msgid_plural "Club tail serums"
+msgstr[0] "棍棒尾血清"
+
+#. ~ Description for {'str': 'Club tail serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"tail with a club at its end useful for bashing things."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你長出一條末端帶棍棒的尾巴，可用於猛擊物體。"
+
+#: .\item.json
+msgid "Hibernation serum"
+msgid_plural "Hibernation serums"
+msgstr[0] "冬眠血清"
+
+#. ~ Description for {'str': 'Hibernation serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to store fat and sleep for really long periods of time."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能夠儲存脂肪並長時間睡眠。"
+
+#: .\item.json
+msgid "Resilience serum"
+msgid_plural "Resilience serums"
+msgstr[0] "韌性血清"
+
+#. ~ Description for {'str': 'Resilience serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body more resilient."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的身體更具韌性。"
+
+#: .\item.json
+msgid "Solidly built serum"
+msgid_plural "Solidly built serums"
+msgstr[0] "堅固構造血清"
+
+#. ~ Description for {'str': 'Solidly built serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Makes your"
+" body really resilient."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的身體變得極為堅韌。"
+
+#: .\item.json
+msgid "Tank serum"
+msgid_plural "Tank serums"
+msgstr[0] "坦克血清"
+
+#. ~ Description for {'str': 'Tank serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Might as "
+"well take a few hits for laughs now."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。現在不妨挨幾下打來取樂吧。"
+
+#: .\item.json
+msgid "Pain recovery serum"
+msgid_plural "Pain recovery serums"
+msgstr[0] "疼痛恢復血清"
+
+#. ~ Description for {'str': 'Pain recovery serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to recover from pain faster."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能更快地從疼痛中恢復。"
+
+#: .\item.json
+msgid "Pain junkie serum"
+msgid_plural "Pain junkie serums"
+msgstr[0] "疼痛成癮血清"
+
+#. ~ Description for {'str': 'Pain junkie serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Start to "
+"crave and like pain."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。開始渴望並喜歡疼痛。"
+
+#: .\item.json
+msgid "Cenobite serum"
+msgid_plural "Cenobite serums"
+msgstr[0] "地獄修士血清"
+
+#. ~ Description for {'str': 'Cenobite serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"REALLY like pain."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你會真正地喜歡上疼痛。"
+
+#: .\item.json
+msgid "Deadening serum"
+msgid_plural "Deadening serums"
+msgstr[0] "麻木血清"
+
+#. ~ Description for {'str': 'Deadening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Essentially removes all pain nerves."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。基本上移除了所有痛覺神經。"
+
+#: .\item.json
+msgid "Bird wings serum"
+msgid_plural "Bird wings serums"
+msgstr[0] "鳥翼血清"
+
+#. ~ Description for {'str': 'Bird wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Grows "
+"feathery wings that won't fly but will stop falls form hurting."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。長出羽毛翅膀，雖不能飛行但能防止墜落傷害。"
+
+#: .\item.json
+msgid "Insect wings serum"
+msgid_plural "Insect wings serums"
+msgstr[0] "昆蟲翼血清"
+
+#. ~ Description for {'str': 'Insect wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"membranous wings like a bee or wasp."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你類似蜜蜂或黃蜂的膜狀翅膀。"
+
+#: .\item.json
+msgid "Mouth tentacles serum"
+msgid_plural "Mouth tentacles serums"
+msgstr[0] "口部觸手血清"
+
+#. ~ Description for {'str': 'Mouth tentacles serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"tentacles around your mouth."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你口部長出觸手。"
+
+#: .\item.json
+msgid "Mandibles serum"
+msgid_plural "Mandibles serums"
+msgstr[0] "顎部血清"
+
+#. ~ Description for {'str': 'Mandibles serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. TUrns your"
+" mouth into a system that uses insectoid mandibles."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的嘴部轉變為使用昆蟲狀顎部的系統。"
+
+#: .\item.json
+msgid "Folding fangs serum"
+msgid_plural "Folding fangs serums"
+msgstr[0] "摺疊毒牙血清"
+
+#. ~ Description for {'str': 'Folding fangs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turns "
+"mandibles into spider fangs."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將顎部轉變為蜘蛛毒牙。"
+
+#: .\item.json
+msgid "Canine ears serum"
+msgid_plural "Canine ears serums"
+msgstr[0] "犬耳血清"
+
+#. ~ Description for {'str': 'Canine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"dog ears."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你狗耳朵。"
+
+#: .\item.json
+msgid "Lupine ears serum"
+msgid_plural "Lupine ears serums"
+msgstr[0] "狼耳血清"
+
+#. ~ Description for {'str': 'Lupine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"wolf ears."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你狼耳朵。"
+
+#: .\item.json
+msgid "Feline ears serum"
+msgid_plural "Feline ears serums"
+msgstr[0] "貓耳血清"
+
+#. ~ Description for {'str': 'Feline ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"cat ears."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你貓耳朵。"
+
+#: .\item.json
+msgid "Ursine ears serum"
+msgid_plural "Ursine ears serums"
+msgstr[0] "熊耳血清"
+
+#. ~ Description for {'str': 'Ursine ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"bear ears."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你熊耳朵。"
+
+#: .\item.json
+msgid "Pointed ears serum"
+msgid_plural "Pointed ears serums"
+msgstr[0] "尖耳血清"
+
+#. ~ Description for {'str': 'Pointed ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"elven ears."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你精靈耳朵。"
+
+#: .\item.json
+msgid "Rodent ears serum"
+msgid_plural "Rodent ears serums"
+msgstr[0] "齧齒動物耳血清"
+
+#. ~ Description for {'str': 'Rodent ears serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the ears of a rodent."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你齧齒動物的耳朵。"
+
+#: .\item.json
+msgid "Web walker serum"
+msgid_plural "Web walker serums"
+msgstr[0] "蛛網行者血清"
+
+#. ~ Description for {'str': 'Web walker serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to walk through webs without being slowed."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能在蛛網中行走而不被減速。"
+
+#: .\item.json
+msgid "Web weaver serum"
+msgid_plural "Web weaver serums"
+msgstr[0] "蛛網編織者血清"
+
+#. ~ Description for {'str': 'Web weaver serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gives you "
+"the capabilities to produce your own webbing."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。賦予你生產自身蛛網的能力。"
+
+#: .\item.json
+msgid "Web diver serum"
+msgid_plural "Web diver serums"
+msgstr[0] "蛛網潛行者血清"
+
+#. ~ Description for {'str': 'Web diver serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to use your webs as a way to scale shear drops."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能利用蛛網攀爬陡峭的落差。"
+
+#: .\item.json
+msgid "Rope webs serum"
+msgid_plural "Rope webs serums"
+msgstr[0] "蛛絲繩索血清"
+
+#. ~ Description for {'str': 'Rope webs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to make ropes from your spider silk."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能用蛛絲製作繩索。"
+
+#: .\item.json
+msgid "Arachnitect serum"
+msgid_plural "Arachnitect serums"
+msgstr[0] "蛛網建築師血清"
+
+#. ~ Description for {'str': 'Arachnitect serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to use webs to spin suspended walkways between ledges to span small gaps"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你能用蛛網在壁架間編織懸空走道，以跨越小間隙。"
+
+#: .\item.json
+msgid "Whiskers serum"
+msgid_plural "Whiskers serums"
+msgstr[0] "鬍鬚血清"
+
+#. ~ Description for {'str': 'Whiskers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"gives you feline whiskers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這個突變會賦予你貓科動物的鬍鬚。"
+
+#: .\item.json
+msgid "Wiry whiskers serum"
+msgid_plural "Wiry whiskers serums"
+msgstr[0] "剛硬鬍鬚血清"
+
+#. ~ Description for {'str': 'Wiry whiskers serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"gives you rodent whiskers."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這一款能讓你長出齧齒動物的鬍鬚。"
+
+#: .\item.json
+msgid "Fat deposits serum"
+msgid_plural "Fat deposits serums"
+msgstr[0] "脂肪沉積血清"
+
+#. ~ Description for {'str': 'Fat deposits serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"weight instantly! Fitness nuts hate this!"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。立即增重！健身狂們恨死它了！"
+
+#: .\item.json
+msgid "Enlargening serum"
+msgid_plural "Enlargening serums"
+msgstr[0] "增大血清"
+
+#. ~ Description for {'str': 'Enlargening serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Try this "
+"enlargement serum and get bigger, today! Large Inc. is not responsible for "
+"any lack of growth due to unsupported infratructure."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。試試這款增大血清，今天就變得更大！若因身體基礎不支持而未能生長，Large Inc. 概不負責。"
+
+#: .\item.json
+msgid "Enhugement serum"
+msgid_plural "Enhugement serums"
+msgstr[0] "巨化血清"
+
+#. ~ Description for {'str': 'Enhugement serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"HUUUGE!!! If your body can support it..."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變得巨~~~大！！！如果你的身體能承受的話……"
+
+#: .\item.json
+msgid "Extremely strong serum"
+msgid_plural "Extremely strong serums"
+msgstr[0] "極度強壯血清"
+
+#. ~ Description for {'str': 'Extremely strong serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Dude, "
+"you're ripped!"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。老兄，你肌肉發達！"
+
+#: .\item.json
+msgid "Insanely strong serum"
+msgid_plural "Insanely strong serums"
+msgstr[0] "瘋狂強壯血清"
+
+#. ~ Description for {'str': 'Insanely strong serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Argh! Look"
+" at my bulging muscles!"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。啊！看看我這鼓脹的肌肉！"
+
+#: .\item.json
+msgid "Alpha strength serum"
+msgid_plural "Alpha strength serums"
+msgstr[0] "阿爾法力量血清"
+
+#. ~ Description for {'str': 'Alpha strength serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. It's only "
+"natural that an alpha such as I be this strong."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。像我這樣的阿爾法如此強壯，這是理所當然的。"
+
+#: .\item.json
+msgid "Extremely dextrous serum"
+msgid_plural "Extremely dextrous serums"
+msgstr[0] "極度靈巧血清"
+
+#. ~ Description for {'str': 'Extremely dextrous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You can do"
+" card tricks now."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你現在可以表演紙牌魔術了。"
+
+#: .\item.json
+msgid "Insanely dextrous serum"
+msgid_plural "Insanely dextrous serums"
+msgstr[0] "瘋狂靈巧血清"
+
+#. ~ Description for {'str': 'Insanely dextrous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You can do"
+" that trick with the coin flipping between your knuckles."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你可以在指關節間翻轉硬幣玩把戲了。"
+
+#: .\item.json
+msgid "Alpha dexterity serum"
+msgid_plural "Alpha dexterity serums"
+msgstr[0] "阿爾法靈巧血清"
+
+#. ~ Description for {'str': 'Alpha dexterity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Alphas "
+"ought to be this dextrous, yes."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。阿爾法理應如此靈巧，沒錯。"
+
+#: .\item.json
+msgid "Extremely intelligent serum"
+msgid_plural "Extremely intelligent serums"
+msgstr[0] "極度智慧血清"
+
+#. ~ Description for {'str': 'Extremely intelligent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Deep blue "
+"has no chance against you."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。深藍在你面前毫無勝算。"
+
+#: .\item.json
+msgid "Insanely intelligent serum"
+msgid_plural "Insanely intelligent serums"
+msgstr[0] "瘋狂智慧血清"
+
+#. ~ Description for {'str': 'Insanely intelligent serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You've "
+"passed the singularity."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你已經超越了奇點。"
+
+#: .\item.json
+msgid "Alpha intelligence serum"
+msgid_plural "Alpha intelligence serums"
+msgstr[0] "阿爾法智慧血清"
+
+#. ~ Description for {'str': 'Alpha intelligence serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Non-alphas"
+" are such intellectual plebeians."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。非阿爾法都是些智力平庸之輩。"
+
+#: .\item.json
+msgid "Extremely perceptive serum"
+msgid_plural "Extremely perceptive serums"
+msgstr[0] "極度感知血清"
+
+#. ~ Description for {'str': 'Extremely perceptive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Perceive "
+"most things."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。感知大多數事物。"
+
+#: .\item.json
+msgid "Insanely perceptive serum"
+msgid_plural "Insanely perceptive serums"
+msgstr[0] "瘋狂感知血清"
+
+#. ~ Description for {'str': 'Insanely perceptive serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum, designed to give you a single mutation. Perceive "
+"all there is around you."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。感知你周圍的一切。"
+
+#: .\item.json
+msgid "Alpha perception serum"
+msgid_plural "Alpha perception serums"
+msgstr[0] "阿爾法感知血清"
+
+#. ~ Description for {'str': 'Alpha perception serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Alphas are"
+" able to perceive the smallest of details, of course."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。阿爾法能夠感知最微小的細節，這是理所當然的。"
+
+#: .\item.json
+msgid "Distributed neurology serum"
+msgid_plural "Distributed neurology serums"
+msgstr[0] "分佈式神經學血清"
+
+#. ~ Description for {'str': 'Distributed neurology serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. "
+"Distributes your brain across your slimy body. Become basically one big "
+"brain."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的大腦分佈在你黏滑的身體各處。基本上變成一個大腦袋。"
+
+#: .\item.json
+msgid "Distributed senses serum"
+msgid_plural "Distributed senses serums"
+msgstr[0] "分佈式感官血清"
+
+#. ~ Description for {'str': 'Distributed senses serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"capable of growing and retracting sensory organs at will."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。能夠隨意生長和收縮感覺器官。"
+
+#: .\item.json
+msgid "Tiny serum"
+msgid_plural "Tiny serums"
+msgstr[0] "微型血清"
+
+#. ~ Description for {'str': 'Tiny serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"half your original size."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變成你原始大小的一半。"
+
+#: .\item.json
+msgid "Unassuming serum"
+msgid_plural "Unassuming serums"
+msgstr[0] "低調血清"
+
+#. ~ Description for {'str': 'Unassuming serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Master the"
+" tiny form."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。掌握微小形態。"
+
+#: .\item.json
+msgid "Crafty serum"
+msgid_plural "Crafty serums"
+msgstr[0] "狡猾血清"
+
+#. ~ Description for {'str': 'Crafty serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become as "
+"crafty as a mouse."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變得像老鼠一樣狡猾。"
+
+#: .\item.json
+msgid "Slit nostrils serum"
+msgid_plural "Slit nostrils serums"
+msgstr[0] "狹縫鼻孔血清"
+
+#. ~ Description for {'str': 'Slit nostrils serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Flatten "
+"your nose and gain thin slits for nostrils."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。扁平化你的鼻子，獲得細長的狹縫鼻孔。"
+
+#: .\item.json
+msgid "Forked tongue serum"
+msgid_plural "Forked tongue serums"
+msgstr[0] "分叉舌頭血清"
+
+#. ~ Description for {'str': 'Forked tongue serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"forked tongue."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得分叉的舌頭。"
+
+#: .\item.json
+msgid "Bat wings serum"
+msgid_plural "Bat wings serums"
+msgstr[0] "蝙蝠翅膀血清"
+
+#. ~ Description for {'str': 'Bat wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"pair of leathery wings like that of a bat."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得一對像蝙蝠那樣的皮革翅膀。"
+
+#: .\item.json
+msgid "Butterfly wings serum"
+msgid_plural "Butterfly wings serums"
+msgstr[0] "蝴蝶翅膀血清"
+
+#. ~ Description for {'str': 'Butterfly wings serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"wings of a pretty butterfly."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得漂亮蝴蝶的翅膀。"
+
+#: .\item.json
+msgid "Pale serum"
+msgid_plural "Pale serums"
+msgstr[0] "蒼白血清"
+
+#. ~ Description for {'str': 'Pale serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get pale "
+"skin."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得蒼白的皮膚。"
+
+#: .\item.json
+msgid "Spots serum"
+msgid_plural "Spots serums"
+msgstr[0] "斑點血清"
+
+#. ~ Description for {'str': 'Spots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Becomes "
+"the collection of polkadots you've always wanted to be."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變成你一直想成為的圓點集合體。"
+
+#: .\item.json
+msgid "Beautification serum"
+msgid_plural "Beautification serums"
+msgstr[0] "美化血清"
+
+#. ~ Description for {'str': 'Beautification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"beautiful."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變得美麗。"
+
+#: .\item.json
+msgid "Deluxe beautification serum"
+msgid_plural "Deluxe beautification serums"
+msgstr[0] "豪華美化血清"
+
+#. ~ Description for {'str': 'Deluxe beautification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"very beautiful."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變得非常美麗。"
+
+#: .\item.json
+msgid "Glorification serum"
+msgid_plural "Glorification serums"
+msgstr[0] "榮耀血清"
+
+#. ~ Description for {'str': 'Glorification serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"glorious."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變得榮耀。"
+
+#: .\item.json
+msgid "Snout serum"
+msgid_plural "Snout serums"
+msgstr[0] "口鼻血清"
+
+#. ~ Description for {'str': 'Snout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get a "
+"snout."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得一個口鼻。"
+
+#: .\item.json
+msgid "Bovine snout serum"
+msgid_plural "Bovine snout serums"
+msgstr[0] "牛鼻血清"
+
+#. ~ Description for {'str': 'Bovine snout serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become the"
+" source of cowlicks."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。成為亂髮的源頭。"
+
+#: .\item.json
+msgid "Lupine muzzle serum"
+msgid_plural "Lupine muzzle serums"
+msgstr[0] "狼吻血清"
+
+#. ~ Description for {'str': 'Lupine muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You were "
+"always more of a dog person anyway."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。反正你一直更像是個愛狗人士。"
+
+#: .\item.json
+msgid "Ursine muzzle serum"
+msgid_plural "Ursine muzzle serums"
+msgstr[0] "熊吻血清"
+
+#. ~ Description for {'str': 'Ursine muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Maybe now "
+"you can lick out those honeypots."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。也許現在你可以舔出那些蜜罐了。"
+
+#: .\item.json
+msgid "Rodent muzzle serum"
+msgid_plural "Rodent muzzle serums"
+msgstr[0] "齧齒動物吻部血清"
+
+#. ~ Description for {'str': 'Rodent muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get a rat "
+"face."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得一張鼠臉。"
+
+#: .\item.json
+msgid "Reptilian muzzle serum"
+msgid_plural "Reptilian muzzle serums"
+msgstr[0] "爬行動物吻部血清"
+
+#. ~ Description for {'str': 'Reptilian muzzle serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Reptile "
+"mouth ahoy."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。爬行動物嘴巴來了。"
+
+#: .\item.json
+msgid "Proboscis serum"
+msgid_plural "Proboscis serums"
+msgstr[0] "長鼻血清"
+
+#. ~ Description for {'str': 'Proboscis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Whether "
+"you're more like a fly or a mosquito after this is for you to figure out."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。之後你更像蒼蠅還是蚊子，這得由你自己去弄明白。"
+
+#: .\item.json
+msgid "Hollow bones serum"
+msgid_plural "Hollow bones serums"
+msgstr[0] "空心骨血清"
+
+#. ~ Description for {'str': 'Hollow bones serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hollows "
+"out your bones like a bird's, making you faster but not capable of carrying "
+"a lot."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。像鳥一樣中空你的骨骼，讓你更快但無法攜帶大量物品。"
+
+#: .\item.json
+msgid "Vomitous serum"
+msgid_plural "Vomitous serums"
+msgstr[0] "嘔吐血清"
+
+#. ~ Description for {'str': 'Vomitous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Why anyone"
+" would want to throw up a lot is their business."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。為什麼有人會想頻繁嘔吐是他們自己的事。"
+
+#: .\item.json
+msgid "Persistence hunter serum"
+msgid_plural "Persistence hunter serums"
+msgstr[0] "耐力獵手血清"
+
+#. ~ Description for {'str': 'Persistence hunter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to pursue prey for miles at a variety of paces until they stop from "
+"exhaustion."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你以多種步速追蹤獵物數英里，直到它們因精疲力竭而停下。"
+
+#: .\item.json
+msgid "Extreme persistence hunter serum"
+msgid_plural "Extreme persistence hunter serums"
+msgstr[0] "極限耐力獵手血清"
+
+#. ~ Description for {'str': 'Extreme persistence hunter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Allows you"
+" to pursue prey for days until they literally die from exhaustion."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。允許你追蹤獵物數天，直到它們真的因精疲力竭而死亡。"
+
+#: .\item.json
+msgid "Fast metabolism serum"
+msgid_plural "Fast metabolism serums"
+msgstr[0] "快速新陳代謝血清"
+
+#. ~ Description for {'str': 'Fast metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increases "
+"your metabolic rate, increasing caloric burn and stamina regeneration."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。提高你的新陳代謝率，增加卡路里消耗和耐力恢復。"
+
+#: .\item.json
+msgid "Rapid metabolism serum"
+msgid_plural "Rapid metabolism serums"
+msgstr[0] "急速新陳代謝血清"
+
+#. ~ Description for {'str': 'Rapid metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"require more resources than most, but heal more rapidly."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你將比大多數人需要更多資源，但恢復得更快。"
+
+#: .\item.json
+msgid "Very fast metabolism serum"
+msgid_plural "Very fast metabolism serums"
+msgstr[0] "極快新陳代謝血清"
+
+#. ~ Description for {'str': 'Very fast metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You'll "
+"need to eat a lot but your stamina regeneration isn't anything to sneeze at."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你需要吃很多，但你的耐力恢復能力不容小覷。"
+
+#: .\item.json
+msgid "Extreme metabolism serum"
+msgid_plural "Extreme metabolism serums"
+msgstr[0] "極端新陳代謝血清"
+
+#. ~ Description for {'str': 'Extreme metabolism serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. How you "
+"sustain yourself is anybody's guess but you've got a lot of endurance to "
+"show for it."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。你如何維持自己是任何人的猜測，但你因此擁有了大量耐力。"
+
+#: .\item.json
+msgid "Metabolic rehydration serum"
+msgid_plural "Metabolic rehydration serums"
+msgstr[0] "代謝補水血清"
+
+#. ~ Description for {'str': 'Metabolic rehydration serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"moisture from what you eat and have your hunger and thirst be equal, like "
+"mice."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。從食物中獲取水分，使飢餓與口渴程度持平，如同老鼠一般。"
+
+#: .\item.json
+msgid "Very heavy sleeper serum"
+msgid_plural "Very heavy sleeper serums"
+msgstr[0] "沉睡者血清"
+
+#. ~ Description for {'str': 'Very heavy sleeper serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sleep "
+"through gunfire."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。能在槍聲中酣睡。"
+
+#: .\item.json
+msgid "Webbed extremities serum"
+msgid_plural "Webbed extremities serums"
+msgstr[0] "蹼肢血清"
+
+#. ~ Description for {'str': 'Webbed extremities serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"webbed hands and feet."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得帶蹼的手腳。"
+
+#: .\item.json
+msgid "Paws serum"
+msgid_plural "Paws serums"
+msgstr[0] "爪掌血清"
+
+#. ~ Description for {'str': 'Paws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"hands into quasi-paws."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將雙手轉化為類爪掌。"
+
+#: .\item.json
+msgid "Broad paws serum"
+msgid_plural "Broad paws serums"
+msgstr[0] "寬掌血清"
+
+#. ~ Description for {'str': 'Broad paws serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"hands into large paws that're better at swimming but manula dexteriry and "
+"manipulation is going to be a problem."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將雙手轉化為大型掌蹼，雖更善游泳，但手部靈巧度與精細操作將成為問題。"
+
+#: .\item.json
+msgid "Beak serum"
+msgid_plural "Beak serums"
+msgstr[0] "鳥喙血清"
+
+#. ~ Description for {'str': 'Beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"beak of a bird that'll allow you to peck at things."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得鳥類喙部，可啄擊物體。"
+
+#: .\item.json
+msgid "Woodpecker beak serum"
+msgid_plural "Woodpecker beak serums"
+msgstr[0] "啄木鳥喙血清"
+
+#. ~ Description for {'str': 'Woodpecker beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain the "
+"beak of a woodpecker and peck at enemies all day long."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得啄木鳥喙，可終日啄擊敵人。"
+
+#: .\item.json
+msgid "Hummingbird beak serum"
+msgid_plural "Hummingbird beak serums"
+msgstr[0] "蜂鳥喙血清"
+
+#. ~ Description for {'str': 'Hummingbird beak serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"hummingbird beak, making those flowers look mighty tasty."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得蜂鳥喙，讓花朵看起來格外美味。"
+
+#: .\item.json
+msgid "Radioactivity serum"
+msgid_plural "Radioactivity serums"
+msgstr[0] "放射性血清"
+
+#. ~ Description for {'str': 'Radioactivity serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"slightly radioactive for whatever reason."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。因某種原因變得具有輕微放射性。"
+
+#: .\item.json
+msgid "Slimy serum"
+msgid_plural "Slimy serums"
+msgstr[0] "粘滑血清"
+
+#. ~ Description for {'str': 'Slimy serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Be always "
+"coated in a fine layer of slime."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。體表始終覆蓋一層細膩粘液。"
+
+#: .\item.json
+msgid "Viscous serum"
+msgid_plural "Viscous serums"
+msgstr[0] "粘稠血清"
+
+#. ~ Description for {'str': 'Viscous serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Increase "
+"your body's slime output to be sticky and gel-like"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。增加身體粘液分泌量，使其呈粘稠凝膠狀。"
+
+#: .\item.json
+msgid "Amorphous body serum"
+msgid_plural "Amorphous body serums"
+msgstr[0] "無定形體血清"
+
+#. ~ Description for {'str': 'Amorphous body serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Make your "
+"flesh and pleasing gel-like consistency."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使血肉呈現宜人的凝膠質地。"
+
+#: .\item.json
+msgid "Omnicellular serum"
+msgid_plural "Omnicellular serums"
+msgstr[0] "全細胞血清"
+
+#. ~ Description for {'str': 'Omnicellular serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become one"
+" big cell"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。化為一個巨型細胞。"
+
+#: .\item.json
+msgid "Herbivore serum"
+msgid_plural "Herbivore serums"
+msgstr[0] "草食動物血清"
+
+#. ~ Description for {'str': 'Herbivore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become a "
+"herbivore"
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變為草食動物。"
+
+#: .\item.json
+msgid "Carnivore serum"
+msgid_plural "Carnivore serums"
+msgstr[0] "肉食動物血清"
+
+#. ~ Description for {'str': 'Carnivore serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become a "
+"carnivore."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。變為肉食動物。"
+
+#: .\item.json
+msgid "Vine limbs serum"
+msgid_plural "Vine limbs serums"
+msgstr[0] "藤蔓肢體血清"
+
+#. ~ Description for {'str': 'Vine limbs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain vine-"
+"like limbs to lash at things with or rappel down drops."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得藤蔓般的肢體，用以抽打物體或垂降下落。"
+
+#: .\item.json
+msgid "Vine sprouter serum"
+msgid_plural "Vine sprouter serums"
+msgstr[0] "藤蔓萌發血清"
+
+#. ~ Description for {'str': 'Vine sprouter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain full "
+"control over vine limbs and their detachment."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。完全掌控藤蔓肢體及其脫離。"
+
+#: .\item.json
+msgid "Hair roots serum"
+msgid_plural "Hair roots serums"
+msgstr[0] "髮根血清"
+
+#. ~ Description for {'str': 'Hair roots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Have roots"
+" growing from out of your hair."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的頭髮中長出根鬚。"
+
+#: .\item.json
+msgid "Roots serum"
+msgid_plural "Roots serums"
+msgstr[0] "根鬚血清"
+
+#. ~ Description for {'str': 'Roots serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain roots"
+" for feet."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。為雙腳獲得根鬚。"
+
+#: .\item.json
+msgid "Rooter serum"
+msgid_plural "Rooter serums"
+msgstr[0] "紮根者血清"
+
+#. ~ Description for {'str': 'Rooter serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"better at rooting yourself at the cost of being slower on diggable terrain."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。以在可挖掘地形上移動更慢為代價，變得更能紮根自身。"
+
+#: .\item.json
+msgid "Chloromorphosis serum"
+msgid_plural "Chloromorphosis serums"
+msgstr[0] "葉綠形態血清"
+
+#. ~ Description for {'str': 'Chloromorphosis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sleeping "
+"on diggable soil will satisfy any hunger or thirst you might have."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。睡在可挖掘的土壤上會滿足你可能有的任何飢餓或口渴。"
+
+#: .\item.json
+msgid "Mycorrhizal communion serum"
+msgid_plural "Mycorrhizal communion serums"
+msgstr[0] "菌根共融血清"
+
+#. ~ Description for {'str': 'Mycorrhizal communion serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Talk to "
+"trees like a sane being."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。像個理智的存在一樣與樹木交談。"
+
+#: .\item.json
+msgid "Cold blooded serum"
+msgid_plural "Cold blooded serums"
+msgstr[0] "冷血血清"
+
+#. ~ Description for {'str': 'Cold blooded serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You're "
+"slower the colder it gets but you don't have to eat as much."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。天氣越冷你越慢，但你不必吃那麼多。"
+
+#: .\item.json
+msgid "Ectothermic serum"
+msgid_plural "Ectothermic serums"
+msgstr[0] "外溫血清"
+
+#. ~ Description for {'str': 'Ectothermic serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. You're "
+"even slower the colder it gets but at least your food needs are even lower."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。天氣越冷你越慢，但至少你的食物需求更低。"
+
+#: .\item.json
+msgid "Growling serum"
+msgid_plural "Growling serums"
+msgstr[0] "低吼血清"
+
+#. ~ Description for {'str': 'Growling serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"growl in your voice."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的聲音帶上低吼。"
+
+#: .\item.json
+msgid "Snarling serum"
+msgid_plural "Snarling serums"
+msgstr[0] "咆哮血清"
+
+#. ~ Description for {'str': 'Snarling serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"snarl in your voice."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的聲音帶上咆哮。"
+
+#: .\item.json
+msgid "Hissing serum"
+msgid_plural "Hissing serums"
+msgstr[0] "嘶嘶血清"
+
+#. ~ Description for {'str': 'Hissing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"hiss in your voice."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的聲音帶上嘶嘶聲。"
+
+#: .\item.json
+msgid "Feathered arms serum"
+msgid_plural "Feathered arms serums"
+msgstr[0] "羽臂血清"
+
+#. ~ Description for {'str': 'Feathered arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Get "
+"feathers on your arms. Not much use beyond waterproofing and very minor "
+"protection."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。讓你的手臂長出羽毛。除了防水和提供極微弱的保護外，目前用處不大。"
+
+#: .\item.json
+msgid "Insect arms serum"
+msgid_plural "Insect arms serums"
+msgstr[0] "昆蟲臂血清"
+
+#. ~ Description for {'str': 'Insect arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sprout two"
+" extra insect-like arms. They don't have much use currently."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。長出兩條額外的昆蟲般的手臂。它們目前用處不大。"
+
+#: .\item.json
+msgid "Arachnid arms serum"
+msgid_plural "Arachnid arms serums"
+msgstr[0] "蛛形臂血清"
+
+#. ~ Description for {'str': 'Arachnid arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Sprout "
+"four extra arachnidian arms. They don't have much use currently."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。長出四條額外的蛛形手臂。它們目前用處不大。"
+
+#: .\item.json
+msgid "8 tentacle arms serum"
+msgid_plural "8 tentacle arms serums"
+msgstr[0] "八觸手手臂血清"
+
+#. ~ Description for {'str': '8 tentacle arms serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain 8 "
+"tentacle arms."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得八條觸手手臂。"
+
+#: .\item.json
+msgid "Shell serum"
+msgid_plural "Shell serums"
+msgstr[0] "甲殼血清"
+
+#. ~ Description for {'str': 'Shell serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain a "
+"shell to protect you. Restricts and will destroy torso equipment on growth."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得保護你的甲殼。生長時會限制並摧毀軀幹裝備。"
+
+#: .\item.json
+msgid "Roomy shell serum"
+msgid_plural "Roomy shell serums"
+msgstr[0] "寬敞甲殼血清"
+
+#. ~ Description for {'str': 'Roomy shell serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"shell into one you can sleep in and gain warmth in."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的甲殼轉變為可睡眠並獲取溫暖的類型。"
+
+#: .\item.json
+msgid "Tentacle legs serum"
+msgid_plural "Tentacle legs serums"
+msgstr[0] "觸手腿血清"
+
+#. ~ Description for {'str': 'Tentacle legs serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Swap your "
+"legs for some tentacles."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的雙腿替換為觸手。"
+
+#: .\item.json
+msgid "Tentacle bracing serum"
+msgid_plural "Tentacle bracing serums"
+msgstr[0] "觸手吸盤血清"
+
+#. ~ Description for {'str': 'Tentacle bracing serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Give your "
+"lower tentacles some suckers to keep you in place."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。為你的下肢觸手添加吸盤以保持固定。"
+
+#: .\item.json
+msgid "Feline flexibility serum"
+msgid_plural "Feline flexibility serums"
+msgstr[0] "貓科柔韌血清"
+
+#. ~ Description for {'str': 'Feline flexibility serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. This one "
+"changes your muscles, joints, and the movement center of your brain "
+"internally somewhat, allowing you to traverse obstacles with ease, it also "
+"helps you avoid attacks a bit more easily."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。這會從內部改變你的肌肉、關節和大腦運動中樞，讓你輕鬆穿越障礙，並幫助你更易躲避攻擊。"
+
+#: .\item.json
+msgid "Acidproof serum"
+msgid_plural "Acidproof serums"
+msgstr[0] "抗酸血清"
+
+#. ~ Description for {'str': 'Acidproof serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Make your "
+"flesh immune to acid."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。使你的肉體對酸免疫。"
+
+#: .\item.json
+msgid "Acid blood serum"
+msgid_plural "Acid blood serums"
+msgstr[0] "酸血血清"
+
+#. ~ Description for {'str': 'Acid blood serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Turn your "
+"blood into acid, make them regret hurting you."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。將你的血液轉化為酸，讓傷害你的人後悔。"
+
+#: .\item.json
+msgid "Amphibious serum"
+msgid_plural "Amphibious serums"
+msgstr[0] "兩棲血清"
+
+#. ~ Description for {'str': 'Amphibious serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"amphibiousm comfortable both on land and in water."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。成為兩棲生物，在陸地和水域中皆感舒適。"
+
+#: .\item.json
+msgid "Lidless eyes serum"
+msgid_plural "Lidless eyes serums"
+msgstr[0] "無瞼眼血清"
+
+#. ~ Description for {'str': 'Lidless eyes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Remove "
+"your eyelids and replace them with a see-through membrane."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。移除你的眼瞼，替換為透明薄膜。"
+
+#: .\item.json
+msgid "Aqueous repose serum"
+msgid_plural "Aqueous repose serums"
+msgstr[0] "水中安眠血清"
+
+#. ~ Description for {'str': 'Aqueous repose serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Falling "
+"asleep underwater should be easier now."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。現在在水下入睡應該更容易了。"
+
+#: .\item.json
+msgid "Freshwater osmosis serum"
+msgid_plural "Freshwater osmosis serums"
+msgstr[0] "淡水滲透血清"
+
+#. ~ Description for {'str': 'Freshwater osmosis serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Hydrate "
+"your body by being in water."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。通過身處水中為身體補水。"
+
+#: .\item.json
+msgid "Electroreceptors serum"
+msgid_plural "Electroreceptors serums"
+msgstr[0] "電感受器血清"
+
+#. ~ Description for {'str': 'Electroreceptors serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Become "
+"capable of seeing robots and electric creatures through walls but be weak to"
+" shocks."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得透過牆壁看到機器人和電系生物的能力，但對電擊脆弱。"
+
+#: .\item.json
+msgid "Shark teeth serum"
+msgid_plural "Shark teeth serums"
+msgstr[0] "鯊魚齒血清"
+
+#. ~ Description for {'str': 'Shark teeth serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain sharp"
+" teeth like those of a shark and shed and replace them frequently."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得如鯊魚般鋒利的牙齒，並頻繁脫落和替換。"
+
+#: .\item.json
+msgid "Fast reflexes serum"
+msgid_plural "Fast reflexes serums"
+msgstr[0] "快速反射血清"
+
+#. ~ Description for {'str': 'Fast reflexes serum'}
+#: .\item.json
+msgid ""
+"A special mutagenic serum designed to give you a single mutation. Gain "
+"faster reflexes and improve your dodging."
+msgstr "一種特殊的誘變血清，旨在賦予你單一突變。獲得更快的反射速度並提升閃避能力。"
+
+#: .\modinfo.json
+msgid "Targeted Mutations"
+msgstr "定向突變"
+
+#. ~ Description for Targeted Mutations
+#: .\modinfo.json
+msgid ""
+"Adds the ability to make serums that will give you one specific mutation, as"
+" well as introducing a recipe for making the targeted purifier. I've chosen "
+"to only give a few bad mutations targeted mutation serums, as anyone using "
+"this likely wants to avoid bad mutations like the plague. Does not support "
+"mutations added by other mods, but it's not hard for modders to add the same"
+" sort of thing to their own mod. Post-threshold mutations still require you "
+"to be past its respective threshold, and if you're capable of reaching the "
+"mutation but it's several layers of mutations away you might not get there "
+"in one shot. If used and nothing happens or you get the yearning to be free "
+"message then it means you cannot get it currently or it is post-threshold. "
+"If you want to pass a threshold without risk of other mutations there are "
+"serums for that too but you'll need enough mutations in that line to pass it"
+" regardless. For an easier time of getting the mutations required to pass a "
+"threshold or get more advanced mutations, consult the wiki's mutations page."
+" Compatibility with other mods that modify vanilla mutations is unlikely. As"
+" a little bonus I've snuck in an ability for some wings that didn't before "
+"to slow your fall to safe levels like the bird wings after activating them, "
+"which includes the bat, butterfly, and insect wings."
+msgstr ""
+"新增了製造能賦予你特定突變的血清的能力，並引入了製作定向淨化劑的配方。我選擇只為少數不良突變提供定向突變血清，因為使用此功能的人很可能想避開不良突變，如同躲避瘟疫。不支持其他模組添加的突變，但模組製作者為自己的模組添加類似功能並不困難。閾值後突變仍要求你超越其相應閾值，如果你有能力達到該突變，但它距離你還有幾層突變之遙，你可能無法一次性獲得。如果使用後無事發生或你收到“渴望自由”的消息，則意味著你目前無法獲得它，或者它是閾值後突變。如果你想無風險地跨越閾值，也有相應的血清，但無論如何你都需要該突變線上足夠的突變才能跨越。要更輕鬆地獲得跨越閾值或獲得更高級突變所需的突變，請查閱維基的突變頁面。與修改原版突變的其他模組兼容的可能性不大。作為一個小彩蛋，我悄悄為一些之前不具備此功能的翅膀添加了能力，在激活後能像鳥翼一樣減緩你的下落速度至安全水平，包括蝙蝠、蝴蝶和昆蟲翅膀。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Any"
+msgstr "任何"
+
+#. ~ Mutation class: Any mutagen_message
+#: .\mutation_category.json
+msgid "You feel strange."
+msgstr "你感覺有些奇怪。"
+
+#. ~ Mutation class: Any iv_message
+#: .\mutation_category.json
+msgid "You inject yoursel-arRGH!"
+msgstr "你給自己注射——啊！"
+
+#. ~ Mutation class: Any iv_sleep_message
+#: .\mutation_category.json
+msgid "You writhe and collapse to the ground."
+msgstr "你痛苦地扭動，癱倒在地。"
+
+#. ~ Mutation class: Any iv_sound_message
+#: .\mutation_category.json
+msgid "yourself scream in agony!"
+msgstr "你自己在痛苦中尖叫！"
+
+#. ~ Mutation class: Any junkie_message
+#: .\mutation_category.json
+msgid "You quiver with anticipation..."
+msgstr "你因期待而顫抖……"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Plant"
+msgstr "植物"
+
+#. ~ Mutation class: Plant mutagen_message
+#: .\mutation_category.json
+msgid "You feel much closer to nature."
+msgstr "你感覺與自然親近了許多。"
+
+#. ~ Mutation class: Plant iv_message
+#: .\mutation_category.json
+msgid "You inject some nutrients into your phloem."
+msgstr "你向自己的韌皮部注入了一些養分。"
+
+#. ~ Mutation class: Plant Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Bloomed forth."
+msgstr "綻放而出。"
+
+#. ~ Mutation class: Plant Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Bloomed forth."
+msgstr "綻放而出。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Insect"
+msgstr "昆蟲"
+
+#. ~ Mutation class: Insect mutagen_message
+#: .\mutation_category.json
+msgid "You hear buzzing, and feel your body harden."
+msgstr "你聽到嗡嗡聲，感覺身體變硬了。"
+
+#. ~ Mutation class: Insect iv_message
+#: .\mutation_category.json
+msgid "You sting yourself… for the Queen."
+msgstr "你蜇了自己……為了女王。"
+
+#. ~ Mutation class: Insect Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Metamorphosed."
+msgstr "蛻變完成。"
+
+#. ~ Mutation class: Insect Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Metamorphosed."
+msgstr "蛻變完成。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Spider"
+msgstr "蜘蛛"
+
+#. ~ Mutation class: Spider mutagen_message
+#: .\mutation_category.json
+msgid "You feel insidious."
+msgstr "你感覺陰險狡詐。"
+
+#. ~ Mutation class: Spider iv_message
+#: .\mutation_category.json
+msgid "Mmm… the *special* venom."
+msgstr "嗯……這*特別*的毒液。"
+
+#. ~ Mutation class: Spider Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found a place in the web of life."
+msgstr "在生命之網中找到了自己的位置。"
+
+#. ~ Mutation class: Spider Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found a place in the web of life."
+msgstr "在生命之網中找到了自己的位置。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Slime"
+msgstr "粘液"
+
+#. ~ Mutation class: Slime mutagen_message
+#: .\mutation_category.json
+msgid "Your body loses all rigidity for a moment."
+msgstr "你的身體瞬間失去了所有剛性。"
+
+#. ~ Mutation class: Slime iv_message
+#: .\mutation_category.json
+msgid "This stuff takes you back.  Downright primordial!"
+msgstr "這東西讓你回到了過去。簡直是原始時代！"
+
+#. ~ Mutation class: Slime junkie_message
+#: .\mutation_category.json
+msgid "Maybe if you drank enough, you'd become mutagen..."
+msgstr "也許喝得夠多，你就能變成誘變劑……"
+
+#. ~ Mutation class: Slime Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Gave up on rigid human norms."
+msgstr "放棄了僵化的人類規範。"
+
+#. ~ Mutation class: Slime Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Gave up on rigid human norms."
+msgstr "放棄了僵化的人類規範。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Fish"
+msgstr "魚類"
+
+#. ~ Mutation class: Fish mutagen_message
+#: .\mutation_category.json
+msgid "You are overcome by an overwhelming longing for the ocean."
+msgstr "你被一種對海洋的強烈渴望所淹沒。"
+
+#. ~ Mutation class: Fish iv_message
+#: .\mutation_category.json
+msgid "Your pulse pounds as the waves."
+msgstr "你的脈搏如海浪般澎湃。"
+
+#. ~ Mutation class: Fish Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Went deep."
+msgstr "深入其中。"
+
+#. ~ Mutation class: Fish Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Went deep."
+msgstr "深入其中。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Rat"
+msgstr "鼠類"
+
+#. ~ Mutation class: Rat mutagen_message
+#: .\mutation_category.json
+msgid "You feel a momentary nausea."
+msgstr "你感到一陣短暫的噁心。"
+
+#. ~ Mutation class: Rat iv_message
+#: .\mutation_category.json
+msgid "You squeak as the shot hits you."
+msgstr "被擊中時你發出一聲尖叫。"
+
+#. ~ Mutation class: Rat iv_sound_message
+#: .\mutation_category.json
+msgid "eep!"
+msgstr "哎呀！"
+
+#. ~ Mutation class: Rat Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found that survival *is* everything."
+msgstr "發現生存*就是*一切。"
+
+#. ~ Mutation class: Rat Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found that survival *is* everything."
+msgstr "發現生存*就是*一切。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Beast"
+msgstr "野獸"
+
+#. ~ Mutation class: Beast mutagen_message
+#: .\mutation_category.json
+msgid "Your heart races and you see blood for a moment."
+msgstr "你的心跳加速，眼前瞬間閃過血色。"
+
+#. ~ Mutation class: Beast iv_message
+#: .\mutation_category.json
+msgid "Your heart races wildly as the injection takes hold."
+msgstr "注射生效時，你的心臟狂跳不止。"
+
+#. ~ Mutation class: Beast Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Embraced his bestial nature."
+msgstr "擁抱了他的獸性本質。"
+
+#. ~ Mutation class: Beast Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Embraced his bestial nature."
+msgstr "擁抱了他的獸性本質。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Bear"
+msgstr "熊"
+
+#. ~ Mutation class: Bear mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to… patrol?  the forests?"
+msgstr "你感到一股衝動想要……巡邏？森林？"
+
+#. ~ Mutation class: Bear iv_message
+#: .\mutation_category.json
+msgid "You feel yourself quite equipped for wilderness survival."
+msgstr "你感覺自己已充分準備好應對野外生存。"
+
+#. ~ Mutation class: Bear Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Became one with the bears."
+msgstr "與熊合為一體。"
+
+#. ~ Mutation class: Bear Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Became one with the bears."
+msgstr "與熊合為一體。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Feline"
+msgstr "貓科"
+
+#. ~ Mutation class: Feline mutagen_message
+#: .\mutation_category.json
+msgid "As you lap up the last of the mutagen, you wonder why..."
+msgstr "當你舔舐完最後一點誘變劑時，你不禁疑惑為何……"
+
+#. ~ Mutation class: Feline iv_message
+#: .\mutation_category.json
+msgid "Your back arches as the mutagen takes hold."
+msgstr "誘變劑生效時，你的背部弓起。"
+
+#. ~ Mutation class: Feline Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Realized the dream."
+msgstr "實現了夢想。"
+
+#. ~ Mutation class: Feline Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Realized the dream."
+msgstr "實現了夢想。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Wolf"
+msgstr "狼"
+
+#. ~ Mutation class: Wolf mutagen_message
+#: .\mutation_category.json
+msgid "You feel an urge to mark your territory.  But then it passes."
+msgstr "你感到一股標記領地的衝動。但隨後它便消退了。"
+
+#. ~ Mutation class: Wolf iv_message
+#: .\mutation_category.json
+msgid "As the mutagen hits you, your ears twitch and you stifle a yipe."
+msgstr "誘變劑擊中你時，你的耳朵抽動了一下，強忍住一聲驚叫。"
+
+#. ~ Mutation class: Wolf Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Wolfed out."
+msgstr "狼性爆發。"
+
+#. ~ Mutation class: Wolf Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Wolfed out."
+msgstr "狼性爆發。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Cattle"
+msgstr "牛"
+
+#. ~ Mutation class: Cattle mutagen_message
+#: .\mutation_category.json
+msgid "Your mind and body slow down.  You feel peaceful."
+msgstr "你的思維和身體都慢了下來。你感到平靜。"
+
+#. ~ Mutation class: Cattle iv_message
+#: .\mutation_category.json
+msgid "You wonder if this is what rBGH feels like..."
+msgstr "你想知道這是否就是rBGH的感覺……"
+
+#. ~ Mutation class: Cattle Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Stopped worrying and learned to love the cowbell."
+msgstr "不再憂慮，學會了愛上牛鈴。"
+
+#. ~ Mutation class: Cattle Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Stopped worrying and learned to love the cowbell."
+msgstr "不再憂慮，學會了愛上牛鈴。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Cephalopod"
+msgstr "頭足類"
+
+#. ~ Mutation class: Cephalopod mutagen_message
+#: .\mutation_category.json
+msgid ""
+"Your mind is overcome by images of eldritch horrors… and then they pass."
+msgstr "你的腦海被遠古恐怖的景象淹沒……隨後它們便消散了。"
+
+#. ~ Mutation class: Cephalopod iv_message
+#: .\mutation_category.json
+msgid ""
+"You watch the mutagen flow through a maze of little twisty passages.  All "
+"the same."
+msgstr "你看著誘變劑流過迷宮般蜿蜒曲折的通道。全都一模一樣。"
+
+#. ~ Mutation class: Cephalopod Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Began living the dreams."
+msgstr "開始活在夢境之中。"
+
+#. ~ Mutation class: Cephalopod Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Began living the dreams."
+msgstr "開始活在夢境之中。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Bird"
+msgstr "鳥"
+
+#. ~ Mutation class: Bird mutagen_message
+#: .\mutation_category.json
+msgid "Your body lightens and you long for the sky."
+msgstr "你的身體變得輕盈，渴望飛向天空。"
+
+#. ~ Mutation class: Bird iv_message
+#: .\mutation_category.json
+msgid "Your arms spasm in an oddly wavelike motion."
+msgstr "你的手臂以一種奇特的波浪狀動作痙攣。"
+
+#. ~ Mutation class: Bird Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Broke free of humanity."
+msgstr "掙脫了人性的束縛。"
+
+#. ~ Mutation class: Bird Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Broke free of humanity."
+msgstr "掙脫了人性的束縛。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Lizard"
+msgstr "蜥蜴"
+
+#. ~ Mutation class: Lizard mutagen_message
+#: .\mutation_category.json
+msgid "For a heartbeat, your blood cools down."
+msgstr "心跳之間，你的血液冷卻下來。"
+
+#. ~ Mutation class: Lizard iv_message
+#: .\mutation_category.json
+msgid "Your blood cools down.  The feeling is… different."
+msgstr "你的血液冷卻下來。這種感覺……很不一樣。"
+
+#. ~ Mutation class: Lizard Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Shed the ugly human skin."
+msgstr "蛻去了醜陋的人類皮膚。"
+
+#. ~ Mutation class: Lizard Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Shed the ugly human skin."
+msgstr "蛻去了醜陋的人類皮膚。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Troglobite"
+msgstr "穴居生物"
+
+#. ~ Mutation class: Troglobite mutagen_message
+#: .\mutation_category.json
+msgid "You yearn for a cool, dark place to hide."
+msgstr "你渴望一個涼爽、黑暗的地方躲藏。"
+
+#. ~ Mutation class: Troglobite iv_message
+#: .\mutation_category.json
+msgid "As you press the plunger, it all goes so bright..."
+msgstr "當你按下注射器時，一切都變得如此明亮……"
+
+#. ~ Mutation class: Troglobite Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Adapted to underground living."
+msgstr "適應了地下生活。"
+
+#. ~ Mutation class: Troglobite Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Adapted to underground living."
+msgstr "適應了地下生活。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Alpha"
+msgstr "阿爾法"
+
+#. ~ Mutation class: Alpha mutagen_message
+#: .\mutation_category.json
+msgid "You feel… better.  Somehow."
+msgstr "你感覺……好多了。不知怎的。"
+
+#. ~ Mutation class: Alpha iv_message
+#: .\mutation_category.json
+msgid "You took that shot like a champ!"
+msgstr "你像個冠軍一樣承受了那一針！"
+
+#. ~ Mutation class: Alpha Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Started representing."
+msgstr "開始展現代表。"
+
+#. ~ Mutation class: Alpha Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Started representing."
+msgstr "開始展現代表。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Medical"
+msgstr "醫療"
+
+#. ~ Mutation class: Medical mutagen_message
+#: .\mutation_category.json
+msgid ""
+"You can feel the blood rushing through your veins and a strange, medicated "
+"feeling washes over your senses."
+msgstr "你能感覺到血液在血管中奔湧，一種奇怪的、藥物般的感覺沖刷著你的感官。"
+
+#. ~ Mutation class: Medical iv_message
+#: .\mutation_category.json
+msgid ""
+"You can feel the blood in your medication stream.  It's a strange feeling."
+msgstr "你能感覺到藥物流中的血液。這是一種奇怪的感覺。"
+
+#. ~ Mutation class: Medical junkie_message
+#: .\mutation_category.json
+msgid "Ahh, there it is.  You can feel the mutagen again."
+msgstr "啊，就是它。你又能感覺到誘變劑了。"
+
+#. ~ Mutation class: Medical Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Resumed clinical trials."
+msgstr "恢復了臨床試驗。"
+
+#. ~ Mutation class: Medical Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Resumed clinical trials."
+msgstr "恢復了臨床試驗。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Chimera"
+msgstr "奇美拉"
+
+#. ~ Mutation class: Chimera mutagen_message
+#: .\mutation_category.json
+msgid "You need to roar, bask, bite, and flap.  NOW."
+msgstr "你需要咆哮、沐浴、撕咬和拍打。就現在。"
+
+#. ~ Mutation class: Chimera iv_message
+#: .\mutation_category.json
+msgid "everyanimalthateverlived.bursting.from.YOU!"
+msgstr "everyanimalthateverlived.bursting.from.YOU！"
+
+#. ~ Mutation class: Chimera iv_sleep_message
+#: .\mutation_category.json
+msgid "With a final *pop*, you go out like a light."
+msgstr "隨著最後一聲*噗*，你像燈一樣熄滅了。"
+
+#. ~ Mutation class: Chimera iv_sound_message
+#: .\mutation_category.json
+msgid "yourself roar in agony!"
+msgstr "你自己在痛苦中咆哮！"
+
+#. ~ Mutation class: Chimera Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "United disunity."
+msgstr "統一的分裂。"
+
+#. ~ Mutation class: Chimera Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "United disunity."
+msgstr "統一的分裂。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Fey"
+msgstr "精靈"
+
+#. ~ Mutation class: Fey mutagen_message
+#: .\mutation_category.json
+msgid "Nature is becoming one with you..."
+msgstr "自然正與你融為一體……"
+
+#. ~ Mutation class: Fey iv_message
+#: .\mutation_category.json
+msgid "Everything goes green for a second."
+msgstr "有那麼一瞬間，一切都變成了綠色。"
+
+#. ~ Mutation class: Fey iv_sleep_message
+#: .\mutation_category.json
+msgid "It's painfully beautiful..."
+msgstr "這美麗得令人痛苦……"
+
+#. ~ Mutation class: Fey Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Accepted a more natural way of life."
+msgstr "接受了一種更自然的生活方式。"
+
+#. ~ Mutation class: Fey Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Accepted a more natural way of life."
+msgstr "接受了一種更自然的生活方式。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Raptor"
+msgstr "迅猛龍"
+
+#. ~ Mutation class: Raptor mutagen_message
+#: .\mutation_category.json
+msgid "Mmm… sweet, bloody flavor… tastes like victory."
+msgstr "嗯……甜美、血腥的味道……嚐起來像勝利。"
+
+#. ~ Mutation class: Raptor iv_message
+#: .\mutation_category.json
+msgid ""
+"You distinctly smell the mutagen mixing with your blood… and then it passes."
+msgstr "你清晰地聞到誘變劑與血液混合的味道……隨後這種感覺便消退了。"
+
+#. ~ Mutation class: Raptor Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Hatched."
+msgstr "已孵化。"
+
+#. ~ Mutation class: Raptor Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Hatched."
+msgstr "已孵化。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "Mouse"
+msgstr "鼠類"
+
+#. ~ Mutation class: Mouse mutagen_message
+#: .\mutation_category.json
+msgid "You feel a desire to curl up in a nice, warm pile of… shredded paper."
+msgstr "你渴望蜷縮在一堆舒適溫暖的……碎紙屑裡。"
+
+#. ~ Mutation class: Mouse iv_message
+#: .\mutation_category.json
+msgid "You feel… small.  But comfortable."
+msgstr "你感到……渺小，但卻很舒適。"
+
+#. ~ Mutation class: Mouse Male memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_male"
+msgid "Found the cheese."
+msgstr "找到了奶酪。"
+
+#. ~ Mutation class: Mouse Female memorial messsage
+#: .\mutation_category.json
+msgctxt "memorial_female"
+msgid "Found the cheese."
+msgstr "找到了奶酪。"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fleet"
+msgstr "迅捷"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum0"
+msgstr "生物發光0"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum1"
+msgstr "生物發光1"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "biolum2"
+msgstr "生物發光2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodhearing"
+msgstr "良好聽力"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feyhearing"
+msgstr "敏銳聽力"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodcardio"
+msgstr "良好心肺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "goodcardio2"
+msgstr "良好心肺2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "quick"
+msgstr "迅捷"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fasthealer"
+msgstr "快速癒合"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lighteater"
+msgstr "食量小"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "easysleeper"
+msgstr "易入睡"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "easysleeper2"
+msgstr "易入睡2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pain resist"
+msgstr "疼痛抵抗"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision"
+msgstr "夜視"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisresist"
+msgstr "毒素抵抗"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bovine_bulk"
+msgstr "牛類體格"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bovine_bulk2"
+msgstr "牛類體格2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough"
+msgstr "堅韌"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough2"
+msgstr "堅韌2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tough3"
+msgstr "堅韌3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thickskin"
+msgstr "厚皮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strongstomach"
+msgstr "強健腸胃"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "deft"
+msgstr "靈巧"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tolerance"
+msgstr "耐受性"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gourmand"
+msgstr "美食家"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nonaddictive"
+msgstr "非成癮性"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "animalempath"
+msgstr "動物共情"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "animalempath2"
+msgstr "動物共情2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "terrifying"
+msgstr "恐怖"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "disresistant"
+msgstr "抗病性"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "adrenaline"
+msgstr "腎上腺素"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful"
+msgstr "清醒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "selfaware"
+msgstr "自我意識"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "masochist"
+msgstr "受虐狂"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lightstep"
+msgstr "輕步"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "robust"
+msgstr "強健"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eagleeyed"
+msgstr "鷹眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "cannibal"
+msgstr "食人者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "psychopath"
+msgstr "精神病患者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "killer"
+msgstr "殺手"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "weakscent"
+msgstr "弱氣味"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pretty"
+msgstr "漂亮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "heavysleeper"
+msgstr "沉睡者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "albino"
+msgstr "白化病"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "skin_rough"
+msgstr "皮膚粗糙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision2"
+msgstr "夜視2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nightvision3"
+msgstr "夜視3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ceph_eyes"
+msgstr "頭足類眼睛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "elfaeyes"
+msgstr "精靈眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fel_eye"
+msgstr "貓眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bird_eye"
+msgstr "鳥眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "infrared"
+msgstr "紅外視覺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "liz_eye"
+msgstr "蜥蜴眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "liz_ir"
+msgstr "蜥蜴紅外視覺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fasthealer2"
+msgstr "快速癒合2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "regen"
+msgstr "再生"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "regen_liz"
+msgstr "蜥蜴再生"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful2"
+msgstr "警覺2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wakeful3"
+msgstr "警覺3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fangs"
+msgstr "尖牙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "incisors"
+msgstr "門齒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "membrane"
+msgstr "膜"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gills"
+msgstr "鰓"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gills_ceph"
+msgstr "頭足類鰓"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "scales"
+msgstr "鱗片"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thick_scales"
+msgstr "厚鱗"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "sleek_scales"
+msgstr "光滑鱗片"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "light_bones"
+msgstr "輕骨"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feathers"
+msgstr "羽毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "down"
+msgstr "絨毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lightfur"
+msgstr "輕毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fur"
+msgstr "毛皮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ursine_fur"
+msgstr "熊毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lupine_fur"
+msgstr "狼毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_fur"
+msgstr "貓毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lynx_fur"
+msgstr "猞猁毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "patchskin1"
+msgstr "斑駁皮膚1"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "patchskin2"
+msgstr "斑駁皮膚2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin"
+msgstr "甲殼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin2"
+msgstr "甲殼2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin3"
+msgstr "甲殼3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur"
+msgstr "甲殼毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur2"
+msgstr "甲殼毛2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chitin_fur3"
+msgstr "幾丁質皮毛3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ch_hair"
+msgstr "幾丁質毛髮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "spines"
+msgstr "棘刺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "quills"
+msgstr "剛毛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "barbs"
+msgstr "倒刺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "plantskin"
+msgstr "植物皮膚"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bark"
+msgstr "樹皮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "thorns"
+msgstr "荊棘"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves"
+msgstr "葉片"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves2"
+msgstr "葉片2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leaves3"
+msgstr "葉片3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "transpiration"
+msgstr "蒸騰作用"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "flowers"
+msgstr "花朵"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "rosebuds"
+msgstr "玫瑰花蕾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nails"
+msgstr "指甲"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws"
+msgstr "利爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_rat"
+msgstr "鼠爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_st"
+msgstr "利爪_短"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_retract"
+msgstr "利爪_可伸縮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "claws_tentacle"
+msgstr "觸手利爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ink_glands"
+msgstr "墨腺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "insect_reservoir"
+msgstr "昆蟲儲囊"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "talons"
+msgstr "猛禽爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "radiogenic"
+msgstr "輻射源"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pheromone_insect"
+msgstr "昆蟲信息素"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pheromone_mammal"
+msgstr "哺乳動物信息素"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "disimmune"
+msgstr "免疫失效"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "infresist"
+msgstr "感染抗性"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paraimmune"
+msgstr "副免疫"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisonous"
+msgstr "劇毒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "poisonous2"
+msgstr "劇毒2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slime_hands"
+msgstr "黏液之手"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "bendy1"
+msgstr "柔韌1"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "BENDY2"
+msgstr "柔韌2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "BENDY3"
+msgstr "柔韌3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "compunds_eyes"
+msgstr "複眼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "padded_feet"
+msgstr "軟墊足"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strong_legs"
+msgstr "強健腿部"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "rap_talons"
+msgstr "猛禽利爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hooves"
+msgstr "蹄足"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "alcmet"
+msgstr "酒精代謝"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "painresist_troglo"
+msgstr "穴居人痛覺抵抗"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "stocky_troglo"
+msgstr "矮壯穴居人"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "saprovore"
+msgstr "腐食者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "SAPROPHAGE"
+msgstr "腐食吞噬"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "gizzard"
+msgstr "砂囊"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ruminant"
+msgstr "反芻動物"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eatpoison"
+msgstr "食毒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eatdead"
+msgstr "食屍"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "burrow"
+msgstr "掘洞"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "saber_teeth"
+msgstr "劍齒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "eathealth"
+msgstr "食愈"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns"
+msgstr "犄角"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns_curled"
+msgstr "捲曲犄角"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "horns_pointed"
+msgstr "尖刺犄角"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "antlers"
+msgstr "鹿角"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "antennae"
+msgstr "觸角"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fleet2"
+msgstr "迅捷2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_stub"
+msgstr "短尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_fin"
+msgstr "鰭尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_long"
+msgstr "長尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_cattle"
+msgstr "牛尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_rat"
+msgstr "鼠尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_thick"
+msgstr "粗尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_raptor"
+msgstr "猛禽尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_fluffy"
+msgstr "蓬鬆尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_sting"
+msgstr "刺尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tail_club"
+msgstr "棍棒尾"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hibernate"
+msgstr "冬眠"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mut_tough2"
+msgstr "堅韌突變2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mut_tough3"
+msgstr "堅韌突變3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "painrec1"
+msgstr "疼痛感知1"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "masochist_med"
+msgstr "中度受虐狂"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "cenobite"
+msgstr "苦修者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "nopain"
+msgstr "無痛"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_bird"
+msgstr "鳥類翅膀"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_insect"
+msgstr "昆蟲翅膀"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mouth_tentacles"
+msgstr "觸手口器"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mandibles"
+msgstr "顎肢"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fangs_spider"
+msgstr "蜘蛛毒牙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "canine_ears"
+msgstr "犬耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "lupine_ears"
+msgstr "狼耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_ears"
+msgstr "貓耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "ursine_ears"
+msgstr "熊耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "elfa_ears"
+msgstr "精靈耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "mouse_ears"
+msgstr "鼠耳"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_walker"
+msgstr "蛛網行者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_spinner"
+msgstr "蛛網紡絲者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_weaver"
+msgstr "蛛網編織者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_rappel"
+msgstr "蛛網垂降者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_rope"
+msgstr "蛛絲繩"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "web_bridge"
+msgstr "蛛絲橋"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "whiskers"
+msgstr "觸鬚"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "whiskers_rat"
+msgstr "鼠須"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "fat"
+msgstr "肥胖"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "large_ok"
+msgstr "大體型"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "huge_ok"
+msgstr "巨型"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_up_3"
+msgstr "力量提升3級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_up_4"
+msgstr "力量提升4級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "str_alpha"
+msgstr "阿爾法力量"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_up_3"
+msgstr "敏捷提升3級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_up_4"
+msgstr "敏捷提升4級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "dex_alpha"
+msgstr "阿爾法敏捷"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_up_3"
+msgstr "智力提升3級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_up_4"
+msgstr "智力提升4級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "int_alpha"
+msgstr "阿爾法智力"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_up_3"
+msgstr "感知提升3級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_up_4"
+msgstr "感知提升4級"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "per_alpha"
+msgstr "阿爾法感知"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "small"
+msgstr "小型"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "small_ok"
+msgstr "小體型"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "crafty"
+msgstr "靈巧"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slit_nostrils"
+msgstr "狹長鼻孔"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "forked_tongue"
+msgstr "分叉舌頭"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_bat"
+msgstr "蝙蝠翅膀"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "wings_butterfly"
+msgstr "蝴蝶翅膀"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "pale"
+msgstr "蒼白"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "spots"
+msgstr "斑點"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful"
+msgstr "美麗"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful2"
+msgstr "美麗2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beautiful3"
+msgstr "美麗3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "snout"
+msgstr "口鼻部"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "minotaur"
+msgstr "牛頭怪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle"
+msgstr "槍口"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_bear"
+msgstr "熊吻"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_rat"
+msgstr "鼠吻"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "muzzle_long"
+msgstr "長吻"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "proboscis"
+msgstr "長鼻"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hollow_bones"
+msgstr "中空骨骼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vomitous"
+msgstr "嘔吐傾向"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "persistence_hunter"
+msgstr "持久獵手"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "persistence_hunter2"
+msgstr "持久獵手2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger"
+msgstr "飢餓"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "met_rat"
+msgstr "遇見老鼠"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger2"
+msgstr "飢餓2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hunger3"
+msgstr "飢餓3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "no_thirst"
+msgstr "無渴感"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "HEAVYSLEEPER2"
+msgstr "沉睡者2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "webbed"
+msgstr "蹼狀"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paws"
+msgstr "爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "paws_large"
+msgstr "巨爪"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak"
+msgstr "喙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak_peck"
+msgstr "啄喙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "beak_hum"
+msgstr "嗡鳴喙"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "radioactive"
+msgstr "放射性"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slimy"
+msgstr "粘滑"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "viscous"
+msgstr "粘稠"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "amorphous"
+msgstr "無定形"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "slimespawner"
+msgstr "粘液生成者"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "herbivore"
+msgstr "草食動物"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "carnivore"
+msgstr "肉食動物"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vines2"
+msgstr "藤蔓2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "vines3"
+msgstr "藤蔓3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hairroots"
+msgstr "髮根"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "roots2"
+msgstr "根鬚2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "roots3"
+msgstr "根鬚3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "chloromorph"
+msgstr "葉綠形態"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "tree_communion"
+msgstr "樹木共鳴"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "coldblood3"
+msgstr "冷血3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "coldblood4"
+msgstr "冷血4"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "growl"
+msgstr "低吼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "snarl"
+msgstr "咆哮"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "hiss"
+msgstr "嘶嘶聲"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shout1"
+msgstr "呼喊1"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shout3"
+msgstr "呼喊3"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arm_feathers"
+msgstr "臂羽"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "insect_arms_ok"
+msgstr "昆蟲手臂_正常"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arachnid_arms_ok"
+msgstr "蛛形手臂_正常"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "arm_tentacles_8"
+msgstr "手臂觸鬚_8"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shell"
+msgstr "甲殼"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "shell2"
+msgstr "甲殼2"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leg_tentacles"
+msgstr "腿部觸鬚"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "leg_tent_brace"
+msgstr "腿部觸鬚支撐"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "feline_flexibility"
+msgstr "貓科柔韌"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "acidproof"
+msgstr "耐酸"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "acidblood"
+msgstr "酸血"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "amphibian"
+msgstr "兩棲"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "seesleep"
+msgstr "睡眠視覺"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "watersleep"
+msgstr "水中睡眠"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "toxicflesh"
+msgstr "劇毒血肉"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "freshwaterosmosis"
+msgstr "淡水滲透"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "electroreceptors"
+msgstr "電感受器"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "sharkteeth"
+msgstr "鯊魚齒"
+
+#. ~ Mutation class name
+#: .\mutation_category.json
+msgid "strongback"
+msgstr "強韌背脊"

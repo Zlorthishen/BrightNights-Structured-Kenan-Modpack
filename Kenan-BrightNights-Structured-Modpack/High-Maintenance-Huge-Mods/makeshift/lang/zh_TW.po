@@ -1,0 +1,63 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: makeshift\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\item.json
+msgid "makeshift Kevlar vest"
+msgid_plural "makeshift Kevlar vests"
+msgstr[0] "臨時凱夫拉背心"
+
+#. ~ Description for {'str': 'makeshift Kevlar vest'}
+#: .\item.json
+msgid ""
+"A vest sewn together from Kevlar plates, less durable and protective than a "
+"proper Kevlar vest.  Suitable for wearing under clothing."
+msgstr "由凱夫拉板縫製而成的背心，耐用性和防護性不如正規凱夫拉背心。適合穿在衣服裡面。"
+
+#: .\item.json
+msgid "makeshift pistol bayonet"
+msgid_plural "makeshift pistol bayonets"
+msgstr[0] "臨時手槍刺刀"
+
+#: .\item.json
+msgid ""
+"A makeshift version of a bayonet meant for a pistol that consists of a mere "
+"spike with some string.  It still makes a decent melee weapon in a pinch "
+"when attached to a pistol."
+msgstr "手槍用臨時刺刀，僅由一根尖刺和一些繩子組成。當安裝在手槍上時，緊急情況下仍可作為不錯的近戰武器。"
+
+#: .\item.json
+msgid "makeshift sword bayonet"
+msgid_plural "makeshift sword bayonets"
+msgstr[0] "臨時劍式刺刀"
+
+#: .\item.json
+msgid ""
+"A makeshift version of a sword bayonet that consists of a salvaged blade "
+"with some string.  It still makes a good melee weapon providing reach "
+"attacks when attached to long arm or crossbow."
+msgstr "臨時劍式刺刀，由回收的刀片和一些繩子製成。當安裝在長槍或弩上時，仍可作為提供遠程攻擊的良好近戰武器。"
+
+#: .\modinfo.json
+msgid "Makeshift Items Mod"
+msgstr "臨時物品模組"
+
+#. ~ Description for Makeshift Items Mod
+#: .\modinfo.json
+msgid "Adds more improvised item variants and rebalances existing ones."
+msgstr "添加更多臨時物品變體並重新平衡現有物品。"

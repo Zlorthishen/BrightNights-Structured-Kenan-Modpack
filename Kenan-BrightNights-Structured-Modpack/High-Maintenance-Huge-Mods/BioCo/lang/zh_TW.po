@@ -1,0 +1,559 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: bioco\n"
+"POT-Creation-Date: 2026-03-14 05:22+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\bionics.json
+msgid "Fire Extinguisher"
+msgstr "滅火器"
+
+#. ~ Description for {'str': 'Fire Extinguisher'}
+#: .\bionics.json
+msgid ""
+"A small, retractable launcher resides in the palm of your hand through your "
+"arm. The system will automatically produce small gelatinous orbs that when "
+"launched into fire will rapidly expand into a fire fighting foam. "
+msgstr "一個可伸縮的小型發射器通過你的手臂置於掌心。該系統會自動產生小型凝膠球體，發射到火中時會迅速膨脹成滅火泡沫。"
+
+#: .\modinfo.json
+msgid "BioCo Content"
+msgstr "BioCo 內容"
+
+#. ~ Description for BioCo Content
+#: .\modinfo.json
+msgid "Adds many bionic centric items, curtosey of BioCo"
+msgstr "添加許多以仿生學為核心的物品，由BioCo提供。"
+
+#: .\tool_qualities.json .\items\tool_qualities.json
+msgid "Bionic Assembly"
+msgstr "仿生組裝"
+
+#: .\tool_qualities.json
+msgid "BioCo Chemical Making"
+msgstr "BioCo化學制造"
+
+#: .\construction\construction_group.json
+msgid "Build BioCo Assembly Machine"
+msgstr "建造BioCo組裝機"
+
+#: .\construction\construction_group.json
+msgid "Build BioCo Chemical Engine"
+msgstr "建造BioCo化學引擎"
+
+#: .\construction\furniture.json
+msgid ""
+"A assembly machine capable of producing BioCo Tech given the correct "
+"software."
+msgstr "一臺能夠生產BioCo技術的組裝機，前提是擁有正確的軟件。"
+
+#: .\construction\furniture.json
+msgid ""
+"A BioCo manufacturing device for various chemical components and medicines."
+msgstr "一種BioCo製造設備，用於生產各種化學組分和藥物。"
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Healing"
+msgstr "XE037癒合"
+
+#. ~ Description of effect 'XE037 Healing'.
+#: .\effects\medicine_effects.json
+msgid "Flesh stiching itself together is never a fun time. Testing."
+msgstr "肉體自行縫合從來都不是什麼愉快的體驗。測試中。"
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Rapid Healing"
+msgstr "XE037快速癒合"
+
+#. ~ Description of effect 'XE037 Rapid Healing'.
+#: .\effects\medicine_effects.json
+msgid "The ache of your muscles and bones mending temselves grows."
+msgstr "肌肉和骨骼自我修復的疼痛感加劇了。"
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Cell Breakdown"
+msgstr "XE037細胞崩解"
+
+#. ~ Description of effect 'XE037 Cell Breakdown'.
+#: .\effects\medicine_effects.json
+msgid ""
+"Liquified flesh stings as your bone heats. Anymore XE037 is a gamble with "
+"death himself."
+msgstr "液化的肉體刺痛，骨骼發熱。再使用XE037無異於與死神賭博。"
+
+#: .\effects\medicine_effects.json
+msgid "XE037 Rejection"
+msgstr "XE037排斥反應"
+
+#. ~ Description of effect 'XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "Black ooze creeps from your wounds as numbness sets in..."
+msgstr "黑色粘液從你的傷口滲出，麻木感隨之而來……"
+
+#. ~ Apply message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid ""
+"You slam the needle in and begin to feel the sensation of flesh crawling "
+"together..."
+msgstr "你猛地把針扎進去，開始感覺到肉體蠕動著合攏……"
+
+#. ~ Remove message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "The worst of the healing is over now."
+msgstr "最糟糕的癒合階段現在結束了。"
+
+#. ~ Miss message for effect(s) 'XE037 Healing, XE037 Rapid Healing, XE037
+#. Cell Breakdown, XE037 Rejection'.
+#: .\effects\medicine_effects.json
+msgid "A sick squlesh is heard from your insides..."
+msgstr "從你體內傳來一陣噁心的擠壓聲……"
+
+#: .\effects\medicine_effects.json
+msgid "Nausea Medicine"
+msgstr "止吐藥"
+
+#. ~ Description of effect 'Nausea Medicine'.
+#: .\effects\medicine_effects.json
+msgid "Medicine calms your sotmach and helps prevent vomitting."
+msgstr "藥物能安撫你的胃，並有助於防止嘔吐。"
+
+#. ~ Apply message for effect(s) 'Nausea Medicine'.
+#: .\effects\medicine_effects.json
+msgid "You pop a pill into your mouth. Bitter."
+msgstr "你吞下一片藥丸。味道很苦。"
+
+#: .\furniture\furniture.json .\items\tools.json
+msgid "BioCo Assembly Machine"
+msgid_plural "BioCo Assembly Machines"
+msgstr[0] "BioCo組裝機"
+
+#. ~ Description for BioCo Assembly Machine
+#: .\furniture\furniture.json
+msgid ""
+"A BioCo Assembly Machine, capable of creating a wide range of BioCo tech."
+msgstr "一臺BioCo組裝機，能夠製造廣泛的BioCo技術產品。"
+
+#: .\furniture\furniture.json .\furniture\furniture_override.json
+msgid "crunch!"
+msgstr "嘎吱！"
+
+#: .\furniture\furniture.json .\furniture\furniture_override.json
+msgid "whump."
+msgstr "砰。"
+
+#: .\furniture\furniture.json .\items\tools.json
+msgid "BioCo Chemical Engine"
+msgid_plural "BioCo Chemical Engines"
+msgstr[0] "BioCo化學引擎"
+
+#. ~ Description for BioCo Chemical Engine
+#: .\furniture\furniture.json
+msgid "A BioCo Chemical Engine, capable of creating a wide BioCo concoction."
+msgstr "一臺BioCo化學引擎，能夠製造多種BioCo混合物。"
+
+#: .\furniture\furniture_override.json
+msgid "Autodoc Mk. XI"
+msgstr "自動醫療機 Mk. XI"
+
+#. ~ Description for Autodoc Mk. XI
+#: .\furniture\furniture_override.json
+msgid ""
+"A surgical apparatus used for installation and uninstallation of bionics.  "
+"It's only as skilled as its operator."
+msgstr "一種用於安裝和卸載仿生裝置的手術設備。其技術水平僅取決於操作者。"
+
+#: .\furniture\furniture_override.json
+msgid "whack!"
+msgstr "啪！"
+
+#: .\furniture\furniture_override.json
+msgid "Autodoc operation couch"
+msgstr "自動手術臺"
+
+#. ~ Description for Autodoc operation couch
+#: .\furniture\furniture_override.json
+msgid ""
+"A plush red sofa made less comfortable by the medical machinery directly "
+"above it.  It has a single leather strap on the right armrest."
+msgstr "一張豪華的紅色沙發，因正上方的醫療設備而舒適度降低。右側扶手上有一條皮質綁帶。"
+
+#: .\furniture\furniture_override.json
+msgid "smash!"
+msgstr "砸！"
+
+#: .\furniture\furniture_override.json
+msgid "robotic arm"
+msgstr "機械臂"
+
+#. ~ Description for robotic arm
+#: .\furniture\furniture_override.json
+msgid "This is a robotic arm."
+msgstr "這是一條機械臂。"
+
+#: .\furniture\furniture_override.json
+msgid "thunk."
+msgstr "砰。"
+
+#: .\items\bionics.json
+msgid "Fire Extinguisher CBM"
+msgid_plural "Fire Extinguisher CBMs"
+msgstr[0] "滅火器 CBM"
+
+#. ~ Description for {'str': 'Fire Extinguisher CBM'}
+#: .\items\bionics.json
+msgid ""
+"A small, retractable launcher resides in the palm of your hand through your "
+"arm. The system will automatically produce small gelatinous orbs that when "
+"launched into fire will rapidly expand into a fire fighting foam."
+msgstr "一個可伸縮的小型發射器通過你的手臂置於掌心。該系統會自動產生小型凝膠球體，發射到火中時會迅速膨脹成滅火泡沫。"
+
+#: .\items\books.json
+msgid "BioCo Chemical Reference"
+msgid_plural "BioCo Chemical References"
+msgstr[0] "BioCo 化學參考手冊"
+
+#. ~ Description for {'str': 'BioCo Chemical Reference', 'str_pl': 'BioCo
+#. Chemical References'}
+#: .\items\books.json
+msgid ""
+"A dense and oddly non-technical binder full of detailed descriptions of "
+"various chemical processes used by the BioCo Chemical Engine. While a lot of"
+" these are beyond you, there's a few you think you might be able to "
+"replicate."
+msgstr ""
+"一本厚重且出奇地非技術性的活頁夾，詳細描述了 BioCo 化學引擎使用的各種化學過程。雖然其中大部分內容超出了你的理解範圍，但你覺得有一些或許能夠復現。"
+
+#: .\items\components.json .\items\machine_parts.json
+msgid "Autonmous Machine Part"
+msgid_plural "Autonmous Machine Parts"
+msgstr[0] "自主機器部件"
+
+#. ~ Description for {'str': 'Autonmous Machine Part'}
+#: .\items\components.json .\items\machine_parts.json
+msgid "A bundle of components essential in any advance crafting machine."
+msgstr "一套在任何先進製造機器中都至關重要的組件。"
+
+#: .\items\components.json .\items\machine_parts.json
+msgid "BioCo AutoDoc Core"
+msgid_plural "BioCo AutoDoc Cores"
+msgstr[0] "BioCo 自動醫療核心"
+
+#. ~ Description for {'str': 'BioCo AutoDoc Core'}
+#: .\items\components.json .\items\machine_parts.json
+msgid ""
+"A large processing unit on an electric board. An essential component to "
+"BioCo machines."
+msgstr "一塊電路板上的大型處理單元。是 BioCo 機器的核心組件。"
+
+#: .\items\components.json
+msgid "Pristine Bionic Components"
+msgid_plural "Pristine Bionic Componentss"
+msgstr[0] "嶄新仿生組件"
+
+#. ~ Description for {'str': 'Pristine Bionic Components'}
+#: .\items\components.json
+msgid ""
+"A collection of top quality machine to human interfaces, advance "
+"semiconductors, and other important components to BioCo tech. Useful in both"
+" bionics and advance electronics."
+msgstr "一套頂級的機器對人接口、先進半導體以及其他對 BioCo 技術至關重要的組件。在仿生學和先進電子學中都有用處。"
+
+#: .\items\components.json
+msgid "BioCo Crude Chemical Precursor"
+msgid_plural "BioCo Crude Chemical Precursors"
+msgstr[0] "BioCo 粗製化學前體"
+
+#. ~ Description for {'str': 'BioCo Crude Chemical Precursor', 'str_pl':
+#. 'BioCo Crude Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A very thin, purple concoction of various chemicals, used by BioCo Chemical "
+"Engines."
+msgstr "一種非常稀薄的紫色混合化學物，由 BioCo 化學引擎使用。"
+
+#: .\items\components.json
+msgid "BioCo Chemical Precursor"
+msgid_plural "BioCo Chemical Precursors"
+msgstr[0] "BioCo 化學前體"
+
+#. ~ Description for {'str': 'BioCo Chemical Precursor', 'str_pl': 'BioCo
+#. Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A blue concoction of various chemicals, used by BioCo Chemical Engines."
+msgstr "一種藍色的混合化學物，由 BioCo 化學引擎使用。"
+
+#: .\items\components.json
+msgid "BioCo Fine Chemical Precursor"
+msgid_plural "BioCo Fine Chemical Precursors"
+msgstr[0] "BioCo 精製化學前體"
+
+#. ~ Description for {'str': 'BioCo Fine Chemical Precursor', 'str_pl': 'BioCo
+#. Fine Chemical Precursors'}
+#: .\items\components.json
+msgid ""
+"A slightly shimmering green concoction of various chemicals, used by BioCo "
+"Chemical Engines."
+msgstr "一種微微閃爍的綠色混合化學物，由 BioCo 化學引擎使用。"
+
+#: .\items\fake_bionic_items.json
+msgid "Bionic Fire Extinguisher"
+msgid_plural "Bionic Fire Extinguishers"
+msgstr[0] "仿生滅火器"
+
+#. ~ Description for {'str': 'Bionic Fire Extinguisher'}
+#: .\items\fake_bionic_items.json
+msgid "Testing"
+msgstr "測試中"
+
+#: .\items\food.json
+msgid "BioCo Food Bar"
+msgid_plural "BioCo Food Bars"
+msgstr[0] "BioCo 食物棒"
+
+#. ~ Description for {'str': 'BioCo Food Bar'}
+#: .\items\food.json
+msgid ""
+"An on-the-go food bar created by BioCo. While the texture is certainly off "
+"putting, you're confident in its edibility."
+msgstr "BioCo 製作的便攜式食物棒。雖然口感確實令人不適，但你確信它是可食用的。"
+
+#: .\items\food.json
+msgid "BioCo Food Slurry"
+msgid_plural "BioCo Food Slurrys"
+msgstr[0] "BioCo 食物漿"
+
+#. ~ Description for {'str': 'BioCo Food Slurry'}
+#: .\items\food.json
+msgid "A thick slurry of calories and nutrients. Suprisingly tasty!"
+msgstr "一種濃稠的卡路里與營養漿。出奇地美味！"
+
+#: .\items\generic.json
+msgid "Broken BioCo ScavBot"
+msgid_plural "Broken BioCo ScavBots"
+msgstr[0] "損壞的 BioCo 拾荒機器人"
+
+#. ~ Description for {'str': 'Broken BioCo ScavBot'}
+#: .\items\generic.json
+msgid ""
+"A broken BioCo ScavBot. Disassembly should yield a handful of useful parts."
+msgstr "一個損壞的 BioCo 拾荒機器人。拆解後應該能得到一些有用的零件。"
+
+#: .\items\medicine.json
+msgid "Emergency Trauma Foam"
+msgid_plural "Emergency Trauma Foam"
+msgstr[0] "緊急創傷泡沫"
+
+#. ~ Description for {'str': 'Emergency Trauma Foam', 'str_pl': 'Emergency
+#. Trauma Foam'}
+#: .\items\medicine.json
+msgid ""
+"A can full of water-soluble ETF, or Emergency Trauma Foam. When sprayed on a"
+" wound ETF rapidly expands, stopping bleeding, acting as a local painkiller,"
+" and also disinfecting the wound."
+msgstr "一罐裝滿水溶性 ETF，即緊急創傷泡沫。噴灑在傷口上時，ETF 會迅速膨脹，止血、起到局部止痛作用，同時還能消毒傷口。"
+
+#: .\items\medicine.json
+msgid "XE037 Emergency Injection"
+msgid_plural "XE037 Emergency Injection"
+msgstr[0] "XE037 緊急注射劑"
+
+#. ~ Description for {'str': 'XE037 Emergency Injection', 'str_pl': 'XE037
+#. Emergency Injection'}
+#: .\items\medicine.json
+msgid ""
+"The cutting edge of publicly avalible medicine pre-cataclysm. Inscirbed "
+"along the case is [WARNING RAPID DOSES MAY CAUSE PAIN, NAUSEA, HUNGER, "
+"THIRST, AND DEATH]"
+msgstr "這是大災變前公開可用的最尖端藥物。外殼上刻有[警告：快速多次注射可能導致疼痛、噁心、飢餓、口渴和死亡]"
+
+#: .\items\medicine.json
+msgid "Nausea Medication"
+msgid_plural "Nausea Medications"
+msgstr[0] "止吐藥"
+
+#. ~ Description for {'str': 'Nausea Medication'}
+#: .\items\medicine.json
+msgid "A bottle of pills meant for relieving nasuea and preventing vomitting."
+msgstr "一瓶用於緩解噁心和防止嘔吐的藥片。"
+
+#: .\items\software.json
+msgid "BioCo Civilian Bionic Designs"
+msgid_plural "BioCo Civilian Bionic Designss"
+msgstr[0] "BioCo民用仿生設計圖"
+
+#. ~ Description for {'str': 'BioCo Civilian Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"civilian CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的民用CBM。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo Military Bionic Designs"
+msgid_plural "BioCo Military Bionic Designss"
+msgstr[0] "BioCo軍用仿生設計圖"
+
+#. ~ Description for {'str': 'BioCo Military Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"Military CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的軍用CBM。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo Experimental Bionic Designs"
+msgid_plural "BioCo Experimental Bionic Designss"
+msgstr[0] "BioCo實驗性仿生設計圖"
+
+#. ~ Description for {'str': 'BioCo Experimental Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"cutting-edge experimental CBMs created by BioCo. While gibberish to you, one"
+" of BioCo's assembly machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的前沿實驗性CBM。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo Medical Bionic Designs"
+msgid_plural "BioCo Medical Bionic Designss"
+msgstr[0] "BioCo醫療仿生設計圖"
+
+#. ~ Description for {'str': 'BioCo Medical Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the medical"
+" CBMs created by BioCo. While gibberish to you, one of BioCo's assembly "
+"machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的醫療CBM。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo Medical Chemical Designs"
+msgid_plural "BioCo Medical Chemical Designss"
+msgstr[0] "BioCo醫療化學設計圖"
+
+#. ~ Description for {'str': 'BioCo Medical Chemical Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the medical"
+" supplies created by BioCo. While gibberish to you, one of BioCo's Chemical "
+"Engines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的醫療用品。雖然對你來說如同天書，但BioCo的化學引擎可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo AutoDoc Designs"
+msgid_plural "BioCo AutoDoc Designss"
+msgstr[0] "BioCo自動醫療機設計圖"
+
+#. ~ Description for {'str': 'BioCo AutoDoc Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the "
+"AutoDocs created by BioCo. While gibberish to you, one of BioCo's assembly "
+"machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的自動醫療機。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\software.json
+msgid "BioCo Power Storage Bionic Designs"
+msgid_plural "BioCo Power Storage Bionic Designss"
+msgstr[0] "BioCo能量儲存仿生設計圖"
+
+#. ~ Description for {'str': 'BioCo Power Storage Bionic Designs'}
+#: .\items\software.json
+msgid ""
+"A set of comprehensive blueprints loaded onto a USB which detail the power "
+"storage CBMs created by BioCo. While gibberish to you, one of BioCo's "
+"assembly machines could read this."
+msgstr "一套存儲在U盤中的詳細藍圖，記錄了BioCo製造的能量儲存CBM。雖然對你來說如同天書，但BioCo的組裝機器可以讀取它。"
+
+#: .\items\tools.json
+msgid "BioCo Assembly Machine_USE"
+msgid_plural "BioCo Assembly Machine_USEs"
+msgstr[0] "BioCo組裝機器_使用"
+
+#. ~ Description for {'str': 'BioCo Assembly Machine_USE'}
+#. ~ Description for {'str': 'BioCo_Chemical_Engine_USE'}
+#: .\items\tools.json
+msgid ""
+"@Poragon on the CDDA discord if you see this outside debug menu. I done "
+"goofed :c"
+msgstr "如果你在調試菜單之外看到這個，請在CDDA的Discord上聯繫@Poragon。我搞砸了 :c"
+
+#. ~ Description for {'str': 'BioCo Assembly Machine'}
+#: .\items\tools.json
+msgid ""
+"This large mechanism is a precision assembly machine loaded with BioCo "
+"software. Capable of creating BioCo tech given the correct instructions, and"
+" must be set up prior to use."
+msgstr "這臺大型機械是一臺裝載了BioCo軟件的精密組裝機器。在獲得正確指令後能夠製造BioCo的科技產品，使用前必須進行設置。"
+
+#: .\items\tools.json
+msgid "BioCo_Chemical_Engine_USE"
+msgid_plural "BioCo_Chemical_Engine_USEs"
+msgstr[0] "BioCo_化學引擎_使用"
+
+#. ~ Description for {'str': 'BioCo Chemical Engine'}
+#: .\items\tools.json
+msgid ""
+"A BioCo manufacturing device for various chemical components and medicines. "
+"Must be set up prior to use."
+msgstr "一臺BioCo製造的設備，用於生產各種化學組分和藥物。使用前必須進行設置。"
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s delivers a shocking jab to your torso!"
+msgstr "%1$s向你的軀幹發出了電擊般的刺擊！"
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s delivers a shocking jab to <npcname>'s torso!"
+msgstr "%1$s向<npcname>的軀幹發出了電擊般的刺擊！"
+
+#: .\monsters\monster_attacks.json
+msgid "The %1$s tries jab your torso, but the blow reflects off armor."
+msgstr "%1$s試圖刺擊你的軀幹，但攻擊被護甲彈開了。"
+
+#: .\monsters\monster_attacks.json
+msgid ""
+"The %1$s tries to jab <npcname>'s torso, but the blow reflects off armor."
+msgstr "%1$s試圖刺擊<npcname>的軀幹，但攻擊被護甲彈開了。"
+
+#: .\monsters\monsters.json
+msgid "BioCo ScavBot"
+msgid_plural "BioCo ScavBots"
+msgstr[0] "BioCo搜刮機器人"
+
+#. ~ Description for {'str': 'BioCo ScavBot'}
+#: .\monsters\monsters.json
+msgid ""
+"This knee height spider-robot skitters around on multiple legs, and has the "
+"BioCo emblem displayed on its top."
+msgstr "這個齊膝高的蜘蛛機器人用多條腿快速移動，頂部顯示著BioCo的標誌。"
+
+#: .\monsters\speech.json
+msgid "the sound of mettalic skittering."
+msgstr "金屬快速移動的聲音。"
+
+#: .\npcs\npc_factions.json
+msgid "BioCo"
+msgstr "BioCo"
+
+#. ~ Description for BioCo
+#: .\npcs\npc_factions.json
+msgid "The elitest remnanets of preware BioCo corporation."
+msgstr "前BioCo公司精英的殘餘勢力。"

@@ -1,0 +1,992 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: mycus_tomodati\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Mycus mod"
+msgstr "真菌模組"
+
+#. ~ Description for Mycus mod
+#: .\modinfo.json
+msgid "For those who want to play as a mycus."
+msgstr "適用於那些想扮演真菌的玩家。"
+
+#: .\mutations.json
+msgid "Mycus Identity"
+msgstr "真菌身份"
+
+#. ~ Description for {'str': 'Mycus Identity'}
+#: .\mutations.json
+msgid ""
+"We have synchronized our local physiology with that of our reproductive "
+"systems.  Any spores we may encounter will not attempt to germinate inside "
+"the local system."
+msgstr "我們已將本地生理系統與繁殖系統同步。我們可能遇到的任何孢子都不會試圖在本地系統中萌發。"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Fungus researcher"
+msgstr "真菌研究員"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Fungus researcher"
+msgstr "真菌研究員"
+
+#. ~ Profession (male Fungus researcher) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Research seems to have to be interrupted by the fact that zombies have begun"
+" to crawl outside. Is it fortunate that there is an infinite increase of "
+"supplies? Let's use this body with fungal immunity."
+msgstr "研究似乎因殭屍開始向外爬行而不得不中斷。物資無限增加是幸運的嗎？讓我們利用這具具有真菌免疫力的身體吧。"
+
+#. ~ Profession (female Fungus researcher) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Research seems to have to be interrupted by the fact that zombies have begun"
+" to crawl outside. Is it fortunate that there is an infinite increase of "
+"supplies? Let's use this body with fungal immunity."
+msgstr "研究似乎因殭屍開始向外爬行而不得不中斷。物資無限增加是幸運的嗎？讓我們利用這具具有真菌免疫力的身體吧。"
+
+#: .\scenarios.json
+msgid "Fungus Institute"
+msgstr "真菌研究所"
+
+#. ~ Name for scenario 'Mycus' for a male character
+#: .\scenarios.json
+msgctxt "scenario_male"
+msgid "Mycus"
+msgstr "真菌"
+
+#. ~ Name for scenario 'Mycus' for a female character
+#: .\scenarios.json
+msgctxt "scenario_female"
+msgid "Mycus"
+msgstr "真菌"
+
+#. ~ Description for scenario 'Mycus' for a male character.
+#: .\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"When I finished writing a paper that advocated the usefulness of fungi, the "
+"world was different. I understand that fungi are wonderful than anyone else."
+" You can do enough in this new world."
+msgstr "當我完成那篇倡導真菌實用性的論文時，世界已然不同。我比任何人都更瞭解真菌的奇妙之處。在這個新世界裡，你足以大展拳腳。"
+
+#. ~ Description for scenario 'Mycus' for a female character.
+#: .\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"When I finished writing a paper that advocated the usefulness of fungi, the "
+"world was different. I understand that fungi are wonderful than anyone else."
+" You can do enough in this new world."
+msgstr "當我完成那篇倡導真菌實用性的論文時，世界已然不同。我比任何人都更瞭解真菌的奇妙之處。在這個新世界裡，你足以大展拳腳。"
+
+#. ~ Starting location for scenario 'Mycus'.
+#: .\scenarios.json
+msgctxt "start_name"
+msgid "Fungus Institute"
+msgstr "真菌研究所"
+
+#: .\item\ammo.json
+msgid "spore mass"
+msgid_plural "spore masss"
+msgstr[0] "孢子團塊"
+
+#. ~ Description for {'str': 'spore mass'}
+#: .\item\ammo.json
+msgid ""
+"It is a spore extracted from a fungus. The stone is blown away using the "
+"explosive power that spore bursts. It can be used as such, but it will still"
+" be a lack of power for monsters."
+msgstr "這是從真菌中提取的孢子。利用孢子爆裂的爆炸力可將石頭炸飛。雖然可以這樣使用，但對怪物來說威力仍顯不足。"
+
+#: .\item\ammo.json
+msgid "large spore mass"
+msgid_plural "large spore masss"
+msgstr[0] "大型孢子團塊"
+
+#. ~ Description for {'str': 'large spore mass'}
+#: .\item\ammo.json
+msgid ""
+"It is a large spore isolated from a fungus. Although the productivity "
+"dropped, I was able to greatly improve the power."
+msgstr "這是從真菌中分離出的大型孢子。雖然產量下降了，但威力得到了極大提升。"
+
+#: .\item\ammo.json
+msgid "spores"
+msgstr "孢子"
+
+#: .\item\armor.json
+msgid "mushroom cap"
+msgid_plural "mushroom caps"
+msgstr[0] "蘑菇帽"
+
+#. ~ Description for {'str': 'mushroom cap'}
+#: .\item\armor.json
+msgid ""
+"It is a cute mushroom-shaped big hat with polka dots. The wide brim allows "
+"you to protect your eyes from the sun."
+msgstr "這是一頂可愛的圓點蘑菇形大帽子。寬大的帽簷可以保護眼睛免受陽光直射。"
+
+#: .\item\armor.json
+msgid "mushroom helmet"
+msgid_plural "mushroom helmets"
+msgstr[0] "蘑菇頭盔"
+
+#. ~ Description for {'str': 'mushroom helmet'}
+#: .\item\armor.json
+msgid ""
+"A brown mushroom helmet made of hardened fungi. The wide brim allows you to "
+"protect your eyes from the sun."
+msgstr "一頂由硬化真菌製成的棕色蘑菇頭盔。寬大的帽簷可以保護眼睛免受陽光直射。"
+
+#: .\item\armor.json
+msgid "armored mushroom helmet"
+msgid_plural "armored mushroom helmets"
+msgstr[0] "裝甲蘑菇頭盔"
+
+#. ~ Description for {'str': 'armored mushroom helmet'}
+#: .\item\armor.json
+msgid ""
+"A brown mushroom helmet made of hardened fungi. Improved to be easier to use"
+" as a protective gear."
+msgstr "一頂由硬化真菌製成的棕色蘑菇頭盔。經過改進，更適合作為防護裝備使用。"
+
+#: .\item\armor.json
+msgid "mushroom suit"
+msgid_plural "mushroom suits"
+msgstr[0] "蘑菇套裝"
+
+#. ~ Description for {'str': 'mushroom suit'}
+#: .\item\armor.json
+msgid ""
+"It is a strange mushroom-shaped suit that wraps around the body. There is no"
+" defense equal, but some warmth can be secured."
+msgstr "這是一套包裹身體的奇特蘑菇形套裝。雖然沒有同等的防禦力，但能提供一些保暖效果。"
+
+#: .\item\armor.json
+msgid "mushroom armor"
+msgid_plural "mushroom armors"
+msgstr[0] "蘑菇護甲"
+
+#. ~ Description for {'str': 'mushroom armor'}
+#: .\item\armor.json
+msgid ""
+"It's hard to move, but the moss made of hardened fungus has defenses that "
+"you can not think of as a mushroom."
+msgstr "雖然行動不便，但這由硬化真菌製成的苔蘚護甲，其防禦力遠超你對蘑菇的想象。"
+
+#: .\item\armor.json
+msgid "improved mushroom armor"
+msgid_plural "improved mushroom armors"
+msgstr[0] "改良蘑菇護甲"
+
+#. ~ Description for {'str': 'improved mushroom armor'}
+#: .\item\armor.json
+msgid ""
+"It is a moss made of hardened fungus. The gentle surface works as an angle "
+"for lunch. Much lighter than it looks and it makes it easier for you to "
+"move."
+msgstr "這是由硬化真菌製成的苔蘚護甲。其柔和的表面在戰鬥中能起到偏轉攻擊的作用。它比看起來輕得多，讓你行動更加自如。"
+
+#: .\item\armor.json
+msgid "mushroom slippers"
+msgid_plural "mushroom slipperss"
+msgstr[0] "蘑菇拖鞋"
+
+#. ~ Description for {'str': 'mushroom slippers'}
+#: .\item\armor.json
+msgid ""
+"These are lovely mushroom slippers. It is a bit unreasonable to run with "
+"this."
+msgstr "這是一雙可愛的蘑菇拖鞋。穿著它跑步有點勉強。"
+
+#: .\item\armor.json
+msgid "mushroom boots"
+msgid_plural "mushroom bootss"
+msgstr[0] "蘑菇靴"
+
+#. ~ Use action holster_msg for {'str': 'mushroom boots'}.
+#. ~ Use action holster_msg for {'str': 'armored mushroom boots'}.
+#. ~ Use action holster_msg for {'str': 'mushroom pouch'}.
+#. ~ Use action holster_msg for {'str': 'mushroom bag'}.
+#. ~ Use action holster_msg for {'str': 'mushroom backpack'}.
+#: .\item\armor.json
+msgid "You sheath your %s"
+msgstr "你將你的%s收鞘。"
+
+#. ~ Use action holster_prompt for {'str': 'mushroom boots'}.
+#. ~ Use action holster_prompt for {'str': 'armored mushroom boots'}.
+#: .\item\armor.json
+msgid "Sheath knife"
+msgstr "收鞘刀"
+
+#. ~ Description for {'str': 'mushroom boots'}
+#: .\item\armor.json
+msgid ""
+"Sturdy shoes made of hardened fungus. It wraps up both feet perfectly, but "
+"it is a drawback that it is very thick and it is hard to walk."
+msgstr "由硬化真菌製成的堅固鞋子。它能完美包裹雙腳，但缺點是過於厚重，行走困難。"
+
+#: .\item\armor.json
+msgid "armored mushroom boots"
+msgid_plural "armored mushroom bootss"
+msgstr[0] "裝甲蘑菇靴"
+
+#. ~ Description for {'str': 'armored mushroom boots'}
+#: .\item\armor.json
+msgid ""
+"Sturdy shoes made of hardened fungus. It's very light for defense, easy to "
+"move and comfortable."
+msgstr "由硬化真菌製成的堅固鞋子。就防禦力而言非常輕便，易於移動且穿著舒適。"
+
+#: .\item\armor.json
+msgid "mushroom gloves"
+msgid_plural "mushroom glovess"
+msgstr[0] "蘑菇手套"
+
+#. ~ Description for {'str': 'mushroom gloves'}
+#: .\item\armor.json
+msgid ""
+"These are gloves made of fungus. It does not get in the way of the "
+"fingertips than I thought, and it is a good fit."
+msgstr "這是用真菌製成的手套。它比想象中更不礙事，指尖活動自如，非常合手。"
+
+#: .\item\armor.json
+msgid "mushroom gauntlets"
+msgid_plural "mushroom gauntletss"
+msgstr[0] "蘑菇護手"
+
+#. ~ Description for {'str': 'mushroom gauntlets'}
+#: .\item\armor.json
+msgid "Gauntlets made of hardened fungi. Its performance is quite good."
+msgstr "由硬化真菌製成的護手。其性能相當出色。"
+
+#: .\item\armor.json
+msgid "armored mushroom gauntlets"
+msgid_plural "armored mushroom gauntletss"
+msgstr[0] "裝甲蘑菇護手"
+
+#. ~ Description for {'str': 'armored mushroom gauntlets'}
+#: .\item\armor.json
+msgid ""
+"Gauntlet made of hardened fungi. Contrary to high defense, it is very light "
+"and hardly disturbs movement."
+msgstr "由硬化真菌製成的護手。雖然防禦力高，但非常輕便，幾乎不影響行動。"
+
+#: .\item\armor.json
+msgid "mushroom cloak"
+msgid_plural "mushroom cloaks"
+msgstr[0] "蘑菇斗篷"
+
+#. ~ Description for {'str': 'mushroom cloak'}
+#: .\item\armor.json
+msgid ""
+"A polka dot cloak made of fungus. Softly wrap the whole body, it is "
+"comfortable to wear."
+msgstr "一件由真菌製成的波點斗篷。輕柔地包裹全身，穿著舒適。"
+
+#: .\item\armor.json
+msgid "armored mushroom cloak"
+msgid_plural "armored mushroom cloaks"
+msgstr[0] "裝甲蘑菇斗篷"
+
+#. ~ Description for {'str': 'armored mushroom cloak'}
+#: .\item\armor.json
+msgid ""
+"A cloak made of hardened fungus. This armor is highly resistant to "
+"environmental pollution such as poison gas."
+msgstr "一件由硬化真菌製成的斗篷。這種盔甲對毒氣等環境汙染具有高度抵抗力。"
+
+#: .\item\armor.json
+msgid "mushroom gas mask"
+msgid_plural "mushroom gas masks"
+msgstr[0] "蘑菇防毒面具"
+
+#. ~ Description for {'str': 'mushroom gas mask'}
+#: .\item\armor.json
+msgid ""
+"It is a gas mask made of hardened fungus. We integrated the know-how of the "
+"protective armor and condensed the function to one mask. It is highly "
+"resistant to environmental pollution such as poison gas."
+msgstr "這是一個由硬化真菌製成的防毒面具。我們整合了防護裝甲的專有技術，並將其功能濃縮到一個面具中。它對毒氣等環境汙染具有高度抵抗力。"
+
+#: .\item\armor.json
+msgid "mushroom pouch"
+msgid_plural "mushroom pouchs"
+msgstr[0] "蘑菇小袋"
+
+#. ~ Use action holster_prompt for {'str': 'mushroom pouch'}.
+#. ~ Use action holster_prompt for {'str': 'mushroom bag'}.
+#. ~ Use action holster_prompt for {'str': 'mushroom backpack'}.
+#: .\item\armor.json
+msgid "Sheath sword"
+msgstr "鞘劍"
+
+#. ~ Description for {'str': 'mushroom pouch'}
+#: .\item\armor.json
+msgid ""
+"I hollowed out the contents of the mushroom and worked to use it as a pouch."
+" The usability is really good. You can put the knife in a position where it "
+"is easy to take out."
+msgstr "我將蘑菇內部掏空，加工成一個小袋。實用性非常好。你可以將刀放在易於取出的位置。"
+
+#: .\item\armor.json
+msgid "mushroom bag"
+msgid_plural "mushroom bags"
+msgstr[0] "蘑菇包"
+
+#. ~ Description for {'str': 'mushroom bag'}
+#: .\item\armor.json
+msgid ""
+"I cut out the contents of a large mushroom and worked to use it as a "
+"backpack. It is not too bad usability. You can put the sword in a convenient"
+" position."
+msgstr "我切出一個大蘑菇的內部，加工成一個揹包。實用性不算太差。你可以將劍放在方便的位置。"
+
+#: .\item\armor.json
+msgid "mushroom backpack"
+msgid_plural "mushroom backpacks"
+msgstr[0] "蘑菇揹包"
+
+#. ~ Description for {'str': 'mushroom backpack'}
+#: .\item\armor.json
+msgid ""
+"A backpack made of hardened fungi. We have made every effort to prevent "
+"movement and make adjustments so that you can carry your luggage "
+"comfortably. You can put the sword in an easy-to-use position."
+msgstr "一個由硬化真菌製成的揹包。我們盡力防止移動並進行了調整，讓你能舒適地攜帶行李。你可以將劍放在易於使用的位置。"
+
+#: .\item\armor.json
+msgid "mushroom legpouch"
+msgid_plural "mushroom legpouchs"
+msgstr[0] "蘑菇腿袋"
+
+#. ~ Use action holster_msg for {'str': 'mushroom legpouch'}.
+#: .\item\armor.json
+msgid "You stash your %s."
+msgstr "你藏起了你的%s。"
+
+#. ~ Use action holster_prompt for {'str': 'mushroom legpouch'}.
+#: .\item\armor.json
+msgid "Stash ammo"
+msgstr "藏匿彈藥"
+
+#. ~ Description for {'str': 'mushroom legpouch'}
+#: .\item\armor.json
+msgid ""
+"It is a large magazine pouch attached to the legs. You can put only one "
+"magazine in an easy-to-use position."
+msgstr "這是一個附著在腿上的大型彈匣袋。你只能將一個彈匣放在易於使用的位置。"
+
+#: .\item\armor.json
+msgid "mushroom shield"
+msgid_plural "mushroom shields"
+msgstr[0] "蘑菇盾牌"
+
+#. ~ Description for {'str': 'mushroom shield'}
+#: .\item\armor.json
+msgid ""
+"A small polka dot shield made of fungus. Because it was made on the fly, "
+"there is only a quick performance."
+msgstr "一個由真菌製成的小型波點盾牌。因為是臨時製作的，所以只有快速性能。"
+
+#: .\item\armor.json
+msgid "large mushroom shield"
+msgid_plural "large mushroom shields"
+msgstr[0] "大型蘑菇盾牌"
+
+#. ~ Description for {'str': 'large mushroom shield'}
+#: .\item\armor.json
+msgid ""
+"A large shield made of hardened fungi. It is difficult to move, but has a "
+"good defense."
+msgstr "一個由硬化真菌製成的大型盾牌。移動困難，但防禦力良好。"
+
+#: .\item\armor.json
+msgid "improved large mushroom shield"
+msgid_plural "improved large mushroom shields"
+msgstr[0] "改良大型蘑菇盾牌"
+
+#. ~ Description for {'str': 'improved large mushroom shield'}
+#: .\item\armor.json
+msgid ""
+"It is a large shield that can completely cover the whole body. It is "
+"difficult to move, but has excellent defense."
+msgstr "這是一個能完全覆蓋全身的大型盾牌。移動困難，但防禦力卓越。"
+
+#: .\item\armor.json
+msgid "mushroom umbrella"
+msgid_plural "mushroom umbrellas"
+msgstr[0] "蘑菇傘"
+
+#. ~ Description for {'str': 'mushroom umbrella'}
+#: .\item\armor.json
+msgid ""
+"A lovely polka-dot mushroom umbrella. You can prevent rain by equipping it "
+"or holding it in your hand."
+msgstr "一把可愛的波點蘑菇傘。裝備它或手持它可以防雨。"
+
+#: .\item\food.json
+msgid "mycus"
+msgid_plural "mycuss"
+msgstr[0] "菌類"
+
+#. ~ Description for {'str': 'mycus'}
+#: .\item\food.json
+msgid ""
+"At first glance it is a vegetable that is likely to cause harm to the body, "
+"but depending on the recipe, it seems that you can eat various ways."
+msgstr "乍一看是一種可能對身體有害的蔬菜，但根據食譜，似乎可以有多種食用方式。"
+
+#: .\item\food.json
+msgid "fluid sac"
+msgid_plural "fluid sacs"
+msgstr[0] "液囊"
+
+#. ~ Description for {'str': 'fluid sac'}
+#: .\item\food.json
+msgid ""
+"A fluid bladder from a plant based lifeform.  Not very nutritious, but fine "
+"to eat anyway."
+msgstr "一種來自植物基生命體的液囊。營養不豐富，但無論如何都可以食用。"
+
+#: .\item\food.json
+msgid "dry mycus"
+msgid_plural "dry mycuss"
+msgstr[0] "幹菌類"
+
+#. ~ Description for {'str': 'dry mycus', 'str_pl': 'dry mycuss'}
+#: .\item\food.json
+msgid ""
+"It is fungi dried to protect it from corruption. It was carefully detoxified"
+" and made. It can be stored for a long time by placing it in a suitable "
+"environment."
+msgstr "這是為防止腐敗而乾燥的真菌。經過仔細解毒處理製成。放置在適宜環境中可以長期保存。"
+
+#: .\item\food.json
+msgid "mycus juice"
+msgid_plural "mycus juice"
+msgstr[0] "菌類汁"
+
+#. ~ Description for {'str': 'mycus juice', 'str_pl': 'mycus juice'}
+#: .\item\food.json
+msgid ""
+"It's bad for bad smell and bitterness, and unpleasant throat like sludge. "
+"This drink has the effect of suppressing the attack of asthma."
+msgstr "它氣味不佳且苦澀，喉嚨感覺像泥漿般不適。這種飲品具有抑制哮喘發作的效果。"
+
+#: .\item\food.json
+msgid "mycus sandwich"
+msgid_plural "mycus sandwiches"
+msgstr[0] "菌菇三明治"
+
+#. ~ Description for {'str': 'mycus sandwich', 'str_pl': 'mycus sandwiches'}
+#: .\item\food.json
+msgid "Fungus-full veggies in bread."
+msgstr "麵包中夾滿了菌菇蔬菜。"
+
+#: .\item\food.json
+msgid "mycus salad"
+msgid_plural "mycus salads"
+msgstr[0] "菌菇沙拉"
+
+#. ~ Description for {'str': 'mycus salad', 'str_pl': 'mycus salads'}
+#: .\item\food.json
+msgid ""
+"The platter is a name-only, pre-divided and cut-away item. It is not "
+"delicious at all, as it has not been cooked well."
+msgstr "這道菜只是名義上的，是預先分割並切好的物品。它一點也不美味，因為沒有烹飪好。"
+
+#: .\item\food.json
+msgid "fried mycus"
+msgid_plural "fried mycuss"
+msgstr[0] "炸菌菇"
+
+#. ~ Description for {'str': 'fried mycus', 'str_pl': 'fried mycuss'}
+#: .\item\food.json
+msgid "It's a very delicious, fried veggie."
+msgstr "這是一種非常美味的炸蔬菜。"
+
+#: .\item\food.json
+msgid "mycus pie"
+msgid_plural "mycus pies"
+msgstr[0] "菌菇派"
+
+#. ~ Description for {'str': 'mycus pie', 'str_pl': 'mycus pies'}
+#: .\item\food.json
+msgid "A delicious pie filled with delicious mycus mushrooms."
+msgstr "美味的派，內餡是美味的菌菇蘑菇。"
+
+#: .\item\food.json
+msgid "mycus pizza"
+msgid_plural "mycus pizzas"
+msgstr[0] "菌菇披薩"
+
+#. ~ Description for {'str': 'mycus pizza', 'str_pl': 'mycus pizzas'}
+#: .\item\food.json
+msgid ""
+"It is a mushroom pizza that can be eaten by vegetarians at ease. Delicious "
+"milky lotion is used abundantly in thick fluffy fabric. It is the smell of "
+"Maros that looks delicious."
+msgstr "這是一種素食者可以安心食用的蘑菇披薩。美味的乳白色醬汁大量塗抹在厚實蓬鬆的麵餅上。散發著誘人的馬羅斯香氣。"
+
+#: .\item\food.json
+msgid "mycus soup"
+msgid_plural "mycus soup"
+msgstr[0] "菌菇湯"
+
+#. ~ Description for {'str': 'mycus soup', 'str_pl': 'mycus soup'}
+#: .\item\food.json
+msgid "A nutritious, delicious and healthy mycus soup."
+msgstr "一道營養、美味且健康的菌菇湯。"
+
+#: .\item\food.json
+msgid "mycus tornado"
+msgid_plural "mycus tornado"
+msgstr[0] "菌菇龍捲風"
+
+#. ~ Description for {'str': 'mycus tornado', 'str_pl': 'mycus tornado'}
+#: .\item\food.json
+msgid ""
+"The harmful part of the contaminated vegetables is alcohol pickled. Slightly"
+" contains mutagens."
+msgstr "受汙染蔬菜的有害部分經過酒精醃製。略微含有誘變劑。"
+
+#: .\item\food.json
+msgid "mycus alcohol"
+msgid_plural "mycus alcohol"
+msgstr[0] "菌菇酒"
+
+#. ~ Description for {'str': 'mycus alcohol', 'str_pl': 'mycus alcohol'}
+#: .\item\food.json
+msgid ""
+"A wonderfully savory mixture, fermented with an exquisite combination of "
+"mycus mushroom and several kinds of ingredients. I promise that I can not "
+"stop after drinking a bite."
+msgstr "一種絕妙的鹹香混合物，由菌菇蘑菇與多種配料精妙結合發酵而成。我保證喝上一口就停不下來。"
+
+#: .\item\food.json
+msgid "mycus vodka (unfermented)"
+msgid_plural "mycus vodka (unfermented)"
+msgstr[0] "菌菇伏特加（未發酵）"
+
+#. ~ Description for {'str': 'mycus vodka (unfermented)', 'str_pl': 'mycus
+#. vodka (unfermented)'}
+#: .\item\food.json
+msgid ""
+"It is a primary moromi that has not finished fermentation. It is a sweet "
+"liquid made by mixing enzyme-degraded persimmons and undigested persimmons "
+"and vegetables."
+msgstr "這是尚未完成發酵的初級醪液。一種由酶解柿子與未消化的柿子及蔬菜混合製成的甜味液體。"
+
+#: .\item\food.json
+msgid "mycus vodka (undistilled)"
+msgid_plural "mycus vodka (undistilled)"
+msgstr[0] "菌菇伏特加（未蒸餾）"
+
+#. ~ Description for {'str': 'mycus vodka (undistilled)', 'str_pl': 'mycus
+#. vodka (undistilled)'}
+#: .\item\food.json
+msgid ""
+"It is a secondary mash that is not distilled after fermentation. It is not "
+"delicious because it is mixed with alcohol and water with persimmons and "
+"vegetables."
+msgstr "這是發酵後未經蒸餾的次級醪液。由於混合了酒精、水以及柿子和蔬菜，味道並不好。"
+
+#: .\item\food.json
+msgid "mycus vodka"
+msgid_plural "mycus vodka"
+msgstr[0] "菌菇伏特加"
+
+#. ~ Description for {'str': 'mycus vodka', 'str_pl': 'mycus vodka'}
+#: .\item\food.json
+msgid ""
+"It is a drink with a very delicious taste of persimmons. This newest brand "
+"is a favorite item that can be called a symbol after the catastrophe."
+msgstr "這是一種帶有非常美味柿子口感的飲品。這個最新品牌是災後堪稱象徵的受歡迎物品。"
+
+#: .\item\food.json
+msgid "protein block"
+msgid_plural "protein block"
+msgstr[0] "蛋白質塊"
+
+#. ~ Description for {'str': 'protein block', 'str_pl': 'protein block'}
+#: .\item\food.json
+msgid ""
+"We mixed flour with mycus mushroom and fluid sac and made it into a protein "
+"with no moss. You can make something close to meat if you process it well."
+msgstr "我們將麵粉與菌菇蘑菇和液囊混合，製成了無苔蘚的蛋白質。如果加工得當，可以做出接近肉類的食物。"
+
+#: .\item\food.json
+msgid "substitute coffee beans"
+msgid_plural "substitute coffee beans"
+msgstr[0] "替代咖啡豆"
+
+#. ~ Description for {'str': 'substitute coffee beans', 'str_pl': 'substitute
+#. coffee beans'}
+#: .\item\food.json
+msgid ""
+"Mycus rice cake and fluid sac were fried until it turned black and made it "
+"coffee flavor. It is not good enough compared to the real thing, but it will"
+" be a substitute for the time being."
+msgstr "將菌菇米糕和液囊炸至變黑，製成咖啡風味。雖然與真品相比還不夠好，但暫時可以作為替代品。"
+
+#: .\item\food.json
+msgid "Mycus milk"
+msgid_plural "Mycus milk"
+msgstr[0] "菌菇奶"
+
+#. ~ Description for {'str': 'Mycus milk', 'str_pl': 'Mycus milk'}
+#: .\item\food.json
+msgid ""
+"It is the one that collects and squeezes the latex that comes out when you "
+"damage the brow. Those aged are transformed into milk by mycus."
+msgstr "這是收集並擠壓損傷菌菇時流出的乳膠製成的。那些經過陳化的乳膠被菌菇轉化為奶。"
+
+#: .\item\gun.json
+msgid "mushroom gun"
+msgid_plural "mushroom guns"
+msgstr[0] "蘑菇槍"
+
+#: .\item\gun.json
+msgid ""
+"I modified the spore sac and remodeled it so that it could be used as a "
+"firearm. It's far from being a decent gun, but only the availability of "
+"ammunition is unobtrusive."
+msgstr "我改造了孢子囊，將其重塑成可用作火器的形態。它遠算不上像樣的槍，但只有彈藥供應這一點還算不礙事。"
+
+#: .\item\gun.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\item\gun.json
+msgid "mushroom rifle"
+msgid_plural "mushroom rifles"
+msgstr[0] "蘑菇步槍"
+
+#: .\item\gun.json
+msgid ""
+"I modified the spore sac and remodeled it so that it could be used as a "
+"firearm. The overall length was increased and some stability was obtained."
+msgstr "我改造了孢子囊，將其重塑成可用作火器的形態。整體長度增加，獲得了一些穩定性。"
+
+#: .\item\gun.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步槍"
+
+#: .\item\gun.json
+msgid "mushroom smg"
+msgid_plural "mushroom smgs"
+msgstr[0] "蘑菇衝鋒槍"
+
+#: .\item\gun.json
+msgid ""
+"It is a foolish-sized mushroom that can be said to be a collection of "
+"mushroom guns. This load will handle most monsters. But it's really big."
+msgstr "這是一種尺寸大到愚蠢的蘑菇，堪稱蘑菇槍的集合體。這種火力足以應對大多數怪物，但體積確實非常龐大。"
+
+#: .\item\gun.json
+msgid "auto"
+msgstr "自動"
+
+#: .\item\gun.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "衝鋒槍"
+
+#: .\item\item.json
+msgid "minamata"
+msgid_plural "minamatas"
+msgstr[0] "水俁"
+
+#. ~ Description for {'str': 'minamata'}
+#: .\item\item.json
+msgid ""
+"It is the wisdom of the old-fashioned life that uses Minamata as a remedy. "
+"The microbes in the blisters promote treatment."
+msgstr "這是利用水俁作為療法的古老生活智慧。水泡中的微生物能促進治療。"
+
+#: .\item\item.json
+msgid "mycena chlorophos lamp (on)"
+msgid_plural "mycena chlorophos lamp (on)s"
+msgstr[0] "熒光小菇燈（開啟）"
+
+#. ~ Use action menu_text for {'str': 'mycena chlorophos lamp (on)'}.
+#. ~ Use action menu_text for {'str': 'tukiyotake lamp (on)'}.
+#: .\item\item.json
+msgid "Close cover"
+msgstr "關閉燈罩"
+
+#. ~ Use action msg for {'str': 'mycena chlorophos lamp (on)'}.
+#. ~ Use action msg for {'str': 'tukiyotake lamp (on)'}.
+#: .\item\item.json
+msgid "I concealed the light emission part and made it not light."
+msgstr "我隱藏了發光部分，使其不發光。"
+
+#. ~ Description for {'str': 'mycena chlorophos lamp (on)'}
+#: .\item\item.json
+msgid ""
+"Among the light-emitting mushrooms, the brightness of Yakutake is "
+"particularly great. Furthermore, this Yakutake is mutated, and illuminates a"
+" very wide area."
+msgstr "在發光蘑菇中，夜茸的亮度尤為突出。此外，這種夜茸發生了變異，能照亮非常廣闊的區域。"
+
+#: .\item\item.json
+msgid "mycena chlorophos lamp (off)"
+msgid_plural "mycena chlorophos lamp (off)s"
+msgstr[0] "熒光小菇燈（關閉）"
+
+#. ~ Use action menu_text for {'str': 'mycena chlorophos lamp (off)'}.
+#. ~ Use action menu_text for {'str': 'tukiyotake lamp (off)'}.
+#: .\item\item.json
+msgid "Open cover"
+msgstr "打開燈罩"
+
+#. ~ Use action msg for {'str': 'mycena chlorophos lamp (off)'}.
+#. ~ Use action msg for {'str': 'tukiyotake lamp (off)'}.
+#: .\item\item.json
+msgid "I removed the cover and let the surrounding lights shine."
+msgstr "我移除了燈罩，讓周圍的光線得以透出。"
+
+#. ~ Description for {'str': 'mycena chlorophos lamp (off)'}
+#: .\item\item.json
+msgid ""
+"A cover is put on this Yakutake, and it is made not to shine. Remove to "
+"brighten."
+msgstr "這株夜茸被罩上了燈罩，使其不發光。移除燈罩即可變亮。"
+
+#: .\item\item.json
+msgid "tukiyotake lamp (on)"
+msgid_plural "tukiyotake lamp (on)s"
+msgstr[0] "月夜茸燈（開啟）"
+
+#. ~ Description for {'str': 'tukiyotake lamp (on)'}
+#: .\item\item.json
+msgid ""
+"Tukiyotake is widely distributed in Far East Russia and northeastern China, "
+"centering on Japan. It is a kind of mushroom that belongs to the genus "
+"Tsukiyotake of the genus Haratake eyes. It is light-emitting though weak."
+msgstr "月夜茸廣泛分佈於俄羅斯遠東地區和中國東北部，以日本為中心。它是一種屬於原茸目月夜茸屬的蘑菇，雖然發光微弱。"
+
+#: .\item\item.json
+msgid "tukiyotake lamp (off)"
+msgid_plural "tukiyotake lamp (off)s"
+msgstr[0] "月夜茸燈（關閉）"
+
+#. ~ Description for {'str': 'tukiyotake lamp (off)'}
+#: .\item\item.json
+msgid ""
+"This Tsukiyotake is covered and covered so it does not glow. Remove to "
+"brighten."
+msgstr "這株月夜茸被罩上了燈罩，因此不發光。移除燈罩即可變亮。"
+
+#: .\item\melee.json
+msgid "mushroom staff"
+msgid_plural "mushroom staffs"
+msgstr[0] "蘑菇法杖"
+
+#. ~ Description for {'str': 'mushroom staff'}
+#: .\item\melee.json
+msgid ""
+"I converted a wood-like cocoon into a weapon. It is a stranger to look at "
+"swinging the ax, but let's put up with it."
+msgstr "我將一個木質的繭改造成了武器。揮舞斧頭的樣子看起來有些怪異，但請忍耐一下。"
+
+#: .\item\melee.json
+msgid "mushroom hammer"
+msgid_plural "mushroom hammers"
+msgstr[0] "蘑菇錘"
+
+#. ~ Description for {'str': 'mushroom hammer'}
+#: .\item\melee.json
+msgid ""
+"An umbrella with a hard stone like a hammer. It is inferior to a proper tool"
+" and weapon, but it is quite easy to use."
+msgstr "一把帶有堅硬石質錘頭的傘。雖然比不上正規的工具和武器，但相當好用。"
+
+#: .\item\melee.json
+msgid "mushroom sledge"
+msgid_plural "mushroom sledges"
+msgstr[0] "蘑菇大錘"
+
+#. ~ Description for {'str': 'mushroom sledge'}
+#: .\item\melee.json
+msgid ""
+"It is a hammer for crushing buildings, etc. Thanks to the adjustments made "
+"to one point of power, it is very fragile and will break just by shaking it."
+msgstr "這是一種用於粉碎建築物等的錘子。由於力量集中調整於一點，它非常脆弱，輕輕晃動就會碎裂。"
+
+#: .\item\melee.json
+msgid "mushroom spear"
+msgid_plural "mushroom spears"
+msgstr[0] "蘑菇矛"
+
+#. ~ Description for {'str': 'mushroom spear'}
+#: .\item\melee.json
+msgid ""
+"It is a mushroom with a sharp umbrella. If you pierce into the enemy's body,"
+" the umbrella will rotate and you will easily get a deadly wound through the"
+" wound. The rotating umbrella also helps with corpse dismantling."
+msgstr "這是一種傘蓋尖銳的蘑菇。如果刺入敵人體內，傘蓋會旋轉，通過傷口輕易造成致命傷。旋轉的傘蓋也有助於屍體分解。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom frame"
+msgid_plural "mushroom frames"
+msgstr[0] "蘑菇框架"
+
+#. ~ Description for {'str': 'mushroom frame'}
+#: .\item\mycus_vehicle_parts.json
+msgid "It is a big frame made of fungi. Used for vehicle construction."
+msgstr "這是一個由真菌製成的大型框架。用於車輛建造。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom roof"
+msgstr "蘑菇屋頂"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom controls"
+msgstr "蘑菇控制器"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "20L mushroom tank"
+msgstr "20升蘑菇儲罐"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "60L mushroom tank"
+msgstr "60升蘑菇儲罐"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom solar panel"
+msgstr "蘑菇太陽能板"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom quarterpanel"
+msgstr "蘑菇四分之一板"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "opaque mushroom quarterpanel"
+msgstr "不透明蘑菇四分之一板"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom folding box"
+msgstr "蘑菇摺疊箱"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom door"
+msgstr "蘑菇門"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "opaque mushroom door"
+msgstr "不透明蘑菇門"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom wheel"
+msgid_plural "mushroom wheels"
+msgstr[0] "蘑菇輪"
+
+#. ~ Description for {'str': 'mushroom wheel'}
+#: .\item\mycus_vehicle_parts.json
+msgid "It is a self-made wheel that is made by combining fungi."
+msgstr "這是一個通過組合真菌製成的自制輪子。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "steerable mushroom wheel"
+msgstr "可轉向蘑菇輪"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom plate"
+msgid_plural "mushroom plates"
+msgstr[0] "蘑菇板"
+
+#. ~ Description for {'str': 'mushroom plate'}
+#: .\item\mycus_vehicle_parts.json
+msgid ""
+"It is a self-made armor made from fungi. Made of soft fiber, it is a vehicle"
+" component that aims to absorb rather than prevent attacks."
+msgstr "這是一種用真菌製成的自制裝甲。由柔軟纖維製成，是一種旨在吸收而非阻止攻擊的載具組件。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom plating"
+msgstr "蘑菇裝甲板"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom storage battery"
+msgid_plural "mushroom storage batterys"
+msgstr[0] "蘑菇蓄電池"
+
+#. ~ Description for {'str': 'mushroom storage battery'}
+#: .\item\mycus_vehicle_parts.json
+msgid ""
+"A special processing is applied and it is mutated to a storage pot. The "
+"capacity is small but you can not afford luxury."
+msgstr "經過特殊處理，它變異成了一個儲存罐。容量雖小，但你別無選擇。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom motor"
+msgid_plural "mushroom motors"
+msgstr[0] "蘑菇馬達"
+
+#. ~ Description for {'str': 'mushroom motor'}
+#: .\item\mycus_vehicle_parts.json
+msgid ""
+"It is a trap that moves rhythmically powered by electricity. This extremely "
+"efficient device gives you amazing output."
+msgstr "這是一種通過電力驅動、有節奏移動的陷阱。這個極其高效的設備能提供驚人的輸出。"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom engine"
+msgstr "蘑菇引擎"
+
+#: .\item\mycus_vehicle_parts.json
+msgid "mushroom seat"
+msgid_plural "mushroom seats"
+msgstr[0] "蘑菇座椅"
+
+#. ~ Description for {'str': 'mushroom seat'}
+#: .\item\mycus_vehicle_parts.json
+msgid ""
+"Comfortable polka-dot seating made of fungi. Used for vehicle construction."
+msgstr "由真菌製成的舒適波點座椅。用於載具建造。"
+
+#. ~ Sign
+#: .\map\mycus01.json
+msgid ""
+"This danger is dangerous! When the door opens, close the door! Fungal spread"
+" can be prevented by a closed door!"
+msgstr "這很危險！開門時，關上門！關上門可以防止真菌擴散！"
+
+#. ~ Sign
+#: .\map\mycus01.json
+msgid ""
+"Never shut the door! Never shut the door! Fungi is a friend if managed!"
+msgstr "永遠別關門！永遠別關門！如果管理得當，真菌是朋友！"
+
+#: .\map\mycus01.json
+msgid "Mystery of Fungus Researchers"
+msgstr "真菌研究者的謎團"
+
+#: .\map\mycus01.json
+msgid "Fungus grower"
+msgstr "真菌培育者"

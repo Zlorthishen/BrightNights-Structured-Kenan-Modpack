@@ -1,0 +1,1178 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Nechronica_Redux\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Nechronica Redux"
+msgstr ""
+
+#. ~ Description for Nechronica Redux
+#: .\modinfo.json
+msgid ""
+"MODIFIED by YukariMindGap from Malkeus: Adds items, mutations and enemies "
+"appearing in Nechronica: the Long Long Sequel."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "alloy trunk"
+msgid_plural "alloy trunks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'alloy trunk'}
+#: .\nec_Armor.json
+msgid ""
+"A metal trunk. Not to mention storage, because it is sturdy it becomes a "
+"shield substitute. You can use it as a weapon that swings around by taking "
+"advantage of its weight."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "coffin backpack"
+msgid_plural "coffin backpacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'coffin backpack'}
+#: .\nec_Armor.json
+msgid ""
+"A coffin with a long chain connected to it. Unwieldy to wear, but offers a "
+"huge space for your items. It also doubles as a shield on your back."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "ribbon"
+msgid_plural "ribbons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ribbon', 'str_pl': 'ribbons'}
+#: .\nec_Armor.json
+msgid ""
+"A small cute cloth ribbon. There is no defensive power, but may heal you in "
+"this ruined world."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "companion teddy bear"
+msgid_plural "companion teddy bears"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'companion teddy bear'}
+#: .\nec_Armor.json
+msgid ""
+"A cute stuffed toy attached to your body. Offers no support other than "
+"morale."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "gothic lolita dress"
+msgid_plural "gothic lolita dresss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'gothic lolita dress'}
+#: .\nec_Armor.json
+msgid ""
+"An impractically lacy dress from the Gothic Lolita subculture. Despite all "
+"the laces, it is surprisingly easy to move in."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "gothic lolita headdress"
+msgid_plural "gothic lolita headdresss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'gothic lolita headdress'}
+#: .\nec_Armor.json
+msgid ""
+"A lacy headdress meant to be worn with the dress. It attracts attention."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "survivor gothic lolita dress"
+msgid_plural "survivor gothic lolita dresss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor gothic lolita dress'}
+#: .\nec_Armor.json
+msgid ""
+"A gothic lolita dress made practical with kevlar and pockets. The skirt "
+"allows a medium-sized firearm to be holstered. It is a bit stuffy in the "
+"chest area, hoever."
+msgstr ""
+
+#: .\nec_Armor.json
+msgid "pannier"
+msgid_plural "panniers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pannier'}
+#: .\nec_Armor.json
+msgid ""
+"An underskirt meant to be worn under a dress. It keeps the skirt puffy by "
+"way of wires."
+msgstr ""
+
+#: .\nec_bionics.json
+msgid "Remote Attack"
+msgid_plural "Remote Attacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_bionics.json
+msgid "Dummy item.  If you see this, then something went wrong."
+msgstr ""
+
+#: .\nec_bionics.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr ""
+
+#. ~ Description for {'str': 'Remote Attack'}
+#. ~ Description for {'str': 'Remote Attack CBM'}
+#: .\nec_bionics.json
+msgid ""
+"Your arms and legs come off and attack the opponent. Since they return "
+"automatically after the attack, you do not have to worry about removing it."
+msgstr ""
+
+#: .\nec_bionics.json
+msgid "Remote Attack CBM"
+msgid_plural "Remote Attack CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_bionics.json
+msgid "Pile bunker"
+msgid_plural "Pile bunkers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_bionics.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr ""
+
+#. ~ Description for {'str': 'Pile bunker'}
+#. ~ Description for {'str': 'Pile bunker CBM'}
+#: .\nec_bionics.json
+msgid ""
+"The metallic stake stored in the forearm shoots with high vibration and "
+"super high speed. Although you need to approach to close range, that power "
+"is guaranteed. Of course, it also consumes electricity."
+msgstr ""
+
+#: .\nec_bionics.json
+msgid "Pile bunker CBM"
+msgid_plural "Pile bunker CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_bionics.json
+msgid "Drill"
+msgid_plural "Drills"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Drill'}
+#: .\nec_bionics.json
+msgid ""
+"This transforms your wrist in to a drill head. You will be able to make a "
+"hole in everything."
+msgstr ""
+
+#. ~ Description for {'str': 'Drill'}
+#. ~ Description for {'str': 'Drill CBM'}
+#: .\nec_bionics.json
+msgid ""
+"Embed the deformation mechanism from the wrist to the drill head. It "
+"consumes electric power and starts high-speed rotation. You can excavate "
+"both the ground and zombies."
+msgstr ""
+
+#: .\nec_bionics.json
+msgid "Drill CBM"
+msgid_plural "Drill CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_bionics.json
+msgid "Lightsaber"
+msgid_plural "Lightsabers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Lightsaber'}
+#: .\nec_bionics.json
+msgid "This is a lightsaber. KWISHUUUU KWISHUUUU."
+msgstr ""
+
+#. ~ Description for {'str': 'Lightsaber'}
+#. ~ Description for {'str': 'Lightsaber CBM'}
+#: .\nec_bionics.json
+msgid ""
+"Embed the mechanism that generates the light blade in the arm. It becomes a "
+"powerful weapon by starting as necessary."
+msgstr ""
+
+#: .\nec_bionics.json
+msgid "Lightsaber CBM"
+msgid_plural "Lightsaber CBMs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_book.json
+msgid "PE105 \"Necromantic\": Observation"
+msgid_plural "PE105 \"Necromantic\": Observation"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'PE105 "Necromantic": Observation', 'str_pl':
+#. 'PE105 "Necromantic": Observation'}
+#: .\nec_book.json
+msgid ""
+"This sheets of paper dated 10 days before all this started-describes a "
+"complex chemical formula and a diagram to embed something like slime mold in"
+" humans..."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"In your dream, your body got cut, but you didn't consider it a problem."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid "You had a dream where something was wriggling inside your body."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid "In your dream, you were reconnecting your dismembered arms."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"A big hole opened in your face as you looked in the mirror ... .... Ah, it "
+"was just a dream."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"You had such a strange and crisp dream, that you were embracing your own "
+"head."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"You had a terrifying dream where someone was doing a transplant on something"
+" not human."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"In your dream, you were spoken to by an unknown person who is right next to "
+"you. When you turn you notice their head is connected to your body."
+msgstr ""
+
+#: .\nec_dreams.json
+msgid ""
+"I woke up from a dream where I was packing my own torn-out intenstines back "
+"into my body. Maybe I should stop packing weird things into myself."
+msgstr ""
+
+#: .\nec_gun.json
+msgid "quad double-barrel pipe shotgun"
+msgid_plural "quad double-barrel pipe shotguns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\nec_gun.json
+msgid ""
+"A home-made shotgun made from four double-barrel shotguns joined together. "
+"It has eight times the power of a pipe shotgun. Legend says that the first "
+"person to craft this was inspired by a certain movie about the undead."
+msgstr ""
+
+#: .\nec_gun.json
+msgid "single"
+msgstr ""
+
+#: .\nec_gun.json
+msgid "double"
+msgstr ""
+
+#: .\nec_gun.json
+msgid "auto"
+msgstr ""
+
+#: .\nec_martial_arts_manuals.json
+msgid "Kung Fu for Dummies"
+msgid_plural "Kung Fu for Dummiess"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Kung Fu for Dummies'}
+#: .\nec_martial_arts_manuals.json
+msgid "A complete guide to Kung Fu."
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Kung Fu"
+msgstr ""
+
+#. ~ Description for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+msgid ""
+"Kung Fu is a kind of martial art, but it is also means - Skill achieved "
+"through hard work - in traditional Chinese. It is characterized by hard "
+"striking and flexible body handling, it is good at knocking your opponent "
+"off their feet."
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+msgid "You stand and become vigilant against attacks *"
+msgstr ""
+
+#. ~ Initiate message for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+#, c-format
+msgid "%s stands tell ande become vigilant"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Kung fu breath"
+msgstr ""
+
+#. ~ Description of buff 'Kung fu breath' for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+msgid ""
+"You can always keep calm by a unique breathing method. Bonus for avoidance "
+"and blow"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Kung fu move"
+msgstr ""
+
+#. ~ Description of buff 'Kung fu move' for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+msgid ""
+"Using footwork you can always turn to attack and avoid. Bonus to hit and "
+"avoid"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Kung fu dodge"
+msgstr ""
+
+#. ~ Description of buff 'Kung fu dodge' for martial art '{'str': 'Kung Fu'}'
+#: .\nec_martialarts.json
+msgid ""
+"The moment of avoiding the attack is not necessarily a chance. Always hear "
+"the gap of counterattack. Bonus for avoidance and blow. Duplicate possible"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Krav Maga"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Fencing"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Medieval Swordsmanship"
+msgstr ""
+
+#: .\nec_martialarts.json
+msgid "Ninjutsu"
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "zombie queen"
+msgid_plural "zombie queens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'zombie queen'}
+#: .\nec_monsters.json
+msgid ""
+"It looks like a beautiful girl, but is actually the queen of the undead who "
+"leads countless undead."
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "little zombie queen"
+msgid_plural "little zombie queens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'little zombie queen'}
+#: .\nec_monsters.json
+msgid "It looks like a beautiful girl, but is really...?"
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "banshee"
+msgid_plural "banshees"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'banshee'}
+#: .\nec_monsters.json
+msgid ""
+"Originally it looked like a girl, but now her ego collapsed she's gone mad."
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "nemesis"
+msgid_plural "nemesiss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'nemesis'}
+#: .\nec_monsters.json
+msgid ""
+"Has the appearance of a girl, but it is swinging a knife with obvious "
+"superhuman speed and strength. There is no doubt that it is reinforced with "
+"blaspheming techniques."
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "valkyrie"
+msgid_plural "valkyries"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'valkyrie'}
+#: .\nec_monsters.json
+msgid ""
+"It was mostly horrible machine remodeling that kept the prototype of the "
+"human body intact. It has no legs and is floating with something like a "
+"floater."
+msgstr ""
+
+#: .\nec_monsters.json
+msgid "chimera"
+msgid_plural "chimeras"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chimera'}
+#: .\nec_monsters.json
+msgid ""
+"It looks like a human being, but the limbs are cut, and instead there is a "
+"monster with things like hooks attached. Seems to have high regenerative "
+"power, but as there is no eyes it has no vision"
+msgstr ""
+
+#: .\nec_mutagen.json
+msgid "necromantic serum"
+msgid_plural "necromantic serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'necromantic serum'}
+#: .\nec_mutagen.json
+msgid ""
+"A super-concentrated mutagen that resembles a liquified corpse. You need a "
+"syringe to inject it...  if you really want to?"
+msgstr ""
+
+#: .\nec_mutagen.json
+msgid "necromantic mutagen"
+msgid_plural "necromantic mutagens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Mutation class name
+#. 
+#: .\nec_mutation_category.json .\nec_mutations.json
+msgid "Undead"
+msgstr ""
+
+#. ~ Mutation class: Undead mutagen_message
+#: .\nec_mutation_category.json
+msgid "Your heart slows down for a beat."
+msgstr ""
+
+#. ~ Mutation class: Undead iv_message
+#: .\nec_mutation_category.json
+msgid "Your feel that all your pain is gone for a moment."
+msgstr ""
+
+#. ~ Mutation class: Undead Male memorial messsage
+#: .\nec_mutation_category.json
+msgctxt "memorial_male"
+msgid "Couldn't pull themselves together."
+msgstr ""
+
+#. ~ Mutation class: Undead Female memorial messsage
+#: .\nec_mutation_category.json
+msgctxt "memorial_female"
+msgid "Couldn't pull themselves together."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Trap"
+msgstr ""
+
+#. ~ Description for {'str': 'Trap'}
+#: .\nec_mutations.json
+msgid ""
+"Your body is a young girl, but you also have male features. Although it is "
+"rare, it will not be useful any longer."
+msgstr ""
+
+#. ~ Description for {'str': 'Undead'}
+#: .\nec_mutations.json
+msgid ""
+"The collapsed body is broken and patchy. Even if it breaks, you can simply "
+"reattach the parts."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Extra Eyes"
+msgstr ""
+
+#. ~ Description for {'str': 'Extra Eyes'}
+#: .\nec_mutations.json
+msgid ""
+"A new eye came out of your body. The field of view broadens, but the "
+"appearance is disgusting. +2 Perception"
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Extra Arms"
+msgstr ""
+
+#. ~ Description for {'str': 'Extra Arms'}
+#: .\nec_mutations.json
+msgid ""
+"You no longer have just two arms. There are additional arms on your "
+"shoulder. It is hard to master, but you may expand your range of tactics. "
+"Dex + 2"
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Extra legs"
+msgstr ""
+
+#. ~ Description for {'str': 'Extra legs'}
+#: .\nec_mutations.json
+msgid ""
+"You now have more than two legs. Another pair of legs are growing from your "
+"waist. You will not be able to equip usual leg protection, but you can move "
+"fast."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Large Hole"
+msgstr ""
+
+#. ~ Description for {'str': 'Large Hole'}
+#: .\nec_mutations.json
+msgid ""
+"There is a big hole in your body. However, there is no hindrance to battle, "
+"and the person who saw it is a little surprised."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Horns"
+msgstr ""
+
+#. ~ Description for {'str': 'Horns'}
+#: .\nec_mutations.json
+msgid ""
+"Large protuberances are growing from your body. It will be enough to pierce "
+"and hook at close range."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "You stab %s with your horns."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "%1$s stabs %2$s with their horns."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Elongated Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Elongated Tongue'}
+#: .\nec_mutations.json
+msgid "Your tongue has become long and tubular. Not particularly effective."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Prehensile Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Prehensile Tongue'}
+#: .\nec_mutations.json
+msgid ""
+"Your tongue is dripping with drool. You can not equip anything on your "
+"mouth, but they will be surprised when you attack them with your tongue."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "You attack %s with your tongue."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "%1$s attacks %2$s with their tongue."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Failing"
+msgstr ""
+
+#. ~ Description for {'str': 'Failing'}
+#: .\nec_mutations.json
+msgid "Your body starts breaking apart. You become more encumbered and frail."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Torn Membrane"
+msgstr ""
+
+#. ~ Description for {'str': 'Torn Membrane'}
+#: .\nec_mutations.json
+msgid ""
+"A membrane of deadly flesh, the wing of the fallen angel. Although you can "
+"not fly, a wing protects your body from attacks."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Extra Head"
+msgstr ""
+
+#. ~ Description for {'str': 'Extra Head'}
+#: .\nec_mutations.json
+msgid ""
+"There is another head on your shoulders. And here you thought you were doing"
+" well with just one. You can not see the other side of the face directly, "
+"but you can understand what you see over there. +5 Intelligence, +3 "
+"Perception"
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Crumbling"
+msgstr ""
+
+#. ~ Description for {'str': 'Crumbling'}
+#: .\nec_mutations.json
+msgid ""
+"Your body is coming apart at its seams. You become even more encumbered and "
+"frail."
+msgstr ""
+
+#: .\nec_mutations.json
+msgid "Patchwork"
+msgstr ""
+
+#. ~ Description for {'str': 'Patchwork'}
+#: .\nec_mutations.json
+msgid ""
+"You can conveniently change your body. Although it will be slightly weaker "
+"against attacks, the overall encumbrance is relaxed considerably."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Stacy Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Stacy Doll"
+msgstr ""
+
+#. ~ Profession (male Stacy Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You are the"
+" most basic of the dolls, but comes equipped with useful skills and "
+"utilities."
+msgstr ""
+
+#. ~ Profession (female Stacy Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You are the"
+" most basic of the dolls, but comes equipped with useful skills and "
+"utilities."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Requiem Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Requiem Doll"
+msgstr ""
+
+#. ~ Profession (male Requiem Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"previous experience with firearms came handy in your now-undeath."
+msgstr ""
+
+#. ~ Profession (female Requiem Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"previous experience with firearms came handy in your now-undeath."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Thanatos Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Thanatos Doll"
+msgstr ""
+
+#. ~ Profession (male Thanatos Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. A tough "
+"combatant able to take on the biggest of threats in close combat."
+msgstr ""
+
+#. ~ Profession (female Thanatos Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. A tough "
+"combatant able to take on the biggest of threats in close combat."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Romanesque Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Romanesque Doll"
+msgstr ""
+
+#. ~ Profession (male Romanesque Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"graceful dancing has no equals."
+msgstr ""
+
+#. ~ Profession (female Romanesque Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"graceful dancing has no equals."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Baroque Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Baroque Doll"
+msgstr ""
+
+#. ~ Profession (male Baroque Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"genetics shifts uncontrollably, but you can utilize it to your advantage"
+msgstr ""
+
+#. ~ Profession (female Baroque Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. Your "
+"genetics shifts uncontrollably, but you can utilize it to your advantage"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Gothic Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Gothic Doll"
+msgstr ""
+
+#. ~ Profession (male Gothic Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You were "
+"designed to hunt down the other undead and devour them."
+msgstr ""
+
+#. ~ Profession (female Gothic Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You were "
+"designed to hunt down the other undead and devour them."
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_male"
+msgid "Erudite Doll"
+msgstr ""
+
+#: .\nec_professions.json
+msgctxt "profession_female"
+msgid "Erudite Doll"
+msgstr ""
+
+#. ~ Profession (male Erudite Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You have "
+"the skills to utilize explosives and a proper discipline on its usage."
+msgstr ""
+
+#. ~ Profession (female Erudite Doll) description
+#: .\nec_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are a doll, a result of occult reanimation on human corpses. You have "
+"the skills to utilize explosives and a proper discipline on its usage."
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Let's have a long talk.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Welcome to the story of the miniature garden.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Let's enjoy the dance of distortion.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Did you listen to the play?\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Let's have another tea party.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"What is that ringing bell? I wish it would stop.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Let's make your doll.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"I do not mind failure. You ARE dead after all.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Dolls are lovely things.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Let the curtain rise and the dead dance.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"... A tin of chicken dumplings? ...\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Welcome to the beautiful nightmare.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Please humiliate and destroy it.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Get the ten sided dice.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Now it is time to show you how it is done.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"I am completely beautiful!\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Oh, those of girls are disgusting people!\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"I'm not supposed to be complete, just elegant.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"I am the supreme and solitary necromancer!\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"That is such a crock of...\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"I am the last necromancer you will ever see.\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"OooooOooooOooo...\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"You think you are lucky?\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Muha... Muhahaha.... MUHAHAHAHAHAHA!\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"(Sings a song)\""
+msgstr ""
+
+#: .\nec_speech.json
+msgid "\"Haha, a hundred sided dice.\""
+msgstr ""
+
+#: .\nec_techniques.json
+msgid "Wrap Attack"
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "You wrap up %s"
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "<npcname> wraps up %s"
+msgstr ""
+
+#: .\nec_techniques.json
+msgid "Kung-fu below"
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "You attack %s powerfully."
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "<npcname> attacks %s powerfully"
+msgstr ""
+
+#: .\nec_techniques.json
+msgid "Whirlwind Feet"
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "You whirlwind kick %s."
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "<npcname> whirlwind kicks %s."
+msgstr ""
+
+#: .\nec_techniques.json
+msgid "Iron Mine"
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "You blow away %s with Iron Mine."
+msgstr ""
+
+#: .\nec_techniques.json
+#, c-format
+msgid "<npcname> blows away %s with Iron Mine."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "great knife"
+msgid_plural "great knifes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'great knife'}
+#: .\nec_tool.json
+msgid ""
+"A massively oversized knife. It is not very good at delicate works, but its "
+"primary function is second to none."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "monomolecular fiber"
+msgid_plural "monomolecular fibers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'monomolecular fiber'}
+#: .\nec_tool.json
+msgid ""
+"A thin, surprisingly sharp wire. It is used as a very sharp garrote capable "
+"of dismembering enemies precisely."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "giant scissors"
+msgid_plural "giant scissorss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'giant scissors'}
+#: .\nec_tool.json
+msgid ""
+"A huge pair of scissors for battle. It is difficult to walk around with, but"
+" its ruggedness and overwhelming cutting force are attractive."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "superior katana"
+msgid_plural "superior katanas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superior katana'}
+#: .\nec_tool.json
+msgid ""
+"An improved version of the katana. Inscription is carved with a sword that "
+"was forged by high technology."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "iron ball and chain"
+msgid_plural "iron ball and chains"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'iron ball and chain'}
+#: .\nec_tool.json
+msgid ""
+"A brutal weapon that is basically a metal ball attached to a chain. Not only"
+" it is capable of dealing crushing blows, it can be used to entangle "
+"enemies."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "flying guillotine"
+msgid_plural "flying guillotines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flying guillotine'}
+#: .\nec_tool.json
+msgid ""
+"A brutal weapon that is basically a saw-blade attached to a chain. Its "
+"sharpness and long length allows swift decapitation."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "combat lawnmower (off)"
+msgid_plural "combat lawnmowers (off)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'combat lawnmower (off)', 'str_pl': 'combat
+#. lawnmowers (off)'}.
+#: .\nec_tool.json
+msgid "The screw starts its terrifying rotation with a loud sound!"
+msgstr ""
+
+#. ~ Use action need_charges_msg for {'str': 'combat lawnmower (off)',
+#. 'str_pl': 'combat lawnmowers (off)'}.
+#: .\nec_tool.json
+msgid "You pull on the cord for a while... but nothing happens."
+msgstr ""
+
+#. ~ Description for {'str': 'combat lawnmower (off)', 'str_pl': 'combat
+#. lawnmowers (off)'}
+#: .\nec_tool.json
+msgid ""
+"A modified lawn mower used to mow down zombies. When turning on the switch, "
+"its blades start spinning waiting for their victims."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "combat lawnmower (on)"
+msgid_plural "combat lawnmowers (on)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action msg for {'str': 'combat lawnmower (on)', 'str_pl': 'combat
+#. lawnmowers (on)'}.
+#: .\nec_tool.json
+msgid "The screw slowly stops rotating."
+msgstr ""
+
+#. ~ Description for {'str': 'combat lawnmower (on)', 'str_pl': 'combat
+#. lawnmowers (on)'}
+#: .\nec_tool.json
+msgid ""
+"A combat lawnmower that has been activated. Its spinning blades will slice "
+"through anything in its way."
+msgstr ""
+
+#: .\nec_tool.json
+msgid "wrist-mounted hidden blade"
+msgid_plural "wrist-mounted hidden blades"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'wrist-mounted hidden blade'}
+#: .\nec_tool.json
+msgid ""
+"A small sword with a popping mechanism stored inside the glove. It was able "
+"to store and deploy instantaneously, and it was heavily used to assassinate "
+"key people."
+msgstr ""

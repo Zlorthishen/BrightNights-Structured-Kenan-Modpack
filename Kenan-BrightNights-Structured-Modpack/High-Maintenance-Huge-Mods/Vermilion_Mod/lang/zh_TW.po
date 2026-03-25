@@ -1,0 +1,757 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: VermilionMod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "The Vermilion Mod"
+msgstr "硃紅模組"
+
+#. ~ Description for The Vermilion Mod
+#: .\modinfo.json
+msgid ""
+"Adds a random assortment of over-the-top weapons, gear and risqué items for "
+"the depraved."
+msgstr "為墮落者添加一系列隨機的誇張武器、裝備和挑逗物品。"
+
+#: .\ver_ammo.json .\ver_ammo_types.json
+msgid "14.5x114mm"
+msgid_plural "14.5x114mm"
+msgstr[0] "14.5x114毫米"
+
+#. ~ Description for {'str': '14.5x114mm', 'str_pl': '14.5x114mm'}
+#: .\ver_ammo.json
+msgid ""
+"A large proprietary cartridge for the PTRS-41 anti-tank rifle. Packs a hell "
+"of a punch, but it has limited use."
+msgstr "PTRS-41反坦克步槍專用的大型彈藥。威力巨大，但用途有限。"
+
+#: .\ver_ammo.json
+msgid "reloaded 14.5x114mm"
+msgid_plural "reloaded 14.5x114mms"
+msgstr[0] "重裝填的14.5x114毫米"
+
+#. ~ Description for {'str': 'reloaded 14.5x114mm'}
+#: .\ver_ammo.json
+msgid ""
+"A large proprietary cartridge for the PTRS-41 anti-tank rifle. Packs a hell "
+"of a punch, but it has limited use. This one has been hand-reloaded."
+msgstr "PTRS-41反坦克步槍專用的大型彈藥。威力巨大，但用途有限。此彈藥為手工重裝填。"
+
+#: .\ver_ammo.json
+msgid "14.5x114mm casing"
+msgid_plural "14.5x114mm casings"
+msgstr[0] "14.5x114毫米彈殼"
+
+#. ~ Description for {'str': '14.5x114mm casing'}
+#: .\ver_ammo.json
+msgid "A large, empty casing from a 14.5x114mm round."
+msgstr "14.5x114毫米子彈的大型空彈殼。"
+
+#: .\ver_ammo.json
+msgid "explosive rail"
+msgid_plural "explosive rails"
+msgstr[0] "爆炸性導軌"
+
+#. ~ Description for {'str': 'explosive rail'}
+#: .\ver_ammo.json
+msgid ""
+"A short piece of ferromagnetic rebar which has been straightened. A small, "
+"crude RDX-filled warhead has been installed on the tip, causing a small "
+"explosion on impact. Could be used as a projectile by a sufficiently "
+"powerful electromagnetic weapon."
+msgstr "一段被拉直的鐵磁性鋼筋。尖端安裝了一個粗糙的RDX填充彈頭，撞擊時會引起小爆炸。可由足夠強大的電磁武器用作彈丸。"
+
+#: .\ver_armor.json
+msgid "bomb suit"
+msgid_plural "bomb suits"
+msgstr[0] "防爆服"
+
+#. ~ Description for {'str': 'bomb suit', 'str_pl': 'bomb suits'}
+#: .\ver_armor.json
+msgid ""
+"A thick and bulky armored suit used by EOD operators during bomb disposals. "
+"It offers excellent protection against evironmental dangers and ballistics, "
+"but is very cumbersome and hot to wear. It also lacks any gloves, leaving "
+"your hands exposed."
+msgstr "EOD操作員在拆彈時使用的厚重裝甲服。提供出色的環境和彈道防護，但穿著非常笨重悶熱。且無手套，手部暴露在外。"
+
+#: .\ver_armor.json
+msgid "skimpy one-piece string swimsuit"
+msgid_plural "skimpy one-piece string swimsuits"
+msgstr[0] "暴露的連體細繩泳裝"
+
+#. ~ Description for {'str': 'skimpy one-piece string swimsuit', 'str_pl':
+#. 'skimpy one-piece string swimsuits'}
+#: .\ver_armor.json
+msgid ""
+"A women's one-piece 'swimsuit' that consists of skintight string and "
+"miniscule patches of ruffled blue and white striped cloth, barely covering "
+"anything private."
+msgstr "女士連體“泳裝”，由緊身細繩和極小的藍白條紋褶皺布片組成，幾乎未遮蓋任何私密部位。"
+
+#: .\ver_armor.json
+msgid "ofuda pasties"
+msgid_plural "ofuda pastiess"
+msgstr[0] "御札乳貼"
+
+#. ~ Description for {'str': 'ofuda pasties'}
+#: .\ver_armor.json
+msgid ""
+"A pair of paper talismans from a Shinto shrine meant to ward off evil, with "
+"an adhesive backside to make them stick onto surfaces. As much as you'd want"
+" to, these talismans won't help ward off the hordes of undead, so naturally "
+"the next thing to do is to wear them. Maybe the old gods haven't left yet "
+"and you'll receive protection?"
+msgstr ""
+"一對來自神道神社的紙質護符，用於驅邪，背面有粘性可粘貼於表面。儘管你希望如此，這些護符無法驅散成群的亡靈，因此自然的選擇是佩戴它們。或許古老的神明尚未離去，你會獲得庇護？"
+
+#: .\ver_armor.json
+msgid "ofuda maebari"
+msgid_plural "ofuda maebaris"
+msgstr[0] "御札前貼"
+
+#. ~ Description for {'str': 'ofuda maebari'}
+#: .\ver_armor.json
+msgid ""
+"A paper talisman from a Shinto shrine meant to ward off evil, with an "
+"adhesive backside to make it stick onto surfaces. As much as you'd want to, "
+"this talisman won't help ward off the hordes of undead, so naturally the "
+"next thing to do is to wear it. The last line in divine protection."
+msgstr ""
+"來自神道神社的紙質護符，用於驅邪，背面有粘性可粘貼於表面。儘管你希望如此，此護符無法驅散成群的亡靈，因此自然的選擇是佩戴它。這是神聖庇護的最後防線。"
+
+#: .\ver_armor.json
+msgid "tactical eyepatch"
+msgid_plural "tactical eyepatches"
+msgstr[0] "戰術眼罩"
+
+#. ~ Description for {'str': 'tactical eyepatch', 'str_pl': 'tactical
+#. eyepatches'}
+#: .\ver_armor.json
+msgid ""
+"A large black strip of neoprene stamped with Prism Block's logo on the front"
+" meant to be wrapped around the head, covering one eye and then some. "
+"Inserted on the inside is a small crystal screen, streaming real time "
+"footage with sophisticated targeting adjusters from the ultra HD bite-sized "
+"camera on the outer side of the eyepatch. Does not bring vision to a blind "
+"eye."
+msgstr ""
+"一條印有Prism "
+"Block標誌的大型黑色氯丁橡膠帶，可纏繞頭部，覆蓋一隻眼睛及周圍。內側嵌有小水晶屏，從眼罩外側的超高清微型攝像頭實時傳輸畫面，並配有精密瞄準調節器。無法為失明的眼睛恢復視力。"
+
+#: .\ver_armor.json
+msgid "PB staff armband"
+msgid_plural "PB staff armbands"
+msgstr[0] "PB員工臂章"
+
+#. ~ Description for {'str': 'PB staff armband', 'str_pl': 'PB staff
+#. armbands'}
+#: .\ver_armor.json
+msgid ""
+"A flexible piece of clear plastic that can be clipped around the arm. "
+"Clipping it turns it on, lighting the plastic in green with the word 'STAFF'"
+" and Prism Block's logo slowly rotating around the length of the armband."
+msgstr "一塊可彎曲的透明塑料片，可夾在手臂上。夾上即啟動，塑料發出綠光，顯示“員工”字樣，Prism Block標誌沿臂章長度緩慢旋轉。"
+
+#: .\ver_armor.json
+msgid "PB medical armband"
+msgid_plural "PB medical armbands"
+msgstr[0] "PB醫療臂章"
+
+#. ~ Description for {'str': 'PB medical armband', 'str_pl': 'PB medical
+#. armbands'}
+#: .\ver_armor.json
+msgid ""
+"A flexible piece of clear plastic that can be clipped around the arm. "
+"Clipping it turns it on, lighting the plastic in red with the word 'MEDIC' "
+"and Prism Block's logo slowly rotating around the length of the armband."
+msgstr "一塊可彎曲的透明塑料片，可夾在手臂上。夾上即啟動，塑料發出紅光，顯示“醫療”字樣，Prism Block標誌沿臂章長度緩慢旋轉。"
+
+#: .\ver_armor.json
+msgid "PB security armband"
+msgid_plural "PB security armbands"
+msgstr[0] "PB安保臂章"
+
+#. ~ Description for {'str': 'PB security armband', 'str_pl': 'PB security
+#. armbands'}
+#: .\ver_armor.json
+msgid ""
+"A flexible piece of clear plastic that can be clipped around the arm. "
+"Clipping it turns it on, lighting the plastic in yellow with the word "
+"'SECURITY' and Prism Block's logo slowly rotating around the length of the "
+"armband."
+msgstr "一塊可彎曲的透明塑料片，可夾在手臂上。夾上即啟動，塑料發出黃光，顯示“安保”字樣，Prism Block標誌沿臂章長度緩慢旋轉。"
+
+#: .\ver_armor.json
+msgid "PB science armband"
+msgid_plural "PB science armbands"
+msgstr[0] "PB科研臂章"
+
+#. ~ Description for {'str': 'PB science armband', 'str_pl': 'PB science
+#. armbands'}
+#: .\ver_armor.json
+msgid ""
+"A flexible piece of clear plastic that can be clipped around the arm. "
+"Clipping it turns it on, lighting the plastic in blue with the word "
+"'SCIENCE' and Prism Block's logo slowly rotating around the length of the "
+"armband."
+msgstr "一塊可彎曲的透明塑料片，可夾在手臂上。夾上即啟動，塑料發出藍光，顯示“科研”字樣，Prism Block標誌沿臂章長度緩慢旋轉。"
+
+#: .\ver_armor.json
+msgid "PB security armor"
+msgid_plural "PB security armors"
+msgstr[0] "PB安保裝甲"
+
+#. ~ Description for {'str': 'PB security armor', 'str_pl': 'PB security
+#. armors'}
+#: .\ver_armor.json
+msgid ""
+"Standard set of armor used by the Prism Block security staff. Consists of a "
+"black curve-hugging skintight neoprene bodysuit with an outer layer of white"
+" thick alloy armor covering the torso, arms and legs, with unarmored bits at"
+" the joints. 'SECURITY' is written on the left side of the breastplate."
+msgstr ""
+"稜鏡區塊安保人員使用的標準裝甲套裝。由一件黑色緊身氯丁橡膠連體衣構成，外層覆蓋著白色厚合金裝甲，保護軀幹、手臂和腿部，關節處為無裝甲部分。胸甲左側印有“SECURITY”字樣。"
+
+#: .\ver_armor.json
+msgid "PB security helmet"
+msgid_plural "PB security helmets"
+msgstr[0] "PB安保頭盔"
+
+#. ~ Description for {'str': 'PB security helmet', 'str_pl': 'PB security
+#. helmets'}
+#: .\ver_armor.json
+msgid ""
+"Standard issue helmet used by the Prism Block security staff. Consists of a "
+"sturdy, if somewhat bulky looking closed helmet that covers the entire head "
+"with a round, mirrored visor that covers the face and curves upwards to the "
+"top of the head."
+msgstr "稜鏡區塊安保人員使用的標準制式頭盔。由一頂堅固但略顯笨重的封閉式頭盔構成，覆蓋整個頭部，配有一個圓形鏡面面罩，覆蓋面部並向上彎曲至頭頂。"
+
+#: .\ver_armor.json
+msgid "PB traitor's suit"
+msgid_plural "PB traitor's suit"
+msgstr[0] "PB叛徒套裝"
+
+#. ~ Description for {'str': "PB traitor's suit", 'str_pl': "PB traitor's
+#. suit"}
+#: .\ver_armor.json
+msgid ""
+"A pair of elastic suspenders sewn together to form an X-shape over the "
+"torso, with their ends then sewn onto the heavily tattered remains of a "
+"Prism Block lab coat, its sleeves tied together around the waist and the "
+"rest of the coat acting as a waist cape, as it is much too worn down to be "
+"worn as a regular coat. On the sleeve-belt is a Prism Block ID tag belonging"
+" to a 'Shion O.'"
+msgstr ""
+"兩條彈性揹帶縫在一起，在軀幹上形成X形，末端縫在一件嚴重破損的稜鏡區塊實驗袍殘骸上。袖子在腰間繫在一起，其餘部分充當腰披風，因為它磨損得太厲害，無法作為常規外套穿著。袖帶上掛著一個稜鏡區塊身份標籤，屬於“Shion"
+" O.”。"
+
+#: .\ver_armor.json
+msgid "PB traitor's stompers"
+msgid_plural "PB traitor's stomperss"
+msgstr[0] "PB叛徒踐踏靴"
+
+#. ~ Description for {'str': "PB traitor's stompers"}
+#: .\ver_armor.json
+msgid ""
+"These might've once belonged to a soldier, but it's hard to say anymore. A "
+"pair of patched up, but sturdy looking kevlar and leather boots with steel "
+"reinforced heels for extra stomping strength."
+msgstr "這雙靴子可能曾屬於一名士兵，但現在很難說清了。一雙修補過但看起來堅固的凱夫拉和皮革靴子，帶有鋼製加固鞋跟，以增強踐踏力量。"
+
+#: .\ver_armor.json
+msgid "PB traitor's pants"
+msgid_plural "PB traitor's pantss"
+msgstr[0] "PB叛徒長褲"
+
+#. ~ Description for {'str': "PB traitor's pants"}
+#: .\ver_armor.json
+msgid ""
+"A tough pair of baggy weathered pants in woodland camo with kevlar patches "
+"on the knees."
+msgstr "一條堅韌的寬鬆風化長褲，採用林地迷彩，膝蓋處有凱夫拉補丁。"
+
+#: .\ver_books.json
+msgid "binder-CLASSIFIED #1117 CQC prototype"
+msgid_plural "binder-CLASSIFIED #1117 CQC prototypes"
+msgstr[0] "活頁夾-機密 #1117 CQC原型"
+
+#. ~ Description for {'str': 'binder-CLASSIFIED #1117 CQC prototype',
+#. 'str_pl': 'binder-CLASSIFIED #1117 CQC prototypes'}
+#: .\ver_books.json
+msgid ""
+"A thick binder filled with technical documents with coffee stains seemingly "
+"on every page. There's something about teaching bionic soldiers on how to "
+"use a special blade written in here."
+msgstr "一本厚厚的活頁夾，裝滿了技術文檔，似乎每一頁都有咖啡漬。裡面寫著一些關於教導仿生士兵如何使用特殊刀刃的內容。"
+
+#: .\ver_books.json
+msgid "Prism Block leaflet"
+msgid_plural "Prism Block leaflets"
+msgstr[0] "稜鏡區塊宣傳冊"
+
+#. ~ Description for {'str': 'Prism Block leaflet', 'str_pl': 'Prism Block
+#. leaflets'}
+#: .\ver_books.json
+msgid ""
+"A double-sided leaflet that opens annoyingly wide, cataloging weird and "
+"bizarre high-tech home appliances on one side and military and law "
+"enforcement equipment on the other side."
+msgstr "一份雙面宣傳冊，展開時寬得令人惱火，一面 cataloging 奇怪詭異的高科技家用電器，另一面 cataloging 軍事和執法裝備。"
+
+#. ~ Description for {'str': 'Prism Block leaflet', 'str_pl': 'Prism Block
+#. leaflets'}
+#: .\ver_books.json
+msgid ""
+"A double-sided leaflet that opens annoyingly wide, cataloging weird and "
+"bizarre high-tech home appliances on one side and military and law "
+"enforcement equipment on the other side. Someone has attached post-it notes "
+"and scribbled instructions on how to make homemade variants of some of the "
+"equipment, and it should be pretty easy for someone smart enough to figure "
+"out how to build them. There's a drawing of a canine-eared person's head "
+"giving a smug grin while holding up a victory sign decorating the last page."
+msgstr ""
+"一份雙面宣傳冊，展開時寬得令人惱火，一面 cataloging 奇怪詭異的高科技家用電器，另一面 cataloging "
+"軍事和執法裝備。有人貼了便利貼並潦草地寫下了如何自制其中一些裝備的說明，對於足夠聰明的人來說，應該很容易弄清楚如何製造它們。最後一頁裝飾著一幅畫，畫中是一個長著犬耳的人頭，帶著得意的笑容，比著勝利的手勢。"
+
+#: .\ver_gunmods.json
+msgid "ceramic blade"
+msgid_plural "ceramic blades"
+msgstr[0] "陶瓷刀刃"
+
+#: .\ver_gunmods.json
+msgid ""
+"A welded meter-long reinforced ceramic blade for the S-01 Rail Accelerator "
+"mk2, poking backwards like a reverse bayonet, where the stock should be. The"
+" blade makes it impossible to rest the launcher against your shoulder. If "
+"you somehow manage to swing the Rail Accelerator at an enemy, be sure to hit"
+" them with this."
+msgstr ""
+"一根焊接的一米長強化陶瓷刀刃，用於S-01軌道加速器mk2，像反向刺刀一樣向後突出，位於槍托應有的位置。這把刀刃使得發射器無法抵肩。如果你設法用軌道加速器揮向敵人，務必用這個擊中他們。"
+
+#: .\ver_gunmods.json
+msgid "stock"
+msgstr "槍托"
+
+#: .\ver_gunmods.json
+msgid "cushioned handle"
+msgid_plural "cushioned handles"
+msgstr[0] "緩衝握把"
+
+#: .\ver_gunmods.json
+msgid ""
+"A foam cushioned handle for the S-01 Rail Accelerator mk2 installed on the "
+"picatinny rail where sights should go. It makes lugging the launcher by your"
+" side just a bit more comfortable."
+msgstr "一個泡沫緩衝握把，用於S-01軌道加速器mk2，安裝在皮卡汀尼導軌上，原本是瞄準鏡的位置。它讓隨身攜帶發射器稍微舒適一點。"
+
+#: .\ver_gunmods.json
+msgid "sights"
+msgstr "瞄準具"
+
+#: .\ver_gunmods.json
+msgid "tuned magnetic accelerator"
+msgid_plural "tuned magnetic accelerators"
+msgstr[0] "調諧磁力加速器"
+
+#: .\ver_gunmods.json
+msgid ""
+"Two long pieces of magnetized industrial-grade steel, each wrapped up in "
+"copper wire meant to be used with the S-01 Rail Accelerator mk2, acting as a"
+" further accelerator for projectiles.  Keep your hands away from it."
+msgstr "兩塊長條磁化工業級鋼材，每塊都纏繞著銅線，用於S-01軌道加速器mk2，作為彈丸的進一步加速器。請勿用手觸碰。"
+
+#: .\ver_gunmods.json
+msgid "barrel"
+msgstr "槍管"
+
+#: .\ver_gunmods.json
+msgid "plutonium battery"
+msgid_plural "plutonium batterys"
+msgstr[0] "鈈電池"
+
+#: .\ver_gunmods.json
+msgid ""
+"A home-made cluster of ten plutonium sticks held together with bolted metal "
+"rings that can be used to lessen the incredible power draw of the S-01 Rail "
+"Accelerator mk2. Because of its makeshift nature, it is leaking radiation "
+"until safely installed into the railgun's casing."
+msgstr ""
+"一個自制的由十根鈈棒組成的簇，用螺栓固定的金屬環固定在一起，可用於減輕S-01軌道加速器mk2的驚人功耗。由於其臨時性質，在安全安裝到軌道炮外殼之前，它會洩漏輻射。"
+
+#: .\ver_gunmods.json
+msgid "battery"
+msgstr "電池"
+
+#: .\ver_gunmods.json
+msgid "incendiary battery"
+msgid_plural "incendiary batterys"
+msgstr[0] "燃燒電池"
+
+#: .\ver_gunmods.json
+msgid ""
+"A container in the size of a can filled with incendiary powder and plutonium"
+" slurry that can be inserted into the S-01 Rail Accelerator mk2. Doing so "
+"will superheat the projectiles, causing the air they travel through to catch"
+" on fire while greatly improving their penetrative power."
+msgstr "一個罐子大小的容器，裝滿燃燒粉末和鈈漿，可插入S-01軌道加速器mk2。這樣做會使彈丸過熱，導致其穿過的空氣著火，同時大大提高其穿透力。"
+
+#: .\ver_gunmods.json
+msgid "shock battery"
+msgid_plural "shock batterys"
+msgstr[0] "電擊電池"
+
+#: .\ver_gunmods.json
+msgid ""
+"A container in the size of a can filled with magnesium powder, concentrated "
+"acid and plutonium slurry that can be inserted into the S-01 Rail "
+"Accelerator mk2. Doing so will charge the projectiles with electricity that "
+"will shock its targets."
+msgstr "一個罐子大小的容器，裝滿鎂粉、濃縮酸和鈈漿，可插入S-01軌道加速器mk2。這樣做會使彈丸帶電，電擊其目標。"
+
+#: .\ver_guns.json
+msgid "S-01 Rail Accelerator mk2"
+msgid_plural "S-01 Rail Accelerator mk2s"
+msgstr[0] "S-01軌道加速器mk2"
+
+#: .\ver_guns.json
+msgid ""
+"A crude, humongous hunk of tech scrap seated into the remains of what seems "
+"like a minigun's frame and the widened receiver of a large caliber machine "
+"gun, as well as numerous picatinny rails and odds and ends from other "
+"weapons that are now impossible to identify, reinforced with superalloy and "
+"ceramics covered in piezoelectric capacitors. The weapon launches rails at "
+"such an overkill velocity that they shatter on impact. Carved near the blade"
+" are the words 'With love, Shion' and a small carving of a canine-eared head"
+" of a person with a smug grin, holding up a victory sign."
+msgstr ""
+"一塊粗糙、巨大的科技廢料，安裝在似乎是加特林機槍框架和大口徑機槍加寬機匣的殘骸中，以及眾多皮卡汀尼導軌和其他現已無法識別的武器零件，用高溫合金和覆蓋壓電電容器的陶瓷加固。該武器以過高的速度發射軌道，以至於它們在撞擊時碎裂。刀刃附近刻著“With"
+" love, Shion”字樣，以及一個小雕刻，描繪了一個長著犬耳的人頭，帶著得意的笑容，比著勝利的手勢。"
+
+#: .\ver_guns.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\ver_guns.json
+msgid "auto"
+msgstr "自動"
+
+#: .\ver_guns.json
+msgid "PTRS-41"
+msgid_plural "PTRS-41s"
+msgstr[0] "PTRS-41"
+
+#: .\ver_guns.json
+msgid ""
+"The PTRS-41 is a semi-automatic anti-tank rifle produced and used by the "
+"Soviets during World War II. It fires the powerful 14.5x114mm cartridge, but"
+" getting ahold of those after the Cataclysm might prove to be a difficult "
+"task."
+msgstr ""
+"PTRS-41是二戰期間蘇聯生產和使用的一種半自動反坦克步槍。它發射威力強大的14.5x114毫米彈藥，但在大災變後想要搞到這些子彈可能是一項艱鉅的任務。"
+
+#: .\ver_items.json
+msgid "kantele"
+msgid_plural "kanteles"
+msgstr[0] "康特勒琴"
+
+#. ~ Description for {'str': 'kantele', 'str_pl': 'kanteles'}
+#: .\ver_items.json
+msgid ""
+"A traditional Finnish plucked string instrument played over the lap. It has "
+"a distinctive bell-like sound."
+msgstr "一種傳統的芬蘭撥絃樂器，演奏時置於膝上。它具有獨特的鐘鈴般音色。"
+
+#: .\ver_items.json
+msgid "egg vibrator"
+msgid_plural "egg vibrators"
+msgstr[0] "跳蛋"
+
+#. ~ Description for {'str': 'egg vibrator', 'str_pl': 'egg vibrators'}
+#: .\ver_items.json
+msgid ""
+"A discreet adult toy perfect for winding down and relaxing. Not as powerful "
+"as a regular vibrator, but takes up less space."
+msgstr "一款精巧的成人玩具，非常適合放鬆身心。雖不如常規振動器強勁，但更節省空間。"
+
+#: .\ver_items.json
+msgid "vintage MRE"
+msgid_plural "vintage MREs"
+msgstr[0] "老式單兵口糧"
+
+#. ~ Description for {'str': 'vintage MRE', 'str_pl': 'vintage MREs'}
+#: .\ver_items.json
+msgid ""
+"A 'Meal Ready to Eat' that was once fresh and just what any soldier needed. "
+"It comes with various food things and accessories. Nowadays, it's not "
+"looking as hot, but the contents should still be nice! Disassemble to "
+"unpack."
+msgstr "一種曾經新鮮、能滿足士兵需求的'即食餐'。內含多種食物和配件。如今看起來雖不怎麼樣，但裡面的東西應該還不錯！拆解即可打開。"
+
+#: .\ver_items.json
+msgid "vintage beef course"
+msgid_plural "vintage beef courses"
+msgstr[0] "老式牛肉主菜"
+
+#. ~ Description for {'str': 'vintage beef course'}
+#: .\ver_items.json
+msgid ""
+"The now unsealed main course of a vintage MRE. It's not looking incredibly "
+"appetizing, but it should still be good eating."
+msgstr "一份已開封的老式單兵口糧主菜。看起來不太誘人，但吃起來應該還行。"
+
+#: .\ver_items.json
+msgid "canine dildo"
+msgid_plural "canine dildos"
+msgstr[0] "犬型按摩棒"
+
+#. ~ Description for {'str': 'canine dildo', 'str_pl': 'canine dildos'}
+#: .\ver_items.json
+msgid ""
+"Well, this thing's sure obscene. It appears to be quite hefty and "
+"anatomically correct, too. If that's your thing, go wild. Pervert."
+msgstr "好吧，這東西確實夠下流的。它看起來相當沉重，而且解剖結構也很逼真。如果你就好這口，那就盡情享受吧。變態。"
+
+#: .\ver_items.json
+msgid "equine dildo"
+msgid_plural "equine dildos"
+msgstr[0] "馬型按摩棒"
+
+#. ~ Description for {'str': 'equine dildo', 'str_pl': 'equine dildos'}
+#: .\ver_items.json
+msgid ""
+"Good lord! How depraved can someone get? You suppose you could use it to "
+"whack zombies around thanks to its sheer size, if you won't mind it flopping"
+" around. Or just use it. Whatever."
+msgstr "老天爺！人到底能有多墮落？如果你不介意它晃來晃去，或許可以憑其巨大尺寸用來敲打殭屍。或者就直接用吧。隨便你。"
+
+#: .\ver_magazine.json
+msgid "PTRS-41 magazine"
+msgid_plural "PTRS-41 magazines"
+msgstr[0] "PTRS-41彈匣"
+
+#. ~ Description for {'str': 'PTRS-41 magazine'}
+#: .\ver_magazine.json
+msgid "A standard 5-round box magazine for the PTRS-41 anti-tank rifle."
+msgstr "PTRS-41反坦克步槍的標準5發彈匣。"
+
+#: .\ver_magazine.json
+msgid "S-01RA mk2 magazine"
+msgid_plural "S-01RA mk2 magazines"
+msgstr[0] "S-01RA mk2彈匣"
+
+#. ~ Description for {'str': 'S-01RA mk2 magazine'}
+#: .\ver_magazine.json
+msgid ""
+"A ridiculous, hand-made box magazine for the S-01 Rail Accelerator mk2. "
+"Holds 5 rails."
+msgstr "S-01軌道加速器mk2的荒謬手工彈匣。可容納5發軌道彈。"
+
+#: .\ver_martialarts.json
+msgid "Augmented Swordplay"
+msgstr "強化劍術"
+
+#. ~ Description for martial art '{'str': 'Augmented Swordplay'}'
+#: .\ver_martialarts.json
+msgid ""
+"You've poured through the technical binder and have become one with the "
+"high-frequency blade. Furthermore, you've learned how to block using bionic "
+"arms and legs."
+msgstr "你研讀了技術手冊，已與高頻刀刃融為一體。此外，你還學會了如何使用仿生手臂和腿部進行格擋。"
+
+#. ~ Initiate message for martial art '{'str': 'Augmented Swordplay'}'
+#: .\ver_martialarts.json
+msgid "You steady your blade and become one with it."
+msgstr "你穩住刀鋒，與之合為一體。"
+
+#. ~ Initiate message for martial art '{'str': 'Augmented Swordplay'}'
+#: .\ver_martialarts.json
+#, c-format
+msgid "%s enters a steadied stance."
+msgstr "%s進入穩固姿態。"
+
+#: .\ver_martialarts.json
+msgid "Heightened Focus"
+msgstr "高度專注"
+
+#. ~ Description of buff 'Heightened Focus' for martial art '{'str':
+#. 'Augmented Swordplay'}'
+#: .\ver_martialarts.json
+msgid "Time seems to slow down as you ready your blade."
+msgstr "當你準備揮刀時，時間彷彿慢了下來。"
+
+#: .\ver_martialarts.json
+msgid "Lucid Stance"
+msgstr "澄明架勢"
+
+#. ~ Description of buff 'Lucid Stance' for martial art '{'str': 'Augmented
+#. Swordplay'}'
+#: .\ver_martialarts.json
+msgid "A soul can't be cut."
+msgstr "靈魂是無法被斬斷的。"
+
+#: .\ver_martialarts.json
+msgid "Ninjutsu"
+msgstr "忍術"
+
+#: .\ver_martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr "二天一流"
+
+#: .\ver_martialarts.json
+msgid "Fior Di Battaglia"
+msgstr "戰鬥之花"
+
+#: .\ver_techniques.json
+msgid "Ripper Slash"
+msgstr "撕裂斬"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "You let go and rip %s"
+msgstr "你鬆手並撕裂了%s"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "<npcname> lets go and rips %s"
+msgstr "<npcname>鬆手並撕裂了%s"
+
+#: .\ver_techniques.json
+msgid "Shadow Slash"
+msgstr "影斬"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "You slash %s from the shadows"
+msgstr "你從陰影中劈砍 %s"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "<npcname> slashes %s from the shadows"
+msgstr "<npcname> 從陰影中劈砍 %s"
+
+#: .\ver_techniques.json
+msgid "Zandatsu"
+msgstr "斬奪"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "Time freezes! You phase-slash %s with your blade"
+msgstr "時間靜止！你用刀刃相位劈砍 %s"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "Time freezes! <npcname> phase-slashes %s with their blade"
+msgstr "時間靜止！<npcname> 用刀刃相位劈砍 %s"
+
+#: .\ver_techniques.json
+msgid "Leg sweep"
+msgstr "掃腿"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "You quickly sweep the legs under %s"
+msgstr "你迅速掃向 %s 的腿下"
+
+#: .\ver_techniques.json
+#, c-format
+msgid "<npcname> quickly sweeps the legs under %s"
+msgstr "<npcname> 迅速掃向 %s 的腿下"
+
+#: .\ver_weapons.json
+msgid "high-frequency blade"
+msgid_plural "high-frequency blades"
+msgstr[0] "高頻刀"
+
+#. ~ Description for {'str': 'high-frequency blade'}
+#: .\ver_weapons.json
+msgid ""
+"A high-tech prototype katana reinforced with a powerful alternating current,"
+" causing the blade to resonate at extremely high frequencies. Because of how"
+" the oscillation weakens any molecular bond the blade touches, it has little"
+" trouble cutting through most anything."
+msgstr "一把高科技原型武士刀，由強大的交流電強化，使刀刃以極高頻率共振。由於振盪會削弱刀刃接觸的任何分子鍵，它能輕鬆切割大多數物體。"
+
+#: .\ver_weapons.json
+msgid "jet hammer (off)"
+msgid_plural "jet hammer (off)s"
+msgstr[0] "噴氣錘（關閉）"
+
+#. ~ Use action msg for {'str': 'jet hammer (off)'}.
+#: .\ver_weapons.json
+msgid "The jet hammer sputters to life."
+msgstr "噴氣錘噼啪啟動。"
+
+#. ~ Use action need_charges_msg for {'str': 'jet hammer (off)'}.
+#: .\ver_weapons.json
+msgid "Not enough gasoline！"
+msgstr "汽油不足！"
+
+#. ~ Description for {'str': 'jet hammer (off)'}
+#: .\ver_weapons.json
+msgid ""
+"A large, full-metal sledgehammer that has a pair of tiny thrusters and a "
+"small engine attached to the head. Quite unwieldy and unbalanced when it's "
+"turned off. Activate to turn on."
+msgstr "一把大型全金屬大錘，錘頭裝有一對微型推進器和一個小引擎。關閉時相當笨重且不平衡。激活以開啟。"
+
+#: .\ver_weapons.json
+msgid "jet hammer (on)"
+msgid_plural "jet hammer (on)s"
+msgstr[0] "噴氣錘（開啟）"
+
+#. ~ Use action msg for {'str': 'jet hammer (on)'}.
+#: .\ver_weapons.json
+msgid "The jet hammer fizzles and goes quiet."
+msgstr "噴氣錘嘶嘶作響後歸於寂靜。"
+
+#. ~ Description for {'str': 'jet hammer (on)'}
+#: .\ver_weapons.json
+msgid ""
+"The jet hammer rumbles and revs. It is still quite unwieldy and unbalanced. "
+"Make a mess. Activate to turn off."
+msgstr "噴氣錘轟鳴並加速。它仍然相當笨重且不平衡。製造混亂。激活以關閉。"
+
+#: .\ver_weapons.json
+msgid "Absolute Reaper"
+msgid_plural "Absolute Reapers"
+msgstr[0] "絕對收割者"
+
+#. ~ Use action msg for {'str': 'Absolute Reaper'}.
+#: .\ver_weapons.json
+msgid "Reaper's got your name!"
+msgstr "收割者已記下你的名字！"
+
+#. ~ Description for {'str': 'Absolute Reaper'}
+#: .\ver_weapons.json
+msgid ""
+"'Reaper, reaper, that's what people call me. Why? 'Cause they all die. When "
+"I sing I end their lives...'"
+msgstr "'收割者，收割者，人們都這麼叫我。為什麼？因為他們都會死。當我歌唱時，我終結他們的生命……'"
+
+#: .\ver_weapons.json
+msgid "Absolute Sniper"
+msgid_plural "Absolute Snipers"
+msgstr[0] "絕對狙擊手"
+
+#: .\ver_weapons.json
+msgid ""
+"'Requiem aeternam. Bullet right through the sternum. Lullaby to hell, "
+"babe...'"
+msgstr "'永恆的安魂曲。子彈直穿胸骨。地獄搖籃曲，寶貝……'"

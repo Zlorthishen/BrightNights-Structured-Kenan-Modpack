@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: advtech\n"
-"POT-Creation-Date: 2022-09-09 13:34+0300\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -457,7 +457,7 @@ msgid_plural "Man or Machines"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for Man or Machine
+#. ~ Description for {'str': 'Man or Machine'}
 #: .\at_books.json
 msgid ""
 "The first book of the \"Man or Machine\" series, focused on the electronics "
@@ -473,7 +473,7 @@ msgid_plural "Man or Machine: Book Twos"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for Man or Machine: Book Two
+#. ~ Description for {'str': 'Man or Machine: Book Two'}
 #: .\at_books.json
 msgid ""
 "The second entry in an extensively detailed series documenting the "
@@ -489,7 +489,7 @@ msgid_plural "Man or Machine, Book Threes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for Man or Machine, Book Three
+#. ~ Description for {'str': 'Man or Machine, Book Three'}
 #: .\at_books.json
 msgid ""
 "The third book in a three book series on robotics and cyborgs. This book "
@@ -505,7 +505,7 @@ msgid_plural "Heavy Mech Machinerys"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for Heavy Mech Machinery
+#. ~ Description for {'str': 'Heavy Mech Machinery'}
 #: .\at_books.json
 msgid ""
 "A thick binder detailing the operation, maintenance and construction of "
@@ -536,7 +536,7 @@ msgid_plural "large auxilliary fuel pods"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for large auxilliary fuel pod
+#. ~ Description for {'str': 'large auxilliary fuel pod'}
 #: .\at_containers.json
 msgid "A gigantic steel pod designed to carry mass amounts of gasoline."
 msgstr ""
@@ -547,7 +547,7 @@ msgid_plural "small auxilliary fuel pods"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for small auxilliary fuel pod
+#. ~ Description for {'str': 'small auxilliary fuel pod'}
 #: .\at_containers.json
 msgid "A small fuel pod designed to hold large amounts of gasoline."
 msgstr ""
@@ -782,7 +782,7 @@ msgid_plural "broken sniper joes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for broken sniper joe
+#. ~ Description for {'str': 'broken sniper joe'}
 #: .\at_melee.json
 msgid ""
 "A broken sniper joe. Much less threatening now that it lies limp on solid "
@@ -795,7 +795,7 @@ msgid_plural "broken mets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for broken met
+#. ~ Description for {'str': 'broken met'}
 #: .\at_melee.json
 msgid ""
 "A broken met. Much less threatening now that it lies limp on solid ground. "
@@ -808,7 +808,7 @@ msgid_plural "destroyed cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for destroyed cyborg
+#. ~ Description for {'str': 'destroyed cyborg'}
 #: .\at_melee.json
 msgid ""
 "This is a heavily damaged cyborg, composed of a previously dead human, "
@@ -821,7 +821,7 @@ msgid_plural "destroyed heavy cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for destroyed heavy cyborg
+#. ~ Description for {'str': 'destroyed heavy cyborg'}
 #: .\at_melee.json
 msgid ""
 "This is a heavily damaged cyborg, sturdy in it's construction, with many "
@@ -836,9 +836,8 @@ msgid_plural "destroyed advanced cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for destroyed advanced cyborg
-#. ~ Description for hibernating advanced cyborg
-#: .\at_melee.json .\cyborg\at_activateable_cyborgs.json
+#. ~ Description for {'str': 'destroyed advanced cyborg'}
+#: .\at_melee.json
 msgid ""
 "A sturdy mechanical body, with little in the way of organic matter visible. "
 "It has what appears to be segments of power armor grafted to its skin and "
@@ -1031,7 +1030,7 @@ msgid_plural "sniper joes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for sniper joe
+#. ~ Description for {'str': 'sniper joe'}
 #: .\at_monsters.json
 msgid ""
 "A humanoid robot, designed for combat and stealth, it is fairly well "
@@ -1090,7 +1089,7 @@ msgid_plural "mets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for met
+#. ~ Description for {'str': 'met'}
 #: .\at_monsters.json
 msgid ""
 "A human shaped robot with an empty expression on it's immobile steel face. "
@@ -1098,17 +1097,16 @@ msgid ""
 msgstr ""
 
 #: .\at_monsters.json
-msgid "cyborg"
-msgid_plural "cyborgs"
+msgid "blob cyborg"
+msgid_plural "blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for cyborg
+#. ~ Description for {'str': 'blob cyborg'}
 #: .\at_monsters.json
 msgid ""
-"An artifically reanimated human corpse, now twisted with mechanical and "
-"electronic components, this is essentially a zombie of steel, not decayed "
-"flesh."
+"An artifically made blob human, now twisted with mechanical and electronic "
+"components."
 msgstr ""
 
 #: .\at_monsters.json
@@ -1116,33 +1114,33 @@ msgid "The turret fires its smg!"
 msgstr ""
 
 #: .\at_monsters.json
-msgid "heavy cyborg"
-msgid_plural "heavy cyborgs"
+msgid "heavy blob cyborg"
+msgid_plural "heavy blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for heavy cyborg
+#. ~ Description for {'str': 'heavy blob cyborg'}
 #: .\at_monsters.json
 msgid ""
 "An upgraded cyborg, with a better frame and more armor, it is also a cleaner"
-" construction, the areas where flesh and metal meet are less patchwork, and "
-"a submachine gun mounted inside one of it's arms."
+" construction, the areas where artificial blob flesh and metal meet are less"
+" patchwork, and a submachine gun mounted inside one of it's arms."
 msgstr ""
 
 #: .\at_monsters.json
-msgid "advanced cyborg"
-msgid_plural "advanced cyborgs"
+msgid "advanced blob cyborg"
+msgid_plural "advanced blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for advanced cyborg
+#. ~ Description for {'str': 'advanced blob cyborg'}
 #: .\at_monsters.json
 msgid ""
 "A walking mass of hardened steel, the likeness of a human ends with it's "
 "face and silhouette. It's body is mostly composed of metal, with the "
-"delicate flesh components protected inside. What appears to be sections of "
-"power armor are welded onto it, and a state-of-the-art cerberus laser "
-"mounted on one of the arms."
+"delicate artificial blob flesh components protected inside. What appears to "
+"be sections of power armor are welded onto it, and a state-of-the-art "
+"cerberus laser mounted on one of the arms."
 msgstr ""
 
 #: .\at_power_armor.json
@@ -1335,11 +1333,6 @@ msgid ""
 msgstr ""
 
 #: .\at_ranged.json
-msgctxt "gun_type_type"
-msgid "rifle"
-msgstr ""
-
-#: .\at_ranged.json
 msgid "USAS 20"
 msgid_plural "USAS 20s"
 msgstr[0] ""
@@ -1351,19 +1344,6 @@ msgid ""
 "Auto Assault-12 predecessor, it is a select-fire shotgun fed from large box "
 "or drum magazines.  The in-line recoil system and sheer weight make for "
 "pleasant shooting."
-msgstr ""
-
-#: .\at_ranged.json
-msgid "semi-auto"
-msgstr ""
-
-#: .\at_ranged.json
-msgid "auto"
-msgstr ""
-
-#: .\at_ranged.json
-msgctxt "gun_type_type"
-msgid "shotgun"
 msgstr ""
 
 #: .\at_ranged.json
@@ -1381,11 +1361,6 @@ msgid ""
 msgstr ""
 
 #: .\at_ranged.json
-msgctxt "gun_type_type"
-msgid "pistol"
-msgstr ""
-
-#: .\at_ranged.json
 msgid "M9887"
 msgid_plural "M9887s"
 msgstr[0] ""
@@ -1396,7 +1371,15 @@ msgid "What looks to be a AR-15 scaled up and bored out to use 11mm rounds."
 msgstr ""
 
 #: .\at_ranged.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\at_ranged.json
 msgid "burst"
+msgstr ""
+
+#: .\at_ranged.json
+msgid "auto"
 msgstr ""
 
 #: .\at_ranged.json
@@ -1458,11 +1441,6 @@ msgid "all barrels"
 msgstr ""
 
 #: .\at_ranged.json
-msgctxt "gun_type_type"
-msgid "launcher"
-msgstr ""
-
-#: .\at_ranged.json
 msgid "M14070a1 Bolt"
 msgid_plural "M14070a1 Bolts"
 msgstr[0] ""
@@ -1504,6 +1482,11 @@ msgstr ""
 
 #: .\at_ranged.json
 msgid "full auto"
+msgstr ""
+
+#: .\at_ranged.json
+msgctxt "gun_type_type"
+msgid "rifle"
 msgstr ""
 
 #: .\at_ranged.json
@@ -1620,6 +1603,23 @@ msgid ""
 " seem to do much anyways.\""
 msgstr ""
 
+#: .\at_snippets.json
+msgid ""
+"\"I met this cyborg, pretty friendly, unlike the majority. I chatted with "
+"him about various things, pretty decent, but man, what kind of messed up "
+"stories he was telling me. That he saw some shit they were doing in these "
+"labs long before all this mess. Creatures, not even humans, compared to him,"
+" made out of blob. Yeah, artificial blob humans that just like him were "
+"turned into cyborgs. What kind of shit is this? Did they know about all this"
+" long before it happened? Man, it's messed up. I don't know.\""
+msgstr ""
+
+#: .\at_species.json
+msgid "cyborg"
+msgid_plural "cyborgs"
+msgstr[0] ""
+msgstr[1] ""
+
 #: .\at_speech.json
 msgid "\"I never asked for this!\""
 msgstr ""
@@ -1629,15 +1629,15 @@ msgid "\"What am I?\""
 msgstr ""
 
 #: .\at_speech.json
-msgid "\"What have I become?\""
+msgid "\"Am I a human?\""
 msgstr ""
 
 #: .\at_speech.json
-msgid "\"Oh, God!\""
+msgid "\"I will serve! Oh, God!\""
 msgstr ""
 
 #: .\at_speech.json
-msgid "\"I'm disgusting!\""
+msgid "\"I was made to serve!\""
 msgstr ""
 
 #: .\at_speech.json
@@ -1645,7 +1645,7 @@ msgid "\"All of my systems are online.\""
 msgstr ""
 
 #: .\at_speech.json
-msgid "\"I'm... alive?\""
+msgid "\"I'm... alive as a human?\""
 msgstr ""
 
 #: .\at_speech.json
@@ -1678,7 +1678,7 @@ msgid_plural "robotics toolkits"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for robotics toolkit
+#. ~ Description for {'str': 'robotics toolkit'}
 #: .\at_tools.json
 msgid ""
 "This is a cutting-edge piece of technology: a portable, laser precision, "
@@ -1908,7 +1908,7 @@ msgid_plural "thick composite platings"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for thick composite plating
+#. ~ Description for {'str': 'thick composite plating'}
 #: .\at_vehicle_parts_items.json
 msgid ""
 "A doubled up slab of military composite armor. If this doesn't protect you, "
@@ -1976,21 +1976,21 @@ msgid_plural "Military Bullbars"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for Military Bullbar
+#. ~ Description for {'str': 'Military Bullbar'}
 #: .\at_vehicle_parts_items.json
 msgid ""
 "A huge extra heavy duty bullbar for pushing cars and clearing brush. If this"
 " cant clear the path, nothing will."
 msgstr ""
 
-#. ~ Description for extra heavy duty frame
+#. ~ Description for {'str': 'extra heavy duty frame'}
 #: .\at_vehicle_parts_items.json
 msgid ""
 "A large, sturdy frame that appears to be two heavy duty frames combined, "
 "this is twice the strength, and twice the weight."
 msgstr ""
 
-#. ~ Description for super duty frame
+#. ~ Description for {'str': 'super duty frame'}
 #: .\at_vehicle_parts_items.json
 msgid ""
 "A large, sturdy frame that appears to be a extra heavy duty frame combined "
@@ -2090,7 +2090,10 @@ msgstr ""
 
 #. ~ Description for Advanced Technologies
 #: .\modinfo.json
-msgid "Adds advanced armors, weapons, mech parts, robots, and crafting."
+msgid ""
+"Adds advanced craftable vehicle parts, mech parts to craft vehicle mechs, "
+"craftable blob cyborgs, some new robots, some new armors, weapons and "
+"crafting."
 msgstr ""
 
 #: .\vehicles_at.json
@@ -2098,52 +2101,60 @@ msgid "M1070 Oshkosh placeholder"
 msgstr ""
 
 #: .\cyborg\at_activateable_cyborgs.json
-msgid "hibernating cyborg"
-msgid_plural "hibernating cyborgs"
+msgid "hibernating blob cyborg"
+msgid_plural "hibernating blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action friendly_msg for hibernating cyborg.
-#. ~ Use action friendly_msg for hibernating heavy cyborg.
-#. ~ Use action friendly_msg for hibernating advanced cyborg.
+#. ~ Use action friendly_msg for {'str': 'hibernating blob cyborg'}.
+#. ~ Use action friendly_msg for {'str': 'hibernating heavy blob cyborg'}.
+#. ~ Use action friendly_msg for {'str': 'hibernating advanced blob cyborg'}.
 #: .\cyborg\at_activateable_cyborgs.json
-msgid "The cyborg activates, and raises to it's feet."
+msgid "The blob cyborg activates, and raises to it's feet."
 msgstr ""
 
-#. ~ Use action hostile_msg for hibernating cyborg.
-#. ~ Use action hostile_msg for hibernating heavy cyborg.
-#. ~ Use action hostile_msg for hibernating advanced cyborg.
+#. ~ Use action hostile_msg for {'str': 'hibernating blob cyborg'}.
+#. ~ Use action hostile_msg for {'str': 'hibernating heavy blob cyborg'}.
+#. ~ Use action hostile_msg for {'str': 'hibernating advanced blob cyborg'}.
 #: .\cyborg\at_activateable_cyborgs.json
-msgid "You've activate the cyborg improperly, and it attacks!"
+msgid "You've activated the blob cyborg improperly, and it attacks!"
 msgstr ""
 
-#. ~ Description for hibernating cyborg
+#. ~ Description for {'str': 'hibernating blob cyborg'}
 #: .\cyborg\at_activateable_cyborgs.json
 msgid ""
-"This is an inactive cyborg, composed of a previously dead human, several "
-"bionic upgrades, and some limiters and control systems."
+"This is an inactive blob cyborg, composed of an artificial blob human, "
+"several bionic upgrades, and some limiters and control systems."
 msgstr ""
 
 #: .\cyborg\at_activateable_cyborgs.json
-msgid "hibernating heavy cyborg"
-msgid_plural "hibernating heavy cyborgs"
+msgid "hibernating heavy blob cyborg"
+msgid_plural "hibernating heavy blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for hibernating heavy cyborg
+#. ~ Description for {'str': 'hibernating heavy blob cyborg'}
 #: .\cyborg\at_activateable_cyborgs.json
 msgid ""
-"This is an inactive cyborg, sturdy in it's construction, with many pieces of"
-" extra hardware attached, and a thick steel skin, covering it's advanced "
-"electronics and life sustaining systems. It it's current state, this cyborg "
-"is probably less man than machine."
+"This is an inactive blob cyborg, sturdy in it's construction, with many "
+"pieces of extra hardware attached, and a thick steel skin, covering it's "
+"advanced electronics and life sustaining systems. It it's current state, "
+"this cyborg is probably less blob man than machine."
 msgstr ""
 
 #: .\cyborg\at_activateable_cyborgs.json
-msgid "hibernating advanced cyborg"
-msgid_plural "hibernating advanced cyborgs"
+msgid "hibernating advanced blob cyborg"
+msgid_plural "hibernating advanced blob cyborgs"
 msgstr[0] ""
 msgstr[1] ""
+
+#. ~ Description for {'str': 'hibernating advanced blob cyborg'}
+#: .\cyborg\at_activateable_cyborgs.json
+msgid ""
+"A sturdy mechanical body, with little in the way of artificial organic "
+"matter visible. It has what appears to be segments of power armor grafted to"
+" its skin and steel frame, with cybernetic augmentations protruding."
+msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
 msgid "advanced organic-interfacing processor unit"
@@ -2151,12 +2162,13 @@ msgid_plural "advanced organic-interfacing processor units"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for advanced organic-interfacing processor unit
+#. ~ Description for {'str': 'advanced organic-interfacing processor unit'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
 "A large mass of wiring, chips, and circuits encased in plastic, all running "
 "in parallel to operate a cyborg's motor skills and life support systems. Can"
-" attach to a brain to restore some functionality lost upon death."
+" attach to an artificial blob version of a human brain to add additional "
+"functionalities."
 msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
@@ -2165,12 +2177,13 @@ msgid_plural "augmented hearts"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for augmented heart
+#. ~ Description for {'str': 'augmented heart'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
-"A heart encapsulated in a protective plastic case, guarding against both "
-"decay and damage. Many wires and sensors protrude from the flesh, with "
-"several cables and hoses extending from the exterior of the case."
+"An artificial blob heart encapsulated in a protective plastic case, guarding"
+" against both decay and damage. Many wires and sensors protrude from the "
+"artificial blob flesh, with several cables and hoses extending from the "
+"exterior of the case."
 msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
@@ -2179,12 +2192,12 @@ msgid_plural "synthetic eyes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for synthetic eye
+#. ~ Description for {'str': 'synthetic eye'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
 "A spherical steel object, comprised of high quality lenses, a camera, and "
 "circuitry designed to be able to send readable data to either a human brain,"
-" or an electronic system."
+" artificial blob version of a human brain or an electronic system."
 msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
@@ -2193,24 +2206,24 @@ msgid_plural "cybernetic lungs"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for cybernetic lung
+#. ~ Description for {'str': 'cybernetic lung'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
 "A chunk of plastic barely resembling a lung. Only the outer piece is totally"
 " inorganic, with a silver-platinum alloy used as a antimicrobal and air "
-"filtration agent inside the organic interior."
+"filtration agent inside the artificial organic interior."
 msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
-msgid "artifical blood purifier"
-msgid_plural "artifical blood purifiers"
+msgid "artificial blood purifier"
+msgid_plural "artificial blood purifiers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for artifical blood purifier
+#. ~ Description for {'str': 'artificial blood purifier'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
-"A completely artifical organ designed to keep a cyborg's blood clean and "
+"A completely artificial organ designed to keep a cyborg's blood clean and "
 "free from parasites and infections. Functionally similar to a human kidney."
 msgstr ""
 
@@ -2220,12 +2233,12 @@ msgid_plural "cyborg frames"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for cyborg frame
+#. ~ Description for {'str': 'cyborg frame'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
-"A human corpse that has been thoroughly dissected, and is now covered with "
-"incisions of various sizes, allowing the many modifications to the skeletal "
-"structure."
+"An artificial blob human body that has been thoroughly dissected, and is now"
+" covered with incisions of various sizes, allowing the many modifications to"
+" the skeletal structure."
 msgstr ""
 
 #: .\cyborg\at_cyborg_components.json
@@ -2234,12 +2247,13 @@ msgid_plural "heavy cyborg frames"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for heavy cyborg frame
+#. ~ Description for {'str': 'heavy cyborg frame'}
 #: .\cyborg\at_cyborg_components.json
 msgid ""
-"A human corpse that has been dissected and augmented to a high degree. "
-"Little of the original skeleton is present, having been mostly replaced with"
-" hardened steel, and has sections of armor plating grafted to it's skin."
+"An artificial blob human body that has been dissected and augmented to a "
+"high degree. Little of the original skeleton is present, having been mostly "
+"replaced with hardened steel, and has sections of armor plating grafted to "
+"it's skin."
 msgstr ""
 
 #: .\robot\at_activateable_robots.json
@@ -2248,17 +2262,17 @@ msgid_plural "inactive sniper joes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action friendly_msg for inactive sniper joe.
+#. ~ Use action friendly_msg for {'str': 'inactive sniper joe'}.
 #: .\robot\at_activateable_robots.json
 msgid "The sniper joe activates and it's visor glows eerily."
 msgstr ""
 
-#. ~ Use action hostile_msg for inactive sniper joe.
+#. ~ Use action hostile_msg for {'str': 'inactive sniper joe'}.
 #: .\robot\at_activateable_robots.json
 msgid "You've made a mistake, and the sniper joe turns on you!"
 msgstr ""
 
-#. ~ Description for inactive sniper joe
+#. ~ Description for {'str': 'inactive sniper joe'}
 #: .\robot\at_activateable_robots.json
 msgid ""
 "This is an inactive Sniper Joe. Sniper Joes are advanced robots capable of "

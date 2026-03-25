@@ -1,0 +1,272 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fuji_mpp\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "Fuji's Military Profession Pack"
+msgstr ""
+
+#. ~ Description for Fuji's Military Profession Pack
+#: .\modinfo.json
+msgid "Adds numerous military themed professions"
+msgstr ""
+
+#: .\npc\classes.json
+msgid "Soldier"
+msgstr ""
+
+#: .\npc\classes.json
+msgid "I'm just here for the paycheck."
+msgstr ""
+
+#: .\npc\classes.json
+msgid "Operator"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Rifleman"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Rifleman"
+msgstr ""
+
+#. ~ Profession (male Military Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid ""
+"Frontline infantry, frontline infantry, frontline infantry, frontline "
+"infantry."
+msgstr ""
+
+#. ~ Profession (female Military Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid ""
+"Frontline infantry, frontline infantry, frontline infantry, frontline "
+"infantry."
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Marksman"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Marksman"
+msgstr ""
+
+#. ~ Profession (male Military Marksman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid ""
+"You like to think you're a real sniper, but really you're just infantry with"
+" a bigger gun."
+msgstr ""
+
+#. ~ Profession (female Military Marksman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid ""
+"You like to think you're a real sniper, but really you're just infantry with"
+" a bigger gun."
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Automatic Rifleman"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Automatic Rifleman"
+msgstr ""
+
+#. ~ Profession (male Military Automatic Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "S stands for suppressing fire!"
+msgstr ""
+
+#. ~ Profession (female Military Automatic Rifleman) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "S stands for suppressing fire!"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Grenadier"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Grenadier"
+msgstr ""
+
+#. ~ Profession (male Military Grenadier) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "There's no kill like overkill."
+msgstr ""
+
+#. ~ Profession (female Military Grenadier) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "There's no kill like overkill."
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_male"
+msgid "Military Breacher"
+msgstr ""
+
+#: .\prof\army.json
+msgctxt "profession_female"
+msgid "Military Breacher"
+msgstr ""
+
+#. ~ Profession (male Military Breacher) description
+#: .\prof\army.json
+msgctxt "prof_desc_male"
+msgid "Doors and windows everywhere dare not speak your name."
+msgstr ""
+
+#. ~ Profession (female Military Breacher) description
+#: .\prof\army.json
+msgctxt "prof_desc_female"
+msgid "Doors and windows everywhere dare not speak your name."
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Recon"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Recon"
+msgstr ""
+
+#. ~ Profession (male Operator Recon) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid "The only easy day was yesterday."
+msgstr ""
+
+#. ~ Profession (female Operator Recon) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid "The only easy day was yesterday."
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Sniper"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Sniper"
+msgstr ""
+
+#. ~ Profession (male Operator Sniper) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You spent days dueling an enemy sniper, then he just… died.  And then un-"
+"died."
+msgstr ""
+
+#. ~ Profession (female Operator Sniper) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You spent days dueling an enemy sniper, then he just… died.  And then un-"
+"died."
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Hacker"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Hacker"
+msgstr ""
+
+#. ~ Profession (male Operator Hacker) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You insist you're not a hacker, you're an 'Electronic Warfare Specialist'"
+msgstr ""
+
+#. ~ Profession (female Operator Hacker) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You insist you're not a hacker, you're an 'Electronic Warfare Specialist'"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator Undercover"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator Undercover"
+msgstr ""
+
+#. ~ Profession (male Operator Undercover) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've been tailing your target for months and now he's a zombie.  So much "
+"for that lead."
+msgstr ""
+
+#. ~ Profession (female Operator Undercover) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've been tailing your target for months and now he's a zombie.  So much "
+"for that lead."
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_male"
+msgid "Operator CBRN"
+msgstr ""
+
+#: .\prof\spc.json
+msgctxt "profession_female"
+msgid "Operator CBRN"
+msgstr ""
+
+#. ~ Profession (male Operator CBRN) description
+#: .\prof\spc.json
+msgctxt "prof_desc_male"
+msgid ""
+"Chemical weapons?  Check.  Biological outbreak?  Check.  Nuclear war?  "
+"Check.  Sounds like the perfect job for you!"
+msgstr ""
+
+#. ~ Profession (female Operator CBRN) description
+#: .\prof\spc.json
+msgctxt "prof_desc_female"
+msgid ""
+"Chemical weapons?  Check.  Biological outbreak?  Check.  Nuclear war?  "
+"Check.  Sounds like the perfect job for you!"
+msgstr ""

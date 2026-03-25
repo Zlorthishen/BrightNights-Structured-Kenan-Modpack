@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: adv_gear\n"
-"POT-Creation-Date: 2021-06-19 15:32+0700\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,6 +57,12 @@ msgstr ""
 #: .\definitions.json
 msgid "OTHER"
 msgstr ""
+
+#: .\definitions.json
+msgid "nanotech monster"
+msgid_plural "nanotech monsters"
+msgstr[0] ""
+msgstr[1] ""
 
 #: .\definitions.json
 msgid "nanotech"
@@ -149,12 +155,18 @@ msgstr ""
 #. ~ Description for Advanced Gear
 #: .\modinfo.json
 msgid ""
-"Extremely high-end items based around nanotech and 3D printing, mutations to"
-" be added later."
+"Extremely high-end items mod based around nanotech crafting and 3D printing,"
+" with basic materials that can be found in labs, mutations to be added "
+"later."
 msgstr ""
 
 #: .\professions.json
 msgctxt "profession_male"
+msgid "Nanotech Agent"
+msgstr ""
+
+#: .\professions.json
+msgctxt "profession_female"
 msgid "Nanotech Agent"
 msgstr ""
 
@@ -165,11 +177,6 @@ msgid ""
 "The nanotech project ALMOST finished in time to try to stop things.  But "
 "almost doesn't quite cut it these days.  You were tasked with keeping the "
 "prototypes safe, and trying to continue the research."
-msgstr ""
-
-#: .\professions.json
-msgctxt "profession_female"
-msgid "Nanotech Agent"
 msgstr ""
 
 #. ~ Profession (female Nanotech Agent) description
@@ -187,7 +194,7 @@ msgid_plural "nanotech gears"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech gear
+#. ~ Description for {'str': 'nanotech gear'}
 #: .\items\gear\equipment.json
 msgid "You shouldn't see this - nanogear"
 msgstr ""
@@ -198,12 +205,12 @@ msgid_plural "nanotech shields"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action msg for nanotech shield.
+#. ~ Use action msg for {'str': 'nanotech shield'}.
 #: .\items\gear\equipment.json
 msgid "Shield switched to active mode."
 msgstr ""
 
-#. ~ Description for nanotech shield
+#. ~ Description for {'str': 'nanotech shield'}
 #: .\items\gear\equipment.json
 msgid ""
 "A large shield composed of a cluster of nanites, currently in passive mode, "
@@ -217,12 +224,12 @@ msgid_plural "nanotech shield (active)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action msg for nanotech shield (active).
+#. ~ Use action msg for {'str': 'nanotech shield (active)'}.
 #: .\items\gear\equipment.json
 msgid "Shield switched to passive mode."
 msgstr ""
 
-#. ~ Description for nanotech shield (active)
+#. ~ Description for {'str': 'nanotech shield (active)'}
 #: .\items\gear\equipment.json
 msgid ""
 "A large shield composed of a cluster of nanites, currently in active mode, "
@@ -236,7 +243,7 @@ msgid_plural "nanotech 'mini-shoggoth' storages"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech 'mini-shoggoth' storage
+#. ~ Description for {'str': "nanotech 'mini-shoggoth' storage"}
 #: .\items\gear\equipment.json
 msgid ""
 "A large blob of nanites with an AI, it actively branches out pseudopods to "
@@ -250,19 +257,19 @@ msgid_plural "nanotech holsters"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action holster_msg for nanotech holster.
-#. ~ Use action holster_msg for nanotech sheath.
+#. ~ Use action holster_msg for {'str': 'nanotech holster'}.
+#. ~ Use action holster_msg for {'str': 'nanotech sheath'}.
 #: .\items\gear\equipment.json
 msgid "You store your %s"
 msgstr ""
 
-#. ~ Use action holster_prompt for nanotech holster.
-#. ~ Use action holster_prompt for nanotech sheath.
+#. ~ Use action holster_prompt for {'str': 'nanotech holster'}.
+#. ~ Use action holster_prompt for {'str': 'nanotech sheath'}.
 #: .\items\gear\equipment.json
 msgid "Store weapon"
 msgstr ""
 
-#. ~ Description for nanotech holster
+#. ~ Description for {'str': 'nanotech holster'}
 #: .\items\gear\equipment.json
 msgid ""
 "A small blob of nanites with an AI, it actively branches out pseudopods to "
@@ -276,7 +283,7 @@ msgid_plural "nanotech sheaths"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech sheath
+#. ~ Description for {'str': 'nanotech sheath'}
 #: .\items\gear\equipment.json
 msgid ""
 "A small blob of nanites with an AI, it actively branches out pseudopods to "
@@ -290,17 +297,17 @@ msgid_plural "nanotech magazine holders"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action holster_msg for nanotech magazine holder.
+#. ~ Use action holster_msg for {'str': 'nanotech magazine holder'}.
 #: .\items\gear\equipment.json
 msgid "You store your %s."
 msgstr ""
 
-#. ~ Use action holster_prompt for nanotech magazine holder.
+#. ~ Use action holster_prompt for {'str': 'nanotech magazine holder'}.
 #: .\items\gear\equipment.json
 msgid "Store ammo"
 msgstr ""
 
-#. ~ Description for nanotech magazine holder
+#. ~ Description for {'str': 'nanotech magazine holder'}
 #: .\items\gear\equipment.json
 msgid ""
 "A small blob of nanites with an AI, it stores magazines and assists in "
@@ -313,22 +320,22 @@ msgid_plural "nanosuits"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action menu_text for nanosuit.
-#. ~ Use action menu_text for nanosuit (heat+).
-#. ~ Use action menu_text for nanosuit (heat++).
-#. ~ Use action menu_text for nanosuit (heat+++).
-#. ~ Use action menu_text for nanosuit (heat++++).
-#. ~ Use action menu_text for nanosuit (heat+++++).
+#. ~ Use action menu_text for {'str': 'nanosuit'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat++++)'}.
+#. ~ Use action menu_text for {'str': 'nanosuit (heat+++++)'}.
 #: .\items\gear\equipment.json
 msgid "Cycle heating"
 msgstr ""
 
-#. ~ Use action msg for nanosuit.
+#. ~ Use action msg for {'str': 'nanosuit'}.
 #: .\items\gear\equipment.json
 msgid "Enabling nanosuit's heating mode."
 msgstr ""
 
-#. ~ Description for nanosuit
+#. ~ Description for {'str': 'nanosuit'}
 #: .\items\gear\equipment.json
 msgid ""
 "A cluster of carefully programmed nanites designed to fully cover the body "
@@ -341,15 +348,15 @@ msgid_plural "nanosuit (heat+)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action msg for nanosuit (heat+).
-#. ~ Use action msg for nanosuit (heat++).
-#. ~ Use action msg for nanosuit (heat+++).
-#. ~ Use action msg for nanosuit (heat++++).
+#. ~ Use action msg for {'str': 'nanosuit (heat+)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat++)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat+++)'}.
+#. ~ Use action msg for {'str': 'nanosuit (heat++++)'}.
 #: .\items\gear\equipment.json
 msgid "Increasing nanosuit's heating mode."
 msgstr ""
 
-#. ~ Description for nanosuit (heat+)
+#. ~ Description for {'str': 'nanosuit (heat+)'}
 #: .\items\gear\equipment.json
 msgid ""
 "A cluster of carefully programmed nanites designed to fully cover the body "
@@ -380,7 +387,7 @@ msgid_plural "nanosuit (heat+++++)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action msg for nanosuit (heat+++++).
+#. ~ Use action msg for {'str': 'nanosuit (heat+++++)'}.
 #: .\items\gear\equipment.json
 msgid "Disabled nanosuit's heating mode."
 msgstr ""
@@ -391,11 +398,24 @@ msgid_plural "nanotech liquid compressors"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech liquid compressor
+#. ~ Description for {'str': 'nanotech liquid compressor'}
 #: .\items\gear\equipment.json
 msgid ""
 "A heavily compressed liquid storage device, it is also capable of keeping "
 "its contents fresh and maintaining their temperature."
+msgstr ""
+
+#: .\items\gear\equipment.json
+msgid "nanotech liquid compressor d"
+msgid_plural "nanotech liquid compressor ds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'nanotech liquid compressor d'}
+#: .\items\gear\equipment.json
+msgid ""
+"A heavily compressed liquid storage device, it is basically a debug crooked "
+"nail that you should not see"
 msgstr ""
 
 #: .\items\gear\multitool.json
@@ -460,7 +480,7 @@ msgid ""
 " configurations.  Currently configured as a laser welder."
 msgstr ""
 
-#. ~ Description for metal nanopowder
+#. ~ Description for {'str': 'metal nanopowder'}
 #: .\items\gear\nanotech_ammo.json
 msgid ""
 "Incredibly finely powdered metal, it is useless for anything except use in "
@@ -473,7 +493,7 @@ msgid_plural "monomolecular dart feedstocks"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for monomolecular dart feedstock
+#. ~ Description for {'str': 'monomolecular dart feedstock'}
 #: .\items\gear\nanotech_ammo.json
 msgid "Batch of material with instructions to produce bursts of darts."
 msgstr ""
@@ -484,7 +504,7 @@ msgid_plural "monomolecular blade feedstocks"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for monomolecular blade feedstock
+#. ~ Description for {'str': 'monomolecular blade feedstock'}
 #: .\items\gear\nanotech_ammo.json
 msgid "Batch of material with instructions to produce bursts of blades."
 msgstr ""
@@ -495,7 +515,7 @@ msgid_plural "monomolecular wire feedstocks"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for monomolecular wire feedstock
+#. ~ Description for {'str': 'monomolecular wire feedstock'}
 #: .\items\gear\nanotech_ammo.json
 msgid ""
 "Batch of material with instructions to produce clouds of twisting wire.  "
@@ -508,7 +528,7 @@ msgid_plural "xl monomolecular wire feedstocks"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for xl monomolecular wire feedstock
+#. ~ Description for {'str': 'xl monomolecular wire feedstock'}
 #: .\items\gear\nanotech_ammo.json
 msgid ""
 "Large block of material for producing large clouds of monomolecular wire.  "
@@ -521,27 +541,27 @@ msgid_plural "nanotech ammo core (wire)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action menu_text for nanotech ammo core (wire).
-#. ~ Use action menu_text for nanotech ammo core (dart).
-#. ~ Use action menu_text for nanotech ammo core (blade).
-#. ~ Use action menu_text for nanotech ammo core (deathcloud).
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (wire)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (dart)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (blade)'}.
+#. ~ Use action menu_text for {'str': 'nanotech ammo core (deathcloud)'}.
 #: .\items\gear\nanotech_mags.json
 msgid "Reset and empty"
 msgstr ""
 
-#. ~ Use action msg for nanotech ammo core (wire).
-#. ~ Use action msg for nanotech ammo core (dart).
-#. ~ Use action msg for nanotech ammo core (blade).
-#. ~ Use action msg for nanotech ammo core (deathcloud).
+#. ~ Use action msg for {'str': 'nanotech ammo core (wire)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (dart)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (blade)'}.
+#. ~ Use action msg for {'str': 'nanotech ammo core (deathcloud)'}.
 #: .\items\gear\nanotech_mags.json
 msgid "You clear and reset your ammo core."
 msgstr ""
 
-#. ~ Description for nanotech ammo core (wire)
-#. ~ Description for nanotech ammo core (dart)
-#. ~ Description for nanotech ammo core (blade)
-#. ~ Description for nanotech ammo core (deathcloud)
-#. ~ Description for nanotech ammo core
+#. ~ Description for {'str': 'nanotech ammo core (wire)'}
+#. ~ Description for {'str': 'nanotech ammo core (dart)'}
+#. ~ Description for {'str': 'nanotech ammo core (blade)'}
+#. ~ Description for {'str': 'nanotech ammo core (deathcloud)'}
+#. ~ Description for {'str': 'nanotech ammo core'}
 #: .\items\gear\nanotech_mags.json
 msgid ""
 "An automated ammo production unit designed to process feedstock into usable "
@@ -579,7 +599,7 @@ msgid_plural "nanotech blades"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech blade
+#. ~ Description for {'str': 'nanotech blade'}
 #: .\items\gear\weapons.json
 msgid ""
 "An incredibly sharp blade of active nanites with a small handle.  Compresses"
@@ -592,7 +612,7 @@ msgid_plural "nanotech daggers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech dagger
+#. ~ Description for {'str': 'nanotech dagger'}
 #: .\items\gear\weapons.json
 msgid ""
 "An incredibly sharp blade of active nanites with a small handle.  Compresses"
@@ -607,7 +627,7 @@ msgid_plural "nanotech spears"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech spear
+#. ~ Description for {'str': 'nanotech spear'}
 #: .\items\gear\weapons.json
 msgid ""
 "An incredibly sharp spike of active nanites on a long handle, it contains "
@@ -736,10 +756,10 @@ msgid_plural "nanite core MK Is"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanite core MK I
-#. ~ Description for nanite core MK II
-#. ~ Description for nanite core MK III
-#. ~ Description for nanite core MK IV
+#. ~ Description for {'str': 'nanite core MK I'}
+#. ~ Description for {'str': 'nanite core MK II'}
+#. ~ Description for {'str': 'nanite core MK III'}
+#. ~ Description for {'str': 'nanite core MK IV'}
 #: .\items\production\cores.json
 msgid "Contains data on how to work with nanites."
 msgstr ""
@@ -750,7 +770,7 @@ msgid_plural "nanite guides"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanite guide
+#. ~ Description for {'str': 'nanite guide'}
 #: .\items\production\cores.json
 msgid "Contains data on producing standard items from a nanofactory."
 msgstr ""
@@ -779,7 +799,7 @@ msgid_plural "AI core (experimental)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for AI core (experimental)
+#. ~ Description for {'str': 'AI core (experimental)'}
 #: .\items\production\cores.json
 msgid "Experimental AI core, once used for high-end research tasks."
 msgstr ""
@@ -790,7 +810,7 @@ msgid_plural "AI core (blank)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for AI core (blank)
+#. ~ Description for {'str': 'AI core (blank)'}
 #: .\items\production\cores.json
 msgid "AI core, currently blank."
 msgstr ""
@@ -801,17 +821,17 @@ msgid_plural "nanite growth chamber (active)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action msg for nanite growth chamber (active).
+#. ~ Use action msg for {'str': 'nanite growth chamber (active)'}.
 #: .\items\production\nanites.json
 msgid "The bio-compatible nanites gather into a cluster for easy removal."
 msgstr ""
 
-#. ~ Use action not_ready_msg for nanite growth chamber (active).
+#. ~ Use action not_ready_msg for {'str': 'nanite growth chamber (active)'}.
 #: .\items\production\nanites.json
 msgid "Spawning is not yet complete."
 msgstr ""
 
-#. ~ Description for nanite growth chamber (active)
+#. ~ Description for {'str': 'nanite growth chamber (active)'}
 #: .\items\production\nanites.json
 msgid ""
 "A container full of materials and a small cluster of bio-compatible nanites "
@@ -825,7 +845,7 @@ msgid_plural "nanite growth chamber (complete)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanite growth chamber (complete)
+#. ~ Description for {'str': 'nanite growth chamber (complete)'}
 #: .\items\production\nanites.json
 msgid ""
 "A container full of bio-compatible nanites that have entered an idle state "
@@ -1018,14 +1038,14 @@ msgid_plural "nanotech hybrid frames"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech hybrid frame
+#. ~ Description for {'str': 'nanotech hybrid frame'}
 #: .\items\vehicle\frames-n-boards.json
 msgid ""
 "A large frame made of steel and reinforced with nanites.  Useful for "
 "crafting."
 msgstr ""
 
-#. ~ Description for nanotech hybrid frame
+#. ~ Description for {'str': 'nanotech hybrid frame'}
 #: .\items\vehicle\frames-n-boards.json
 msgid ""
 "A heavy metal framework infused with nanites working to augment the "
@@ -1037,7 +1057,7 @@ msgstr ""
 msgid "nanotech frame"
 msgstr ""
 
-#. ~ Description for nanotech frame
+#. ~ Description for {'str': 'nanotech frame'}
 #: .\items\vehicle\frames-n-boards.json
 msgid ""
 "A large cluster of nanites actively forming a support network for other "
@@ -1049,7 +1069,7 @@ msgstr ""
 msgid "nanotech board"
 msgstr ""
 
-#. ~ Description for nanotech board
+#. ~ Description for {'str': 'nanotech board'}
 #: .\items\vehicle\frames-n-boards.json
 msgid ""
 "A strong metal wall.  Keeps zombies outside the vehicle and prevents people "
@@ -1060,7 +1080,7 @@ msgstr ""
 msgid "nanotech quarterpanel"
 msgstr ""
 
-#. ~ Description for nanotech quarterpanel
+#. ~ Description for {'str': 'nanotech quarterpanel'}
 #: .\items\vehicle\frames-n-boards.json
 msgid ""
 "A half-height strong metal wall.  Keeps zombies outside the vehicle but "
@@ -1083,7 +1103,7 @@ msgid_plural "nanotech turrets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech turret
+#. ~ Description for {'str': 'nanotech turret'}
 #: .\items\vehicle\items.json
 msgid "You shouldn't see this. nanoturret"
 msgstr ""
@@ -1094,23 +1114,23 @@ msgid_plural "nanotech shredder turret (i)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Use action menu_text for nanotech shredder turret (i).
-#. ~ Use action menu_text for nanotech pistol turret (i).
-#. ~ Use action menu_text for nanotech rifle turret (i).
-#. ~ Use action menu_text for nanotech smg turret (i).
+#. ~ Use action menu_text for {'str': 'nanotech shredder turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech pistol turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech rifle turret (i)'}.
+#. ~ Use action menu_text for {'str': 'nanotech smg turret (i)'}.
 #: .\items\vehicle\items.json
 msgid "Switch to vehicle mode"
 msgstr ""
 
-#. ~ Use action msg for nanotech shredder turret (i).
-#. ~ Use action msg for nanotech pistol turret (i).
-#. ~ Use action msg for nanotech rifle turret (i).
-#. ~ Use action msg for nanotech smg turret (i).
+#. ~ Use action msg for {'str': 'nanotech shredder turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech pistol turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech rifle turret (i)'}.
+#. ~ Use action msg for {'str': 'nanotech smg turret (i)'}.
 #: .\items\vehicle\items.json
 msgid "Turret state switched."
 msgstr ""
 
-#. ~ Description for nanotech shredder turret (i)
+#. ~ Description for {'str': 'nanotech shredder turret (i)'}
 #. 
 #: .\items\vehicle\items.json
 msgid ""
@@ -1127,7 +1147,7 @@ msgid_plural "nanotech pistol turret (i)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech pistol turret (i)
+#. ~ Description for {'str': 'nanotech pistol turret (i)'}
 #. 
 #: .\items\vehicle\items.json
 msgid ""
@@ -1144,7 +1164,7 @@ msgid_plural "nanotech rifle turret (i)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech rifle turret (i)
+#. ~ Description for {'str': 'nanotech rifle turret (i)'}
 #. 
 #: .\items\vehicle\items.json
 msgid ""
@@ -1161,7 +1181,7 @@ msgid_plural "nanotech smg turret (i)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech smg turret (i)
+#. ~ Description for {'str': 'nanotech smg turret (i)'}
 #. 
 #: .\items\vehicle\items.json
 msgid ""
@@ -1202,7 +1222,7 @@ msgid_plural "xl nanite clusters"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for xl nanite cluster
+#. ~ Description for {'str': 'xl nanite cluster'}
 #: .\items\vehicle\items.json
 msgid ""
 "A very large blob of nanites that can be easily programmed into multiple "
@@ -1215,7 +1235,7 @@ msgid_plural "xl nanite cluster(ai)s"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for xl nanite cluster(ai)
+#. ~ Description for {'str': 'xl nanite cluster(ai)'}
 #: .\items\vehicle\items.json
 msgid ""
 "A very large blob of nanites that can be easily programmed into multiple "
@@ -1228,8 +1248,8 @@ msgid_plural "nanotech generators"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech generator
-#. ~ Description for nanotech power generator
+#. ~ Description for {'str': 'nanotech generator'}
+#. ~ Description for {'str': 'nanotech power generator'}
 #: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
 msgid "A mass of nanites and power cells optimized for generating power."
 msgstr ""
@@ -1242,7 +1262,7 @@ msgstr[1] ""
 
 #. ~ Description for {'str': 'nanotech storage array', 'str_pl': 'nanotech
 #. storage arrays'}
-#. ~ Description for nanotech storage array
+#. ~ Description for {'str': 'nanotech storage array'}
 #: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
 msgid "A mass of nanites programmed to store vast amounts of power."
 msgstr ""
@@ -1253,7 +1273,7 @@ msgid_plural "nanotech crawlers"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech crawler
+#. ~ Description for {'str': 'nanotech crawler'}
 #: .\items\vehicle\items.json .\items\vehicle\vehicle_parts.json
 msgid ""
 "A mass of nanites optimized for travel across any land-based surface while "
@@ -1264,7 +1284,7 @@ msgstr ""
 msgid "nanotech vehicle part"
 msgstr ""
 
-#. ~ Description for nanotech vehicle part
+#. ~ Description for {'str': 'nanotech vehicle part'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "Seeing this is a bug - nanovp"
 msgstr ""
@@ -1273,7 +1293,7 @@ msgstr ""
 msgid "nanotech vehicle part (foldable)"
 msgstr ""
 
-#. ~ Description for nanotech vehicle part (foldable)
+#. ~ Description for {'str': 'nanotech vehicle part (foldable)'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "Seeing this is a bug - nanovp_fold"
 msgstr ""
@@ -1282,7 +1302,7 @@ msgstr ""
 msgid "nanotech door"
 msgstr ""
 
-#. ~ Description for nanotech door
+#. ~ Description for {'str': 'nanotech door'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A very durable barrier composed of nanites acting as a door, it also "
@@ -1293,7 +1313,7 @@ msgstr ""
 msgid "nanotech iris"
 msgstr ""
 
-#. ~ Description for nanotech iris
+#. ~ Description for {'str': 'nanotech iris'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A highly durable iris composed of nanites, this blocks sight while also "
@@ -1304,7 +1324,7 @@ msgstr ""
 msgid "nanotech boat coating"
 msgstr ""
 
-#. ~ Description for nanotech boat coating
+#. ~ Description for {'str': 'nanotech boat coating'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "An outer coating of nanites that work together to seal out water while also "
@@ -1321,7 +1341,7 @@ msgid_plural "nanotech shredder turrets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech shredder turret
+#. ~ Description for {'str': 'nanotech shredder turret'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech shredder adapted for vehicular usage."
 msgstr ""
@@ -1332,7 +1352,7 @@ msgid_plural "nanotech pistol turrets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech pistol turret
+#. ~ Description for {'str': 'nanotech pistol turret'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech pistol adapted for vehicular usage."
 msgstr ""
@@ -1343,7 +1363,7 @@ msgid_plural "nanotech rifle turrets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech rifle turret
+#. ~ Description for {'str': 'nanotech rifle turret'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech rifle adapted for vehicular usage."
 msgstr ""
@@ -1352,7 +1372,7 @@ msgstr ""
 msgid "nanotech SMG turret"
 msgstr ""
 
-#. ~ Description for nanotech SMG turret
+#. ~ Description for {'str': 'nanotech SMG turret'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech smg adapted for vehicular usage."
 msgstr ""
@@ -1361,7 +1381,7 @@ msgstr ""
 msgid "nanotech aisle"
 msgstr ""
 
-#. ~ Description for nanotech aisle
+#. ~ Description for {'str': 'nanotech aisle'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech aisle, capable of assisting with lifting nearby objects."
 msgstr ""
@@ -1370,7 +1390,7 @@ msgstr ""
 msgid "nanotech roof"
 msgstr ""
 
-#. ~ Description for nanotech roof
+#. ~ Description for {'str': 'nanotech roof'}
 #: .\items\vehicle\vehicle_parts.json
 msgid "A nanotech roof that is capable of interfacing with a turret."
 msgstr ""
@@ -1379,7 +1399,7 @@ msgstr ""
 msgid "nanotech solar panel"
 msgstr ""
 
-#. ~ Description for nanotech solar panel
+#. ~ Description for {'str': 'nanotech solar panel'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large sheet of nanites arranged to capture sunlight and convert it to "
@@ -1390,7 +1410,7 @@ msgstr ""
 msgid "nanotech passive plating"
 msgstr ""
 
-#. ~ Description for nanotech passive plating
+#. ~ Description for {'str': 'nanotech passive plating'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Nanites formed into a self-reinforcing mesh designed to reduce incoming "
@@ -1401,7 +1421,7 @@ msgstr ""
 msgid "nanotech active plating"
 msgstr ""
 
-#. ~ Description for nanotech active plating
+#. ~ Description for {'str': 'nanotech active plating'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Nanites formed into a highly active mesh designed to shred anything they "
@@ -1409,10 +1429,10 @@ msgid ""
 msgstr ""
 
 #: .\items\vehicle\vehicle_parts.json
-msgid "nanotech compression tank (2500L)"
+msgid "nanotech compression tank (500L)"
 msgstr ""
 
-#. ~ Description for nanotech compression tank (2500L)
+#. ~ Description for {'str': 'nanotech compression tank (500L)'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Collection of nanites formed into a hollow sphere with a complex mechanism "
@@ -1423,7 +1443,7 @@ msgstr ""
 msgid "nanotech 'shoggoth' storage node"
 msgstr ""
 
-#. ~ Description for nanotech 'shoggoth' storage node
+#. ~ Description for {'str': "nanotech 'shoggoth' storage node"}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large blob of nanites with an AI, it actively branches out pseudopods to "
@@ -1434,7 +1454,7 @@ msgstr ""
 msgid "nanotech crafting node"
 msgstr ""
 
-#. ~ Description for nanotech crafting node
+#. ~ Description for {'str': 'nanotech crafting node'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large blob of nanites with an AI, it actively branches out pseudopods to "
@@ -1446,7 +1466,7 @@ msgstr ""
 msgid "nanotech fridge"
 msgstr ""
 
-#. ~ Description for nanotech fridge
+#. ~ Description for {'str': 'nanotech fridge'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Collection of nanites formed into a hollow container, a large portion of "
@@ -1458,7 +1478,7 @@ msgstr ""
 msgid "nanotech freezer"
 msgstr ""
 
-#. ~ Description for nanotech freezer
+#. ~ Description for {'str': 'nanotech freezer'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Collection of nanites formed into a hollow container, a large portion of "
@@ -1470,7 +1490,7 @@ msgstr ""
 msgid "installed nanofactory MK I"
 msgstr ""
 
-#. ~ Description for installed nanofactory MK I
+#. ~ Description for {'str': 'installed nanofactory MK I'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large and bulky prototype nanofactory sitting on a frame somehow not "
@@ -1481,7 +1501,7 @@ msgstr ""
 msgid "installed nanofactory MK II"
 msgstr ""
 
-#. ~ Description for installed nanofactory MK II
+#. ~ Description for {'str': 'installed nanofactory MK II'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large and bulky nanofactory sitting on a frame somehow not functioning "
@@ -1496,7 +1516,7 @@ msgstr ""
 msgid "nanotech anima"
 msgstr ""
 
-#. ~ Description for nanotech anima
+#. ~ Description for {'str': 'nanotech anima'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A mass of nanites programmed to locate mechanical power systems and "
@@ -1507,7 +1527,7 @@ msgstr ""
 msgid "nanotech control pod"
 msgstr ""
 
-#. ~ Description for nanotech control pod
+#. ~ Description for {'str': 'nanotech control pod'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A large blob of nanites you can enter, it acts as a combined control system,"
@@ -1518,7 +1538,7 @@ msgstr ""
 msgid "nanotech shock mesh"
 msgstr ""
 
-#. ~ Description for nanotech shock mesh
+#. ~ Description for {'str': 'nanotech shock mesh'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "A series of straps attached to the seat, intended to fasten together after "
@@ -1529,7 +1549,7 @@ msgstr ""
 msgid "nanotech sensor array"
 msgstr ""
 
-#. ~ Description for nanotech sensor array
+#. ~ Description for {'str': 'nanotech sensor array'}
 #: .\items\vehicle\vehicle_parts.json
 msgid ""
 "Advanced nanotech sensor array with basic armor, can transmit video to a "
@@ -1612,21 +1632,21 @@ msgstr ""
 msgid "You shouldn't see this. nano_turret_smg_weapon"
 msgstr ""
 
-#. ~ Description for nanotech pistol turret
+#. ~ Description for {'str': 'nanotech pistol turret'}
 #: .\monsters\turrets.json
 msgid ""
 "A shimmering pool of liquid metal with a small barrel sticking out, this "
 "turret specializes in accuracy, though it lacks in raw power."
 msgstr ""
 
-#. ~ Description for nanotech shredder turret
+#. ~ Description for {'str': 'nanotech shredder turret'}
 #: .\monsters\turrets.json
 msgid ""
 "A shimmering pool of liquid metal with a wide barrel sticking out, this "
 "turret specializes in power, though it lacks in accuracy and range."
 msgstr ""
 
-#. ~ Description for nanotech rifle turret
+#. ~ Description for {'str': 'nanotech rifle turret'}
 #: .\monsters\turrets.json
 msgid ""
 "A shimmering pool of liquid metal with a long barrel sticking out, this "
@@ -1639,7 +1659,7 @@ msgid_plural "nanotech smg turrets"
 msgstr[0] ""
 msgstr[1] ""
 
-#. ~ Description for nanotech smg turret
+#. ~ Description for {'str': 'nanotech smg turret'}
 #: .\monsters\turrets.json
 msgid ""
 "A shimmering pool of liquid metal with a short barrel sticking out, this "

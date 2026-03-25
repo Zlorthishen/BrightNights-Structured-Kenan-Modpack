@@ -1,0 +1,5074 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: sierra_madre\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\achievements.json
+msgid "<color_red>Ghost Hunter</color>"
+msgstr "<color_red>幽靈獵手</color>"
+
+#. ~ Description for <color_red>Ghost Hunter</color>
+#: .\achievements.json
+msgid "Kill 10 Ghost Harvesters, 10 Ghost Trappers and 10 Ghost Seekers."
+msgstr "擊殺10個幽靈收割者、10個幽靈陷阱者和10個幽靈搜尋者。"
+
+#: .\achievements.json
+msgid "<color_red>Fires in the sky</color>"
+msgstr "<color_red>天空之火</color>"
+
+#. ~ Description for <color_red>Fires in the sky</color>
+#: .\achievements.json
+msgid "Trigger the Gala Event."
+msgstr "觸發慶典事件。"
+
+#: .\achievements.json
+msgid "<color_red>Treasure of the Old World</color>"
+msgstr "<color_red>舊世界的寶藏</color>"
+
+#. ~ Description for <color_red>Treasure of the Old World</color>
+#. ~ Description for mission '{'str': 'Heist of the Centuries'}'
+#: .\achievements.json .\npcs\missions.json
+msgid "Crack the Sierra Madre open."
+msgstr "撬開塞拉馬德雷。"
+
+#: .\achievements.json
+msgid "<color_red>Stimpacked</color>"
+msgstr "<color_red>興奮劑強化</color>"
+
+#. ~ Description for <color_red>Stimpacked</color>
+#: .\achievements.json
+msgid "Heal your wounds instantly with the regenerating power of a stimpack."
+msgstr "利用興奮劑的再生力量瞬間治癒你的傷口。"
+
+#: .\achievements.json
+msgid "<color_red>Taste of Cloud</color>"
+msgstr "<color_red>雲之滋味</color>"
+
+#. ~ Description for <color_red>Taste of Cloud</color>
+#: .\achievements.json
+msgid "Drink Sierra Madre martini."
+msgstr "飲用馬德雷山脈馬提尼。"
+
+#: .\achievements.json
+msgid "<color_red>Sneaky sneaky</color>"
+msgstr "<color_red>潛行匿蹤</color>"
+
+#. ~ Description for <color_red>Sneaky sneaky</color>
+#: .\achievements.json
+msgid "Hide from sight of other creatures by using the Stealth Boy."
+msgstr "使用隱形小子躲避其他生物的視線。"
+
+#: .\achievements.json
+msgid "<color_red>Ghost Sight</color>"
+msgstr "<color_red>幽靈視界</color>"
+
+#. ~ Description for <color_red>Ghost Sight</color>
+#: .\achievements.json
+msgid "See the way Ghost People see."
+msgstr "以幽靈人的視角觀察世界。"
+
+#: .\achievements.json
+msgid "<color_red>The Power of Mind</color>"
+msgstr "<color_red>心靈之力</color>"
+
+#. ~ Description for <color_red>The Power of Mind</color>
+#: .\achievements.json
+msgid "Take some Mentats and see the true colors of the world."
+msgstr "服用曼他特，看清世界的真實色彩。"
+
+#: .\achievements.json
+msgid "<color_red>Last Luxuries</color>"
+msgstr "<color_red>最後的奢侈</color>"
+
+#. ~ Description for <color_red>Last Luxuries</color>
+#: .\achievements.json
+msgid "Relieve the horrible pain of the Old World..."
+msgstr "緩解舊世界的可怕痛苦……"
+
+#: .\achievements.json
+msgid "<color_red>Try to leave and BOOM</color>"
+msgstr "<color_red>試圖離開，然後——轟！</color>"
+
+#. ~ Description for <color_red>Try to leave and BOOM</color>
+#: .\achievements.json
+msgid "Disobey orders."
+msgstr "違抗命令。"
+
+#: .\effects.json
+msgid "Sierra Madre gas intoxication"
+msgstr "馬德雷山脈毒氣中毒"
+
+#. ~ Description of effect 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "You have been exposed to a dense pocket of the Sierra Madre toxic gas!"
+msgstr "你暴露在了一團高濃度的馬德雷山脈毒氣中！"
+
+#. ~ Apply message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "The highly concentrated Sierra Madre toxic gas surrounds you..."
+msgstr "高濃度的馬德雷山脈毒氣正包圍著你……"
+
+#. ~ Remove message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "You've managed to get out of the concentrated gas pocket in time..."
+msgstr "你及時脫離了那團高濃度毒氣……"
+
+#. ~ Miss message for effect(s) 'Sierra Madre gas intoxication'.
+#: .\effects.json
+msgid "Your body burns on the inside!"
+msgstr "你的體內在燃燒！"
+
+#: .\effects.json
+msgid "Sierra Madre Cloud expousure"
+msgstr "馬德雷山脈紅雲暴露"
+
+#. ~ Description of effect 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid ""
+"The Cloud of red, poisonous gas engulfing Sierra Madre slowly corrodes your "
+"body."
+msgstr "籠罩馬德雷山脈的紅色毒雲正緩慢侵蝕你的身體。"
+
+#. ~ Apply message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid ""
+"You've found yourself in the Sierra Madre. The red sky and the smell of "
+"copper and Old World gold indicate the contamination of the air by a lethal "
+"gas..."
+msgstr "你發現自己身處馬德雷山脈。紅色的天空、銅與舊世界黃金的氣味，都表明空氣中瀰漫著致命的毒氣……"
+
+#. ~ Miss message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid "You feel an unpleasant, burning sensation under your skin..."
+msgstr "你感到皮膚下有一種令人不適的灼燒感……"
+
+#. ~ Miss message for effect(s) 'Sierra Madre Cloud expousure'.
+#: .\effects.json
+msgid "Your lungs pain you and you struggle a bit to breathe..."
+msgstr "你的肺部疼痛，呼吸有些困難……"
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (weak)"
+msgstr "雲吻中毒（輕微）"
+
+#. ~ Description of effect 'Cloud Kiss intoxication (weak)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. While the doses's been "
+"fairly weak, it still makes you suffer a lot."
+msgstr "雲吻毒液已侵入你的身體。雖然劑量相當輕微，但仍讓你痛苦不堪。"
+
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (lethal)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid "Your throat burns!"
+msgstr "你的喉嚨在燃燒！"
+
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud Kiss intoxication (lethal)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (weak)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (potent)'.
+#. ~ Miss message for effect(s) 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid "You feel as if there was burning napalm inside your stomach!"
+msgstr "你感覺胃裡彷彿有燃燒的凝固汽油！"
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (potent)"
+msgstr "雲吻中毒（強烈）"
+
+#. ~ Description of effect 'Cloud Kiss intoxication (potent)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. It's concentrated "
+"enough to make you feel like dying and it might kill you if you're too weak "
+"to handle it."
+msgstr "雲吻毒液已侵入你的身體。濃度之高讓你感覺瀕臨死亡，若你過於虛弱無法承受，它可能會要了你的命。"
+
+#: .\effects.json .\spells.json
+msgid "Cloud Kiss intoxication (lethal)"
+msgstr "雲吻中毒（致命）"
+
+#. ~ Description of effect 'Cloud Kiss intoxication (lethal)'.
+#: .\effects.json
+msgid ""
+"The Cloud Kiss venom has found a way into your body. It's concentrated "
+"enough to straight-up kill you. Say goodbye to this cruel world..."
+msgstr "雲吻毒液已侵入你的身體。其濃度足以直接殺死你。向這個殘酷的世界告別吧……"
+
+#: .\effects.json
+msgid "Eaten raw flesh of a Ghost"
+msgstr "生食幽靈人肉"
+
+#. ~ Description of effect 'Eaten raw flesh of a Ghost'.
+#: .\effects.json
+msgid ""
+"The starvation and desperation brought you to eating Ghost People flesh "
+"straight from their bodies, raw. You feel the Sierra Madre toxins running "
+"through your veins..."
+msgstr "飢餓與絕望迫使你直接從幽靈人身上生食其肉。你感到馬德雷山脈的毒素在血管中流淌……"
+
+#. ~ Miss message for effect(s) 'Eaten raw flesh of a Ghost'.
+#. ~ Miss message for effect(s) 'Eaten prepared flesh of a Ghost'.
+#: .\effects.json
+msgid "You feel as if someone was gutting you alive!"
+msgstr "你感覺彷彿有人正在活生生地剖開你的內臟！"
+
+#: .\effects.json
+msgid "Eaten prepared flesh of a Ghost"
+msgstr "食用處理過的幽靈人肉"
+
+#. ~ Description of effect 'Eaten prepared flesh of a Ghost'.
+#: .\effects.json
+msgid ""
+"The starvation and desperation brought you to eating Ghost People flesh. "
+"You've prepared it, but still feel the Sierra Madre toxins running through "
+"your veins..."
+msgstr "飢餓與絕望迫使你食用幽靈人肉。你已將其處理過，但仍感到馬德雷山脈的毒素在血管中流淌……"
+
+#: .\effects.json
+msgid "Drank Sierra Madre Martini"
+msgstr "飲用馬德雷山脈馬提尼"
+
+#. ~ Description of effect 'Drank Sierra Madre Martini'.
+#: .\effects.json
+msgid ""
+"This martini tasted awful, but seems to strenghten you and help your body "
+"tissues regenerate. Apparently the Cloud can both deteriorate and "
+"regenerate, the latter you can easily observe on Ghost People. The right "
+"combination of ingredients allowed you to utilize the regenerative potential"
+" for yourself."
+msgstr ""
+"這杯馬提尼味道糟糕，但似乎能增強你的力量並幫助身體組織再生。顯然，雲層既能導致惡化也能促進再生，後者你可以在幽靈人身上輕易觀察到。正確的成分組合讓你得以利用這種再生潛力為己所用。"
+
+#. ~ Miss message for effect(s) 'Drank Sierra Madre Martini'.
+#: .\effects.json
+msgid ""
+"You feel mysterious strength empowering your entire body, boosting its "
+"healing capability."
+msgstr "你感到一股神秘的力量充盈全身，提升了你的癒合能力。"
+
+#: .\effects.json
+msgid "Injected stimpack"
+msgstr "注射治療針"
+
+#. ~ Description of effect 'Injected stimpack'.
+#: .\effects.json
+msgid ""
+"As opposed to the post-apocalyptic wasteland, upon injecting the stimpack "
+"you feel like coming back to life and shining with glory of a true survivor."
+msgstr "與後末日廢土不同，注射治療針後，你感覺重獲新生，閃耀著真正倖存者的榮光。"
+
+#. ~ Miss message for effect(s) 'Injected stimpack'.
+#: .\effects.json
+msgid "You feel alive, so alive... It's beautiful."
+msgstr "你感到充滿生機，如此鮮活……這感覺美妙無比。"
+
+#: .\effects.json
+msgid "Took Mentats"
+msgstr "服用曼他特"
+
+#. ~ Description of effect 'Took Mentats'.
+#: .\effects.json
+msgid ""
+"Your mind clears, your thought capacity increases, your vision sharpens. Now"
+" you see the truth..."
+msgstr "你的思維變得清晰，思考能力增強，視覺變得銳利。現在你看到了真相……"
+
+#: .\effects.json
+msgid "Injected Med-X"
+msgstr "注射醫療-X"
+
+#. ~ Description of effect 'Injected Med-X'.
+#: .\effects.json
+msgid "Your pain is being washed away and you feel stronger and more immune."
+msgstr "你的疼痛正在消退，你感到更強壯且更具免疫力。"
+
+#: .\effects.json .\spells.json
+msgid "Stealth Field"
+msgstr "潛行力場"
+
+#. ~ Description of effect 'Stealth Field'.
+#: .\effects.json
+msgid ""
+"The light bends and reflects around you hiding you from observers' eyes."
+msgstr "光線在你周圍彎曲反射，將你隱藏在觀察者的視線之外。"
+
+#. ~ Apply message for effect(s) 'Stealth Field'.
+#: .\effects.json
+msgid "You activate the Stealth Boy and hide behind the Stealth Field."
+msgstr "你啟動了潛行小子，隱藏在潛行力場之後。"
+
+#. ~ Remove message for effect(s) 'Stealth Field'.
+#: .\effects.json
+msgid "You're no longer hidden behind the Stealth Field."
+msgstr "你不再隱藏在潛行力場之後。"
+
+#: .\effects.json .\spells.json .\items\consumables.json
+msgid "Ghost Sight"
+msgid_plural "Flasks of Ghost Sight"
+msgstr[0] "幽靈視野"
+
+#. ~ Description of effect 'Ghost Sight'.
+#: .\effects.json
+msgid ""
+"Your throat burns after drinking the Ghost Sight, but now you can clearly "
+"see through the darkness."
+msgstr "飲用幽靈視野後，你的喉嚨灼燒，但現在你能清晰地看透黑暗。"
+
+#. ~ Apply message for effect(s) 'Ghost Sight'.
+#: .\effects.json
+msgid "You drink Ghost Sight and your eyes quickly adjust to the darkness."
+msgstr "你飲下幽靈視野，雙眼迅速適應了黑暗。"
+
+#. ~ Remove message for effect(s) 'Ghost Sight'.
+#: .\effects.json
+msgid ""
+"The effect of Ghost Sight wears off and you're back to your standard (lack "
+"of) nightvision."
+msgstr "幽靈視野的效果消退，你恢復了標準（缺乏）的夜視能力。"
+
+#: .\effects.json
+msgid "Sierra Madre Treasure Hunter"
+msgstr "馬德雷山脈寶藏獵人"
+
+#. ~ Description for {'str': 'Sierra Madre Treasure Hunter'}
+#: .\effects.json
+msgid ""
+"You're one of the many survivors who set on cracking the Sierra Madre open "
+"and finding the treasure of the Old World buried deep inside its vault."
+msgstr "你是眾多幸存者之一，決心破解馬德雷山脈，尋找深藏在其金庫中的舊世界寶藏。"
+
+#: .\effects.json
+msgid "Sierra Madre Casino Guest"
+msgstr "馬德雷山脈賭場賓客"
+
+#. ~ Description for {'str': 'Sierra Madre Casino Guest'}
+#: .\effects.json
+msgid ""
+"You're one of a couple survivors who saw the Sierra Madre Casino after the "
+"apocalypse came... Now you only need to get to the vault to claim the "
+"treasure of the Old World."
+msgstr "你是少數在末日降臨後目睹馬德雷山脈賭場的倖存者之一……現在你只需進入金庫，就能索取舊世界的寶藏。"
+
+#: .\effects.json
+msgid "Sierra Madre Conqueror"
+msgstr "馬德雷山脈征服者"
+
+#. ~ Description for {'str': 'Sierra Madre Conqueror'}
+#: .\effects.json
+msgid ""
+"And so you've cracked the Sierra Madre open, finally, after all you've been "
+"through you've uncovered its deepest secrets."
+msgstr "於是，你終於破解了馬德雷山脈，歷經一切後，你揭開了它最深的秘密。"
+
+#: .\effects.json
+msgid "Sierra Madre Gala leader"
+msgstr "馬德雷山脈慶典領袖"
+
+#. ~ Description for {'str': 'Sierra Madre Gala leader'}
+#: .\effects.json
+msgid ""
+"You've managed to successfully trigger the Gala Event, opening the door to "
+"the Sierra Madre Casino. Now it is time to enter this legendary resort."
+msgstr "你已成功觸發慶典事件，打開了通往錫耶拉馬德雷賭場的大門。現在，是時候進入這座傳奇度假勝地了。"
+
+#: .\effects.json
+msgid "The collar on your neck explodes, tearing your head apart!"
+msgstr "你脖子上的項圈爆炸了，將你的頭顱撕成碎片！"
+
+#: .\effects.json
+msgid "Cloud venom intoxication (weak)"
+msgstr "雲毒中毒（輕微）"
+
+#. ~ Description of effect 'Cloud venom intoxication (weak)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. The dose doesn't seem to be lethal, but you "
+"still feel like shit."
+msgstr "由錫耶拉馬德雷雲霧製成的毒液正流經你的血管，從內部灼燒著你。劑量似乎不致命，但你仍感覺糟透了。"
+
+#: .\effects.json
+msgid "Cloud venom intoxication (potent)"
+msgstr "雲毒中毒（強效）"
+
+#. ~ Description of effect 'Cloud venom intoxication (potent)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. The dose is potent and might seriously wreck "
+"your health or even kill you if your organism is too weak to handle it."
+msgstr "由錫耶拉馬德雷雲霧製成的毒液正流經你的血管，從內部灼燒著你。劑量強效，若你的身體過於虛弱無法承受，可能會嚴重損害健康甚至致命。"
+
+#: .\effects.json
+msgid "Cloud venom intoxication (lethal)"
+msgstr "雲毒中毒（致命）"
+
+#. ~ Description of effect 'Cloud venom intoxication (lethal)'.
+#: .\effects.json
+msgid ""
+"The venom made out of the Sierra Madre Cloud is running through yoru veins, "
+"burning you from the inside. You feel it in your guts that it won't end well"
+" for you..."
+msgstr "由錫耶拉馬德雷雲霧製成的毒液正流經你的血管，從內部灼燒著你。你從心底感到，這對你來說不會有好結果……"
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Sierra Madre Casino"
+msgid_plural "Hologram Projector - Locator of Sierra Madre Casinos"
+msgstr[0] "全息投影儀 - 錫耶拉馬德雷賭場定位器"
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Sierra Madre
+#. Casino'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Sierra Madre Casino"
+msgstr "這是一臺全息投影儀，激活時會生成一個交互式全息影像。全息影像可以與你交談，回答你的一些問題，但最重要的是，它能定位錫耶拉馬德雷賭場。"
+
+#: .\modinfo.json
+msgid "<color_red>Sierra Madre</color>"
+msgstr "<color_red>錫耶拉馬德雷</color>"
+
+#. ~ Description for <color_red>Sierra Madre</color>
+#: .\modinfo.json
+msgid ""
+"Adds the (in)famous villa and casino of the <color_red>Sierra Madre</color> "
+"which can be found via an abandoned bunker from Fallout New Vegas: Dead "
+"Money."
+msgstr "添加了（聲名狼藉的）<color_red>錫耶拉馬德雷</color>別墅與賭場，可通過《輻射：新維加斯 - 死錢》中的廢棄掩體找到。"
+
+#. ~ Description for {'str': 'Stealth Field'}
+#: .\spells.json
+msgid ""
+"The Stealth Field makes the user blend in with the surroundings by "
+"reflecting light in a way that makes it look as if no one was standing where"
+" the user is."
+msgstr "隱形力場通過反射光線使使用者融入周圍環境，看起來就像使用者所在的位置空無一人。"
+
+#. ~ Message for SPELL '{'str': 'Stealth Field'}'
+#: .\spells.json
+msgid "You hide behind the Stealth Field..."
+msgstr "你隱藏在隱形力場之後……"
+
+#. ~ Description for {'str': 'Ghost Sight'}
+#: .\spells.json
+msgid ""
+"Drinking the Ghost Sight isn't very healthy for you, but allows you to see "
+"in the same way as Ghost People do - darkness won't be a problem anymore."
+msgstr "飲用幽靈視野對你並不健康，但能讓你以幽靈族的方式視物——黑暗將不再是問題。"
+
+#. ~ Message for SPELL '{'str': 'Ghost Sight'}'
+#: .\spells.json
+msgid ""
+"Your vision sharpens, allowing you to see the world the way Ghost People do."
+msgstr "你的視覺變得敏銳，讓你能以幽靈族的方式觀察世界。"
+
+#: .\spells.json
+msgid "unlocking the Sierra Madre Casino vault entrance"
+msgstr "解鎖錫耶拉馬德雷賭場金庫入口"
+
+#. ~ Description for {'str': 'unlocking the Sierra Madre Casino vault
+#. entrance'}
+#: .\spells.json
+msgid ""
+"Playing the recorded Vera Keyes' voice at the intercom near the vault door "
+"will allow you to trigger its unlocking mechanism."
+msgstr "在金庫門附近的內部通話系統播放薇拉·凱斯的錄音，可觸發其解鎖機制。"
+
+#. ~ Message for SPELL '{'str': 'unlocking the Sierra Madre Casino vault
+#. entrance'}'
+#: .\spells.json
+msgid ""
+"You play the recorded sound of Vera Keyes containing the vault entrance "
+"password."
+msgstr "你播放了包含金庫入口密碼的薇拉·凱斯錄音。"
+
+#: .\spells.json
+msgid "There's no door to unlock nearby."
+msgstr "附近沒有可解鎖的門。"
+
+#: .\spells.json
+msgid ""
+"The door has been unlocked... Finally... After all you've been through, the "
+"Sierra Madre has opened its vault right in front of you. Madre is yours "
+"yours yours..."
+msgstr "門已解鎖……終於……歷經千辛萬苦，錫耶拉馬德雷的金庫就在你面前敞開。馬德雷是你的了，你的，你的……"
+
+#: .\spells.json
+msgid "friendly hologram activation"
+msgstr "友好全息影像激活"
+
+#. ~ Description for {'str': 'friendly hologram activation'}
+#: .\spells.json
+msgid "Activate security hologram."
+msgstr "激活安保全息影像。"
+
+#. ~ Message for SPELL '{'str': 'friendly hologram activation'}'
+#: .\spells.json
+msgid ""
+"You activate the Sierra Madre security hologram. Since it is you who's done "
+"it, it'll be friendly towards you. The portable emitter's power supply will "
+"last only for so long, though."
+msgstr "你激活了錫耶拉馬德雷安保全息影像。由於是你激活的，它會對你保持友好。不過，便攜式發射器的電源只能維持一段時間。"
+
+#: .\spells.json
+msgid "stimpack injecting"
+msgstr "注射治療針"
+
+#. ~ Description for {'str': 'stimpack injecting'}
+#: .\spells.json
+msgid "Injecting stimpack"
+msgstr "正在注射治療針"
+
+#. ~ Message for SPELL '{'str': 'stimpack injecting'}'
+#: .\spells.json
+msgid ""
+"You quickly inject stimpack into your body and instantly feel better, just "
+"like people in medication ads do."
+msgstr "你迅速將治療針注入體內，立刻感覺好轉，就像藥品廣告裡的人一樣。"
+
+#: .\spells.json
+msgid "Sierra Madre Martini drinking"
+msgstr "飲用錫耶拉馬德雷馬提尼"
+
+#. ~ Description for {'str': 'Sierra Madre Martini drinking'}
+#: .\spells.json
+msgid "Drinking Sierra Madre Martini"
+msgstr "正在飲用錫耶拉馬德雷馬提尼"
+
+#. ~ Message for SPELL '{'str': 'Sierra Madre Martini drinking'}'
+#: .\spells.json
+msgid ""
+"You've drunk some Sierra Madre Martini. It doesn't taste very good, but "
+"despite being made out of the Cloud, it fills you with strength and power."
+msgstr "你喝了一些錫耶拉馬德雷馬提尼。味道不怎麼樣，但儘管由雲霧製成，它卻讓你充滿力量與活力。"
+
+#. ~ Description for {'str': 'Cloud Kiss intoxication (weak)'}
+#. ~ Description for {'str': 'Cloud Kiss intoxication (potent)'}
+#. ~ Description for {'str': 'Cloud Kiss intoxication (lethal)'}
+#: .\spells.json
+msgid "Poisioning with the Cloud"
+msgstr "雲毒中毒"
+
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (weak)'}'
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (potent)'}'
+#. ~ Message for SPELL '{'str': 'Cloud Kiss intoxication (lethal)'}'
+#: .\spells.json
+msgid ""
+"As you attack your foe, you notice that the Cloud venom starts working..."
+msgstr "當你攻擊敵人時，你注意到雲毒開始生效……"
+
+#: .\items\ammo.json
+msgid "microfusion cell"
+msgid_plural "microfusion cell"
+msgstr[0] "微聚變電池"
+
+#. ~ Description for {'str_sp': 'microfusion cell'}
+#: .\items\ammo.json
+msgid ""
+"Microfusion cell is a new type of energetic ammo developed at Big Mountain "
+"research facility to aid US military in the war with China. Excellent power,"
+" though the way it works doesn't allow weapons with high rate of fire to "
+"utilize it."
+msgstr "微聚變電池是巨山研究設施為協助美軍對華戰爭而開發的新型能量彈藥。威力卓越，但其工作原理不允許高射速武器使用它。"
+
+#: .\items\ammo.json
+msgid "overcharged microfusion cell"
+msgid_plural "overcharged microfusion cell"
+msgstr[0] "過載微聚變電池"
+
+#. ~ Description for {'str_sp': 'overcharged microfusion cell'}
+#: .\items\ammo.json
+msgid ""
+"Combining a couple of microfusion cells together might yeld one that is more"
+" powerful at a cost of it being more prone to misfires."
+msgstr "將幾個微聚變電池組合在一起可能會產生一個更強大的電池，但代價是更容易發生啞火。"
+
+#: .\items\ammo.json
+msgid "energy cell"
+msgid_plural "energy cell"
+msgstr[0] "能量電池"
+
+#. ~ Description for {'str_sp': 'energy cell'}
+#: .\items\ammo.json
+msgid ""
+"An energy cell, a special ammo type designed for the next-gen laser guns. "
+"Essentially a high-capacity battery refitted to be small enough to fit into "
+"gun mags."
+msgstr "能量電池，一種專為下一代激光槍設計的特殊彈藥類型。本質上是一種大容量電池，經過改裝後足夠小，可以裝入槍械彈匣。"
+
+#: .\items\ammo.json
+msgid "overcharged energy cell"
+msgid_plural "overcharged energy cell"
+msgstr[0] "過載能量電池"
+
+#. ~ Description for {'str_sp': 'overcharged energy cell'}
+#: .\items\ammo.json
+msgid ""
+"Combining a couple of energy cells together might yeld one that is more "
+"powerful at a cost of it being more prone to misfires."
+msgstr "將幾個能量電池組合在一起可能會產生一個更強大的電池，但代價是更容易發生啞火。"
+
+#: .\items\ammo.json
+msgid "spent microfusion cell"
+msgid_plural "spent microfusion cells"
+msgstr[0] "耗盡微聚變電池"
+
+#. ~ Description for {'str': 'spent microfusion cell'}
+#: .\items\ammo.json
+msgid "An empty, drained microfusion cell."
+msgstr "一個空的、耗盡的微聚變電池。"
+
+#: .\items\ammo.json
+msgid "spent energy cell"
+msgid_plural "spent energy cells"
+msgstr[0] "耗盡能量電池"
+
+#. ~ Description for {'str': 'spent energy cell'}
+#: .\items\ammo.json
+msgid "An empty, drained energy cell."
+msgstr "一個空的、耗盡的能量電池。"
+
+#: .\items\ammo.json
+msgid "5-cell microfusion pack"
+msgid_plural "5-cell microfusion pack"
+msgstr[0] "5聯裝微聚變電池包"
+
+#. ~ Description for {'str_sp': '5-cell microfusion pack'}
+#: .\items\ammo.json
+msgid ""
+"Pack of 5 microfusion cells combined together to satisfy the power "
+"requirements of the Gauss rifle."
+msgstr "由5個微聚變電池組合而成的電池包，以滿足高斯步槍的功率需求。"
+
+#: .\items\ammo.json
+msgid "overcharged 5-cell microfusion pack"
+msgid_plural "overcharged 5-cell microfusion pack"
+msgstr[0] "過載5聯裝微聚變電池包"
+
+#. ~ Description for {'str_sp': 'overcharged 5-cell microfusion pack'}
+#: .\items\ammo.json
+msgid ""
+"Pack of 5 overcharged microfusion cells combined together to satisfy (and "
+"actually exceed at a cost of inferior reliability) the power requirements of"
+" the Gauss rifle."
+msgstr "由5個過載微聚變電池組合而成的電池包，以滿足（實際上以可靠性降低為代價超過了）高斯步槍的功率需求。"
+
+#: .\items\armor.json
+msgid "assassin suit"
+msgid_plural "assassin suits"
+msgstr[0] "刺客套裝"
+
+#. ~ Description for {'str': 'assassin suit'}
+#: .\items\armor.json
+msgid ""
+"Light, sturdy combat suit designed at Big Mountain research facility. This "
+"is the first working prototype of a reverse-engineered Chinese stealth armor"
+" used during the war. While nowhere near perfect, it grants its wearer a "
+"decent protection for a low encumbrance cost, allowing fast and precise "
+"movements. Contains strapped, durable pouch that can store quite a lot of "
+"stuff as well as 3 magazine pouches."
+msgstr ""
+"在巨山研究設施設計的輕便、堅固的戰鬥服。這是戰爭期間使用的逆向工程中國潛行裝甲的第一個工作原型。雖然遠非完美，但它為穿戴者提供了良好的保護，且負重低，允許快速而精確的動作。包含一個綁定的耐用小袋，可以存放大量物品，以及3個彈匣袋。"
+
+#: .\items\armor.json
+msgid "Sierra Madre armor"
+msgid_plural "Sierra Madre armors"
+msgstr[0] "馬德雷山脈護甲"
+
+#. ~ Description for {'str': 'Sierra Madre armor'}
+#: .\items\armor.json
+msgid ""
+"Protective suit worn by the Sierra Madre security personnel. Similar to SWAT"
+" armor or riot armor, but lighter. On its back a word \"Security\" is "
+"emblazoned with yellow letters."
+msgstr "馬德雷山脈安保人員穿戴的防護服。類似於SWAT護甲或防暴護甲，但更輕便。其背部用黃色字母印有“Security”字樣。"
+
+#: .\items\armor.json
+msgid "Sierra Madre security helmet"
+msgid_plural "Sierra Madre security helmets"
+msgstr[0] "馬德雷山脈安保頭盔"
+
+#. ~ Description for {'str': 'Sierra Madre security helmet'}
+#: .\items\armor.json
+msgid ""
+"A black helmet covering the entire head and neck, protecting the wearer from"
+" all kinds of damage. Very light for the protection it offers. Originally "
+"worn by the Sierra Madre security personnel."
+msgstr "覆蓋整個頭部和頸部的黑色頭盔，保護穿戴者免受各種傷害。相對於其提供的防護來說非常輕便。最初由馬德雷山脈安保人員穿戴。"
+
+#: .\items\armor.json
+msgid "reinforced Sierra Madre armor"
+msgid_plural "reinforced Sierra Madre armors"
+msgstr[0] "強化馬德雷山脈護甲"
+
+#. ~ Description for {'str': 'reinforced Sierra Madre armor'}
+#: .\items\armor.json
+msgid ""
+"A reinforced version of the standard Sierra Madre armor, made for the most "
+"important guards tasked with protecting the casino itself. On its back a "
+"word \"Security\" is emblazoned with yellow letters."
+msgstr "標準馬德雷山脈護甲的強化版本，專為保護賭場本身的最重要警衛而製作。其背部用黃色字母印有“Security”字樣。"
+
+#: .\items\armor.json
+msgid "reinforced Sierra Madre security helmet"
+msgid_plural "reinforced Sierra Madre security helmets"
+msgstr[0] "強化馬德雷山脈安保頭盔"
+
+#. ~ Description for {'str': 'reinforced Sierra Madre security helmet'}
+#: .\items\armor.json
+msgid ""
+"A reinforced version of the standard Sierra Madre security helmet, made for "
+"the most important guards tasked with protecting the casino itself."
+msgstr "標準馬德雷山脈安保頭盔的強化版本，專為保護賭場本身的最重要警衛而製作。"
+
+#: .\items\armor.json
+msgid "Ghost protective suit"
+msgid_plural "Ghost protective suits"
+msgstr[0] "幽靈防護服"
+
+#. ~ Description for {'str': 'Ghost protective suit'}
+#: .\items\armor.json
+msgid ""
+"A type of environmental protection suit worn by the Ghost People. While "
+"sturdy and effective, it won't protect from the Cloud. Nothing will. Because"
+" Cloud kills fast or slow, gets us ALL."
+msgstr "幽靈人穿戴的一種環境防護服。雖然堅固有效，但它無法防護雲毒。沒有任何東西可以。因為雲毒會快或慢地殺死我們，我們所有人。"
+
+#: .\items\books.json
+msgid "Dean Domino's journal"
+msgid_plural "copies of Dean Domino's journal"
+msgstr[0] "迪恩·多米諾的日記"
+
+#. ~ Description for {'str': "Dean Domino's journal", 'str_pl': "copies of
+#. Dean Domino's journal"}
+#: .\items\books.json
+msgid ""
+"A perosnal journal of the legendary singer Dean Domino. The last entries "
+"contain his story of attempting to rob the Sierra Madre casino vault the "
+"night the apocalypse came, then upon failure staying in the villa planning "
+"yet another heist attempt while undergoing ghoulification caused by "
+"prolonged expousure to the Cloud of toxic gas, finally the story of a "
+"mysterious \"Courier\" who once saved Dean's life when together with him "
+"(and two other mysterious characters called \"Dog/God\" and Christine) was "
+"forced to work for a dangerous, insane man calling himself \"Father Elijah\""
+" who also wanted to crack the Sierra Madre Vault open. The most important "
+"content of this journal for you is probably the recipe for a special drink, "
+"\"Sierra Madre Martini\". According to it, mixing the Cloud residue with "
+"common pre-apocalypse junk food in a tin can will change the properties of "
+"the toxins to actually strengthen one's body instead of harming it. Also "
+"contains some info regarding setting up and disarming traps."
+msgstr ""
+"傳奇歌手迪恩·多米諾的個人日記。最後的條目記載了他在末日降臨那晚試圖搶劫馬德雷賭場金庫的故事，失敗後留在別墅中計劃再次行動，同時因長期暴露在毒雲中而逐漸屍鬼化。日記還提到一位神秘的“信使”，曾與迪恩（以及另外兩個被稱為“狗/神”和克里斯汀的神秘人物）一起被迫為一個自稱“以利亞神父”的危險瘋子工作，此人同樣想打開馬德雷金庫。這本日記對你最重要的內容可能是特殊飲品“馬德雷馬提尼”的配方。據記載，將毒雲殘留物與常見的末日前的垃圾食品在錫罐中混合，會改變毒素的性質，使其強化身體而非造成傷害。此外還包含一些關於設置和拆除陷阱的信息。"
+
+#: .\items\books.json
+msgid "Sierra Madre chef's notes"
+msgid_plural "copies of Sierra Madre chef's notes"
+msgstr[0] "馬德雷主廚筆記"
+
+#. ~ Description for {'str': "Sierra Madre chef's notes", 'str_pl': "copies of
+#. Sierra Madre chef's notes"}
+#: .\items\books.json
+msgid ""
+"A bunch of notes left by one of the top chiefs working at Sierra Madre. "
+"Apart from advanced, elaborate cooking tips and nuances it contains some "
+"info of an interesting discovery made by the chief - when he left the cosmic"
+" knife on a hotplate for long enough, it warmed up to a very high "
+"temperature yet was still comfortable to handle. You could possibly expand "
+"the power of cosmic knife further this way, thanks to the wounderful "
+"properties of the alloy it's forged from."
+msgstr ""
+"馬德雷賭場一位頂級主廚留下的筆記。除了高級精細的烹飪技巧和細節外，還包含主廚一項有趣發現的信息——當他將宇宙小刀放在電熱板上足夠長時間後，刀身會升溫到極高溫度卻仍能舒適握持。得益於鍛造合金的神奇特性，你或許能以此進一步拓展宇宙小刀的能力。"
+
+#: .\items\books.json
+msgid "Father Elijah's notes"
+msgid_plural "copies of Father Elijah's notes"
+msgstr[0] "以利亞神父的筆記"
+
+#. ~ Description for {'str': "Father Elijah's notes", 'str_pl': "copies of
+#. Father Elijah's notes"}
+#: .\items\books.json
+msgid ""
+"A personal journal of Father Elijah. Apart from some rambling about killing "
+"every enemy of his own faction to the last man and some psycho's bullshit it"
+" contains a vast amount of useful tips about advanced electronics as well as"
+" some handy recipes."
+msgstr "以利亞神父的個人日記。除了一些關於將自己派系的敵人趕盡殺絕的胡言亂語和瘋子的廢話外，還包含大量關於高級電子學的實用技巧以及一些便利配方。"
+
+#: .\items\books.json
+msgid "Sierra Madre's visitor's journal page"
+msgid_plural "Sierra Madre's visitor's journal pages"
+msgstr[0] "馬德雷訪客日記頁"
+
+#. ~ Description for {'str': "Sierra Madre's visitor's journal page"}
+#: .\items\books.json
+msgid ""
+"...seems kind enough, signed my poster, and even the promo photo. Kind of a "
+"sad look to her, though, like she wasn't really there. And she almost ran "
+"when Mr. Domino slipped his arm through hers, and he wasn't even looking at "
+"her, like she was a bag hanging on his arm. Something wrong between those "
+"two, not sure if Sinclair sees it, but I do."
+msgstr ""
+"……她看起來挺和善的，給我的海報簽了名，甚至還有宣傳照。不過她神情有些哀傷，好像心不在焉似的。當多米諾先生把胳膊搭進她臂彎時，她幾乎要跑開，而他甚至沒看她，彷彿她只是掛在他胳膊上的一個包。這兩人之間有點不對勁，不確定辛克萊是否察覺，但我注意到了。"
+
+#: .\items\books.json
+msgid "See you in hell asshole"
+msgid_plural "See you in hell assholes"
+msgstr[0] "地獄見，混蛋"
+
+#. ~ Description for {'str': 'See you in hell asshole'}
+#: .\items\books.json
+msgid ""
+"Hope you're about dead when you read this Sierra Madre out of reach Could've"
+" had it all, followed that white-arrow-graffiti bastard down here Left those"
+" beartraps as presents for you on trail hope you like them shithead Hit my "
+"own tripwire you came to take what's mine??? Too bad, I got the last laugh "
+"Speakers'll kill you before you get out then we'll settle things in hell "
+"Sierra Madre's treasures's mine mine mine"
+msgstr ""
+"希望你看這封信時快死了 馬德雷遙不可及 本可擁有一切 跟著那個白箭頭塗鴉的混蛋下來 在沿途留了捕熊夾當禮物給你 希望你喜歡 蠢貨 踩中我自己設的絆線 "
+"你來搶我的東西？？？ 可惜 最後笑的是我 揚聲器會在你逃出去前殺了你 然後我們地獄算賬 馬德雷的寶藏是我的我的我的"
+
+#: .\items\books.json
+msgid "construction worker's stained note"
+msgid_plural "construction worker's stained notes"
+msgstr[0] "建築工人的汙漬筆記"
+
+#. ~ Description for {'str': "construction worker's stained note"}
+#: .\items\books.json
+msgid ""
+"Not going to rat me out for what happened in the Villa. I'm not the one who "
+"laid the foundation, and I'm not going to take the fall for the supports, "
+"either. They try and pin this on me, I'll let them all know what's really "
+"going on with the construction contracts."
+msgstr "別想因為別墅裡的事出賣我。地基不是我打的，支撐結構出問題也別想讓我背鍋。他們要是想栽贓給我，我就把建築合同裡的貓膩全抖出來。"
+
+#: .\items\books.json
+msgid "Sierra Madre toxic gas note"
+msgid_plural "Sierra Madre toxic gas notes"
+msgstr[0] "馬德雷毒氣記錄"
+
+#. ~ Description for {'str': 'Sierra Madre toxic gas note'}
+#: .\items\books.json
+msgid ""
+"A note about the Sierra Madre toxic gas building up in the ventilation "
+"system hurting three construction workers. Apparently they had no idea from "
+"where it came from either."
+msgstr "一份關於馬德雷毒氣在通風系統中積聚導致三名建築工人受傷的記錄。顯然他們也不清楚毒氣來源。"
+
+#: .\items\books.json
+msgid "Vera Keyes' insomnia"
+msgid_plural "Vera Keyes' insomnias"
+msgstr[0] "薇拉·凱斯的失眠症"
+
+#. ~ Description for {'str': "Vera Keyes' insomnia"}
+#: .\items\books.json
+msgid ""
+"A note about Vera Keyes' health condition mentioning severe insomnia. "
+"Apparently the autodocs at the clinic were capable of alleviating its "
+"effects."
+msgstr "關於薇拉·凱斯健康狀況的筆記，提到嚴重失眠症。顯然診所的自動醫療機能夠緩解其症狀。"
+
+#: .\items\books.json
+msgid "guard's commentary about the prohibtion"
+msgid_plural "guard's commentary about the prohibtions"
+msgstr[0] "警衛關於禁令的評論"
+
+#. ~ Description for {'str': "guard's commentary about the prohibtion"}
+#: .\items\books.json
+msgid ""
+"Sinclair's prohibition list is going to be difficult to enforce and told him"
+" so. He claims we're getting an automated system that would confiscate items"
+" even the slightest bit radioactive or foreign and ship them back to the "
+"visitor's source address. Asked about items already in the Villa (didn't "
+"mention the construction crew) and he dismissed it. Of course, no sooner "
+"than Sinclair gives his prohibition speech, his pal swings by the same hour,"
+" asking how \"hardnosed\" we were going to be. Told me he couldn't guarantee"
+" he could keep me supplied if I didn't treat his \"friends\" with the same "
+"respect. Prick."
+msgstr ""
+"辛克萊的違禁品清單執行起來會很困難，我也這麼告訴過他。他聲稱我們會安裝自動系統，能沒收任何帶微量放射性或外來物品並寄回訪客來源地址。我問起別墅裡已有的物品（沒提建築隊），他直接搪塞過去。當然，辛克萊剛發佈禁令講話，他那朋友就同一時間跑來，問我們執行會有多“嚴格”。告訴我如果我不以同等尊重對待他的“朋友”，就不能保證繼續給我供貨。混賬東西。"
+
+#: .\items\books.json
+msgid "guard's commentary about the prohibtion enforcement difficulties"
+msgid_plural ""
+"guard's commentary about the prohibtion enforcement difficultiess"
+msgstr[0] "警衛關於禁令執行困難的評論"
+
+#. ~ Description for {'str': "guard's commentary about the prohibtion
+#. enforcement difficulties"}
+#: .\items\books.json
+msgid ""
+"After another \"discussion\" with the Puesta del Sol crew, told Chief it'd "
+"be difficult to enforce the prohibition list, let alone the searches. Chief "
+"had the Gala on his brain, said Sinclair put construction of the Villa more "
+"important than patting down the construction crews for liquor and chems as "
+"long as they didn't hurt anyone or each other. Got a little hot under the "
+"collar, Chief did too, told me to walk it off. This whole thing stinks. "
+"Chief's barely got time for me, now Sinclair's turning a blind eye to things"
+" in the Villa because his friend's running the show?"
+msgstr ""
+"又和普埃斯塔德索爾施工隊“討論”後，我告訴警長執行違禁品清單會很困難，更不用說搜身了。警長滿腦子都是開業慶典，說辛克萊認為別墅建設比搜查建築隊攜帶的酒類和藥物更重要——只要他們不傷害他人或彼此。我有點上火，警長也是，讓我出去冷靜下。整件事都透著不對勁。警長几乎沒時間管我，現在辛克萊對別墅裡的事睜隻眼閉隻眼，就因為是他朋友在管事？"
+
+#: .\items\books.json
+msgid "driving ban order"
+msgid_plural "driving ban orders"
+msgstr[0] "禁駕令"
+
+#. ~ Description for {'str': 'driving ban order'}
+#: .\items\books.json
+msgid ""
+"An order detailing the ban on driving in Sierra Madre as well as the "
+"construction of the streets preventing usage of vehicles."
+msgstr "一份詳細規定馬德雷地區禁止駕駛以及道路設計阻止車輛通行的命令。"
+
+#: .\items\books.json
+msgid "new security info"
+msgid_plural "new security infos"
+msgstr[0] "新安保信息"
+
+#. ~ Description for {'str': 'new security info'}
+#: .\items\books.json
+msgid ""
+"A note about the security rules enforced in the Sierra Madre by it's founder"
+" Sinclair. Apparently any potentially dangerous item of the foreign origin "
+"had to be confiscated and the security personnel had to take notes about who"
+" enters and who leaves."
+msgstr "關於馬德雷創始人辛克萊實施的安保規則的記錄。顯然任何可能危險的外來物品都必須沒收，安保人員必須記錄進出人員信息。"
+
+#: .\items\books.json
+msgid "communication system setup"
+msgid_plural "communication system setups"
+msgstr[0] "通訊系統設置"
+
+#. ~ Description for {'str': 'communication system setup'}
+#: .\items\books.json
+msgid ""
+"According to what's written on this page, guards stationed at the police "
+"station prepared an entire broadcast system so that they could watch the "
+"Sierra Madre Opening Gala show on their shift."
+msgstr "根據這頁記錄，駐守警察局的警衛搭建了完整的廣播系統，以便在值班時觀看馬德雷開業慶典演出。"
+
+#: .\items\books.json
+msgid "Sinclair's visit report"
+msgid_plural "Sinclair's visit reports"
+msgstr[0] "辛克萊視察報告"
+
+#. ~ Description for {'str': "Sinclair's visit report"}
+#: .\items\books.json
+msgid "A note about the control visit of Sinclair."
+msgstr "關於辛克萊控制視察的記錄。"
+
+#: .\items\books.json
+msgid "weapon transfer list"
+msgid_plural "weapon transfer lists"
+msgstr[0] "武器移交清單"
+
+#. ~ Description for {'str': 'weapon transfer list'}
+#: .\items\books.json
+msgid ""
+"This list details all the guns, ammo and explosives Sierra Madre guards "
+"received."
+msgstr "這份清單詳細列出了馬德雷警衛接收的所有槍支、彈藥和爆炸物。"
+
+#: .\items\books.json
+msgid "guard's comment on vending machines"
+msgid_plural "guard's comment on vending machiness"
+msgstr[0] "守衛對自動售貨機的評論"
+
+#. ~ Description for {'str': "guard's comment on vending machines"}
+#: .\items\books.json
+msgid ""
+"A note about the Sierra Madre vending machines selling commodities for "
+"casino chips, but in case of an emergency capable of dispensing military and"
+" medical supplies as well."
+msgstr "關於馬德雷山脈自動售貨機用賭場籌碼出售商品的說明，但在緊急情況下也能分發軍事和醫療物資。"
+
+#: .\items\books.json
+msgid "ventilation system report"
+msgid_plural "ventilation system reports"
+msgstr[0] "通風系統報告"
+
+#. ~ Description for {'str': 'ventilation system report'}
+#: .\items\books.json
+msgid ""
+"A report about the Sierra Madre ventilation system failing and spitting out "
+"some sort of toxic gas, the same one you're breathing like now. Seems like "
+"even Sinclair himself had no idea what it was and where it came from... Some"
+" technicians working on the system have been rendered unconscious by the gas"
+" despite wearing protection suits. Makes you feel better about not having "
+"one anyway... Especially given how the gas eroded the suits' locks, trapping"
+" the wearers inside. To this day they still roam the streets of Sierra "
+"Madre, trapped in their suits, jealous of everything that lives..."
+msgstr ""
+"一份關於馬德雷山脈通風系統故障並噴出某種有毒氣體的報告，就是你此刻呼吸的那種。看來連辛克萊本人也不知道那是什麼、從何而來……一些穿著防護服檢修系統的技術人員被氣體燻暈了。這讓你覺得沒穿防護服反而更好……尤其是考慮到氣體腐蝕了防護服的鎖釦，把穿著者困在裡面。至今他們仍遊蕩在馬德雷山脈的街道上，困在防護服裡，嫉妒著一切活物……"
+
+#: .\items\books.json
+msgid "construction status report"
+msgid_plural "construction status reports"
+msgstr[0] "施工狀態報告"
+
+#. ~ Description for {'str': 'construction status report'}
+#: .\items\books.json
+msgid ""
+"...the Villa's like cardboard, but the casino? That place isn't built for "
+"people to just gamble, it's a place for them to take cover if the big ones "
+"hit. Those doors can be hermetically sealed, and whatever they got lining "
+"the floors screws up anything not hooked up direct by wires. Word is, while "
+"Mr. Yesterday got the Villa covered, Sinclair's locking up the Sierra Madre "
+"like a golden trap."
+msgstr ""
+"……別墅區像紙糊的，但賭場呢？那地方可不是讓人隨便賭博的，而是萬一發生大災難時供人避難的地方。那些門可以完全密封，地板下的特殊材料會干擾任何非直接有線連接的設備。有傳言說，雖然耶斯特戴先生負責別墅區，但辛克萊把馬德雷山脈鎖得像一個黃金陷阱。"
+
+#: .\items\books.json
+msgid "Sierra Madre infrastructure commentary note"
+msgid_plural "Sierra Madre infrastructure commentary notes"
+msgstr[0] "馬德雷山脈基礎設施評論筆記"
+
+#. ~ Description for {'str': 'Sierra Madre infrastructure commentary note'}
+#: .\items\books.json
+msgid ""
+"As shoddy as the support beams are for most of these buildings, the "
+"ventilation system's worse, and the problems they had over at Puesta... "
+"sure, when you count our bonuses, it's good, but not when the workers are "
+"coughing to death. Hate to see what this place spits out if someone let the "
+"ventilation system chug along for a few years, we'd have another Greener "
+"Pastures on our hand, easy, and a pile of bodies beyond it."
+msgstr ""
+"這些建築的大部分支撐梁已經夠糟糕了，通風系統更差，普埃斯塔那邊的問題……當然，算上我們的獎金，這工作還不錯，但工人們咳得要死的時候就不是了。真不敢想象如果讓通風系統再運轉幾年，這地方會噴出什麼來，我們手上肯定會多一個“更綠的牧場”，輕而易舉，後面還會堆滿屍體。"
+
+#: .\items\books.json
+msgid "dishonest worker's inner reports"
+msgid_plural "dishonest worker's inner reportss"
+msgstr[0] "不誠實工人的內部報告"
+
+#. ~ Description for {'str': "dishonest worker's inner reports"}
+#: .\items\books.json
+msgid ""
+"Some casual reports detailing the dishonest practices of part of the villa "
+"construction crew mixed together with complaints about missing essential "
+"shipments."
+msgstr "一些隨意報告，詳細描述了部分別墅施工隊的不誠實行為，並夾雜著對缺失重要物資運輸的抱怨。"
+
+#: .\items\books.json
+msgid "doctor's note"
+msgid_plural "doctor's notes"
+msgstr[0] "醫生筆記"
+
+#. ~ Description for {'str': "doctor's note"}
+#: .\items\books.json
+msgid ""
+"Ms Keyes showed up today (sans Sinclair), escorted by Mr. Domino. He "
+"explained to me Ms Keyes had developed a throat infection, and asked if the "
+"Auto-Doc could help. I asked about the Sierra Madre's Auto-Doc. He said he "
+"didn't want to \"alarm\" Sinclair. Ran some tests. Ms Keyes' voice is fine, "
+"her loss of voice was more listlessness, symptomatic of excessive Med-X "
+"usage. When I tried to speak to her about it, Mr. Domino intervened. I "
+"warned them too much of the Chem could render a subject comatose, and Domino"
+" laughed. I lost my temper, and he said they'd return another time when I "
+"was in \"better spirits.\" Despise that man."
+msgstr ""
+"凱斯女士今天來了（辛克萊沒來），由多米諾先生陪同。他向我解釋說凱斯女士喉嚨感染了，問自動醫療機是否能幫忙。我問了馬德雷山脈的自動醫療機。他說他不想“驚動”辛克萊。做了一些檢查。凱斯女士的嗓音沒問題，她失聲更多是倦怠的表現，是過度使用Med-"
+"X的症狀。當我試圖和她談這件事時，多米諾先生插話了。我警告他們這種化學藥劑用太多會導致昏迷，多米諾笑了。我發了脾氣，他說等我“心情好點”他們再來。真討厭那個人。"
+
+#: .\items\books.json
+msgid "chief physician's note"
+msgid_plural "chief physician's notes"
+msgstr[0] "主治醫生筆記"
+
+#. ~ Description for {'str': "chief physician's note"}
+#: .\items\books.json
+msgid ""
+"Domino stopped by to ask about the test results and Vera's voice. He seemed "
+"concerned she would lose her voice for the Gala Event. I told him if Ms "
+"Keyes was concerned, she should see me, and I would only disclose any "
+"medical information to her. I told him the Auto-Docs were more than capable "
+"of healing Ms Keyes voice if she developed any throat infection, and we "
+"could even operate if need be if she tore her larynx. He seemed satisfied by"
+" the news, apologized, amazingly enough, and left a bottle of wine as a "
+"token of his appreciation. I told him I felt it was inappropriate, he "
+"insisted. I dumped it in the trash."
+msgstr ""
+"多米諾順道來詢問檢查結果和薇拉的聲音。他似乎擔心她會在慶典活動上失聲。我告訴他，如果凱斯女士擔心，她應該來見我，而且我只向她本人透露任何醫療信息。我告訴他，如果凱斯女士喉嚨感染，自動醫療機完全有能力治好她的聲音，如果她撕裂了聲帶，我們甚至可以在必要時進行手術。他聽到這個消息似乎很滿意，道了歉，令人驚訝的是，還留下一瓶酒作為感謝。我告訴他我覺得這不合適，他堅持要送。我把它倒進了垃圾桶。"
+
+#: .\items\books.json
+msgid "gas incident medical report"
+msgid_plural "gas incident medical reports"
+msgstr[0] "毒氣事件醫療報告"
+
+#. ~ Description for {'str': 'gas incident medical report'}
+#: .\items\books.json
+msgid ""
+"A detailed medical report about the toxic gas incident and the patients "
+"exposed to it. The doctors in the clinic had no idea what it was as well, "
+"despite having access to a very advanced medical equipment."
+msgstr "一份關於有毒氣體事件及暴露患者的詳細醫療報告。診所的醫生們儘管擁有非常先進的醫療設備，也不知道那是什麼。"
+
+#: .\items\books.json
+msgid "Vera Keyes' partitures"
+msgid_plural "Vera Keyes' partituress"
+msgstr[0] "薇拉·凱斯的樂譜"
+
+#. ~ Description for {'str': "Vera Keyes' partitures"}
+#: .\items\books.json
+msgid ""
+"Partitures belonging to Vera Keyes', meant to be used by her during her "
+"performance."
+msgstr "屬於薇拉·凱斯的樂譜，供她演出時使用。"
+
+#: .\items\books.json
+msgid "bar incident log"
+msgid_plural "bar incident logs"
+msgstr[0] "酒吧事件記錄"
+
+#. ~ Description for {'str': 'bar incident log'}
+#: .\items\books.json
+msgid ""
+"Complaint: Mrs. Purvis/Drunk and Disorderly Sierra Madre Security Log: "
+"11:02PM Guard on Call: Morris, Tyler Describe the Incident: 10PM, received "
+"complaints about noise in upper bar, then emergency call from the an floor "
+"cashier cage who reported (quote) \"old bat on ceiling.\" Investigating, "
+"found guests cheering Mrs. Millicent Purvis, 72, who had climbed over the "
+"upper bar railing and was walking on the support beams, indicating loudly "
+"that she was (quote), \"going to join the circus.\" She had already tripped "
+"over one Holo-Emitter (unhurt), and was inviting guests out on the beams so "
+"we could \"use them like monkey bars.\" Climbed after her, cornered her near"
+" the rafter over the cashier's area, then brought Mrs. Purvis to holding and"
+" called her daughter to come escort her to her room. No damage done to "
+"rafters or the emitter. Mrs. Purvis's daughter was visibly agitated by the "
+"incident and too embarrassed to take any legal action saying that she "
+"(quote), \"didn't want to cause any more trouble for Mr. Sinclair.\" Need to"
+" gate off the rafter area to prevent repeat incidents."
+msgstr ""
+"投訴：珀維斯夫人/醉酒鬧事 馬德雷山脈安全日誌：晚上11:02 值班警衛：莫里斯，泰勒 "
+"事件描述：晚上10點，接到上層酒吧噪音投訴，隨後接到樓層收銀籠的緊急呼叫，報告（引述）“天花板上有隻老蝙蝠”。調查發現，客人們正在為72歲的米莉森特·珀維斯夫人歡呼，她爬過了上層酒吧欄杆，走在支撐樑上，大聲表示她（引述）“要去加入馬戲團”。她已經絆倒了一個全息發射器（未受傷），並邀請客人到樑上，這樣我們就能“把它們當單槓用”。爬上去追她，在收銀區附近的椽子上截住了她，然後將珀維斯夫人帶到拘留室，並打電話叫她女兒來護送她回房間。椽子或發射器沒有損壞。珀維斯夫人的女兒對此事明顯感到不安，並且太尷尬而不願採取任何法律行動，說她（引述）“不想給辛克萊先生添更多麻煩”。需要封鎖椽子區域以防止類似事件再次發生。"
+
+#: .\items\books.json
+msgid "bar incident log, part 2"
+msgid_plural "bar incident log, part 2s"
+msgstr[0] "酒吧事件記錄，第二部分"
+
+#. ~ Description for {'str': 'bar incident log, part 2'}
+#: .\items\books.json
+msgid ""
+"Complaint: Lost and Found Sierra Madre Security Log: 8:07AM Guard on Call: "
+"Morris, Tyler Describe the Incident: Mrs. Purvis daughter called down to ask"
+" if we happened to find her mother's purse, which she may have dropped "
+"during last night's \"stroll.\" We found the purse on the main floor. None "
+"of the valuables were inside, may have been taken when the purse dropped, or"
+" Mrs. Purvis may have emptied the purse contents during last night's "
+"incident."
+msgstr ""
+"投訴：失物招領 馬德雷山脈安全日誌：上午8:07 值班警衛：莫里斯，泰勒 "
+"事件描述：珀維斯夫人的女兒打電話來問我們是否碰巧找到了她母親的手提包，可能是昨晚“散步”時掉的。我們在主樓層找到了手提包。裡面沒有貴重物品，可能是在包掉的時候被拿走了，或者珀維斯夫人可能在昨晚的事件中清空了包裡的東西。"
+
+#: .\items\books.json
+msgid "security measure meeting note"
+msgid_plural "security measure meeting notes"
+msgstr[0] "安全措施會議記錄"
+
+#. ~ Description for {'str': 'security measure meeting note'}
+#: .\items\books.json
+msgid ""
+"Since you missed it, Sinclair outlined security measures today. Wasn't blind"
+" to what was happening in the news, wanted to take steps if the Chinese got "
+"a foothold on American soil. Ran us through the added functionality of the "
+"holograms, then explained the construction of the casino, its emergency "
+"protocols, and the broadcast signal we're using for the Gala Event. Guy's a "
+"nut job, still, seems to have the bases covered. Guess the isolation of the "
+"casino was intentional. Not sure what he's hoping to protect, sure seems "
+"obsessed with it."
+msgstr ""
+"既然你錯過了，辛克萊今天概述了安全措施。他並非對新聞中發生的事情視而不見，如果中國人在美國土地上站穩腳跟，他想採取措施。他向我們介紹了全息影像的附加功能，然後解釋了賭場的結構、應急協議，以及我們用於慶典活動的廣播信號。這傢伙是個瘋子，不過，似乎考慮得很周全。我猜賭場的隔離是故意的。不確定他想保護什麼，但肯定對此很著迷。"
+
+#: .\items\books.json
+msgid "emergency protocols"
+msgid_plural "emergency protocolss"
+msgstr[0] "應急協議"
+
+#. ~ Description for {'str': 'emergency protocols'}
+#: .\items\books.json
+msgid ""
+"Been reading this over: \"In the event of a fire, chemical leak, nuclear "
+"attack, or other threat to the casino, the interior and exterior doors will "
+"hermetically seal to prevent harm coming to the guests. During this time, "
+"Holograms will be deployed and assume threat status until the lockdown is "
+"ended.\" Guess you can't be too careful these days. Still, what if there was"
+" another leak at the switching station? Not to mention the gas valves in the"
+" kitchen. If those got hit, the casino's a torch."
+msgstr ""
+"一直在讀這個：“在發生火災、化學品洩漏、核攻擊或其他對賭場的威脅時，內外門將完全密封，以防止客人受到傷害。在此期間，全息影像將被部署並進入威脅狀態，直到封鎖結束。”"
+" 我想這年頭再怎麼小心也不為過。不過，如果交換站再次洩漏怎麼辦？更不用說廚房裡的燃氣閥門了。如果那些被擊中，賭場就是個火炬。"
+
+#: .\items\books.json
+msgid "note on hologram security system"
+msgid_plural "note on hologram security systems"
+msgstr[0] "關於全息影像安全系統的說明"
+
+#. ~ Description for {'str': 'note on hologram security system'}
+#: .\items\books.json
+msgid ""
+"A brief explanation about the Sierra Madre holographic security system "
+"paired with a warning to not touch or try to disable hologram emitters."
+msgstr "關於馬德雷山脈全息影像安全系統的簡要說明，並附有警告：不要觸摸或試圖禁用全息影像發射器。"
+
+#: .\items\books.json
+msgid "Tampico's show list"
+msgid_plural "Tampico's show lists"
+msgstr[0] "坦皮科的演出名單"
+
+#. ~ Description for {'str': "Tampico's show list"}
+#: .\items\books.json
+msgid ""
+"The Sierra Madre opens its doors to the world! The opening of our great "
+"Casino & Resort will feature a unique Gala, showcasing artists of world-"
+"renown! Miss Vera Keyes. Mr. Dean Domino. Joey Baxter. And, Wilfred the "
+"Wizard. Come join us at the grandest event in the history of the West. We "
+"welcome you to the best time of your life! Sincerely, The Sierra Madre's "
+"Management."
+msgstr ""
+"馬德雷山脈向世界敞開大門！我們偉大的賭場度假村開業將舉辦一場獨特的慶典，展示世界知名的藝術家！薇拉·凱斯小姐。迪恩·多米諾先生。喬伊·巴克斯特。以及，巫師威爾弗雷德。來加入我們，參加西部歷史上最盛大的活動。我們歡迎您度過一生中最美好的時光！誠摯地，馬德雷山脈管理層。"
+
+#: .\items\books.json
+msgid "message for Mrs E. Sainz"
+msgid_plural "message for Mrs E. Sainzs"
+msgstr[0] "給E·賽恩斯夫人的留言"
+
+#. ~ Description for {'str': 'message for Mrs E. Sainz'}
+#: .\items\books.json
+msgid ""
+"I'm on my way! I'll be right there, Eve! Just hide until I get there. Do "
+"whatever you need to, understand!? I'm not going to let anything happen to "
+"you."
+msgstr "我這就來！我馬上到，伊芙！先躲好等我。做你該做的事，明白嗎！？我絕不會讓你出事的。"
+
+#: .\items\books.json
+msgid "message for Mr J. Lester"
+msgid_plural "message for Mr J. Lesters"
+msgstr[0] "給J·萊斯特先生的留言"
+
+#. ~ Description for {'str': 'message for Mr J. Lester'}
+#: .\items\books.json
+msgid ""
+"John, help! Everything exploded! There's smoke. Holograms are firing at "
+"people! We can't get out, John! Please!"
+msgstr "約翰，救命！全炸了！到處都是煙。全息影像在朝人開槍！我們出不去了，約翰！求你了！"
+
+#: .\items\books.json
+msgid "commentary about the shipments of cosmic knives"
+msgid_plural "commentary about the shipments of cosmic knivess"
+msgstr[0] "關於宇宙餐刀貨運的評論"
+
+#. ~ Description for {'str': 'commentary about the shipments of cosmic
+#. knives'}
+#: .\items\books.json
+msgid ""
+"Another (!) shipment of kitchen knives for the Cantina Madrid came in today,"
+" with their new \"space age\" alloy polymer material. We've got way more "
+"than we need for the Gala Event, even if everyone had 3 steak knives! But "
+"it's always the best for Sinclair, always, always, always, always, he "
+"insists everything must be perfect. These knives are sharp, too sharp! One "
+"of the chefs almost lost their thumb when dicing vegetables, and were losing"
+" cutting boards at the rate of at least one per day. The knives just slice "
+"right through them! Running out of dishrags to mop up the blood."
+msgstr ""
+"馬德里小酒館今天又（！）到了一批廚房餐刀，用的是那種新型“太空時代”合金聚合物材料。就算晚宴上每人用三把牛排刀，我們也遠遠超量了！但辛克萊總是要求最好、最好、最好、最好，他堅持一切必須完美。這些刀太鋒利了，鋒利過頭！有個廚師切菜時差點把拇指切掉，砧板也以每天至少一塊的速度報廢——刀直接就能劈穿它們！擦血的抹布都快不夠用了。"
+
+#: .\items\books.json
+msgid "Dog command tape"
+msgid_plural "Dog command tapes"
+msgstr[0] "犬類指令磁帶"
+
+#. ~ Description for {'str': 'Dog command tape'}
+#: .\items\books.json
+msgid "A holotape with pre-recorded message saying: \"Dog, back in the cage\"."
+msgstr "一段預錄了“狗，回籠子去”信息的全息磁帶。"
+
+#: .\items\books.json
+msgid "Dean Domino's blackmail evidence"
+msgid_plural "Dean Domino's blackmail evidences"
+msgstr[0] "迪恩·多米諾的勒索證據"
+
+#. ~ Description for {'str': "Dean Domino's blackmail evidence"}
+#: .\items\books.json
+msgid ""
+"A holotape containing the recorded dialogue between Vera and Dean in which "
+"Dean threatens to reveal Vera's Med-X addiction if she refuses to do as he "
+"says."
+msgstr "一段全息磁帶，內含薇拉與迪恩的對話錄音，其中迪恩威脅若薇拉不按他說的做，就揭發她對Med-X（醫療X）的上癮。"
+
+#: .\items\books.json
+msgid "Dean Domino \"Saw Her yesterday\""
+msgid_plural "Dean Domino \"Saw Her yesterday\"s"
+msgstr[0] "迪恩·多米諾《昨日見她》"
+
+#. ~ Description for {'str': 'Dean Domino "Saw Her yesterday"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Dean Domino's song \"Saw Her "
+"yesterday\"."
+msgstr "一段全息磁帶，內含迪恩·多米諾的歌曲《昨日見她》的錄音。"
+
+#: .\items\books.json
+msgid "Vera Keyes \"Let the Bright Tomorrow in\""
+msgid_plural "Vera Keyes \"Let the Bright Tomorrow in\"s"
+msgstr[0] "薇拉·凱斯《讓光明明日來臨》"
+
+#. ~ Description for {'str': 'Vera Keyes "Let the Bright Tomorrow in"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Let the Bright "
+"Tomorrow in\". Can be used with the other songs to get a combination of "
+"Vera's voice."
+msgstr "一段全息磁帶，內含薇拉·凱斯的歌曲《讓光明明日來臨》的錄音。可與其他歌曲組合使用，以合成薇拉的嗓音。"
+
+#: .\items\books.json
+msgid "Vera Keyes \"Go to the Faraway\""
+msgid_plural "Vera Keyes \"Go to the Faraway\"s"
+msgstr[0] "薇拉·凱斯《前往遠方》"
+
+#. ~ Description for {'str': 'Vera Keyes "Go to the Faraway"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Go to the Faraway\"."
+" Can be used with the other songs to get a combination of Vera's voice."
+msgstr "一段全息磁帶，內含薇拉·凱斯的歌曲《前往遠方》的錄音。可與其他歌曲組合使用，以合成薇拉的嗓音。"
+
+#: .\items\books.json
+msgid "Vera Keyes \"Begin Again\""
+msgid_plural "Vera Keyes \"Begin Again\"s"
+msgstr[0] "薇拉·凱斯《重新開始》"
+
+#. ~ Description for {'str': 'Vera Keyes "Begin Again"'}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' song \"Begin Again\". Can "
+"be used with the other songs to get a combination of Vera's voice."
+msgstr "一段全息磁帶，內含薇拉·凱斯的歌曲《重新開始》的錄音。可與其他歌曲組合使用，以合成薇拉的嗓音。"
+
+#: .\items\books.json
+msgid "Vera Keyes' audition recording"
+msgid_plural "Vera Keyes' audition recordings"
+msgstr[0] "薇拉·凱斯的試鏡錄音"
+
+#. ~ Description for {'str': "Vera Keyes' audition recording"}
+#: .\items\books.json
+msgid ""
+"A holotape containing recording of a Vera Keyes' audition for the movie "
+"\"Love Sets Sail!\" Turns out she was rather a bad actress, after all. Just "
+"like the movies she played in."
+msgstr "一段全息磁帶，內含薇拉·凱斯為電影《愛啟航！》試鏡的錄音。結果證明她演技實在不怎麼樣，就跟她演的那些電影一樣。"
+
+#: .\items\books.json
+msgid "Sierra Madre Vault worker's note"
+msgid_plural "Sierra Madre Vault worker's notes"
+msgstr[0] "馬德雷山金庫工人的筆記"
+
+#. ~ Description for {'str': "Sierra Madre Vault worker's note"}
+#: .\items\books.json
+msgid ""
+"This job doesn't pay enough, working down here with those walking lightshows"
+" gets on my nerves. And the elevator... does Sinclair know how dangerous it "
+"is to have the elevator lock like that? If someone accidentally trips the "
+"deadman's switch inside his Vault... even Sinclair himself... this whole "
+"place becomes a big metal coffin. Lou tried to tell him and Sinclair said it"
+" would be \"user error.\""
+msgstr ""
+"這活兒給的錢不夠，在下面跟那些走來走去的燈光秀（全息警衛）一起工作真讓人神經緊張。還有電梯……辛克萊知道把電梯鎖成那樣有多危險嗎？要是有人在金庫裡不小心觸發了死人開關……就算是辛克萊自己……這整個地方就會變成一口大金屬棺材。盧試著提醒過他，辛克萊卻說那會是“用戶操作失誤”。"
+
+#: .\items\books.json
+msgid "note about turrets in the vault"
+msgid_plural "note about turrets in the vaults"
+msgstr[0] "關於金庫內炮塔的筆記"
+
+#. ~ Description for {'str': 'note about turrets in the vault'}
+#: .\items\books.json
+msgid ""
+"Don't use this unless strictly necessary. The Vault is off-limits. There is "
+"no reason to enter it unless your clearance is personally approved by Mr. "
+"Sinclair. Still, if anything were to go wrong with those security systems, "
+"use this password in the Turret-Defense terminal inside the Vault's Chamber:"
+" \"HeartArrow\". Lou Martin, M&M Construction Inc. Crew Chief."
+msgstr ""
+"非絕對必要切勿使用。金庫為禁區。除非獲得辛克萊先生親自批准，否則嚴禁進入。但萬一那些安保系統出問題，可在金庫室內的炮塔防禦終端使用此密碼：“HeartArrow”。盧·馬丁，M&M建築公司，工頭。"
+
+#: .\items\books.json
+msgid "extracted holotape"
+msgid_plural "extracted holotapes"
+msgstr[0] "提取的全息磁帶"
+
+#. ~ Description for {'str': 'extracted holotape'}
+#: .\items\books.json
+msgid ""
+"Vera, If you're reading this, I know what you and Dean had planned tonight "
+"on the eve of the Gala Event. I loved you very much, and whatever possessed "
+"you to choose Dean's arm over my hand is beyond me. Whether it was greed or "
+"lust, it has led you here and will forever keep us apart. I hope it leaves "
+"you as empty as you left me. As much as you sought what was inside the "
+"Sierra Madre, now it will keep you. The door has sealed, the elevator has "
+"left, and not even your voice will unlock it. This casino was my gift to "
+"you, and you now will be its heart for all time. Sincerely, Frederick "
+"Sinclair"
+msgstr ""
+"薇拉，如果你讀到這個，我知道你和迪恩在晚宴前夜計劃了什麼。我曾深愛你，你究竟為何選擇迪恩的臂膀而非我的手，我無法理解。無論是貪婪還是慾望，都將你引至此地，並讓我們永遠分離。我希望它讓你感到空虛，正如你留給我的那樣。你如此渴望馬德雷山內的東西，現在它將永遠困住你。門已封死，電梯已離去，連你的聲音也無法開啟它。這座賭場曾是我給你的禮物，如今你將永遠成為它的心臟。誠摯的，弗雷德裡克·辛克萊"
+
+#: .\items\books.json
+msgid "note about security systems in the vault"
+msgid_plural "note about security systems in the vaults"
+msgstr[0] "關於金庫安保系統的筆記"
+
+#. ~ Description for {'str': 'note about security systems in the vault'}
+#: .\items\books.json
+msgid "Shor note describing Sierra Madre Vault security protocols."
+msgstr "簡述馬德雷山金庫安全協議的筆記。"
+
+#: .\items\books.json
+msgid "Elijah's holomessage"
+msgid_plural "Elijah's holomessages"
+msgstr[0] "以利亞的全息留言"
+
+#. ~ Description for {'str': "Elijah's holomessage"}
+#: .\items\books.json
+msgid ""
+"A holotape containing pre-recorded message from Elijah to someone named "
+"Veronica. You can't understand much but it sounds like a father saying "
+"goodbye to his daughter."
+msgstr "一段全息磁帶，內含以利亞給一位名叫維羅妮卡之人的預錄信息。你聽不太懂具體內容，但聽起來像是一位父親在向女兒道別。"
+
+#: .\items\clothes.json
+msgid "Dean's tuxedo"
+msgid_plural "Dean's tuxedos"
+msgstr[0] "迪恩的燕尾服"
+
+#. ~ Description for {'str': "Dean's tuxedo"}
+#: .\items\clothes.json
+msgid ""
+"A legendary tuxedo worn by the pre-apocalypse King of Swing, singer Dean "
+"Domino, famous for his talent... And fragile personality."
+msgstr "一件由末日前的搖擺樂之王、歌手迪恩·多米諾穿著的傳奇燕尾服，以其才華……以及脆弱的個性而聞名。"
+
+#: .\items\clothes.json
+msgid "Vera's outfit"
+msgid_plural "Vera's outfits"
+msgstr[0] "薇拉的禮服"
+
+#. ~ Description for {'str': "Vera's outfit"}
+#: .\items\clothes.json
+msgid ""
+"An iconic black evening dress with a red outline worn by the famous Holywood"
+" starlet Vera Keyes. Its characteristic trait is the fact that it covers "
+"only right leg."
+msgstr "一件由著名好萊塢女星薇拉·凱斯穿著的標誌性黑色晚禮服，帶有紅色輪廓。其特點是僅覆蓋右腿。"
+
+#: .\items\clothes.json
+msgid "Sinclair's suit"
+msgid_plural "Sinclair's suits"
+msgstr[0] "辛克萊的西裝"
+
+#. ~ Description for {'str': "Sinclair's suit"}
+#: .\items\clothes.json
+msgid ""
+"A fancy black suit worn by the Frederick Sinclair, the legendary "
+"bussinessman, founder of the Sierra Madre."
+msgstr "一件由傳奇商人、馬德雷山脈創始人弗雷德裡克·辛克萊穿著的精緻黑色西裝。"
+
+#: .\items\clothes.json
+msgid "Dead Money jumpsuit"
+msgid_plural "Dead Money jumpsuits"
+msgstr[0] "死錢連體服"
+
+#. ~ Description for {'str': 'Dead Money jumpsuit'}
+#: .\items\clothes.json
+msgid ""
+"A light gray jumpsuit, similar to the ones worn by technical workers. Unlike"
+" those, though, this one has a red cross mark on the back."
+msgstr "一件淺灰色連體服，類似於技術工人穿著的款式。但與那些不同，這件背後有一個紅色十字標記。"
+
+#: .\items\clothes.json
+msgid "Father Elijah's robe"
+msgid_plural "Father Elijah's robes"
+msgstr[0] "以利亞神父的長袍"
+
+#. ~ Description for {'str': "Father Elijah's robe"}
+#: .\items\clothes.json
+msgid ""
+"Long, dark-blue robes, apparently belonging to Father Elijah. They appear "
+"pretty worn out, indicating years of usage, including combat or some "
+"experiments with dangerous materials. Some weird wires are attached to it."
+msgstr "一件深藍色長袍，顯然屬於以利亞神父。它們看起來相當破舊，表明多年使用，包括戰鬥或某些危險材料的實驗。上面附著一些奇怪的線路。"
+
+#: .\items\codes_and_cards.json
+msgid "whiskey vending machine code card"
+msgid_plural "whiskey vending machine code cards"
+msgstr[0] "威士忌自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'whiskey vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase whiskey at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買威士忌的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "vodka vending machine code card"
+msgid_plural "vodka vending machine code cards"
+msgstr[0] "伏特加自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'vodka vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase vodka at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買伏特加的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "wine vending machine code card"
+msgid_plural "wine vending machine code cards"
+msgstr[0] "葡萄酒自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'wine vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase wine at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買葡萄酒的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "stimpack vending machine code card"
+msgid_plural "stimpack vending machine code cards"
+msgstr[0] "治療針自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'stimpack vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase stimpacks at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買治療針的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "Mentats vending machine code card"
+msgid_plural "Mentats vending machine code cards"
+msgstr[0] "曼他特自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'Mentats vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase Mentats at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買曼他特的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "Med-X vending machine code card"
+msgid_plural "Med-X vending machine code cards"
+msgstr[0] "Med-X自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'Med-X vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase Med-X at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買Med-X的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "C4 vending machine code card"
+msgid_plural "C4 vending machine code cards"
+msgstr[0] "C4自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'C4 vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase C4 charges at the Sierra Madre "
+"vending machines. In order to make a purchase just slide the card through "
+"the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買C4炸藥的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "firearm repairing kit vending machine code card"
+msgid_plural "firearm repairing kit vending machine code cards"
+msgstr[0] "槍械維修工具包自動售貨機代碼卡"
+
+#. ~ Description for {'str': 'firearm repairing kit vending machine code
+#. card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase firearm repairing kits at the "
+"Sierra Madre vending machines. In order to make a purchase just slide the "
+"card through the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買槍械維修工具包的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid ".357 Magnum vending machine code card"
+msgid_plural ".357 Magnum vending machine code cards"
+msgstr[0] ".357馬格南自動售貨機代碼卡"
+
+#. ~ Description for {'str': '.357 Magnum vending machine code card'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase .357 Magnum rounds at the "
+"Sierra Madre vending machines. In order to make a purchase just slide the "
+"card through the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買.357馬格南彈藥的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "7.62x51mm '.308 Winchester' vending machine code card"
+msgid_plural "7.62x51mm '.308 Winchester' vending machine code cards"
+msgstr[0] "7.62x51mm '.308溫徹斯特'自動售貨機代碼卡"
+
+#. ~ Description for {'str': "7.62x51mm '.308 Winchester' vending machine code
+#. card"}
+#: .\items\codes_and_cards.json
+msgid ""
+"A plastic card allowing the user to purchase 7.62x51mm Winchester rounds at "
+"the Sierra Madre vending machines. In order to make a purchase just slide "
+"the card through the vending machine's reader before selecting an item."
+msgstr "一張允許用戶在馬德雷山脈自動售貨機購買7.62x51mm溫徹斯特彈藥的塑料卡。要進行購買，只需在選擇物品前將卡滑過自動售貨機的讀卡器。"
+
+#: .\items\codes_and_cards.json
+msgid "Sierra Madre complimentary voucher"
+msgid_plural "Sierra Madre complimentary vouchers"
+msgstr[0] "Sierra Madre 免費兌換券"
+
+#. ~ Description for {'str': 'Sierra Madre complimentary voucher'}
+#: .\items\codes_and_cards.json
+msgid ""
+"A special voucher that can be redeemed at any Sierra Madre vending machine "
+"to receive 1000 chips."
+msgstr "一種特殊兌換券，可在任何 Sierra Madre 自動售貨機兌換，獲得 1000 籌碼。"
+
+#: .\items\codes_and_cards.json
+msgid "Gala control panel access codes"
+msgid_plural "Gala control panel access codess"
+msgstr[0] "Gala 控制面板訪問代碼"
+
+#. ~ Description for {'str': 'Gala control panel access codes'}
+#: .\items\codes_and_cards.json
+msgid ""
+"This card contains access codes for accessing the Gala control panel and "
+"triggering the Gala Event which is neccessary to open the Sierra Madre "
+"Casino's door."
+msgstr "這張卡片包含訪問 Gala 控制面板並觸發 Gala 事件的代碼，這是打開 Sierra Madre 賭場大門所必需的。"
+
+#: .\items\codes_and_cards.json
+msgid "Sierra Madre electronic board"
+msgid_plural "Sierra Madre electronic boards"
+msgstr[0] "Sierra Madre 電子板"
+
+#. ~ Description for {'str': 'Sierra Madre electronic board'}
+#: .\items\codes_and_cards.json
+msgid ""
+"Advanced electronic board used in the Sierra Madre control systems to "
+"control them. This one was either damaged or a spare one since it was lying "
+"on the floor instead of being attached somewhere in the Sierra Madre control"
+" systems."
+msgstr ""
+"用於 Sierra Madre 控制系統的高級電子板，用於控制它們。這塊板要麼損壞了，要麼是備用的，因為它被丟在地上，而不是安裝在 Sierra "
+"Madre 控制系統的某個地方。"
+
+#: .\items\codes_and_cards.json
+msgid "Vera Keyes' voice recording"
+msgid_plural "Vera Keyes' voice recordings"
+msgstr[0] "Vera Keyes 的錄音"
+
+#. ~ Description for {'str': "Vera Keyes' voice recording"}
+#: .\items\codes_and_cards.json
+msgid ""
+"A holotape containing Vera Keyes' voice recording combined from her songs "
+"with the password unlocking the Sierra Madre Casino vault."
+msgstr "一張全息磁帶，包含 Vera Keyes 的錄音，結合了她的歌曲和開啟 Sierra Madre 賭場金庫的密碼。"
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (weak)"
+msgid_plural "Flasks of Cloud Kiss (weak)"
+msgstr[0] "雲吻（弱效）"
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (weak)', 'str_pl':
+#. 'Flasks of Cloud Kiss (weak)'}.
+#: .\items\consumables.json
+msgid ""
+"You've drunk some Cloud Kiss venom and immediately regret it, even though "
+"that's been the weakest variant."
+msgstr "你喝了一些雲吻毒液，立刻後悔了，儘管這是最弱的變種。"
+
+#. ~ Description for {'str': 'Cloud Kiss (weak)', 'str_pl': 'Flasks of Cloud
+#. Kiss (weak)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. This one doesn't contain that much of the "
+"toxins and is relatively weak. Will corrode weapons as well, however you "
+"could still use it to poison the ones found in the Sierra Madre as they've "
+"already been exposed to the toxins for long enough and are still usable. "
+"Apparently Ghost People knew what they were doing."
+msgstr ""
+"一種由濃縮、固化的 Sierra Madre "
+"有毒氣體與普通家用清潔劑混合製成的毒液。這種毒液毒素含量不高，相對較弱。也會腐蝕武器，但你仍然可以用它來毒害 Sierra Madre "
+"中的那些生物，因為它們已經暴露在毒素中足夠長時間，仍然可以使用。顯然，幽靈人知道他們在做什麼。"
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (potent)"
+msgid_plural "Flasks of Cloud Kiss (potent)"
+msgstr[0] "雲吻（強效）"
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (potent)',
+#. 'str_pl': 'Flasks of Cloud Kiss (potent)'}.
+#: .\items\consumables.json
+msgid ""
+"You've drunk some rather concentrated Cloud Kiss venom and immediately "
+"regret it."
+msgstr "你喝了一些相當濃縮的雲吻毒液，立刻後悔了。"
+
+#. ~ Description for {'str': 'Cloud Kiss (potent)', 'str_pl': 'Flasks of Cloud
+#. Kiss (potent)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. The toxins are rather concentrated, making"
+" it a potentially deadly dose. Will corrode weapons as well, however you "
+"could still use it to poison the ones found in the Sierra Madre as they've "
+"already been exposed to the toxins for long enough and are still usable. "
+"Apparently Ghost People knew what they were doing."
+msgstr ""
+"一種由濃縮、固化的 Sierra Madre "
+"有毒氣體與普通家用清潔劑混合製成的毒液。毒素相當濃縮，使其成為潛在的致命劑量。也會腐蝕武器，但你仍然可以用它來毒害 Sierra Madre "
+"中的那些生物，因為它們已經暴露在毒素中足夠長時間，仍然可以使用。顯然，幽靈人知道他們在做什麼。"
+
+#: .\items\consumables.json
+msgid "Cloud Kiss (lethal)"
+msgid_plural "Flasks of Cloud Kiss (lethal)"
+msgstr[0] "雲吻（致命）"
+
+#. ~ Use action activation_message for {'str': 'Cloud Kiss (lethal)',
+#. 'str_pl': 'Flasks of Cloud Kiss (lethal)'}.
+#: .\items\consumables.json
+msgid "You've drunk a lethal dose of Cloud Kiss venom. Prepare to die..."
+msgstr "你喝下了致命劑量的雲吻毒液。準備迎接死亡吧……"
+
+#. ~ Description for {'str': 'Cloud Kiss (lethal)', 'str_pl': 'Flasks of Cloud
+#. Kiss (lethal)'}
+#: .\items\consumables.json
+msgid ""
+"A venom made out of concentrated, solidified Sierra Madre toxic gas mixed "
+"with common household detergents. The toxins are concentrated enough to "
+"straight-up kill even a young, healthy human. Will corrode weapons as well, "
+"however you could still use it to poison the ones found in the Sierra Madre "
+"as they've already been exposed to the toxins for long enough and are still "
+"usable. Apparently Ghost People knew what they were doing."
+msgstr ""
+"一種由濃縮、固化的 Sierra Madre "
+"有毒氣體與普通家用清潔劑混合製成的毒液。毒素濃度足以直接殺死一個年輕健康的人類。也會腐蝕武器，但你仍然可以用它來毒害 Sierra Madre "
+"中的那些生物，因為它們已經暴露在毒素中足夠長時間，仍然可以使用。顯然，幽靈人知道他們在做什麼。"
+
+#. ~ Description for {'str': 'Ghost Sight', 'str_pl': 'Flasks of Ghost Sight'}
+#: .\items\consumables.json
+msgid ""
+"Cloud residue boiled in a certain way, allowing you to acquire night vision "
+"similar to the one Ghost People have."
+msgstr "以某種方式煮沸的雲殘留物，讓你獲得類似幽靈人的夜視能力。"
+
+#: .\items\consumables.json
+msgid "chunk of Ghost meat"
+msgid_plural "chunks of Ghost meat"
+msgstr[0] "幽靈肉塊"
+
+#. ~ Use action activation_message for {'str': 'chunk of Ghost meat',
+#. 'str_pl': 'chunks of Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some flesh of a Ghost... Raw..."
+msgstr "你吃了一些幽靈的肉……生的……"
+
+#. ~ Description for {'str': 'chunk of Ghost meat', 'str_pl': 'chunks of Ghost
+#. meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. It WILL poison you, but if "
+"you're THAT starving and desperate... At least cook it then or something..."
+msgstr "Sierra Madre 幽靈人的受汙染肉體。它肯定會毒害你，但如果你真的那麼飢餓和絕望……至少先把它煮熟或做點什麼……"
+
+#: .\items\consumables.json
+msgid "chunk of cooked Ghost meat"
+msgid_plural "chunks of cooked Ghost meat"
+msgstr[0] "熟幽靈肉塊"
+
+#. ~ Use action activation_message for {'str': 'chunk of cooked Ghost meat',
+#. 'str_pl': 'chunks of cooked Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some cooked flesh of a Ghost..."
+msgstr "你吃了一些煮熟的幽靈肉……"
+
+#. ~ Description for {'str': 'chunk of cooked Ghost meat', 'str_pl': 'chunks
+#. of cooked Ghost meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. Despite being cooked, it still"
+" looks poisonous."
+msgstr "Sierra Madre 幽靈人的受汙染肉體。儘管煮熟了，它看起來仍然有毒。"
+
+#: .\items\consumables.json
+msgid "chunk of dried Ghost meat"
+msgid_plural "chunks of dried Ghost meat"
+msgstr[0] "幹幽靈肉塊"
+
+#. ~ Use action activation_message for {'str': 'chunk of dried Ghost meat',
+#. 'str_pl': 'chunks of dried Ghost meat'}.
+#: .\items\consumables.json
+msgid "You've eaten some dried flesh of a Ghost..."
+msgstr "你吃了一些乾製的幽靈肉……"
+
+#. ~ Description for {'str': 'chunk of dried Ghost meat', 'str_pl': 'chunks of
+#. dried Ghost meat'}
+#: .\items\consumables.json
+msgid ""
+"A tainted flesh of Sierra Madre Ghost People. Despite being dried, it still "
+"looks poisonous."
+msgstr "Sierra Madre 幽靈人的受汙染肉體。儘管乾製了，它看起來仍然有毒。"
+
+#: .\items\consumables.json
+msgid "Sierra Madre Martini"
+msgid_plural "Sierra Madre Martini"
+msgstr[0] "Sierra Madre 馬提尼"
+
+#. ~ Description for {'str_sp': 'Sierra Madre Martini'}
+#: .\items\consumables.json
+msgid ""
+"Concentrated, solidified Sierra Madre toxins mixed in a tin can with some "
+"junk food. While still unhealthy, apparently a right combination of "
+"chemicals found in pre-apocalypse junk food is able to change the properties"
+" of the toxic gas to actually aid you, not hurt you. You can't wrap your "
+"head around it, but hey, it works! Beware of drinking too much though - it's"
+" addictive."
+msgstr ""
+"濃縮、固化的 Sierra Madre "
+"毒素與一些垃圾食品混合在一個錫罐中。雖然仍然不健康，但顯然，末日前的垃圾食品中某些化學物質的正確組合能夠改變有毒氣體的性質，使其實際上幫助你，而不是傷害你。你無法理解，但嘿，它有效！不過要小心別喝太多——它會讓人上癮。"
+
+#: .\items\consumables.json
+msgid "stimpack"
+msgid_plural "stimpack"
+msgstr[0] "治療針"
+
+#. ~ Description for {'str_sp': 'stimpack'}
+#: .\items\consumables.json
+msgid ""
+"A syringe filled with a strange, dense, light-red substance, serving as a "
+"state-of-tech emergency medical aid. Once injected, it boosts tissue "
+"regeneration, blood pumping, adrenaline pumping, breathing and thinking "
+"rapidly, making one feel refreshed and healing a lot of abuse."
+msgstr ""
+"一支裝滿奇異、濃稠、淺紅色物質的注射器，作為高科技緊急醫療援助。注射後能促進組織再生、加速血液循環、激發腎上腺素、提升呼吸與思維速度，使人精神煥發並治癒大量損傷。"
+
+#: .\items\consumables.json
+msgid "Mentats"
+msgid_plural "Mentats"
+msgstr[0] "曼他特"
+
+#. ~ Use action activation_message for {'str_sp': 'Mentats'}.
+#: .\items\consumables.json
+msgid "You take some Mentats pills."
+msgstr "你服用了一些曼他特藥片。"
+
+#. ~ Description for {'str_sp': 'Mentats'}
+#: .\items\consumables.json
+msgid ""
+"Red pills developed by Med-Tek. No, they will not make you see the truth "
+"behind this insane, cruel world... Wait, they actually might do, since they "
+"are designed to temporairly boost perception and intelligence. Overdose can "
+"be fatal and addictive, though - beware of uncovering more truth that you "
+"can handle..."
+msgstr ""
+"由Med-"
+"Tek研發的紅色藥片。不，它們不會讓你看透這個瘋狂殘酷世界的真相……等等，或許真的可以，因為它們旨在暫時提升感知力和智力。但過量服用可能致命並導致成癮——小心發掘出超出你承受能力的真相……"
+
+#: .\items\consumables.json
+msgid "Med-X"
+msgid_plural "Med-X"
+msgstr[0] "Med-X"
+
+#. ~ Use action activation_message for {'str_sp': 'Med-X'}.
+#: .\items\consumables.json
+msgid "You inject a dose of Med-X."
+msgstr "你注射了一劑Med-X。"
+
+#. ~ Description for {'str_sp': 'Med-X'}
+#: .\items\consumables.json
+msgid ""
+"A highly effective painkiller that also boosts body regeneration "
+"capabilities. Has lower chance of overdose than conventional painkillers, "
+"but still can make you addicted or straight-up kill you."
+msgstr "一種高效止痛藥，同時能增強身體再生能力。比傳統止痛藥過量風險更低，但仍可能致癮或直接致命。"
+
+#: .\items\consumables.json
+msgid "Stealth Boy"
+msgid_plural "Stealth Boys"
+msgstr[0] "潛行小子"
+
+#. ~ Description for {'str': 'Stealth Boy'}
+#: .\items\consumables.json
+msgid ""
+"A high-tech device that generates a sophisticated field around the user that"
+" deflects and curves light beams in a way that looking at it an observer "
+"would see what's behind the user, effectively granting invisibility. Sadly "
+"it's a single use item and can't be recharged in any way after it uses up "
+"all its power supply. Brought to you by Big Mountain research facility."
+msgstr ""
+"一種高科技設備，能在使用者周圍生成精密力場，偏轉並彎曲光線，使觀察者看到使用者背後的景象，從而實現隱形。可惜這是單次使用物品，電力耗盡後無法以任何方式充電。由大山脈研究設施提供。"
+
+#: .\items\consumables.json
+msgid "portable security hologram emitter"
+msgid_plural "portable security hologram emitters"
+msgstr[0] "便攜式安保全息發射器"
+
+#. ~ Description for {'str': 'portable security hologram emitter'}
+#: .\items\consumables.json
+msgid ""
+"A portable version of the Sierra Madre security hologram emitter, allowing "
+"you to place a friendly holo guard of your own. One-time use only, and it "
+"has only so much power stored allowing the activated hologram to exist for "
+"only so long."
+msgstr "錫耶拉馬德雷安保全息發射器的便攜版本，允許你部署一個友方全息守衛。僅限單次使用，且儲存能量有限，激活的全息影像僅能存在一段時間。"
+
+#: .\items\gunmods.json
+msgid "Holorifle scope"
+msgid_plural "Holorifle scopes"
+msgstr[0] "全息步槍瞄準鏡"
+
+#: .\items\gunmods.json
+msgid ""
+"A 2.86x scope designed specifically for the holorifle. Has a nice circle-"
+"shaped, black crosshair clearly visible on slightly greenish lens."
+msgstr "專為全息步槍設計的2.86倍瞄準鏡。帶有清晰的圓形黑色十字準線，在微泛綠色的鏡片上清晰可見。"
+
+#: .\items\gunmods.json
+msgid "sights"
+msgstr "瞄準具"
+
+#: .\items\gunmods.json
+msgctxt "gun_type_type"
+msgid "holorifle"
+msgstr "全息步槍"
+
+#: .\items\gunmods.json
+msgid "Holorifle focus optics"
+msgid_plural "Holorifle focus optics"
+msgstr[0] "全息步槍聚焦光學組件"
+
+#: .\items\gunmods.json
+msgid ""
+"A set of optics to concentrate the beam to make it more powerful, increasing"
+" damage output."
+msgstr "一套用於集中光束以增強威力的光學組件，可提高傷害輸出。"
+
+#: .\items\gunmods.json
+msgid "lens"
+msgstr "透鏡"
+
+#: .\items\gunmods.json
+msgid "Holorifle advanced calibration"
+msgid_plural "Holorifle advanced calibrations"
+msgstr[0] "全息步槍高級校準組件"
+
+#: .\items\gunmods.json
+msgid ""
+"A set of parts for the Holorifle that helps calibrate the beam trajectory, "
+"improving accuracy."
+msgstr "一套用於全息步槍的部件，可校準光束軌跡，提高精準度。"
+
+#: .\items\gunmods.json
+msgid "mechanism"
+msgstr "機械裝置"
+
+#: .\items\gunmods.json
+msgid "Holorifle reinforced components"
+msgid_plural "Holorifle reinforced componentss"
+msgstr[0] "全息步槍強化部件"
+
+#: .\items\gunmods.json
+msgid "A set of reinforced Holorifle parts designed to make it more reliable."
+msgstr "一套強化過的全息步槍部件，旨在提高其可靠性。"
+
+#: .\items\gunmods.json
+msgid "Gauss rifle scope"
+msgid_plural "Gauss rifle scopes"
+msgstr[0] "高斯步槍瞄準鏡"
+
+#: .\items\gunmods.json
+msgid ""
+"A rifle scope designed specifically for the use with the Gauss rifle. Has a "
+"blue-glowing lens to look through, helping with target identification, "
+"allowing adjustable zoom and quick aiming."
+msgstr "專為高斯步槍設計的步槍瞄準鏡。配有發藍光的鏡片，有助於目標識別，支持變焦調節和快速瞄準。"
+
+#: .\items\gunmods.json
+msgctxt "gun_type_type"
+msgid "gauss_rifle"
+msgstr "高斯步槍"
+
+#: .\items\materials.json
+msgid "Cloud residue"
+msgid_plural "Cloud residue"
+msgstr[0] "雲層殘渣"
+
+#. ~ Description for {'str_sp': 'Cloud residue'}
+#: .\items\materials.json
+msgid ""
+"A portion of Sierra Madre toxic gas concentrated enough that it became "
+"solidified, sticking itself to the surfaces. You could use it to experiment "
+"a bit with a Cloud and possibly craft some useful stuff."
+msgstr "一份濃度高到固化的錫耶拉馬德雷毒氣，附著在物體表面。你可以用它稍作實驗，或許能製作出有用的物品。"
+
+#: .\items\materials.json
+msgid "turpentine"
+msgid_plural "turpentine"
+msgstr[0] "松節油"
+
+#. ~ Description for {'str_sp': 'turpentine'}
+#: .\items\materials.json
+msgid "A flammable liquid used as a common solvent."
+msgstr "一種易燃液體，常用作溶劑。"
+
+#: .\items\misc.json
+msgid "explosive collar"
+msgid_plural "explosive collars"
+msgstr[0] "爆炸項圈"
+
+#. ~ Use action menu_text for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "Set the collar to explode"
+msgstr "設置項圈引爆"
+
+#. ~ Use action msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "You trigger the collar's explosive mechanism."
+msgstr "你觸發了項圈的爆炸機制。"
+
+#. ~ Description for {'str': 'explosive collar'}
+#: .\items\misc.json
+msgid ""
+"A sturdy, black metallic collar wrapping tightly around the neck of a person"
+" unfortunate enough to be forced to wear it. Contains an explosive charge "
+"ready to blow off the head. Can be set up ready to go off via compatible "
+"radio signal. You don't want to wear it on yourself, right?..."
+msgstr ""
+"一個堅固的黑色金屬項圈緊緊箍在不幸被迫佩戴者的脖子上。內含炸藥，隨時準備炸飛頭顱。可通過兼容的無線電信號設置引爆。你肯定不想自己戴上它吧？……"
+
+#. ~ Use action no_deactivate_msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid ""
+"The collar is about to explode. While the blast won't be very strong since "
+"initially it's been designed to only blow the wearer's head off, it's still "
+"strongly encouraged to get away from it."
+msgstr "項圈即將爆炸。雖然爆炸威力不會太強——因為它最初設計僅用於炸飛佩戴者的頭部——但仍強烈建議遠離它。"
+
+#. ~ Use action sound_msg for {'str': 'explosive collar'}.
+#: .\items\misc.json
+msgid "Beep."
+msgstr "嗶。"
+
+#. ~ Description for {'str': 'explosive collar'}
+#: .\items\misc.json
+msgid ""
+"The collar is constantly beeping, ready to blow up once its internal timer "
+"reaches zero."
+msgstr "項圈持續發出嗶嗶聲，一旦內部計時器歸零就會爆炸。"
+
+#: .\items\misc.json
+msgid "Sierra Madre chip"
+msgid_plural "Sierra Madre chips"
+msgstr[0] "馬德雷籌碼"
+
+#. ~ Description for {'str': 'Sierra Madre chip'}
+#: .\items\misc.json
+msgid ""
+"This is a golden chip from the Sierra Madre casino, intended for gambling "
+"and collecting rewards at vending machines scattered around the resort. On "
+"its heads there's a face of a woman and an acronym \"SM\". On the tails you "
+"can see a portrait of a fancy-dressed woman holding the sign \"Begin again\""
+" and a sign \"Sierra Madre\" under her feet."
+msgstr ""
+"這是來自馬德雷賭場的金色籌碼，用於賭博和在度假村各處自動售貨機兌換獎勵。正面印有女子面容和縮寫“SM”。背面可見一位盛裝女子手持“重新開始”標牌，腳下寫著“馬德雷”字樣。"
+
+#: .\items\misc.json
+msgid "entertainer pass"
+msgid_plural "entertainer passs"
+msgstr[0] "演藝人員通行證"
+
+#. ~ Description for {'str': 'entertainer pass'}
+#: .\items\misc.json
+msgid ""
+"This ID card once belonged to one of the entertainers working at Tampico "
+"theater. Not of much use now, given the world ended and the security "
+"personnel is purely holographic and in engagement mode."
+msgstr "這張身份證曾屬於坦皮科劇院的演藝人員。如今已無太大用處，畢竟世界已毀滅，安保人員全是全息影像且處於交戰模式。"
+
+#: .\items\misc.json
+msgid "Sierra Madre gold bar"
+msgid_plural "Sierra Madre gold bars"
+msgstr[0] "馬德雷金條"
+
+#. ~ Description for {'str': 'Sierra Madre gold bar'}
+#: .\items\misc.json
+msgid ""
+"A weighty gold bar from the vault of the Sierra Madre casino. Technically "
+"worthless in a post-apocalyptic world, but the fact that it's from the "
+"legendary Sierra Madre actually makes it valuable for some rich traders "
+"willing to collect souvenirs."
+msgstr "來自馬德雷賭場金庫的沉甸甸金條。在後末日世界本無實際價值，但因其出自傳奇的馬德雷，某些熱衷收藏紀念品的富商反而視若珍寶。"
+
+#: .\items\misc.json
+msgid "bear trap fist HD springs"
+msgid_plural "bear trap fist HD springss"
+msgstr[0] "捕熊拳套HD彈簧"
+
+#. ~ Description for {'str': 'bear trap fist HD springs'}
+#: .\items\misc.json
+msgid ""
+"A set of springs for the bear trap fist to make its claws more powerful."
+msgstr "一套用於增強捕熊拳套爪擊威力的彈簧。"
+
+#: .\items\misc.json
+msgid "laser pistol energy cell magazine"
+msgid_plural "laser pistol energy cell magazines"
+msgstr[0] "激光手槍能源電池彈匣"
+
+#. ~ Description for {'str': 'laser pistol energy cell magazine'}
+#: .\items\misc.json
+msgid "A 30 round magazine for laser pistols utilizing energy cells."
+msgstr "適用於使用能源電池的激光手槍的30發彈匣。"
+
+#: .\items\misc.json
+msgid "Gauss rifle magazine"
+msgid_plural "Gauss rifle magazines"
+msgstr[0] "高斯步槍彈鼓"
+
+#. ~ Description for {'str': 'Gauss rifle magazine'}
+#: .\items\misc.json
+msgid ""
+"A drum capable of holding one pack of 5 microfusion cells designed to be "
+"used specifically with the Gauss rifle."
+msgstr "專為高斯步槍設計的彈鼓，可容納一組5枚微型聚變電池。"
+
+#: .\items\misc.json
+msgid "skeleton"
+msgid_plural "skeletons"
+msgstr[0] "骸骨"
+
+#. ~ Description for {'str': 'skeleton'}
+#: .\items\misc.json
+msgid "A dead skeleton."
+msgstr "一具死亡骸骨。"
+
+#: .\items\misc.json
+msgid "Sierra Madre chips inserting slot"
+msgid_plural "Sierra Madre chips inserting slots"
+msgstr[0] "馬德雷籌碼插入槽"
+
+#. ~ Description for {'str': 'Sierra Madre chips inserting slot'}
+#: .\items\misc.json
+msgid "debug item"
+msgstr "調試物品"
+
+#: .\items\misc.json
+msgid "Hologram visualisation"
+msgid_plural "Hologram visualisations"
+msgstr[0] "全息影像可視化"
+
+#. ~ Description for {'str': 'Hologram visualisation'}
+#. ~ Description for {'str': 'Sierra Madre Vault console display'}
+#: .\items\misc.json
+msgid "If you see it it's one giant bug."
+msgstr "如果你能看到這個，說明出現了重大漏洞。"
+
+#: .\items\misc.json
+msgid "Sierra Madre Vault console display"
+msgid_plural "Sierra Madre Vault console displays"
+msgstr[0] "馬德雷金庫控制檯顯示屏"
+
+#: .\items\misc.json
+msgid "Sierra Madre playing card"
+msgid_plural "Sierra Madre playing cards"
+msgstr[0] "馬德雷撲克牌"
+
+#. ~ Description for {'str': 'Sierra Madre playing card'}
+#: .\items\misc.json
+msgid "A playing card from an exclusive Sierra Madre deck."
+msgstr "來自馬德雷專屬撲克牌組的一張牌。"
+
+#: .\items\misc.json
+msgid "Sierra Madre map"
+msgid_plural "Sierra Madre maps"
+msgstr[0] "馬德雷地圖"
+
+#. ~ Use action message for {'str': 'Sierra Madre map'}.
+#: .\items\misc.json
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Do you have what it takes to crack it open?"
+msgstr "你聽說過馬德雷賭場。我們都聽過那些傳說與詛咒。你有能力揭開它的秘密嗎？"
+
+#. ~ Description for {'str': 'Sierra Madre map'}
+#: .\items\misc.json
+msgid ""
+"Strange, mysterious hand-drawn map claiming to lead to the legendary Sierra "
+"Madre, where the greatest treasure of the Old World is believed to be "
+"buried."
+msgstr "一張神秘的手繪地圖，聲稱能指引前往傳奇的馬德雷——據信舊世界最偉大的寶藏就埋藏於此。"
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear"
+msgid_plural "Ghost's knife spears"
+msgstr[0] "幽靈的刀矛"
+
+#. ~ Description for {'str': "Ghost's knife spear"}
+#: .\items\weapons.json
+msgid ""
+"A sturdy, menacing-looking knife spear Ghost People use to fight and hunt "
+"with. While an improvised weapon by the concept itself, as far as the "
+"execution goes, it doesn't feel like so. The sharp, large blade, apparently "
+"made specifically with this kind of weapon in mind, is attached to the "
+"thick, carefully cut pole with a several layers of tough rope, glue and "
+"industrial-grade ducttape. One the one hand it's good to be armed with it, "
+"on the other it's scary Sierra Madre is swarming with monsters using these "
+"to kill their prey."
+msgstr ""
+"鬼族用於戰鬥和狩獵的堅固、外觀兇險的刀矛。雖然從概念上講是臨時武器，但就製作工藝而言，卻感覺並非如此。鋒利寬大的刀刃顯然是專門為此類武器打造的，通過多層堅韌繩索、膠水和工業級強力膠帶固定在粗壯且精心切割的杆身上。一方面，裝備它是件好事；另一方面，令人恐懼的是，馬德雷山脈遍佈著使用這種武器獵殺獵物的怪物。"
+
+#: .\items\weapons.json
+msgid "Ghost's clean knife spear"
+msgid_plural "Ghost's clean knife spears"
+msgstr[0] "鬼族的潔淨刀矛"
+
+#. ~ Description for {'str': "Ghost's clean knife spear"}
+#: .\items\weapons.json
+msgid ""
+"This weapon executes the same concept as the standard Ghost's knife spear, "
+"expect it's blade is the one from clean cosmic knife, combining the "
+"advantages of both weapoons into one."
+msgstr "這把武器與標準鬼族刀矛的設計理念相同，但其刀刃來自潔淨的宇宙刀，將兩種武器的優勢合二為一。"
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (weak)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (weak)"
+msgstr[0] "塗有雲吻之毒（弱效）的鬼族刀矛"
+
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (weak)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss (weak)"}
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (potent)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss
+#. (potent)"}
+#. ~ Description for {'str': "Ghost's knife spear poisoned with Cloud Kiss
+#. (lethal)", 'str_pl': "Ghost's knife spears poisoned with Cloud Kiss
+#. (lethal)"}
+#: .\items\weapons.json
+msgid ""
+"A sturdy, menacing-looking knife spear Ghost People use to fight and hunt "
+"with. While an improvised weapon by the concept itself, as far as the "
+"execution goes, it doesn't feel like so. The sharp, large blade, apparently "
+"made specifically with this kind of weapon in mind, is attached to the "
+"thick, carefully cut pole with a several layers of tough rope, glue and "
+"industrial-grade ducttape. One the one hand it's good to be armed with it, "
+"on the other it's scary Sierra Madre is swarming with monsters using these "
+"to kill their prey. It has been poisoned with the venom made out of the "
+"Sierra Madre Cloud and thanks to it will poison your enemies, dealing "
+"additional damage over time."
+msgstr ""
+"鬼族用於戰鬥和狩獵的堅固、外觀兇險的刀矛。雖然從概念上講是臨時武器，但就製作工藝而言，卻感覺並非如此。鋒利寬大的刀刃顯然是專門為此類武器打造的，通過多層堅韌繩索、膠水和工業級強力膠帶固定在粗壯且精心切割的杆身上。一方面，裝備它是件好事；另一方面，令人恐懼的是，馬德雷山脈遍佈著使用這種武器獵殺獵物的怪物。它已被馬德雷山脈雲霧製成的毒液淬毒，因此能毒害你的敵人，造成持續額外傷害。"
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (potent)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (potent)"
+msgstr[0] "塗有雲吻之毒（強效）的鬼族刀矛"
+
+#: .\items\weapons.json
+msgid "Ghost's knife spear poisoned with Cloud Kiss (lethal)"
+msgid_plural "Ghost's knife spears poisoned with Cloud Kiss (lethal)"
+msgstr[0] "塗有雲吻之毒（致命）的鬼族刀矛"
+
+#: .\items\weapons.json
+msgid "Ghost's throwing knife spear"
+msgid_plural "Ghost's throwing knife spears"
+msgstr[0] "鬼族的投擲刀矛"
+
+#. ~ Description for {'str': "Ghost's throwing knife spear"}
+#: .\items\weapons.json
+msgid ""
+"A lighter and shorter version of the knife spear used by Ghost People meant "
+"for throwing. Was designed to deal powerful blows, but at a cost of being "
+"rather fragile, as opposed to their main knife spears."
+msgstr "鬼族使用的刀矛的輕量縮短版，專為投擲設計。旨在造成強力打擊，但代價是相對脆弱，與其主戰刀矛形成對比。"
+
+#: .\items\weapons.json
+msgid "bear trap fist"
+msgid_plural "bear trap fists"
+msgstr[0] "捕熊陷阱拳套"
+
+#. ~ Description for {'str': 'bear trap fist', 'str_pl': 'bear trap fists'}
+#: .\items\weapons.json
+msgid ""
+"A small bear trap some Ghost People use as a weapon by strapping it to their"
+" arm and clawing it at their prey. Its dark, sturdy teeth and the overall "
+"concept itself fill you with fear you can't rationally explain."
+msgstr "一些鬼族用作武器的小型捕熊陷阱，將其綁在手臂上抓向獵物。它暗沉堅固的利齒以及整體設計本身，讓你充滿一種無法理性解釋的恐懼。"
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (weak)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (weak)"
+msgstr[0] "塗有雲吻之毒（弱效）的捕熊陷阱拳套"
+
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss (weak)',
+#. 'str_pl': 'bear trap fists poisoned with Cloud Kiss (weak)'}
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss
+#. (potent)', 'str_pl': 'bear trap fists poisoned with Cloud Kiss (potent)'}
+#. ~ Description for {'str': 'bear trap fist poisoned with Cloud Kiss
+#. (lethal)', 'str_pl': 'bear trap fists poisoned with Cloud Kiss (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"A small bear trap some Ghost People use as a weapon by strapping it to their"
+" arm and clawing it at their prey. Its dark, sturdy teeth and the overall "
+"concept itself fill you with fear you can't rationally explain. It has been "
+"poisoned with the venom made out of the Sierra Madre Cloud and thanks to it "
+"will poison your enemies, dealing additional damage over time."
+msgstr ""
+"一些鬼族用作武器的小型捕熊陷阱，將其綁在手臂上抓向獵物。它暗沉堅固的利齒以及整體設計本身，讓你充滿一種無法理性解釋的恐懼。它已被馬德雷山脈雲霧製成的毒液淬毒，因此能毒害你的敵人，造成持續額外傷害。"
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (potent)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (potent)"
+msgstr[0] "塗有雲吻之毒（強效）的捕熊陷阱拳套"
+
+#: .\items\weapons.json
+msgid "bear trap fist poisoned with Cloud Kiss (lethal)"
+msgid_plural "bear trap fists poisoned with Cloud Kiss (lethal)"
+msgstr[0] "塗有雲吻之毒（致命）的捕熊陷阱拳套"
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist"
+msgid_plural "upgraded bear trap fists"
+msgstr[0] "升級版捕熊陷阱拳套"
+
+#. ~ Description for {'str': 'upgraded bear trap fist', 'str_pl': 'upgraded
+#. bear trap fists'}
+#: .\items\weapons.json
+msgid ""
+"Bear trap fist upgraded with HD strings for easier and more firm strapping "
+"onto the user's shoulder, allowing to deal more powerful blows."
+msgstr "捕熊陷阱拳套升級了高清綁帶，便於更牢固地固定在用戶肩部，從而能造成更強大的打擊。"
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (weak)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (weak)"
+msgstr[0] "塗有雲吻之毒（弱效）的升級版捕熊陷阱拳套"
+
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (weak)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (weak)'}
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (potent)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (potent)'}
+#. ~ Description for {'str': 'upgraded bear trap fist poisoned with Cloud Kiss
+#. (lethal)', 'str_pl': 'upgraded bear trap fists poisoned with Cloud Kiss
+#. (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"Bear trap fist upgraded with HD strings for easier and more firm strapping "
+"onto the user's shoulder, allowing to deal more powerful blows. It has been "
+"poisoned with the venom made out of the Sierra Madre Cloud and thanks to it "
+"will poison your enemies, dealing additional damage over time."
+msgstr ""
+"捕熊陷阱拳套升級了高清綁帶，便於更牢固地固定在用戶肩部，從而能造成更強大的打擊。它已被馬德雷山脈雲霧製成的毒液淬毒，因此能毒害你的敵人，造成持續額外傷害。"
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (potent)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (potent)"
+msgstr[0] "塗有雲吻之毒（強效）的升級版捕熊陷阱拳套"
+
+#: .\items\weapons.json
+msgid "upgraded bear trap fist poisoned with Cloud Kiss (lethal)"
+msgid_plural "upgraded bear trap fists poisoned with Cloud Kiss (lethal)"
+msgstr[0] "塗有雲吻之毒（致命）的升級版捕熊陷阱拳套"
+
+#: .\items\weapons.json
+msgid "cosmic knife"
+msgid_plural "cosmic knives"
+msgstr[0] "宇宙刀"
+
+#. ~ Description for {'str': 'cosmic knife', 'str_pl': 'cosmic knives'}
+#: .\items\weapons.json
+msgid ""
+"The state-of-tech steak knife made out of advanced steel alloys developed at"
+" Big Mountain research facility shortly before the apocalypse. Makes an "
+"excellent weapon, to the point you wonder who and how at Big Mountain made a"
+" mistake of designing it as a civilian steak knife before introducing it to "
+"the military as a new combat knife."
+msgstr ""
+"採用大山脈研究設施在末世前不久研發的先進鋼合金製成的科技牛排刀。作為武器表現卓越，以至於你會疑惑大山脈的何人在何種情況下，竟在將其作為新型戰鬥刀引入軍方之前，錯誤地將其設計為民用牛排刀。"
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (weak)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (weak)"
+msgstr[0] "塗有雲吻之毒（弱效）的宇宙刀"
+
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (weak)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (weak)'}
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (potent)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (potent)'}
+#. ~ Description for {'str': 'cosmic knife poisoned with Cloud Kiss (lethal)',
+#. 'str_pl': 'cosmic knives poisoned with Cloud Kiss (lethal)'}
+#: .\items\weapons.json
+msgid ""
+"The state-of-tech steak knife made out of advanced steel alloys developed at"
+" Big Mountain research facility shortly before the apocalypse. Makes an "
+"excellent weapon, to the point you wonder who and how at Big Mountain made a"
+" mistake of designing it as a civilian steak knife before introducing it to "
+"the military as a new combat knife. It has been poisoned with the venom made"
+" out of the Sierra Madre Cloud and thanks to it will poison your enemies, "
+"dealing additional damage over time."
+msgstr ""
+"採用大山脈研究設施在末世前不久研發的先進鋼合金製成的科技牛排刀。作為武器表現卓越，以至於你會疑惑大山脈的何人在何種情況下，竟在將其作為新型戰鬥刀引入軍方之前，錯誤地將其設計為民用牛排刀。它已被馬德雷山脈雲霧製成的毒液淬毒，因此能毒害你的敵人，造成持續額外傷害。"
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (potent)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (potent)"
+msgstr[0] "塗有雲吻之毒（強效）的宇宙刀"
+
+#: .\items\weapons.json
+msgid "cosmic knife poisoned with Cloud Kiss (lethal)"
+msgid_plural "cosmic knives poisoned with Cloud Kiss (lethal)"
+msgstr[0] "塗有雲吻之毒（致命）的宇宙刀"
+
+#: .\items\weapons.json
+msgid "clean cosmic knife"
+msgid_plural "clean cosmic knives"
+msgstr[0] "潔淨宇宙刀"
+
+#. ~ Description for {'str': 'clean cosmic knife', 'str_pl': 'clean cosmic
+#. knives'}
+#: .\items\weapons.json
+msgid ""
+"A cosmic knife polished with common detergents and other household cleaning "
+"products. It's shiny... And deadly. Its bright, shiny surface could "
+"metaphorically represent your hope of survivng the Sierra Madre."
+msgstr "用普通清潔劑和其他家用清潔產品拋光過的宇宙刀。它閃閃發光……且致命。其明亮閃亮的表面或許能象徵性地代表你在馬德雷山脈生存的希望。"
+
+#: .\items\weapons.json
+msgid "super-heated cosmic knife"
+msgid_plural "super-heated cosmic knives"
+msgstr[0] "超熱宇宙刀"
+
+#. ~ Description for {'str': 'super-heated cosmic knife', 'str_pl': 'super-
+#. heated cosmic knives'}
+#: .\items\weapons.json
+msgid ""
+"A cosmic knife heated up to an extreme temperature. As accidentially "
+"discovered by one of the Sierra Madre chefs, its handle remains cool, "
+"allowing you to wield it and burn your foes. Now your hope for surving "
+"Sierra Madre is burning just like this blade."
+msgstr ""
+"一把加熱到極高溫的宇宙之刃。正如塞拉馬德雷的一位廚師偶然發現的那樣，它的刀柄保持涼爽，讓你能夠揮舞它並灼燒敵人。如今，你在塞拉馬德雷求生的希望，正如這把刀刃般熊熊燃燒。"
+
+#: .\items\weapons.json
+msgid "Ghost's gas bomb"
+msgid_plural "Ghost's gas bombs"
+msgstr[0] "幽靈的氣體炸彈"
+
+#. ~ Use action menu_text for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "Activate"
+msgstr "激活"
+
+#. ~ Use action msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "You activate the bomb's igniter."
+msgstr "你啟動了炸彈的點火器。"
+
+#. ~ Description for {'str': "Ghost's gas bomb"}
+#: .\items\weapons.json
+msgid ""
+"A small tank full of highly-flammable gas repurposed to serve as a makeshift"
+" bomb, ready to explode in a blaze of glory. Also it seems as if the Sierra "
+"Madre toxins were added to the mixture..."
+msgstr "一個裝滿高度易燃氣體的小罐子，被改造成臨時炸彈，準備在榮耀的烈焰中爆炸。此外，混合物中似乎還添加了塞拉馬德雷的毒素……"
+
+#. ~ Use action no_deactivate_msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid ""
+"The sharp, hissing sound coming out of the tank indicates the blaze of glory"
+" is about to be unleashed to wipe the Sierra Madre clean... Well, at least "
+"\"some part of it\", technically speaking."
+msgstr "罐子發出的尖銳嘶嘶聲預示著榮耀的烈焰即將釋放，將塞拉馬德雷清掃一空……好吧，嚴格來說，至少是“它的某一部分”。"
+
+#. ~ Use action sound_msg for {'str': "Ghost's gas bomb"}.
+#: .\items\weapons.json
+msgid "Psfft."
+msgstr "嘶——"
+
+#. ~ Description for {'str': "Ghost's gas bomb"}
+#: .\items\weapons.json
+msgid ""
+"Throw this bomb quickly and run away before the blaze of glory consumes you!"
+msgstr "快扔出這顆炸彈，在榮耀的烈焰吞噬你之前逃跑！"
+
+#: .\items\weapons.json
+msgid "holorifle"
+msgid_plural "holorifles"
+msgstr[0] "全息步槍"
+
+#: .\items\weapons.json
+msgid ""
+"A state-of-tech gun, the holorifle is a very powerful pump-action rifle "
+"firing holobeams, utilizing microfusion cells. Holds four rounds in its "
+"internal, tube-shaped magazine and is quite reliable, though thanks to it "
+"being an improvised technology can still jam sometimes, especially when "
+"using overcharged cells. Comes with its own unique scope attached that is "
+"pleasant to look through, allowing good aiming precision, as well as a "
+"shoulder strap."
+msgstr ""
+"一把科技前沿的槍械，全息步槍是一種非常強大的泵動式步槍，發射全息光束，使用微型聚變電池供能。其內置管狀彈匣可容納四發彈藥，相當可靠，但由於是臨時拼湊的技術，有時仍會卡殼，尤其是在使用過充電池時。附帶一個獨特的瞄準鏡，視野清晰，瞄準精度高，還配有肩帶。"
+
+#: .\items\weapons.json
+msgid "pump-action"
+msgstr "泵動式"
+
+#: .\items\weapons.json
+msgid "chuk chuk."
+msgstr "咔嚓咔嚓。"
+
+#: .\items\weapons.json
+msgid "Gauss rifle"
+msgid_plural "Gauss rifles"
+msgstr[0] "高斯步槍"
+
+#: .\items\weapons.json
+msgid ""
+"An experimental energetic marksman rifle, utilizing microfusion cells to "
+"accelerate conductive or ferromagnetic projectiles to insane speed. This "
+"model is fed with a special packs of 5 microfusion cells, discharging all of"
+" them during one shot, effectively making it a single-shot weapon at a price"
+" of 5 rounds per shot. The accuracy and damage are worth it, though."
+msgstr ""
+"一把實驗性的高能射手步槍，利用微型聚變電池將導電或鐵磁彈丸加速到驚人的速度。此型號使用特殊的5發微型聚變電池包供彈，每射擊一次會耗盡全部電池，實際上使其成為單發武器，代價是每發消耗5發彈藥。不過，其精準度和傷害是值得的。"
+
+#: .\items\weapons.json
+msgid "single-shot"
+msgstr "單發"
+
+#: .\items\weapons.json
+msgid "slosh."
+msgstr "晃動。"
+
+#: .\items\weapons.json
+msgid "laser pistol"
+msgid_plural "laser pistols"
+msgstr[0] "激光手槍"
+
+#: .\items\weapons.json
+msgid ""
+"A next-gen laser pistol prototype, firing energy cells from its 30-round "
+"magazine designed specifically for it. Unlike other energy weapons, it needs"
+" a special ammo rather than just a power supply, but the power it gives in "
+"return was deemed worth it by its engineers at Big Mountain research "
+"facility. Unfortunately, occassionally can jam."
+msgstr ""
+"一款次世代激光手槍原型，從其專為它設計的30發彈匣中發射能量電池。與其他能量武器不同，它需要特殊彈藥而非僅靠電源供能，但其工程師在大山研究設施認為其回報的威力是值得的。不幸的是，偶爾會卡殼。"
+
+#: .\items\weapons.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\items\weapons.json
+msgid "Colt Trooper .357 Magnum"
+msgid_plural "Colt Trooper .357 Magnum"
+msgstr[0] "柯爾特騎兵 .357 馬格南"
+
+#: .\items\weapons.json
+msgid ""
+"Introduced in 1953, this revolver features pretty good weight and "
+"comfortable handling. It came with Target version for sport shooting and "
+"Service for law enforcement officers, the latter complaining about weight of"
+" their sidearms before. This particular model is the high-end .357 Magnum "
+"version, capable of firing .38 Special as well."
+msgstr ""
+"這款左輪手槍於1953年推出，重量適中，握持舒適。它提供用於體育射擊的Target版和供執法官員使用的Service版，後者此前曾抱怨其配槍過重。此特定型號是高端.357馬格南版本，也能發射.38特種彈。"
+
+#: .\items\weapons.json
+msgid "Hologram laser beam"
+msgid_plural "Hologram laser beams"
+msgstr[0] "全息激光束"
+
+#: .\items\weapons.json
+msgid "A laser beam used by Sierra Madre security holograms."
+msgstr "塞拉馬德雷安全全息影像使用的激光束。"
+
+#: .\items\weapons.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\monsters\ghosts.json
+msgid "spear_ammo"
+msgstr "矛彈"
+
+#: .\monsters\ghosts.json
+msgid "throwing knifespear fake ammo"
+msgid_plural "throwing knifespear fake ammos"
+msgstr[0] "投擲刀矛假彈藥"
+
+#. ~ Description for {'str': 'throwing knifespear fake ammo'}
+#. ~ Description for {'str': 'gas bomb fake ammo'}
+#: .\monsters\ghosts.json
+msgid "fake_ammo"
+msgstr "假彈藥"
+
+#: .\monsters\ghosts.json
+msgid "gas_bomb_ammo"
+msgstr "氣體炸彈彈藥"
+
+#: .\monsters\ghosts.json
+msgid "gas bomb fake ammo"
+msgid_plural "gas bomb fake ammos"
+msgstr[0] "氣體炸彈假彈藥"
+
+#: .\monsters\ghosts.json
+msgid "Ghost throwing knifespear"
+msgid_plural "Ghost throwing knifespears"
+msgstr[0] "幽靈投擲刀矛"
+
+#: .\monsters\ghosts.json
+msgid "Fake gun that throws Ghost knifespears."
+msgstr "能投擲幽靈刀矛的假槍。"
+
+#: .\monsters\ghosts.json
+msgctxt "gun_type_type"
+msgid "rifle"
+msgstr "步槍"
+
+#: .\monsters\ghosts.json
+msgid "fake launcher"
+msgid_plural "fake launchers"
+msgstr[0] "假髮射器"
+
+#: .\monsters\ghosts.json
+msgid "fake item so that seekers can throw their bombs"
+msgstr "假物品，以便追獵者能投擲他們的炸彈"
+
+#: .\monsters\ghosts.json
+msgctxt "gun_type_type"
+msgid "launcher"
+msgstr "發射器"
+
+#: .\monsters\ghosts.json
+msgid "The %1$s claws at you with a bearfist!"
+msgstr "%1$s 用熊爪拳向你猛擊！"
+
+#: .\monsters\ghosts.json
+msgid "The %1$s claws at <npcname> with a bearfist!"
+msgstr "%1$s 用熊爪拳向 <npcname> 猛擊！"
+
+#: .\monsters\ghosts.json
+msgid "The %1$s tries to claw at you with a bearfist, but fails to."
+msgstr "%1$s試圖用熊爪拳攻擊你，但未能成功。"
+
+#: .\monsters\ghosts.json
+msgid "The %1$s tries to claw <npcname> with a bearfist, but fails to."
+msgstr "%1$s試圖用熊爪拳攻擊<npcname>，但未能成功。"
+
+#: .\monsters\ghosts.json
+msgid "Ghost harvester"
+msgid_plural "Ghost harvesters"
+msgstr[0] "幽靈收割者"
+
+#. ~ Description for {'str': 'Ghost harvester'}
+#: .\monsters\ghosts.json
+msgid ""
+"A smaller and weaker type of Ghost People, though still very deadly due to "
+"high agility. Fights using knife spears, both in melee and throwing them "
+"from a distance."
+msgstr "一種體型較小、較弱的幽靈人類型，但由於高敏捷性仍然非常致命。使用刀矛戰鬥，既可近戰也可遠距離投擲。"
+
+#: .\monsters\ghosts.json
+msgid "The Ghost harvester throws a knife spear!"
+msgstr "幽靈收割者投擲了一把刀矛！"
+
+#: .\monsters\ghosts.json
+msgid "Ghost trapper"
+msgid_plural "Ghost trappers"
+msgstr[0] "幽靈陷阱者"
+
+#. ~ Description for {'str': 'Ghost trapper'}
+#: .\monsters\ghosts.json
+msgid ""
+"This Ghost has a large, bulky body yet still maintains a great degree of "
+"agility. Armed with a small bear trap strapped to its arm, will try to claw "
+"at you using it."
+msgstr "這種幽靈擁有龐大笨重的身體，但仍保持高度的敏捷性。裝備著綁在手臂上的小型捕熊夾，會試圖用它來抓撓你。"
+
+#: .\monsters\ghosts.json
+msgid "Ghost seeker"
+msgid_plural "Ghost seekers"
+msgstr[0] "幽靈搜尋者"
+
+#. ~ Description for {'str': 'Ghost seeker'}
+#: .\monsters\ghosts.json
+msgid ""
+"Taller than harvesters, weaker and skinnier than trappers, those Ghosts will"
+" often throw an improvised gas bomb before engaging with their knife spears,"
+" making them a potentially deadly enemies. If you survive the blast though, "
+"they'll be easier to deal with than trappers for sure."
+msgstr ""
+"比收割者更高，比陷阱者更弱更瘦，這些幽靈在近身使用刀矛戰鬥前，通常會投擲簡易氣體炸彈，使它們成為潛在的致命敵人。不過，如果你能在爆炸中倖存，它們肯定比陷阱者更容易對付。"
+
+#: .\monsters\ghosts.json
+msgid "The Ghost seeker throws its gas bomb!"
+msgstr "幽靈搜尋者投擲了它的氣體炸彈！"
+
+#: .\monsters\holograms.json
+msgid "Sierra Madre security hologram"
+msgid_plural "Sierra Madre security holograms"
+msgstr[0] "馬德雷山脈安全全息影像"
+
+#. ~ Description for {'str': 'Sierra Madre security hologram'}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter."
+msgstr ""
+"大山脈最偉大的成就之一，這個全息影像遠不止是展示——它能夠檢測敵對目標並向其發射內部激光束。完全無敵，所以不要浪費你的彈藥和其他任何戰鬥物資。只有找到並訪問其發射器才能關閉它。"
+
+#. ~ Description for {'str': 'Sierra Madre security hologram'}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter. This one act as a friendly immobile"
+" sentry though, since it was you who took control of it."
+msgstr ""
+"大山脈最偉大的成就之一，這個全息影像遠不止是展示——它能夠檢測敵對目標並向其發射內部激光束。完全無敵，所以不要浪費你的彈藥和其他任何戰鬥物資。只有找到並訪問其發射器才能關閉它。不過這個作為友好的固定哨兵，因為是你控制了它。"
+
+#: .\monsters\holograms.json
+msgid "Sierra Madre Vera Keyes' hologram"
+msgid_plural "Sierra Madre Vera Keyes' holograms"
+msgstr[0] "馬德雷山脈薇拉·凱斯全息影像"
+
+#. ~ Description for {'str': "Sierra Madre Vera Keyes' hologram"}
+#: .\monsters\holograms.json
+msgid ""
+"One of the greatest Big Mountain achievements, this hologram is far more "
+"than just display - it's capable of detecting hostile targets and firing its"
+" internal laser beam at them. Completely invincible, so don't waste your "
+"ammo and whatever other combat supplies you might have. Can only be switched"
+" off if you find and access its emitter. This one seems to have taken the "
+"form of Vera Keyes for some strange reason."
+msgstr ""
+"大山脈最偉大的成就之一，這個全息影像遠不止是展示——它能夠檢測敵對目標並向其發射內部激光束。完全無敵，所以不要浪費你的彈藥和其他任何戰鬥物資。只有找到並訪問其發射器才能關閉它。這個似乎因某種奇怪原因呈現為薇拉·凱斯的形態。"
+
+#: .\monsters\speech.json
+msgid "HHAAAARRRRRR"
+msgstr "哈啊啊啊啊啊啊"
+
+#: .\monsters\speech.json
+msgid "HHUUUURRRR"
+msgstr "呼嗚嗚嗚嗚"
+
+#: .\monsters\speech.json
+msgid "HHEEEEEHH"
+msgstr "嘿誒誒誒誒"
+
+#: .\monsters\speech.json
+msgid "HHOOOORHH"
+msgstr "吼嗚嗚嗚"
+
+#: .\monsters\speech.json
+msgid "HAARRRHHH"
+msgstr "哈啊啊啊"
+
+#: .\monsters\speech.json
+msgid ""
+"Sinclair?! Sinclair, I'm trapped. Please, oh god, the security systems won't"
+" let me out, they're keeping me here."
+msgstr "辛克萊？！辛克萊，我被困住了。求你了，天哪，安全系統不讓我出去，它們把我關在這裡。"
+
+#: .\monsters\speech.json
+msgid "Sinclair?! SINCLAIR!!!"
+msgstr "辛克萊？！辛克萊！！！"
+
+#: .\monsters\speech.json
+msgid ""
+"We all pay for what we've done. I'm so sorry, Sinclair. Sorry, I... I should"
+" have trusted you."
+msgstr "我們都為自己所做的事付出代價。我很抱歉，辛克萊。對不起，我……我應該相信你的。"
+
+#: .\monsters\speech.json
+msgid ""
+"I'm going to die here, amongst the ghosts. I... I'm still being recorded by "
+"the holographic system."
+msgstr "我要死在這裡了，在幽靈之中。我……我仍然被全息系統記錄著。"
+
+#: .\monsters\speech.json
+msgid ""
+"The doors, they... they sealed. I... I can hear the other guests, screaming "
+"to be let out, to let go."
+msgstr "門，它們……它們封死了。我……我能聽到其他客人在尖叫，要求被放出去，要求放手。"
+
+#: .\monsters\speech.json
+msgid "Let go? Let go of what?"
+msgstr "放手？放下什麼？"
+
+#: .\monsters\speech.json
+msgid ""
+"I came so far to be here... Now, now I just want to leave. Please... Let me "
+"leave."
+msgstr "我千里迢迢來到這裡……現在，現在我只想離開。求求你……讓我離開。"
+
+#: .\monsters\speech.json
+msgid ""
+"Sinclair? Sinclair, where did you go? Why did you leave me here? Why..."
+msgstr "辛克萊？辛克萊，你去哪兒了？為什麼把我留在這裡？為什麼……"
+
+#: .\monsters\speech.json
+msgid "Sinclair, is that you?"
+msgstr "辛克萊，是你嗎？"
+
+#: .\monsters\turrets.json
+msgid "laser turret"
+msgid_plural "laser turrets"
+msgstr[0] "激光炮塔"
+
+#. ~ Description for {'str': 'laser turret'}
+#: .\monsters\turrets.json
+msgid ""
+"A simple military-grade laser turret for protecting important areas. Nothing"
+" too special about it, but it's deadly and gets the job done."
+msgstr "一種簡單的軍用級激光炮塔，用於保護重要區域。它沒什麼特別之處，但致命且能完成任務。"
+
+#: .\monsters\turrets.json
+msgid "broken laser turret"
+msgid_plural "broken laser turrets"
+msgstr[0] "損壞的激光炮塔"
+
+#: .\npcs\NPC_missions.json
+msgid "Sierra Madre Casino Locator Hologram"
+msgstr "馬德雷賭場定位器全息圖"
+
+#: .\npcs\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "全息影像防護"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\npcs\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"我的程序設定為不與遊蕩怪物交戰。\""
+
+#. ~ Description for mission '{'str': 'Go to Sierra Madre Casino'}'
+#: .\npcs\NPC_missions.json
+msgid "Go to Sierra Madre Casino"
+msgstr "前往馬德雷賭場"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr "要我為你定位探索地點？沒問題，只需等我用網絡系統查找幾分鐘或更短時間"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via"
+" my network system"
+msgstr "你想讓我現在為你定位那個地點以便探索嗎？當然，告訴我吧，你只需要等幾分鐘或更短時間，我就能通過網絡系統找到它。"
+
+#: .\npcs\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "祝你好運！"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr "對新地點的探索不感興趣嗎？別急，希望如此。你可以稍後再來找我。我相信你會的，因為我覺得你不是個無聊的人。"
+
+#: .\npcs\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "也希望你運用智慧確保自身安全。"
+
+#: .\npcs\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "你去過我為你找到的那個探索地點了嗎？"
+
+#: .\npcs\NPC_missions.json
+msgid "Good work!"
+msgstr "幹得好！"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"對我撒謊有什麼意義？你以為我會獎勵你嗎？這次任務的獎勵就是你在那個地點找到的對你來說有價值的物品、生物或其他倖存者，那是我為你找到的探索地點。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr "說實話，你是個無聊又懶惰的人。我想懶惰這一點我們倆都適用。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many"
+" types of you who don't even read what's written on items honestly. Good "
+"that you seem like a pretty intelligent person hopefully. So, do you want me"
+" to show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"系統在線。啟動對話模式。看啊，倖存者輕鬆激活了全息投影儀！沒錯，我的創造者瞭解很多像你這樣的人，說實話他們甚至不讀物品上的說明。幸好你看起來是個相當聰明的人，希望如此。那麼，你想讓我通過網絡系統為你顯示這個地點的位置嗎？我可以授予你訪問存檔全球網絡系統的權限，那是我的創造者設法恢復的。不過，使用後我需要稍微充能，這意味著你需要等待才能再次使用這個功能，希望如此。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr "[任務] 我希望你通過你的網絡系統為我找到這個地點以便探索，希望如此。"
+
+#: .\npcs\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "你是誰或是什麼東西？"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "你的創造者是誰？製造這些投影儀的目的是什麼？"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr "[改善心情] 我希望你授予我訪問存檔全球網絡系統的權限。"
+
+#: .\npcs\NPC_missions.json
+msgid "About that mission..."
+msgstr "關於那個任務……"
+
+#: .\npcs\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[告別]"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"啟動搜索模式。請等待幾分鐘或更短時間。你聽清楚了。不過，我們的定位工具有所限制。如果定位器無法找到這個地點，那就簡單地創建另一個能成功找到該地點的全息定位器。"
+
+#: .\npcs\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "我能和你談談別的嗎？"
+
+#: .\npcs\NPC_missions.json
+msgid "Thanks"
+msgstr "謝謝。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software"
+" with some additional technologies, it is that simple"
+msgstr ""
+"我是魔法相機裡的魔法精靈。不，開個玩笑。這是什麼問題？你不喜歡探索，還是對自己的世界瞭解不多？你沒在實驗室裡見過東西嗎？軍事設施？絕密物品？外星人或那些生物？你以為你們自己人沒有能製造全息影像的技術嗎？我是個全息影像，是帶有附加技術的軟件，就這麼簡單。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"這個問題比上一個聰明多了。我的創造者可以說是一群高科技極客，說實話其中大多數是人類。他們既沒有太多戰鬥技能，也顯然不願讓自己的生命承受不必要的風險。他們只會在基本生存需要時與敵對生物交戰。他們試圖依靠自給自足，並憑藉應用智慧和自行發現或設計的技術取得相對成功。他們製造這些投影儀是為了我們能互相幫助。我們為你提供有危險生物的地點，以及有價值的物品或被囚禁的倖存者。你清理這些地點，從中獲取你想要的任何有價值物品或倖存者，使這些地點成為安全的庇護所，希望我們包括你也能在那裡生活。"
+
+#: .\npcs\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving?"
+msgstr ""
+"你想做什麼？玩存檔遊戲？瀏覽存檔社交媒體？看存檔視頻？聽存檔音樂？閱讀存檔文件和存檔書籍？找點東西玩、讀、聽、看，為了樂趣、提升智力、精神提升、心智改善？"
+
+#: .\npcs\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "說實話，我很喜歡其中一些。健康的東西。"
+
+#: .\npcs\consoles.json
+msgid "Sierra Madre Vault main terminal"
+msgstr "馬德雷金庫主終端"
+
+#. ~ Description for vault control terminal
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid ""
+"Still operational terminal inside the Sierra Madre Vault, providing access "
+"to the most important data for Frederick Sinclair."
+msgstr "馬德雷金庫內仍可運行的終端，為弗雷德裡克·辛克萊提供最重要數據的訪問權限。"
+
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid "vault control terminal"
+msgstr "金庫控制終端"
+
+#: .\npcs\consoles.json .\npcs\dialogue_gala.json .\terrain\furniture.json
+msgid "Gala control panel"
+msgstr "慶典控制面板"
+
+#: .\npcs\consoles.json
+msgid "Main terminal for controlling the Gala Event."
+msgstr "控制慶典活動的主終端。"
+
+#: .\npcs\consoles.json
+msgid "power control terminal"
+msgstr "電力控制終端"
+
+#. ~ Description for Power control terminal
+#: .\npcs\consoles.json .\terrain\furniture.json
+msgid ""
+"Still operational terminal used to manually control the power of the inner "
+"systems in the Sierra Madre Casino."
+msgstr "仍可運行的終端，用於手動控制馬德雷賭場內部系統的電力。"
+
+#: .\npcs\dialogue_casino_power.json .\terrain\furniture.json
+msgid "Power control terminal"
+msgstr "電力控制終端"
+
+#: .\npcs\dialogue_casino_power.json
+msgid "Manually restore casino's power"
+msgstr "手動恢復賭場電力"
+
+#: .\npcs\dialogue_casino_power.json .\npcs\dialogue_console.json
+#: .\npcs\dialogue_gala.json .\npcs\dialogue_vendor.json
+msgid "Exit"
+msgstr "退出"
+
+#: .\npcs\dialogue_casino_power.json
+msgid "Power systems online..."
+msgstr "電力系統在線..."
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Welcome to the Sierra Madre Casino. Would you like to buy some chips?"
+msgstr "歡迎來到馬德雷賭場。您想買些籌碼嗎？"
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Yes."
+msgstr "是的。"
+
+#: .\npcs\dialogue_casino_vendor.json .\npcs\dialogue_vendor.json
+msgid "No thanks, I think I have to go."
+msgstr "不用了，謝謝，我想我得走了。"
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid ""
+"We hope you're satisfied with the transaction and wish you good luck. "
+"Anything else we can do for you?"
+msgstr "希望您對交易滿意，祝您好運。還有什麼我們能為您做的嗎？"
+
+#: .\npcs\dialogue_casino_vendor.json .\npcs\dialogue_vendor.json
+msgid "No, that's all."
+msgstr "不，就這些了。"
+
+#: .\npcs\dialogue_casino_vendor.json
+msgid "Yes, I'd like to buy some more."
+msgstr "是的，我想再買一些。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Wait! Who the hell are you? What the hell are you even doing here?! How... "
+"How... Nobody, since the Courier, (God/Dog) and Dean left... Nobody..."
+msgstr "等等！你他媽是誰？你他媽到底在這裡幹什麼？！怎麼...怎麼...自從信使、（上帝/狗）和迪恩離開後...沒人..."
+
+#: .\npcs\dialogue_christine.json
+msgid "No, who the hell are YOU! What the hell are YOU even doing here?!"
+msgstr "不，你他媽是誰！你他媽到底在這裡幹什麼？！"
+
+#: .\npcs\dialogue_christine.json
+msgid "Step aside... Madre's mine mine mine!!!!!!!!!"
+msgstr "讓開...馬德雷是我的我的我的!!!!!!!!!"
+
+#: .\npcs\dialogue_christine.json
+msgid "You speak like Vera Keyes..."
+msgstr "你說話像薇拉·凱斯..."
+
+#: .\npcs\dialogue_christine.json
+msgid "Alright, calm down and let's talk this over"
+msgstr "好吧，冷靜下來，我們談談"
+
+#: .\npcs\dialogue_christine.json
+msgid "What the hell is going here? Why are you standing here?"
+msgstr "這裡到底發生了什麼？你為什麼站在這裡？"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"No... You don't understand. I can't let you in... That's my job. To protect "
+"the world from him. From the Sierra Madre and it's curse of greed and "
+"neediness as a whole. If you enter the vault... No, you can't enter the "
+"vault. You shouldn't have come here."
+msgstr ""
+"不...你不明白。我不能讓你進去...那是我的工作。保護世界免受他的傷害。免受馬德雷及其貪婪與匱乏的詛咒。如果你進入金庫...不，你不能進入金庫。你不該來這裡。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"NO! I WON'T PLAY STUPID GAMES! MADRE'S MINE MINE "
+"MINE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr "不！我不會玩愚蠢的遊戲！馬德雷是我的我的我的!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Why not? I came so far. I went through so much. I can't leave. I'm not "
+"letting go. Not now."
+msgstr "為什麼不？我走了這麼遠。我經歷了這麼多。我不能離開。我不會放手。現在不行。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I... I'm guarding the Sierra Madre. To protect the world from it. I was "
+"trapped. Together with Dean, (Dog/God) and the Courier. The four of us... "
+"All enslaved... Father Elijah forced us to work for him to break into the "
+"vault, then told the Courier to kill us all... But Courier was a human, not "
+"a monster. The Courier saved us all."
+msgstr ""
+"我……我在守衛錫耶拉馬德雷。為了保護世界免受其害。我被困住了。和迪恩、(狗/神)還有信使一起。我們四個……全都被奴役了……以利亞神父強迫我們為他工作，闖入金庫，然後命令信使殺掉我們所有人……但信使是人，不是怪物。信使救了我們所有人。"
+
+#: .\npcs\dialogue_christine.json
+msgid "Did... Did he use collars to force obedience?"
+msgstr "他……他是用項圈來強迫服從的嗎？"
+
+#: .\npcs\dialogue_christine.json
+msgid "What can you tell me about the Courier, (Dog/God) and Dean Domino?"
+msgstr "關於信使、(狗/神)和迪恩·多米諾，你能告訴我些什麼？"
+
+#: .\npcs\dialogue_christine.json
+msgid "What happened to the Father Elijah?"
+msgstr "以利亞神父後來怎麼樣了？"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Dean Domino was planning this heist himself, long before the rest of us saw "
+"the Sierra Madre walls... He forced me into one of the villa's clinic "
+"autodocs to operate my voice... So that, upon figuring out the password, he "
+"could use me to unlock the vault..."
+msgstr ""
+"迪恩·多米諾自己策劃了這次搶劫，遠在我們其他人看到錫耶拉馬德雷的圍牆之前……他強迫我進入別墅診所的一臺自動醫療機，對我的聲音進行手術……這樣，在破解密碼後，他就能利用我來打開金庫……"
+
+#: .\npcs\dialogue_christine.json
+msgid "I'm sorry you had to go through this..."
+msgstr "很抱歉你不得不經歷這些……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Okay, so, to sum up our current situation, I'm here guarding the Sierra "
+"Madre and you came here... You should leave. There's nothing awaiting you in"
+" the Sierra Madre."
+msgstr "好吧，那麼，總結一下我們目前的情況，我在這裡守衛錫耶拉馬德雷，而你來到了這裡……你應該離開。錫耶拉馬德雷沒有什麼在等著你。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I see... You went so far. Like me. Like the Courier, like Dean Domino, like "
+"(God/Dog), like Father Elijah... But getting to it... That's not the hard "
+"part. It's letting go. Greed, jealously, hate, vengeance, power, control, "
+"hunger, money, even love... We all came here for different reaasons... But "
+"that's what we had to learn. To let go. Hell, Frederick Sinclair, the "
+"Founder himself couldn't let go... And so he himself died in the Sierra "
+"Madre... Everyone who left this place learned to let go. The majority "
+"didn't... And they all died. Neither could Father Elijah."
+msgstr ""
+"我明白了……你走了這麼遠。就像我一樣。就像信使，就像迪恩·多米諾，就像(神/狗)，就像以利亞神父……但到達那裡……那並不難。難的是放手。貪婪、嫉妒、仇恨、復仇、權力、控制、飢餓、金錢，甚至愛情……我們來到這裡都有不同的原因……但這就是我們必須學會的。學會放手。見鬼，弗雷德裡克·辛克萊，創始人自己都無法放手……所以他本人死在了錫耶拉馬德雷……離開這個地方的人都學會了放手。大多數人沒有……而他們都死了。以利亞神父也沒能做到。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"That collar on my neck... I have to obey Father Elijah. One of the "
+"inscriptions on the villa wall says \"Try to leave and BOOM\"..."
+msgstr "我脖子上的那個項圈……我必須服從以利亞神父。別墅牆上的銘文之一寫著“試圖離開就會BOOM”……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I entered the Casino only because of the guidance of the voice that spoke to"
+" me through the fountain hologram and Casino intercom at the lobby... We "
+"both know to whom this voice belongs at this point, am I right?"
+msgstr "我進入賭場，僅僅是因為那個通過噴泉全息影像和賭場大廳對講機對我說話的聲音的指引……我們都知道這個聲音此刻屬於誰，對吧？"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"The Courier managed to enter the vault... And learned to let go. (Dog/God) "
+"was a savage mutant with double personality disorder... One was an ever-"
+"hungry monster, the other was a power-thirsty narcissist... But the "
+"Courier... The Courier had patience both for Dog and God, merging two "
+"personalities into one, gentle and peaceful... Dean Domino, that asshole... "
+"Even he finally let go and just left the Sierra Madre... And I... I stayed. "
+"I need to protect the outer world from the horrors of this doomed place... "
+"And Father Elijah..."
+msgstr ""
+"信使設法進入了金庫……並學會了放手。(狗/神)是一個患有雙重人格障礙的野蠻變種人……一個是永遠飢餓的怪物，另一個是渴求權力的自戀狂……但信使……信使對狗和神都有耐心，將兩個人格融合成一個，溫和而平靜……迪恩·多米諾，那個混蛋……就連他最終也放手了，只是離開了錫耶拉馬德雷……而我……我留了下來。我需要保護外面的世界，免受這個註定毀滅之地的恐怖……還有以利亞神父……"
+
+#: .\npcs\dialogue_christine.json
+msgid "So, what happened to the Father Elijah?"
+msgstr "那麼，以利亞神父後來怎麼樣了？"
+
+#: .\npcs\dialogue_christine.json
+msgid "Alright, I have some more questions."
+msgstr "好吧，我還有一些問題。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"He forced the Courier to unlock the vault and disengage its security "
+"protocols for him... Then confronted him down there... Wanted to kill the "
+"Courier like throwing away a disposable tool once the job is done and claim "
+"Madre for himself alone... But the Courier was smart and outmaneouvered "
+"Elijah, reached the exit and locked him in the vault from the inside... He "
+"must have survived down there till this very moment we're talking right now."
+" That's the main reason why I'm here. And I'm going to stay, whether he's "
+"already dead or still alive down there, I'll be guarding the Sierra Madre "
+"and the vault entrance."
+msgstr ""
+"他強迫信使打開金庫，併為他解除安全協議……然後在那裡與他對峙……想在工作完成後像扔掉一次性工具一樣殺掉信使，獨自佔有馬德雷……但信使很聰明，智勝了以利亞，到達出口並從內部將他鎖在金庫裡……他一定活到了現在，就在我們說話的這一刻。這就是我在這裡的主要原因。而且我會留下來，不管他是已經死了還是仍然活著，我都會守衛錫耶拉馬德雷和金庫入口。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"I'm afraid he's still alive. And on top of that able to communicate with me."
+" And force me to do his dirty job..."
+msgstr "恐怕他還活著。而且除此之外，還能與我溝通。並強迫我做他的骯髒勾當……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Holy shit, how could I not notice this earlier? That collar on your neck... "
+"He... He's alive... And he's doing it again... Doing what he did to me, "
+"(Dog/God), the Courier and Dean Domino... History repeats itself... He's "
+"never let go... Alright, if so, you need to finish it once and for all, "
+"walking the Courier's Mile down there and once again confront him..."
+msgstr ""
+"天哪，我怎麼早沒注意到？你脖子上的項圈……他……他還活著……而且他又在這麼做了……對我、(狗/神)、信使和迪恩·多米諾做過的事……歷史重演了……他從未放手……好吧，如果是這樣，你需要一勞永逸地解決它，沿著信使之路走下去，再次面對他……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Yeah... Unfortunately... The collars... The voice at the fountain... I "
+"remember it all... And now you're here, standing in the Vera's apartment, "
+"where the vault door has been placed... Alright... There's no choice... You "
+"need to get down there... Finish the job... Stop this madman from freeing "
+"himself using you in the process and then unleashing yet another apocalypse "
+"upon this world... The Cloud, the security holograms, the vending machines, "
+"the collars... It's all part of a bigger plan, and that plan ain't nothing "
+"good for everything that lives... You need to continue your heist and stop "
+"him... But please... Remember... Getting there won't be the hardest part. "
+"It's letting go..."
+msgstr ""
+"是啊……不幸的是……項圈……噴泉旁的聲音……我都記得……現在你在這裡，站在薇拉的公寓裡，金庫門就安置於此……好吧……別無選擇……你需要下去……完成這個任務……阻止這個瘋子利用你釋放自己，然後給這個世界帶來另一場浩劫……毒雲、安全全息影像、自動售貨機、項圈……這都是一個更大計劃的一部分，而這個計劃對一切生命都絕非好事……你需要繼續你的搶劫並阻止他……但是拜託……記住……到達那裡不會是最難的部分。難的是放手……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"O... Okay... I'll go... Enter the vault... Find him... I'll do it... I'll "
+"try to... No, I WILL stop him..."
+msgstr "好……好吧……我去……進入金庫……找到他……我會做到的……我會盡力……不，我‘一定’會阻止他……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Take care... Good luck down there... And one more thing! Don't mention my "
+"presence here if you happen to speak with Father Elijah through the intercom"
+" or fountain hologram before you unlock the vault. Otherwise he'll be "
+"prepared. Sure, he'll attempt to kill you, but if he learns that you met me,"
+" he'll want to do so as soon as you peek inside, leaving you with no way to "
+"prepare yourself."
+msgstr ""
+"保重……祝你好運……還有一件事！如果你在打開金庫前，碰巧通過對講機或噴泉全息影像與以利亞神父交談，不要提及我在這裡。否則他會有所準備。當然，他會試圖殺你，但如果他知道你見過我，他會想在你一探頭就動手，讓你沒有時間準備。"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Okay, I will... And I won't. Wish me luck. The vault of the Sierra Madre "
+"Casino, here I come..."
+msgstr "好的，我會的……而且我不會。祝我好運吧。錫耶拉馬德雷賭場的金庫，我來了……"
+
+#: .\npcs\dialogue_christine.json
+msgid "Have you dealt with Father Elijah? Please, hurry!"
+msgstr "你處理掉以利亞神父了嗎？請快點！"
+
+#: .\npcs\dialogue_christine.json
+msgid "Still working to get inside..."
+msgstr "還在努力進去……"
+
+#: .\npcs\dialogue_christine.json
+msgid "Yeah... I went down there, he gave me no choice..."
+msgstr "是的……我下去了，他給了我別無選擇……"
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"So that means that it's truly over now... But I'll continue my watch "
+"regardless. To warn those who'll come after you, to protect them from their "
+"own greed... Now the best thing you can do is to simply leave. Let go and "
+"begin again, beyond those walls..."
+msgstr ""
+"所以這意味著現在真的結束了……但無論如何，我會繼續守望。為了警告那些繼你之後而來的人，保護他們免受自身貪婪的傷害……現在你能做的最好的事就是離開。放手，重新開始，在那堵牆之外……"
+
+#: .\npcs\dialogue_christine.json .\npcs\dialogue_console.json
+#: .\npcs\dialogue_fountain.json .\npcs\dialogue_intercom.json
+msgid "..."
+msgstr "..."
+
+#: .\npcs\dialogue_christine.json
+msgid ""
+"Why are you still here? There's nothing for you in the Sierra Madre. Let go "
+"and begin again..."
+msgstr "你為什麼還在這裡？錫耶拉馬德雷沒有你要的東西。放手，重新開始……"
+
+#: .\npcs\dialogue_console.json
+msgid "Sierra Madre control network"
+msgstr "錫耶拉馬德雷控制網絡"
+
+#: .\npcs\dialogue_console.json
+msgid "Vera Keyes"
+msgstr "薇拉·凱斯"
+
+#: .\npcs\dialogue_console.json
+msgid "Vera"
+msgstr "薇拉"
+
+#: .\npcs\dialogue_console.json
+msgid "Holodisk extracted. File not found..."
+msgstr "全息磁盤已提取。文件未找到……"
+
+#: .\npcs\dialogue_console.json
+msgid "Back"
+msgstr "返回"
+
+#: .\npcs\dialogue_console.json
+msgid "Important! Vera, read..."
+msgstr "重要！薇拉，請讀……"
+
+#: .\npcs\dialogue_console.json
+msgid "To Vera"
+msgstr "致薇拉"
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"Vera, if you're reading this, my fears have come to pass, and this is an "
+"apology. I hope you realized what my last words meant to you. If so, they "
+"have led you here, and this place will keep you safe. I know what they meant"
+" for me, and I fear they have trapped me here. I have extracted the previous"
+" entry after our conversation tonight. It can't have been easy for you, and "
+"I am sorry for all I've put you through in silence. I know while you do not "
+"love me, you did not mean any malice in what you did. I knew about your "
+"plans to rob the casino with Dean before you told me. Hearing it from you "
+"didn't make it any easier. For what it's worth, I am glad you told me "
+"yourself, and I understood the tapes he had in his possession. I do not "
+"think either one of you realized what your addiction stemmed from, however, "
+"and that is the tragedy in this. I suspect the world would not have believed"
+" you, regardless, so I respect your desire to keep it from others."
+msgstr ""
+"薇拉，如果你讀到這些，我的恐懼已成真，這是一封致歉信。我希望你明白我最後的話語對你意味著什麼。若果真如此，它們將你引至此地，而這裡會保你安全。我知道它們對我意味著什麼，而我擔心它們已將我困於此。在今晚我們交談後，我取出了之前的記錄。這對你來說一定不易，我為我在沉默中讓你承受的一切感到抱歉。我知道你雖不愛我，但你所作所為並無惡意。在你告訴我之前，我就已得知你與迪恩計劃搶劫賭場。親耳聽你說出並未讓事情變得輕鬆。無論如何，我很高興你親口告訴我，我也理解他手中持有的那些錄音帶。然而，我認為你們倆都未意識到你們的成癮源於何處，而這正是悲劇所在。我懷疑世人無論如何都不會相信你，所以我尊重你向他人隱瞞此事的意願。"
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"When first building this Villa, this Casino, I meant it for you. As the "
+"world seemed to race headlong towards war, it became part of my desire to "
+"protect you. The loans, the funding I poured into the casino's "
+"construction... I knew it would not matter when war came for us. It was my "
+"means of creating a shelter, a defense if the world was bombarded in "
+"radiation and bombs. When Dean revealed his plans inadvertently through our "
+"introduction, I realized what had happened, and how I had been tricked. For "
+"a time, my thoughts were dark. I changed the casino vault from a shelter to "
+"a trap, as I knew the first one to enter would be Dean. He would die down "
+"here, and it would have been by his own hand. I fear, however, that I "
+"overstepped myself, and the only safe place in the casino is the Vault. I "
+"have tried to rewire the systems, change the protocols, and I cannot. I will"
+" do one last check on the pipes by the edge of the outside platform and see "
+"if anything can be done. I fear it is useless. If you come down here, do not"
+" access my personal accounts entry. It contains only a message for Dean, and"
+" it will seal the door and you will have no way out - even the elevator is "
+"designed to automatically return when the door is closed, and it will lock "
+"in place. There should be enough in the Vault to sustain you until help "
+"arrives. I have ensured that there is enough medical supplies down here to "
+"keep you comfortable. The holograms should defend the casino from any "
+"attackers, and the hologram beacon in the Villa will broadcast an emergency "
+"signal so that others know you are here. When danger has passed, rescue will"
+" come. I hope you were able to read this, and know that I loved you, "
+"Frederick Sinclair."
+msgstr ""
+"最初建造這座別墅、這座賭場時，我是為你而建。當世界似乎疾速衝向戰爭時，保護你成了我願望的一部分。那些貸款、我投入賭場建設的資金……我知道戰爭來臨時這些都無關緊要。這是我創造庇護所、防禦工事的手段，以防世界遭受輻射與炸彈的轟擊。當迪恩通過我們的介紹無意中透露他的計劃時，我意識到發生了什麼，以及我是如何被欺騙的。有一段時間，我的思緒陰暗。我將賭場金庫從庇護所改為陷阱，因為我知道第一個進入的會是迪恩。他會死在這裡，而這將是咎由自取。然而，我擔心我做得過火了，賭場中唯一安全的地方就是金庫。我試圖重新佈線系統、更改協議，但無法做到。我將在外部平臺邊緣的管道上進行最後一次檢查，看看是否還有辦法。恐怕這是徒勞的。如果你來到這裡，不要訪問我的個人賬戶條目。它只包含給迪恩的信息，並且會密封大門，你將無路可逃——甚至電梯設計為在門關閉時自動返回並鎖定。金庫中應有足夠的物資維持你直到救援到來。我已確保這裡有足夠的醫療用品讓你舒適。全息影像將保衛賭場免受任何攻擊者侵擾，別墅中的全息信標將廣播緊急信號，以便他人知道你在此處。危險過去後，救援就會到來。我希望你能讀到這些，並知道我曾愛過你，弗雷德裡克·辛克萊。"
+
+#: .\npcs\dialogue_console.json
+msgid "Sinclair's personal accounts"
+msgstr "辛克萊的個人賬戶"
+
+#: .\npcs\dialogue_console.json
+msgid "Warning : private access only. Open personal logs?"
+msgstr "警告：僅限私人訪問。打開個人日誌？"
+
+#: .\npcs\dialogue_console.json
+msgid "Yes"
+msgstr "是"
+
+#: .\npcs\dialogue_console.json
+msgid "No"
+msgstr "否"
+
+#: .\npcs\dialogue_console.json
+msgid ""
+"Dean, if you're reading this, this is goodbye. You will have many years to "
+"read this message. Why you have smiled in my face and held a dagger to me, I"
+" do not know. You were rich, respected... even admired, loved by many. When "
+"you finally pass away down here, either by your own hand or starvation, know"
+" that your greed has led you here, for no reason I can understand. You have "
+"made a habit in using others for your own ends. Now, the Sierra Madre is "
+"your reward. Whether you used blackmail or force - or even played to Vera's "
+"greed, it will not help down here in the Vault. Greed has led you here. I "
+"hope it leaves you as empty as you left me. The door has sealed, the "
+"elevator has left. Even Vera's voice will not unlock it. Know that on the "
+"night of the Gala Event I shall raise my glass and whisper, \"Fortunato\". "
+"In pace requiescat, Frederick Sinclair."
+msgstr ""
+"迪恩，如果你讀到這些，這就是告別了。你將有許多年時間來閱讀這條信息。為何你在我面前微笑卻暗藏匕首，我不得而知。你富有、受人尊敬……甚至被許多人欽佩、愛戴。當你最終在這裡逝去，無論是自盡還是飢餓，要知道是你的貪婪將你引至此地，原因我無法理解。你已習慣為達目的利用他人。現在，錫耶納馬德雷就是你的獎賞。無論你使用勒索還是暴力——甚至利用了薇拉的貪婪，在這金庫中都無濟於事。貪婪將你帶到這裡。我希望它讓你空虛，正如你讓我空虛一樣。門已密封，電梯已離開。即使是薇拉的聲音也無法解鎖。要知道，在慶典之夜，我將舉杯低語：“福爾圖納託”。願安息，弗雷德裡克·辛克萊。"
+
+#: .\npcs\dialogue_console.json
+msgid "ERROR: terminal locked"
+msgstr "錯誤：終端已鎖定"
+
+#: .\npcs\dialogue_elijah.json
+msgid "And so here you are, down there in the Sierra Madre Vault..."
+msgstr "所以，你就在這裡，在錫耶納馬德雷金庫下面……"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You've been here the entire time? It wasn't possible for you to enter this "
+"vault before me!"
+msgstr "你一直在這裡？你不可能在我之前進入這個金庫！"
+
+#: .\npcs\dialogue_elijah.json
+msgid "Sierra Madre is mine, and mine alone!!!"
+msgstr "錫耶納馬德雷是我的，只屬於我！！！"
+
+#: .\npcs\dialogue_elijah.json
+msgid "So what happens next?..."
+msgstr "那麼接下來會發生什麼？……"
+
+#: .\npcs\dialogue_elijah.json
+msgid "So, can I finally get an explanation of what's going on here?"
+msgstr "那麼，我終於能知道這裡到底發生了什麼嗎？"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"If you say so... You think you can snatch victory from me like that? You "
+"think you're smarter, better?! This ends here, you piece of shit. You were "
+"going to get evaporated anyways, just like the rest of the wasteland!"
+msgstr ""
+"如果你這麼說……你以為你能這樣從我手中奪走勝利？你以為你更聰明、更厲害？！就在這裡結束吧，你這混蛋。反正你也會被蒸發掉，就像廢土上的其他人一樣！"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"[As you prepare for the final battle, you notice that Father Elijah starts "
+"powering up laser turrets positioned around the vault room that you "
+"previously missed in the dark. Their charging will take a while, but it's "
+"going to be a rather quick one.]"
+msgstr "[當你準備最終決戰時，你注意到以利亞神父開始啟動金庫房間周圍你之前在黑暗中忽略的激光炮塔。它們的充能需要一段時間，但過程會相當快。]"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You think you're the first one that cracked the Sierra Madre open? Oh no, "
+"the Courier did it before you, but then I got betrayed and the Courier "
+"trapped me here, leaving the vault, making it lock from the outside... I "
+"suspect it's because of the other companions that formed that crew... They "
+"had... Bad influence for the Courier, convincing him somehow that I had... "
+"Evil plans for them... Though I meant no harm, I planned to release and "
+"reward them upon completing the heist."
+msgstr ""
+"你以為你是第一個打開錫耶納馬德雷的人？哦不，信使在你之前做到了，但我被背叛了，信使把我困在這裡，離開金庫，讓它從外面鎖上……我懷疑是因為組成那支隊伍的其他同伴……他們對信使產生了……不良影響，不知怎的說服他相信我對他們……有邪惡計劃……儘管我並無惡意，我計劃在搶劫完成後釋放並獎勵他們。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"And that's why you put collars on them, right, and then sent them on a life-"
+"threatening mission? That's what \"no harm and reward at the end\" stands "
+"for, right?"
+msgstr "所以這就是你給他們戴上項圈的原因，對吧，然後派他們去執行危及生命的任務？這就是“無惡意並在最後獎勵”的含義，對嗎？"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"I met one of those \"crew members\" just outside the vault. She's guarding "
+"it. She's guarding it so that the outside world won't learn your cruelty. "
+"According to her, you can't get Sierra Madre. You should just let go."
+msgstr "我在金庫外遇到了其中一個“隊員”。她在守衛它。她守衛它是為了防止外界得知你的殘忍。據她說，你得不到錫耶納馬德雷。你應該放手。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So how about rewarding me now? I did my job of unlocking the vault, bot so I"
+" could get in and apparently so that you can now get out. I expect a fair "
+"share."
+msgstr "那麼現在獎勵我如何？我完成了打開金庫的工作，不僅是為了我能進去，顯然也為了你現在能出來。我期待公平的份額。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"Hold on, not so fast... You think you came here for the legendary Old World "
+"treasure, right? The truth is, the real treasure of the Sierra Madre is its "
+"technology... Just think of it... Those matter replicators serving as "
+"vending machines, capable of providing resources, the holograms for security"
+" and winning every battle, the Cloud of toxic gas for wiping up everyone "
+"that opposes me, and I can use the collars for the obedience as well... The "
+"Sierra Madre can help build or destroy the entire nations... And on top of "
+"that is quiet, quiet just like the wasteland should be."
+msgstr ""
+"等等，別這麼快……你以為你來這裡是為了傳說中的舊世界寶藏，對吧？事實上，錫耶納馬德雷真正的寶藏是它的科技……想想看……那些作為自動售貨機的物質複製器，能夠提供資源；用於安保和贏得每場戰鬥的全息影像；用於消滅所有反對者的毒氣雲；我還可以用項圈來確保服從……錫耶納馬德雷可以幫助建立或摧毀整個國家……而且最重要的是安靜，安靜得就像廢土應有的樣子。"
+
+#: .\npcs\dialogue_elijah.json
+msgid "You're... insane, completely insane..."
+msgstr "你……瘋了，完全瘋了……"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So... What's next? Is there really no richies inside this vault? Can I... "
+"Just walk away then?"
+msgstr "那麼……接下來呢？這個金庫裡真的沒有財寶嗎？我……可以直接離開嗎？"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"You've heard the legends of the Sierra Madre... We all have... And so you "
+"went to seek its richies... truth is, there's nothing specific awaiting you "
+"at the vault. Though it doesn't change the fact that the entire Sierra Madre"
+" is a treasure in itself and I plan on utilizing it."
+msgstr ""
+"你聽說過錫耶納馬德雷的傳說……我們都聽過……於是你去尋找它的財寶……事實上，金庫裡並沒有特定的東西在等你。儘管這並不改變整個錫耶納馬德雷本身就是一個寶藏的事實，而我計劃利用它。"
+
+#: .\npcs\dialogue_elijah.json
+msgid "What are you going to do?"
+msgstr "你打算做什麼？"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"The Sierra Madre technology... Just think of it... Those matter replicators "
+"serving as vending machines, capable of providing resources, the holograms "
+"for security and winning every battle, the Cloud of toxic gas for wiping up "
+"everyone that opposes me, and I can use the collars for the obedience as "
+"well... The Sierra Madre can help build or destroy the entire nations... And"
+" on top of that is quiet, quiet just like the wasteland should be."
+msgstr ""
+"錫耶納馬德雷的科技……想想看……那些作為自動售貨機的物質複製器，能夠提供資源；用於安保和贏得每場戰鬥的全息影像；用於消滅所有反對者的毒氣雲；我還可以用項圈來確保服從……錫耶納馬德雷可以幫助建立或摧毀整個國家……而且最重要的是安靜，安靜得就像廢土應有的樣子。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"The collars, you say? Oh, it was nothing personal... I wish I could just "
+"make them cooperate without them, but human nature is what it is, collars "
+"were sadly a must-have. Even if they were willing to cooperate, without "
+"linked collars they'd end up killing themselves as their greed and the "
+"darkest side of human nature were taking over. Yeah, the collars were harsh "
+"but a neccessity."
+msgstr ""
+"項圈，你說？哦，這不是針對個人……我希望我能不用它們就讓他們合作，但人性如此，項圈可悲地成了必需品。即使他們願意合作，沒有連接的項圈，他們也會因貪婪和人性最黑暗的一面而自取滅亡。是的，項圈很殘酷，但卻是必要的。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"How ironic that some madman like you now starts talking about \"the darkest "
+"side of human nature\"."
+msgstr "多麼諷刺，像你這樣的瘋子現在開始談論“人性最黑暗的一面”。"
+
+#: .\npcs\dialogue_elijah.json
+msgid "So, will you tell me at last what's going to happen?"
+msgstr "那麼，你終於肯告訴我接下來會發生什麼了嗎？"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"Isn't this entire planet insane since the day the bombs dropped, the dead "
+"rose and the aliens invaded? Or maybe it was like that long before the "
+"apocalypse, only did we not notice because we were too busy with our "
+"comfortable lives? Anyways, I'll use the Sierra Madre to wipe the wasteland "
+"clean, to let go of the Old World and then begin again, build a new nation "
+"on its aches, a nation free from the burden of the past."
+msgstr ""
+"自從炸彈落下、死者復生、外星人入侵那天起，這整個星球不就瘋了嗎？或者也許早在末日之前就已如此，只是我們忙於安逸生活未曾察覺？無論如何，我將用錫耶拉馬德雷來淨化廢土，放下舊世界，然後重新開始，在其傷痛之上建立一個新國度，一個擺脫過去重負的國度。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"So you want to commit a genocide, kill off the remaining survivors, that's "
+"what you wanna do? No way this is happening."
+msgstr "所以你想搞種族滅絕，殺光剩下的倖存者，這就是你的打算？這絕不可能發生。"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"I've explained everything to you already, and now it's time for you to bow "
+"down in front of my superiority... You're of no use for me anymore, you "
+"fool!"
+msgstr "我已經向你解釋了一切，現在是你在我優越性面前低頭的時候了……你對我沒用了，你這蠢貨！"
+
+#: .\npcs\dialogue_elijah.json
+msgid ""
+"This world is already in a condition shitty enough to on top of that worry "
+"about some maniacs wanting to finish it off. I'll not let you harm any of "
+"the remaining surviviors."
+msgstr "這世界已經夠糟了，沒空再擔心某些瘋子想把它徹底終結。我不會讓你傷害任何剩下的倖存者。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Has your life taken a turn? Do troubles beset you? Has fortune left you "
+"behind? If so, the Sierra Madre Casino, in all its glory, is inviting you to"
+" Begin Again. Come to a place where wealth, excitement, and intrigue await "
+"around every corner. Stroll along the winding streets of our beautiful "
+"resort, make new friends... or rekindle old flames. Let your eyes take in "
+"the luxurious expanse of the open desert, under clear starlit skies. Gaze "
+"straight on into the sunset from our Villa rooftops. Countless diversions "
+"await. Gamble in our casino, take in the theater, or stay in one of our "
+"exclusive executive suites that will shelter you - and cater to your every "
+"whim. So if life's worries have weighed you down... if you need an escape "
+"from your troubles... or if you just need an opportunity to begin again, "
+"join us. Let go and leave the world behind at the Sierra Madre grand "
+"opening, this October. We'll be waiting."
+msgstr ""
+"生活是否陷入困境？煩惱是否纏身？好運是否離你而去？若是如此，輝煌璀璨的錫耶拉馬德雷賭場誠邀您“重新開始”。來到這個財富、刺激與陰謀在每個角落等待您的地方。漫步於我們美麗度假村蜿蜒的街道，結交新友……或重燃舊情。讓您的雙眼飽覽開闊沙漠的奢華景緻，在清澈的星空下。從我們別墅屋頂直視日落。無數消遣等您體驗。在我們的賭場博弈，欣賞劇院演出，或入住我們專屬的行政套房，它將庇護您——並滿足您的每個奇想。所以，如果生活的憂慮讓您不堪重負……如果您需要逃離煩惱……或者如果您只是需要一個重新開始的機會，請加入我們。放手吧，將世界拋在腦後，就在今年十月錫耶拉馬德雷盛大開張之時。我們恭候您的光臨。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Hey, you! Over there! Can you hear me? Good, I KNOW you can hear me... Now "
+"listen closely, listen well... The Sierra Madre, this place... I know why "
+"you're here. Your own greed led you here. And now you're going to help me."
+msgstr ""
+"嘿，你！那邊那位！能聽到我說話嗎？很好，我知道你能聽到……現在仔細聽，好好聽……錫耶拉馬德雷，這個地方……我知道你為什麼來這裡。是你自己的貪婪把你引到了這裡。現在你要幫我了。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Who's this?"
+msgstr "這是誰？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "What was that female voice and that speech?"
+msgstr "剛才那個女聲和那段演講是怎麼回事？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Why should I help you?"
+msgstr "我為什麼要幫你？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, I'll help."
+msgstr "好吧，我幫你。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "So, shall we finally discuss more important matter?"
+msgstr "那麼，我們終於可以討論更重要的事了吧？"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"That was the Sierra Madre broadcasting system... The apocalypse came the "
+"same night the Grand Opening should've taken place, so no one turned the ad "
+"broadcast off... Since then, it broadcasts the ad across the wasteland over "
+"and over, running on backup power... It is what lured you here, am I right? "
+"Now, let's discuss more pending topics, shall we?"
+msgstr ""
+"那是錫耶拉馬德雷的廣播系統……本該舉行盛大開幕式的同一天晚上，末日降臨了，所以沒人關掉廣告廣播……從那以後，它就靠備用電源一遍又一遍地向廢土播放廣告……就是它把你引到這裡來的，對吧？現在，我們來討論更緊迫的話題，好嗎？"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"I see you're wearning that metal collar stuffed with explosive charge on "
+"your neck... Good. That means obedience. Make the mistake of saying \"no\" "
+"and I'll set it off."
+msgstr "我看到你脖子上戴著那個塞滿炸藥的金屬項圈……很好。這意味著服從。要是敢說“不”，我就引爆它。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"I mean, of course you don't have to, but if you do, you'll also help "
+"yourself cracking the Sierra Madre open. And that's what you came here for, "
+"right? So, what do you say?"
+msgstr "我的意思是，你當然不必幫，但如果你幫了，也是在幫你自己打開錫耶拉馬德雷。這不就是你來的目的嗎？那麼，你怎麼說？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "I'm not buying into your bullshit."
+msgstr "我才不信你的鬼話。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'll help."
+msgstr "好吧，好吧，我幫你。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Alright, it's your choice - but good luck surviving the dangers lurking "
+"around every corner here and getting to the Sierra Madre without my help!"
+msgstr "好吧，這是你的選擇——但祝你好運，在沒有我幫助的情況下，能活著躲過這裡每個角落潛伏的危險併到達錫耶拉馬德雷！"
+
+#: .\npcs\dialogue_fountain.json
+msgid "I don't need anyone telling me what to do."
+msgstr "我不需要別人告訴我該做什麼。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Well... Fine, you win, I'll help."
+msgstr "嗯……好吧，你贏了，我幫你。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Have you changed your mind? Did attmepting to get into the Sierra Madre "
+"prove to be too difficult for you?"
+msgstr "你改變主意了嗎？是不是發現進入錫耶拉馬德雷對你來說太難了？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "I'm telling you again, I ain't helping you."
+msgstr "我再告訴你一遍，我不會幫你的。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"It is in your best interest to get down to helping me instead of asking "
+"pointless questions. Who am I? I'm just a man who hacked the broadcast "
+"system to be able to talk to you. Maybe I'll tell you more, if you prove "
+"yourself to be worthy, that is."
+msgstr "你最好趕緊來幫我，而不是問些沒意義的問題。我是誰？我只是個黑進廣播系統以便能和你說話的人。也許我會告訴你更多，前提是你證明自己值得。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, so you can make smart decisions? Good, very good... Now listen: the only"
+" way to open the Sierra Madre Casino is to trigger the Gala Event... "
+"However, some critical electronics and power distribution systems eventually"
+" broke down from lack of maintenance. Fortunately for us, I've learned a lot"
+" about those systems and have a general understanding of how they work. I'm "
+"aware of three locations around the Villa that should have spare electronic "
+"boards and processing units we can use to work around the issues of the "
+"failing systems."
+msgstr ""
+"哦，這麼說你能做出明智的決定？很好，非常好……現在聽好：打開錫耶拉馬德雷賭場的唯一方法是觸發慶典活動……然而，一些關鍵的電子設備和配電系統最終因缺乏維護而損壞。幸運的是，我對這些系統瞭解很多，對它們的工作原理有大致瞭解。我知道別墅周圍有三個地點應該有備用的電子板和處理器單元，我們可以用來解決故障系統的問題。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"The placements of those electronic components were directly linked with key "
+"locations for starting the Gala Event and since I know how to start Gala, "
+"that means I also know where to find them. I request you to retrieve them. "
+"The first Sierra Madre electronic board is located in the power switching "
+"station in the Salida del Sol. Remaining two are in the Puesta del Sol, one "
+"in the switching station on the corner of the district and the second one on"
+" the balcony of one of the buildings next to a wall between Puesta del Sol "
+"and medical district. Look at your tracking device, I've marked all three "
+"locations for you with green \"S\". Once you get them, go back to the "
+"fountain and I'll tell you what's next."
+msgstr ""
+"這些電子元件的位置與啟動慶典活動的關鍵地點直接相關，既然我知道如何啟動慶典，那意味著我也知道在哪裡能找到它們。我要求你去取回它們。第一塊錫耶拉馬德雷電子板位於薩利達德爾索爾的電力切換站。剩下的兩塊在普埃斯塔德爾索爾，一塊在該區域角落的切換站，第二塊在普埃斯塔德爾索爾和醫療區之間一棟建築的陽臺上，緊挨著牆。看看你的追蹤設備，我已經用綠色的“S”標記了所有三個位置。一旦拿到它們，回到噴泉處，我會告訴你下一步。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Fine, I'm going..."
+msgstr "好吧，我這就去……"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Anything specific I should watch out for?"
+msgstr "有什麼特別需要注意的嗎？"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Beware of Ghost People, the mutated former humans that lurk and hunt around "
+"the villa. They're dangeorus and even if you \"kill\" them, they'll rise "
+"back up after some time. The only way to make them stay dead is to dismember"
+" their limbs. Watch out for their traps, too. Also, the entire Sierra Madre "
+"is contaminated with toxic gas. There are more concentrated pockets that you"
+" should avoid at all costs, but even if you steer clear from them, the gas "
+"is still everywhere and will slowly poison your body, so you'd better be "
+"quick. Waste too much time, hesitate with your job and it'll kill you."
+msgstr ""
+"小心鬼人，那些潛伏在別墅周圍狩獵的變異前人類。他們很危險，即使你“殺死”他們，過一段時間他們也會重新站起來。讓他們永久死亡的唯一方法是肢解他們的四肢。也要小心他們的陷阱。另外，整個錫耶拉馬德雷都瀰漫著有毒氣體。有些濃度更高的氣團你必須不惜一切代價避開，但即使你遠離它們，氣體仍然無處不在，會慢慢毒害你的身體，所以你最好動作快點。浪費太多時間，工作猶豫不決，它會要了你的命。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Also beware of the Sierra Madre holograms. They're a pinnacle of pre-"
+"apocalypse technology... Fully autonomous workers... The security holograms "
+"will shoot laser beams on sight, however if you'll be lucky to get your "
+"hands on the unused emitter and spawn one of your own, it'll serve by your "
+"side, protecting you from Ghost People. Also don't waste your bullets - they"
+" are simply invincible and the only way to destroy them is to find their "
+"corresponding emitters and switch them off. There are also hologram vendors "
+"you can trade with, but they're based on pre-war currency, so I wouldn't "
+"count much on resupplying this way. However, the entire villa is filled with"
+" loot from previous survivors. Also the local vending machines still seem to"
+" be working. Using Sierra Madre Casino chips you can easily find in most "
+"streets and buildings of the villa you can purchase food from them, and if "
+"you find the correct code cards, they'll also unlock military and medical "
+"supplies for sale. And one last thing: see that rifle laying right under the"
+" fountain? Take it. It'll help you survive."
+msgstr ""
+"還要小心錫耶拉馬德雷的全息影像。它們是末日前的技術巔峰……完全自主的工人……安保全息影像一見到你就會發射激光束，不過如果你有幸拿到未使用的發射器並生成一個你自己的，它會為你服務，保護你免受鬼人傷害。另外別浪費子彈——它們完全無敵，摧毀它們的唯一方法是找到對應的發射器並關閉它們。還有你可以交易的全息影像商販，但他們基於戰前貨幣運作，所以我不太指望通過這種方式補充物資。不過，整個別墅都散落著先前倖存者的戰利品。另外本地的自動售貨機似乎仍在運作。使用你在別墅大多數街道和建築中很容易找到的錫耶拉馬德雷賭場籌碼，你可以從它們那裡購買食物，如果你找到正確的密碼卡，它們還會解鎖軍用和醫療物資出售。最後一件事：看到噴泉正下方那把步槍了嗎？拿上它。它會幫你活下來。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "That collar on my neck really concerns me..."
+msgstr "我脖子上的這個項圈真讓我擔心……"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Alright, I'll pay attention to what you've said... I'm on my way."
+msgstr "好吧，我會注意你說的話……我這就出發。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, no need to worry about it, as long as you obey my orders, that is. The "
+"Sierra Madre speakers and radios broadcasted on frequencies that'd set it "
+"off by an accident, but the Courier blasted all of them away, so no need to "
+"worry about it. Again, as long as you don't tinker with it on your own and "
+"obey my orders, this thing ain't gonna blow up. The choice is yours..."
+msgstr ""
+"哦，不必擔心，只要你聽從我的命令就行。馬德雷山脈的揚聲器和收音機曾以會意外觸發它的頻率廣播，但信使把它們全炸掉了，所以不用擔心。再說一遍，只要你不自己亂動並服從我的命令，這東西就不會爆炸。選擇權在你……"
+
+#: .\npcs\dialogue_fountain.json
+msgid "The Courier?"
+msgstr "信使？"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Well, it's not like I feel any better about it, but seems like I DON'T have "
+"a choice... I'll be on my way."
+msgstr "唉，我也沒覺得好受多少，但看來我別無選擇……我這就出發。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Oh, nevermind, the Courier was a survivor and a Sierra Madre Treasure Hunter"
+" just like you, don't even remind me of this piece of shit... After all I've"
+" offered to the Courier I got stabbed in the back in return... But there's "
+"no Courier in the Sierra Madre anymore, so fear not."
+msgstr ""
+"哦，算了，信使和你一樣是個倖存者，也是馬德雷山脈的尋寶獵人，別再跟我提這個混蛋了……我為他付出了那麼多，結果卻被背後捅刀……但馬德雷山脈已經沒有信使了，所以別怕。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Have you done what I've asked for?"
+msgstr "我交代的事你辦好了嗎？"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Yeah, found all three of them, got all three of them."
+msgstr "嗯，三個都找到了，全到手了。"
+
+#: .\npcs\dialogue_fountain.json .\npcs\dialogue_intercom.json
+msgid "No, still struggling with it."
+msgstr "還沒，還在努力。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"The Gala event has started, the doors to the casino are opened! What the "
+"hell are you doing here! Waiting for the Ghost People to catch up to you! "
+"Hurry inside!"
+msgstr "慶典活動開始了，賭場大門打開了！你還在這兒磨蹭什麼！等著幽靈人追上你嗎！快進去！"
+
+#: .\npcs\dialogue_fountain.json
+msgid "I don't see the Gala Event has been started yet, hurry up!"
+msgstr "我看慶典活動還沒開始，快點！"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm trying my best..."
+msgstr "好好好，我盡力……"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm running..."
+msgstr "好好好，我這就跑……"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Then don't waste my time, move and do as I said!"
+msgstr "那就別浪費我的時間，按我說的去做！"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Okay, okay, I'm going..."
+msgstr "好好好，我這就去……"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Good, very good... At least now I'm sure you are capable of staying alive in"
+" the Sierra Madre... Now the time has come for you to start the Gala Event. "
+"Place the electronic boards you've acquired under the fountain hologram so I"
+" can scan them. This will allow me to generate a special access code that "
+"can be used to trigger the Gala Event using the backup power systems since "
+"the main ones have failed a long time ago. The backup should be more "
+"resilient than the main one, so it should work just fine. The terminal for "
+"controlling the Gala Event is located on top of the Campanas del Sol bell "
+"tower. I marked the spot for you with a yellow \"S\". Once you start the "
+"Gala, make a run for the casino. The music and the fireworks will attract a "
+"lot of unwanted attention... Good luck out there."
+msgstr ""
+"很好，非常好……至少現在我能確定你有能力在馬德雷山脈活下來……現在是你啟動慶典活動的時候了。把你找到的電子板放在噴泉全息影像下方，讓我掃描它們。這樣我就能生成一個特殊訪問碼，用來通過備用電源系統觸發慶典活動，因為主電源系統早就失效了。備用系統應該比主系統更可靠，所以應該沒問題。控制慶典活動的終端位於坎帕納斯德爾索爾鐘樓頂部。我用黃色的“S”標記了位置。一旦你啟動慶典，就衝向賭場。音樂和煙花會引來很多不必要的關注……祝你好運。"
+
+#: .\npcs\dialogue_fountain.json
+msgid "Alright, I'm on my way..."
+msgstr "好的，我這就去……"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"What are you doing here? Waiting till the Cloud kills you? Or you don't want"
+" the Sierra Madre anymore? Whatever the case, now it's too late - I order "
+"you to immediately get back to work!"
+msgstr "你在這兒幹什麼？等著毒雲殺了你嗎？還是你不想要馬德雷山脈了？不管怎樣，現在都太晚了——我命令你立刻回去工作！"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Wait a moment, before you go. I... we... hope you've enjoyed your stay. "
+"Farewells can be a time of sadness. Letting go... difficult. As a guest of "
+"the Sierra Madre, you know that truth more than anyone. Frederick Sinclair "
+"believed one's life could be made anew every day, that fortunes were more "
+"than the wealth in your hands. Love. Life... family, those to care for, and "
+"those who will care for you. To those who know these joys, the Sierra Madre "
+"holds little they don't already have. Out in the world, beyond these walls, "
+"that is your chance to begin again. I hope you'll return, in happier times. "
+"Until then, the Sierra Madre... and I... will hold you in our hearts."
+msgstr ""
+"稍等一下，在你走之前。我……我們……希望你在這裡過得愉快。告別總是令人悲傷的時刻。放手……很難。作為馬德雷山脈的客人，你比任何人都更明白這個道理。弗雷德裡克·辛克萊相信，一個人的生命可以每天煥然一新，財富不僅僅是手中的金錢。愛。生活……家庭，那些你關心的人，以及那些關心你的人。對於那些懂得這些快樂的人來說，馬德雷山脈擁有的東西他們早已擁有。在這堵牆之外的世界裡，那是你重新開始的機會。我希望在更快樂的時光裡，你能回來。在那之前，馬德雷山脈……和我……會將你銘記在心。"
+
+#: .\npcs\dialogue_fountain.json
+msgid ""
+"Don't waste any more time, go inside the casino! It's what you wanted, it's "
+"why you even dared to come here, am I right?... So hurry!"
+msgstr "別再浪費時間了，進賭場去！這不就是你想要的嗎，這不就是你敢來這裡的原因嗎，我說得對嗎？……所以快點！"
+
+#: .\npcs\dialogue_gala.json
+msgid "Start the Gala Event"
+msgstr "啟動慶典活動"
+
+#: .\npcs\dialogue_gala.json
+msgid "Authorization error! Gala Event couldn't be triggered. Aborting..."
+msgstr "授權錯誤！無法觸發慶典活動。中止……"
+
+#: .\npcs\dialogue_gala.json .\npcs\dialogue_vendor.json
+msgid "Cancel"
+msgstr "取消"
+
+#: .\npcs\dialogue_gala.json
+msgid ""
+"Playing pre-recorded message for the start of the Gala... Everyone, please "
+"may I have your attention -- guests and residents of the Villa alike. I ask "
+"you to step outside and look to the night sky, it's the moment you've been "
+"waiting for, the reason we're all here. The Gala Event, the grand opening of"
+" the Sierra Madre Casino, you are the ones who have made this momentous "
+"occasion possible, and for that we thank you. So raise your glass in "
+"celebration, let music fill the streets, fireworks light the sky and promise"
+" of new beginnings fill your hearts. No matter what your fortune, no matter "
+"what your cares -- let go this night and begin again. I suggest you hurry, "
+"though; the gates of Sierra Madre are open but only for a brief time. After "
+"that the doors will close for the evening's festivities and won't open again"
+" till morning."
+msgstr ""
+"正在播放慶典開始的預錄信息……各位，請注意——別墅的客人和居民們。我請你們走到外面，仰望夜空，這是你們一直等待的時刻，是我們齊聚於此的原因。慶典活動，馬德雷賭場的盛大開幕，是你們讓這一重要時刻成為可能，為此我們感謝你們。所以舉起酒杯慶祝吧，讓音樂充滿街道，煙花點亮天空，新開始的希望充滿你們的心。無論你的命運如何，無論你有何憂慮——今夜放手，重新開始。不過我建議你們快點；馬德雷的大門已經打開，但只持續短暫時間。之後大門將關閉，進行晚間的慶祝活動，直到早晨才會再次打開。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"And so you've entered the Sierra Madre casino and can look at all the glory "
+"of the Old World, even at the brink of its end. Few people saw it before "
+"you... No one else will... Thought the same thing I told the Courier and yet"
+" somehow here you are... Anyways, let's get down to business, shall we? The "
+"heist still requires a lot of work."
+msgstr ""
+"就這樣，你進入了馬德雷賭場，可以目睹舊世界的輝煌，即便它已瀕臨終結。在你之前很少有人見過它……以後也不會再有人……我對信使說過同樣的話，但不知怎的你還是來了……無論如何，我們談正事吧，好嗎？這次搶劫還需要很多工作。"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Who's this \"Courier\"?"
+msgstr "這個“信使”是誰？"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, what do I need to do to get inside the vault?"
+msgstr "好吧，我需要做什麼才能進入金庫？"
+
+#: .\npcs\dialogue_intercom.json
+msgid "So this is it... This is really it... Madre's mine mine mine MINE!"
+msgstr "就是這樣……真的就是這樣……馬德雷是我的我的我的我的！"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Alright, alright, enough of this circus. Stop hiding behind holograms and "
+"speakers, show yourself!"
+msgstr "好了好了，這場馬戲該結束了。別躲在全息影像和揚聲器後面了，現身吧！"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Would I get to know who you are at last?"
+msgstr "我終於能知道你是誰了嗎？"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"The Courier... The Courier... I... We... We planned and executed this heist "
+"together. Along with three other survivors, but the other three... They "
+"lacked the skills, they weren't that useful, you know? But the Courier... "
+"The Courier could have gotten the Sierra Madre together with me, but the "
+"greed... Oh, the greed consumed the Courier's soul... I barely survived the "
+"betrayal... But enough of this! The Courier is gone, let's focus on the "
+"heist, we're so close!"
+msgstr ""
+"信使……信使……我……我們……我們一起策劃並執行了這次搶劫。還有另外三個倖存者，但其他三個……他們缺乏技能，沒什麼用，你懂嗎？但信使……信使本可以和我一起得到馬德雷山脈，但貪婪……哦，貪婪吞噬了信使的靈魂……我差點在背叛中喪生……但夠了！信使已經不在了，我們專注於搶劫吧，我們離成功很近了！"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Don't lie to me. One of the three other \"useless\" survivors, Dean Domino "
+"himself, left his journal in the villa. The Courier saved his life, while it"
+" was you being the evil one here all along, Father Elijah!"
+msgstr "別騙我了。另外三個“沒用”的倖存者之一，迪恩·多米諾本人，在別墅裡留下了他的日記。信使救了他的命，而你才是那個一直以來的惡人，以利亞神父！"
+
+#: .\npcs\dialogue_intercom.json
+msgid "What happened to the other survivors?"
+msgstr "其他倖存者怎麼樣了？"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Fair enough."
+msgstr "有道理。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Enough is enough, they were bad candidates... All driven by greed, hunger, "
+"thirst for power, jealously, vengeance... All survived, all left Sierra "
+"Madre, despite none of them being able to let go. Again, enough is enough, "
+"let's focus on your task, shall we?"
+msgstr ""
+"夠了就是夠了，他們都是糟糕的人選……全都被貪婪、飢渴、權力慾、嫉妒、復仇所驅使……所有人都活了下來，都離開了馬德雷山脈，儘管他們中沒有一個人能真正放下。再說一遍，夠了就是夠了，讓我們專注於你的任務，好嗎？"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, let's crack the Sierra Madre open!"
+msgstr "好吧，讓我們撬開馬德雷山脈！"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Don't lie to me. One of the three other \"bad candidates\", Dean Domino "
+"himself, left his journal in the villa. The Courier saved his life, while it"
+" was you being the evil one here all along, Father Elijah! And after all "
+"this you dare to say that it's them who \"failed to let go?\""
+msgstr ""
+"別對我撒謊。另外三個“糟糕人選”之一，迪恩·多米諾本人，把他的日記留在了別墅裡。信使救了他的命，而你，以利亞神父，才是這裡一直以來的惡人！在這之後，你竟敢說他們“沒能放下”？"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Ahhh, I see... Dean Domino, actor, singer... Thief. Liar. Manipulator. "
+"Blackmailer. You don't know what happened in the Sierra Madre the night the "
+"portals opened, the dead rose and the bombs fell, do you? Then I suggest you"
+" take a look around, the evidence is still laying around here in this very "
+"Casino you find yourself in, go see for yourself who Dean Domino truly was. "
+"After all, he planned that heist himself as well. He wanted Sierra Madre to "
+"be his, his alone... But not even for its treasure itself. He wanted it "
+"solely because Sinclair was a happier man than him."
+msgstr ""
+"啊，我明白了……迪恩·多米諾，演員，歌手……小偷。騙子。操縱者。敲詐者。你不知道傳送門開啟、死者復生、炸彈落下的那個夜晚，馬德雷山脈發生了什麼，對吧？那我建議你四處看看，證據就散落在這個你所在的賭場裡，親眼去看看迪恩·多米諾到底是誰。畢竟，那場搶劫也是他自己策劃的。他想讓馬德雷山脈成為他的，只屬於他一個人……但甚至不是為了它的寶藏本身。他想要它，僅僅是因為辛克萊比他更幸福。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Yeah, I noticed those parts in his journal too... Still don't believe you. "
+"Him being who he was doesn't suddenly make you a \"good guy\"."
+msgstr "是啊，我也注意到了他日記裡的那些部分……我還是不相信你。他是他那樣的人，並不會讓你突然變成“好人”。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Be careful with such statements. You've seen the Sierra Madre villa. You "
+"know what happened to those who thought the way you do. Their skeletons and "
+"desperate wall inscriptions and notes still lay around the streets and "
+"buildings... Some killed because they didn't have what it takes to survive "
+"in the villa... Most killed each other out of greed though. You don't have "
+"to say anything. Just think about it."
+msgstr ""
+"小心這樣的言論。你已經見過馬德雷山脈的別墅了。你知道那些和你想法一樣的人下場如何。他們的骸骨、絕望的牆刻和筆記仍然散落在街道和建築裡……有些人被殺是因為他們沒有在別墅生存下去的能力……但大多數人是因為貪婪而互相殘殺。你什麼都不用說。好好想想吧。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Hahaha, you really think I'm that stupid? You'll meet me... When the time "
+"comes. Saw those people around the villa? Or rather what was left of them? "
+"Messages full of greed and hate, evidence of them killing each other... And "
+"their corpses. All of them, no exceptions. Some preserved their humanity, "
+"you might say, as they left stashes of supplies and useful tips on the walls"
+" for others, but they were the first ones to die every time the dark side of"
+" human nature took over their companions."
+msgstr ""
+"哈哈哈，你真以為我那麼蠢嗎？你會見到我的……當時機來臨。看到別墅周圍那些人了嗎？或者說他們剩下的東西？充滿貪婪和仇恨的信息，他們互相殘殺的證據……以及他們的屍體。所有人，無一例外。有些人保留了人性，你可能會說，因為他們為別人留下了補給品藏匿點和牆上有用的提示，但每次人性的陰暗面佔據他們同伴的心時，他們總是最先死去的。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"You owe me an explanation. Remember this. I'm not stupid hence I don't trust"
+" you either."
+msgstr "你欠我一個解釋。記住這一點。我不傻，所以我也不信任你。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"So you still don't know? Well, so let it be! We'll talk... If you "
+"successfully complete your mission, that is."
+msgstr "所以你仍然不知道？好吧，那就這樣吧！我們會談的……如果你成功完成任務的話。"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Damn you..."
+msgstr "該死的……"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Alright, anything else you feel like wasting time to ask? Or are you ready "
+"to proceed with the heist?"
+msgstr "好吧，還有什麼你想浪費時間問的嗎？還是你準備好繼續搶劫了？"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"So here's what comes next: the vault is protected by a password... Of course"
+" it is, but the problem is, it must be spoken in Vera Keyes' voice, "
+"Sinclair's true love... There are three recordings of Vera's songs scaterred"
+" around the casino - one in the Tampico, one in the Cantina Madrid and "
+"finally one in her own suites on the top floor. Combining them together will"
+" yeld the sample of her speech capable of unlocking the door... I've marked "
+"the locations of those three recordings for you on your navigation device "
+"with cyan \"S\" signs."
+msgstr ""
+"那麼接下來是這樣的：金庫由一個密碼保護……當然是這樣，但問題是，必須用薇拉·凱斯的聲音說出，辛克萊的真愛……賭場裡散落著三份薇拉的歌曲錄音——一份在坦皮科，一份在馬德里小酒館，最後一份在她頂樓的套房裡。把它們組合在一起，就能得到足以解鎖門禁的她的語音樣本……我已經在你的導航設備上用青色的“S”標記標出了這三份錄音的位置。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"The catch is, as of now, all three locations are locked behind doors as "
+"strong as the entrance you've just opened and walked through. That's caused "
+"by the casino's lockdown state cutting out power from said doors. To open "
+"them you'll need to go to the power control room and manually restore the "
+"power, waking the casino up. Just walk across the lobby to the door leading "
+"to the casino area, cross the hall until you reach the storage room on the "
+"other side and then go through it to reach the power control room... I've "
+"marked it using blue \"S\"."
+msgstr ""
+"問題是，目前，這三個地點都被門鎖住了，堅固程度和你剛剛打開並走過的入口一樣。這是因為賭場的封鎖狀態切斷了這些門的電力。要打開它們，你需要去電力控制室手動恢復電力，喚醒賭場。穿過大廳走到通往賭場區域的門，穿過大廳直到到達另一邊的儲藏室，然後穿過它到達電力控制室……我已經用藍色的“S”標記了它。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Once you're done, bring those three pieces of music here and speak through "
+"the intercom. And beware of the security holograms... The Sierra Madre "
+"casino is crawling with them, placed in key positions."
+msgstr "完成後，把那三份音樂帶到這裡，通過對講機說話。小心安全全息影像……馬德雷山脈賭場裡到處都是它們，被安置在關鍵位置。"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Got it. Three songs of Vera Keyes."
+msgstr "明白了。薇拉·凱斯的三首歌。"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Have you found the songs already?"
+msgstr "你已經找到那些歌了嗎？"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Yeah, found them, got them, all three of them."
+msgstr "是的，找到了，拿到了，三份都齊了。"
+
+#: .\npcs\dialogue_intercom.json
+msgid ""
+"Good, you continue to amaze me... Now combine those recordings in the "
+"correct order I'm going to describe to you in a moment and use it to enter "
+"the vault... Not sure if you searched Vera's and Sinclair's apartment "
+"throroughtfully, but the entrance to the vault is in one of their rooms. "
+"Once you're down there... Then... Then you'll uncover everything and crack "
+"the Sierra Madre open... Don't let me down, survivor. You've come so far... "
+"Good luck, I won't respond on the intercom anymore."
+msgstr ""
+"很好，你繼續讓我驚訝……現在按照我馬上要告訴你的正確順序組合那些錄音，並用它進入金庫……不確定你是否徹底搜查過薇拉和辛克萊的公寓，但金庫的入口就在他們的一個房間裡。一旦你到了下面……然後……然後你就會揭開一切，撬開馬德雷山脈……別讓我失望，倖存者。你已經走了這麼遠……祝你好運，我不會再通過對講機回應了。"
+
+#: .\npcs\dialogue_intercom.json
+msgid "Alright, so here we go... The Heist of the Centuries..."
+msgstr "好吧，那麼開始了……世紀大劫案……"
+
+#: .\npcs\dialogue_intercom.json
+msgid "[The intercom is eerily silent... Nobody responds to your calls.]"
+msgstr "[對講機異常寂靜……沒有人回應你的呼叫。]"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Welcome to the Sierra Madre. We hope you enjoy your stay. Would you like to "
+"buy something?"
+msgstr "歡迎來到馬德雷山脈。我們希望您住得愉快。您想買點什麼嗎？"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Yes, show me your stock."
+msgstr "是的，讓我看看你的存貨。"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"We hope you're satisfied with the transaction. Anything else we can do for "
+"you?"
+msgstr "我們希望您對交易滿意。還有什麼我們可以為您做的嗎？"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Yes, I'd like to make another purchase."
+msgstr "是的，我想再買點東西。"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Welcome to the Sierra Madre autonomous vending system. We hope you enjoy "
+"your stay. Would you like to purchase something?"
+msgstr "歡迎使用馬德雷山脈自動售貨系統。我們希望您住得愉快。您想購買什麼嗎？"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Browse the list of available products"
+msgstr "瀏覽可用產品列表"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Sorry Sir, you don't have enough Sierra Madre chips to buy the selected item"
+msgstr "抱歉先生，您的馬德雷山脈籌碼不足以購買所選物品"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Sorry Madam, you don't have enough Sierra Madre chips to buy the selected "
+"item"
+msgstr "抱歉女士，您的馬德雷山脈籌碼不足以購買所選物品"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Choose a different product"
+msgstr "選擇其他產品"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"Thank you for using our services. Here's the list of available products for "
+"you:"
+msgstr "感謝使用我們的服務。以下是可供您選擇的商品列表："
+
+#: .\npcs\dialogue_vendor.json
+msgid "Mac & cheese [20 chips]"
+msgstr "通心粉和奶酪 [20籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Apple [5 chips]"
+msgstr "蘋果 [5籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of biscuits [20 chips]"
+msgstr "餅乾包 [20籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pork n' Beans [30 chips]"
+msgstr "豬肉豆子 [30籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of potato chips [15 chips]"
+msgstr "薯片包 [15籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of tortilla chips [20 chips]"
+msgstr "玉米片包 [20籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Cooked steak [25 chips]"
+msgstr "熟牛排 [25籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Boiled egg [10 chips]"
+msgstr "煮雞蛋 [10籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Scrambled eggs [15 chips]"
+msgstr "炒雞蛋 [15籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Fresh fries [15 chips]"
+msgstr "新鮮薯條 [15籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Orange soda [10 chips]"
+msgstr "橙味汽水 [10籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Lemon-lime soda [10 chips]"
+msgstr "檸檬青檸汽水 [10籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Drinking chocolate [10 chips]"
+msgstr "飲用巧克力 [10籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Coffee bottle [20 chips]"
+msgstr "咖啡瓶 [20籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Tea bottle [20 chips]"
+msgstr "茶瓶 [20籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Water bottle [15 chips]"
+msgstr "水瓶 [15籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Vodka [35 chips] (use your code card to unlock)"
+msgstr "伏特加 [35籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Wine [50 chips] (use your code card to unlock)"
+msgstr "葡萄酒 [50籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Whiskey [70 chips] (use your code card to unlock)"
+msgstr "威士忌 [70籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Pack of cigarettes [25 chips]"
+msgstr "香菸包 [25籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "C4 [350 chips] (use your code card to unlock)"
+msgstr "C4炸藥 [350籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid ".357 Magnum rounds [50 for 250 chips] (use your code card to unlock)"
+msgstr ".357馬格南子彈 [50發250籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid ""
+"7.62x51mm '.308 Winchester' rounds [20 for 150 chips] (use your code card to"
+" unlock)"
+msgstr "7.62x51毫米'.308溫徹斯特'子彈 [20發150籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Firearm repair kit [250 chips] (use your code card to unlock)"
+msgstr "槍械修理工具包 [250籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "First aid kit [250 chips]"
+msgstr "急救包 [250籌碼]"
+
+#: .\npcs\dialogue_vendor.json
+msgid "stimpack [500 chips] (use your code card to unlock)"
+msgstr "治療針 [500籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Med-X [350 chips] (use your code card to unlock)"
+msgstr "Med-X [350籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Mentats [350 chips] (use your code card to unlock)"
+msgstr "曼他特 [350籌碼]（使用您的密碼卡解鎖）"
+
+#: .\npcs\dialogue_vendor.json
+msgid "Redeem complimentary voucher"
+msgstr "兌換免費贈券"
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram"
+msgstr "馬德雷山全息影像"
+
+#. ~ Description for {'str': 'Sierra Madre hologram'}
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram staff"
+msgstr "馬德雷山全息影像員工"
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram workers"
+msgstr "馬德雷山全息影像工作人員"
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Holograms deployed to serve as vendors, helping customers exchange Sierra "
+"Madre chips and various commodities."
+msgstr "部署全息影像作為供應商，幫助顧客兌換馬德雷山籌碼和各種商品。"
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre hologram vendor"
+msgstr "馬德雷山全息影像供應商"
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre vending machines"
+msgstr "馬德雷山自動售貨機"
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Vending machines capable of disposing all kinds of goods in return for "
+"Sierra Madre chips. "
+msgstr "能夠處理各種商品以換取馬德雷山籌碼的自動售貨機。"
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre vending machine"
+msgstr "馬德雷山自動售貨機"
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Vera Keyes' fountain hologram"
+msgstr "薇拉·凱斯的噴泉全息影像"
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Sierra Madre fountain hologram of Vera Keyes, welcoming guests and "
+"broadcasting the Gala Event advertisement..."
+msgstr "馬德雷山薇拉·凱斯的噴泉全息影像，歡迎賓客並播放慶典活動廣告..."
+
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid "Sierra Madre Casino intercom"
+msgstr "馬德雷山賭場對講機"
+
+#. ~ Description for Sierra Madre Casino intercom
+#: .\npcs\hologram_staff.json .\terrain\furniture.json
+msgid ""
+"Sierra Madre Casino intercom system. Still operational. And there's someone "
+"using it to talk to you out there..."
+msgstr "馬德雷山賭場對講系統。仍在運行。而且有人在用它跟你說話..."
+
+#: .\npcs\hologram_staff.json
+msgid "Sierra Madre hologram casino vendor"
+msgstr "馬德雷山全息影像賭場供應商"
+
+#: .\npcs\hologram_staff.json
+msgid ""
+"Holograms deployed at the casino to help customers exchange money and chips."
+msgstr "部署在賭場的全息影像，幫助顧客兌換現金和籌碼。"
+
+#. ~ Description for {'str': 'Father Elijah'}
+#: .\npcs\human_npc.json
+msgid "Father Elijah"
+msgstr "以利亞神父"
+
+#: .\npcs\human_npc.json
+msgid "Christine Royce"
+msgstr "克里斯汀·羅伊斯"
+
+#: .\npcs\human_npc.json
+msgid "A mysterious self-titled guard of the Sierra Madre..."
+msgstr "一位自稱馬德雷山守衛的神秘人物..."
+
+#: .\npcs\human_npc.json
+msgid ""
+"A mysterious man wanting to wipe the wasteland clean... Maybe he was normal "
+"once, but now he's just a mere terrorist, all because he couldn't let go..."
+msgstr "一個想要將廢土清洗乾淨的神秘男人...也許他曾是個正常人，但現在他不過是個恐怖分子，全因他無法放下..."
+
+#: .\npcs\missions.json
+msgid "Heist of the Centuries"
+msgstr "世紀大劫案"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Villa"
+msgstr "馬德雷山別墅區"
+
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json .\overmap_tiles\villa\left_left.json
+msgid "Puesta del Sol"
+msgstr "普埃斯塔德爾索爾"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre clinic"
+msgstr "馬德雷山診所"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre police station"
+msgstr "馬德雷山警察局"
+
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json
+#: .\overmap_tiles\villa\salida_del_sol.json
+msgid "Salida del Sol"
+msgstr "薩利達德爾索爾"
+
+#. ~ Sign
+#: .\overmap_tiles\overmap_terrain.json .\overmap_tiles\villa\gala.json
+msgid "Campanas del Sol"
+msgstr "坎帕納斯德爾索爾"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Casino"
+msgstr "馬德雷山賭場"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "Sierra Madre Vault"
+msgstr "馬德雷山金庫"
+
+#: .\overmap_tiles\overmap_terrain.json
+msgid "abandoned bunker"
+msgstr "廢棄掩體"
+
+#: .\overmap_tiles\casino\vault.json
+msgid "Sierra Madre Vault locking mechanism"
+msgstr "馬德雷山金庫鎖定機制"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\gala.json .\overmap_tiles\villa\salida_del_sol.json
+msgid "Courtyard"
+msgstr "庭院"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\left.json .\overmap_tiles\villa\puesta_del_sol.json
+msgid "Medical district"
+msgstr "醫療區"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\mainsquare.json .\start\scenarios.json
+msgid "Sierra Madre"
+msgstr "馬德雷山脈"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\medical.json
+msgid "Clinic"
+msgstr "診所"
+
+#. ~ Computer name
+#: .\overmap_tiles\villa\police.json
+msgid "Storage access terminal"
+msgstr "存儲訪問終端"
+
+#. ~ Computer option
+#: .\overmap_tiles\villa\police.json
+msgid "Unlock storage room's door"
+msgstr "解鎖儲藏室的門"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\police.json
+msgid "Police station"
+msgstr "警察局"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\puesta_del_sol.json
+#: .\overmap_tiles\villa\salida_del_sol.json
+msgid "Switching station"
+msgstr "交換站"
+
+#. ~ Sign
+#: .\overmap_tiles\villa\residential.json
+msgid "Residential district"
+msgstr "住宅區"
+
+#: .\start\professions.json
+msgctxt "profession_male"
+msgid "Sierra Madre Treasure Hunter"
+msgstr "馬德雷山脈寶藏獵人"
+
+#: .\start\professions.json
+msgctxt "profession_female"
+msgid "Sierra Madre Treasure Hunter"
+msgstr "馬德雷山脈寶藏獵人"
+
+#. ~ Profession (male Sierra Madre Treasure Hunter) description
+#: .\start\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You've heard of the Sierra Madre Casino. And so you've set, just like many "
+"other fools before, to find it and crack it open, uncovering the legendary "
+"treasure of the Old World buried within it."
+msgstr "你聽說過馬德雷山脈賭場。於是你就像之前的許多傻瓜一樣，決心找到並撬開它，揭開埋藏在其中的舊世界傳奇寶藏。"
+
+#. ~ Profession (female Sierra Madre Treasure Hunter) description
+#: .\start\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You've heard of the Sierra Madre Casino. And so you've set, just like many "
+"other fools before, to find it and crack it open, uncovering the legendary "
+"treasure of the Old World buried within it."
+msgstr "你聽說過馬德雷山脈賭場。於是你就像之前的許多傻瓜一樣，決心找到並撬開它，揭開埋藏在其中的舊世界傳奇寶藏。"
+
+#. ~ Name for scenario 'Challenge - Heist of the Centuries' for a male
+#. character
+#: .\start\scenarios.json
+msgctxt "scenario_male"
+msgid "Challenge - Heist of the Centuries"
+msgstr "挑戰 - 世紀大劫案"
+
+#. ~ Name for scenario 'Challenge - Heist of the Centuries' for a female
+#. character
+#: .\start\scenarios.json
+msgctxt "scenario_female"
+msgid "Challenge - Heist of the Centuries"
+msgstr "挑戰 - 世紀大劫案"
+
+#. ~ Description for scenario 'Challenge - Heist of the Centuries' for a male
+#. character.
+#: .\start\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Some foolishness about it lying in the middle of a City of Dead. A "
+"city of ghosts. Buried beneath a blood-red cloud... A bright, shining "
+"monument luring treasure hunters to their doom. An illusion that you can "
+"begin again, change your fortunes. Finding it, though, that's not the hard "
+"part. It's letting go."
+msgstr ""
+"你聽說過馬德雷山脈賭場。我們都聽說過，那個傳說，那些詛咒。有些愚蠢的說法是它位於一座死亡之城的中心。一座鬼城。埋藏在血紅色的雲層之下……一座明亮閃耀的紀念碑，引誘尋寶者走向毀滅。一個你可以重新開始、改變命運的幻象。然而，找到它並不難。難的是放手。"
+
+#. ~ Description for scenario 'Challenge - Heist of the Centuries' for a
+#. female character.
+#: .\start\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You've heard of the Sierra Madre Casino. We all have, the legend, the "
+"curses. Some foolishness about it lying in the middle of a City of Dead. A "
+"city of ghosts. Buried beneath a blood-red cloud... A bright, shining "
+"monument luring treasure hunters to their doom. An illusion that you can "
+"begin again, change your fortunes. Finding it, though, that's not the hard "
+"part. It's letting go."
+msgstr ""
+"你聽說過馬德雷山脈賭場。我們都聽說過，那個傳說，那些詛咒。有些愚蠢的說法是它位於一座死亡之城的中心。一座鬼城。埋藏在血紅色的雲層之下……一座明亮閃耀的紀念碑，引誘尋寶者走向毀滅。一個你可以重新開始、改變命運的幻象。然而，找到它並不難。難的是放手。"
+
+#. ~ Starting location for scenario 'Challenge - Heist of the Centuries'.
+#: .\start\scenarios.json
+msgctxt "start_name"
+msgid "Sierra Madre"
+msgstr "馬德雷山脈"
+
+#: .\terrain\furniture.json
+msgid "Dean's secret stash"
+msgstr "迪恩的秘密藏匿點"
+
+#. ~ Description for Dean's secret stash
+#: .\terrain\furniture.json
+msgid ""
+"A stash containing some useful stuff, left here by a survivor that once "
+"walked these streets just like you..."
+msgstr "一個藏匿著一些有用物品的藏匿點，由一位曾像你一樣走過這些街道的倖存者留下……"
+
+#: .\terrain\furniture.json
+msgid "smash!"
+msgstr "砸！"
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "whump."
+msgstr "砰。"
+
+#: .\terrain\furniture.json
+msgid "broken radio"
+msgstr "損壞的收音機"
+
+#. ~ Description for broken radio
+#: .\terrain\furniture.json
+msgid ""
+"This radio, once capable of broadcasting all kinds of signals, now remains "
+"broken. Upon closer look you notice a bullet hole in it."
+msgstr "這臺收音機曾經能夠廣播各種信號，現在卻已損壞。仔細一看，你注意到上面有一個彈孔。"
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "crunch!"
+msgstr "嘎吱！"
+
+#: .\terrain\furniture.json .\terrain\terrain.json
+msgid "whack!"
+msgstr "啪！"
+
+#. ~ Description for Sierra Madre vending machine
+#: .\terrain\furniture.json
+msgid ""
+"Sierra Madre vending machine... A form of matter assembler, accepts Sierra "
+"Madre chips and then transforms them into all kinds of useful stuff. Having "
+"certain code cards will allow you to unlock more interesting items to "
+"purchase from it."
+msgstr ""
+"馬德雷山脈自動售貨機……一種物質組裝器，接受馬德雷山脈籌碼，然後將它們轉化為各種有用的物品。擁有特定的代碼卡將允許你解鎖更多有趣的物品進行購買。"
+
+#. ~ Description for Sierra Madre hologram vendor
+#. ~ Description for Vera Keyes' fountain hologram
+#: .\terrain\furniture.json
+msgid ""
+"Sierra Madre hologram vendor, an autonomous worker for the guests to make "
+"purchases or exchange various kinds of commodities."
+msgstr "馬德雷山脈全息售貨員，一個為客人提供購買或交換各種商品的自主工作者。"
+
+#. ~ Description for Gala control panel
+#: .\terrain\furniture.json
+msgid "Still operational terminal used to trigger and control the Gala Event."
+msgstr "仍可操作的終端，用於觸發和控制慶典活動。"
+
+#: .\terrain\furniture.json
+msgid "street lantern"
+msgstr "街燈"
+
+#. ~ Description for street lantern
+#: .\terrain\furniture.json
+msgid ""
+"A simple street lantern providing some light for the dark night streets as "
+"long as it has access to a power source. This one has been stylized to look "
+"like lanterns from the late XIX or early XX century."
+msgstr "一盞簡單的街燈，只要接入電源，就能為黑暗的夜晚街道提供一些光亮。這一盞被設計成模仿十九世紀末或二十世紀初的燈籠風格。"
+
+#: .\terrain\terrain.json
+msgid "dried fountain"
+msgstr "乾涸的噴泉"
+
+#. ~ Description for dried fountain
+#: .\terrain\terrain.json
+msgid ""
+"A paved bed of a dried fountain, slowly but inevitably eroding due to lack "
+"of maintenance."
+msgstr "一個乾涸噴泉的鋪砌基座，由於缺乏維護，正在緩慢但不可避免地侵蝕。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino wall"
+msgstr "馬德雷山脈賭場牆壁"
+
+#. ~ Description for Sierra Madre Casino wall
+#: .\terrain\terrain.json
+msgid ""
+"An outer wall used in building of the Sierra Madre Casino. Truly "
+"impenetrable - can survive several direct hits with nuclear warheads almost "
+"unscratched."
+msgstr "用於建造馬德雷山脈賭場的外牆。真正堅不可摧——能夠承受數次核彈頭的直接命中而幾乎毫髮無損。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino roof"
+msgstr "馬德雷山脈賭場屋頂"
+
+#. ~ Description for Sierra Madre Casino roof
+#: .\terrain\terrain.json
+msgid ""
+"Roof covering the Sierra Madre Casino, made out of the same material as its "
+"walls, making it indestructible."
+msgstr "覆蓋馬德雷山脈賭場的屋頂，由與其牆壁相同的材料製成，使其堅不可摧。"
+
+#: .\terrain\terrain.json
+msgid "crash!"
+msgstr "崩潰！"
+
+#: .\terrain\terrain.json
+msgid "bash!"
+msgstr "猛擊！"
+
+#: .\terrain\terrain.json
+msgid "open air"
+msgstr "露天"
+
+#. ~ Description for open air
+#: .\terrain\terrain.json
+msgid "This is open air."
+msgstr "這裡是露天環境。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino floor"
+msgstr "錫耶納馬德雷賭場地板"
+
+#. ~ Description for Sierra Madre Casino floor
+#: .\terrain\terrain.json
+msgid ""
+"Red tiles out of which the floor inside the Sierra Madre Casino is made."
+msgstr "錫耶納馬德雷賭場內部地板所用的紅色瓷磚。"
+
+#: .\terrain\terrain.json
+msgid "SMASH!"
+msgstr "砰！"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino floor, with overhead light"
+msgstr "錫耶納馬德雷賭場地板，帶頂燈"
+
+#. ~ Description for Sierra Madre Casino floor, with overhead light
+#: .\terrain\terrain.json
+msgid ""
+"Red tiles out of which the floor inside the Sierra Madre Casino is made, "
+"with a still-functioning light attached to the ceiling above."
+msgstr "錫耶納馬德雷賭場內部地板所用的紅色瓷磚，上方天花板上仍有一盞正常工作的燈。"
+
+#: .\terrain\terrain.json
+msgid "thump"
+msgstr "重擊聲"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre red carpet"
+msgstr "錫耶納馬德雷紅地毯"
+
+#. ~ Description for Sierra Madre red carpet
+#: .\terrain\terrain.json
+msgid ""
+"Fancy and durable red carpet used to decorate the interiors of the Sierra "
+"Madre Casino."
+msgstr "用於裝飾錫耶納馬德雷賭場內部的華麗耐用紅地毯。"
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Casino entrance door"
+msgstr "上鎖的錫耶納馬德雷賭場入口門"
+
+#. ~ Description for locked Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid "entrance to the Sierra Madre Casino, locked and indestructible."
+msgstr "錫耶納馬德雷賭場的入口，已上鎖且無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino entrance door"
+msgstr "錫耶納馬德雷賭場入口門"
+
+#. ~ Description for Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid ""
+"entrance to the Sierra Madre Casino, unlocked, but still indestructible."
+msgstr "錫耶納馬德雷賭場的入口，已解鎖，但仍無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Casino entrance door"
+msgstr "打開的錫耶納馬德雷賭場入口門"
+
+#. ~ Description for open Sierra Madre Casino entrance door
+#: .\terrain\terrain.json
+msgid "entrance to the Sierra Madre Casino, open, but still indestructible."
+msgstr "錫耶納馬德雷賭場的入口，已打開，但仍無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Casino door"
+msgstr "上鎖的錫耶納馬德雷賭場門"
+
+#. ~ Description for locked Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"door to the more important interiors of the Sierra Madre Casino. Locked and "
+"indestructible just like the entrance door."
+msgstr "通往錫耶納馬德雷賭場更內部區域的門。與入口門一樣，已上鎖且無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Casino door"
+msgstr "錫耶納馬德雷賭場門"
+
+#. ~ Description for Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"door to the more important interiors of the Sierra Madre Casino. "
+"Indestructible just like the entrance door."
+msgstr "通往錫耶納馬德雷賭場更內部區域的門。與入口門一樣無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Casino door"
+msgstr "打開的錫耶納馬德雷賭場門"
+
+#. ~ Description for open Sierra Madre Casino door
+#: .\terrain\terrain.json
+msgid ""
+"Sierra Madre Casino internal door, currently open, still indestructible."
+msgstr "錫耶納馬德雷賭場內部門，當前已打開，仍無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "locked Sierra Madre Vault door"
+msgstr "上鎖的錫耶納馬德雷金庫門"
+
+#. ~ Description for locked Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid "door to the legendary Sierra Madre Vault, locked and indestructible."
+msgstr "通往傳奇的錫耶納馬德雷金庫的門，已上鎖且無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault door"
+msgstr "錫耶納馬德雷金庫門"
+
+#. ~ Description for Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, unlocked, but still "
+"indestructible."
+msgstr "通往傳奇的錫耶納馬德雷金庫的門，已解鎖，但仍無法破壞。"
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Vault door"
+msgstr "打開的錫耶納馬德雷金庫門"
+
+#. ~ Description for open Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, while indestructible, unlocked and"
+" opened right in front of you, waiting for you to enter the Vault and crack "
+"the Sierra Madre Treasure open..."
+msgstr "通往傳奇的錫耶納馬德雷金庫的門，雖然無法破壞，但已解鎖並打開在你面前，等待你進入金庫，開啟錫耶納馬德雷的寶藏……"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault intercom"
+msgstr "錫耶納馬德雷金庫對講機"
+
+#. ~ Description for Sierra Madre Vault intercom
+#: .\terrain\terrain.json
+msgid ""
+"The intercom located next to the Sierra Madre Vault, protecting it with a "
+"voice password."
+msgstr "位於錫耶納馬德雷金庫旁的對講機，通過語音密碼保護金庫。"
+
+#. ~ Description for Sierra Madre Casino wall
+#: .\terrain\terrain.json
+msgid ""
+"A solid brick wall used inside the Sierra Madre Casino. Years of "
+"accumulating dirt made this once white wall yellow. From time to time you "
+"can spot golden letters \"SM\" on it, the logo of the Sierra Madre."
+msgstr "錫耶納馬德雷賭場內部使用的堅固磚牆。多年的積塵使這面曾經潔白的牆壁變黃。你偶爾能看到牆上金色的字母“SM”，那是錫耶納馬德雷的標誌。"
+
+#: .\terrain\terrain.json
+msgid "slot machine"
+msgstr "老虎機"
+
+#. ~ Description for slot machine
+#: .\terrain\terrain.json
+msgid ""
+"A machine with a bright screen flashing hypnotic promises of wealth.  If "
+"gambling with your life on a daily basis isn't enough for you, you can also "
+"gamble with this."
+msgstr "一臺帶有明亮屏幕的機器，閃爍著催眠般的財富承諾。如果每天用生命賭博對你來說還不夠，你也可以用它來賭一把。"
+
+#: .\terrain\terrain.json
+msgid "golden guard rail"
+msgstr "金色護欄"
+
+#. ~ Description for golden guard rail
+#: .\terrain\terrain.json
+msgid "A golden guard rail found inside the Sierra Madre Casino."
+msgstr "在馬德雷賭場內部發現的金色護欄。"
+
+#: .\terrain\terrain.json
+msgid "clang!"
+msgstr "哐當！"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window."
+msgstr "馬德雷裝甲窗戶。"
+
+#. ~ Description for Sierra Madre armored window.
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window, it's supposed to withstand a direct hit by a nuclear warhead,"
+" just like the entire Sierra Madre Casino. Tech used to design this wonder "
+"comes, of course, from the Big Mountain research facility."
+msgstr ""
+"出現在馬德雷套房中的窗戶。雖然它看起來和其他豪華窗戶沒什麼兩樣，但它應該能承受核彈頭的直接打擊，就像整個馬德雷賭場一樣。設計這一奇蹟所用的技術，當然來自大山脈研究設施。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window without curtains"
+msgstr "無窗簾的馬德雷裝甲窗戶"
+
+#. ~ Description for Sierra Madre armored window without curtains
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window (except it doesn't have curtains), it's supposed to withstand "
+"a direct hit by a nuclear warhead, just like the entire Sierra Madre Casino."
+" Tech used to design this wonder comes, of course, from the Big Mountain "
+"research facility."
+msgstr ""
+"出現在馬德雷套房中的窗戶。雖然它看起來和其他豪華窗戶沒什麼區別（除了沒有窗簾），但它應該能承受核彈頭的直接打擊，就像整個馬德雷賭場一樣。設計這一奇蹟所用的技術，當然來自大山脈研究設施。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre armored window with closed curtains"
+msgstr "帶閉合窗簾的馬德雷裝甲窗戶"
+
+#. ~ Description for Sierra Madre armored window with closed curtains
+#: .\terrain\terrain.json
+msgid ""
+"A window appearing in the Sierra Madre suites. While it looks like any other"
+" fancy window with closed curtains would, it's supposed to withstand a "
+"direct hit by a nuclear warhead, just like the entire Sierra Madre Casino. "
+"Tech used to design this wonder comes, of course, from the Big Mountain "
+"research facility."
+msgstr ""
+"出現在馬德雷套房中的窗戶。雖然它看起來和其他帶閉合窗簾的豪華窗戶一樣，但它應該能承受核彈頭的直接打擊，就像整個馬德雷賭場一樣。設計這一奇蹟所用的技術，當然來自大山脈研究設施。"
+
+#: .\terrain\terrain.json
+msgid "picket fence"
+msgstr "尖樁籬柵"
+
+#. ~ Description for picket fence
+#: .\terrain\terrain.json
+msgid ""
+"A barrier made of wood, it's nothing complicated.  Mildly suggests where not"
+" to go."
+msgstr "用木頭製成的屏障，沒什麼複雜的。溫和地提示哪些地方不該去。"
+
+#: .\terrain\terrain.json
+msgid "crack."
+msgstr "咔嚓。"
+
+#: .\terrain\terrain.json
+msgid "wham."
+msgstr "砰。"
+
+#: .\terrain\terrain.json
+msgid "fence post"
+msgstr "籬笆樁"
+
+#. ~ Description for fence post
+#: .\terrain\terrain.json
+msgid ""
+"A couple of posts that support the fence.  They look alone without the "
+"fence."
+msgstr "支撐籬笆的幾個樁子。沒有籬笆它們看起來孤零零的。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre toxic gas"
+msgstr "馬德雷毒氣"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Cloud"
+msgstr "馬德雷雲"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault floor"
+msgstr "馬德雷金庫地板"
+
+#. ~ Description for Sierra Madre Vault floor
+#: .\terrain\terrain.json
+msgid ""
+"The floor used to cover the ground of the Sierra Madre legendary vault, made"
+" of the strongest metal alloys ever produced by humans."
+msgstr "用於覆蓋馬德雷傳奇金庫地面的地板，由人類有史以來生產的最強金屬合金製成。"
+
+#. ~ Description for Sierra Madre Vault floor
+#: .\terrain\terrain.json
+msgid ""
+"The floor used to cover the ground of the Sierra Madre legendary vault, made"
+" of the strongest metal alloys ever produced by humans, with a still-"
+"functioning light attached to the ceiling above."
+msgstr "用於覆蓋馬德雷傳奇金庫地面的地板，由人類有史以來生產的最強金屬合金製成，天花板上還附有一個仍在運作的燈。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault wall"
+msgstr "馬德雷金庫牆壁"
+
+#. ~ Description for Sierra Madre Vault wall
+#: .\terrain\terrain.json
+msgid ""
+"Thick, practically indestructible wall used to protect the Sierra Madre "
+"Vault. Even tougher than the outer walls of the Casino, this one can sustain"
+" direct hits from at least a dozen nuclear warheads unscratched."
+msgstr "用於保護馬德雷金庫的厚重、幾乎堅不可摧的牆壁。甚至比賭場的外牆還要堅固，這面牆可以承受至少十幾枚核彈頭的直接打擊而毫髮無損。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault interior door"
+msgstr "馬德雷金庫內部門"
+
+#. ~ Description for Sierra Madre Vault interior door
+#: .\terrain\terrain.json
+msgid ""
+"Closed indestructible door separating the interiors of the Sierra Madre "
+"Vault."
+msgstr "分隔馬德雷金庫內部的閉合式堅不可摧的門。"
+
+#: .\terrain\terrain.json
+msgid "open Sierra Madre Vault interior door"
+msgstr "打開的馬德雷金庫內部門"
+
+#. ~ Description for open Sierra Madre Vault interior door
+#: .\terrain\terrain.json
+msgid ""
+"Opened indestructible door separating the interiors of the Sierra Madre "
+"Vault."
+msgstr "已打開的分隔馬德雷金庫內部的堅不可摧的門。"
+
+#: .\terrain\terrain.json
+msgid "Sierra Madre Vault glass wall"
+msgstr "馬德雷金庫玻璃牆"
+
+#. ~ Description for Sierra Madre Vault glass wall
+#: .\terrain\terrain.json
+msgid ""
+"Super resistant type of ballistic glass developed at Big Mountain research "
+"facility. As everything else used to build the Sierra Madre casino, "
+"especially its vault, it's designed to withstand direct hit by a nuclear "
+"warhead."
+msgstr "在大山脈研究設施開發的超級抗衝擊型防彈玻璃。與用於建造馬德雷賭場，尤其是其金庫的所有其他材料一樣，它被設計成能承受核彈頭的直接打擊。"
+
+#: .\terrain\terrain.json
+msgid "high gauge pipe"
+msgstr "大口徑管道"
+
+#. ~ Description for high gauge pipe
+#: .\terrain\terrain.json
+msgid "This is a section of high gauge pipe."
+msgstr "這是一段大口徑管道。"
+
+#: .\terrain\terrain.json
+msgid "metal screeching!"
+msgstr "金屬尖嘯聲！"
+
+#. ~ Description for locked Sierra Madre Vault door
+#: .\terrain\terrain.json
+msgid ""
+"door to the legendary Sierra Madre Vault, permanently locked due to vault's "
+"trap activation, turning it from a vault into a coffin. YOUR coffin..."
+msgstr "通往傳奇馬德雷金庫的門，由於金庫陷阱激活而永久鎖死，使其從金庫變成了棺材。你的棺材……"

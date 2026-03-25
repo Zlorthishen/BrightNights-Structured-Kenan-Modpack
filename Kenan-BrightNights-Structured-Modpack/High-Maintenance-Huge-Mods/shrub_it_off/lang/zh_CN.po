@@ -1,0 +1,42 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shrub_mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Shrub it off"
+msgstr "灌木丛清理"
+
+#. ~ Description for Shrub it off
+#: .\modinfo.json
+msgid "Prevents no collisions with t_shrubs ETC"
+msgstr "防止与t_shrubs等灌木丛发生碰撞"
+
+#: .\terrain.json
+msgid "shrub"
+msgstr "灌木"
+
+#: .\terrain.json
+msgid "underbrush"
+msgstr "下层灌丛"
+
+#. ~ Description for underbrush
+#: .\terrain.json
+msgid ""
+"Small plants and shrubs that decorate the forest.  An observant forager "
+"could obtain edible plants, acorns, eggs, and mushrooms from it."
+msgstr "装饰森林的小型植物和灌木。观察力敏锐的采集者可以从中获得可食用植物、橡子、蛋类和蘑菇。"
+
+#: .\terrain.json
+msgid "crunch."
+msgstr "嘎吱声。"
+
+#: .\terrain.json
+msgid "brush."
+msgstr "灌木丛。"

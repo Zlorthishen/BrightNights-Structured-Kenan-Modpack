@@ -1,0 +1,217 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ks_variety_pack\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "CDDA Variety Pack"
+msgstr ""
+
+#. ~ Description for CDDA Variety Pack
+#: .\modinfo.json
+msgid ""
+"Adds vehicle variants (extended cab / bed pickups, for example), and some "
+"QoL fixes so you can drink during winter. Also adds some character creation "
+"options regarding gender, sexuality."
+msgstr ""
+
+#: .\items\insulated_jerrycan.json
+msgid "insulated jerrycan"
+msgid_plural "insulated jerrycans"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'insulated jerrycan'}
+#: .\items\insulated_jerrycan.json
+msgid "A bulky plastic jerrycan with insulation."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: male or mostly male"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: male or mostly male'}
+#: .\traits\gender.json
+msgid "You express yourself in a conventionally masculine way."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: female or mostly female"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: female or mostly female'}
+#: .\traits\gender.json
+msgid "You express yourself in a conventionally feminine way."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Trans"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: Trans'}
+#. ~ Description for {'str': 'Gender: Trans-male'}
+#. ~ Description for {'str': 'Gender: Trans-female'}
+#: .\traits\gender.json
+msgid "You don't express the gender assigned at birth."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Non-Conforming"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: Non-Conforming'}
+#: .\traits\gender.json
+msgid ""
+"You don't conform to conventional expressions of masculinity or feminity."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Non-Binary"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: Non-Binary'}
+#: .\traits\gender.json
+msgid "You express yourself as both feminine and masculine."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Cis"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: Cis'}
+#: .\traits\gender.json
+msgid "You express the gender assigned at birth."
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Trans-male"
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Trans-female"
+msgstr ""
+
+#: .\traits\gender.json
+msgid "Gender: Agender"
+msgstr ""
+
+#. ~ Description for {'str': 'Gender: Agender'}
+#: .\traits\gender.json
+msgid ""
+"You express characteristics of both the male and female gender or don't "
+"follow the normal gender normals or don't care to align to a gender."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Straight"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Straight'}
+#: .\traits\sexuality.json
+msgid "You are straight."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Bisexual"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Bisexual'}
+#: .\traits\sexuality.json
+msgid "You are bisexual."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Pan"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Pan'}
+#: .\traits\sexuality.json
+msgid "You are pansexual."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Questioning"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Questioning'}
+#: .\traits\sexuality.json
+msgid "You are questioning your sexuality."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Gay"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Gay'}
+#: .\traits\sexuality.json
+msgid "You are gay."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Lesbian"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Lesbian'}
+#: .\traits\sexuality.json
+msgid "You are lesbian."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Queer"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Queer'}
+#: .\traits\sexuality.json
+msgid "You are queer."
+msgstr ""
+
+#: .\traits\sexuality.json
+msgid "Sexuality: Asexual"
+msgstr ""
+
+#. ~ Description for {'str': 'Sexuality: Asexual'}
+#: .\traits\sexuality.json
+msgid "You are asexual (no sexual interest)."
+msgstr ""
+
+#: .\vehicleparts\tanks.json
+msgid "insulated potable water tank"
+msgstr ""
+
+#. ~ Description for {'str': 'insulated potable water tank'}
+#: .\vehicleparts\tanks.json
+msgid "Internal mount plastic tank. Keeps liquids liquid. Mostly"
+msgstr ""
+
+#: .\vehicles\large-work-light.json
+msgid "Large Work Light"
+msgstr ""
+
+#: .\vehicles\pickup-eb.json
+msgid "Extended Bed Pickup"
+msgstr ""
+
+#: .\vehicles\pickup-ec.json
+msgid "Extended Cab Pickup"
+msgstr ""
+
+#: .\vehicles\pickup-elec-basic.json
+msgid "Electric Pickup"
+msgstr ""
+
+#: .\vehicles\pickup-elec-gen.json
+msgid "Generator Pickup"
+msgstr ""
+
+#: .\vehicles\pickup-elec-up.json
+msgid "Electric Pickup ER"
+msgstr ""
+
+#: .\vehicles\small-work-light.json
+msgid "Small Work Light"
+msgstr ""

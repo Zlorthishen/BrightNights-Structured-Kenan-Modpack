@@ -1,0 +1,126 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: crazy_labs\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Crazy Labs"
+msgstr "瘋狂實驗室"
+
+#. ~ Description for Crazy Labs
+#: .\modinfo.json
+msgid ""
+"A mod that adds lots of tough monsters to lab monster gen. Now labs are "
+"endgame areas! Intended for players who find labs too easy or boring. "
+"Inspired by Half-Life and the labs in Resident Evil 2."
+msgstr ""
+"此模組為實驗室怪物生成添加了大量強力怪物。現在實驗室是終局區域！專為那些覺得實驗室太簡單或無聊的玩家設計。靈感來自《半條命》和《生化危機2》中的實驗室。"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Operating Theater Access Control"
+msgstr "手術室門禁控制"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY EVAC - OPEN ALL DOORS"
+msgstr "緊急疏散 - 打開所有門"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "UNLOCK AUTODOC DOOR"
+msgstr "解鎖自動醫療機門"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Centrifuge"
+msgstr "離心機"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Analyze blood"
+msgstr "分析血液"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json .\lab\lab_floorplans_1side.json
+msgid "Containment Control"
+msgstr "收容控制"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY CONTAINMENT UNLOCK"
+msgstr "緊急收容解鎖"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY CLEANSE"
+msgstr "緊急淨化"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Containment Terminal"
+msgstr "收容終端"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Mk IV Algorithmic Data Analyzer"
+msgstr "Mk IV 算法數據分析儀"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Run Decryption Algorithm"
+msgstr "運行解密算法"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Upload Data to Melchior"
+msgstr "上傳數據至梅爾基奧爾"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Access Melchior"
+msgstr "訪問梅爾基奧爾"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Library Entrance"
+msgstr "圖書館入口"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans_1side.json
+msgid "UNLOCK ENTRANCE"
+msgstr "解鎖入口"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Barracks Entrance"
+msgstr "兵營入口"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Magazine Entrance"
+msgstr "彈藥庫入口"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Prisoner Containment Entrance"
+msgstr "囚犯收容入口"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans_1side.json
+msgid "EMERGENCY CONTAINMENT RELEASE"
+msgstr "緊急收容釋放"

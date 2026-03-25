@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: water_towers\n"
+"POT-Creation-Date: 2026-03-14 07:31+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Water Towers"
+msgstr "水塔"
+
+#. ~ Description for Water Towers
+#: .\modinfo.json
+msgid "Adds empty water towers.  Underground tank connects to subway tunnels."
+msgstr "添加空置水塔。地下儲罐連接至地鐵隧道。"
+
+#: .\overmap_terrain.json
+msgid "water_tower"
+msgstr "水塔"
+
+#: .\start_locations.json
+msgid "Water Tower"
+msgstr "水塔"
+
+#: .\terrain.json
+msgid "metal floor"
+msgstr "金屬地板"
+
+#. ~ Description for metal floor
+#: .\terrain.json
+msgid ""
+"High-quality and tough checkered flooring to reduce risk of slips and falls."
+msgstr "高品質耐用的方格地板，可降低滑倒和跌倒的風險。"
+
+#: .\terrain.json
+msgid "thump"
+msgstr "重擊"

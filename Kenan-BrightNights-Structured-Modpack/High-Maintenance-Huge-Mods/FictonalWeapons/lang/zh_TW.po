@@ -1,0 +1,279 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: FIC_Weapons\n"
+"POT-Creation-Date: 2026-03-14 05:24+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\fic_mods.json
+msgid "Flaregun conversion kit"
+msgid_plural "Flaregun conversion kits"
+msgstr[0] "信號槍轉換套件"
+
+#: .\fic_mods.json
+msgid ""
+"Replacing several key parts flaregun to convert it to a .40 firearm.  The "
+"conversion results in reduced accuracy and increased recoil."
+msgstr "替換信號槍的幾個關鍵部件，將其改裝為.40口徑槍械。改裝會導致精度下降和後坐力增加。"
+
+#: .\fic_mods.json
+msgid "accessories"
+msgstr "配件"
+
+#: .\fic_mods.json
+msgid "integral flamethrower"
+msgid_plural "integral flamethrowers"
+msgstr[0] "內置火焰噴射器"
+
+#: .\fic_mods.json
+msgid ""
+"This genuine Herostratus flamethrower is ideal for light brush clearing and "
+"self-defense."
+msgstr "這款正宗的赫羅斯特拉圖斯火焰噴射器是清理灌木叢和自衛的理想選擇。"
+
+#: .\fic_mods.json
+msgid "underbarrel"
+msgstr "下掛式"
+
+#: .\fic_mods.json
+msgid "E.M.A.S."
+msgid_plural "E.M.A.S.s"
+msgstr[0] "E.M.A.S."
+
+#: .\fic_mods.json
+msgid ""
+"ElectroMagnetic Acceleration System is an array of electromagnets attached "
+"to the front of the barrel, accelerating any projectile fired to even higher"
+" velocities, increasing damage, recoil and reducing accuracy.  It does "
+"however drain UPS charges when firing and due to extensive modifications the"
+" gun can no longer operate without a UPS."
+msgstr ""
+"電磁加速系統是一組安裝在槍管前端的電磁鐵，能將發射的任何彈丸加速到更高速度，從而增加傷害和後坐力，但會降低精度。不過，射擊時會消耗UPS電量，且由於大量改裝，這把槍在沒有UPS的情況下無法再使用。"
+
+#: .\fic_mods.json
+msgid "barrel"
+msgstr "槍管"
+
+#: .\fic_weapons.json
+msgid "Rico 454"
+msgid_plural "Rico 454s"
+msgstr[0] "里科454"
+
+#: .\fic_weapons.json
+msgid ""
+"Handmade by a master gunsmith, this deadly accurate and powerful pistol "
+"packs a punch with precision, power and flair.  Comes with a one of a kind "
+"integrated 40mm IGL."
+msgstr "由槍械大師手工製作，這把致命精準且威力強大的手槍集精準、威力和風格於一身。配有獨一無二的內置40毫米單兵榴彈發射器。"
+
+#: .\fic_weapons.json
+msgid "Boomlighter 454"
+msgid_plural "Boomlighter 454s"
+msgstr[0] "爆裂者454"
+
+#: .\fic_weapons.json
+msgid ""
+"Handmade by master gunsmiths at D&B Minneapolis, this deadly accurate and "
+"powerful pistol packs a punch with precision, power and flair.  Comes with a"
+" one of a kind integrated flamethrower."
+msgstr "由明尼阿波利斯D&B的槍械大師手工製作，這把致命精準且威力強大的手槍集精準、威力和風格於一身。配有獨一無二的內置火焰噴射器。"
+
+#: .\fic_weapons.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr "手槍"
+
+#: .\fic_weapons.json
+msgid "gunsword"
+msgid_plural "gunswords"
+msgstr[0] "槍刃"
+
+#: .\fic_weapons.json
+msgid ""
+"A long sharp blade, with two powerful .500 S&W Magnum chambers in the hilt."
+"  While chambering big rounds, the barrels are so short it slightly reduces "
+"outgoing damage."
+msgstr "一把長而鋒利的刀刃，刀柄內有兩個強大的.500 S&W馬格南彈膛。雖然裝填大口徑彈藥，但槍管過短，略微降低了輸出傷害。"
+
+#: .\fic_weapons.json
+msgid "gunknife"
+msgid_plural "gunknives"
+msgstr[0] "槍刃匕首"
+
+#: .\fic_weapons.json
+msgid ""
+"A short but sharp blade, with two powerful .500 S&W Magnum chambers in the "
+"grip.  While chambering big rounds, the barrels are so short it slightly "
+"reduces outgoing damage."
+msgstr "一把短而鋒利的刀刃，握柄內有兩個強大的.500 S&W馬格南彈膛。雖然裝填大口徑彈藥，但槍管過短，略微降低了輸出傷害。"
+
+#: .\fic_weapons.json
+msgid "FiveO handcannon"
+msgid_plural "FiveO handcannons"
+msgstr[0] "FiveO手持火炮"
+
+#: .\fic_weapons.json
+msgid ""
+"Someone crazy thought that the .50 BMG belonged in a pistol.  This massive "
+"piece of steel proves otherwise.  The sheer bulk however does make it quite "
+"adept at smashing face."
+msgstr "某個瘋子認為.50 BMG應該用在手槍上。這塊巨大的鋼鐵證明了相反的觀點。然而，其龐大的體積確實使其相當擅長砸臉。"
+
+#: .\fic_weapons.json
+msgid "H&K MP5A5 EOD"
+msgid_plural "H&K MP5A5 EODs"
+msgstr[0] "H&K MP5A5 EOD"
+
+#: .\fic_weapons.json
+msgid ""
+"The Heckler & Koch MP5 is one of the most widely-used submachine guns in the"
+" world, and has been adopted by special police forces and militaries alike."
+"  This one has been modified with an integrated grenade launcher allowing "
+"you to survive the end of days."
+msgstr "黑克勒&科赫MP5是世界上使用最廣泛的衝鋒槍之一，已被特種警察部隊和軍隊採用。這支經過改裝，配有內置榴彈發射器，讓你能在末日中生存下來。"
+
+#: .\fic_weapons.json
+msgid "semi-auto"
+msgstr "半自動"
+
+#: .\fic_weapons.json
+msgid "3 rd."
+msgstr "3 發"
+
+#: .\fic_weapons.json
+msgid "auto"
+msgstr "自動"
+
+#: .\fic_weapons.json
+msgid "Eagle 1776"
+msgid_plural "Eagle 1776"
+msgstr[0] "雄鷹1776"
+
+#: .\fic_weapons.json
+msgid ""
+"You see before you a marvel of American engineering: a powerful .44 Magnum "
+"submachine gun, made from fine parts assembled in America, including an "
+"integral grenade launcher.  Eagle 1776: From the arsenal of freedom!"
+msgstr "你眼前的是美國工程學的奇蹟：一把強大的.44馬格南衝鋒槍，由美國組裝的優質零件製成，包括一個內置榴彈發射器。雄鷹1776：來自自由武庫！"
+
+#: .\fic_weapons.json
+msgctxt "gun_type_type"
+msgid "smg"
+msgstr "衝鋒槍"
+
+#: .\fic_weapons.json
+msgid "L.T.  carbine"
+msgid_plural "L.T.  carbines"
+msgstr[0] "L.T.卡賓槍"
+
+#: .\fic_weapons.json
+msgid ""
+"The Lightning Trail carbine was developed for the riot police to quickly "
+"blanket an area with lightning clouds.  While damaging, it is less lethal "
+"than live ammunition."
+msgstr "閃電軌跡卡賓槍是為防暴警察開發的，能快速用閃電雲覆蓋一個區域。雖然具有殺傷力，但比實彈的致命性低。"
+
+#: .\fic_weapons.json
+msgid "arc cannon"
+msgid_plural "arc cannons"
+msgstr[0] "電弧炮"
+
+#: .\fic_weapons.json
+msgid ""
+"The arc cannon fires bolts of lightning arcing between targets in close "
+"proximity to each other.  Originally manufactured to fry insects, now it’s "
+"been tuned up to fry zombies."
+msgstr "電弧炮發射閃電束，在彼此靠近的目標之間形成電弧。最初製造用於電擊昆蟲，現在經過調整，用於電擊殭屍。"
+
+#: .\fic_weapons.json
+msgid "M1911 DS"
+msgid_plural "M1911 DSs"
+msgstr[0] "M1911 DS"
+
+#: .\fic_weapons.json
+msgid ""
+"The M1911 Darkstalker is a very modified M1911, it has a fully integrated "
+"crossbow and added rails.  Professional looking with a ebony black finish, "
+"laced with lime green details.  Now they will know why they fear the night."
+"  Bat hood sold separately."
+msgstr ""
+"M1911暗夜潛行者是一把經過大量改裝的M1911，擁有完全集成的弩和附加導軌。外觀專業，烏木黑色飾面，點綴著青檸綠色細節。現在他們將知道為何畏懼黑夜。蝙蝠兜帽需單獨購買。"
+
+#: .\ficmags.json
+msgid ".454 6-round speedloader"
+msgid_plural ".454 6-round speedloaders"
+msgstr[0] ".454 6發快速裝彈器"
+
+#. ~ Description for {'str': '.454 6-round speedloader'}
+#: .\ficmags.json
+msgid ""
+"This speedloader can hold 6 rounds of .454 and quickly reload a compatible "
+"revolver."
+msgstr "這個快速裝彈器可容納6發.454子彈，並能快速裝填兼容的左輪手槍。"
+
+#: .\ficmags.json
+msgid ".454 8-round speedloader"
+msgid_plural ".454 8-round speedloaders"
+msgstr[0] ".454 8發快速裝彈器"
+
+#. ~ Description for {'str': '.454 8-round speedloader'}
+#: .\ficmags.json
+msgid ""
+"This speedloader can hold 8 rounds of .454 and quickly reload a compatible "
+"revolver."
+msgstr "這個快速裝彈器可容納8發.454子彈，並能快速裝填兼容的左輪手槍。"
+
+#: .\ficmags.json
+msgid "Eagle 1776 magazine"
+msgid_plural "Eagle 1776 magazines"
+msgstr[0] "Eagle 1776 彈匣"
+
+#. ~ Description for {'str': 'Eagle 1776 magazine'}
+#: .\ficmags.json
+msgid ""
+"An american-made box magazine, designed to deliver 24 .44 Magnum cartridges "
+"to the Eagle 1776."
+msgstr "一款美國製造的盒式彈匣，設計用於為 Eagle 1776 提供 24 發 .44 馬格南子彈。"
+
+#: .\modinfo.json
+msgid "DeadLeaves' Fictional Guns"
+msgstr "DeadLeaves 的虛構槍械"
+
+#. ~ Description for DeadLeaves' Fictional Guns
+#: .\modinfo.json
+msgid "Adds a bunch of rare, fictional weapons."
+msgstr "添加了一批稀有的虛構武器。"
+
+#: .\snippets.json
+msgid "\"Gun.  Sword.  Gunsword.  Screw bayonets, this is way more awesome.\""
+msgstr "\"槍。劍。槍劍。去他的刺刀，這玩意兒酷多了。\""
+
+#: .\snippets.json
+msgid ""
+"\"Not sure if wielding this thing makes me feel like a bodybuilder or a "
+"theoretical physicist.  Both?\""
+msgstr "\"不確定揮舞這東西是讓我感覺像個健美運動員還是理論物理學家。或許兩者都是？\""
+
+#: .\snippets.json
+msgid "\"This ain't your grandaddy's .50 cal hand cannon!\""
+msgstr "\"這可不是你爺爺那輩的 .50 口徑手炮！\""
+
+#: .\snippets.json
+msgid "\"Nice pistol!  Which trigger fires the flamer?\""
+msgstr "\"好手槍！哪個扳機是發射火焰噴射器的？\""
+
+#: .\snippets.json
+msgid "\"Why in the name of fuck did I slap a crossbow on this handgun.\""
+msgstr "\"我他媽到底為啥要把弩裝在這把手槍上。\""

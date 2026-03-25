@@ -1,0 +1,4227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "<color_light_red>Secronom+ Lore Expansion</color>"
+msgstr ""
+
+#. ~ Description for <color_light_red>Secronom+ Lore Expansion</color>
+#: .\modinfo.json
+msgid "<color_cyan>An expansion mod for secronom.</color>"
+msgstr ""
+
+#: .\Modification Files\Items\secro_BOWs.json
+msgid "bio-organic sword"
+msgid_plural "bio-organic swords"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bio-organic sword'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting "
+"of membranous vein webbings."
+msgstr ""
+
+#: .\Modification Files\Items\secro_BOWs.json
+msgid "bio-organic sword<color_light_green>+</color>"
+msgid_plural "bio-organic swords<color_light_green>+</color>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bio-organic sword<color_light_green>+</color>',
+#. 'str_pl': 'bio-organic swords<color_light_green>+</color>'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting of membranous vein webbings.\n"
+"\n"
+"It has <color_light_green>core</color> (blade zombie) in its mod slot, providing:\n"
+"<color_white>Cutting damage: <color_light_green>+30%</color></color>"
+msgstr ""
+
+#. ~ Description for {'str': 'bio-organic sword<color_light_green>+</color>',
+#. 'str_pl': 'bio-organic swords<color_light_green>+</color>'}
+#: .\Modification Files\Items\secro_BOWs.json
+msgid ""
+"A large bio-organic weapon with a sharp, calcified edge and hilt consisting of membranous vein webbings.\n"
+"\n"
+"It has <color_light_green>core</color> (tendril zombie) in its mod slot, providing:\n"
+"<color_white>* Bonus on-hit attacks.</color>"
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+#: Files\Items\-Essentials\secro_ammo_types.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh"
+msgid_plural "flesh"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flesh', 'str_pl': 'flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A throbbing, seemingly alive slab of meat. Not edible for you to eat, but it"
+" is a necessary catalyst for flesh weaving and as a \"fuel\" for bio-"
+"organics."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "chunk of flesh"
+msgid_plural "chunk of flesh"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chunk of flesh', 'str_pl': 'chunk of flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A big throbbing, seemingly alive slab of meat. Not edible for you to eat, "
+"but it is a necessary catalyst for flesh weaving and as a \"fuel\" for bio-"
+"organics."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "<color_light_blue>gunner creation</color> - bone needle"
+msgid_plural "<color_light_blue>gunner creation</color> - bone needles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_blue>gunner creation</color> - bone
+#. needle'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"Formed using the flesh's versatile cell reconstruction. This bio-organic "
+"needle is tipped with a sharp end that can easily pierce through flesh and "
+"mildly-armoured targets."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "flesh pouch"
+msgid_plural "flesh pouchs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flesh pouch'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A small orifice with small residue for storage. Usually located on small "
+"bio-organic devices."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "flesh residue"
+msgid_plural "flesh residues"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'flesh residue'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A some sort of pouched orifice that consumes a special type of flesh. "
+"Unifies permanently to a flesh vessel."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "massive flesh residue"
+msgid_plural "massive flesh residues"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'massive flesh residue'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A massive pouched orifice that consumes a special type of flesh. Unifies "
+"permanently to a certain flesh vessel."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "Secronom module UPS"
+msgid_plural "Secronom module UPS"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Secronom module UPS', 'str_pl': 'Secronom module
+#. UPS'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A UPS with an extremely high-capacity battery specially designed to be used "
+"for all Secronom module implant types."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "SP experimental battery"
+msgid_plural "SP experimental batteries"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'SP experimental battery', 'str_pl': 'SP
+#. experimental batteries'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"A light, but high-capacity battery cell, for use with certain power armor "
+"modules."
+msgstr ""
+
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid "overcharged lump of flesh"
+msgid_plural "overcharged lump of fleshs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'overcharged lump of flesh'}
+#: .\Modification Files\Items\secro_ammo_mags.json
+msgid ""
+"This large lump of organic material stores incredibly high amount of energy "
+"produced by an artificial flesh core. Mainly used to power up a certain mech"
+" suit."
+msgstr ""
+
+#: .\Modification Files\Items\secro_books.json
+msgid "Secronom Project \"Flesh\": Research Results"
+msgid_plural "copies of Secronom Project \"Flesh\": Research Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Secronom Project "Flesh": Research Results',
+#. 'str_pl': 'copies of Secronom Project "Flesh": Research Results'}
+#: .\Modification Files\Items\secro_books.json
+msgid ""
+"This binder of highly technical papers describe the recent findings to "
+"multiple tests involving the flesh.  It's stamped \"APPROVED\"…"
+msgstr ""
+
+#: .\Modification Files\Items\secro_books.json
+msgid "Secronom Project \"Flesh\": Field Research"
+msgid_plural "copies of Secronom Project \"Flesh\": Field Research"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Secronom Project "Flesh": Field Research',
+#. 'str_pl': 'copies of Secronom Project "Flesh": Field Research'}
+#: .\Modification Files\Items\secro_books.json
+msgid ""
+"This binder of highly technical papers describe the wearer's protocol in "
+"wearing the bio-organic power armor, with a simple demonstration in forming "
+"its \"food\"."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json Files\Items\secro_corpses.json
+msgid "inactive laser beam turret"
+msgid_plural "inactive laser beam turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'inactive laser beam turret'}.
+#: .\Modification Files\Items\secro_bots.json
+msgid "The SPD-L1 emits a beeping sound, then scans the vicinity..."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'inactive laser beam turret'}.
+#: .\Modification Files\Items\secro_bots.json
+msgid "Oh no..."
+msgstr ""
+
+#. ~ Description for {'str': 'inactive laser beam turret'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "An inactive SDP-L1 turret. Use to place it."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken reinforcer bot"
+msgid_plural "broken reinforcer bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken reinforcer bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A reinforcer bot broken beyond repair. Can be gutted for parts."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken shocker bot"
+msgid_plural "broken shocker bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken shocker bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A shocker bot broken beyond repair. Can be gutted for parts."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken walker bot"
+msgid_plural "broken walker bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken walker bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A walker bot broken beyond repair. Can be gutted for parts."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken launcher bot"
+msgid_plural "broken launcher bots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken launcher bot'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "A launcher bot broken beyond repair. Can be gutted for parts."
+msgstr ""
+
+#: .\Modification Files\Items\secro_bots.json
+msgid "broken flesh mech"
+msgid_plural "broken flesh mechs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'broken flesh mech'}
+#: .\Modification Files\Items\secro_bots.json
+msgid "This is a broken flesh exoskeleton suit, it looks beyond repair."
+msgstr ""
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken laser beam turret"
+msgid_plural "broken laser beam turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken electroshock turret"
+msgid_plural "broken electroshock turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_corpses.json
+msgid "broken gaviton turret"
+msgid_plural "broken gaviton turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'inactive laser beam turret'}
+#: .\Modification Files\Items\secro_corpses.json
+msgid ""
+"An inactive turret. It needs to be recharged in order to be used again, or "
+"could be gutted for parts."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "bio-organic splicer"
+msgid_plural "bio-organic splicers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bio-organic splicer'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A disk-shaped bio-organic device used in DNA extraction suitable on living "
+"(or undead) subjects."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (blade zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (blade zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (blade zombie)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (blade zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a blade zombie."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (lying body)"
+msgid_plural "<color_red>spliced DNAs</color> (lying body)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (lying body)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (lying body)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a lying body."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (mouthswell zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (mouthswell zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (mouthswell
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (mouthswell zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A chunk of flesh infused with the genetic structure of a mouthswell zombie."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (tendril zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (tendril zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (tendril
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (tendril zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A chunk of flesh infused with the genetic structure of a tendril zombie."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (titan)"
+msgid_plural "<color_red>spliced DNAs</color> (titan)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (titan)',
+#. 'str_pl': '<color_red>spliced DNAs</color> (titan)'}
+#. ~ Description for {'str': '<color_red>spliced DNA</color> (unifier
+#. zombie)', 'str_pl': '<color_red>spliced DNAs</color> (unifier zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "A chunk of flesh infused with the genetic structure of a titan."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_red>spliced DNA</color> (unifier zombie)"
+msgid_plural "<color_red>spliced DNAs</color> (unifier zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (blade zombie)"
+msgid_plural "<color_light_green>cores</color> (blade zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (blade zombie)',
+#. 'str_pl': '<color_light_green>cores</color> (blade zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a blade zombie. Contains a potent DNA suitable"
+" for replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (lying body)"
+msgid_plural "<color_light_green>cores</color> (lying body)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (lying body)',
+#. 'str_pl': '<color_light_green>cores</color> (lying body)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a lying body. Contains a potent DNA suitable "
+"for replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (mouthswell zombie)"
+msgid_plural "<color_light_green>cores</color> (mouthswell zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (mouthswell
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (mouthswell zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a mouthswell zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (tendril zombie)"
+msgid_plural "<color_light_green>cores</color> (tendril zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (tendril
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (tendril zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a tendril zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (titan)"
+msgid_plural "<color_light_green>cores</color> (titan)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (titan)',
+#. 'str_pl': '<color_light_green>cores</color> (titan)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a titan. Contains a potent DNA suitable for "
+"replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid "<color_light_green>core</color> (unifier zombie)"
+msgid_plural "<color_light_green>cores</color> (unifier zombie)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>core</color> (unifier
+#. zombie)', 'str_pl': '<color_light_green>cores</color> (unifier zombie)'}
+#: .\Modification Files\Items\secro_dna_cc.json
+msgid ""
+"A heavily compressed flesh of a unifier zombie. Contains a potent DNA "
+"suitable for replication."
+msgstr ""
+
+#: .\Modification Files\Items\secro_flesh.json
+msgid "bio-organic flesh"
+msgid_plural "bio-organic fleshs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bio-organic flesh'}
+#: .\Modification Files\Items\secro_flesh.json
+msgid ""
+"A chunk of heavily compressed flesh. Rubbery yet stiff, its toughness is "
+"compared to that of kevlar."
+msgstr ""
+
+#: .\Modification Files\Items\secro_flesh.json
+msgid "molten flesh vessel"
+msgid_plural "molten flesh vessels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'molten flesh vessel'}
+#: .\Modification Files\Items\secro_flesh.json
+msgid ""
+"A bio-organic exoskeleton turned into a mish-mash of flesh and bones. "
+"Completely unusable in its form."
+msgstr ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh bed"
+msgid_plural "<color_pink>[MARK]</color> flesh beds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh bed'}
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+msgid ""
+"Activate to set a mark and the hivemind will build the furniture on that "
+"spot. Marked spot must be near the hivemind's core."
+msgstr ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> floor residue"
+msgid_plural "<color_pink>[MARK]</color> floor residues"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_pink>[MARK]</color> floor residue'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> residue'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh rack'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> flesh container'}
+#. ~ Description for {'str': '<color_pink>[MARK]</color> bioluminescent wart'}
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+msgid ""
+"Activate to set a mark and the flesh will build the furniture on that spot. "
+"Marked spot must be near the hivemind's core."
+msgstr ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> residue"
+msgid_plural "<color_pink>[MARK]</color> residues"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh rack"
+msgid_plural "<color_pink>[MARK]</color> flesh racks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> flesh container"
+msgid_plural "<color_pink>[MARK]</color> flesh containers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_fleshcamp_marks.json
+#: Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid "<color_pink>[MARK]</color> bioluminescent wart"
+msgid_plural "<color_pink>[MARK]</color> bioluminescent warts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\secro_key.json
+msgid "There's no available card readers here."
+msgstr ""
+
+#: .\Modification Files\Items\secro_key.json
+msgid "The door has opened."
+msgstr ""
+
+#: .\Modification Files\Items\secro_key.json
+msgid "Identify"
+msgstr ""
+
+#. ~ Description for {'str': 'Identify'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"Item is swapped to the door's card reader. If successful, opens specific "
+"doors."
+msgstr ""
+
+#: .\Modification Files\Items\secro_key.json
+msgid "Secronom ID card"
+msgid_plural "Secronom ID cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Secronom ID card'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"This ID card once belonged to a secronom researcher. One side shows the "
+"information about the owner, the other describes the use for it. \"Level 2 "
+"clearance\"."
+msgstr ""
+
+#. ~ Description for {'str': 'Secronom ID card'}
+#: .\Modification Files\Items\secro_key.json
+msgid ""
+"This ID card once belonged to a secronom researcher. One side shows the "
+"information about the owner, the other describes the use for it. \"Level 1 "
+"clearance\"."
+msgstr ""
+
+#: .\Modification Files\Items\secro_tools.json
+msgid "SP - flesh injector"
+msgid_plural "SP - flesh injectors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for SP - flesh injector
+#: .\Modification Files\Items\secro_tools.json
+msgid ""
+"An experimental, syringe-like device. Labeled with \"Secronom Project\", it "
+"is used to forcefully feed a flesh vessel."
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_ammo_types.json
+msgid "bone needle"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_clothing_mods.json
+msgid "Coat in bio-organic flesh"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_clothing_mods.json
+msgid "Tear down bio-organic flesh"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "MUTATION CORES"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "AMALGAMS"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "AMALGAM COMMANDS"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "DNAs"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_categories.json
+msgid "CORES"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "blood acid splatter"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "blood acid streak"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "pool of blood acid"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json Files\Others\secro_mutation_magic.json
+msgid "a spell"
+msgstr ""
+
+#. ~ Description for {'str': 'a spell'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid ""
+"Target spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Caster locks its line of sight onto the target, then casts the Spell(s).'"
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'a spell'}'
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#, c-format
+msgid ""
+"<color_dark_gray>The bio-organic splicer's tentacles start to writhe violently...\n"
+"<color_light_green>The bio-organic splicer rakes %3$s!"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid "Scan"
+msgstr ""
+
+#. ~ Description for {'str': 'Scan'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Item scans the target...'"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\NPCs\secro_mission_items.json
+msgid "Collect"
+msgstr ""
+
+#. ~ Description for {'str': 'Collect'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Provides the specific DNA.'"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "Sweep"
+msgstr ""
+
+#. ~ Description for {'str': 'Sweep'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon unleashes several tendrils, swinging wildly into the vicinity that deals bashing damage.'"
+msgstr ""
+
+#. ~ Description for {'str': 'a spell'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\Others\secro_mutation_magic.json
+msgid ""
+"Target spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Caster locks its line of sight onto the target, then randomly casts one of the Spell(s).'"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+#: Files\Others\secro_techniques.json
+msgid "Slam"
+msgstr ""
+
+#. ~ Description for {'str': 'Slam'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon's tendrils compresses, then slams into the target, dealing bashing damage and applying stun.'"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid "Thrust"
+msgstr ""
+
+#. ~ Description for {'str': 'Thrust'}
+#: .\Modification Files\Items\-Essentials\secro_item_magic.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'The modded weapon's tendrils thrust at the target, dealing stabbing damage and applying stun.'"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_item_qualities.json
+#: Files\Others\secro_skills.json
+msgid "flesh weaving"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "Bio-organic Flesh"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "bruised"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "sliced"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "mutilated"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "badly mutilated"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "thoroughly mutilated"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_mat.json
+msgid "Artificial Flesh"
+msgstr ""
+
+#: .\Modification Files\Items\-Essentials\secro_qualities.json
+msgid "flesh infusion"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ammo pouch"
+msgid_plural "ammo pouches"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ammo pouch', 'str_pl': 'ammo pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A small pouch that can be used to store most types of small ammunition; "
+"rockets, however, will not fit.  Use insert to store ammunition."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ammo satchel"
+msgid_plural "ammo satchels"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for {'str': 'ammo satchel'}.
+#. ~ Use action holster_msg for {'str': 'chest ammo pouch', 'str_pl': 'chest
+#. ammo pouches'}.
+#. ~ Use action holster_msg for {'str': 'chest rig'}.
+#. ~ Use action holster_msg for {'str': 'javelin bag'}.
+#. ~ Use action holster_msg for {'str': 'ankle ammo pouch', 'str_pl': 'ankle
+#. ammo pouches'}.
+#. ~ Use action holster_msg for {'str': 'leg ammo pouch', 'str_pl': 'leg ammo
+#. pouches'}.
+#. ~ Use action holster_msg for {'str': 'tac vest'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "You stash your %s."
+msgstr ""
+
+#. ~ Use action holster_prompt for {'str': 'ammo satchel'}.
+#. ~ Use action holster_prompt for {'str': 'chest ammo pouch', 'str_pl':
+#. 'chest ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'chest rig'}.
+#. ~ Use action holster_prompt for {'str': 'ankle ammo pouch', 'str_pl':
+#. 'ankle ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'leg ammo pouch', 'str_pl': 'leg
+#. ammo pouches'}.
+#. ~ Use action holster_prompt for {'str': 'tac vest'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "Stash ammo"
+msgstr ""
+
+#. ~ Description for {'str': 'ammo satchel'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo bag worn at the waist.  It is capable of holding a single "
+"large magazine or speedloader close at hand."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "chest ammo pouch"
+msgid_plural "chest ammo pouches"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chest ammo pouch', 'str_pl': 'chest ammo
+#. pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo pouch that can be strapped to your chest and hold a single "
+"magazine or speedloader close at hand."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "chest rig"
+msgid_plural "chest rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'chest rig'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"Popularized during the Vietnam War, chest rigs like these are typically "
+"plain, barebones affairs consisting of three or more pouches in a row, with "
+"straps to secure them on your chest.  This one can hold four magazines or "
+"speedloaders in its pouches."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "XL chest rig"
+msgid_plural "XL chest rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XL chest rig'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"Popularized during the Vietnam War, chest rigs like these are typically "
+"plain, barebones affairs consisting of three or more pouches in a row, with "
+"straps to secure them on your chest.  This one can hold four magazines or "
+"speedloaders in its pouches and fits larger-than-human forms."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "javelin bag"
+msgid_plural "javelin bags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_prompt for {'str': 'javelin bag'}.
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "Stash javelins"
+msgstr ""
+
+#. ~ Description for {'str': 'javelin bag'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"An open medieval-looking bag, designed to store javelins within easy reach."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "ankle ammo pouch"
+msgid_plural "ankle ammo pouches"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ankle ammo pouch', 'str_pl': 'ankle ammo
+#. pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A small fleshy ammo pouch that can be strapped to your ankle and hold a "
+"single small magazine or speedloader close at hand."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "leg ammo pouch"
+msgid_plural "leg ammo pouches"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'leg ammo pouch', 'str_pl': 'leg ammo pouches'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy ammo pouch that can be strapped to your leg and hold two magazines "
+"or speedloaders close at hand."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "quiver"
+msgid_plural "quivers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'quiver'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A fleshy quiver worn at the waist that can hold 20 arrows or bolts.  Use "
+"insert to store arrows or bolts."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "large quiver"
+msgid_plural "large quivers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'large quiver'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"A large fleshy quiver worn on the back, that can hold 60 arrows or bolts.  "
+"Historically used by horse archers, rather than foot archers, but neither of"
+" THEM had to fight zombies.  Use insert to store arrows or bolts."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "tac vest"
+msgid_plural "tac vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tac vest'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"This light vest is meant to carry your gear and ammunition comfortably "
+"distributed about your torso.  They are popular amongst law enforcement, but"
+" less so than combination tactical vests incorporating Kevlar.  Lightweight "
+"and easy to don, this vest can hold four magazines close at hand in its many"
+" pouches."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid "XL tac vest"
+msgid_plural "XL tac vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XL tac vest'}
+#: .\Modification Files\Items\Armors\secro_ammo_pouch.json
+msgid ""
+"This light vest is meant to carry your gear and ammunition comfortably "
+"distributed about your torso.  They are popular amongst law enforcement, but"
+" less so than combination tactical vests incorporating Kevlar.  Oversized "
+"and easy to don, this vest can hold four magazines close at hand in its many"
+" pouches."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_cloak.json
+msgid "cloak"
+msgid_plural "cloaks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'cloak'}
+#: .\Modification Files\Items\Armors\secro_cloak.json
+msgid "A heavy cloak meant to be thrown over your body."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "back holster"
+msgid_plural "back holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'back holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A holster, big enough for a rifle or other large gun.  Designed to be "
+"strapped to the back.  Whilst initially cumbersome it becomes much easier to"
+" use with practice.  Activate to holster/draw a gun."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "baldric holster"
+msgid_plural "baldric holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'baldric holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A harness which can hold up to six pistol-sized guns in total, available for"
+" quick drawing.  Historically similar harnesses were used by pirates to "
+"carry multiple loaded flintlock pistols at once, as reloading them is a "
+"lengthy process.  Activate to holster/draw a gun."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "ankle holster"
+msgid_plural "ankle holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ankle holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A small concealed holster worn on the ankle.  It is awkward to use without "
+"practice.  Activate to holster/draw a small pistol."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "holster"
+msgid_plural "holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A fleshy strap worn on the hip for holding pistol sized guns.  Activate to "
+"holster/draw a gun."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "survivor harness"
+msgid_plural "survivor harnesses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'survivor harness', 'str_pl': 'survivor
+#. harnesses'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A custom-built light harness covered with pouches and including an integral "
+"tactical sling for a small rifle or other such weapon.  Durable and "
+"carefully crafted to be comfortable to wear.  Activate to holster/draw your "
+"weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "XL survivor harness"
+msgid_plural "XL survivor harnesses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XL survivor harness', 'str_pl': 'XL survivor
+#. harnesses'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A custom-built light harness covered with pouches and including an integral "
+"tactical sling for a small rifle or other such weapon.  Durable and "
+"carefully crafted to be comfortable to wear and fitting the largest forms.  "
+"Activate to holster/draw your weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid "XL holster"
+msgid_plural "XL holsters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'XL holster'}
+#: .\Modification Files\Items\Armors\secro_holster.json
+msgid ""
+"A belt holster consisting of a loop and strap intended for use with larger "
+"firearms.  Slightly more cumbersome than a standard holster due to the "
+"straps that hold it flat against your leg, Activate to holster/draw a gun."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - bone blades"
+msgid_plural "<color_light_red>fighter armament</color> - bone blades"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> - bone
+#. blades', 'str_pl': '<color_light_red>fighter armament</color> - bone
+#. blades'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Protruding on your joints are sharp and deadly curved blades composed of "
+"flesh and bones."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - twisted veins"
+msgid_plural "<color_light_red>fighter armament</color> - twisted veins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. twisted veins', 'str_pl': '<color_light_red>fighter armament</color> -
+#. twisted veins'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Your hands have bursted into several slender tentacle outgrowths, each "
+"tipped with a barbed stinger."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - fleshpound"
+msgid_plural "<color_light_red>fighter armament</color> - fleshpounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. fleshpound'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"With compact mass of flesh covering your arms, every whack packs a wallop!"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_red>fighter armament</color> - jawed biters"
+msgid_plural "<color_light_red>fighter armament</color> - jawed biters"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_red>fighter armament</color> -
+#. jawed biters', 'str_pl': '<color_light_red>fighter armament</color> - jawed
+#. biters'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Large gaping orifices emerge from both of your hands, eager to nibble on "
+"anything."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_yellow>juggernaut armament</color> - meat shield"
+msgid_plural "<color_yellow>juggernaut armament</color> - meat shield"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_yellow>juggernaut armament</color> - meat
+#. shield', 'str_pl': '<color_yellow>juggernaut armament</color> - meat
+#. shield'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Your hands have fused together to form a meaty shield. It significantly hampers your movement, but has great blocking ability.\n"
+"\n"
+"<color_yellow>Juggernaut armament</color> - meat shield provides:\n"
+"<color_white>Speed: <color_red>-50%</color>\n"
+"<color_white>Damage Reduction (physical): <color_light_green>-5</color></color>"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - spitter"
+msgid_plural "<color_light_blue>gunner armament</color> - spitters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"An acid-spitting elongated proboscis-like limb that morphs and protrudes "
+"from one's shoulder. Consumes flesh to produce globs of blood acid."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+#: Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+#: Files\Monsters\-Essentials\secro_mech_weapons.json
+msgctxt "gun_type_type"
+msgid "secro_flesh_combat"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "nothing to see here."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - bone lancer"
+msgid_plural "<color_light_blue>gunner armament</color> - bone lancers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"One of your arms have swollen into a mass of flesh, with half of its "
+"proportion imitates that of a gun barrel. If fed, lines of strangely-shaped "
+"teeth will grow from it and these can be launched with great power."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "<color_light_blue>gunner armament</color> - bone lancer (alternative)"
+msgid_plural ""
+"<color_light_blue>gunner armament</color> - bone lancer (alternative)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"This is the other side of your arm. You can switch to this side to reload "
+"and have it process the flesh for later use."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "alternate"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgctxt "gun_type_type"
+msgid "secro_power_armor_flesh_morphed_gun_bonelance"
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid "bioluminescent frond"
+msgid_plural "bioluminescent fronds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'bioluminescent frond'}
+#: .\Modification Files\Items\Armors\secro_power_armor_armaments.json
+msgid ""
+"Protruding from your shoulders are small, oddly-shaped and short-lived frond"
+" emitting strong light. Can be detached."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "baldric"
+msgid_plural "baldrics"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for {'str': 'baldric'}.
+#. ~ Use action holster_msg for {'str': 'ankle sheath'}.
+#. ~ Use action holster_msg for {'str': 'back scabbard'}.
+#. ~ Use action holster_msg for {'str': 'scabbard'}.
+#. ~ Use action holster_msg for {'str': 'sheath', 'str_pl': 'sheathes'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "You sheath your %s"
+msgstr ""
+
+#. ~ Use action holster_prompt for {'str': 'baldric'}.
+#. ~ Use action holster_prompt for {'str': 'back scabbard'}.
+#. ~ Use action holster_prompt for {'str': 'scabbard'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Sheath sword"
+msgstr ""
+
+#. ~ Description for {'str': 'baldric'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy scabbard, big enough for anything up to a longsword, or even a bit "
+"larger than that.  Designed to be worn at the waist, secured by a shoulder "
+"belt.  Activate to sheath/draw a sword."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "ankle sheath"
+msgid_plural "ankle sheaths"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_prompt for {'str': 'ankle sheath'}.
+#. ~ Use action holster_prompt for {'str': 'sheath', 'str_pl': 'sheathes'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Sheath knife"
+msgstr ""
+
+#. ~ Description for {'str': 'ankle sheath'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A small concealed knife sheath worn on the ankle.  It is awkward to use "
+"without practice.  Activate to sheathe/draw a weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "back scabbard"
+msgid_plural "back scabbards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'back scabbard'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy scabbard, big enough for almost any sword.  Designed to be strapped"
+" to the back, it's very difficult to draw from without considerable "
+"practice.  Activate to sheath/draw a sword."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "scabbard"
+msgid_plural "scabbards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'scabbard'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A large, adjustable sheath for holding swords and other large blades.  "
+"Activate to sheathe/draw a weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "sheath"
+msgid_plural "sheathes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'sheath', 'str_pl': 'sheathes'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy sheath for holding knives and other small blades.  It is easy to "
+"use without much practice.  Activate to sheathe/draw a weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "spear strap"
+msgid_plural "spear straps"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for {'str': 'spear strap'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "You holster your %s."
+msgstr ""
+
+#. ~ Use action holster_prompt for {'str': 'spear strap'}.
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid "Holster spear"
+msgstr ""
+
+#. ~ Description for {'str': 'spear strap'}
+#: .\Modification Files\Items\Armors\secro_sheath.json
+msgid ""
+"A fleshy strap tied around the torso for toting spears while keeping your "
+"hands free.  You have to duck to get through doors while one's in it, "
+"though.  Activate to holster/draw a weapon."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "backpack"
+msgid_plural "backpacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'backpack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "A small backpack.  Good storage for a little encumbrance."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "rucksack"
+msgid_plural "rucksacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'rucksack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "A huge rucksack, provides a lot of storage."
+msgstr ""
+
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid "high-volume rucksack"
+msgid_plural "high-volume rucksacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'high-volume rucksack'}
+#: .\Modification Files\Items\Armors\secro_storage.json
+msgid ""
+"Also known as a \"bigpack\", this rucksack is prized by pack rats but may "
+"lead to a bad back."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "flesh strands"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "thick flesh strands"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\fields.json
+msgid "compact flesh strands"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed dirt"
+msgstr ""
+
+#. ~ Description for fleshed dirt
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "It's dirt, but covered in bloody veins."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed grass"
+msgstr ""
+
+#. ~ Description for fleshed grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of tiny tentacles used to be the wild patch of living grass."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed long grass"
+msgstr ""
+
+#. ~ Description for fleshed long grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of long, writhing tendrils about shin high."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed tall grass"
+msgstr ""
+
+#. ~ Description for fleshed tall grass
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A cluster of tall, writhing tendrils about head high."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed shrub"
+msgstr ""
+
+#. ~ Description for fleshed shrub
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A small shrub, now a dense tendril cluster."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splat."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed young tree"
+msgstr ""
+
+#. ~ Description for fleshed young tree
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Devoured by the flesh, this young sapling has its twigs covered in "
+"membranous veins and blood-dripping gore as its leaves."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splash!"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splat!"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed tree"
+msgstr ""
+
+#. ~ Description for fleshed tree
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A fully grown tree, standing tall even though its already been overwhelmed "
+"by the flesh."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed small boulder"
+msgstr ""
+
+#. ~ Description for fleshed small boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A small rock that has succumbed to the flesh."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed medium boulder"
+msgstr ""
+
+#. ~ Description for fleshed medium boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A rock that has succumbed to the flesh."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "fleshed large boulder"
+msgstr ""
+
+#. ~ Description for fleshed large boulder
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A large rock that has succumbed to the flesh."
+msgstr ""
+
+#. ~ Description for flesh
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Disgusting mounds of meat, slimy and organic as it seems to live. This "
+"pinkish flesh is rotten to the core, and setting it on fire may not be the "
+"cure."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+#: Files\Maps\-Essentials\omt.json
+msgid "flesh wall"
+msgstr ""
+
+#. ~ Description for flesh wall
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"Disgusting wall of meat, slimy and organic as it seems to live. This compact"
+" lumps of flesh is sinister to the core, and setting it on fire may not be "
+"the cure."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "vein wall"
+msgstr ""
+
+#. ~ Description for vein wall
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "A wall composed of vein-like tendrils, seemingly made on the fly."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "splook!"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh bed"
+msgstr ""
+
+#. ~ Description for flesh bed
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A lump of flesh carefully molded into a bed. Although it may be sticky, "
+"it'll keep you warm."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "floor residue"
+msgstr ""
+
+#. ~ Description for floor residue
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A gaping mouth on the floor. Good for storing items, just don't fall into "
+"it."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "residue"
+msgstr ""
+
+#. ~ Description for residue
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A gaping mouth protruding from the floor. Great for storing items, just "
+"don't go inside it."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh rack"
+msgstr ""
+
+#. ~ Description for flesh rack
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "Lay your items here. Worry not, they won't dissolve."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "flesh container"
+msgstr ""
+
+#. ~ Description for flesh container
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid ""
+"A large sack of flesh for storing liquids, with a vented suction point for "
+"ease of use."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "bioluminescent wart"
+msgstr ""
+
+#. ~ Description for bioluminescent wart
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp.json
+msgid "This bulbous clump of warts emit bioluminescent lights."
+msgstr ""
+
+#. ~ Description for <color_pink>[MARK]</color> flesh bed
+#. ~ Description for <color_pink>[MARK]</color> floor residue
+#. ~ Description for <color_pink>[MARK]</color> residue
+#. ~ Description for <color_pink>[MARK]</color> flesh rack
+#. ~ Description for <color_pink>[MARK]</color> flesh container
+#. ~ Description for <color_pink>[MARK]</color> bioluminescent wart
+#: .\Modification Files\Maps\-Essentials\flesh_ter_furn_camp_marks.json
+msgid ""
+"This location is marked for building. Destroy the mark to cancel ongoing "
+"progress."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "SS Carrier"
+msgstr ""
+
+#. ~ Description for {'str': 'SS Carrier'}
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "Secronom Project's specimen trailer was left here."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "Field Test"
+msgstr ""
+
+#. ~ Description for {'str': 'Field Test'}
+#: .\Modification Files\Maps\-Essentials\map_extras.json
+msgid "A field test were done here."
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom bunker"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "underground secronom lab"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "field"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "military bunker"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom research lab"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "secronom research lab basement"
+msgstr ""
+
+#: .\Modification Files\Maps\-Essentials\omt.json
+msgid "flesh research lab"
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF bone launcher"
+msgid_plural "SPEMF bone launchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"This is a rather vague integral weapon system for the Secronom Project's "
+"Experimental Mech \"Flesh\". Possesses wide variety of bio-organic guns to "
+"shoot different projectiles which consumes flesh as ammunition. Mech's hand "
+"have currently turned into a bone launcher, which volleys bone spikes at a "
+"high rate."
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "high auto"
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF bone cannon"
+msgid_plural "SPEMF bone cannons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"Morphs the mech's hands into bone cannons which launches and sprays bone "
+"spikes. Consumes chunks of flesh."
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF gun morphs"
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgctxt "gun_type_type"
+msgid "secro_fleshmech_gun_spikes"
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF acid launcher"
+msgid_plural "SPEMF acid launchers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"Morphs the mech's hands into heavy acid launchers, allowing one to spray "
+"large amounts of blood acid. Consumes chunks of flesh."
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF acid spitter"
+msgid_plural "SPEMF acid spitters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid ""
+"A large, elongated limb-like proboscis that sprouts from the back of the "
+"mech when activated. Bursts globs of blood acid."
+msgstr ""
+
+#: .\Modification Files\Monsters\-Essentials\secro_mech_weapons.json
+msgid "SPEMF accessories"
+msgstr ""
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#: Files\Monsters\Bots\SecronomTurrets_modded.json
+msgid "laser beam turret"
+msgid_plural "laser beam turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'laser beam turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-L1, also known as Secronom Defense Project Type \"Laser\", is an "
+"advanced laser turret based from the miniature TX-5LR Cerberus. Its "
+"autonomous laser cannon fires a concentrated beam of pure heat that pierces "
+"through targets. Every shot requires an immensive power from its source."
+msgstr ""
+
+#. ~ Attack message of monster "{'str': 'laser beam turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#: Files\Monsters\Bots\SecronomTurrets_modded.json
+#, c-format
+msgid "<color_yellow>%1$s shoots a ray of heat at %3$s!</color>"
+msgstr ""
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid "electroshock turret"
+msgid_plural "electroshock turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'electroshock turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-E3, a highly modified turret developed for immobilizing nearby creatures"
+" with the use of its electrifying tesla-coil. Its 360 degree AI sensor cam "
+"allows it to identify foes and discharge the turret automatically. Firmly "
+"embedded to the terrain, it requires a huge amount of power from its source "
+"to operate."
+msgstr ""
+
+#. ~ Attack message of monster "{'str': 'electroshock turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#, c-format
+msgid "<color_yellow>%1$s sends an electric current!</color>"
+msgstr ""
+
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid "graviton turret"
+msgid_plural "graviton turrets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'graviton turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+msgid ""
+"SDP-G7P, a small turret that disorient movements of its target using strong "
+"magnetic fields that is generated under its large, gaping barrel. The turret"
+" is slow to recharge and the generated field doesn't last long, as it is a "
+"prototype version of its predecessor."
+msgstr ""
+
+#. ~ Attack message of monster "{'str': 'graviton turret'}"'s spell "None"
+#: .\Modification Files\Monsters\Bots\SecronomTurrets.json
+#, c-format
+msgid "<color_magenta>%1$s generates a energized field under %3$s!</color>"
+msgstr ""
+
+#. ~ Description for {'str': 'laser beam turret'}
+#: .\Modification Files\Monsters\Bots\SecronomTurrets_modded.json
+msgid ""
+"SDP-L1, also known as Secronom Defense Project Type \"Laser\", is an "
+"advanced laser turret based from the miniature TX-5LR Cerberus. Its "
+"autonomous laser cannon fires a concentrated beam of pure heat that pierces "
+"through targets. It uses a modified storage battery that allows the turret "
+"to operate on its own."
+msgstr ""
+
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid "vessel experimental"
+msgid_plural "vessel experimentals"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'vessel experimental'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid ""
+"A human who fell and succumbed to the flesh vessel exoskeleton - an "
+"experimental battle suit developed by the Secronom Project. It has "
+"completely fused with the body, and seem to have full control over it."
+msgstr ""
+
+#. ~ Attack message of monster "{'str': 'vessel experimental'}"'s spell "None"
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+#, c-format
+msgid "<color_magenta>%1$s aims at %3$s!</color>"
+msgstr ""
+
+#. ~ Description for {'str': 'vessel experimental'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+msgid ""
+"A human who fell and succumbed to the flesh vessel exoskeleton - an "
+"experimental battle suit developed by the Secronom Project - and by the "
+"looks of it, the body has been recently devoured. Strands of flesh writhe "
+"incessantly around it."
+msgstr ""
+
+#. ~ Attack message of monster "{'str': 'vessel experimental'}"'s spell "None"
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_experimental.json
+#, c-format
+msgid ""
+"<color_magenta>A gunner armament emerges from %1$s's body, aiming at "
+"%3$s!</color>"
+msgstr ""
+
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid "SP Experimental Mech \"Flesh\""
+msgid_plural "SP Experimental Mech \"Flesh\"s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'SP Experimental Mech "Flesh"'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid ""
+"This experimental mech type \"Flesh\" is the most recent (and last) mechsuit"
+" produced by the engineers of the Secronom Project. Very scarce and limited "
+"to military use only, it was designed to take on the main force of the "
+"battlefield thanks to its exotic yet nigh indestructible material, "
+"especially supplemented with a variety of gun morphs. Unfortunately, it "
+"requires one to wear a bio-organic power and link it with the mech to accept"
+" you as its rider."
+msgstr ""
+
+#. ~ Description for {'str': 'SP Experimental Mech "Flesh"'}
+#: .\Modification Files\Monsters\Crimson Horrors\Flesh_mech.json
+msgid ""
+"This experimental mech type \"Flesh\" is the most recent (and last) mechsuit"
+" produced by the engineers of the Secronom Project. Very scarce and limited "
+"to military use only, it was designed to take on the main force of the "
+"battlefield thanks to its exotic yet nigh indestructible material, "
+"especially supplemented with a variety of gun morphs."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "desaturated resin"
+msgid_plural "desaturated resins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'desaturated resin'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "A chunk of thick, charred resin."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid "SS sampler kit - enigma"
+msgid_plural "SS sampler kit - enigmas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'SS sampler kit - enigma'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"A small, chip-like device with a built-in scanner that checks for \"enigma\""
+" specimens. Activate to scan and obtain a sample from the target."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': 'a spell'}'
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"<color_dark_gray>The sampler kit starts to scan...\n"
+"<color_light_green>The sampler kit shreds the shapeshifter!"
+msgstr ""
+
+#. ~ Description for {'str': 'Collect'}
+#: .\Modification Files\NPCs\secro_mission_items.json
+msgid ""
+"Spell casted by an item. If you're seeing this, then read this one instead:\n"
+"'Provides a desaturated resin.'"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Reach the BOW Chamber"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+#: Files\NPCs\Dialogues\secro_s1.json
+msgid "…"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"You've heard the plan. Ask the other survivors for our short, bloody travel "
+"once you have accepted my request."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Good. Now go, we can't waste time in our current situation."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Well then... Lets talk about it again later."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Those specimens are nasty in close range."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "We've got to get going."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Thank you. Now we've got more spaces to move around. That being said, tell "
+"the others to stay put in this area... they also need your assistance."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+#: Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "..."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Gather materials for SDP-L1 turret"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Gather materials for SDP-L1 turret'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Collect <color_light_green>4 chunks of steel</color>, <color_light_green>18 "
+"scrap metals</color>, <color_light_green>9 electronic scraps</color>, "
+"<color_light_green>9 power converters</color>, <color_light_green>5 copper "
+"wires</color> and <color_light_green>a broken laser beam turret</color>."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"I'd like you to retrieve a broken SDP-L1 from the bunker and other essential"
+" parts for me to fully repair the turret."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Then go, give them all to me afterwards."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "If it's too heavy, haul it."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Good. The process may take an hour. While I'm repairing it, you should talk "
+"to others if they need your assistance."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Clear the enigma chamber"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"So she wants you to clear out the enigma chamber, and you need my help to "
+"access that room. But are you ready? You can refuse if it felt like a "
+"deathwish."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Let's head to that chamber real quick!"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Just ask me again once you're ready to take on."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Since this facility have come into chaos, we might see creatures other than "
+"them."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Did you killed them?"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Great! Lets head back to others and see if they need anything else. Enigma "
+"chamber is pretty messed up anyway."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Really? I've come alongside you and yet you lied to something you obviously "
+"didn't do?"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Obtain a sample from the shapeshifter"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Obtain a sample from the
+#. shapeshifter'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Collect a <color_light_green>desaturated resin</color> from a "
+"<color_light_red>shapeshifter</color>. Use the tool provided to obtain the "
+"required item then bring it back once you've complete the task."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"You must obtain a sample from that creature using a sampler kit I'm about to"
+" provide once you're ready."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Okay, here's the kit. It is set to scan for an enigma specimen. I've sent "
+"the coordinates to our guard and talk to him about this, he'll show you the "
+"way. But remember, this creature uses deception to hide itself."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Be cautious on using the sampler kit, as it scans only the enigma, otherwise"
+" you'll waste batteries."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "How's the sample?"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"Well done, survivor. I'll start to identify this resin, and hope it can of "
+"good use."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Slay the shapeshifter?"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"She gave me the coordinates as soon as the drone reported her. I'll help you"
+" out collecting the sample, and fend off this creature from you. So, are you"
+" ready?"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Good. The target is not far from here."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "I never encountered this creature..."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Wait. It's not the right one... I guess we lost it."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid "Feed your flesh"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Feed your flesh'}'
+#: .\Modification Files\NPCs\secro_missiondef.json
+msgid ""
+"\"Feed\" the bio-organic exoskeleton by activating <color_light_blue>Feed</color> command under the spellcasting tab (undefined by default). Alternatively, you can activate the <color_yellow>Metabolic Distribution</color> bionic, but it is advisable to use it only if you ran out of flesh.\n"
+"\n"
+"To complete this mission, obtain a <color_light_green>blob glob</color>. It's the main ingredient in creating food for your suit."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "Secronom Researchers"
+msgstr ""
+
+#. ~ Description for Secronom Researchers
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid ""
+"A small group of scientists working under a certain project. Their advanced "
+"development of utilities is their fortitude for survival."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+#: Files\Others\secro_mutation.json
+msgid "Flesh"
+msgstr ""
+
+#. ~ Description for Flesh
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid ""
+"A uniformed groups of humans/monsters created by the Secronom Project. They "
+"rarely appear in the world, and is motivated to dominate the world."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "Secronom Scientist"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npc_classes_facs.json
+msgid "I'm one of the mfs who made secronom and shit."
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "scientist"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "researcher"
+msgstr ""
+
+#: .\Modification Files\NPCs\secro_npcs.json
+msgid "guard"
+msgstr ""
+
+#: .\Modification Files\NPCs\+Essentials\secro_dialogue_effects.json
+msgid "Some tendrils came off of the flesh after its relocation!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_researcher.json
+msgid "What do you want?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"We seem to find nothing...\n"
+"We should go back."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You need something, survivor?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We've got to go to the enigma chamber."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "What is it, survivor?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You're skilled more than what I've expected from you. Good job!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Focus on our path! There's no time for chit-chats!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I heard it. We will protect these people from the mutant hordes."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "You are not suppose to be in here, survivor."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Okay. Follow my lead."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I know, now stand still and be a real guard."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "No, you're staying here."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Do you need help?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "I need to go to enigma chamber."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We're here now."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "About the coordinates..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We're here..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Okay then..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Nothing..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "We better go..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Nope. Bye."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Not yet."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_researcher.json
+msgid "Nothing."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"I do need your help about a thing, but you should talk to our researcher "
+"about this first."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "I will."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid ""
+"Good. Since I don't have any problems at all, you should check others of "
+"their needs."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+msgid "Not until we get back to the others."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_guard.json
+#: Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Will do."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "What is this place?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "What are you doing?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "Who are you?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_s1.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+msgid "Bye."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid ""
+"Currently this building is military outpost. M1 might give you more specific"
+" information."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Okay…"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "I just clean here. Go talk with M1."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "Will do. Bye."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+msgid "I'm security of this area. I serving under Sgt M1."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_miliguard.json
+#: Files\NPCs\Dialogues\secro_s1.json
+msgid "I see."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Great job, survivor. I never expect an outsider help us with our dilemma, "
+"yet here you are."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "You better get going."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What is it?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "You are not authorized to this area."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "We need to go."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Yeah, and I want to know more about your plans."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The guard told me you need assistance."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What's your plan?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "We've clear the enigma chamber."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Anything else I can do?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "How's the search for specimen?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Bye then..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "I am."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "I know. Just lead us all to that chamber."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+#: Files\NPCs\Dialogues\secro_s1.json
+#: Files\NPCs\Dialogues\secro_scientist.json
+#: Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Okay."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Yes, since you've proven yourself worthy for our plans, I'll be glad if you "
+"help me with this rather odd request."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Since you've proven yourself worthy for our future plans, I'll be glad if "
+"you help me with this rather odd request."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Tell me."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"But first, let me tell you a subtle understanding on our facility. There are"
+" a total of 3 specimen variants: the failed, BOW and enigma, each in their "
+"respective rooms."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Failed? BOW? Enigma? What are those?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Just describe what needs to be done."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Failed specimens are the results of unsuccessful mutations, otherwise they "
+"are called BOWs. Enigmas, on the other hand, were formed using potent "
+"mutagens."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "So what should I do?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Clear out the enigma chamber. That room were locked down due to extremely "
+"anomalous threats, and you'll need authorization from someone to open it up."
+" If you're ready, talk to the guard about this."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay. I will go now"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Excellent. Have you found anything of interest?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Nope."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"If you notice anything strange, just ask me and I'll tell everything I know "
+"about that."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay. Bye."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Well, I'm curious about a mysterious, wandering specimen. Its the result of "
+"our recent experiment using a highly unstable mutagen who, I believe, takes "
+"form of a human."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "What do you from it?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"Unlike other enigmas, its genetic structure is of unknown form, and I need a"
+" sample from it for deeper understanding of this otherworldly creature."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "So where can I find it?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid ""
+"That's not necessary, as while you were dealing with the enigma chamber, "
+"I've sent a scout drone to search for that specimen using a tracker device, "
+"and it may take a while for its report."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay... I'll wait for it."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The drone's still on the search..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "The drone has revealed the location of our target."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_researcher.json
+msgid "Okay, what should I do?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "… oh… yes?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "What are you working on here?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "So, this is your lab?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "I'm working on the Flesh. Most of the time."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "The flesh? So you are kind of a doctor?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh not exactly, rather scientist. The Flesh is organic flesh-like matter "
+"designed for wide variety of purposes. In short, it can be grown into "
+"various tissues with various structure. It can create muscles, bones, "
+"organs, glands, even whole self sufficient micro and macro organisms."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"My lab and my home. I created this lab long time ago when I decided to do "
+"something useful. I believed that research on stem cells, cultured meat and "
+"synthetic organs would solve many problems. "
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "That sounds interesting, what kind of problems you had on mind?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "You created this whole lab yourself?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Well nothing too specific in particular. Back then, goal of my research was "
+"anything from efficient edible meat production, growing organs for "
+"transplatology, various therapies with stem cells and most importantly "
+"getting funds for my living and playing with life."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh yes, it took many years to gather funds, collect gear and set it all up "
+"down here. Through years of my research I was leading various projects and "
+"collected quite a lot of funds. Later on I had to tightly lock this place "
+"and move permanently to other facility."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "Quite remarkable achievement, what forced you to move from here?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"I could either move with my research to more secured facility or loose "
+"control over my research on the Flesh. I wasn't happy by that, boss hovering"
+" over my shoulder, evaluating my work was hard to accept. Though considering"
+" how it all turned out I'm glad they forced me back then."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "So the work under someone wasn't so bad?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid ""
+"Oh it was, it's just that when everything went to hell, we had a little "
+"accident there. Instead of me having little accident here."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_s1.json
+msgid "I see…"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What do you need, survivor?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "You need something?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Now that we're here, we won't be bothered by those shambling maneaters... "
+"for now."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "No, this is not the BOW chamber..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Perhaps I've told you everything I know..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "You need to know more information?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"A survivor? What are you doing here despite the raging chaos?\n"
+"Anyway, you'll be safe in here."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So what are your future plans?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm ready to push forward."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'd like to know more about the secronom project."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Is there anything I can do to help?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm ready for the job."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "About the repairs..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm a researcher."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Of what exactly?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Its not important, but if you wish to know, I don't mind ... since "
+"everything's messed up already."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Then tell me your secrets."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Lets talk about that later."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"... Its the secronom project, a project that involves human augmentation "
+"using animal and alien genetics."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "And what's the purpose of the secronom project?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Human augmentation?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What about genetics?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I guess I've asked everything..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"For military, yet I'm not sure if there's beyond that case. I don't know "
+"what it is, but the ones who can answer that are not in here anymore."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"You heard it. The government permits this project to perform human "
+"experimentation. Don't worry, the subjects here are outlaws of the society."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "And what's the purpose of secronom?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... but they didn't deserve this."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"We've extracted the genes of an animal, then mixed with a catalyst. The "
+"catalyst is a classified object, so I can't tell you what it is."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"This is the secronom bunker, built solely as our last option for survival."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So why won't you escape this place?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Why is it connected to the lab?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Well? What have you earned for doing those?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"I know escaping is our best option, but what lies beyond the wastelands is "
+"our main reason why we shouldn't travel."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So why is it connected to the lab?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "(pussies)"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"That's because we work in there, and performing scientific experiments and "
+"discovering newfound technologies is our foundation."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Why won't you escape this place?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Regrets. I know you have encountered those ugly bastards, but they are the "
+"result of our experiments. And the tech? All of them are incomplete."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... So, is there anything else I need to know about the lab?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "That's unfortunate, but there's nothing I can do."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Well, if you're interested, I can tell you one thing... Deep below this "
+"facility is a weapon of mass destruction, created for military \"use\"."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Thanks for the info, I guess..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "My plan is a bit risky, and I'll need you to guide us all."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'm in for that!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Maybe later."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Now, let's plow through the horde!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Good. We need you to help us take over the BOW's chamber. With that, we can "
+"once again perform scientific experiments solely for our survival."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Lets go!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "... later, I need to gear up."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'll lead the way!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"This is science, you see? You may think we're the gruesome ones, but what we want is to open up new discoveries for us all. Yes, we messed up, but we're still here, struggling and helping each other to survive this nightmare.\n"
+"I can't change your opinion towards us, but if you want to know more about the secronom project, talk to our researcher."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I see, you're curious about our \"unexpecting\" creations..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "What's on your mind?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Are those mutants in the city were the result of secronom project?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Are there some other threats this project has created that I need to be "
+"aware of?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "...."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"What? That can't be good...\n"
+"You know, secronom has an extreme potency of alteration once it comes in contact with a viable victim. If mixed with the catalyst, this will turn one's body into an adaptive living weapon, but that doesn't always end to the same result."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "So how did it spread?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"It is an unstable pathogen - evolving more by time, and due to the outbreak,"
+" this facility falls into chaos; everyone panics, and got their body ripped "
+"to shred. Secronom were doomed to spread throughout the world in that "
+"incident."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Actually, there are 3 that we've discovered so far and maybe there's more to"
+" appear."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Where are they? And what do you mean by \"discovered\"?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Those mutants think different than a zombified egghead, and probably they're in the woods, having a stroll.\n"
+"We discovered them by applying a super concentrated type of mutagen into each of our subjects, and the results, few of them transformed into these abominations, while the rest died... which is unfortunate, as our team thought their masculine body can handle such potential power."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Well, now I know your team did an inhumane act..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"There is something I want to work on for our defenses, but they require time"
+" and vast amounts of materials for the process."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Defenses? You mean turrets?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Take your time while you gather them."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid ""
+"Yes, the autonomous turrets that you saw on the bunker is what I want to "
+"acquire. Do you accept my request?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "Yes."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist.json
+msgid "I'll do it later."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'm currently working on repairs..."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "What do you want to repair?"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Let me check the progress of SDP-L1 turret's repair."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "SDP-L1 turret."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'll check them later."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I got nothing."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid ""
+"It is done. I modified the turret and made it cheaper in power usage, with a"
+" built-in storage battery."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I'll take it!"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I need more time to fully repair the turret."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid ""
+"To repair the SDP-L1 turret, I need the following resources:\n"
+"\n"
+"4 chunks of steel\n"
+"18 scrap metals\n"
+"9 electronic scraps\n"
+"9 power converters\n"
+"5 copper wires\n"
+"\n"
+"It takes more than an hour to complete the process."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "[REPAIR]"
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "Perform the repair later."
+msgstr ""
+
+#: .\Modification Files\NPCs\Dialogues\secro_scientist_repairs.json
+msgid "I need more resources."
+msgstr ""
+
+#. ~ Please leave anything in <angle brackets> unchanged.
+#: .\Modification Files\Others\secro_flags.json
+msgid ""
+"This gear has been coated in bio-organic mesh, increasing its "
+"<good>protection</good>."
+msgstr ""
+
+#. ~ Mutation class name
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Experimental"
+msgstr ""
+
+#. ~ Mutation class: Experimental mutagen_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You feel so strange."
+msgstr ""
+
+#. ~ Mutation class: Experimental iv_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You inject yoursel-arRGH!"
+msgstr ""
+
+#. ~ Mutation class: Experimental iv_sleep_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You were knocked unconscious and spasm to the ground."
+msgstr ""
+
+#. ~ Mutation class: Experimental iv_sound_message
+#: .\Modification Files\Others\secro_mutation.json
+msgid "yourself scream in agony!"
+msgstr ""
+
+#. ~ Mutation class: Experimental Male memorial messsage
+#: .\Modification Files\Others\secro_mutation.json
+msgctxt "memorial_male"
+msgid "Burst out of humanity."
+msgstr ""
+
+#. ~ Mutation class: Experimental Female memorial messsage
+#: .\Modification Files\Others\secro_mutation.json
+msgctxt "memorial_female"
+msgid "Burst out of humanity."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Mutant"
+msgstr ""
+
+#. ~ Description for {'str': 'Mutant'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You're still bothered why'd you choose this mess..."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "experimental mutagen"
+msgid_plural "experimental mutagens"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'experimental mutagen'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Mutagen developed by the secronom team. Unstable."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "experimental serum"
+msgid_plural "experimental serums"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'experimental serum'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Super-concentrated mutagen developed by the secronom team. Highly unstable. "
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendrils"
+msgstr ""
+
+#. ~ Description for {'str': 'Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your arms were replaced by a pair of tough, skinny tendrils. Good for "
+"combat, but it's stiff and prevents you from wearing gloves."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slap %s with your tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s strikes %2$s with their tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Thick Tendrils"
+msgstr ""
+
+#. ~ Description for {'str': 'Thick Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got a pair of large, thick tendrils sprouting from your arms. They "
+"decreases your dex by 2, but impacts more damage and has increased bash "
+"resistance."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slap %s with your thick tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s strikes %2$s with their thick tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendricles"
+msgstr ""
+
+#. ~ Description for {'str': 'Tendricles'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your whole body has small wriggly tentacle outgrowths, while your tendril "
+"pairs became shorter in length, increasing dex by 1 and decreasing their "
+"encumbrance and impact damage. The outgrowths are tough, providing 1 bash "
+"resistance to all body parts, yet increases their encumbrance by 5 and "
+"becomes much more uncomfortable when wearing tight clothes."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You pierced %s with your tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s pierces %2$s with their tendrils"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Tendril"
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Tendril'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tendrils limbs have become tougher, stronger and darker in hue due to "
+"prolonged mutations. Permanently increases your strength by 2, bash damage "
+"by 4 and their physical resistance by 4."
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Tendril'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"One of your tendril limbs have swollen a bit, and faintly pulsates in "
+"velvety hue. If activated, this tendril hardens, extends and becomes a "
+"special whip-like weapon for a few turns."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bone Blade"
+msgstr ""
+
+#. ~ Description for {'str': 'Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your left hand has lost its flesh, revealing only a stout bone blade. It "
+"prevents you from wearing gloves nor handling anything with, but has great "
+"resistance against physical damage plus it packs a wallop."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Sharpened Bone Blade"
+msgstr ""
+
+#. ~ Description for {'str': 'Sharpened Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone blade became lighter, thinner and has a sharpened edge, like that "
+"of a sword. Instead of impact damage, it cuts through flesh with ease."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Serrated Bone Blade"
+msgstr ""
+
+#. ~ Description for {'str': 'Serrated Bone Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone blade has greatly altered, forming irregular bone outgrowths all "
+"around the surface. It is heavier and very unpleasant to the sight, but "
+"beneficial for both defense and offense."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Blade"
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your blade has been engulfed by veins, pulsating in sync with your beats. It"
+" glows brighter whenever you take damage from a foe. Receiving damage from "
+"an enemy attack increases your combat abilities for a short period of time."
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Blade'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your blade were overwhelmed by flesh strands, throbbing at a constant rate. "
+"These strands react from enemy attacks, which causes them to spread and "
+"cover your extremities. Whenever you take damage from a foe, your chance of "
+"blocking their attacks will increase for a few moments, but also decreases "
+"your mobility and attack speed."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Irregular Bone Outgrowths"
+msgstr ""
+
+#. ~ Description for {'str': 'Irregular Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Sharp bones protrude through your skin, extending at random angles. In "
+"exchange of mobility and 10 encumbrance to all body parts, they greatly "
+"protect you from harm."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Plated Bone Outgrowths"
+msgstr ""
+
+#. ~ Description for {'str': 'Plated Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"The bone outgrowths has extended further, and their angles has slightly "
+"adjusted. Underneath them are irregular bone plates that spread over your "
+"skin, expanding their coverage. Significantly improves your defensive "
+"capabilities, however, they harshly affect your mobility and increases "
+"encumbrance by 15 caused by additional weight."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bone Cuirass"
+msgstr ""
+
+#. ~ Description for {'str': 'Bone Cuirass'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone outgrowths became an external layer of armor, which fits and "
+"excels at protecting your body while severely reducing the length of the "
+"spikes. The spikes have adjusted enough to reduce movement penalties and "
+"encumbrance to 8, but permanently disables the ability to pierce the "
+"attackers."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Massive Bone Outgrowths"
+msgstr ""
+
+#. ~ Description for {'str': 'Massive Bone Outgrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your bone outgrowths have altered to a great extent - bone plates have "
+"swollen and the spikes grew unnecessary sets of smaller variations. Aside "
+"from its significantly improved defense that adds 12 physical resistance to "
+"all body parts, its weight and thickness are a hassle, permanently "
+"increasing encumbrance by 20 and a greatly reduced mobility."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Arachnid Limbs"
+msgstr ""
+
+#. ~ Description for {'str': 'Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You grew 2 additional pairs of arms sticking out from the sides of your "
+"torso close to the abdominal part. They seem to function as duplicates of "
+"normal ones, gaining 1 permanent dex and making them beneficial for "
+"crafting, combat and vaulting through objects, but increases torsal "
+"encumbrance by 10 which triples when you wear a tight clothing."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Augmented Arachnid Limbs"
+msgstr ""
+
+#. ~ Description for {'str': 'Augmented Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your additional limbs have become more responsive, which eases your control "
+"over them. They permanently increases your dex by 2 and slightly improving "
+"its basic modifiers."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Deformed Arachnid Limbs"
+msgstr ""
+
+#. ~ Description for {'str': 'Deformed Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your extra limbs became twisted and malformed, which slightly affects the "
+"movements of your arms. They removed your permanent dex, increased your "
+"torsal encumbrance by 15 and a drastic reduction to its basic modifiers."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Superior Arachnid Limbs"
+msgstr ""
+
+#. ~ Description for {'str': 'Superior Arachnid Limbs'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Further mutations has caused your limbs to unify with your cerebral cortex, "
+"accepting them as part of your body. With full control over them, they "
+"permanently increases your dex by 3 and significantly improves the basic "
+"modifiers."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Lushen Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Lushen Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue have become long and slender that stretches and retracts at your"
+" will. It somewhat helps you in sensing scents and movements."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You lick %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s licks %2$s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Malformed Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Malformed Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has deformed into a large, unpleasant tendril-like flesh strand."
+" It greatly hampers your breathing, reducing your stamina by 30% and is "
+"useless when it comes to sensing nearby creatures."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Callous Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Callous Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"From prolonged alteration, your tongue have sightly become thicker and "
+"harder, yet still retains its flexibility."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tongue Hypertrophy"
+msgstr ""
+
+#. ~ Description for {'str': 'Tongue Hypertrophy'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has hardened and swollen a bit. You find conversations tricky "
+"and its larger scale has greatly reduced their sensing capability, yet their"
+" resistance helps alot in blocking incoming damage."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Succulent Tongue"
+msgstr ""
+
+#. ~ Description for {'str': 'Succulent Tongue'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue has slightly become thinner and longer, which further improves "
+"your senses and combat capabilities."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tongue Lasher"
+msgstr ""
+
+#. ~ Description for {'str': 'Tongue Lasher'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Due to further alteration, your tongue have become broader and has developed"
+" a set of retractable bony blades on either sides of its surface. Despite "
+"its significant improvements on senses and offensive capabilities, your "
+"conversations with other people also becomes much more difficult to "
+"handle... but find it great for terrorizing."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You lashed %s with your tongue"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s lashes %2$s with their tongue"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Core - Licker"
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Licker'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tongue secretes concentrated saliva whenever it gets stretched. This "
+"allows your lick attacks to enlow the target in combat."
+msgstr ""
+
+#. ~ Description for {'str': 'Core - Licker'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"The blades on your tongue were sharpened and is pulsating in dark, velvety "
+"streaks. This greatly improves the damage of lick attacks, as well as its "
+"potency in combat."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Shoulder Bumps"
+msgstr ""
+
+#. ~ Description for {'str': 'Shoulder Bumps'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You've got a bumps on both of your shoulder joints."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Membranous Wings"
+msgstr ""
+
+#. ~ Description for {'str': 'Membranous Wings'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got wing-like appendages sprouting on your shoulder joints stretching"
+" down to your pelvis. The wing is composed of muscle tissues and fiber "
+"webbings, with each ends tipped with a sharp, bony blade appendixes. They "
+"might be encumbering and heavy, but their strong build provides +2 strength."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You rake %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s rakes %2$s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Skeletal Wings"
+msgstr ""
+
+#. ~ Description for {'str': 'Skeletal Wings'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Protruding from your shoulder is a thin, flexible pair of endoskeletal "
+"wings. Though bulky and encumbering, they can be used to balance your "
+"movements, handling heavy stuff and shredding anyone you dislike."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You thrust you wings towards %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s thrusts their wings %2$s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Fleshed Mantle"
+msgstr ""
+
+#. ~ Description for {'str': 'Fleshed Mantle'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've grown a mass of flabby flesh from your shoulders to the back of your "
+"body. Aside from being able to deflect physical harm, it severely hampers "
+"your movements and actions that requires finesse."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You slam %s with your mantle"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "%1$s slams %2$s with their mantle"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tumors"
+msgstr ""
+
+#. ~ Description for {'str': 'Tumors'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You have small head bumps scattered underneath your scalp."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Eyegrowths"
+msgstr ""
+
+#. ~ Description for {'str': 'Eyegrowths'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You have several eyesprouts scattered throughout your hair, and they are "
+"sometimes painful when covered by a headgear. Provides additional vision "
+"bonuses and increases your perception by 3, but increases head encumbrance "
+"by 20."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Writhing Proboscides"
+msgstr ""
+
+#. ~ Description for {'str': 'Writhing Proboscides'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"You've got a few, slender proboscides on your head. They twitch "
+"occasionally, and involuntarily, increasing head encumbrance by 25.  If "
+"conditions are met, they can suck the lifeforce out of your victim... only "
+"if they're alive."
+msgstr ""
+
+#. ~ Description for {'str': 'Flesh'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Who needs veggy?"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Debug Hivemind"
+msgstr ""
+
+#. ~ Description for {'str': 'Debug Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "How's in charge now?!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Flesh Hivemind"
+msgstr ""
+
+#. ~ Description for {'str': 'Flesh Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You might be immobile, but you have the power to dominate the world!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Flesh Hivemind - Active"
+msgstr ""
+
+#. ~ Description for {'str': 'Flesh Hivemind - Active'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tentacles has detached from the ground! This causes you to take damage "
+"until you reattach to a terrain."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Unstable Hivemind"
+msgstr ""
+
+#. ~ Description for {'str': 'Unstable Hivemind'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your body slowly melts away!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Infectious Tendrils"
+msgstr ""
+
+#. ~ Description for {'str': 'Infectious Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your tendrils can infect the entire area."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Potent Tendrils"
+msgstr ""
+
+#. ~ Description for {'str': 'Potent Tendrils'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your tendrils can infect the entire area further."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Tendril Domination"
+msgstr ""
+
+#. ~ Description for {'str': 'Tendril Domination'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid ""
+"Your tendrils can infect the entire area even further and can convert "
+"terrain much faster."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bio-organic Construction"
+msgstr ""
+
+#. ~ Description for {'str': 'Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can build a variety of structures using flesh."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Widespread Bio-organic Construction"
+msgstr ""
+
+#. ~ Description for {'str': 'Widespread Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your construction range allows building of defenses."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Advanced Bio-organic Construction"
+msgstr ""
+
+#. ~ Description for {'str': 'Advanced Bio-organic Construction'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can build a variety of advanced structures using flesh."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Bio-organic Infusion"
+msgstr ""
+
+#. ~ Description for {'str': 'Bio-organic Infusion'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You can fuse creature cores to certain buildings."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Hivemind Spawn"
+msgstr ""
+
+#. ~ Description for {'str': 'Hivemind Spawn'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "You're like the hivemind, but limited to actions!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Stronger Weavers"
+msgstr ""
+
+#. ~ Description for {'str': 'Stronger Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create much stronger crafts!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Advanced Weavers"
+msgstr ""
+
+#. ~ Description for {'str': 'Advanced Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create much intricate crafts!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Hivemind Weavers"
+msgstr ""
+
+#. ~ Description for {'str': 'Hivemind Weavers'}
+#: .\Modification Files\Others\secro_mutation.json
+msgid "Your weavers can create high-end fleshy crafts!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You had an odd vision of a mutant."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of sprouting tentacles."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of a rather strange form of yourself."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You dream of an isolated facility."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "M O R E ! M O -"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You are horrified of becoming a loathsome abomination."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "You imagine yourself as a rampaging monster."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "Something's still missing..."
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_dreams.json
+msgid "F L E S H ! F U S E ! F L -"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_effects.json
+msgid "Licked"
+msgstr ""
+
+#. ~ Description of effect 'Licked'.
+#: .\Modification Files\Others\secro_mutation_effects.json
+msgid "You were licked by a gruesome tongue!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid "tendril whip"
+msgid_plural "tendril whips"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'tendril whip'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"Your tendril in its swollen, fleshy form, throbbing at unstable rate. You feel its power flowing through you.\n"
+"<color_white>Strength: <color_light_green>+2</color>\n"
+"Block: <color_light_green>+2</color>\n"
+"Attack cost: <color_red>+5%</color></color>"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid "<color_light_green>blade core</color>"
+msgid_plural "<color_light_green>blade core</color>s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '<color_light_green>blade core</color>'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"This core provides temporary passive effects. Stacks with other cores.\n"
+"<color_white>Attack cost: <color_light_green>-3%</color>\n"
+"Damage: <color_light_green>+2%</color></color>"
+msgstr ""
+
+#. ~ Description for {'str': '<color_light_green>blade core</color>'}
+#: .\Modification Files\Others\secro_mutation_items.json
+msgid ""
+"This core provides temporary passive effects. Stacks with other cores.\n"
+"<color_white>Attack cost: <color_red>+3%</color>\n"
+"Speed: <color_red>-2%</color>\n"
+"Dodge: <color_red>+2</color></color>"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "<color_light_red>Tendril Core</color>"
+msgstr ""
+
+#. ~ Description for {'str': '<color_light_red>Tendril Core</color>'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Activate this core to temporarily morph your tendril into a powerful weapon."
+msgstr ""
+
+#. ~ Message for SPELL '{'str': '<color_light_red>Tendril Core</color>'}'
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Your tendril flows with immense power!"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Core"
+msgstr ""
+
+#. ~ Description for {'str': 'Core'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your blade core becomes active, providing passive effects.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+#: Files\Others\secro_techniques.json
+msgid "Arc Slash"
+msgstr ""
+
+#. ~ Description for {'str': 'Arc Slash'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Slashes through a wide arc, dealing cutting damage to all affected creatures.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Spikes"
+msgstr ""
+
+#. ~ Description for {'str': 'Spikes'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your bone outgrowths harm the attacker, dealing light stabbing damage.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Great Spikes"
+msgstr ""
+
+#. ~ Description for {'str': 'Great Spikes'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'Your bone outgrowths harm the attacker, dealing stabbing damage.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Lasher Thrust"
+msgstr ""
+
+#. ~ Description for {'str': 'Lasher Thrust'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User stretches its tongue towards the target, piercing through them that deals stabbing damage.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Lush Licks"
+msgstr ""
+
+#. ~ Description for {'str': 'Lush Licks'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User strikes the target with their tongue, dealng bashing damage and enslowing them.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Suck"
+msgstr ""
+
+#. ~ Description for {'str': 'Suck'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'User's proboscides shoot towards the target and suck them.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Succ - Heal"
+msgstr ""
+
+#. ~ Description for {'str': 'Succ - Heal'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You sucked the target, healing you by 2.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Succ - Damage"
+msgstr ""
+
+#. ~ Description for {'str': 'Succ - Damage'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You sucked them - dealing 5 damage.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Devour"
+msgstr ""
+
+#. ~ Description for {'str': 'Devour'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster guides the flesh to spread to nearby tiles.'"
+msgstr ""
+
+#. ~ Description for {'str': 'Devour'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster guides the flesh to spread to nearby tiles. This spreading reaches further.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Disable"
+msgstr ""
+
+#. ~ Description for {'str': 'Disable'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You are nothing, but a mere builder...'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Check Player"
+msgstr ""
+
+#. ~ Description for {'str': 'Check Player'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a mutation or trait, either passive or active. If you're seeing this, then read this one instead:\n"
+"'You check the player if they're adjacent to you.'"
+msgstr ""
+
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid "Build"
+msgstr ""
+
+#. ~ Description for {'str': 'Build'}
+#: .\Modification Files\Others\secro_mutation_magic.json
+msgid ""
+"Spell casted by a monster. If you're seeing this, then read this one instead:\n"
+"'Caster builds at the marked spot.'"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - Crimson Horror' for a male character
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scenario_male"
+msgid "Challenge - Crimson Horror"
+msgstr ""
+
+#. ~ Name for scenario 'Challenge - Crimson Horror' for a female character
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scenario_female"
+msgid "Challenge - Crimson Horror"
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - Crimson Horror' for a male
+#. character.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scen_desc_male"
+msgid ""
+"The pungent aroma of uncooked  meat insults your nostrils as soon as your "
+"mind wakes. The ground seemingly pulses in a macabre rhythm and when opening"
+" your eyes, you're met with a horrible sight! The forest you once knew is "
+"covered in red, cyst-like growths. Thoughts race through your mind but one "
+"sticks out: \"How am I gonna get out of this mess?\""
+msgstr ""
+
+#. ~ Description for scenario 'Challenge - Crimson Horror' for a female
+#. character.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "scen_desc_female"
+msgid ""
+"The pungent aroma of uncooked  meat insults your nostrils as soon as your "
+"mind wakes. The ground seemingly pulses in a macabre rhythm and when opening"
+" your eyes, you're met with a horrible sight! The forest you once knew is "
+"covered in red, cyst-like growths. Thoughts race through your mind but one "
+"sticks out: \"How am I gonna get out of this mess?\""
+msgstr ""
+
+#. ~ Starting location for scenario 'Challenge - Crimson Horror'.
+#: .\Modification Files\Others\secro_scen.json
+msgctxt "start_name"
+msgid "Flesh Forest"
+msgstr ""
+
+#. ~ Description for {'str': 'flesh weaving'}
+#: .\Modification Files\Others\secro_skills.json
+msgid ""
+"Your skill in manipulating the flesh.  A higher skill allows for faster "
+"repair and crafting of flesh-based items."
+msgstr ""
+
+#: .\Modification Files\Others\secro_skills.json
+msgid "bio-organic weapons"
+msgstr ""
+
+#. ~ Description for {'str': 'bio-organic weapons'}
+#: .\Modification Files\Others\secro_skills.json
+msgid "Your efficiency over flesh weapons that your body morphs into."
+msgstr ""
+
+#: .\Modification Files\Others\secro_start_locs.json
+msgid "Somewhere Fleshy"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Slash"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+15% cut, +10% movecost"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slashes %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+15% cut, +20% movecost, crit only, wide"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s in an arc"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slashes %s in an arc"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Precision Slash"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+76% cut, +66% movecost, stun 2 turns, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slashed %s with precise accuracy"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> precisely slashes %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Strike"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "-10% bash, -30% movecost"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles strike %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles strike %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles slap at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles slap at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles hit %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s tentacles hit %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Quick Strike"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "-20% bash, -50% movecost"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles swiftly strikes %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles quickly slaps at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles swiftly hit %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Compact Swing"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+100% bash, +66% movecost, down 2 turns, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your tentacles form into a mass as it's swung into %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> swings a compact tentacle at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+30% bash, +40% movecost, stun 1 turn, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You slam %s with your arms"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> slams %s with their arms"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Pound"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+70% bash, +90% movecost, stun 2 turns, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You heavily pound at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> heavily pounds at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Heavy Swing"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+100% bash, +125% movecost, stun 3 turns, knock 2 tiles, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "You swing an arm with great momentum at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname> swings their arm with great momentum at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Bite"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+20% bash/cut, +10% movecost"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm bites %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm bites %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm gnaws at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm gnaws at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm nibbles at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm nibbles at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Crunch"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+45% bash/cut, +35% movecost, stun 1 turn, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your arm crunches at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm crunches at %s"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "Munch"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+msgid "+90% bash/cut, +66% movecost, stun 1 turn, down 2 turn, crit only"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "Your bite down %s with your arms"
+msgstr ""
+
+#: .\Modification Files\Others\secro_techniques.json
+#, c-format
+msgid "<npcname>'s arm bites down %s"
+msgstr ""

@@ -1,0 +1,64 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fast_healing\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\effects.json
+msgid "Started recovery"
+msgstr "开始恢复"
+
+#: .\effects.json
+msgid "Recovering"
+msgstr "恢复中"
+
+#: .\effects.json
+msgid "Mostly recovered"
+msgstr "基本恢复"
+
+#: .\effects.json
+msgid "This damaged limb is slowly regaining its functions."
+msgstr "这个受伤的肢体正在缓慢恢复功能。"
+
+#: .\effects.json
+msgid "Bandaged"
+msgstr "已包扎"
+
+#. ~ Description of effect 'Bandaged'.
+#: .\effects.json
+msgid "Your wounds are bandaged."
+msgstr "你的伤口已包扎。"
+
+#: .\effects.json
+msgid "Disinfected"
+msgstr "已消毒"
+
+#. ~ Description of effect 'Disinfected'.
+#: .\effects.json
+msgid "Your wounds are disinfected."
+msgstr "你的伤口已消毒。"
+
+#: .\meds.json
+msgid "Atreyupan"
+msgid_plural "Atreyupans"
+msgstr[0] "阿特雷尤潘"
+
+#: .\meds.json
+msgid "antibiotics"
+msgid_plural "antibiotics"
+msgstr[0] "抗生素"
+
+#: .\modinfo.json
+msgid "EZ-Mode Medical"
+msgstr "简易医疗模式"
+
+#. ~ Description for EZ-Mode Medical
+#: .\modinfo.json
+msgid ""
+"Increases broken limb mending speed and the effectiveness of healing items."
+msgstr "增加骨折肢体的愈合速度和治疗物品的效果。"

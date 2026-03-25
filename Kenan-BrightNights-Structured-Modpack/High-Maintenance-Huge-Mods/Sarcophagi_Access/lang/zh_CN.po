@@ -1,0 +1,33 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sarcophagi_access\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Sarcophagi Access"
+msgstr "石棺访问"
+
+#. ~ Description for Sarcophagi Access
+#: .\modinfo.json
+msgid "Enables an alternate method of accessing the sarcophagus."
+msgstr "启用一种访问石棺的替代方法。"
+
+#: .\sa_book.json
+msgid "High Level Commercial and Military Cryptology"
+msgid_plural "High Level Commercial and Military Cryptology"
+msgstr[0] "高级商业与军事密码学"
+
+#. ~ Description for {'str': 'High Level Commercial and Military Cryptology',
+#. 'str_pl': 'High Level Commercial and Military Cryptology'}
+#: .\sa_book.json
+msgid ""
+"An incredibly dense volume describing different advanced cryptographical "
+"methods, their strenghts, and weaknesses. This text would probably be easier"
+" to digest with an added decade in Computer Science Academia."
+msgstr "一本极其厚重的书，描述了不同的高级密码学方法、其优势与弱点。若在计算机科学学术界多待十年，或许能更容易消化这本著作。"

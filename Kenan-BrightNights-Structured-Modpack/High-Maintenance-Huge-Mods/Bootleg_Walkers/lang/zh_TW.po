@@ -1,0 +1,723 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: Bootleg_Walkers\n"
+"POT-Creation-Date: 2026-03-14 05:22+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\modinfo.json
+msgid "Bootleg Walkers"
+msgstr "山寨步行者"
+
+#. ~ Description for Bootleg Walkers
+#: .\modinfo.json
+msgid ""
+"Allows one to construct shoddy knock-offs of the Northrup ATSV chicken "
+"walker.  For more information, consult the README.md file."
+msgstr "允許建造諾斯羅普 ATSV 雞形步行者的劣質仿製品。更多信息，請查閱 README.md 文件。"
+
+#: .\walker_gun.json
+msgid "rifle"
+msgid_plural "rifles"
+msgstr[0] "步槍"
+
+#: .\walker_gun.json
+msgid ""
+"The weapon occasionally tries to bite you with its many mouths, when it "
+"succeeds it purrs contentedly."
+msgstr "這把武器偶爾會用它的許多嘴試圖咬你，成功時會滿足地發出呼嚕聲。"
+
+#: .\walker_gun.json
+msgid "shotgun"
+msgid_plural "shotguns"
+msgstr[0] "霰彈槍"
+
+#: .\walker_gun.json
+msgid "This weapon spits lead pellets at you whenever you touch its tendrils."
+msgstr "每當你觸碰它的觸鬚時，這把武器就會向你噴射鉛彈。"
+
+#: .\walker_gun.json
+msgid "flaregun"
+msgid_plural "flareguns"
+msgstr[0] "信號槍"
+
+#: .\walker_gun.json
+msgid ""
+"This small and toothsome weapon occasionally exhales smoke, and smells of "
+"burning magnesium."
+msgstr "這把小巧可口的武器偶爾會噴出煙霧，並帶有燃燒鎂的氣味。"
+
+#: .\walker_gun.json
+msgid "M2 Browning"
+msgid_plural "M2 Brownings"
+msgstr[0] "M2 勃朗寧"
+
+#: .\walker_gun.json
+msgid ""
+"This weapon almost constantly trembles in rage, and is too large to "
+"comfortably hold."
+msgstr "這把武器幾乎一直在憤怒地顫抖，而且太大，握起來不舒服。"
+
+#: .\walker_gun.json
+msgid "blaster"
+msgid_plural "blasters"
+msgstr[0] "爆能槍"
+
+#: .\walker_gun.json
+msgid "This weapon glows in places, and is almost painfully hot to the touch."
+msgstr "這把武器在某些部位發光，摸起來幾乎燙得難受。"
+
+#: .\walker_gun.json
+msgid "laser"
+msgid_plural "lasers"
+msgstr[0] "激光槍"
+
+#: .\walker_gun.json
+msgid ""
+"This weapon's many eyes constantly move, only settling for a mere moment "
+"before finding a new focus."
+msgstr "這把武器的許多眼睛不斷移動，只停留片刻就會找到新的焦點。"
+
+#: .\walker_gun.json
+msgid "flamethrower"
+msgid_plural "flamethrowers"
+msgstr[0] "火焰噴射器"
+
+#: .\walker_gun.json
+msgid "This weapon gurgles softly, and occasionally drips burning liquid."
+msgstr "這把武器輕輕發出咕嚕聲，偶爾會滴下燃燒的液體。"
+
+#: .\walker_gun.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\walker_gun.json
+msgid "auto"
+msgstr "自動"
+
+#: .\walker_gun.json
+msgid "slosh."
+msgstr "晃動。"
+
+#: .\walker_gun.json
+msgid "tesla coil"
+msgid_plural "tesla coils"
+msgstr[0] "特斯拉線圈"
+
+#: .\walker_gun.json
+msgid "Blue-green electricity arcs between this weapons twitching cilia."
+msgstr "藍綠色的電弧在這把武器顫動的纖毛間跳躍。"
+
+#: .\walker_item.json
+msgid "Northrup ATSV schematics"
+msgid_plural "Northrup ATSV schematics"
+msgstr[0] "諾斯羅普ATSV設計圖"
+
+#. ~ Description for {'str': 'Northrup ATSV schematics', 'str_pl': 'Northrup
+#. ATSV schematics'}
+#: .\walker_item.json
+msgid ""
+"A heavily classified document containing schematics for Northrups ATSV "
+"combat walker."
+msgstr "一份高度機密的文件，內含諾斯羅普ATSV戰鬥步行機的設計圖。"
+
+#: .\walker_item.json
+msgid "broken chickenbot"
+msgid_plural "broken chickenbots"
+msgstr[0] "損壞的雞形機器人"
+
+#. ~ Description for {'str': 'broken chickenbot'}
+#: .\walker_item.json
+msgid ""
+"A broken chicken walker.  Still looks intimidating despite being permanently"
+" inoperative, possibly due to the sheer size and mass.  Could be gutted for "
+"parts."
+msgstr "一臺損壞的雞形步行機。儘管已永久失效，但其龐大的體型和質量仍令人望而生畏。可拆解獲取零件。"
+
+#: .\walker_item.json
+msgid "inactive chicken walker"
+msgid_plural "inactive chicken walkers"
+msgstr[0] "未激活的雞形步行機"
+
+#. ~ Use action friendly_msg for {'str': 'inactive chicken walker'}.
+#: .\walker_item.json
+msgid "The chicken bot rolls out and begins acquiring targets."
+msgstr "雞形機器人出動並開始鎖定目標。"
+
+#. ~ Use action hostile_msg for {'str': 'inactive chicken walker'}.
+#: .\walker_item.json
+msgid ""
+"The chicken bot swivels its turret and aims directly at you.  Don your brown"
+" pants!"
+msgstr "雞形機器人旋轉炮塔並直接瞄準你。快穿上你的棕色褲子！"
+
+#. ~ Description for {'str': 'inactive chicken walker'}
+#: .\walker_item.json
+msgid ""
+"This is an inactive chicken walker.  Using this item involves placing it on "
+"the ground, loading the unit with the factory-loaded 5.56 rounds and 40mm "
+"cartridge grenades in your inventory (if you wish to divide your ammunition,"
+" set aside whatever ammunition you do NOT want to give the robot) and "
+"turning it on.  If reprogrammed and rewired successfully the tank drone will"
+" then identify you as a friendly, roam around or follow you, and attack all "
+"enemies with a built-in firearm and grenade launcher."
+msgstr ""
+"這是一臺未激活的雞形步行機。使用此物品需將其放置在地面，從庫存中為它裝載出廠預裝的5.56毫米子彈和40毫米榴彈（若想分配彈藥，請先預留你不想給機器人的部分），然後啟動。若成功重編程並重新接線，坦克無人機會將你識別為友方，四處巡邏或跟隨你，並用內置槍械與榴彈發射器攻擊所有敵人。"
+
+#: .\walker_item.json
+msgid "Pathfinder chassis"
+msgid_plural "Pathfinder chassis"
+msgstr[0] "探路者底盤"
+
+#. ~ Description for {'str_sp': 'Pathfinder chassis'}
+#: .\walker_item.json
+msgid ""
+"What's left when you remove all moving parts and electronics.  It's the "
+"skeleton and armor of the pathfinder."
+msgstr "移除所有活動部件和電子設備後的剩餘部分。這是探路者的骨架與裝甲。"
+
+#: .\walker_item.json
+msgid "walker chassis"
+msgid_plural "walker chassiss"
+msgstr[0] "步行機底盤"
+
+#. ~ Description for {'str': 'walker chassis'}
+#: .\walker_item.json
+msgid ""
+"An ATSV chassis, hand-forged from scrap.  An integral component for bootleg "
+"walkers."
+msgstr "一個ATSV底盤，由廢料手工鍛造而成。是組裝山寨步行機的核心部件。"
+
+#: .\walker_item.json
+msgid "super chassis"
+msgid_plural "super chassiss"
+msgstr[0] "超級底盤"
+
+#. ~ Description for {'str': 'super chassis'}
+#: .\walker_item.json
+msgid ""
+"An ATSV chassis, carefully crafted with the best materials and to the "
+"highest standards possible in a post-Cataclysm world."
+msgstr "一個ATSV底盤，採用後大災變世界中可能的最佳材料和最高標準精心打造。"
+
+#: .\walker_item.json
+msgid "packed chicken walker"
+msgid_plural "packed chicken walkers"
+msgstr[0] "打包的雞式步行機"
+
+#. ~ Use action friendly_msg for {'str': 'packed chicken walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed scrap walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed unarmed walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed bootleg walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed tesla walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed fusion walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed buckshot walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed flare walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed laser walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed flamer walker'}.
+#: .\walker_item.json
+msgid "The walker begins scanning for hostiles."
+msgstr "步行機開始掃描敵對目標。"
+
+#. ~ Use action hostile_msg for {'str': 'packed chicken walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed scrap walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed unarmed walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed bootleg walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed tesla walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed fusion walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed buckshot walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed flare walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed laser walker'}.
+#. ~ Use action hostile_msg for {'str': 'packed flamer walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker; it's IFF identifies you as hostile!"
+msgstr "你錯誤編程了步行機；它的敵我識別系統將你標記為敵對目標！"
+
+#. ~ Description for {'str': 'packed chicken walker'}
+#: .\walker_item.json
+msgid ""
+"An Northrup ATSV, packed for transport.  Armed with a 5.56 anti-personnel "
+"rifle, an anti-vehicle 40mm grenade launcher and a tazer.  Use this item to "
+"unpack and load with up to 1000 5.56 NATO M855A1 and 50 40mm frag rounds."
+msgstr ""
+"一臺諾斯羅普ATSV，已打包以便運輸。裝備有一把5.56毫米反人員步槍、一門40毫米反車輛榴彈發射器和一支電擊槍。使用此物品可解包並裝載最多1000發5.56"
+" NATO M855A1子彈和50發40毫米破片榴彈。"
+
+#: .\walker_item.json
+msgid "packed scrap walker"
+msgid_plural "packed scrap walkers"
+msgstr[0] "打包的廢料步行機"
+
+#. ~ Description for {'str': 'packed scrap walker'}
+#: .\walker_item.json
+msgid ""
+"A severely damaged Northrup ATSV, packed for transport.  Armed with a 5.56 "
+"anti-personnel rifle, an anti-vehicle 40mm grenade launcher and a tazer.  "
+"Use this item to unpack and load with up to 220 5.56 NATO M855A1 and 12 40mm"
+" frag rounds."
+msgstr ""
+"一臺嚴重損壞的諾斯羅普ATSV，已打包以便運輸。裝備有一把5.56毫米反人員步槍、一門40毫米反車輛榴彈發射器和一支電擊槍。使用此物品可解包並裝載最多220發5.56"
+" NATO M855A1子彈和12發40毫米破片榴彈。"
+
+#: .\walker_item.json
+msgid "packed unarmed walker"
+msgid_plural "packed unarmed walkers"
+msgstr[0] "打包的無武裝步行機"
+
+#. ~ Description for {'str': 'packed unarmed walker'}
+#: .\walker_item.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap, packed for transport.  Armed "
+"with a only a tazer, it is ineffective in combat, and really should have "
+"some weapons installed before activation."
+msgstr "一臺由廢料拼湊而成的諾斯羅普ATSV，已打包以便運輸。僅裝備一支電擊槍，在戰鬥中效果不佳，激活前確實應安裝一些武器。"
+
+#: .\walker_item.json
+msgid "packed unarmed super walker"
+msgid_plural "packed unarmed super walkers"
+msgstr[0] "打包的無武裝超級步行機"
+
+#. ~ Use action friendly_msg for {'str': 'packed unarmed super walker'}.
+#. ~ Use action friendly_msg for {'str': 'packed super walker'}.
+#: .\walker_item.json
+msgid "You hear \"STARTUP CHECKLIST COMPLETE.  ALL SYSTEMS GREEN.\""
+msgstr "你聽到“啟動檢查清單完成。所有系統正常。”"
+
+#. ~ Use action hostile_msg for {'str': 'packed unarmed super walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker! Embrace Deus Machina's purification!"
+msgstr "你錯誤編程了步行機！迎接機械之神的淨化吧！"
+
+#. ~ Description for {'str': 'packed unarmed super walker'}
+#: .\walker_item.json
+msgid ""
+"A large combat walker based on the Northrup ATSV, packed for transport.  "
+"Though it is armed with electroshock and -magnet units alongside "
+"mechadendrite-mounted blades, you really should install its primary weapon "
+"systems before activation."
+msgstr ""
+"一臺基於諾斯羅普ATSV的大型戰鬥步行機，已打包以便運輸。儘管它裝備有電擊和電磁單元以及機械觸手安裝的刀刃，但在激活前你確實應安裝其主要武器系統。"
+
+#: .\walker_item.json
+msgid "packed super walker"
+msgid_plural "packed super walkers"
+msgstr[0] "打包的超級步行機"
+
+#. ~ Use action hostile_msg for {'str': 'packed super walker'}.
+#: .\walker_item.json
+msgid "You misprogram the walker.  Oops."
+msgstr "你錯誤編程了步行機。哎呀。"
+
+#. ~ Description for {'str': 'packed super walker'}
+#: .\walker_item.json
+msgid ""
+"A large combat walker based on the Northrup ATSV, packed for transport.  "
+"Armed with an M2 Browning .50 calibre machine gun, electroshock and -magnet "
+"units alongside six mechadendrite-mounted blades.  Use this item to unpack "
+"and load with up to 1000 .50 BMG Ball rounds."
+msgstr ""
+"一臺基於諾斯羅普ATSV的大型戰鬥步行機，已打包以便運輸。裝備有一挺M2勃朗寧.50口徑機槍、電擊和電磁單元以及六把機械觸手安裝的刀刃。使用此物品可解包並裝載最多1000發.50"
+" BMG普通彈。"
+
+#: .\walker_item.json
+msgid "packed bootleg walker"
+msgid_plural "packed bootleg walkers"
+msgstr[0] "打包的山寨步行機"
+
+#. ~ Description for {'str': 'packed bootleg walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive bootleg walker, packed for transport.  Armed with a pair of 5.56"
+" anti-personnel rifles and a tazer.  Use this item to unpack and load with "
+"up to 1000 5.56 NATO M855A1 rounds."
+msgstr ""
+"一臺未激活的山寨步行機，已打包以便運輸。裝備有兩把5.56毫米反人員步槍和一支電擊槍。使用此物品可解包並裝載最多1000發5.56 NATO "
+"M855A1子彈。"
+
+#: .\walker_item.json
+msgid "packed tesla walker"
+msgid_plural "packed tesla walkers"
+msgstr[0] "打包的特斯拉步行機"
+
+#. ~ Description for {'str': 'packed tesla walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive tesla walker, packed for transport.  Armed with a pair of "
+"powerful tesla coils and a tazer.  Use this item to unpack."
+msgstr "一臺未激活的特斯拉步行機，已打包以便運輸。裝備有兩臺強大的特斯拉線圈和一支電擊槍。使用此物品可解包。"
+
+#: .\walker_item.json
+msgid "packed fusion walker"
+msgid_plural "packed fusion walkers"
+msgstr[0] "打包的聚變步行機"
+
+#. ~ Description for {'str': 'packed fusion walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive fusion walker, packed for transport.  Armed with a pair of "
+"fusion blasters and a tazer.  Use this item to unpack."
+msgstr "一臺未激活的聚變步行機，已打包以便運輸。裝備有兩門聚變衝擊炮和一支電擊槍。使用此物品可解包。"
+
+#: .\walker_item.json
+msgid "packed buckshot walker"
+msgid_plural "packed buckshot walkers"
+msgstr[0] "打包的霰彈步行機"
+
+#. ~ Description for {'str': 'packed buckshot walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive buckshot walker, packed for transport.  Armed with a pair of "
+"automatic shotguns and a tazer.  Use this item to unpack and load with up to"
+" 500 00 shot."
+msgstr "一臺未激活的霰彈步行機，已打包以便運輸。裝備有兩把自動霰彈槍和一支電擊槍。使用此物品可解包並裝載最多500發00號霰彈。"
+
+#: .\walker_item.json
+msgid "packed flare walker"
+msgid_plural "packed flare walkers"
+msgstr[0] "打包的信號彈步行機"
+
+#. ~ Description for {'str': 'packed flare walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive flare walker, packed for transport.  Equipped with a flare "
+"launcher.  Use this item to unpack and load with up to 500 signal flares."
+msgstr "一個處於非活動狀態的信號彈步行者，已打包以便運輸。裝備有信號彈發射器。使用此物品可解包並裝載最多500發信號彈。"
+
+#: .\walker_item.json
+msgid "packed laser walker"
+msgid_plural "packed laser walkers"
+msgstr[0] "打包的激光步行者"
+
+#. ~ Description for {'str': 'packed laser walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive laser walker, packed for transport.  Armed with a trio of lasers"
+" and a tazer.  Use this item to unpack."
+msgstr "一個處於非活動狀態的激光步行者，已打包以便運輸。配備了三門激光炮和一個電擊槍。使用此物品可解包。"
+
+#: .\walker_item.json
+msgid "packed flamer walker"
+msgid_plural "packed flamer walkers"
+msgstr[0] "打包的噴火步行者"
+
+#. ~ Description for {'str': 'packed flamer walker'}
+#: .\walker_item.json
+msgid ""
+"An inactive flamer walker, packed for transport.  Armed with a heavy "
+"flamethrower and a tazer.  Use this item to unpack and fuel with up to 10 "
+"litres of napalm."
+msgstr "一個處於非活動狀態的噴火步行者，已打包以便運輸。配備了一臺重型火焰噴射器和一個電擊槍。使用此物品可解包並裝載最多10升凝固汽油。"
+
+#: .\walker_item.json
+msgid "broken unarmed super walker"
+msgid_plural "broken unarmed super walkers"
+msgstr[0] "損壞的無武裝超級步行者"
+
+#. ~ Description for {'str': 'broken unarmed super walker'}
+#: .\walker_item.json
+msgid ""
+"A broken unarmed super walker.  Even without its gun, this was a force to be"
+" reckoned with.  What could have done this?  Still, you may be able to "
+"reclaim parts from the wreck."
+msgstr "一個損壞的無武裝超級步行者。即使沒有槍，它也曾是一股不可小覷的力量。是什麼造成了這一切？不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken unarmed walker"
+msgid_plural "broken unarmed walkers"
+msgstr[0] "損壞的無武裝步行者"
+
+#. ~ Description for {'str': 'broken unarmed walker'}
+#: .\walker_item.json
+msgid ""
+"A broken unarmed walker.  Proof that refraining from installing weaponry was"
+" foolish.  Still, you may be able to reclaim parts from the wreck."
+msgstr "一個損壞的無武裝步行者。這證明了不安裝武器是愚蠢的。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken super walker"
+msgid_plural "broken super walkers"
+msgstr[0] "損壞的超級步行者"
+
+#. ~ Description for {'str': 'broken super walker'}
+#: .\walker_item.json
+msgid ""
+"A broken super walker.  What terrors could possibly do such a thing?  You "
+"shudder to think of the possibilities.  Still, you may be able to reclaim "
+"parts from the wreck."
+msgstr "一個損壞的超級步行者。什麼樣的恐怖存在能做出這種事？光是想想可能性就讓你不寒而慄。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken flamer walker"
+msgid_plural "broken flamer walkers"
+msgstr[0] "損壞的噴火步行者"
+
+#. ~ Description for {'str': 'broken flamer walker'}
+#: .\walker_item.json
+msgid ""
+"A broken flamer walker.  Its lust for chaos has been extinguished.  Still, "
+"you may be able to reclaim parts from the wreck."
+msgstr "一個損壞的噴火步行者。它對混亂的渴望已被熄滅。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken laser walker"
+msgid_plural "broken laser walkers"
+msgstr[0] "損壞的激光步行者"
+
+#. ~ Description for {'str': 'broken laser walker'}
+#: .\walker_item.json
+msgid ""
+"A broken laser walker.  No longer shall you hear the snap of superheated "
+"air, smell the burning of flesh.  Still, you may be able to reclaim parts "
+"from the wreck."
+msgstr "一個損壞的激光步行者。你將不再聽到過熱空氣的爆裂聲，不再聞到肉體燒焦的氣味。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken bootleg walker"
+msgid_plural "broken bootleg walkers"
+msgstr[0] "損壞的仿製步行者"
+
+#. ~ Description for {'str': 'broken bootleg walker'}
+#: .\walker_item.json
+msgid ""
+"A broken bootleg walker.  Its guns are quiet now.  Still, you may be able to"
+" reclaim parts from the wreck."
+msgstr "一個損壞的仿製步行者。它的槍炮如今已歸於沉寂。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken flare walker"
+msgid_plural "broken flare walkers"
+msgstr[0] "損壞的信號彈步行者"
+
+#. ~ Description for {'str': 'broken flare walker'}
+#: .\walker_item.json
+msgid ""
+"A broken flare walker.  Its flares shall remain dark, forevermore.  Still, "
+"you may be able to reclaim parts from the wreck."
+msgstr "一個損壞的信號彈步行者。它的信號彈將永遠黯淡無光。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken tesla walker"
+msgid_plural "broken tesla walkers"
+msgstr[0] "損壞的特斯拉步行者"
+
+#. ~ Description for {'str': 'broken tesla walker'}
+#: .\walker_item.json
+msgid ""
+"A broken tesla walker.  The dance of lightning has ceased.  Still, you may "
+"be able to reclaim parts from the wreck."
+msgstr "一個損壞的特斯拉步行者。閃電之舞已然停歇。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken fusion walker"
+msgid_plural "broken fusion walkers"
+msgstr[0] "損壞的聚變步行者"
+
+#. ~ Description for {'str': 'broken fusion walker'}
+#: .\walker_item.json
+msgid ""
+"A broken fusion walker.  City and forest need not fear its wrath any longer."
+"  Still, you may be able to reclaim parts from the wreck."
+msgstr "一個損壞的聚變步行者。城市與森林無需再畏懼它的怒火。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken buckshot walker"
+msgid_plural "broken buckshot walkers"
+msgstr[0] "損壞的霰彈步行者"
+
+#. ~ Description for {'str': 'broken buckshot walker'}
+#: .\walker_item.json
+msgid ""
+"A broken buckshot walker.  Deer and duck alike rejoice.  Still, you may be "
+"able to reclaim parts from the wreck."
+msgstr "一個損壞的霰彈步行者。鹿與鴨都為此歡欣鼓舞。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_item.json
+msgid "broken chicken walker"
+msgid_plural "broken chicken walkers"
+msgstr[0] "損壞的雞型步行者"
+
+#. ~ Description for {'str': 'broken chicken walker'}
+#: .\walker_item.json
+msgid ""
+"A broken Northrup ATSV.  It lays quiet now, though looking upon it brings "
+"memories of fire and death.  Still, you may be able to reclaim parts from "
+"the wreck."
+msgstr "一個損壞的諾斯羅普ATSV。它如今靜靜地躺著，但凝視它時，仍會喚起關於火焰與死亡的記憶。不過，你或許能從殘骸中回收一些零件。"
+
+#: .\walker_mon.json
+msgid "chicken walker"
+msgid_plural "chicken walkers"
+msgstr[0] "雞形步行機"
+
+#. ~ Description for {'str': 'chicken walker'}
+#: .\walker_mon.json
+msgid ""
+"The Northrop ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry, though production "
+"was limited due to a legal dispute."
+msgstr ""
+"諾斯羅普ATSV，一種龐大、重武裝且重裝甲的機器人，以一對反關節腿行走。配備40毫米反車輛榴彈發射器、5.56毫米反人員槍械，並能對攻擊者釋放電擊，是一種高效的自動哨兵，但因法律糾紛生產受限。"
+
+#: .\walker_mon.json
+msgid "scrap walker"
+msgid_plural "scrap walkers"
+msgstr[0] "廢料步行者"
+
+#. ~ Description for {'str': 'scrap walker'}
+#: .\walker_mon.json
+msgid ""
+"The Northrup ATSV, a massive, heavily-armed and armored robot walking on a "
+"pair of reverse-jointed legs.  Armed with a 40mm anti-vehicle grenade "
+"launcher, 5.56 anti-personnel gun, and the ability to electrify itself "
+"against attackers, it is an effective automated sentry.  Or would be, if it "
+"wasn't held together with duct tape and hope."
+msgstr ""
+"諾斯羅普ATSV，一個巨大的、全副武裝的重型機器人，依靠一對反關節腿行走。裝備有40毫米反車輛榴彈發射器、5.56毫米反人員機槍，並能對攻擊者進行電擊自衛，是一款高效的自動哨兵。或者說，如果它不是靠膠帶和希望勉強拼湊起來的話，本該如此。"
+
+#: .\walker_mon.json
+msgid "super walker"
+msgid_plural "super walkers"
+msgstr[0] "超級步行者"
+
+#. ~ Description for {'str': 'super walker'}
+#: .\walker_mon.json
+msgid ""
+"A large combat walker based on the Northrup ATSV.  Armed with an M2 Browning"
+" .50 calibre machine gun, electroshock and -magnet units alongside six "
+"mechadendrite-mounted blades.  Features  improved combat logic, thick "
+"superalloy-ceramic composite plating, enhanced optics, motors and sensors "
+"and an offensive defence system ."
+msgstr ""
+"一款基於諾斯羅普ATSV的大型戰鬥步行機。裝備有M2勃朗寧.50口徑機槍、電擊與磁力單元，以及六把機械觸手搭載的刀刃。具備改進的戰鬥邏輯、厚重的超級合金-"
+"陶瓷複合裝甲、增強的光學設備、馬達與傳感器，以及一套進攻性防禦系統。"
+
+#: .\walker_mon.json
+msgid "unarmed super walker"
+msgid_plural "unarmed super walkers"
+msgstr[0] "未武裝超級步行機"
+
+#. ~ Description for {'str': 'unarmed super walker'}
+#: .\walker_mon.json
+msgid ""
+"A large combat walker based on the Northrup ATSV.  Though it is armed with "
+"electroshock and -magnet units alongside mechadendrite-mounted blades, you "
+"really should deactivate it to install its primary weapon systems."
+msgstr "一款基於諾斯羅普ATSV的大型戰鬥步行機。雖然裝備有電擊與磁力單元以及機械觸手搭載的刀刃，但你真的應該先停用它，以便安裝其主要武器系統。"
+
+#: .\walker_mon.json
+msgid "unarmed walker"
+msgid_plural "unarmed walkers"
+msgstr[0] "未武裝步行機"
+
+#. ~ Description for {'str': 'unarmed walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a only a tazer, it "
+"is ineffective in combat, and really should be deactivated for weapon "
+"installation."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。僅裝備一把泰瑟槍，在戰鬥中效果不佳，確實應該停用以安裝武器。"
+
+#: .\walker_mon.json
+msgid "bootleg walker"
+msgid_plural "bootleg walkers"
+msgstr[0] "山寨步行機"
+
+#. ~ Description for {'str': 'bootleg walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of 5.56 "
+"rifles, it is quite deadly.  Still, you shouldn't expect the reliability and"
+" resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備兩把5.56毫米步槍，相當致命。不過，你別指望它能像正品那樣可靠耐用。"
+
+#: .\walker_mon.json
+msgid "buckshot walker"
+msgid_plural "buckshot walkers"
+msgstr[0] "霰彈步行機"
+
+#. ~ Description for {'str': 'buckshot walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of automatic"
+" shotguns, it is quite deadly.  Still, you shouldn't expect the reliability "
+"and resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備兩把自動霰彈槍，相當致命。不過，你別指望它能像正品那樣可靠耐用。"
+
+#: .\walker_mon.json
+msgid "flare walker"
+msgid_plural "flare walkers"
+msgstr[0] "信號彈步行機"
+
+#. ~ Description for {'str': 'flare walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Equipped with a flaregun and "
+"tazer, it functions as a spotter for more lethal models.  Still, you "
+"shouldn't expect the reliability and resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備信號槍和泰瑟槍，作為更致命型號的偵察單位使用。不過，你別指望它能像正品那樣可靠耐用。"
+
+#: .\walker_mon.json
+msgid "laser walker"
+msgid_plural "laser walkers"
+msgstr[0] "激光步行機"
+
+#. ~ Description for {'str': 'laser walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a trio of lasers, "
+"it is fairly deadly.  Still, you shouldn't expect the reliability and "
+"resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備三把激光槍，相當致命。不過，你別指望它能像正品那樣可靠耐用。"
+
+#: .\walker_mon.json
+msgid "fusion walker"
+msgid_plural "fusion walkers"
+msgstr[0] "聚變步行機"
+
+#. ~ Description for {'str': 'fusion walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of fusion "
+"blasters, it is extremely deadly.  Still, you shouldn't expect the "
+"reliability and resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備兩把聚變衝擊炮，極其致命。不過，你別指望它能像正品那樣可靠耐用。"
+
+#: .\walker_mon.json
+msgid "tesla walker"
+msgid_plural "tesla walkers"
+msgstr[0] "特斯拉步行機"
+
+#. ~ Description for {'str': 'tesla walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a pair of tesla "
+"coils, it is fairly deadly.  Still, you shouldn't expect the reliability and"
+" resilience of the real thing, and it may be damaged by it's own lightning."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備兩套特斯拉線圈，相當致命。不過，你別指望它能像正品那樣可靠耐用，而且它可能會被自己的閃電損壞。"
+
+#: .\walker_mon.json
+msgid "flamer walker"
+msgid_plural "flamer walkers"
+msgstr[0] "噴火步行機"
+
+#. ~ Description for {'str': 'flamer walker'}
+#: .\walker_mon.json
+msgid ""
+"A Northrup ATSV cobbled together from scrap.  Armed with a heavy "
+"flamethrower, it is extremely deadly.  Still, you shouldn't expect the "
+"reliability and resilience of the real thing."
+msgstr "一款用廢料拼湊而成的諾斯羅普ATSV。裝備一把重型火焰噴射器，極其致命。不過，你別指望它能像正品那樣可靠耐用。"

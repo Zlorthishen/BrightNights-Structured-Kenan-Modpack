@@ -1,0 +1,2291 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: underrailmetro_mod\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\modinfo.json
+msgid "UnderrailMetro Mod"
+msgstr ""
+
+#. ~ Description for UnderrailMetro Mod
+#: .\modinfo.json
+msgid ""
+"Adds a variety of items, enemies and locations inspired by the games Metro "
+"series and Underrail."
+msgstr ""
+
+#. ~ Name for scenario 'South Gate Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "South Gate Resident"
+msgstr ""
+
+#. ~ Name for scenario 'South Gate Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "South Gate Resident"
+msgstr ""
+
+#. ~ Description for scenario 'South Gate Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail"
+" beneath New England."
+msgstr ""
+
+#. ~ Description for scenario 'South Gate Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"Somehow, you stumbled upon South Gate Station, a safe haven in the Underrail"
+" beneath New England."
+msgstr ""
+
+#. ~ Starting location for scenario 'South Gate Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "South Gate Station"
+msgstr ""
+
+#. ~ Name for scenario 'Red Line Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Red Line Resident"
+msgstr ""
+
+#. ~ Name for scenario 'Red Line Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Red Line Resident"
+msgstr ""
+
+#. ~ Description for scenario 'Red Line Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You managed to find a Red Line station in the New England subway system."
+msgstr ""
+
+#. ~ Description for scenario 'Red Line Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You managed to find a Red Line station in the New England subway system."
+msgstr ""
+
+#. ~ Starting location for scenario 'Red Line Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Red Line Station"
+msgstr ""
+
+#. ~ Name for scenario '4th Reich Resident' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "4th Reich Resident"
+msgstr ""
+
+#. ~ Name for scenario '4th Reich Resident' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "4th Reich Resident"
+msgstr ""
+
+#. ~ Description for scenario '4th Reich Resident' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You managed to find a 4th Reich station in the New England subway system."
+msgstr ""
+
+#. ~ Description for scenario '4th Reich Resident' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You managed to find a 4th Reich station in the New England subway system."
+msgstr ""
+
+#. ~ Starting location for scenario '4th Reich Resident'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "4th Reich Station"
+msgstr ""
+
+#: .\startlocation.json .\subway_factions.json
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "South Gate Station"
+msgstr ""
+
+#: .\startlocation.json
+msgid "Red Line Station"
+msgstr ""
+
+#: .\startlocation.json
+msgid "4th Reich Station"
+msgstr ""
+
+#. ~ Description for South Gate Station
+#: .\subway_factions.json
+msgid ""
+"South Gate is an autonomous community and not a member of United Stations, "
+"but could become its first member in south Underrail. It is the most "
+"powerful station in the entire south Lower Underrail."
+msgstr ""
+
+#: .\subway_factions.json
+msgid "Underrail Malcontents"
+msgstr ""
+
+#. ~ Description for Underrail Malcontents
+#: .\subway_factions.json
+msgid ""
+"Whether they're driven by wanderlust, greed or just a savage bloodlust, the "
+"underrail has always generated an underclass of degenerate criminals. These "
+"vandals prey upon the weak, and are generally without redemption."
+msgstr ""
+
+#: .\subway_factions.json
+msgid "Red Line"
+msgstr ""
+
+#. ~ Description for Red Line
+#: .\subway_factions.json
+msgid ""
+"With one of the largest populations in the Underrail, an unparalleled "
+"capacity for mass conscription, and a number of stations and metres of track"
+" surpassed only by South Gate Station, the Red Line is one of the most "
+"formidable factions in the cataclysm world."
+msgstr ""
+
+#: .\subway_factions.json
+msgid "4th Reich"
+msgstr ""
+
+#. ~ Description for 4th Reich
+#: .\subway_factions.json
+msgid ""
+"The Nazis are a fascist faction in the Metro centred around several stations"
+" which they dub The Reich. However, they maintain numerous outposts and a "
+"military presence in several outlying stations, possibly in an attempt at "
+"expansion since the Nazis are an imperialist faction."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Civilian"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Civilian"
+msgstr ""
+
+#. ~ Profession (male South Gate Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you."
+msgstr ""
+
+#. ~ Profession (female South Gate Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Civilian"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Civilian"
+msgstr ""
+
+#. ~ Profession (male Red Line Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the citizens of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Red Line Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the citizens of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Civilian"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Civilian"
+msgstr ""
+
+#. ~ Profession (male Reich Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the citizens of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Reich Civilian) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the citizens of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Guard"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Guard"
+msgstr ""
+
+#. ~ Profession (male South Gate Guard) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you, and you soon enlisted as a "
+"guard defending the frontiers of SGS against the hidden terrors of the "
+"Underrail."
+msgstr ""
+
+#. ~ Profession (female South Gate Guard) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you, and you soon enlisted as a "
+"guard defending the frontiers of SGS against the hidden terrors of the "
+"Underrail."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Soldier"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Soldier"
+msgstr ""
+
+#. ~ Profession (male South Gate Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a soldier."
+msgstr ""
+
+#. ~ Profession (female South Gate Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a soldier."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Heavy Soldier"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Heavy Soldier"
+msgstr ""
+
+#. ~ Profession (male South Gate Heavy Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a heavy trooper."
+msgstr ""
+
+#. ~ Profession (female South Gate Heavy Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. After becoming a guard, you worked your up through the ranks of SGS"
+" until you became a heavy trooper."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Junker"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Junker"
+msgstr ""
+
+#. ~ Profession (male South Gate Junker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You decided to buck their trend, traipsing throughout the underrail to make "
+"a name for yourself."
+msgstr ""
+
+#. ~ Profession (female South Gate Junker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You decided to buck their trend, traipsing throughout the underrail to make "
+"a name for yourself."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Stalker"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Stalker"
+msgstr ""
+
+#. ~ Profession (male South Gate Stalker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You were uniquely talented as a stalker, finding rare and valuable equipment"
+" in the Underrail."
+msgstr ""
+
+#. ~ Profession (female South Gate Stalker) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were never content to just stay within the protective embrace of South "
+"Gate. You saw other citizens as being too cowardly, too afraid, too soft. "
+"You were uniquely talented as a stalker, finding rare and valuable equipment"
+" in the Underrail."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Technician"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Technician"
+msgstr ""
+
+#. ~ Profession (male South Gate Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. You had a natural aptitude "
+"for various mechanical and life support systems for South Gate Station, and "
+"took up training as a technician."
+msgstr ""
+
+#. ~ Profession (female South Gate Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. You had a natural aptitude "
+"for various mechanical and life support systems for South Gate Station, and "
+"took up training as a technician."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "South Gate Computer Technician"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "South Gate Computer Technician"
+msgstr ""
+
+#. ~ Profession (male South Gate Computer Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. After witnessing line upon "
+"line of code in the various consoles of SGS, you began to see a rythm to the"
+" apparently madness of programming. You became a well-respected member of "
+"South Gate Station's IT department."
+msgstr ""
+
+#. ~ Profession (female South Gate Computer Technician) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Seeking refuge away from the maelstrom of pain that is the New England "
+"surface world, you decided to gain citizenship as a member of South Gate "
+"Station. Amazingly, they actually accepted you. After witnessing line upon "
+"line of code in the various consoles of SGS, you began to see a rythm to the"
+" apparently madness of programming. You became a well-respected member of "
+"South Gate Station's IT department."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Soldier"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Soldier"
+msgstr ""
+
+#. ~ Profession (male Red Line Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the soldiers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Red Line Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the soldiers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Soldier"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Soldier"
+msgstr ""
+
+#. ~ Profession (male Reich Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the soldiers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Reich Soldier) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the soldiers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Reich Officer"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Reich Officer"
+msgstr ""
+
+#. ~ Profession (male Reich Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the officers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Reich Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the officers of the 4th Reich, a network of national "
+"socialist aligned stations in the New England Subway."
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_male"
+msgid "Red Line Officer"
+msgstr ""
+
+#: .\subway_professions.json
+msgctxt "profession_female"
+msgid "Red Line Officer"
+msgstr ""
+
+#. ~ Profession (male Red Line Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You are one of the officers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#. ~ Profession (female Red Line Officer) description
+#: .\subway_professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You are one of the officers of the Red Line, a network of communist aligned "
+"stations in the New England Subway."
+msgstr ""
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Contested Station"
+msgstr ""
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Red Line station"
+msgstr ""
+
+#: .\Metro\Metro_map\overmap_terrain.json
+msgid "Reich Station"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid "Hello, What do you want from me?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_civ.json .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Hello, what do you want from me?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+msgid "What's it like living as member of the Red Line?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\Talk_sgs_civ.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Goodbye."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+msgid ""
+"Things can get pretty rough at times. I don't know what's worse, the "
+"nosalises that threaten us outside the metro, or the commissars breathing "
+"down our necks. I guess it's better than being dead, though."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redciv.json
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\Talk_sgs_civ.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Thanks for the info."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "Hello, Miss, What do you want from me?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+msgid "How do you serve as a soldier of the Red line?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_redguardnpc.json
+msgid ""
+"It's a duty I take with the utmost importance, there is no duty as solemn or"
+" as important as being a standard bearer of the proletarian revolution. "
+"Those Reich fascists and South Gate dogs will soon be welcomed into our "
+"fold, with blood if need be!"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+msgid "What's it like living in the Reich?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichciv.json
+msgid ""
+"Unlike most of the metro, things are pretty clean here. The rules are a bit "
+"too harsh at times though, and I'm often a bit fearful of the officers "
+"around here. It's hard to parse fact from fiction when it comes to this war "
+"with the reds."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "Hello, Why do you think you're important enough to talk to me, woman?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "Hello, Why do you think you're important enough to talk to me."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid "So you're an officer in the Reich? What's that like"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichofficer.json
+msgid ""
+"My task weighs heavily upon me at all times, the war with the Reds, that is."
+" Managing the stations and the war at the same time can be taxing, even for "
+"us Reich specimens. But I trust that we will win this war in the end."
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+msgid "How do you serve as a soldier of the Reich?"
+msgstr ""
+
+#: .\Metro\NPCs\Talk_metro_reichsoldier.json
+msgid ""
+"There is no higher honor than to serve as a soldier of the Reich against the"
+" hated reds. Our enemies are many, but they are all beneath us. Soon, all "
+"the stations of the metro will be within our grasp, just you wait!"
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid "Reich Doctor"
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid "I'm a doctor."
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Do you want anything from me? I'm a bit busy being at the moment."
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid "What is it like being a doctor in this metro?"
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json .\UnderRail\NPCs\sgs_doctor.json
+msgid "Do you have any medical items for me?"
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Goodbye, thank you for your time."
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json
+msgid ""
+"Serving the Reich can be tedious at times, very, very, very tedious. "
+"Sometimes I really do doubt myself, but the prospect of giving up when those"
+" red bastards are still out there is too much to bear."
+msgstr ""
+
+#: .\Metro\NPCs\metro_doctor.json .\Metro\NPCs\metro_redmerchant.json
+#: .\Metro\NPCs\metro_reichmerchant.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Got it."
+msgstr ""
+
+#: .\Metro\NPCs\metro_redcivilian.json
+msgid "Red Line Civilian"
+msgstr ""
+
+#: .\Metro\NPCs\metro_redcivilian.json
+msgid "A typical citizen of the Red Line."
+msgstr ""
+
+#: .\Metro\NPCs\metro_redguard.json .\ticketcards\red_spawncard.json
+msgid "Red Line Soldier"
+msgstr ""
+
+#: .\Metro\NPCs\metro_redguard.json .\Metro\NPCs\metro_reichheavy.json
+#: .\Metro\NPCs\metro_reichsoldier.json .\UnderRail\NPCs\sgs_guard.json
+#: .\UnderRail\NPCs\sgs_heavy_guard.json .\ticketcards\red_spawncard.json
+#: .\ticketcards\reich_spawncard.json
+msgid "Protects the station from assailants"
+msgstr ""
+
+#: .\Metro\NPCs\metro_redmerchant.json
+msgid "Red Line Merchant"
+msgstr ""
+
+#: .\Metro\NPCs\metro_redmerchant.json .\Metro\NPCs\metro_reichmerchant.json
+msgid "I'm a merchant."
+msgstr ""
+
+#: .\Metro\NPCs\metro_redmerchant.json .\Metro\NPCs\metro_reichmerchant.json
+msgid "Do you have anything for me to buy?"
+msgstr ""
+
+#: .\Metro\NPCs\metro_redmerchant.json
+msgid ""
+"Resources are tight, but we have more stuff than the reich. That much I can "
+"say with certainty."
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichciv.json
+msgid "Reich Civilian"
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichciv.json
+msgid "A typical citizen of the 4th Reich."
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichheavy.json
+msgid "Reich Heavy Soldier"
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid "Reich Merchant"
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichmerchant.json
+msgid ""
+"Resources are tight, but we're better equipped than the reds. That much I "
+"can say with certainty."
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichoff.json
+msgid "Reich Officer"
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichoff.json
+msgid "An officer of the 4th Reich."
+msgstr ""
+
+#: .\Metro\NPCs\metro_reichsoldier.json .\ticketcards\reich_spawncard.json
+msgid "Reich Soldier"
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "communist officer's hat"
+msgid_plural "communist officer's hats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "communist officer's hat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"The only hat for a man of the proletarian revolution. Shoot dissidents, "
+"reich fascists, dissidents and fascist dissidents disguised as civilians, "
+"and look great doing it!"
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "communist officer's coat"
+msgid_plural "communist officer's coats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "communist officer's coat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A thick leather jacket.  Protects against the cold of the metro when the "
+"warmth of the revolutionary spirit isn't enough."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Red Line combat vest"
+msgid_plural "Red Line combat vest"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for {'str_sp': 'Red Line combat vest'}.
+#. ~ Use action holster_msg for {'str_sp': '4th Reich combat vest'}.
+#. ~ Use action holster_msg for {'str_sp': 'South Gate Station security
+#. vest'}.
+#: .\Metro\metro_armor\metro_armor.json
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "You stash your %s."
+msgstr ""
+
+#. ~ Use action holster_prompt for {'str_sp': 'Red Line combat vest'}.
+#. ~ Use action holster_prompt for {'str_sp': '4th Reich combat vest'}.
+#. ~ Use action holster_prompt for {'str_sp': 'South Gate Station security
+#. vest'}.
+#: .\Metro\metro_armor\metro_armor.json
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Stash ammo"
+msgstr ""
+
+#. ~ Description for {'str_sp': 'Red Line combat vest'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A combat vest found in common use amongst the many soldiers of the red line."
+" Relatively cheap to make, its low encumberance comes at the cost of having "
+"relatively little ballistic protection."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Soviet flag"
+msgid_plural "Soviet flags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Soviet flag'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid "A large Soviet flag made to fly in even the worst conditions."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Red Line Ushanka"
+msgid_plural "Red Line Ushankas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Red Line Ushanka'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A hat made from the pelts of animals.  Extremely warm. Often worn by the "
+"citizens of the Red Line."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich officer's hat"
+msgid_plural "4th Reich officer's hats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "4th Reich officer's hat"}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"Few can be deemed pure enough to be allowed entry into the Reich Stations. "
+"Even fewer can become officers with an inflated sense of self importance."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich Formal Jacket"
+msgid_plural "4th Reich Formal Jackets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '4th Reich Formal Jacket'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"An authoritative-looking jacket outfitted with a 4th Reich Armband. Common "
+"amongst the higher ranking members of the 4th Reich stations."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich combat vest"
+msgid_plural "4th Reich combat vest"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': '4th Reich combat vest'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A combat vest found in common use amongst the well-trained, but somewhat "
+"rare, members of the 4th Reich stations. Offers a relatively decent amount "
+"of protection, at the cost of increased encumbrance."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich flag"
+msgid_plural "4th Reich flags"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '4th Reich flag'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid "A large Reich flag made to fly in even the worst conditions."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "4th Reich Heavy Armor"
+msgid_plural "4th Reich Heavy Armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '4th Reich Heavy Armor'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"Found only amongst the rarest of the rare Reich troops, this armor portends "
+"doom for those of the Red Line who come across it. Outfitted with thick "
+"metal plates, this armor is rather heavy."
+msgstr ""
+
+#: .\Metro\metro_armor\metro_armor.json
+msgid "Reich Stahlhelm"
+msgid_plural "Reich Stahlhelms"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Reich Stahlhelm'}
+#: .\Metro\metro_armor\metro_armor.json
+msgid ""
+"A heavy steel helmet that provides excellent protection from all sorts of "
+"damage.  How exactly people forced to live in the New England Metro got a "
+"hold of these seemingly geniune articles is one of the great many mysteries "
+"of the Cataclysm."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "lolife magazine"
+msgid_plural "lolife magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'lolife magazine'}
+#. ~ Description for {'str': 'lolife extended magazine'}
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid ""
+"A somehwat crude metal magazine for use with the common lolife pistol of the"
+" metro."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "lolife extended magazine"
+msgid_plural "lolife extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid "Lolife"
+msgid_plural "Lolife"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Metro\metro_weapons\metro_pistols.json
+msgid ""
+"The Lolife is a metro-made semi-automatic handgun with a standard eight-"
+"round magazine chambered in .44 Magnum. As the Lolife is a metro-made "
+"weapon, it has very little known history. It appears that Lolife has been "
+"produced since at least 2023."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Bastard magazine"
+msgid_plural "Bastard magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bastard magazine'}
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "A crude magazine for the bastard carbine.  Holds 30 rounds."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Kalash 2012 magazine"
+msgid_plural "Kalash 2012 magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Kalash 2012 magazine'}
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"A standard magazine made for the Kalash 2012 rifle, made entirely of a "
+"complex polymer.  Holds 40 rounds."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Bastard"
+msgid_plural "Bastards"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"The Bastard was one of the first Metro-made weapons. It is considerably "
+"cheaper to make and maintain than other guns, needing relatively few parts "
+"to create, making it ideal for weaponsmiths with few resources. This gun, "
+"like most, has its ups and downs. It has a high rate of fire and holds 30 "
+"rounds of ammunition, but fares poorly for sniping due to very poor accuracy"
+" beyond a few yards."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "semi-auto"
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "auto"
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "Kalash 2012"
+msgid_plural "Kalash 2012s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"Kalash 2012 is one of the weapons in the Metro that predates the war and it "
+"is highly prized. It's advanced polymer frame is rather unusual for Russian "
+"weapons, but it seems to make a good account of itself."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "2 rd."
+msgstr ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid "shambler"
+msgid_plural "shamblers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\Metro\metro_weapons\metro_rifles.json
+msgid ""
+"A shotgun modified to use a revolver cylinder mechanism, it can hold 6 "
+"cartridges. Common among the denizens of the metro, and packs quite a punch."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round"
+msgid_plural "5mm Standard Rounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round"
+msgid_plural "8.6mm Standard Rounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "Standard acid charge"
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "Acid vial"
+msgid_plural "Acid vials"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Acid vial'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A small glass vial containing a pre-measured charge of caustic acid. Be "
+"careful!"
+msgstr ""
+
+#. ~ Description for {'str': '5mm Standard Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round, reloaded"
+msgid_plural "5mm Standard Round, reloadeds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round, black powder"
+msgid_plural "5mm Standard Round, black powders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm Standard Round JHP"
+msgid_plural "5mm Standard Round JHPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5mm Standard Round JHP'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail. This variant features jacketed hollow point bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm W2C Round"
+msgid_plural "5mm W2C Rounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5mm W2C Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 5mm cartridge commonly seen in usage with low-power firearms common in the"
+" underrail. This variant features tungsten carbide bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "5mm standard round casing"
+msgid_plural "5mm standard round casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5mm standard round casing'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty casing from a 5mm standard round."
+msgstr ""
+
+#. ~ Description for {'str': '8.6mm Standard Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"An 8.6mm cartridge commonly seen in usage with high-power firearms common in"
+" the underrail."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round, reloaded"
+msgid_plural "8.6mm Standard Round, reloadeds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round, black powder"
+msgid_plural "8.6mm Standard Round, black powders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm Standard Round JHP"
+msgid_plural "8.6mm Standard Round JHPs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8.6mm Standard Round JHP'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"A 8.6mm cartridge commonly seen in usage with high-power firearms common in "
+"the underrail. This variant features jacketed hollow point bullet in-lieu of"
+" a conventional bullet, increasing stopping power."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm W2C Round"
+msgid_plural "8.6mm W2C Rounds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8.6mm W2C Round'}
+#: .\UnderRail\sgs_ammo.json
+msgid ""
+"An 8.6mm cartridge commonly seen in usage with high-power firearms common in"
+" the underrail. This variant features tungsten carbide bullet in-lieu of a "
+"conventional bullet, increasing stopping power."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "8.6mm standard round casing"
+msgid_plural "8.6mm standard round casings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '8.6mm standard round casing'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty casing from a 8.6mm standard round."
+msgstr ""
+
+#: .\UnderRail\sgs_ammo.json
+msgid "empty acid vial"
+msgid_plural "empty acid vials"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'empty acid vial'}
+#: .\UnderRail\sgs_ammo.json
+msgid "An empty vial from an acid pistol."
+msgstr ""
+
+#: .\UnderRail\sgs_items.json
+msgid "South Gate Station credit chit"
+msgid_plural "South Gate Station credit chits"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'South Gate Station credit chit'}
+#: .\UnderRail\sgs_items.json
+msgid ""
+"A small stamped circuit containing a pre-set amount of South Gate credits, "
+"popular in the underrail and quite valuable."
+msgstr ""
+
+#: .\UnderRail\sgs_mobs.json
+msgid "psi beetle"
+msgid_plural "psi beetles"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'psi beetle'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Azuridae are mutated and enlarged insects that resemble Rhinoceros beetles, "
+"instead of horns though, they have massive brains that they use to power "
+"their psionic abilities. Azuridae are so called due to the azure hue on "
+"their carapace. Their psionic powers have granted them nicknames such as psi"
+" beetle and psi bug by residents of the Underrail."
+msgstr ""
+
+#: .\UnderRail\sgs_mobs.json
+msgid "underrail crawler"
+msgid_plural "underrail crawlers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'underrail crawler'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Crawlers live in dark places, both ruins and caves and haunt the nightmares "
+"of Underrail and metro denizens alike. They look like pony-sized black "
+"scorpions. Beware if you find one, for the few moments of your life left to "
+"you might be brief."
+msgstr ""
+
+#: .\UnderRail\sgs_mobs.json
+msgid "nosalis"
+msgid_plural "nosaliss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'nosalis'}
+#: .\UnderRail\sgs_mobs.json
+msgid ""
+"Nosalises are the standard enemy of the metro. They are fierce predators, "
+"extremely territorial, and can easily overwhelm fortified positions in large"
+" numbers. Common between all types however, is a bipedal and humanoid shape "
+"with two arms and legs, arched spines, and large round heads that "
+"prominently display big noses, gaping jaws, and huge teeth. Their nests are "
+"seemingly everywhere in the metro, but the creatures are less frequently "
+"seen on the surface."
+msgstr ""
+
+#: .\UnderRail\sgs_terrain.json
+msgid "glow wort"
+msgstr ""
+
+#. ~ Description for glow wort
+#: .\UnderRail\sgs_terrain.json
+msgid ""
+"A bio-lumiscent mushroom that emits a low level of light as part of its "
+"biological process."
+msgstr ""
+
+#: .\UnderRail\sgs_terrain.json
+msgid "SMASH!"
+msgstr ""
+
+#: .\UnderRail\sgs_terrain.json
+msgid "flaming barrel"
+msgstr ""
+
+#. ~ Description for flaming barrel
+#: .\UnderRail\sgs_terrain.json
+msgid ""
+"A perforated barrel filled with some kind of combusting fuel to give light "
+"to people around it."
+msgstr ""
+
+#: .\UnderRail\sgs_terrain.json
+msgid "electric lamp"
+msgstr ""
+
+#. ~ Description for electric lamp
+#: .\UnderRail\sgs_terrain.json
+msgid "A simple electric lamp that emits energy via an electric current."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Can't you see that I'm busy? whatever you wan't make sure it's important."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"How do you perform the job of being a councilor for South Gate station??"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json .\UnderRail\NPCs\sgs_cook.json
+#: .\UnderRail\NPCs\sgs_doctor.json .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Do you have a task for me?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"South Gate Station is led primarily by councilors. We are a small number of "
+"people that comprise the ruling council of South Gate Station. Without our "
+"guidance, the administration, engineering, life support, trade and security "
+"of the entire SGS complex would probably fall into disarray."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Deal with the infestation"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"I know you're a bit new to the Underrail, but an infestation has come to our"
+" attention near South Gate Station, and I want you to deal with it."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Get to it, you know how infestations can get if we don't act quickly."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Hm, I guess I'll just get one of the guards to deal with them!"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Remember, Psibugs can induce a state of fear in their targets, please be "
+"careful."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Has the infestation been dealt with?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Great work, you've done South Great Station a great service."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "I'm not entirely sure if you're telling the truth, but alright."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "So the infestation isn't being dealt with?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Kill Underrail Bandits"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Kill Underrail Bandits'}'
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"A group of bandits have taken up a position near South Gate Station, find "
+"them and kill them for us."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"I need your help again, some bandits have set up camp near our station, and "
+"extoring local travellers for their property. We need you to deal with it."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Be sure to kill those people as soon as possible."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"Laziness of your caliber is rare, perhaps you're no better than the scum out"
+" on the Underrail."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Don't underestimate these people, they're more robust than you think."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Are they dead yet?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid ""
+"South Gate Station is made safer by your efforts. Here, take these items as "
+"a reward"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "What good does this do us?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_admin.json
+msgid "Alright, at least you tried."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "What do you want, why are you speaking to me anyway, girl?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "What do you want, why are you speaking to me anyway?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid ""
+"What's it like being a ruthless bandit, do you get the kill people often?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "See you later."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid ""
+"Killing people? Have you been watching too many video tapes or something? "
+"The criminal life isn't easy, friend, most of us barely get by. Sure, "
+"assaulting random people for their stuff can be fun, but we're more than "
+"just that."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_bandit.json
+msgid "I see."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid "What's it like living as member of South Gate Station?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_civ.json
+msgid ""
+"What is there to say really? It's far better than getting mauled to death by"
+" whatever exists outside or on the surface world. Food is somewhat "
+"plentiful, and things are clean."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid "How do you serve as a soldier for South Gate Station?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_guardnpc.json
+msgid ""
+"It can be difficult at times, but it's better than being some pipe-worker "
+"who gets stabbed by a nightstalker out of nowhere.."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Heya, Missy what's a girl like you doing around here? *burps*"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Howdy partner, what are you doing moseying?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "What's your deal anyway, buddy?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json .\ticketcards\red_talk_spawncard.json
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Want to travel with me?"
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid ""
+"MY deal? What's YOUR deal? You walk up to me and start asking inane "
+"questions to every person you meet and you think we're always going to be "
+"kind to you? How about some manners you cave hopper-brained imbecile."
+msgstr ""
+
+#: .\UnderRail\NPCs\Talk_sgs_pipe.json
+msgid "Okay, jeez."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_administrator.json
+msgid "South Gate Councilor"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_administrator.json
+msgid "A councilor of South gate station."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_bandit.json
+msgid "Underrail bandit"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_bandit.json
+msgid "Assaults denizens of the underrail and nabs their loot."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_civilian.json
+msgid "South Gate Civilian"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_civilian.json
+msgid "A typical citizen of South Gate Station."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "South Gate Cook"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "I'm a local shopkeeper."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "What is it like being a cook in this station?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Could I get any food?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"I truly love my job around here. Sure the food might be pretty basic: a few "
+"selections of cavehopper meat and farmed potatoes, but it never gets old "
+"seeing the look on people's faces when they eat this slop."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Retrieve a copy of Cooking on a
+#. Budget.'}'
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Retrieve a copy of Cooking on a Budget."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"I'll let you in on a little secret, well perhaps it's not very little. I'm "
+"not a very good cook and I think people are starting to become aware of "
+"that, could you help me out by finding me a cookbook, it would be a great "
+"help."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Help me find a copy of the book 'Cooking on a Budget'. I'm not a very good "
+"cook, and I could use the knowledge contained within that text."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+msgid "Thanks for accepting my offer."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Ouch, I guess people are gonna have to get used to cave hopper burgers for a"
+" long while."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Libraries, Schools and Homes might have a cookbook or two, see what you can "
+"find."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Have you found what I requested yet?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid "Great work, I'll become a master chef in no time."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json .\UnderRail\NPCs\sgs_doctor.json
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "That's odd, I don't really know what to say."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_cook.json
+msgid ""
+"Well, you did what you could. It's just that food will be as bland as ever."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "South Gate Doctor"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "What is it like being a doctor in this station?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"It's actually pretty easy, all things considered. Most of the time people "
+"come back with little more than a few cave hopper scratches. Watch out for "
+"nighstalkers though, they can be pretty nasty."
+msgstr ""
+
+#. 
+#. ~ Description for mission '{'str': 'Retrieve a syringe of adrenaline.'}'
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Retrieve a syringe of adrenaline."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Look, I'm a bit busy here, but I think you could help me out here. I fear "
+"that more skirmishes with other stations are on the horizon, and its "
+"imperative that we prepare for any eventuality. Would you be willing to get "
+"me an adrenaline syringe?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Would you be willing to get me an adrenaline syringe? I think the troops out"
+" in the Underrail would greatly appreciate it."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "That's unfortunate."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Look for doctor's officers and hospitals on the surface, you'll probably "
+"find some there."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid "Great work, this adrenaline will be useful."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_doctor.json
+msgid ""
+"Well, you did what you could. but it's unfortunate that we'll be lacking "
+"adrenaline."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_guard.json
+msgid "South Gate Guard"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "South Gate Gun Merchant"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "South Gate Gun merchant"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "What are you buying, what are you selling?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "What is it like being a gun merchant around here?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Would you be willing to let me buy anything?"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"You would be surprised at the amount of business we get, even all the way "
+"down here in a subway. I guess it pays to be a safe-haven in an unsafe "
+"world. A lot of people are pretty confused by our guns though, it's like "
+"they've never seen them before."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Retrieve two firearm repair kits"
+msgstr ""
+
+#. ~ Description for mission '{'str': 'Retrieve two firearm repair kits'}'
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid "Retrieve two firearm repair kits for the Gun Merchant."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I've been running low on gun repair kits. It seems like conflict with other "
+"stations has flared up again recently, and we're quickly running through "
+"supplies. We'll reach a maintenance bottleneck soon, and we can't afford to "
+"have that happen."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I would appreciate it greatly if you could get me two firearm repair kits, "
+"if that's not too much to ask."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"I thank you for accepting this, now make it quick, we don't have time to "
+"spare."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"That's unfortunate, but I guess I'll have to find some way to make things "
+"work out."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Gun stores on the surface probably have firearm repair kits, perhaps you "
+"could even make one yourself if you know enough."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Great work, things in South Gate just got a little safer thanks to you."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_gun_merchant.json
+msgid ""
+"Well, you did what you could. It's just that things will get more difficult "
+"fron now on."
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_heavy_guard.json
+msgid "South Gate Heavy Guard"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_pipeworker.json
+msgid "Pipeworker"
+msgstr ""
+
+#: .\UnderRail\NPCs\sgs_pipeworker.json
+msgid "A pipeworker."
+msgstr ""
+
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "South Gate Outpost"
+msgstr ""
+
+#: .\UnderRail\SGS_maps\overmap_terrain.json
+msgid "Underrail Cave"
+msgstr ""
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "South Gate Station Security Uniform"
+msgid_plural "South Gate Station Security Uniform"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'South Gate Station Security Uniform'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"The standard and uniformly dull blue uniform worn by most members of the "
+"South Gate Station security detail. Often associated with bravery, or a "
+"quick death."
+msgstr ""
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Cave Hopper Leather Armor"
+msgid_plural "Cave Hopper Leather Armor"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Cave Hopper Leather Armor'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A rather lightweight armor protecting user's vital torso area, in addition "
+"to some arm protection. This armor is made of cave hopper leather. ."
+msgstr ""
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "South Gate Station security vest"
+msgid_plural "South Gate Station security vest"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'South Gate Station security vest'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A nylon vest equipped with several pouches for magazine and ammunition "
+"storage. Comes pre-equipped with several light ballistic plates that provide"
+" a small modicum of protection."
+msgstr ""
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Underrail Metal Armor"
+msgid_plural "Underrail Metal Armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Underrail Metal Armor'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"Near all-encompasing suit of metal armor. Outfitted with enough steel plates"
+" to cover the overwhelming majority of the user's body. Its immense "
+"protection comes with a drawback: its immense weight and incumberence for "
+"all but strong users."
+msgstr ""
+
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid "Underrail metal helmet"
+msgid_plural "Underrail metal helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Underrail metal helmet'}
+#: .\UnderRail\underrail_armor\sgs_armor.json
+msgid ""
+"A helmet made from plates of steel with a visor of ballistic glass. Made for"
+" use in tandem with underrail metal armor."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid "Zephyr crossbow"
+msgid_plural "Zephyr crossbows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid ""
+"A light crossbow common amongst the more poor denizens of the underrail.  "
+"Stronger people can reload it much faster.  Bolts fired from this weapon "
+"have a good chance of remaining intact for re-use. Why one would use these "
+"instead of firearms is unknown, but many swear by them."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid "Cyclon crossbow"
+msgid_plural "Cyclon crossbows"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_crossbows.json
+msgid ""
+"A high-power crossbow with with an intricate 4-bar mechanism to reduce felt "
+"load when tensing the crossbow.  Takes less time to reload due to a modern "
+"string-pulling system, but comes at the expense of stopping power."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid "shock steel sledge hammer"
+msgid_plural "shock steel sledge hammers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shock steel sledge hammer'}
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid ""
+"A large, heavy hammer.  Makes an acceptable melee weapon for the very "
+"strong, but is nearly useless in the hands of the weak. This variant has "
+"been outfitted with electrodes, making it useful to shock people with."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid "shock dagger"
+msgid_plural "shock daggerss"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'shock dagger', 'str_pl': 'shock daggerss'}
+#: .\UnderRail\underrail_weapons\sgs_melee.json
+msgid ""
+"This is a combat knife common to the underrail.  It is light and extremely "
+"sharp, and could be deadly in either the right hands or when attached as a "
+"bayonet. This version has been outfitted with electrodes, allowing the user "
+"to shock their target before going in for a stab."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker extended magazine"
+msgid_plural "Hawker extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hawker extended magazine'}
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"An extended 28-round polymer magazine for use with standard round compatible"
+" firearms."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker magazine"
+msgid_plural "Hawker magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hawker magazine'}
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A compact light-weight polymer magazine for use with 5mm standard round "
+"compatible firearms."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Hawker pistol"
+msgid_plural "Hawker pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A weak pistol common amongst all strata of the underrail, from the lowest "
+"junkyard mutant to the highest protectorate officer. Prized by all for its "
+"ease of use, low production costs, and relatively common ammunition."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "South Gate laser pistol"
+msgid_plural "South Gate laser pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"This model of laser pistol is one of a rare type in the underail. Most "
+"denizens of the underrail are more than content to meet their death at the "
+"hands of a firearm, but few are ready for a laser weapon!"
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid "Acid Pistol"
+msgid_plural "Acid Pistols"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgid ""
+"A curious and rare pistol in the underrail. What's not so curious is what "
+"its acid vials do to your skin when they want to dissolve it into its base "
+"components."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_pistols.json
+msgctxt "gun_type_type"
+msgid "pistol"
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Hornet 30-round magazine"
+msgid_plural "Hornet 30-round magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hornet 30-round magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A standard capacity 30-round box magazine for use with the Hornet 7.62mm "
+"assault rifles."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Marauder 25-round magazine"
+msgid_plural "Marauder 25-round magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Marauder 25-round magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A standard capacity 25-round box magazine for use with Marauder 8.6mm "
+"compatible rifles."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "spearhead magazine"
+msgid_plural "spearhead magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'spearhead magazine'}
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A stadard 10-round steel box magazine compatible with 7.62 Spearhead rifle."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Hornet 7.62mm"
+msgid_plural "Hornet 7.62mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"The Hornet is a protectorate assault rifle that uses a bullpup design.  It "
+"is often seen as the long arm of the protectorate, although is also popular "
+"with other civilized stations, such as South Gate."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "Marauder 8.6mm"
+msgid_plural "Marauder 8.6mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"The Marauder is a core-city assault rifle that uses a bullpup design.  It is"
+" often seen in use among the private security groups that essentially serve "
+"as private armies."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "3 rd."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid "7.62mm Spearhead"
+msgid_plural "7.62mm Spearhead"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_rifles.json
+msgid ""
+"A famed 7.62mm Spearhead sniper rifle. Purported to once be far, far more "
+"powerful than it now is."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Jackrabbit magazine"
+msgid_plural "Jackrabbit magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Jackrabbit magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"A standard 30-round steel box magazine for use with the Jackrabbit SMG."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat extended magazine"
+msgid_plural "Steel Cat extended magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Steel Cat extended magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"A drum magazine for use with the Steel Cat SMG.  Much greater capacity but "
+"less reliable the factory specification magazine."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat magazine"
+msgid_plural "Steel Cat magazines"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Steel Cat magazine'}
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "A standard capacity curved magazine for use with the Steel Cat SMG."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Jackrabbit 5mm"
+msgid_plural "Jackrabbit 5mm"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"The jacrabbit is well deserving of its namesake. As far as SMGs go, its very"
+" rapid, albeit uncontrollable for inexperienced users."
+msgstr ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid "Steel Cat 8.6mm"
+msgid_plural "Steel Cat 8.6mms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\UnderRail\underrail_weapons\sgs_smg.json
+msgid ""
+"The Steel Cat is one of the most widely-used submachine guns in the entire "
+"underrail, and has been adopted by special forces and general security "
+"alike."
+msgstr ""
+
+#: .\ticketcards\red_talk_spawncard.json
+msgid "Hello comrade officer, I am ready to join you on your journey!"
+msgstr ""
+
+#: .\ticketcards\red_talk_spawncard.json
+msgid "Red Line Officer Card"
+msgid_plural "Red Line Officer Cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Red Line Officer Card'}
+#: .\ticketcards\red_talk_spawncard.json
+msgid "A single-use card that summons a Red Line Soldier for the user."
+msgstr ""
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Hello Fraulein Officer, I am ready to join you on your journey!"
+msgstr ""
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Hello Herr Officer, I am ready to join you on your journey!"
+msgstr ""
+
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "Reich Officer Card"
+msgid_plural "Reich Officer Cards"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Reich Officer Card'}
+#: .\ticketcards\reich_talk_spawncard.json
+msgid "A single-use card that summons a 4th Reich Soldier for the user."
+msgstr ""
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json Change\sgs_factionchange.json
+msgid "Faction Changer"
+msgstr ""
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json Change\sgs_factionchange.json
+msgid ""
+"A stopgap to allow the user to change their faction at the start of the "
+"game."
+msgstr ""
+
+#: .\ticketcards\Faction Change\red_factionchange.json
+msgid "Red Line faction change device"
+msgid_plural "Red Line faction change devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Red Line faction change device'}
+#. ~ Description for {'str': '4th Reich faction change device'}
+#: .\ticketcards\Faction Change\red_factionchange.json
+#: Change\reich_factionchange.json
+msgid ""
+"A device used to decrease the player character's relationship with the 4th "
+"Reich and South Gate Station. Should only be available at spawn, otherwise a"
+" glitch has occurred."
+msgstr ""
+
+#: .\ticketcards\Faction Change\reich_factionchange.json
+msgid "4th Reich faction change device"
+msgid_plural "4th Reich faction change devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: .\ticketcards\Faction Change\sgs_factionchange.json
+msgid "South Gate faction change device"
+msgid_plural "South Gate faction change devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'South Gate faction change device'}
+#: .\ticketcards\Faction Change\sgs_factionchange.json
+msgid ""
+"A device used to decrease the player character's relationship with the 4th "
+"Reich and Red Line. Should only be available at spawn, otherwise a glitch "
+"has occurred."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"Hello lady, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the Red Line"
+" Profession Start."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"Hello sir, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the Red Line"
+" Profession Start."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "Decrease the Reich's reputation with me."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "I have decreased your relationship with the 4th Reich by 75 points."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid "Now change my relationship with South Gate Station."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json
+msgid ""
+"I have decreased your relationship with South Gate Station by 75 points."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "Proceed."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "The process is complete."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_red_factioncharge.json
+#: Change\talk_reich_factioncharge.json Change\talk_sgs_factioncharge.json
+msgid "Now go away"
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_reich_factioncharge.json
+msgid "Decrease the Red Line's reputation with me."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_reich_factioncharge.json
+#: Change\talk_sgs_factioncharge.json
+msgid "I have decreased your relationship with the Red Line by 75 points."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid ""
+"Hello lady, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the South "
+"Gate Profession Start."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid ""
+"Hello sir, I am a stopgap to allow the user to change their faction at the "
+"start of the game. Otherwise it would be impossible to play for the South "
+"Gate Profession Start."
+msgstr ""
+
+#: .\ticketcards\Faction Change\talk_sgs_factioncharge.json
+msgid "Now change my relationship with the Red Line."
+msgstr ""

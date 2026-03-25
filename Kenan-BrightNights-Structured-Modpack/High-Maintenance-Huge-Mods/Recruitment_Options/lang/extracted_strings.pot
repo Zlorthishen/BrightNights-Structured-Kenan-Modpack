@@ -1,0 +1,185 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: recruitment_options\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\TALK_EMERGENCY.json
+msgid ""
+"[ON FIRE]  AAAuuuugh, <swear!>!  I'm on fire!  Don't just stand there, "
+"<name_b>.  Help put me out."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid "[POLICE] Officer, with all this trouble, I could use some assistance."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid ""
+"[BADGE] Well, fellow police person.  We need to team up to, like, fight "
+"crime and stuff."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid "[DOCTOR] Because we should work together to help the injured."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid ""
+"[MEDICAL]  It's because I'm sick, doc.  You gotta help me get through this."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid ""
+"[MARTIAL ARTS] A rival school, eh?  We'll see who's the strongest.  Prepare "
+"yourself for battle!"
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid "[FANCY] Because you seem legit.  Wanna roll with my squad?"
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid "[GUITAR] These roads are mighty long and lonesome."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid "[POWER ARMOR] Because I'm the dude in power armor."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid ""
+"[CANNIBAL] There's no need to be ashamed, <name_g>.  And no need to go "
+"hungry.  Bon Appetit."
+msgstr ""
+
+#: .\TALK_RECRUIT.json
+msgid ""
+"[PSYCHO] You can eat whoever you want as long as it's not me.  I don't "
+"really care."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid ""
+"[ALPHA 100%] Come, brother, we must work together to forge a new world."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[BEAST 100%] Another predator!  Let the hunt begin!"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[BIRD 100%] The great migration has begun."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[BOVINE 100%] Come, join the herd before you're left behind."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[CEPHALOPOD 100%] Finally, someone worth talking to."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[CHAOS 100%] One is a monster. Two is an army."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[FEY 100%] Shall we form a bond?"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[FELINE 100%] Hungry. Sleepy. Hungry?"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid ""
+"[AQUATIC 100%] It's dry and bright here.  Let's leave this harsh desert "
+"behind."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[INSECT 100%] You must serve the queen."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[LIZARD 100%] I hunger for meat.  How will you help feed me?"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[WOLF 100%] Take your place among the pack."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[PROTOTYPE 100%] Let's see just how much we can improve ourselves."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[DIMINUTIVE 100%] Safety?  Danger?  Let's flee."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[MYCUS 100%] WE are the Mycus."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid ""
+"[PLANT 100%] Let's take root before the fertile lands are claimed by others."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[RAPTOR 100%] Shall we do battle or join together?"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid ""
+"[RAT 100%] Finally. Someone as sensible and handsome as myself.  It's about "
+"time."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid ""
+"[AQUEOUS 100%] Are we still separate entities?  It's confusing sometimes."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[ARACHNID 100%] We can't prey on our own kind, now, can we?"
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[SUBTERRANEAN 100%] The dark caves await us."
+msgstr ""
+
+#: .\TALK_RECRUIT_THRESH.json
+msgid "[BEAR 100%] We must feed before winter."
+msgstr ""
+
+#: .\effects.json
+msgid "Extinguishing Fire"
+msgstr ""
+
+#. ~ Description of effect 'Extinguishing Fire'.
+#: .\effects.json
+msgid "You are on fire, and someone or something is helping put you out."
+msgstr ""
+
+#. ~ Apply message for effect(s) 'Extinguishing Fire'.
+#: .\effects.json
+msgid "It burns! Put out that fire!"
+msgstr ""
+
+#: .\modinfo.json
+msgid "NPC Recruitment Options"
+msgstr ""
+
+#. ~ Description for NPC Recruitment Options
+#: .\modinfo.json
+msgid ""
+"Gives special recruitment dialog if your character and an NPC have certain "
+"traits, stats, effects, or gear.  Post-threshold mutants will always join "
+"their own kind."
+msgstr ""

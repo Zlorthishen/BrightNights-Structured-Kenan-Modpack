@@ -1,0 +1,2212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Language: zh_TW\n"
+msgstr ""
+"Project-Id-Version: ProjectKawaii\n"
+"POT-Creation-Date: 2026-03-14 05:25+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\AMTS_ammo.json
+msgid "7.62x51mm AM"
+msgstr "7.62x51mm AM"
+
+#: .\AMTS_ammo.json
+msgid "A&M Custom 7.62x51mm Rounds"
+msgid_plural "A&M Custom 7.62x51mm Roundss"
+msgstr[0] "A&M 定製 7.62x51mm 彈藥"
+
+#. ~ Description for {'str': 'A&M Custom 7.62x51mm Rounds'}
+#: .\AMTS_ammo.json
+msgid "For exclusive use in A&M Products。"
+msgstr "專供 A&M 產品使用。"
+
+#: .\AMTS_container.json
+msgid "A&M 2L Bottle"
+msgid_plural "A&M 2L Bottles"
+msgstr[0] "A&M 2升水瓶"
+
+#. ~ Description for {'str': 'A&M 2L Bottle'}
+#: .\AMTS_container.json
+msgid ""
+"This folding 2L bottle is made out of a proprietary A&M plastic of reduced "
+"weight. It did not sell well initially, but became a valuable collectors "
+"item once produciton ended."
+msgstr "這款可摺疊的 2 升水瓶採用 A&M 專有的輕量化塑料製成。最初銷量不佳，但在停產之後成為了珍貴的收藏品。"
+
+#: .\AMTS_container.json
+msgid "A&M 10L Jerrycan"
+msgid_plural "A&M 10L Jerrycans"
+msgstr[0] "A&M 10升油桶"
+
+#. ~ Description for {'str': 'A&M 10L Jerrycan'}
+#: .\AMTS_container.json
+msgid ""
+"This 10L jerrycan is made out of a proprietary A&M plastic of reduced "
+"weight. It did not sell well initially, but became a valuable collectors "
+"item once produciton ended."
+msgstr "這款 10 升油桶採用 A&M 專有的輕量化塑料製成。最初銷量不佳，但在停產之後成為了珍貴的收藏品。"
+
+#: .\AMTS_container.json
+msgid "A&M 20L Jerrycan"
+msgid_plural "A&M 20L Jerrycans"
+msgstr[0] "A&M 20升油桶"
+
+#. ~ Description for {'str': 'A&M 20L Jerrycan'}
+#: .\AMTS_container.json
+msgid ""
+"This 20L jerrycan is made out of a proprietary A&M plastic of reduced "
+"weight. It did not sell well initially, but became a valuable collectors "
+"item once produciton ended."
+msgstr "這款 20 升油桶採用 A&M 專有的輕量化塑料製成。最初銷量不佳，但在停產之後成為了珍貴的收藏品。"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS]</color> Receiver"
+msgid_plural "<color_pink>[AMTS]</color> Receivers"
+msgstr[0] "<color_pink>[AMTS]</color> 接收器"
+
+#. ~ Description for {'str': '<color_pink>[AMTS]</color> Receiver'}
+#: .\AMTS_items.json
+msgid ""
+"Use this to send a request for an item from the A&M dimensional transfer "
+"system."
+msgstr "使用此設備可從 A&M 維度傳輸系統請求物品。"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS]</color> Transmitter"
+msgid_plural "<color_pink>[AMTS]</color> Transmitters"
+msgstr[0] "<color_pink>[AMTS]</color> 發射器"
+
+#. ~ Description for {'str': '<color_pink>[AMTS]</color> Transmitter'}
+#: .\AMTS_items.json
+msgid ""
+"Use this to send away an item to the A&M dimensional transfer system in "
+"exchange for points."
+msgstr "使用此設備可將物品發送至 A&M 維度傳輸系統以換取點數。"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS]</color> Point"
+msgid_plural "<color_pink>[AMTS]</color> Points"
+msgstr[0] "<color_pink>[AMTS]</color> 點數器"
+
+#. ~ Description for {'str': '<color_pink>[AMTS]</color> Point', 'str_pl':
+#. '<color_pink>[AMTS]</color> Points'}
+#: .\AMTS_items.json
+msgid ""
+"This device allows you to see how much currency you've accumulated for use "
+"with the A&M dimensional transfer system."
+msgstr "此設備可讓你查看為使用 A&M 維度傳輸系統所累積的貨幣數量。"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS]</color> Packaging System"
+msgid_plural "<color_pink>[AMTS]</color> Packaging Systems"
+msgstr[0] "<color_pink>[AMTS]</color> 打包系統"
+
+#. ~ Description for {'str': '<color_pink>[AMTS]</color> Packaging System'}
+#: .\AMTS_items.json
+msgid ""
+"This is a packaging system for use with the A&M dimensional transfer system."
+" It can be used to compress raw material into a single package which can be "
+"sent to the AMTS in exchange for points."
+msgstr "這是用於 A&M 維度傳輸系統的打包系統。它可以將原材料壓縮成單個包裹，發送至 AMTS 以換取點數。"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (logs x3)"
+msgid_plural "[AMTS] Compressed Matter Packages (logs x3)"
+msgstr[0] "[AMTS] 壓縮物質包裹（原木 x3）"
+
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (logs x3)',
+#. 'str_pl': '[AMTS] Compressed Matter Packages (logs x3)'}
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (scrap metal
+#. x30)', 'str_pl': '[AMTS] Compressed Matter Packages (scrap metal x30)'}
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (rags x30)',
+#. 'str_pl': '[AMTS] Compressed Matter Packages (scrap metal x30)'}
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (logs x6)',
+#. 'str_pl': '[AMTS] Compressed Matter Packages (logs x6)'}
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (scrap metal
+#. x60)', 'str_pl': '[AMTS] Compressed Matter Packages (scrap metal x60)'}
+#. ~ Description for {'str': '[AMTS] Compressed Matter Package (rags x60)',
+#. 'str_pl': '[AMTS] Compressed Matter Packages (rags x60)'}
+#: .\AMTS_items.json
+msgid ""
+"An A&M compressed matter package ready for dimensional transfer. It can be "
+"exchanged for points."
+msgstr "一個已準備進行維度傳輸的A&M壓縮物質包裹。可用於兌換點數。"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (scrap metal x30)"
+msgid_plural "[AMTS] Compressed Matter Packages (scrap metal x30)"
+msgstr[0] "[AMTS] 壓縮物質包裹（廢金屬 x30）"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (rags x30)"
+msgid_plural "[AMTS] Compressed Matter Packages (scrap metal x30)"
+msgstr[0] "[AMTS] 壓縮物質包裹（破布 x30）"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (logs x6)"
+msgid_plural "[AMTS] Compressed Matter Packages (logs x6)"
+msgstr[0] "[AMTS] 壓縮物質包裹（原木 x6）"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (scrap metal x60)"
+msgid_plural "[AMTS] Compressed Matter Packages (scrap metal x60)"
+msgstr[0] "[AMTS] 壓縮物質包裹（廢金屬 x60）"
+
+#: .\AMTS_items.json
+msgid "[AMTS] Compressed Matter Package (rags x60)"
+msgid_plural "[AMTS] Compressed Matter Packages (rags x60)"
+msgstr[0] "[AMTS] 壓縮物質包裹（破布 x60）"
+
+#: .\AMTS_items.json
+msgid "Cute High Capacity UPS"
+msgid_plural "Cute High Capacity UPSs"
+msgstr[0] "可愛高容量UPS"
+
+#. ~ Description for {'str': 'Cute High Capacity UPS'}
+#: .\AMTS_items.json
+msgid ""
+"A UPS by A&M that stores more charge with less weight than standard UPS "
+"modules."
+msgstr "一款由A&M製造的UPS，相比標準UPS模塊，能以更輕的重量存儲更多電量。"
+
+#: .\AMTS_items.json
+msgid "Cute Portable Kitchen"
+msgid_plural "Cute Portable Kitchens"
+msgstr[0] "可愛便攜廚房"
+
+#. ~ Description for {'str': 'Cute Portable Kitchen'}
+#: .\AMTS_items.json
+msgid ""
+"A&M manufactured portable cooking set. There are supposedly very few of "
+"these made due to the extrordinary costs, a direct consequence of using "
+"A&M's proprietary advanced alloy in its construction."
+msgstr "A&M製造的便攜烹飪套裝。據說由於使用了A&M專有的先進合金，製造成本極高，因此產量極少。"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS] </color>EVE Scout Rifle"
+msgid_plural "<color_pink>[AMTS] </color>EVE Scout Rifles"
+msgstr[0] "<color_pink>[AMTS] </color>EVE偵察步槍"
+
+#: .\AMTS_items.json
+msgid ""
+"An advanced prototype rifle. Has both semi-automatic and two-round burst "
+"firing modes."
+msgstr "一款先進的原型步槍。擁有半自動和兩連發點射兩種開火模式。"
+
+#: .\AMTS_items.json
+msgid "semi auto"
+msgstr "半自動"
+
+#: .\AMTS_items.json
+msgid "burst"
+msgstr "連發"
+
+#: .\AMTS_items.json
+msgid "<color_pink>[AMTS]</color> EVE Scout Rifle 7.62x51mm Magazine"
+msgid_plural "<color_pink>[AMTS]</color> EVE Scout Rifle 7.62x51mm Magazines"
+msgstr[0] "<color_pink>[AMTS]</color> EVE偵察步槍 7.62x51mm 彈匣"
+
+#. ~ Description for {'str': '<color_pink>[AMTS]</color> EVE Scout Rifle
+#. 7.62x51mm Magazine'}
+#: .\AMTS_items.json
+msgid "Exlusively for use with the AMTS Eve Scout Rifle. It holds 20 rounds."
+msgstr "專為AMTS Eve偵察步槍設計。可容納20發子彈。"
+
+#: .\AMTS_items.json
+msgid ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 1 (About Packaging)"
+msgid_plural ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 1 (About Packaging)s"
+msgstr[0] "<color_pink>[AMTS]</color> A&M員工手冊 第1級（關於包裝）"
+
+#. ~ Description for {'str': "<color_pink>[AMTS]</color> A&M Employee's Manual
+#. Tier 1 (About Packaging)"}
+#: .\AMTS_items.json
+msgid ""
+"A manual for Alice & Maria employees. It explains how to pack items for use "
+"with the AMTS packaging system."
+msgstr "一本為愛麗絲與瑪麗亞員工編寫的手冊。解釋瞭如何為AMTS包裝系統打包物品。"
+
+#: .\AMTS_items.json
+msgid ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 2 (About Efficient "
+"Packaging)"
+msgid_plural ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 2 (About Efficient "
+"Packaging)s"
+msgstr[0] "<color_pink>[AMTS]</color> A&M員工手冊 第2級（關於高效包裝）"
+
+#. ~ Description for {'str': "<color_pink>[AMTS]</color> A&M Employee's Manual
+#. Tier 2 (About Efficient Packaging)"}
+#: .\AMTS_items.json
+msgid ""
+"A manual for Alice & Maria employees. It explains how to effiently pack "
+"items for use with the AMTS packaging system."
+msgstr "一本為愛麗絲與瑪麗亞員工編寫的手冊。解釋瞭如何高效地為AMTS包裝系統打包物品。"
+
+#: .\AMTS_items.json
+msgid ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 3 (About Gear "
+"Packaging)"
+msgid_plural ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier 3 (About Gear "
+"Packaging)s"
+msgstr[0] "<color_pink>[AMTS]</color> A&M員工手冊 第3級（關於裝備包裝）"
+
+#. ~ Description for {'str': "<color_pink>[AMTS]</color> A&M Employee's Manual
+#. Tier 3 (About Gear Packaging)"}
+#: .\AMTS_items.json
+msgid ""
+"A manual for Alice & Maria employees. It explains how to pack gear for use "
+"with the AMTS packaging system."
+msgstr "一本為愛麗絲與瑪麗亞員工編寫的手冊。解釋瞭如何為AMTS包裝系統打包裝備。"
+
+#: .\AMTS_items.json
+msgid ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier Kawaii (About Kawaii "
+"Packaging)"
+msgid_plural ""
+"<color_pink>[AMTS]</color> A&M Employee's Manual Tier Kawaii (About Kawaii "
+"Packaging)s"
+msgstr[0] "<color_pink>[AMTS]</color> A&M員工手冊 可愛級（關於可愛物品包裝）"
+
+#. ~ Description for {'str': "<color_pink>[AMTS]</color> A&M Employee's Manual
+#. Tier Kawaii (About Kawaii Packaging)"}
+#: .\AMTS_items.json
+msgid ""
+"A manual for Alice & Maria employees. It explains how to pack kawaii items "
+"for use with the AMTS packaging system."
+msgstr "一本為愛麗絲與瑪麗亞員工編寫的手冊。解釋瞭如何為AMTS包裝系統打包可愛物品。"
+
+#. ~ Crafting recipes category name
+#: .\AMTS_recipes.json
+msgid "AMTS"
+msgstr "AMTS"
+
+#. ~ Crafting recipes subcategory all
+#: .\AMTS_recipes.json
+msgid "ALL"
+msgstr "全部"
+
+#. ~ Crafting recipes subcategory of 'AMTS' category
+#: .\AMTS_recipes.json
+msgid "DEVICES"
+msgstr "設備"
+
+#. ~ Crafting recipes subcategory of 'AMTS' category
+#: .\AMTS_recipes.json
+msgid "PACKAGING & SHIPPING"
+msgstr "包裝與運輸"
+
+#. ~ Crafting recipes subcategory of 'AMTS' category
+#: .\AMTS_recipes.json
+msgid "REDEEM POINTS"
+msgstr "兌換點數"
+
+#: .\abstract.json
+msgid "Cute glasses base"
+msgid_plural "Cute glasses bases"
+msgstr[0] "可愛眼鏡基底"
+
+#: .\abstract.json
+msgid "Cute bra base"
+msgid_plural "Cute bra bases"
+msgstr[0] "可愛文胸基底"
+
+#: .\abstract.json
+msgid "Cute panties base"
+msgid_plural "Cute panties bases"
+msgstr[0] "可愛內褲基底"
+
+#: .\abstract.json
+msgid "Cute accessories base"
+msgid_plural "Cute accessories bases"
+msgstr[0] "可愛配飾基底"
+
+#: .\ammo.json
+msgid "Cute Ribbon Arrow"
+msgid_plural "Cute Ribbon Arrows"
+msgstr[0] "可愛緞帶箭"
+
+#. ~ Description for {'str': 'Cute Ribbon Arrow'}
+#: .\ammo.json
+msgid ""
+"An arrow decorated with a pretty red ribbon, making them easy to find and "
+"recover after battle."
+msgstr "一支裝飾著漂亮紅色緞帶的箭，使它們在戰鬥後易於尋找和回收。"
+
+#: .\ammo.json
+msgid "Cute Feathered Arrow"
+msgid_plural "Cute Feathered Arrows"
+msgstr[0] "可愛羽毛箭"
+
+#. ~ Description for {'str': 'Cute Feathered Arrow'}
+#: .\ammo.json
+msgid ""
+"An arrow decorated with the brightly coloured flight feathers of birds. "
+"These are appear of exceptional craftsmanship, being lighter yet stronger "
+"than standard arrows, and consequently more likely to be recovered after "
+"combat since they are less likely to break."
+msgstr "一支裝飾著鳥類鮮豔飛羽的箭。這些箭展現出卓越的工藝，比標準箭更輕卻更堅固，因此在戰鬥後更有可能被回收，因為它們不易折斷。"
+
+#: .\ammo.json
+msgid "Cute Little Mary Arrows"
+msgid_plural "Cute Little Mary Arrowss"
+msgstr[0] "可愛小瑪麗箭"
+
+#. ~ Description for {'str': 'Cute Little Mary Arrows'}
+#: .\ammo.json
+msgid ""
+"An arrow manufactured by the 'Alice & Maria' maid equipment designers. These"
+" aren't arrows so much as smart projectiles, having very dense alloy cores "
+"for greater force and a tip sheathed in an electromagnetic field to better "
+"penetrate armor."
+msgstr ""
+"由'愛麗絲與瑪麗亞'女僕裝備設計師製造的箭。這些與其說是箭，不如說是智能彈體，擁有非常緻密的合金核心以提供更大力量，尖端包裹在電磁場中以更好地穿透裝甲。"
+
+#: .\classes.json
+msgctxt "profession_male"
+msgid "Cute Maid"
+msgstr "可愛女僕"
+
+#: .\classes.json
+msgctxt "profession_female"
+msgid "Cute Maid"
+msgstr "可愛女僕"
+
+#. ~ Profession (male Cute Maid) description
+#: .\classes.json
+msgctxt "prof_desc_male"
+msgid ""
+"Although I worked in a large mansion, the day the cataclysm, my master's "
+"family fled to a secret location I did not know of. You were alone with a "
+"dirty house, and a cluttered city. It's time to go to work."
+msgstr "雖然我曾在一座大宅邸工作，但在災變之日，主人的家人逃往了一個我不知道的秘密地點。你獨自面對著一座骯髒的房屋和混亂的城市。是時候開始工作了。"
+
+#. ~ Profession (female Cute Maid) description
+#: .\classes.json
+msgctxt "prof_desc_female"
+msgid ""
+"Although I worked in a large mansion, the day the cataclysm, my master's "
+"family fled to a secret location I did not know of. You were alone with a "
+"dirty house, and a cluttered city. It's time to go to work."
+msgstr "雖然我曾在一座大宅邸工作，但在災變之日，主人的家人逃往了一個我不知道的秘密地點。你獨自面對著一座骯髒的房屋和混亂的城市。是時候開始工作了。"
+
+#: .\classes.json
+msgctxt "profession_male"
+msgid "Cute Nun"
+msgstr "可愛修女"
+
+#: .\classes.json
+msgctxt "profession_female"
+msgid "Cute Nun"
+msgstr "可愛修女"
+
+#. ~ Profession (male Cute Nun) description
+#: .\classes.json
+msgctxt "prof_desc_male"
+msgid ""
+"After months in seculusion and prayer at our underground church, we visited "
+"the surface to find the world was completely changed. There is no need for "
+"despair, for God is with us."
+msgstr "在我們地下教堂隱居祈禱數月後，我們來到地表，發現世界已徹底改變。無需絕望，因為上帝與我們同在。"
+
+#. ~ Profession (female Cute Nun) description
+#: .\classes.json
+msgctxt "prof_desc_female"
+msgid ""
+"After months in seculusion and prayer at our underground church, we visited "
+"the surface to find the world was completely changed. There is no need for "
+"despair, for God is with us."
+msgstr "在我們地下教堂隱居祈禱數月後，我們來到地表，發現世界已徹底改變。無需絕望，因為上帝與我們同在。"
+
+#: .\classes.json
+msgctxt "profession_male"
+msgid "Cute Schoolgirl"
+msgstr "可愛女學生"
+
+#: .\classes.json
+msgctxt "profession_female"
+msgid "Cute Schoolgirl"
+msgstr "可愛女學生"
+
+#. ~ Profession (male Cute Schoolgirl) description
+#: .\classes.json
+msgctxt "prof_desc_male"
+msgid ""
+"I used to think it would be nice if school closed forever. Now that the "
+"cataclysm has happened, it seems my wish has come true."
+msgstr "我曾以為學校永遠關閉會是件好事。現在災變發生了，似乎我的願望成真了。"
+
+#. ~ Profession (female Cute Schoolgirl) description
+#: .\classes.json
+msgctxt "prof_desc_female"
+msgid ""
+"I used to think it would be nice if school closed forever. Now that the "
+"cataclysm has happened, it seems my wish has come true."
+msgstr "我曾以為學校永遠關閉會是件好事。現在災變發生了，似乎我的願望成真了。"
+
+#: .\item_category.json
+msgid "KAWAII CATEGORY"
+msgstr "KAWAII 類別"
+
+#: .\items.json
+msgid "Cute Maid Clothes"
+msgid_plural "Cute Maid Clothess"
+msgstr[0] "可愛女僕裝"
+
+#. ~ Description for {'str': 'Cute Maid Clothes'}
+#: .\items.json
+msgid "Made out of the hopes and dreams of men."
+msgstr "由男人的希望與夢想製成。"
+
+#: .\items.json
+msgid "Cute Maid Adv. Uniform (summer form)"
+msgid_plural "Cute Maid Adv. Uniform (summer form)s"
+msgstr[0] "可愛女僕高級制服（夏季形態）"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid Adv. Uniform (summer form)'}.
+#: .\items.json
+msgid "Add thermal lining"
+msgstr "添加保暖襯裡"
+
+#. ~ Use action msg for {'str': 'Cute Maid Adv. Uniform (summer form)'}.
+#: .\items.json
+msgid "You modify the maid outfit to better protect against the cold."
+msgstr "你修改了女僕裝以更好地抵禦寒冷。"
+
+#. ~ Description for {'str': 'Cute Maid Adv. Uniform (summer form)'}
+#. ~ Description for {'str': 'Cute Maid Adv. Uniform (winter form)'}
+#: .\items.json
+msgid ""
+"Centuries of maid sewing techniques have culminated in this pinnacle of maid"
+" outfit technology: a year-round outfit that can be transformed to fit any "
+"weather or season."
+msgstr "數個世紀的女僕縫紉技術最終成就了這項女僕裝技術的巔峰：一套全年適用的服裝，可變換以適應任何天氣或季節。"
+
+#: .\items.json
+msgid "Cute Maid Adv. Uniform (winter form)"
+msgid_plural "Cute Maid Adv. Uniform (winter form)s"
+msgstr[0] "可愛女僕高級制服（冬季形態）"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid Adv. Uniform (winter form)'}.
+#: .\items.json
+msgid "Remove thermal lining"
+msgstr "移除保暖襯裡"
+
+#. ~ Use action msg for {'str': 'Cute Maid Adv. Uniform (winter form)'}.
+#: .\items.json
+msgid "You modify the maid outfit to better protect against the heat."
+msgstr "你修改了女僕裝以更好地抵禦炎熱。"
+
+#: .\items.json
+msgid "Cute Maid Uniform LSS-PRO"
+msgid_plural "Cute Maid Uniform LSS-PROs"
+msgstr[0] "可愛女僕制服 LSS-PRO"
+
+#. ~ Use action msg for {'str': 'Cute Maid Uniform LSS-PRO'}.
+#: .\items.json
+msgid "You activate the uniform's climate control."
+msgstr "你激活了制服的氣候控制系統。"
+
+#. ~ Use action need_charges_msg for {'str': 'Cute Maid Uniform LSS-PRO'}.
+#: .\items.json
+msgid "The uniform does not have enough power left."
+msgstr "制服剩餘電量不足。"
+
+#. ~ Description for {'str': 'Cute Maid Uniform LSS-PRO'}
+#. ~ Description for {'str': 'Cute Maid Uniform LSS-PRO (on)'}
+#: .\items.json
+msgid ""
+"The standard maid uniform may not be enough to survive in this dangerous new"
+" world. This improved version, while still appearing cute and frilly on the "
+"outside, actually conceals an advanced armor liner and climate control "
+"systems to better endure even the harshest environments."
+msgstr ""
+"標準女僕制服可能不足以在這個危險的新世界中生存。這個改進版本，雖然外表仍然可愛且飾有褶邊，但實際上隱藏了先進的裝甲襯裡和氣候控制系統，以更好地承受最惡劣的環境。"
+
+#: .\items.json
+msgid "Cute Maid Uniform LSS-PRO (on)"
+msgid_plural "Cute Maid Uniform LSS-PRO (on)s"
+msgstr[0] "可愛女僕制服 LSS-PRO（開啟）"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid Uniform LSS-PRO (on)'}.
+#: .\items.json
+msgid "Turn off"
+msgstr "關閉"
+
+#. ~ Use action msg for {'str': 'Cute Maid Uniform LSS-PRO (on)'}.
+#: .\items.json
+msgid "You turn off the uniform's climate control systems."
+msgstr "你關閉了制服的氣候控制系統。"
+
+#: .\items.json
+msgid "Cute Victorian Maid Clothes"
+msgid_plural "Cute Victorian Maid Clothess"
+msgstr[0] "可愛維多利亞式女僕裝"
+
+#. ~ Description for {'str': 'Cute Victorian Maid Clothes'}
+#: .\items.json
+msgid "A uniform with longer sleeves and skirt, better suited for winter."
+msgstr "一套袖子與裙子更長的制服，更適合冬季穿著。"
+
+#: .\items.json
+msgid "Cute Wedding Dress"
+msgid_plural "Cute Wedding Dresss"
+msgstr[0] "可愛婚紗"
+
+#. ~ Description for {'str': 'Cute Wedding Dress'}
+#: .\items.json
+msgid "A pure white wedding dress."
+msgstr "一件純白色的婚紗。"
+
+#: .\items.json
+msgid "Cute Nun Habit"
+msgid_plural "Cute Nun Habits"
+msgstr[0] "可愛修女頭巾"
+
+#. ~ Description for {'str': 'Cute Nun Habit'}
+#: .\items.json
+msgid "A nun's habit for serving God that gives off a sacred aura."
+msgstr "為侍奉上帝而穿的修女服飾，散發著神聖的氣息。"
+
+#: .\items.json
+msgid "Cute Transparent Raincoat (hood on)"
+msgid_plural "Cute Transparent Raincoat (hood on)s"
+msgstr[0] "可愛透明雨衣（連帽）"
+
+#. ~ Use action menu_text for {'str': 'Cute Transparent Raincoat (hood on)'}.
+#. ~ Use action menu_text for {'str': 'Cute Transparent Raincoat (hood off)'}.
+#: .\items.json
+msgid "Toggle hood"
+msgstr "切換連帽"
+
+#. ~ Use action msg for {'str': 'Cute Transparent Raincoat (hood on)'}.
+#: .\items.json
+msgid "You take off the hood."
+msgstr "你摘下了連帽。"
+
+#. ~ Description for {'str': 'Cute Transparent Raincoat (hood on)'}
+#: .\items.json
+msgid ""
+"A transparent raincoat made from very thin vinyl, very popular with maids "
+"who want to be fashionable in rainy weather. The material is thin enough "
+"that the entire coat can fold away into a pocket when not in use."
+msgstr "由極薄乙烯基製成的透明雨衣，深受希望在雨天保持時尚的女僕們喜愛。材質輕薄，不用時整件雨衣可摺疊收納進口袋。"
+
+#: .\items.json
+msgid "Cute Transparent Raincoat (hood off)"
+msgid_plural "Cute Transparent Raincoat (hood off)s"
+msgstr[0] "可愛透明雨衣（無帽）"
+
+#. ~ Use action msg for {'str': 'Cute Transparent Raincoat (hood off)'}.
+#: .\items.json
+msgid "You put on the hood."
+msgstr "你戴上了連帽。"
+
+#: .\items.json
+msgid "Cute School Girl Uniform"
+msgid_plural "Cute School Girl Uniforms"
+msgstr[0] "可愛女生校服"
+
+#. ~ Description for {'str': 'Cute School Girl Uniform'}
+#: .\items.json
+msgid "A school uniform worn by female students."
+msgstr "女學生穿著的校服。"
+
+#: .\items.json
+msgid "Cute Navy Blue Swimsuit"
+msgid_plural "Cute Navy Blue Swimsuits"
+msgstr[0] "可愛海軍藍泳衣"
+
+#. ~ Description for {'str': 'Cute Navy Blue Swimsuit'}
+#: .\items.json
+msgid "A swimming suit worn by female students."
+msgstr "女學生穿著的泳衣。"
+
+#: .\items.json
+msgid "Cute White Swimsuit"
+msgid_plural "Cute White Swimsuits"
+msgstr[0] "可愛白色泳衣"
+
+#: .\items.json
+msgid "Cute Nurse Uniform"
+msgid_plural "Cute Nurse Uniforms"
+msgstr[0] "可愛護士服"
+
+#. ~ Description for {'str': 'Cute Nurse Uniform'}
+#: .\items.json
+msgid "A nurse's uniform."
+msgstr "護士的制服。"
+
+#: .\items.json
+msgid "Cute White Panties"
+msgid_plural "Cute White Pantiess"
+msgstr[0] "可愛白色內褲"
+
+#. ~ Description for {'str': 'Cute White Panties'}
+#: .\items.json
+msgid "Pure white panties, very breathable and comfortable even in summer."
+msgstr "純白色的內褲，即使在夏天也非常透氣舒適。"
+
+#: .\items.json
+msgid "Cute White Bra"
+msgid_plural "Cute White Bras"
+msgstr[0] "可愛白色胸罩"
+
+#. ~ Description for {'str': 'Cute White Bra'}
+#: .\items.json
+msgid "Pure white bra, very breathable and comfortable even in summer."
+msgstr "純白色的胸罩，即使在夏天也非常透氣舒適。"
+
+#: .\items.json
+msgid "Cute Pink Striped Panties"
+msgid_plural "Cute Pink Striped Pantiess"
+msgstr[0] "可愛粉色條紋內褲"
+
+#. ~ Description for {'str': 'Cute Pink Striped Panties'}
+#: .\items.json
+msgid "Panties with pink stripes."
+msgstr "帶有粉色條紋的內褲。"
+
+#: .\items.json
+msgid "Cute Pink Striped Bra"
+msgid_plural "Cute Pink Striped Bras"
+msgstr[0] "可愛粉色條紋胸罩"
+
+#. ~ Description for {'str': 'Cute Pink Striped Bra'}
+#: .\items.json
+msgid "A bra with pink stripes."
+msgstr "帶有粉色條紋的胸罩。"
+
+#: .\items.json
+msgid "Cute Green Striped Panties"
+msgid_plural "Cute Green Striped Pantiess"
+msgstr[0] "可愛綠色條紋內褲"
+
+#. ~ Description for {'str': 'Cute Green Striped Panties'}
+#: .\items.json
+msgid "Panties with green stripes."
+msgstr "帶有綠色條紋的內褲。"
+
+#: .\items.json
+msgid "Cute Green Striped Bra"
+msgid_plural "Cute Green Striped Bras"
+msgstr[0] "可愛綠色條紋胸罩"
+
+#. ~ Description for {'str': 'Cute Green Striped Bra'}
+#: .\items.json
+msgid "A bra with green stripes."
+msgstr "帶有綠色條紋的胸罩。"
+
+#: .\items.json
+msgid "Cute Black Bikini Bottom"
+msgid_plural "Cute Black Bikini Bottoms"
+msgstr[0] "可愛黑色比基尼下裝"
+
+#. ~ Description for {'str': 'Cute Black Bikini Bottom'}
+#: .\items.json
+msgid "A simple black bikini bottom."
+msgstr "一條簡單的黑色比基尼下裝。"
+
+#: .\items.json
+msgid "Cute Black Bikini Top"
+msgid_plural "Cute Black Bikini Tops"
+msgstr[0] "可愛黑色比基尼上裝"
+
+#. ~ Description for {'str': 'Cute Black Bikini Top'}
+#: .\items.json
+msgid "A simple black bikini top."
+msgstr "一件簡單的黑色比基尼上裝。"
+
+#: .\items.json
+msgid "Cute Fishtail Miniskirt"
+msgid_plural "Cute Fishtail Miniskirts"
+msgstr[0] "可愛魚尾迷你裙"
+
+#. ~ Description for {'str': 'Cute Fishtail Miniskirt'}
+#: .\items.json
+msgid "A flared miniskirt that is longer in the back."
+msgstr "一條後襬較長的喇叭形迷你裙。"
+
+#: .\items.json
+msgid "Cute Utility Vest"
+msgid_plural "Cute Utility Vests"
+msgstr[0] "可愛多功能背心"
+
+#. ~ Description for {'str': 'Cute Utility Vest'}
+#: .\items.json
+msgid "A modified utility vest with many pockets."
+msgstr "一件經過改良、帶有多個口袋的多功能背心。"
+
+#: .\items.json
+msgid "Cute Maid headdress"
+msgid_plural "Cute Maid headdresss"
+msgstr[0] "可愛女僕頭飾"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid headdress'}.
+#: .\items.json
+msgid "Channel spirit"
+msgstr "引導精神力"
+
+#. ~ Use action msg for {'str': 'Cute Maid headdress'}.
+#: .\items.json
+msgid "Your pride as a maid prevents the cold from bothering your head."
+msgstr "你作為女僕的驕傲讓寒冷無法侵擾你的頭部。"
+
+#. ~ Description for {'str': 'Cute Maid headdress'}
+#: .\items.json
+msgid ""
+"One of the most important parts of the maid uniform. It is forbidden for "
+"maids to take it off, regardless of weather. Trained maids can channel their"
+" spirit into it to keep their heads warm during winter. (Toggle to change "
+"warmth)"
+msgstr ""
+"女僕制服最重要的組成部分之一。無論天氣如何，女僕都禁止將其摘下。訓練有素的女僕可以將精神力引導至頭飾中，在冬季保持頭部溫暖。（切換以改變保暖效果）"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid headdress'}.
+#: .\items.json
+msgid "Stop channeling spirit"
+msgstr "停止引導精神力"
+
+#. ~ Use action msg for {'str': 'Cute Maid headdress'}.
+#: .\items.json
+msgid "You stop channeling your spirit into te headpiece"
+msgstr "你停止將精神力引導至頭飾中"
+
+#: .\items.json
+msgid "Cute Thermal Maid headdress"
+msgid_plural "Cute Thermal Maid headdresss"
+msgstr[0] "可愛保暖女僕頭飾"
+
+#. ~ Use action menu_text for {'str': 'Cute Thermal Maid headdress'}.
+#: .\items.json
+msgid "Activate heater"
+msgstr "激活加熱器"
+
+#. ~ Use action msg for {'str': 'Cute Thermal Maid headdress'}.
+#: .\items.json
+msgid "You activate the headdress' heating systems"
+msgstr "你激活了頭飾的加熱系統"
+
+#. ~ Use action need_charges_msg for {'str': 'Cute Thermal Maid headdress'}.
+#. ~ Use action need_charges_msg for {'str': 'Cute Maid headdress LSS-PRO'}.
+#. ~ Use action need_charges_msg for {'str': 'Cute Maid headdress LSS-PRO
+#. (warming)'}.
+#. ~ Use action need_charges_msg for {'str': 'Cute High-Tech Glasses (off)'}.
+#. ~ Use action need_charges_msg for {'str': 'Cute High-Tech Glasses (NV)'}.
+#: .\items.json
+msgid "%s does not have enough power left."
+msgstr "%s 剩餘電量不足。"
+
+#. ~ Description for {'str': 'Cute Thermal Maid headdress'}
+#: .\items.json
+msgid ""
+"One of the most important parts of the maid unifrom is the headdress. This "
+"one contains an electrical thermal system powedered using batteries. It lets"
+" you feel like a maid despite how it looks."
+msgstr "女僕制服最重要的組成部分之一是頭飾。這款頭飾包含一套由電池供電的電熱系統。儘管外觀如此，它仍能讓你感受到身為女僕的體驗。"
+
+#: .\items.json
+msgid "Cute Thermal Maid headdress (on)"
+msgid_plural "Cute Thermal Maid headdress (on)s"
+msgstr[0] "可愛保暖女僕頭飾（開啟）"
+
+#. ~ Use action menu_text for {'str': 'Cute Thermal Maid headdress (on)'}.
+#: .\items.json
+msgid "Deactivate heater"
+msgstr "關閉加熱器"
+
+#. ~ Use action msg for {'str': 'Cute Thermal Maid headdress (on)'}.
+#: .\items.json
+msgid "You deactivate the headdress' heating systems"
+msgstr "你關閉了頭飾的加熱系統"
+
+#: .\items.json
+msgid "Cute Maid headdress LSS-PRO"
+msgid_plural "Cute Maid headdress LSS-PROs"
+msgstr[0] "可愛女僕頭飾 LSS-PRO"
+
+#. ~ Use action menu_text for {'str': 'Cute Maid headdress LSS-PRO'}.
+#. ~ Use action menu_text for {'str': 'Cute Maid headdress LSS-PRO
+#. (warming)'}.
+#. ~ Use action menu_text for {'str': 'Cute Maid headdress LSS-PRO
+#. (cooling)'}.
+#: .\items.json
+msgid "Change climate control settings"
+msgstr "更改氣候控制設置"
+
+#. ~ Use action msg for {'str': 'Cute Maid headdress LSS-PRO'}.
+#: .\items.json
+msgid "You activate the headdress' heating mode."
+msgstr "你激活了頭飾的加熱模式。"
+
+#. ~ Description for {'str': 'Cute Maid headdress LSS-PRO'}
+#: .\items.json
+msgid ""
+"A maid must maintain her pride and attends to her duties, no matter how "
+"harsh the situation or environment. The headdress is not just a piece of the"
+" uniform, it's a symbol of a maid's pride."
+msgstr "女僕必須保持她的驕傲並履行職責，無論情況或環境多麼嚴酷。頭飾不僅是制服的一部分，更是女僕驕傲的象徵。"
+
+#: .\items.json
+msgid "Cute Maid headdress LSS-PRO (warming)"
+msgid_plural "Cute Maid headdress LSS-PRO (warming)s"
+msgstr[0] "可愛女僕頭飾 LSS-PRO（加熱）"
+
+#. ~ Use action msg for {'str': 'Cute Maid headdress LSS-PRO (warming)'}.
+#: .\items.json
+msgid "You activate the headdress' cooling mode."
+msgstr "你激活了頭飾的冷卻模式。"
+
+#: .\items.json
+msgid "Cute Maid headdress LSS-PRO (cooling)"
+msgid_plural "Cute Maid headdress LSS-PRO (cooling)s"
+msgstr[0] "可愛女僕頭飾 LSS-PRO（冷卻）"
+
+#. ~ Use action msg for {'str': 'Cute Maid headdress LSS-PRO (cooling)'}.
+#: .\items.json
+msgid "You deactivate the headdress' climate control."
+msgstr "你關閉了頭飾的氣候控制。"
+
+#: .\items.json
+msgid "Cute High-Tech Glasses (off)"
+msgid_plural "Cute High-Tech Glasses (off)s"
+msgstr[0] "可愛高科技眼鏡（關閉）"
+
+#. ~ Use action menu_text for {'str': 'Cute High-Tech Glasses (off)'}.
+#. ~ Use action menu_text for {'str': 'Cute High-Tech Glasses (NV)'}.
+#. ~ Use action menu_text for {'str': 'Cute High-Tech Glasses (IR)'}.
+#. ~ Use action menu_text for {'str': 'Cute High-Tech Glasses (Blind)'}.
+#: .\items.json
+msgid "Toggle vision mode"
+msgstr "切換視覺模式"
+
+#. ~ Use action msg for {'str': 'Cute High-Tech Glasses (off)'}.
+#: .\items.json
+msgid "You switch the glasses to night vision mode."
+msgstr "你將眼鏡切換至夜視模式。"
+
+#. ~ Description for {'str': 'Cute High-Tech Glasses (off)'}
+#: .\items.json
+msgid ""
+"These advanced glasses are not only capable of functioning as night vision "
+"or infared scanners, but protects against bright flashes, can withstand "
+"chemical corrosion, and can even completely block light for sleeping in "
+"bright places."
+msgstr "這副先進眼鏡不僅能作為夜視儀或紅外掃描儀使用，還能防護強光閃爍、抵抗化學腐蝕，甚至能完全遮光以便在明亮處入睡。"
+
+#: .\items.json
+msgid "Cute High-Tech Glasses (NV)"
+msgid_plural "Cute High-Tech Glasses (NV)s"
+msgstr[0] "可愛高科技眼鏡（夜視）"
+
+#. ~ Use action msg for {'str': 'Cute High-Tech Glasses (NV)'}.
+#: .\items.json
+msgid "You switch the glasses to infrared mode."
+msgstr "你將眼鏡切換至紅外模式。"
+
+#: .\items.json
+msgid "Cute High-Tech Glasses (IR)"
+msgid_plural "Cute High-Tech Glasses (IR)s"
+msgstr[0] "可愛高科技眼鏡（紅外）"
+
+#. ~ Use action msg for {'str': 'Cute High-Tech Glasses (IR)'}.
+#: .\items.json
+msgid "You switch the glasses to blinder mode."
+msgstr "你將眼鏡切換至遮光模式。"
+
+#: .\items.json
+msgid "Cute High-Tech Glasses (Blind)"
+msgid_plural "Cute High-Tech Glasses (Blind)s"
+msgstr[0] "可愛高科技眼鏡（遮光）"
+
+#. ~ Use action msg for {'str': 'Cute High-Tech Glasses (Blind)'}.
+#: .\items.json
+msgid "You return the glasses to its default mode."
+msgstr "你將眼鏡恢復至默認模式。"
+
+#: .\items.json
+msgid "Cute Black Half-Rim Glasses"
+msgid_plural "Cute Black Half-Rim Glassess"
+msgstr[0] "可愛黑色半框眼鏡"
+
+#. ~ Use action menu_text for {'str': 'Cute Black Half-Rim Glasses'}.
+#. ~ Use action menu_text for {'str': 'Cute Red Half-Rim Glasses'}.
+#: .\items.json
+msgid "Adjust the glasses"
+msgstr "調整眼鏡"
+
+#. ~ Use action msg for {'str': 'Cute Black Half-Rim Glasses'}.
+#. ~ Use action msg for {'str': 'Cute Red Half-Rim Glasses'}.
+#: .\items.json
+msgid "You lower the glasses"
+msgstr "你拉低了眼鏡"
+
+#. ~ Description for {'str': 'Cute Black Half-Rim Glasses'}
+#. ~ Description for {'str': 'Cute Red Half-Rim Glasses'}
+#: .\items.json
+msgid ""
+"A maid wearing these will never miss the smallest speck of dust, nor signs "
+"of their master's health. (Toggle to adjust position)"
+msgstr "女僕戴上這副眼鏡後，絕不會錯過最微小的塵埃，也不會忽視主人的健康狀況。（切換以調整位置）"
+
+#. ~ Use action msg for {'str': 'Cute Black Half-Rim Glasses'}.
+#. ~ Use action msg for {'str': 'Cute Red Half-Rim Glasses'}.
+#: .\items.json
+msgid "You raise the glasses"
+msgstr "你推高了眼鏡"
+
+#: .\items.json
+msgid "Cute Red Half-Rim Glasses"
+msgid_plural "Cute Red Half-Rim Glassess"
+msgstr[0] "可愛紅色半框眼鏡"
+
+#: .\items.json
+msgid "Cute Black Large Half-Rim Glasses"
+msgid_plural "Cute Black Large Half-Rim Glassess"
+msgstr[0] "可愛黑色大號半框眼鏡"
+
+#. ~ Description for {'str': 'Cute Black Large Half-Rim Glasses'}
+#. ~ Description for {'str': 'Cute Brass Monocle'}
+#. ~ Description for {'str': 'Cute Brass Monocle with Chain'}
+#. ~ Description for {'str': 'Cute Black Fullframe Glasses'}
+#. ~ Description for {'str': 'Cute Red Fullframe Glasses'}
+#: .\items.json
+msgid ""
+"A maid wearing these will never miss the smallest speck of dust, nor signs "
+"of their master's health."
+msgstr "女僕戴上這副眼鏡後，絕不會錯過最微小的塵埃，也不會忽視主人的健康狀況。"
+
+#: .\items.json
+msgid "Cute Brass Monocle"
+msgid_plural "Cute Brass Monocles"
+msgstr[0] "可愛黃銅單片眼鏡"
+
+#: .\items.json
+msgid "Cute Brass Monocle with Chain"
+msgid_plural "Cute Brass Monocle with Chains"
+msgstr[0] "可愛帶鏈黃銅單片眼鏡"
+
+#: .\items.json
+msgid "Cute Black Fullframe Glasses"
+msgid_plural "Cute Black Fullframe Glassess"
+msgstr[0] "可愛黑色全框眼鏡"
+
+#: .\items.json
+msgid "Cute Red Fullframe Glasses"
+msgid_plural "Cute Red Fullframe Glassess"
+msgstr[0] "可愛紅色全框眼鏡"
+
+#: .\items.json
+msgid "Cute White Cotton Hat"
+msgid_plural "Cute White Cotton Hats"
+msgstr[0] "可愛白色棉帽"
+
+#. ~ Description for {'str': 'Cute White Cotton Hat'}
+#: .\items.json
+msgid ""
+"It's a warm hat made of cotton, coloured white to better match a maid "
+"uniform."
+msgstr "這是一頂溫暖的棉帽，白色設計能更好地搭配女僕裝。"
+
+#: .\items.json
+msgid "Cute Balaclava"
+msgid_plural "Cute Balaclavas"
+msgstr[0] "可愛巴拉克拉瓦頭套"
+
+#. ~ Description for {'str': 'Cute Balaclava'}
+#: .\items.json
+msgid ""
+"'I refuse to cover up my cute face!' It's not as good against the cold as a "
+"normal balaclava, but it's a sacrifice necessary for the sake of fashion."
+msgstr "“我才不要遮住可愛的臉蛋！”雖然保暖性不如普通巴拉克拉瓦頭套，但這是為了時尚必要的犧牲。"
+
+#: .\items.json
+msgid "Cute Wedding Veil"
+msgid_plural "Cute Wedding Veils"
+msgstr[0] "可愛婚禮頭紗"
+
+#. ~ Description for {'str': 'Cute Wedding Veil'}
+#: .\items.json
+msgid "A beautiful but simple wedding veil."
+msgstr "一頂美麗而簡約的婚禮頭紗。"
+
+#: .\items.json
+msgid "Cute Decorated Wedding Veil"
+msgid_plural "Cute Decorated Wedding Veils"
+msgstr[0] "可愛裝飾婚禮頭紗"
+
+#. ~ Description for {'str': 'Cute Decorated Wedding Veil'}
+#: .\items.json
+msgid "A beautiful wedding veil with additional adornments."
+msgstr "一頂帶有額外裝飾的美麗婚禮頭紗。"
+
+#: .\items.json
+msgid "Cute Nun's headpiece"
+msgid_plural "Cute Nun's headpieces"
+msgstr[0] "可愛修女頭飾"
+
+#. ~ Description for {'str': "Cute Nun's headpiece"}
+#: .\items.json
+msgid "A veil worn by those devoted to serving God."
+msgstr "獻給侍奉上帝者的面紗。"
+
+#: .\items.json
+msgid "Cute Nurse Hat"
+msgid_plural "Cute Nurse Hats"
+msgstr[0] "可愛護士帽"
+
+#. ~ Description for {'str': 'Cute Nurse Hat'}
+#: .\items.json
+msgid "A hat that symbolizes the nurse."
+msgstr "象徵護士身份的帽子。"
+
+#: .\items.json
+msgid "Cute Long Wavy Pink Wig"
+msgid_plural "Cute Long Wavy Pink Wigs"
+msgstr[0] "可愛長波浪粉紅假髮"
+
+#. ~ Description for {'str': 'Cute Long Wavy Pink Wig'}
+#: .\items.json
+msgid "A wig with long, wavy pink hair."
+msgstr "一頂長而波浪卷的粉紅色假髮。"
+
+#: .\items.json
+msgid "Cute Rouge"
+msgid_plural "Cute Rouges"
+msgstr[0] "可愛腮紅"
+
+#. ~ Description for {'str': 'Cute Rouge'}
+#: .\items.json
+msgid "It's the maiden's heart that makes the blush."
+msgstr "正是少女的心意造就了這抹紅暈。"
+
+#: .\items.json
+msgid "Cute Shiny eye"
+msgid_plural "Cute Shiny eyes"
+msgstr[0] "可愛閃亮眼睛"
+
+#. ~ Description for {'str': 'Cute Shiny eye'}
+#: .\items.json
+msgid ""
+"The eye glistens with life. (For adding highlight on eyes that don't have "
+"it)"
+msgstr "眼眸因生命而閃爍。（用於為沒有高光的眼睛添加高光）"
+
+#: .\items.json
+msgid "Cute Blond Pigtail Extension"
+msgid_plural "Cute Blond Pigtail Extensions"
+msgstr[0] "可愛金色雙馬尾髮飾"
+
+#. ~ Description for {'str': 'Cute Blond Pigtail Extension'}
+#: .\items.json
+msgid ""
+"A decorative hair extension with a white ribbon that raises your elder "
+"sisterly power."
+msgstr "一款帶有白色絲帶的裝飾性發飾，能提升你的姐姐力。"
+
+#: .\items.json
+msgid "Cute Dark Face"
+msgid_plural "Cute Dark Faces"
+msgstr[0] "可愛暗黑面容"
+
+#. ~ Description for {'str': 'Cute Dark Face'}
+#: .\items.json
+msgid "The face you wear when you plan evil deeds."
+msgstr "當你策劃邪惡行徑時所戴的面容。"
+
+#: .\items.json
+msgid "Cute High-Tech Headset"
+msgid_plural "Cute High-Tech Headsets"
+msgstr[0] "可愛高科技耳機"
+
+#. ~ Description for {'str': 'Cute High-Tech Headset'}
+#: .\items.json
+msgid "A high-tech headset packed with next-gen technology (decorative)"
+msgstr "一款搭載了次世代技術的高科技耳機（裝飾用）"
+
+#: .\items.json
+msgid "Cute Long Blond Pigtail Extension"
+msgid_plural "Cute Long Blond Pigtail Extensions"
+msgstr[0] "可愛金色長雙馬尾髮飾"
+
+#. ~ Description for {'str': 'Cute Long Blond Pigtail Extension'}
+#: .\items.json
+msgid "A long elegant ponytail extension with white ribbons."
+msgstr "一款帶有白色絲帶的優雅長馬尾髮飾。"
+
+#: .\items.json
+msgid "Cute Blond Bob Wig"
+msgid_plural "Cute Blond Bob Wigs"
+msgstr[0] "可愛金色波波頭假髮"
+
+#. ~ Description for {'str': 'Cute Blond Bob Wig'}
+#. ~ Description for {'str': 'Cute Milk Tea Bob Wig'}
+#. ~ Description for {'str': 'Cute Pink Bob Wig'}
+#: .\items.json
+msgid "It's a fluffy bob hair wig."
+msgstr "這是一頂蓬鬆的波波頭假髮。"
+
+#: .\items.json
+msgid "Cute Milk Tea Bob Wig"
+msgid_plural "Cute Milk Tea Bob Wigs"
+msgstr[0] "可愛奶茶色波波頭假髮"
+
+#: .\items.json
+msgid "Cute Pink Bob Wig"
+msgid_plural "Cute Pink Bob Wigs"
+msgstr[0] "可愛粉色波波頭假髮"
+
+#: .\items.json
+msgid "Cute Blue One-eyed Bob Wig"
+msgid_plural "Cute Blue One-eyed Bob Wigs"
+msgstr[0] "可愛藍色單眼遮波波頭假髮"
+
+#. ~ Description for {'str': 'Cute Blue One-eyed Bob Wig'}
+#. ~ Description for {'str': 'Cute Pink One-eyed Bob Wig'}
+#. ~ Description for {'str': 'Cute Silver One-eyed Bob Wig'}
+#: .\items.json
+msgid "A hairstyle that covers one eye."
+msgstr "一種遮住單眼的髮型。"
+
+#: .\items.json
+msgid "Cute Pink One-eyed Bob Wig"
+msgid_plural "Cute Pink One-eyed Bob Wigs"
+msgstr[0] "可愛粉色單眼遮波波頭假髮"
+
+#: .\items.json
+msgid "Cute Silver One-eyed Bob Wig"
+msgid_plural "Cute Silver One-eyed Bob Wigs"
+msgstr[0] "可愛銀色單眼遮波波頭假髮"
+
+#: .\items.json
+msgid "Cute Light Green Elf Wig"
+msgid_plural "Cute Light Green Elf Wigs"
+msgstr[0] "可愛淺綠色精靈假髮"
+
+#. ~ Description for {'str': 'Cute Light Green Elf Wig'}
+#. ~ Description for {'str': 'Cute Blond Elf Wig'}
+#: .\items.json
+msgid "A hairstyle designed after an elf."
+msgstr "一款模仿精靈設計的髮型。"
+
+#: .\items.json
+msgid "Cute Blond Elf Wig"
+msgid_plural "Cute Blond Elf Wigs"
+msgstr[0] "可愛金色精靈假髮"
+
+#: .\items.json
+msgid "Cute Blond Semi-long Wig"
+msgid_plural "Cute Blond Semi-long Wigs"
+msgstr[0] "可愛金色中長髮假髮"
+
+#. ~ Description for {'str': 'Cute Blond Semi-long Wig'}
+#. ~ Description for {'str': 'Cute Milk Tea Semi-long Wig'}
+#. ~ Description for {'str': 'Cute Black Semi-long Wig'}
+#. ~ Description for {'str': 'Cute Silver Semi-long Wig'}
+#: .\items.json
+msgid "A calm semi-long hair."
+msgstr "一款沉穩的中長髮。"
+
+#: .\items.json
+msgid "Cute Milk Tea Semi-long Wig"
+msgid_plural "Cute Milk Tea Semi-long Wigs"
+msgstr[0] "可愛奶茶色中長髮假髮"
+
+#: .\items.json
+msgid "Cute Black Semi-long Wig"
+msgid_plural "Cute Black Semi-long Wigs"
+msgstr[0] "可愛黑色中長髮假髮"
+
+#: .\items.json
+msgid "Cute Silver Semi-long Wig"
+msgid_plural "Cute Silver Semi-long Wigs"
+msgstr[0] "可愛銀色中長髮假髮"
+
+#: .\items.json
+msgid "Cute Blond Long Ponytail Wig"
+msgid_plural "Cute Blond Long Ponytail Wigs"
+msgstr[0] "可愛金色長馬尾假髮"
+
+#. ~ Description for {'str': 'Cute Blond Long Ponytail Wig'}
+#. ~ Description for {'str': 'Cute Milk Tea Long Ponytail Wig'}
+#. ~ Description for {'str': 'Cute Ice Blue Long Ponytail Wig'}
+#: .\items.json
+msgid "Long hair lightly tied together."
+msgstr "長髮輕輕束在一起。"
+
+#: .\items.json
+msgid "Cute Milk Tea Long Ponytail Wig"
+msgid_plural "Cute Milk Tea Long Ponytail Wigs"
+msgstr[0] "可愛奶茶色長馬尾假髮"
+
+#: .\items.json
+msgid "Cute Ice Blue Long Ponytail Wig"
+msgid_plural "Cute Ice Blue Long Ponytail Wigs"
+msgstr[0] "可愛冰藍色長馬尾假髮"
+
+#: .\items.json
+msgid "Cute Heart Effect"
+msgid_plural "Cute Heart Effects"
+msgstr[0] "可愛愛心特效"
+
+#. ~ Description for {'str': 'Cute Heart Effect'}
+#: .\items.json
+msgid "A heart effect."
+msgstr "一個愛心特效。"
+
+#: .\items.json
+msgid "Cute ? Bubble Effect"
+msgid_plural "Cute ? Bubble Effects"
+msgstr[0] "可愛？氣泡特效"
+
+#. ~ Description for {'str': 'Cute ? Bubble Effect'}
+#: .\items.json
+msgid "A ? bubble."
+msgstr "一個？氣泡。"
+
+#: .\items.json
+msgid "Cute ! Bubble Effect"
+msgid_plural "Cute ! Bubble Effects"
+msgstr[0] "可愛！氣泡特效"
+
+#. ~ Description for {'str': 'Cute ! Bubble Effect'}
+#: .\items.json
+msgid "A ! bubble."
+msgstr "一個！氣泡。"
+
+#: .\items.json
+msgid "Cute Sweat Bubble Effect"
+msgid_plural "Cute Sweat Bubble Effects"
+msgstr[0] "可愛汗滴氣泡特效"
+
+#. ~ Description for {'str': 'Cute Sweat Bubble Effect'}
+#: .\items.json
+msgid "A sweat droplet bubble."
+msgstr "一個汗滴氣泡。"
+
+#: .\items.json
+msgid "Cute /// Bubble Effect"
+msgid_plural "Cute /// Bubble Effects"
+msgstr[0] "可愛///氣泡特效"
+
+#. ~ Description for {'str': 'Cute /// Bubble Effect'}
+#: .\items.json
+msgid "An embarassed blushing bubble effect."
+msgstr "一個尷尬臉紅的氣泡特效。"
+
+#: .\items.json
+msgid "Cute Angel Halo"
+msgid_plural "Cute Angel Halos"
+msgstr[0] "可愛天使光環"
+
+#. ~ Description for {'str': 'Cute Angel Halo'}
+#: .\items.json
+msgid "It's not a frisbee ring."
+msgstr "這不是飛盤環。"
+
+#: .\items.json
+msgid "Cute Hardcase"
+msgid_plural "Cute Hardcases"
+msgstr[0] "可愛硬殼箱"
+
+#. ~ Description for {'str': 'Cute Hardcase'}
+#: .\items.json
+msgid ""
+"A huge rectangular hardcase. Normally used for carrying large musical "
+"instruments, guns, or sensitive electrical equipment."
+msgstr "一個巨大的矩形硬殼箱。通常用於攜帶大型樂器、槍支或敏感電子設備。"
+
+#: .\items.json
+msgid "Cute Mini-Hardcase"
+msgid_plural "Cute Mini-Hardcases"
+msgstr[0] "可愛迷你硬殼箱"
+
+#. ~ Description for {'str': 'Cute Mini-Hardcase'}
+#: .\items.json
+msgid "A smaller version of the standard hardcase."
+msgstr "標準硬殼箱的縮小版。"
+
+#: .\items.json
+msgid "Cute Slim Hardcase"
+msgid_plural "Cute Slim Hardcases"
+msgstr[0] "可愛纖薄硬殼箱"
+
+#. ~ Description for {'str': 'Cute Slim Hardcase'}
+#: .\items.json
+msgid "A slimmer version of the hardcase."
+msgstr "硬殼箱的纖薄版本。"
+
+#: .\items.json
+msgid "Cute Angel Wings"
+msgid_plural "Cute Angel Wingss"
+msgstr[0] "可愛天使翅膀"
+
+#. ~ Description for {'str': 'Cute Angel Wings'}
+#: .\items.json
+msgid "Possession is not a big deal if you have the heart of an angel."
+msgstr "只要心懷天使，擁有它並非難事。"
+
+#: .\items.json
+msgid "Cute Garter Purse"
+msgid_plural "Cute Garter Purses"
+msgstr[0] "可愛吊帶襪錢包"
+
+#. ~ Description for {'str': 'Cute Garter Purse'}
+#: .\items.json
+msgid ""
+"A small storage purse that can be consealed beneath a skirt, held up using a"
+" garter band."
+msgstr "一個小型儲物錢包，可藏在裙子下，用吊帶固定。"
+
+#: .\items.json
+msgid "Cute Thick Thigh High Socks"
+msgid_plural "Cute Thick Thigh High Sockss"
+msgstr[0] "可愛厚款過膝襪"
+
+#. ~ Description for {'str': 'Cute Thick Thigh High Socks'}
+#: .\items.json
+msgid ""
+"A pair of frilly thigh high socks. Its thick material keeps the wearer's "
+"legs warm."
+msgstr "一雙帶褶邊的過膝長襪。其厚實材質能保暖腿部。"
+
+#: .\items.json
+msgid "Cute Thin Thigh High Socks"
+msgid_plural "Cute Thin Thigh High Sockss"
+msgstr[0] "可愛薄款過膝襪"
+
+#. ~ Description for {'str': 'Cute Thin Thigh High Socks'}
+#: .\items.json
+msgid ""
+"A pair of frilly thigh high socks. Its thin enough to be slightly "
+"transparent when worn."
+msgstr "一雙帶褶邊的過膝長襪。其材質輕薄，穿著時略顯透明。"
+
+#: .\items.json
+msgid "Cute Black Tights"
+msgid_plural "Cute Black Tightss"
+msgstr[0] "可愛黑色連褲襪"
+
+#. ~ Description for {'str': 'Cute Black Tights'}
+#. ~ Description for {'str': 'Cute White Tights'}
+#: .\items.json
+msgid "A pair of warm tights."
+msgstr "一雙保暖連褲襪。"
+
+#: .\items.json
+msgid "Cute White Tights"
+msgid_plural "Cute White Tightss"
+msgstr[0] "可愛白色連褲襪"
+
+#: .\items.json
+msgid "Cute White Socks"
+msgid_plural "Cute White Sockss"
+msgstr[0] "可愛白色短襪"
+
+#. ~ Description for {'str': 'Cute White Socks'}
+#: .\items.json
+msgid "A pair of white socks normally worn by students."
+msgstr "一雙學生常穿的白色短襪。"
+
+#: .\items.json
+msgid "Cute Garter Belt"
+msgid_plural "Cute Garter Belts"
+msgstr[0] "可愛吊襪帶"
+
+#. ~ Description for {'str': 'Cute Garter Belt'}
+#: .\items.json
+msgid "A black garter belt, designed to be worn with stockings."
+msgstr "黑色吊襪帶，設計用於搭配長筒襪穿著。"
+
+#: .\items.json
+msgid "Cute Dress Shoes"
+msgid_plural "Cute Dress Shoess"
+msgstr[0] "可愛禮服鞋"
+
+#. ~ Description for {'str': 'Cute Dress Shoes'}
+#: .\items.json
+msgid "Leather shoes designed to be worn with a maid uniform."
+msgstr "設計用於搭配女僕裝的皮鞋。"
+
+#: .\items.json
+msgid "Cute Brown Loafers"
+msgid_plural "Cute Brown Loaferss"
+msgstr[0] "可愛棕色樂福鞋"
+
+#. ~ Description for {'str': 'Cute Brown Loafers'}
+#: .\items.json
+msgid "A pair of brown loafers normally worn by students."
+msgstr "一雙學生常穿的棕色樂福鞋。"
+
+#: .\items.json
+msgid "Cute Boots"
+msgid_plural "Cute Bootss"
+msgstr[0] "可愛靴子"
+
+#. ~ Description for {'str': 'Cute Boots'}
+#: .\items.json
+msgid "Leather boots that can be worn with a wide range of outfits."
+msgstr "可搭配多種服裝的皮靴。"
+
+#: .\items.json
+msgid "Cute Maid Heeled Boots"
+msgid_plural "Cute Maid Heeled Bootss"
+msgstr[0] "可愛女僕高跟靴"
+
+#. ~ Description for {'str': 'Cute Maid Heeled Boots'}
+#: .\items.json
+msgid ""
+"Pure white boots that only chosen maids are allowed to wear. They give the "
+"wearer a feeling of majesty."
+msgstr "純白色靴子，僅限被選中的女僕穿著。賦予穿著者威嚴感。"
+
+#: .\items.json
+msgid "Cute Maid Heels"
+msgid_plural "Cute Maid Heelss"
+msgstr[0] "可愛女僕高跟鞋"
+
+#. ~ Description for {'str': 'Cute Maid Heels'}
+#: .\items.json
+msgid ""
+"Pure white heels that only chosen maids are allowed to wear. They give the "
+"wearer a feeling of majesty."
+msgstr "純白色高跟鞋，僅限被選中的女僕穿著。賦予穿著者威嚴感。"
+
+#: .\items.json
+msgid "Cute Fashionable Scarf"
+msgid_plural "Cute Fashionable Scarfs"
+msgstr[0] "可愛時尚圍巾"
+
+#. ~ Use action menu_text for {'str': 'Cute Fashionable Scarf'}.
+#: .\items.json
+msgid "Loosen"
+msgstr "鬆開"
+
+#. ~ Use action msg for {'str': 'Cute Fashionable Scarf'}.
+#: .\items.json
+msgid "You loosen your %s."
+msgstr "你鬆開了你的%s。"
+
+#. ~ Description for {'str': 'Cute Fashionable Scarf'}
+#: .\items.json
+msgid "A scarf with a cute pattern."
+msgstr "一條帶有可愛圖案的圍巾。"
+
+#: .\items.json
+msgid "Cute Fashionable Scarf (loose)"
+msgid_plural "Cute Fashionable Scarf (loose)s"
+msgstr[0] "可愛時尚圍巾（寬鬆）"
+
+#. ~ Use action menu_text for {'str': 'Cute Fashionable Scarf (loose)'}.
+#: .\items.json
+msgid "Wrap tighter"
+msgstr "繫緊些"
+
+#. ~ Use action msg for {'str': 'Cute Fashionable Scarf (loose)'}.
+#: .\items.json
+msgid "You wrap your scarf a bit tighter."
+msgstr "你將圍巾繫緊了些。"
+
+#: .\items.json
+msgid "Cute Maid Gloves"
+msgid_plural "Cute Maid Glovess"
+msgstr[0] "可愛女僕手套"
+
+#. ~ Description for {'str': 'Cute Maid Gloves'}
+#: .\items.json
+msgid "A pair of gloves modestly decorated with lace."
+msgstr "一雙以蕾絲適度裝飾的手套。"
+
+#: .\martialarts.json
+msgid "Eskrima"
+msgstr "埃斯克rima"
+
+#: .\martialarts.json
+msgid "Fencing"
+msgstr "擊劍術"
+
+#: .\martialarts.json
+msgid "Krav Maga"
+msgstr "以色列格鬥術"
+
+#: .\martialarts.json
+msgid "Medieval Swordsmanship"
+msgstr "中世紀劍術"
+
+#: .\martialarts.json
+msgid "Ninjutsu"
+msgstr "忍術"
+
+#: .\martialarts.json
+msgid "Niten Ichi-Ryu"
+msgstr "二天一流"
+
+#: .\martialarts.json
+msgid "Silat"
+msgstr "席拉特"
+
+#: .\martialarts.json
+msgid "Fior Di Battaglia"
+msgstr "戰鬥之花"
+
+#: .\martialarts.json
+msgid "Sojutsu"
+msgstr "槍術"
+
+#: .\materials.json
+msgid "A&M Tempered Carbon Glass"
+msgstr "A&M 回火碳玻璃"
+
+#: .\materials.json
+msgid "dented"
+msgstr "凹陷"
+
+#: .\materials.json
+msgid "scratched"
+msgstr "刮痕"
+
+#: .\materials.json
+msgid "marked"
+msgstr "標記"
+
+#: .\materials.json
+msgid "smashed"
+msgstr "粉碎"
+
+#: .\materials.json
+msgid "shattered"
+msgstr "破碎"
+
+#: .\materials.json
+msgid "A&M Alloy"
+msgstr "A&M合金"
+
+#: .\materials.json
+msgid "A&M Plastic"
+msgstr "A&M塑料"
+
+#: .\materials.json
+msgid "gouged"
+msgstr "鑿痕"
+
+#: .\materials.json
+msgid "cut"
+msgstr "割破"
+
+#: .\materials.json
+msgid "cracked"
+msgstr "破解版"
+
+#: .\modinfo.json
+msgid "ProjectKawaii"
+msgstr "ProjectKawaii"
+
+#. ~ Description for ProjectKawaii
+#: .\modinfo.json
+msgid ""
+"This mod includes Kawaii high-tech transformable melee weapons, a remotely-"
+"accessable store via crafting, and of course, cute outfits for maids."
+msgstr "本模組包含可愛的高科技變形近戰武器、可通過製作遠程訪問的商店，當然還有女僕的可愛服裝。"
+
+#: .\override.json
+msgid "arc welder"
+msgid_plural "arc welders"
+msgstr[0] "電弧焊機"
+
+#: .\tool_qualities.json
+msgid "AMTS Receiver"
+msgstr "AMTS接收器"
+
+#: .\tool_qualities.json
+msgid "AMTS Transmitter"
+msgstr "AMTS發射器"
+
+#: .\weapon.json
+msgid "Cute Improvised Bow"
+msgid_plural "Cute Improvised Bows"
+msgstr[0] "可愛臨時弓"
+
+#: .\weapon.json
+msgid ""
+"A hand-made bow made that has been very carefully decorated and painted. "
+"It's more a costume accessory than a deadly weapon."
+msgstr "一把手工製作的弓，經過精心裝飾和塗裝。它更像是一件服裝配飾，而非致命武器。"
+
+#: .\weapon.json
+msgid "Cute Custom Bow Mk1"
+msgid_plural "Cute Custom Bow Mk1s"
+msgstr[0] "可愛定製弓 Mk1"
+
+#: .\weapon.json
+msgid ""
+"A handcrafted bow assembled with an experienced hand, from scavenged "
+"materials."
+msgstr "一把由經驗豐富的手藝人用拾荒材料組裝而成的手工弓。"
+
+#: .\weapon.json
+msgid "Cute Custom Bow Mk2"
+msgid_plural "Cute Custom Bow Mk2s"
+msgstr[0] "可愛定製弓 Mk2"
+
+#: .\weapon.json
+msgid ""
+"It is an improved version of the Cutie Custom Bow Mk1. The performance "
+"improved greatly by reinforcing the frame with steel, but consequently is "
+"larger and heavier than its predecessor"
+msgstr "這是可愛定製弓 Mk1 的改進版。通過用鋼材加固框架，性能大幅提升，但因此比前代更大更重。"
+
+#: .\weapon.json
+msgid "Cute Custom Bow Mk3"
+msgid_plural "Cute Custom Bow Mk3s"
+msgstr[0] "可愛定製弓 Mk3"
+
+#: .\weapon.json
+msgid ""
+"It is an improved version of the Cutie Custom Bow Mk2. The frame has been "
+"made even larger and reinforced with higher quality materials than its "
+"predecessor. Consequently, it is an excellent bow that looks like it was "
+"made by a master craftsman."
+msgstr "這是可愛定製弓 Mk2 的改進版。框架變得更大，並用更高質量的材料加固。因此，它是一把看起來像由大師工匠製作的優秀弓。"
+
+#: .\weapon.json
+msgid "Cute Shieldbow"
+msgid_plural "Cute Shieldbows"
+msgstr[0] "可愛盾弓"
+
+#: .\weapon.json
+msgid ""
+"This is a very heavy bow with a sharp steel spike protruding from the front."
+" It's much harder to shoot accurately, but can endure close combat much "
+"better than regular bows."
+msgstr "這是一把非常重的弓，前端伸出鋒利的鋼刺。它更難精準射擊，但比普通弓更能承受近戰。"
+
+#: .\weapon.json
+msgid "Cute Shelia (blade form)"
+msgid_plural "Cute Shelia (blade form)s"
+msgstr[0] "可愛希莉婭（刀刃形態）"
+
+#. ~ Use action menu_text for {'str': 'Cute Shelia (blade form)'}.
+#: .\weapon.json
+msgid "Transform weapon"
+msgstr "變形武器"
+
+#. ~ Use action msg for {'str': 'Cute Shelia (blade form)'}.
+#: .\weapon.json
+msgid "The Shelia expands into its bow form."
+msgstr "希莉婭展開為弓形態。"
+
+#. ~ Description for {'str': 'Cute Shelia (blade form)'}
+#: .\weapon.json
+msgid ""
+"This device is a complex transforming weapon capable of becoming either a "
+"bladed melee weapon, or a powerful bow. This is the first release in the "
+"[Cute Combat] series of of stylish protective equipment by the world's "
+"leading maid fashion brand Alice & Maria. The weapon itself proved to be "
+"quite desirable, as it could transform for engaging foes at both long range "
+"and in close combat. However, it ended up earning the nickname 'Nighmarish "
+"Shelia' due to its overly complex design making it too expensive for the "
+"mass market, and bankrupting its designer."
+msgstr ""
+"該裝置是一種複雜的變形武器，既能變為刀刃近戰武器，也能變為強力弓。這是世界領先的女僕時尚品牌愛麗絲與瑪麗亞推出的時尚防護裝備系列【可愛戰鬥】的首款產品。該武器本身被證明相當受歡迎，因為它能變形以應對遠程和近戰的敵人。然而，由於其設計過於複雜，導致大規模生產成本過高，並使設計師破產，最終贏得了“噩夢希莉婭”的綽號。"
+
+#: .\weapon.json
+msgid "Cute Shelia (bow form)"
+msgid_plural "Cute Shelia (bow form)s"
+msgstr[0] "可愛希莉婭（弓形態）"
+
+#: .\weapon.json
+msgid "Cute Lelia"
+msgid_plural "Cute Lelias"
+msgstr[0] "可愛蕾莉婭"
+
+#: .\weapon.json
+msgid ""
+"An elegant bow decorated with angelic feathers at each end, and possessing a"
+" strong metal handguard. This is the second product in the series of "
+"fashionable self-defense tools [Cute Combat] series revealed by the world's "
+"leading maid fashion brand Alice & Maria. The material used for the metal "
+"plate was announced at the same time as the same product, it was expected to"
+" be a next generation alloy that possesses flexibility and durability "
+"despite being very light, but it was too expensive to mass produce. "
+"Consequently this weapon only sold a limited number."
+msgstr ""
+"一把優雅的弓，兩端裝飾有天使羽毛，並配有堅固的金屬護手。這是世界領先的女僕時尚品牌愛麗絲與瑪麗亞推出的時尚自衛工具系列【可愛戰鬥】的第二款產品。用於金屬板的材料與產品同時公佈，它被期望成為一種兼具柔韌性和耐用性的輕質下一代合金，但大規模生產成本過高。因此，該武器僅限量銷售。"
+
+#: .\weapon.json
+msgid "Cute Daikyu"
+msgid_plural "Cute Daikyus"
+msgstr[0] "可愛大弓"
+
+#: .\weapon.json
+msgid ""
+"The daikyu is the traditional Japanese equivalent of the longbow. It's a "
+"complex weapon to master, but has enough power to penetrate even the "
+"heaviest armor."
+msgstr "大弓是日本傳統的長弓。它是一種難以掌握的複雜武器，但擁有足以穿透最重裝甲的威力。"
+
+#: .\weapon.json
+msgid "Cute Glass Bow"
+msgid_plural "Cute Glass Bows"
+msgstr[0] "可愛玻璃弓"
+
+#: .\weapon.json
+msgid ""
+"A heavy translucent glass bow, made possible due to the integration of "
+"carbom nanotubes into its structure."
+msgstr "一把沉重的半透明玻璃弓，通過在其結構中集成碳納米管得以實現。"
+
+#: .\weapon.json
+msgid "Cute Rita and Rosa (defence mode)"
+msgid_plural "Cute Rita and Rosa (defence mode)s"
+msgstr[0] "可愛麗塔與羅莎（防禦模式）"
+
+#. ~ Use action menu_text for {'str': 'Cute Rita and Rosa (defence mode)'}.
+#: .\weapon.json
+msgid "Switch to attack mode"
+msgstr "切換至攻擊模式"
+
+#. ~ Use action msg for {'str': 'Cute Rita and Rosa (defence mode)'}.
+#: .\weapon.json
+msgid "You store Rosa and focus on attack"
+msgstr "你收起羅莎，專注於攻擊"
+
+#. ~ Description for {'str': 'Cute Rita and Rosa (defence mode)'}
+#. ~ Description for {'str': 'Cute Rita and Rosa (attack mode)'}
+#: .\weapon.json
+msgid ""
+"A matching set of sword and shield by the world's leading maid fashion brand"
+" Alice & Maria, made out of a proprietary advanced alloy. The blade 'Rita' "
+"is long enough to allow strikes with extended reach, yet still remaining "
+"light enough to wield one-handed. The shield 'Rosa' is similarly very strong"
+" yet light, granding defence on par with steel but being light enough to not"
+" encumber movement."
+msgstr ""
+"由世界領先的女僕時尚品牌愛麗絲與瑪麗亞出品的一套匹配的劍與盾，採用專利先進合金製成。劍刃'麗塔'長度足以進行遠距離打擊，同時仍保持輕便，可單手揮舞。盾牌'羅莎'同樣非常堅固且輕巧，提供與鋼鐵相媲美的防禦力，但輕到不會妨礙移動。"
+
+#: .\weapon.json
+msgid "Cute Rita and Rosa (attack mode)"
+msgid_plural "Cute Rita and Rosa (attack mode)s"
+msgstr[0] "可愛麗塔與羅莎（攻擊模式）"
+
+#. ~ Use action menu_text for {'str': 'Cute Rita and Rosa (attack mode)'}.
+#: .\weapon.json
+msgid "Switch to defence mode"
+msgstr "切換至防禦模式"
+
+#. ~ Use action msg for {'str': 'Cute Rita and Rosa (attack mode)'}.
+#: .\weapon.json
+msgid "You equip Rosa and concentrate on defence"
+msgstr "你裝備羅莎並專注於防禦"
+
+#: .\weapon.json
+msgid "Cute Twin Crystals (paired blades form)"
+msgid_plural "Cute Twin Crystals (paired blades form)s"
+msgstr[0] "可愛雙晶（雙劍形態）"
+
+#. ~ Use action menu_text for {'str': 'Cute Twin Crystals (paired blades
+#. form)'}.
+#: .\weapon.json
+msgid "Switch to polearm form"
+msgstr "切換至長柄武器形態"
+
+#. ~ Use action msg for {'str': 'Cute Twin Crystals (paired blades form)'}.
+#: .\weapon.json
+msgid "You attach the two blades together to form a single polearm."
+msgstr "你將兩把劍刃連接在一起，形成一柄長柄武器。"
+
+#. ~ Description for {'str': 'Cute Twin Crystals (paired blades form)'}
+#: .\weapon.json
+msgid ""
+"It is a pair of short swords that are beautifully transparency and glossy"
+msgstr "這是一對晶瑩剔透、光澤亮麗的短劍。"
+
+#: .\weapon.json
+msgid "Cute Twin Crystals (polearm form)"
+msgid_plural "Cute Twin Crystals (polearm form)s"
+msgstr[0] "可愛雙晶（長柄武器形態）"
+
+#. ~ Use action menu_text for {'str': 'Cute Twin Crystals (polearm form)'}.
+#: .\weapon.json
+msgid "Switch to twin blade form"
+msgstr "切換至雙劍形態"
+
+#. ~ Use action msg for {'str': 'Cute Twin Crystals (polearm form)'}.
+#: .\weapon.json
+msgid "You seperate the polarm into two blades"
+msgstr "你將長柄武器拆分為兩把劍刃。"
+
+#. ~ Description for {'str': 'Cute Twin Crystals (polearm form)'}
+#: .\weapon.json
+msgid ""
+"A two-ended polearm composed of beautifully crystalline swords attached "
+"together at the hilt."
+msgstr "一柄雙頭長柄武器，由美麗的晶化劍刃在劍柄處連接而成。"
+
+#: .\weapon.json
+msgid "Cute Twin Crystals Prototype"
+msgid_plural "Cute Twin Crystals Prototypes"
+msgstr[0] "可愛雙晶原型"
+
+#. ~ Description for {'str': 'Cute Twin Crystals Prototype'}
+#: .\weapon.json
+msgid ""
+"A beautiful two-ended polearm with beautiful crystalline blades... though it"
+" seems pretty fragile."
+msgstr "一柄美麗的雙頭長柄武器，配有美麗的晶化劍刃……不過看起來相當脆弱。"
+
+#: .\weapon.json
+msgid "Cute Custom Spear (Ver.1)"
+msgid_plural "Cute Custom Spear (Ver.1)s"
+msgstr[0] "可愛定製長矛（版本1）"
+
+#. ~ Description for {'str': 'Cute Custom Spear (Ver.1)'}
+#: .\weapon.json
+msgid ""
+"A rusty spear made from a piece of steel. Despite being cheap, it still "
+"allows you to keep your distance from the undead."
+msgstr "一把由鋼材製成的生鏽長矛。儘管廉價，它仍能讓你與不死生物保持距離。"
+
+#: .\weapon.json
+msgid "Cute Custom Spear (Ver.2)"
+msgid_plural "Cute Custom Spear (Ver.2)s"
+msgstr[0] "可愛定製長矛（版本2）"
+
+#. ~ Description for {'str': 'Cute Custom Spear (Ver.2)'}
+#: .\weapon.json
+msgid ""
+"An improved version of the Custom Spear (Ver.1). A practical, easy to use "
+"weapon, the rust has been removed with a piece of glass and careful "
+"polishing. In addition, the grip has been reinforced for increased "
+"durability."
+msgstr "定製長矛（版本1）的改進版。一把實用、易用的武器，鏽跡已用玻璃片仔細打磨去除。此外，握柄經過加固以增加耐久度。"
+
+#: .\weapon.json
+msgid "Cute Custom Spear(Ver.3)"
+msgid_plural "Cute Custom Spear(Ver.3)s"
+msgstr[0] "可愛定製長矛（版本3）"
+
+#. ~ Description for {'str': 'Cute Custom Spear(Ver.3)'}
+#: .\weapon.json
+msgid ""
+"An improved version of the Custom Spear (Ver.2). The tip has been further "
+"sharpened and reinforced, increasing its range and killing ability. An "
+"improved hand guard allows for greater effectiveness at close-range. A blue "
+"ribbon has been attached to it."
+msgstr "定製長矛（版本2）的改進版。矛尖經過進一步銳化和加固，增加了攻擊範圍和殺傷力。改進的護手使其在近戰時更有效。上面繫有一條藍色絲帶。"
+
+#: .\weapon.json
+msgid "Cute Kitchen Knives"
+msgid_plural "Cute Kitchen Knivess"
+msgstr[0] "可愛廚房刀"
+
+#. ~ Description for {'str': 'Cute Kitchen Knives'}
+#: .\weapon.json
+msgid ""
+"Rather than a knife and fork set, this a pair of knives. It may not be "
+"proper etiquette at the table, but it's proper etiquette in combat."
+msgstr "這不是一套刀叉，而是一對刀。在餐桌上可能不合禮儀，但在戰鬥中卻是得體的規矩。"
+
+#: .\weapon.json
+msgid "Cute Improvised Short Sword"
+msgid_plural "Cute Improvised Short Swords"
+msgstr[0] "可愛臨時短劍"
+
+#. ~ Description for {'str': 'Cute Improvised Short Sword'}
+#: .\weapon.json
+msgid ""
+"A quality handmade short sword. Probably the best that could be done without"
+" proper smithing tools."
+msgstr "一把優質的手工短劍。在沒有適當鍛造工具的情況下，這可能是能做到的最好作品。"
+
+#: .\weapon.json
+msgid "Cute Barlance"
+msgid_plural "Cute Barlances"
+msgstr[0] "可愛撬棍長槍"
+
+#. ~ Description for {'str': 'Cute Barlance'}
+#: .\weapon.json
+msgid ""
+"A lance composed of multiple crowbars made of Alice and Maria's proprietary "
+"advanced alloy. Crude, but functional."
+msgstr "一柄由多根愛麗絲與瑪麗亞專利先進合金製成的撬棍組成的長槍。粗糙，但實用。"
+
+#: .\cc\hairs.json
+msgid "Cute Blonde Hair"
+msgstr "可愛金髮"
+
+#. ~ Description for {'str': 'Cute Blonde Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) blonde."
+msgstr "你的天然髮色是（或曾是）金色。"
+
+#: .\cc\hairs.json
+msgid "Cute Red Hair"
+msgstr "可愛紅髮"
+
+#. ~ Description for {'str': 'Cute Red Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) red."
+msgstr "你的天然髮色是（或曾是）紅色。"
+
+#: .\cc\hairs.json
+msgid "Cute Brown Hair"
+msgstr "可愛棕色頭髮"
+
+#. ~ Description for {'str': 'Cute Brown Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) brown."
+msgstr "你的天然髮色是（或曾是）棕色。"
+
+#: .\cc\hairs.json
+msgid "Cute Black Hair"
+msgstr "可愛黑色頭髮"
+
+#. ~ Description for {'str': 'Cute Black Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) black."
+msgstr "你的天然髮色是（或曾是）黑色。"
+
+#: .\cc\hairs.json
+msgid "Cute White Hair"
+msgstr "可愛白色頭髮"
+
+#. ~ Description for {'str': 'Cute White Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) white."
+msgstr "你的天然髮色是（或曾是）白色。"
+
+#: .\cc\hairs.json
+msgid "Cute Grey Hair"
+msgstr "可愛灰色頭髮"
+
+#. ~ Description for {'str': 'Cute Grey Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) grey."
+msgstr "你的天然髮色是（或曾是）灰色。"
+
+#: .\cc\hairs.json
+msgid "Cute Pink Hair"
+msgstr "可愛粉色頭髮"
+
+#. ~ Description for {'str': 'Cute Pink Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) pink."
+msgstr "你的天然髮色是（或曾是）粉色。"
+
+#: .\cc\hairs.json
+msgid "Cute Orange Hair"
+msgstr "可愛橙色頭髮"
+
+#. ~ Description for {'str': 'Cute Orange Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) orange."
+msgstr "你的天然髮色是（或曾是）橙色。"
+
+#: .\cc\hairs.json
+msgid "Cute Blue Hair"
+msgstr "可愛藍色頭髮"
+
+#. ~ Description for {'str': 'Cute Blue Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) blue."
+msgstr "你的天然髮色是（或曾是）藍色。"
+
+#: .\cc\hairs.json
+msgid "Cute Green Hair"
+msgstr "可愛綠色頭髮"
+
+#. ~ Description for {'str': 'Cute Green Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) green."
+msgstr "你的天然髮色是（或曾是）綠色。"
+
+#: .\cc\hairs.json
+msgid "Cute Aqua Hair"
+msgstr "可愛水色頭髮"
+
+#. ~ Description for {'str': 'Cute Aqua Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) aqua."
+msgstr "你的天然髮色是（或曾是）水色。"
+
+#: .\cc\hairs.json
+msgid "Cute Purple Hair"
+msgstr "可愛紫色頭髮"
+
+#. ~ Description for {'str': 'Cute Purple Hair'}
+#: .\cc\hairs.json
+msgid "Your natural hair color is (or was) purple."
+msgstr "你的天然髮色是（或曾是）紫色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright blue eyes"
+msgstr "可愛亮藍色眼睛"
+
+#. ~ Description for {'str': 'Cute bright blue eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright blue. "
+msgstr "你的天然眼睛顏色是亮藍色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark blue eyes"
+msgstr "可愛深藍色眼睛"
+
+#. ~ Description for {'str': 'Cute dark blue eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark blue. "
+msgstr "你的天然眼睛顏色是深藍色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright brown eyes"
+msgstr "可愛亮棕色眼睛"
+
+#. ~ Description for {'str': 'Cute bright brown eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright brown."
+msgstr "你的天然眼睛顏色是亮棕色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark brown eyes"
+msgstr "可愛深棕色眼睛"
+
+#. ~ Description for {'str': 'Cute dark brown eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark brown."
+msgstr "你的天然眼睛顏色是深棕色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright gray eyes"
+msgstr "可愛亮灰色眼睛"
+
+#. ~ Description for {'str': 'Cute bright gray eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright gray."
+msgstr "你的天生瞳色是亮灰色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark gray eyes"
+msgstr "可愛的深灰色眼睛"
+
+#. ~ Description for {'str': 'Cute dark gray eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark gray."
+msgstr "你的天生瞳色是深灰色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright red eyes"
+msgstr "可愛的亮紅色眼睛"
+
+#. ~ Description for {'str': 'Cute bright red eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright red."
+msgstr "你的天生瞳色是亮紅色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark red eyes"
+msgstr "可愛的深紅色眼睛"
+
+#. ~ Description for {'str': 'Cute dark red eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark red."
+msgstr "你的天生瞳色是深紅色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright green eyes"
+msgstr "可愛的亮綠色眼睛"
+
+#. ~ Description for {'str': 'Cute bright green eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright green."
+msgstr "你的天生瞳色是亮綠色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark green eyes"
+msgstr "可愛的深綠色眼睛"
+
+#. ~ Description for {'str': 'Cute dark green eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark green."
+msgstr "你的天生瞳色是深綠色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright yellow eyes"
+msgstr "可愛的亮黃色眼睛"
+
+#. ~ Description for {'str': 'Cute bright yellow eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright yellow."
+msgstr "你的天生瞳色是亮黃色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark yellow eyes"
+msgstr "可愛的深黃色眼睛"
+
+#. ~ Description for {'str': 'Cute dark yellow eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark yellow."
+msgstr "你的天生瞳色是深黃色。"
+
+#: .\cc\mutations.json
+msgid "Cute bright purple eyes"
+msgstr "可愛的亮紫色眼睛"
+
+#. ~ Description for {'str': 'Cute bright purple eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a bright purple."
+msgstr "你的天生瞳色是亮紫色。"
+
+#: .\cc\mutations.json
+msgid "Cute dark purple eyes"
+msgstr "可愛的深紫色眼睛"
+
+#. ~ Description for {'str': 'Cute dark purple eyes'}
+#: .\cc\mutations.json
+msgid "Your natural eye color is a dark purple."
+msgstr "你的天生瞳色是深紫色。"
+
+#: .\cc\mutations.json
+msgid "Cute pale skin"
+msgstr "可愛的白皙皮膚"
+
+#. ~ Description for {'str': 'Cute pale skin'}
+#. ~ Description for {'str': 'Cute lightale skin'}
+#. ~ Description for {'str': 'Cute medium skin'}
+#. ~ Description for {'str': 'Cute tan skin'}
+#. ~ Description for {'str': 'Cute dark skin'}
+#. ~ Description for {'str': 'Cute pink skin'}
+#: .\cc\mutations.json
+msgid "Your natural skin color is (or was) rather pale."
+msgstr "你的天生膚色是（或曾是）相當白皙的。"
+
+#: .\cc\mutations.json
+msgid "Cute lightale skin"
+msgstr "可愛的淺色皮膚"
+
+#: .\cc\mutations.json
+msgid "Cute medium skin"
+msgstr "可愛的中等膚色"
+
+#: .\cc\mutations.json
+msgid "Cute tan skin"
+msgstr "可愛的小麥色皮膚"
+
+#: .\cc\mutations.json
+msgid "Cute dark skin"
+msgstr "可愛的深色皮膚"
+
+#: .\cc\mutations.json
+msgid "Cute pink skin"
+msgstr "可愛的粉色皮膚"
