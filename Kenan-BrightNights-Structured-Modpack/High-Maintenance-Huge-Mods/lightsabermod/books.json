@@ -7,6 +7,20 @@
 		]
 	},
 	{
+		"type": "item_group",
+		"id": "rare",
+		"items": [
+			[ "textbook_beamsword", 5 ]
+		]
+	},
+	{
+		"type": "item_group",
+		"id": "military",
+		"items": [
+			[ "textbook_beamsword", 5 ]
+		]
+	},
+	{
 		"id": "textbook_beamsword",
 		"type": "BOOK",
 		"name": { "str": "Portal Shard Combat Applications", "str_pl": "Portal Shard Combat Applications" },
