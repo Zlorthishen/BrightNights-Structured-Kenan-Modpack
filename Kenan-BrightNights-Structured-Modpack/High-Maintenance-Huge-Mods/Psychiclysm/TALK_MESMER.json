@@ -663,24 +663,6 @@
         "topic": "TALK_MESMER_DUEL_2c"
       },
       {
-        "text": "[vs SQUEAMISH] * Take advantage of your opponent's neurosis to gain one contact.  This will cause you psychic feedback.",
-        "condition": {
-          "and": [
-            { "not": { "u_has_var": "psyduel_bonus_contact", "type": "general", "context": "mesmer", "value": "true" } },
-            { "npc_has_var": "psyduel_contact", "type": "general", "context": "mesmer", "value": "1" },
-            { "u_has_var": "psyduel_contact", "type": "general", "context": "mesmer", "value": "0" },
-            { "npc_has_trait": "SQUEAMISH" },
-            { "not": { "u_has_trait": "SQUEAMISH" } }
-          ]
-        },
-        "effect": [
-          { "u_add_effect": "psychic_feedback", "duration": 36 },
-          { "u_add_var": "psyduel_bonus_contact", "type": "general", "context": "mesmer", "value": "true" },
-          { "u_add_var": "psyduel_contact", "type": "general", "context": "mesmer", "value": "1" }
-        ],
-        "topic": "TALK_MESMER_DUEL_1c"
-      },
-      {
         "text": "[SPIRITUAL] * Rely on your spirituality to remove one of your opponent's contacts.  This will also summon dark beings from your subconscious mind.",
         "condition": {
           "and": [
